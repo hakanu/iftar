@@ -102,14 +102,15 @@
 <fb:login-button scope="public_profile,email" onlogin="loginWithFirebase();">
 </fb:login-button>
 
+<script src="/js/firebase.js"></script>
 <script type="text/javascript">
   function loginWithFirebase() {
     var ref = new Firebase("https://blistering-fire-9964.firebaseio.com");
-    ref.authWithOAuthPopup("facebook", function(error, authData) {
+    ref.authWithOAuthRedirect("facebook", function(error) {
       if (error) {
         console.log("Login Failed!", error);
       } else {
-        console.log("Authenticated successfully with payload:", authData);
+        // We'll never get here, as the page will redirect on success.
       }
     });
   }
