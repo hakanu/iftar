@@ -1,14 +1,19 @@
-// jQuery( document ).ready(function( $ ) {
-//   // Put stuff here.
-//   console.log("  _____            _             _       ");
-//   console.log(" |  __ \          | |           (_)      ");
-//   console.log(" | |__) |_ _ _   _| | __ _ ___   _  ___  ");
-//   console.log(" |  ___/ _` | | | | |/ _` / __| | |/ _ \ ");
-//   console.log(" | |  | (_| | |_| | | (_| \__ \_| | (_) |");
-//   console.log(" |_|   \__,_|\__, |_|\__,_|___(_)_|\___/ ");
-//   console.log("              __/ |                      ");
-//   console.log("             |___/                       ");
-// });
+var clock = $('.your-clock').FlipClock({
+  // ... your options here
+  countdown: true
+});
+
+jQuery( document ).ready(function( $ ) {
+  console.log('   ____                     __              __    __     ');
+  console.log('  / __ \_______  _______   / /_  __  ______/ /___/ /_  __');
+  console.log(' / / / / ___/ / / / ___/  / __ \/ / / / __  / __  / / / /');
+  console.log('/ /_/ / /  / /_/ / /__   / /_/ / /_/ / /_/ / /_/ / /_/ / ');
+  console.log('\____/_/   \__,_/\___/  /_.___/\__,_/\__,_/\__,_/\__, /  ');
+  console.log('                 /_)                            /____/   ');
+  if(window.location.href.indexOf('iftar') == -1) {
+    getLocation();
+  }
+});
 
 String.prototype.supplant = function (o) {
     return this.replace(/{([^{}]*)}/g,
@@ -79,10 +84,6 @@ function showPosition(position) {
   xhr.send();
 }
 
-if(window.location.href.indexOf('iftar') == -1) {
-  getLocation();
-}
-
 function getIftarTime(country, city) {
   console.log('Getting iftar time for ' + country + ' city: ' + city);
   var xhr = new XMLHttpRequest();
@@ -104,11 +105,6 @@ function getIftarTime(country, city) {
   };
   xhr.send();   
 }
-
-var clock = $('.your-clock').FlipClock({
-// ... your options here
-  countdown: true
-});
 
 function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes) {
   console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
