@@ -28,7 +28,7 @@ var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and 
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'
                        + '&format=json&diagnostics=false&callback=';
-var firebaseUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/{country}/cities/{city}/prayer_time.json';
+var firebaseUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/{date}/{country}/cities/{city}/prayer_time.json';
 
 function createCORSRequest(method, url) {
   var xhr = new XMLHttpRequest();
@@ -79,7 +79,9 @@ function showPosition(position) {
     var country = response.query.results.Result.country;
     console.log('city: ' + city);
     console.log('country: ' + country);
-    getIftarTime(country, city);
+    var trCountry = countryNamesMapping[country.toUpperCase()];
+    console.log('Turkish country: ' + trCountry);
+    getIftarTime(trCountry, city);
   };
   xhr.send();
 }
@@ -88,8 +90,8 @@ function getIftarTime(country, city) {
   console.log('Getting iftar time for ' + country + ' city: ' + city);
   var xhr = new XMLHttpRequest();
   // Example url change it with country city representation.
-  //var iftarUrl = firebaseUrl.supplant({'country': country, 'city': city});
-  var iftarUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/T%C3%9CRK%C4%B0YE/cities/0/prayer_time.json';
+  var iftarUrl = firebaseUrl.supplant({'date': '150528', 'country': country.toUpperCase(), 'city': city.toUpperCase()});
+  //var iftarUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/T%C3%9CRK%C4%B0YE/cities/0/prayer_time.json';
   xhr.open("GET", iftarUrl, true);
   xhr.onload = function() {
     console.log(xhr.responseText);
