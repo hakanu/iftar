@@ -10,9 +10,7 @@ jQuery( document ).ready(function( $ ) {
   console.log('/ /_/ / /  / /_/ / /__   / /_/ / /_/ / /_/ / /_/ / /_/ / ');
   console.log('\____/_/   \__,_/\___/  /_.___/\__,_/\__,_/\__,_/\__, /  ');
   console.log('                 /_)                            /____/   ');
-  if(window.location.href.indexOf('iftar') == -1 &&
-     (window.location.href.indexOf('iftarvakitleri') != -1 ||
-      window.location.href.indexOf('localhost:') != -1)) {
+  if(window.location.href.indexOf('/iftar/') == -1) {
     getLocation();
   }
 });
