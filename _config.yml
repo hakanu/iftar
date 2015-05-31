@@ -4,11 +4,12 @@
 
 baseurl: ""
 url: "http://iftarvakitleri.org" # the base hostname & protocol for your site
-title: Bulunduğunuz yerde iftara ne kadar kaldı?
+title: Okundu mu?
 email: info@iftarvakitleri.org
 author: Your Name
-description: > # iftar vakitleri, namaz vakitleri, sehirler, ankara, istanbul,
-  iftar 2015, ramazan.
+description: > # iftara ne kadar kaldı? Ezan ve namaz vakitleri, iftar vakitleri,
+  namaz vakitleri, sehirler, ankara, istanbul, iftar 2015, ramazan,
+  uluslararası namaz ve iftar zamanları.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
