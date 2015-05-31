@@ -1,0 +1,13 @@
+---
+layout: single_ulke
+img: ulkeler.jpg
+category: ulke
+title: Şehir seç - Türkiye
+description: asdadas
+---
+
+* [Türkiye](/turkiye)
+* [Amerika](/amerika)
+* [İrlanda](/irlanda)
+* [İngiltere](/ingiltere)
+* [Polonya](/polonya)

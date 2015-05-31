@@ -17,7 +17,8 @@ description: > # iftara ne kadar kaldı? Ezan ve namaz vakitleri, iftar vakitler
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+# permalink: pretty
+permalink: "/:categories/:title"
 
 # ----------------------- #
 #   3rd Party Settings    #
