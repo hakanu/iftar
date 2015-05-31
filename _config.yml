@@ -31,3 +31,6 @@ social:
     url: https://facebook.com/orucbuddy
   - title: mail
     url: mailto:info@iftarvakitleri.org
+
+gems:
+  - jekyll-sitemap
