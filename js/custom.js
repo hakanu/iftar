@@ -13,7 +13,8 @@ jQuery( document ).ready(function( $ ) {
   var currentUrl = window.location.href;
   if(currentUrl.indexOf('/iftar/') == -1 &&
      currentUrl.indexOf('/iftar.html') == -1 &&
-     currentUrl.indexOf('/ulkeler.html') == -1) {
+     currentUrl.indexOf('/ulkeler.html') == -1 &&
+     currentUrl.indexOf('/bilgi/') == -1) {
     $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
     getLocation();
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
@@ -21,11 +22,24 @@ jQuery( document ).ready(function( $ ) {
     console.log('not getting the location because url is ' + currentUrl);
     console.log('get url parameters: ' + JSON.stringify(getJsonFromUrl(currentUrl)));
     var params = getJsonFromUrl(currentUrl);
-    if (params['ulke'] && params['sehir']) {
+    if (params && params['ulke'] && params['sehir']) {
       getIftarTime(params['ulke'], params['sehir']);
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+    } else {
+      console.log('Wrong url params');
     }
   }
+
+  if ($('#span-ramazan-days-left')) {
+    var ramazanDaysLeft = parseInt(
+        (new Date(RAMAZAN_DATE_) - new Date()) / 1000 / 3600 / 24);
+    $('#span-ramazan-days-left')[0].innerHTML = ramazanDaysLeft;
+  }
+
+  if (currentUrl.indexOf('/bilgi/') != -1) {
+    console.log('Bilgi page');    
+  }
+
 });
 
 String.prototype.supplant = function (o) {
@@ -50,7 +64,7 @@ function getJsonFromUrl() {
   });
   return result;
 }
-
+var RAMAZAN_DATE_ = '2015-06-15';
 var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'
