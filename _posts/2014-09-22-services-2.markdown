@@ -1,0 +1,16 @@
+---
+layout: default
+img: sehirler.jpg
+category: Services
+title: Şehirler
+description: |
+---
+* [Ankara](/ankara)
+* [İstanbul](/istanbul)
+* [İzmir](/izmir)
+* [Londra](/londra)
+* [Krakow](/krakow)
+* [Dublin](/dublin)
+* [Samsun](/samsun)
+* [Adana](/adana)
+* [Giresun](/giresun)

@@ -11,6 +11,7 @@ jQuery( document ).ready(function( $ ) {
   console.log('\____/_/   \__,_/\___/  /_.___/\__,_/\__,_/\__,_/\__, /  ');
   console.log('                 /_)                            /____/   ');
   if(window.location.href.indexOf('/iftar/') == -1) {
+    $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...'
     getLocation();
   }
 });
@@ -102,13 +103,31 @@ function getIftarTime(country, city) {
     var sahurHours = response.Imsak.split(':')[0];
     var sahurMinutes = response.Imsak.split(':')[1];
 
+    var imsak = response.Imsak;
+    var gunes = response.Gunes;
+    var ogle = response.Ogle;
+    var ikindi = response.Ikindi;
+    var aksam = response.Aksam
+    var yatsi = response.Yatsi;
+
     console.log('Setting timer now...');
-    setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes);
+    setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
+    setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
   };
   xhr.send();   
 }
 
-function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes) {
+function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi) {
+  $('#p-imsak')[0].innerHTML = imsak;
+  $('#p-gunes')[0].innerHTML = gunes;
+  $('#p-ogle')[0].innerHTML = ogle;
+  $('#p-ikindi')[0].innerHTML = ikindi;
+  $('#p-aksam')[0].innerHTML = aksam;
+  $('#p-yatsi')[0].innerHTML = yatsi;
+}
+
+function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
+                  country) {
   console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
   console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
 
@@ -142,4 +161,5 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes) {
   }
 
   clock.start();
+  $('.subtitle')[0].innerHTML = city + ' (' + country + ') için iftar vakti';
 }

@@ -1,14 +1,31 @@
-# Site settings
-title: Bulunduğunuz yerde iftara ne kadar kaldı?
-email: info@iftarvakitleri.org
-description: > # iftar vakitleri, namaz vakitleri, sehirler, ankara, istanbul,
-  iftar 2015, ramazan.
-#baseurl: "/iftar" # the subpath of your site, e.g. /blog/
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
 baseurl: ""
 url: "http://iftarvakitleri.org" # the base hostname & protocol for your site
-#url: "https://hakanu.github.io"
-twitter_username: orucbuddy
-github_username:  hakanu
+title: Bulunduğunuz yerde iftara ne kadar kaldı?
+email: info@iftarvakitleri.org
+author: Your Name
+description: > # iftar vakitleri, namaz vakitleri, sehirler, ankara, istanbul,
+  iftar 2015, ramazan.
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/orucbuddy
+  - title: facebook
+    url: https://facebook.com/orucbuddy
+  - title: mail
+    url: mailto:info@iftarvakitleri.org

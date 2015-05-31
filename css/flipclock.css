@@ -50,8 +50,11 @@
 .flip-clock-wrapper {
   text-align: center;
   position: relative;
-  width: 100%;
+  /*width: 100%;*/  /* hakanu */
   margin: 1em;
+  /* hakanu */
+  display:block;
+  margin:auto;
 }
 
 .flip-clock-wrapper:before,
