@@ -131,9 +131,12 @@ function getIftarTime(country, city) {
     var aksam = response.Aksam
     var yatsi = response.Yatsi;
 
+    var hicriTarih = response.HicriTarih;
+
     console.log('Setting timer now...');
     setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
     setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
+    setHicriTarih(hicriTarih);
   };
   xhr.send();   
 }
@@ -147,11 +150,19 @@ function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi) {
   $('#p-yatsi')[0].innerHTML = yatsi;
 }
 
+function setHicriTarih(hicriTarih) {
+  $('#today-date-hicri')[0].innerHTML = (
+      $('#today-date-hicri')[0].innerHTML + hicriTarih);
+}
+
 function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
                   country) {
   console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
   console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
-
+  
+  sahurHours = parseInt(sahurHours);
+  sahurMinutes = parseInt(sahurMinutes);
+  
   var currentdate = new Date();
 
   var currentDay = currentdate.getDay();
@@ -175,13 +186,17 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
     clock.setTime(iftarRemainingMs / 1000);
     $('#description').text($('#description').text().replace('sahur', 'iftar'));
     $('#tagline').text($('#tagline').text().replace('sahur', 'iftar'));
+    $('.subtitle')[0].innerHTML = (
+        city.capitalize() + ' (' + country.capitalize() +
+        ') için iftara kalan süre');
   } else {
     clock.setTime(sahurRemainingMs / 1000);
     $('#description').text($('#description').text().replace('iftar', 'sahur'));
     $('#tagline').text($('#tagline').text().replace('iftar', 'sahur'));
+    $('.subtitle')[0].innerHTML = (
+        city.capitalize() + ' (' + country.capitalize() +
+        ') için sahura kalan süre');
   }
 
   clock.start();
-  $('.subtitle')[0].innerHTML = (
-      city.capitalize() + ' (' + country.capitalize() + ') için iftar vakti');
 }
