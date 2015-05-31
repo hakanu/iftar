@@ -1,5 +1,4 @@
 var clock = $('.your-clock').FlipClock({
-  // ... your options here
   countdown: true,
   defaultLanguage: 'turkish'
 });
@@ -11,8 +10,9 @@ jQuery( document ).ready(function( $ ) {
   console.log('/ /_/ / /  / /_/ / /__   / /_/ / /_/ / /_/ / /_/ / /_/ / ');
   console.log('\____/_/   \__,_/\___/  /_.___/\__,_/\__,_/\__,_/\__, /  ');
   console.log('                 /_)                            /____/   ');
+  $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
   if(window.location.href.indexOf('/iftar/') == -1) {
-    $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...'
+    $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
     getLocation();
   }
 });
@@ -35,16 +35,10 @@ var firebaseUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/{dat
 function createCORSRequest(method, url) {
   var xhr = new XMLHttpRequest();
   if ("withCredentials" in xhr) {
-
-    // Check if the XMLHttpRequest object has a "withCredentials" property.
-    // "withCredentials" only exists on XMLHTTPRequest2 objects.
     console.log("xhr with credentials is created.");
     xhr.open(method, url, true);
 
   } else if (typeof XDomainRequest != "undefined") {
-
-    // Otherwise, check if XDomainRequest.
-    // XDomainRequest only exists in IE, and is IE's way of making CORS requests.
     xhr = new XDomainRequest();
     xhr.open(method, url);
 
@@ -62,6 +56,7 @@ function getLocation() {
         navigator.geolocation.getCurrentPosition(showPosition);
     } else { 
         console.log("Geolocation is not supported by this browser.");
+        $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tespit edemedik :(';
     }
 }
 

@@ -10,12 +10,12 @@
     <meta name="alexaVerifyID" content="N0_EW3ydKgAk0Fet-rVmyrBMVDU"/>
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-`
+
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
 
     <!-- Custom CSS -->
-    <link href="css/landing-page.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/landing-page.css" | prepend: site.baseurl }}">
 
     <!-- Custom Fonts -->
     <!-- <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
