@@ -1,6 +1,7 @@
 var clock = $('.your-clock').FlipClock({
   // ... your options here
-  countdown: true
+  countdown: true,
+  defaultLanguage: 'turkish'
 });
 
 jQuery( document ).ready(function( $ ) {

@@ -184,6 +184,10 @@ p.copyright {
     margin-bottom: 50px;
 }
 
+.flip-clock-label {
+    display: none;
+}
+
 /******* Media queries **********/
 /* Nexus 7 queries */
 @media screen and (max-width: 700px) {
