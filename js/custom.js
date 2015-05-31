@@ -10,10 +10,21 @@ jQuery( document ).ready(function( $ ) {
   console.log('/ /_/ / /  / /_/ / /__   / /_/ / /_/ / /_/ / /_/ / /_/ / ');
   console.log('\____/_/   \__,_/\___/  /_.___/\__,_/\__,_/\__,_/\__, /  ');
   console.log('                 /_)                            /____/   ');
-  $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
-  if(window.location.href.indexOf('/iftar/') == -1) {
+  var currentUrl = window.location.href;
+  if(currentUrl.indexOf('/iftar/') == -1 &&
+     currentUrl.indexOf('/iftar.html') == -1 &&
+     currentUrl.indexOf('/ulkeler.html') == -1) {
     $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
     getLocation();
+    $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+  } else {
+    console.log('not getting the location because url is ' + currentUrl);
+    console.log('get url parameters: ' + JSON.stringify(getJsonFromUrl(currentUrl)));
+    var params = getJsonFromUrl(currentUrl);
+    if (params['ulke'] && params['sehir']) {
+      getIftarTime(params['ulke'], params['sehir']);
+      $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+    }
   }
 });
 
@@ -25,6 +36,20 @@ String.prototype.supplant = function (o) {
         }
     );
 };
+
+String.prototype.capitalize = function() {
+    return this.charAt(0).toUpperCase() + this.toLowerCase().slice(1);
+}
+
+function getJsonFromUrl() {
+  var query = location.search.substr(1);
+  var result = {};
+  query.split("&").forEach(function(part) {
+    var item = part.split("=");
+    result[item[0]] = decodeURIComponent(item[1]);
+  });
+  return result;
+}
 
 var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
@@ -157,5 +182,6 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
   }
 
   clock.start();
-  $('.subtitle')[0].innerHTML = city + ' (' + country + ') için iftar vakti';
+  $('.subtitle')[0].innerHTML = (
+      city.capitalize() + ' (' + country.capitalize() + ') için iftar vakti');
 }
