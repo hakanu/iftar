@@ -5,12 +5,14 @@ category: Services
 title: Şehirler
 description: |
 ---
-* [Ankara](/ankara)
-* [İstanbul](/istanbul)
-* [İzmir](/izmir)
-* [Londra](/londra)
-* [Krakow](/krakow)
-* [Dublin](/dublin)
-* [Samsun](/samsun)
-* [Adana](/adana)
-* [Giresun](/giresun)
+
+* [İstanbul](/iftar.html?sehir=İstanbul&ulke=TÜRKİYE)
+* [Ankara](/iftar.html?sehir=ankara&ulke=TÜRKİYE)
+* [Bakü (Bakı)](/iftar.html?sehir=bakü&ulke=AZERBEYCAN)
+* [İzmir](/iftar.html?sehir=İzmir&ulke=TÜRKİYE)
+* [New York](/iftar.html?sehir=new&ulke=ABD)
+* [Bursa](/iftar.html?sehir=bursa&ulke=TÜRKİYE)
+* [Berlin](/iftar.html?sehir=berlin&ulke=ALMANYA)
+* [Viyana (Wien)](/iftar.html?sehir=viyana&ulke=AVUSTURYA)
+* [Köln](/iftar.html?sehir=köln&ulke=ALMANYA)
+* [Kayseri](/iftar.html?sehir=kayseri&ulke=TÜRKİYE)
