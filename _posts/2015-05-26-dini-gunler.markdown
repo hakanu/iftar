@@ -5,29 +5,114 @@ title: 2015 dini günleri
 description: |
 ---
 
-|Gün |Tarih|
-|-------------------------------|---|
-| Mevlid Kandili | 02.01.2015 |
-| Üç Aylar'ın Başlangıcı | 20.04.2015 |
-| Regaib Kandili | 23.04.2015 |
-| Mirac Kandili | 15.05.2015 |
-| Berat Kandili | 01.06.2015 |
-| Ramazan'ın Başlangıcı | 18.06.2015 |
-| Kadir Gecesi | 13.07.2015 |
-| Arefe (Ramazan) | 16.07.2015 |
-| Ramazan Bayramı | 17.07.2015 |
-| Arefe (Kurban) | 23.09.2015 |
-| Kurban Bayramı | 24.09.2015 |
-| Hicri Yılbaşı | 14.10.2015 |
-| Aşure Günü | 23.10.2015 |
+<div class="container">
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Gün</div>
+    <div class="col-md-3">Tarih</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Mevlid Kandili</div>
+    <div class="col-md-3">02.01.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Üç Aylar'ın Başlangıcı</div>
+    <div class="col-md-3">20.04.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Regaib Kandili</div>
+    <div class="col-md-3">23.04.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Mirac Kandili</div>
+    <div class="col-md-3">15.05.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Berat Kandili</div>
+    <div class="col-md-3">01.06.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Ramazan'ın Başlangıcı</div>
+    <div class="col-md-3">18.06.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Kadir Gecesi</div>
+    <div class="col-md-3">13.07.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Arefe (Ramazan)</div>
+    <div class="col-md-3">16.07.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Ramazan Bayramı</div>
+    <div class="col-md-3">17.07.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Arefe (Kurban)</div>
+    <div class="col-md-3">23.09.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Kurban Bayramı</div>
+    <div class="col-md-3">24.09.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Hicri Yılbaşı</div>
+    <div class="col-md-3">14.10.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-3"></div>
+    <div class="col-md-3">Aşure Günü</div>
+    <div class="col-md-3">23.10.2015</div>
+    <div class="col-md-3"></div>
+  </div>
+
+</div>
 
 <div>
   <div class="row">
-    <div class="col-md-4"></div>
-    <div class="col-md-4 center-text">
+    <div class="col-md-3"></div>
+    <div class="col-md-6 center-text">
       <h2>Ramazan'a kaç gün kaldı?</h2>
     </div>
-    <div class="col-md-4"></div>
+    <div class="col-md-3"></div>
   </div>
 
   <div class="row">
