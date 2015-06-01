@@ -4,12 +4,12 @@ var clock = $('.your-clock').FlipClock({
 });
 
 jQuery( document ).ready(function( $ ) {
-  console.log('   ____                     __              __    __     ');
-  console.log('  / __ \_______  _______   / /_  __  ______/ /___/ /_  __');
-  console.log(' / / / / ___/ / / / ___/  / __ \/ / / / __  / __  / / / /');
-  console.log('/ /_/ / /  / /_/ / /__   / /_/ / /_/ / /_/ / /_/ / /_/ / ');
-  console.log('\____/_/   \__,_/\___/  /_.___/\__,_/\__,_/\__,_/\__, /  ');
-  console.log('                 /_)                            /____/   ');
+  console.log('  _[]    __   _                         _                    ');
+  console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
+  console.log('  | |  | |_  | __|  / _` | |  __|     / _ \   |  _ \  |  _ \ ');
+  console.log('  | |  |  _| | |_  | (_| | | |       / ___ \  | |_) | | |_) |');
+  console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
+  console.log('                                              |_|     |_|    ');
   var currentUrl = window.location.href;
 
   // If it's home page.
@@ -18,9 +18,9 @@ jQuery( document ).ready(function( $ ) {
      currentUrl.indexOf('/ulkeler.html') == -1 &&
      currentUrl.indexOf('/bilgi/') == -1) {
     $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
-    getLocation();
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
     showTodayBelirliGun();
+    getLocation();
   } else {
     // If it's not home page but location is coming from GET.
     console.log('not getting the location because url is ' + currentUrl);
