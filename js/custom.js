@@ -20,6 +20,7 @@ jQuery( document ).ready(function( $ ) {
     $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
     getLocation();
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+    showTodayBelirliGun();
   } else {
     // If it's not home page but location is coming from GET.
     console.log('not getting the location because url is ' + currentUrl);
@@ -75,11 +76,71 @@ var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'
                        + '&format=json&diagnostics=false&callback=';
 var firebaseUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/{date}/{country}/cities/{city}/prayer_time.json';
+var belirliGunler = {
+    "2015-1-2": {
+      "content": "Mevlid Kandili"
+    },
+    "2015-4-20": {
+      "content": "Üç Aylar'ın Başlangıcı"
+    },
+    "2015-4-23": {
+      "content": "Regaib Kandili"
+    },
+    "2015-5-15": {
+      "content": "Mirac Kandili"
+    },
+    "2015-6-1": {
+      "content": "Berat Kandili"
+    },
+    "2015-6-18": {
+      "content": "Ramazan'ın Başlangıcı"
+    },
+    "2015-7-13": {
+      "content": "Kadir Gecesi"
+    },
+    "2015-7-16": {
+      "content": "Arefe (Ramazan)"
+    },
+    "2015-7-17": {
+      "content": "Ramazan Bayramı"
+    },
+    "2015-9-23": {
+      "content": "Arefe (Kurban)"
+    },
+    "2015-9-24": {
+      "content": "Kurban Bayramı"
+    },
+    "2015-10-14": {
+      "content": "Hicri Yılbaşı"
+    },
+    "2015-10-23": {
+      "content": "Aşure Günü"
+    }
+};
+
+
+function getTodayBelirliGun() {
+  var d = new Date();
+  var dateStr = d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDay();
+  if (belirliGunler[dateStr]) {
+    return belirliGunler[dateStr]['content'];
+  } else {
+    return null;
+  }
+}
+
+function showTodayBelirliGun() {
+  var belirliGun = getTodayBelirliGun();
+  if (belirliGun) {
+    $('#p-belirli-gun')[0].innerHTML = 'Bugün: ' + belirliGun;
+  } else {
+    $('#p-belirli-gun')[0].innerHTML = '';
+  }
+}
 
 function createCORSRequest(method, url) {
   var xhr = new XMLHttpRequest();
   if ("withCredentials" in xhr) {
-    console.log("xhr with credentials is created.");
     xhr.open(method, url, true);
 
   } else if (typeof XDomainRequest != "undefined") {
@@ -87,7 +148,6 @@ function createCORSRequest(method, url) {
     xhr.open(method, url);
 
   } else {
-
     // Otherwise, CORS is not supported by the browser.
     xhr = null;
 
