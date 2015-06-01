@@ -3,11 +3,11 @@ layout: default
 img: ulkeler.jpg
 category: Services
 title: Ülkeler
-description: |
+description: İftar ve namaz vakitlerini ülkelere göre arayın.
 ---
 
-* [Türkiye](/turkiye)
-* [Amerika](/amerika)
-* [İrlanda](/irlanda)
-* [İngiltere](/ingiltere)
-* [Polonya](/polonya)
+* [Türkiye](/ulke/turkiye)
+* [Amerika](/ulke/amerika)
+* [İrlanda](/ulke/irlanda)
+* [İngiltere](/ulke/ingiltere)
+* [Polonya](/ulke/polonya)
