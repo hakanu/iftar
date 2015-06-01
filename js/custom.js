@@ -69,7 +69,7 @@ function getJsonFromUrl() {
   });
   return result;
 }
-var RAMAZAN_DATE_ = '2015-06-17';
+var RAMAZAN_DATE_ = '2015-06-18';
 var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'

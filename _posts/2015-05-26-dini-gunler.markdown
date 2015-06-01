@@ -123,4 +123,4 @@ description: |
     <div class="col-md-5"></div>
   </div>
 </div>
-`Ramazan ne zaman? - 17 Haziran 2015`
+`Ramazan ne zaman? - 18 Haziran 2015`
