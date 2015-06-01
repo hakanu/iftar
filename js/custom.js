@@ -11,6 +11,8 @@ jQuery( document ).ready(function( $ ) {
   console.log('\____/_/   \__,_/\___/  /_.___/\__,_/\__,_/\__,_/\__, /  ');
   console.log('                 /_)                            /____/   ');
   var currentUrl = window.location.href;
+
+  // If it's home page.
   if(currentUrl.indexOf('/iftar/') == -1 &&
      currentUrl.indexOf('/iftar.html') == -1 &&
      currentUrl.indexOf('/ulkeler.html') == -1 &&
@@ -19,9 +21,10 @@ jQuery( document ).ready(function( $ ) {
     getLocation();
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
   } else {
+    // If it's not home page but location is coming from GET.
     console.log('not getting the location because url is ' + currentUrl);
-    console.log('get url parameters: ' + JSON.stringify(getJsonFromUrl(currentUrl)));
     var params = getJsonFromUrl(currentUrl);
+    console.log('get url parameters: ' + JSON.stringify(params));
     if (params && params['ulke'] && params['sehir']) {
       getIftarTime(params['ulke'], params['sehir']);
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
@@ -30,12 +33,14 @@ jQuery( document ).ready(function( $ ) {
     }
   }
 
+  // If I can show ramazan days left, I show.
   if ($('#span-ramazan-days-left')) {
     var ramazanDaysLeft = parseInt(
         (new Date(RAMAZAN_DATE_) - new Date()) / 1000 / 3600 / 24);
     $('#span-ramazan-days-left')[0].innerHTML = ramazanDaysLeft;
   }
 
+  // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
     console.log('Bilgi page');    
   }
@@ -64,7 +69,7 @@ function getJsonFromUrl() {
   });
   return result;
 }
-var RAMAZAN_DATE_ = '2015-06-15';
+var RAMAZAN_DATE_ = '2015-06-17';
 var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'
