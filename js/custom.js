@@ -43,7 +43,8 @@ jQuery( document ).ready(function( $ ) {
 
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
-    console.log('Bilgi page');    
+    console.log('Bilgi page');
+    showTodayBelirliGun();
   }
 
 });
