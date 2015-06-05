@@ -1,0 +1,14 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Sri Lanka
+---
+* [North Western Province](/iftar.html?sehir=north western province&ulke=Sri Lanka)
+* [Central Province](/iftar.html?sehir=central province&ulke=Sri Lanka)
+* [Northern](/iftar.html?sehir=northern&ulke=Sri Lanka)
+* [Eastern](/iftar.html?sehir=eastern&ulke=Sri Lanka)
+* [Western Province](/iftar.html?sehir=western province&ulke=Sri Lanka)
+* [Uva Province](/iftar.html?sehir=uva province&ulke=Sri Lanka)
+* [Sabaragamuwa](/iftar.html?sehir=sabaragamuwa&ulke=Sri Lanka)
+* [North Central Province](/iftar.html?sehir=north central province&ulke=Sri Lanka)
+* [Southern Province](/iftar.html?sehir=southern province&ulke=Sri Lanka)

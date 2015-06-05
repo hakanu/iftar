@@ -1,0 +1,9 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Kamboçya
+---
+* [Kampuchea](/iftar.html?sehir=kampuchea&ulke=Kamboçya)
+* [Phnom Penh](/iftar.html?sehir=phnom penh&ulke=Kamboçya)
+* [Pouthisat](/iftar.html?sehir=pouthisat&ulke=Kamboçya)
+* [Sihanoukville](/iftar.html?sehir=sihanoukville&ulke=Kamboçya)

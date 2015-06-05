@@ -1,0 +1,15 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Gana
+---
+* [Upper East](/iftar.html?sehir=upper east&ulke=Gana)
+* [Brong-Ahafo](/iftar.html?sehir=brong-ahafo&ulke=Gana)
+* [Central](/iftar.html?sehir=central&ulke=Gana)
+* [Northern](/iftar.html?sehir=northern&ulke=Gana)
+* [Eastern](/iftar.html?sehir=eastern&ulke=Gana)
+* [Upper West](/iftar.html?sehir=upper west&ulke=Gana)
+* [Ashanti](/iftar.html?sehir=ashanti&ulke=Gana)
+* [Greater Accra](/iftar.html?sehir=greater accra&ulke=Gana)
+* [Western](/iftar.html?sehir=western&ulke=Gana)
+* [Volta](/iftar.html?sehir=volta&ulke=Gana)

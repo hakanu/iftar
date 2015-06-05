@@ -1,0 +1,18 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Çad
+---
+* [Chari-Baguirmi](/iftar.html?sehir=chari-baguirmi&ulke=Çad)
+* [Moyen-Chari](/iftar.html?sehir=moyen-chari&ulke=Çad)
+* [Batha](/iftar.html?sehir=batha&ulke=Çad)
+* [Bourkou-Ennedi-Tibesti](/iftar.html?sehir=bourkou-ennedi-tibesti&ulke=Çad)
+* [Logone Oriental](/iftar.html?sehir=logone oriental&ulke=Çad)
+* [Salamat](/iftar.html?sehir=salamat&ulke=Çad)
+* [Lac](/iftar.html?sehir=lac&ulke=Çad)
+* [Ouaddai](/iftar.html?sehir=ouaddai&ulke=Çad)
+* [Mayo Kebbi](/iftar.html?sehir=mayo kebbi&ulke=Çad)
+* [Ouaddaï](/iftar.html?sehir=ouaddaï&ulke=Çad)
+* [Logone-Occidental](/iftar.html?sehir=logone-occidental&ulke=Çad)
+* [Biltine](/iftar.html?sehir=biltine&ulke=Çad)
+* [Kanem](/iftar.html?sehir=kanem&ulke=Çad)

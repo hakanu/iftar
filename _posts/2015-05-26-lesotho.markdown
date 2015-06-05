@@ -1,0 +1,9 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Lesotho
+---
+* [Berea](/iftar.html?sehir=berea&ulke=Lesotho)
+* [Maseru](/iftar.html?sehir=maseru&ulke=Lesotho)
+* [Qachas Nek](/iftar.html?sehir=qachas nek&ulke=Lesotho)
+* [Mafeteng](/iftar.html?sehir=mafeteng&ulke=Lesotho)

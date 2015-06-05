@@ -1,0 +1,9 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Etiyopya
+---
+* [Amhara](/iftar.html?sehir=amhara&ulke=Etiyopya)
+* [Sidamo](/iftar.html?sehir=sidamo&ulke=Etiyopya)
+* [Tigray](/iftar.html?sehir=tigray&ulke=Etiyopya)
+* [Sumale](/iftar.html?sehir=sumale&ulke=Etiyopya)

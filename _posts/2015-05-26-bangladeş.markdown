@@ -1,0 +1,13 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Bangladeş
+---
+* [Dhaka](/iftar.html?sehir=dhaka&ulke=Bangladeş)
+* [Rajshahi](/iftar.html?sehir=rajshahi&ulke=Bangladeş)
+* [Rangpur ](/iftar.html?sehir=rangpur &ulke=Bangladeş)
+* [Chittagong](/iftar.html?sehir=chittagong&ulke=Bangladeş)
+* [Rangpur](/iftar.html?sehir=rangpur&ulke=Bangladeş)
+* [Sylhet](/iftar.html?sehir=sylhet&ulke=Bangladeş)
+* [Khulna](/iftar.html?sehir=khulna&ulke=Bangladeş)
+* [Barisal](/iftar.html?sehir=barisal&ulke=Bangladeş)

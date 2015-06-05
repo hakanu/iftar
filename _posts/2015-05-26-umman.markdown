@@ -1,0 +1,12 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Umman
+---
+* [al-Dakhiliyah](/iftar.html?sehir=al-dakhiliyah&ulke=Umman)
+* [Oman](/iftar.html?sehir=oman&ulke=Umman)
+* [Musandam](/iftar.html?sehir=musandam&ulke=Umman)
+* [al-Janubiyah](/iftar.html?sehir=al-janubiyah&ulke=Umman)
+* [Al-Batinah](/iftar.html?sehir=al-batinah&ulke=Umman)
+* [Masqat](/iftar.html?sehir=masqat&ulke=Umman)
+* [Zufar (Dhofar)](/iftar.html?sehir=zufar (dhofar)&ulke=Umman)

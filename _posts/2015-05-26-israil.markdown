@@ -1,0 +1,12 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - İsrail
+---
+* [West Bank](/iftar.html?sehir=west bank&ulke=İsrail)
+* [Yerushalayim](/iftar.html?sehir=yerushalayim&ulke=İsrail)
+* [HaDarom](/iftar.html?sehir=hadarom&ulke=İsrail)
+* [HaMerkaz](/iftar.html?sehir=hamerkaz&ulke=İsrail)
+* [HaZafon](/iftar.html?sehir=hazafon&ulke=İsrail)
+* [Hefa](/iftar.html?sehir=hefa&ulke=İsrail)
+* [Tel Aviv](/iftar.html?sehir=tel aviv&ulke=İsrail)

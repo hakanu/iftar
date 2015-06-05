@@ -1,0 +1,10 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Tuvalu
+---
+* [Funafuti](/iftar.html?sehir=funafuti&ulke=Tuvalu)
+* [Vaitupu](/iftar.html?sehir=vaitupu&ulke=Tuvalu)
+* [Nui](/iftar.html?sehir=nui&ulke=Tuvalu)
+* [Lolua](/iftar.html?sehir=lolua&ulke=Tuvalu)
+* [Nukufetau](/iftar.html?sehir=nukufetau&ulke=Tuvalu)

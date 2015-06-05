@@ -1,0 +1,17 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Doğu Timor
+---
+* [Dili](/iftar.html?sehir=dili&ulke=Doğu Timor)
+* [Viqueque](/iftar.html?sehir=viqueque&ulke=Doğu Timor)
+* [Manufahi](/iftar.html?sehir=manufahi&ulke=Doğu Timor)
+* [Oecusse](/iftar.html?sehir=oecusse&ulke=Doğu Timor)
+* [Aileu](/iftar.html?sehir=aileu&ulke=Doğu Timor)
+* [Ainaro](/iftar.html?sehir=ainaro&ulke=Doğu Timor)
+* [Baucau](/iftar.html?sehir=baucau&ulke=Doğu Timor)
+* [Bobonaro](/iftar.html?sehir=bobonaro&ulke=Doğu Timor)
+* [Liquica](/iftar.html?sehir=liquica&ulke=Doğu Timor)
+* [Cova Lima](/iftar.html?sehir=cova lima&ulke=Doğu Timor)
+* [Ermera](/iftar.html?sehir=ermera&ulke=Doğu Timor)
+* [Manatuto](/iftar.html?sehir=manatuto&ulke=Doğu Timor)

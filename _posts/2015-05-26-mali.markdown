@@ -1,0 +1,14 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Mali
+---
+* [Gao](/iftar.html?sehir=gao&ulke=Mali)
+* [Sikasso](/iftar.html?sehir=sikasso&ulke=Mali)
+* [Mopti](/iftar.html?sehir=mopti&ulke=Mali)
+* [Kayes ](/iftar.html?sehir=kayes &ulke=Mali)
+* [Tombouctou](/iftar.html?sehir=tombouctou&ulke=Mali)
+* [Koulikoro](/iftar.html?sehir=koulikoro&ulke=Mali)
+* [Kidal](/iftar.html?sehir=kidal&ulke=Mali)
+* [Bamako](/iftar.html?sehir=bamako&ulke=Mali)
+* [Kayes](/iftar.html?sehir=kayes&ulke=Mali)

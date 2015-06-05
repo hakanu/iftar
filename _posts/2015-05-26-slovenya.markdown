@@ -1,0 +1,13 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Slovenya
+---
+* [Koper](/iftar.html?sehir=koper&ulke=Slovenya)
+* [Kocevje](/iftar.html?sehir=kocevje&ulke=Slovenya)
+* [Cerknica](/iftar.html?sehir=cerknica&ulke=Slovenya)
+* [Slovenia](/iftar.html?sehir=slovenia&ulke=Slovenya)
+* [Krsko](/iftar.html?sehir=krsko&ulke=Slovenya)
+* [Celje](/iftar.html?sehir=celje&ulke=Slovenya)
+* [Maribor](/iftar.html?sehir=maribor&ulke=Slovenya)
+* [Novo Mesto](/iftar.html?sehir=novo mesto&ulke=Slovenya)

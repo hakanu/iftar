@@ -1,0 +1,9 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Gürcistan
+---
+* [Adzharia](/iftar.html?sehir=adzharia&ulke=Gürcistan)
+* [Jugo-Osetija](/iftar.html?sehir=jugo-osetija&ulke=Gürcistan)
+* [Abkhazia](/iftar.html?sehir=abkhazia&ulke=Gürcistan)
+* [regions under republican juris](/iftar.html?sehir=regions under republican juris&ulke=Gürcistan)

@@ -1,0 +1,27 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Libya
+---
+* [Al Wahat ](/iftar.html?sehir=al wahat &ulke=Libya)
+* [Surt ](/iftar.html?sehir=surt &ulke=Libya)
+* [Al Jabal al Akhdar](/iftar.html?sehir=al jabal al akhdar&ulke=Libya)
+* [An Nuqat al Khams](/iftar.html?sehir=an nuqat al khams&ulke=Libya)
+* [Al Jufrah](/iftar.html?sehir=al jufrah&ulke=Libya)
+* [Murzuq](/iftar.html?sehir=murzuq&ulke=Libya)
+* [Wadi al Hayat](/iftar.html?sehir=wadi al hayat&ulke=Libya)
+* [Surt](/iftar.html?sehir=surt&ulke=Libya)
+* [Al Kufrah](/iftar.html?sehir=al kufrah&ulke=Libya)
+* [Banghazi](/iftar.html?sehir=banghazi&ulke=Libya)
+* [Al Marj](/iftar.html?sehir=al marj&ulke=Libya)
+* [Nalut](/iftar.html?sehir=nalut&ulke=Libya)
+* [Al Butnan](/iftar.html?sehir=al butnan&ulke=Libya)
+* [Tarabulus](/iftar.html?sehir=tarabulus&ulke=Libya)
+* [Sabha](/iftar.html?sehir=sabha&ulke=Libya)
+* [Al Jafarah](/iftar.html?sehir=al jafarah&ulke=Libya)
+* [Al Wahat](/iftar.html?sehir=al wahat&ulke=Libya)
+* [Az Zawiyah](/iftar.html?sehir=az zawiyah&ulke=Libya)
+* [Ghat](/iftar.html?sehir=ghat&ulke=Libya)
+* [Al Marqab](/iftar.html?sehir=al marqab&ulke=Libya)
+* [Darnah](/iftar.html?sehir=darnah&ulke=Libya)
+* [Misratah](/iftar.html?sehir=misratah&ulke=Libya)

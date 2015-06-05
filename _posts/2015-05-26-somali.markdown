@@ -1,0 +1,23 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Somali
+---
+* [Jubbada Dhexe](/iftar.html?sehir=jubbada dhexe&ulke=Somali)
+* [Galguduud](/iftar.html?sehir=galguduud&ulke=Somali)
+* [Sanaag](/iftar.html?sehir=sanaag&ulke=Somali)
+* [Mudug](/iftar.html?sehir=mudug&ulke=Somali)
+* [Togdheer](/iftar.html?sehir=togdheer&ulke=Somali)
+* [Sool](/iftar.html?sehir=sool&ulke=Somali)
+* [Shabeellaha Dhexe](/iftar.html?sehir=shabeellaha dhexe&ulke=Somali)
+* [Awdal](/iftar.html?sehir=awdal&ulke=Somali)
+* [Hiiraan](/iftar.html?sehir=hiiraan&ulke=Somali)
+* [Nugaal](/iftar.html?sehir=nugaal&ulke=Somali)
+* [Shabeellaha Hoose](/iftar.html?sehir=shabeellaha hoose&ulke=Somali)
+* [Bari](/iftar.html?sehir=bari&ulke=Somali)
+* [Bakool](/iftar.html?sehir=bakool&ulke=Somali)
+* [Bay](/iftar.html?sehir=bay&ulke=Somali)
+* [Woqooyi Galbeed](/iftar.html?sehir=woqooyi galbeed&ulke=Somali)
+* [Jubbada Hoose](/iftar.html?sehir=jubbada hoose&ulke=Somali)
+* [Banaadir](/iftar.html?sehir=banaadir&ulke=Somali)
+* [Gedo](/iftar.html?sehir=gedo&ulke=Somali)

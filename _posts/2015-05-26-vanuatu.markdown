@@ -1,0 +1,9 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Vanuatu
+---
+* [Anatom Island](/iftar.html?sehir=anatom island&ulke=Vanuatu)
+* [Erromango Island](/iftar.html?sehir=erromango island&ulke=Vanuatu)
+* [Efate Island](/iftar.html?sehir=efate island&ulke=Vanuatu)
+* [Tanna Island](/iftar.html?sehir=tanna island&ulke=Vanuatu)

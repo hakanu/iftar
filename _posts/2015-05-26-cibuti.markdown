@@ -1,0 +1,11 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Cibuti
+---
+* [Obock](/iftar.html?sehir=obock&ulke=Cibuti)
+* [Dikhil](/iftar.html?sehir=dikhil&ulke=Cibuti)
+* [Ali Sabih](/iftar.html?sehir=ali sabih&ulke=Cibuti)
+* [Tadjoura](/iftar.html?sehir=tadjoura&ulke=Cibuti)
+* [Arta](/iftar.html?sehir=arta&ulke=Cibuti)
+* [Cibuti](/iftar.html?sehir=cibuti&ulke=Cibuti)

@@ -1,0 +1,9 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Katar
+---
+* [Al Khawr wa adh Dhakhirah](/iftar.html?sehir=al khawr wa adh dhakhirah&ulke=Katar)
+* [Ad-Dawhah](/iftar.html?sehir=ad-dawhah&ulke=Katar)
+* [Al Wakrah](/iftar.html?sehir=al wakrah&ulke=Katar)
+* [Ash Shamal](/iftar.html?sehir=ash shamal&ulke=Katar)

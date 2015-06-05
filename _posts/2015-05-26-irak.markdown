@@ -1,0 +1,23 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Irak
+---
+* [Al-Anbar](/iftar.html?sehir=al-anbar&ulke=Irak)
+* [Al-Basrah](/iftar.html?sehir=al-basrah&ulke=Irak)
+* [Al-Muthanna](/iftar.html?sehir=al-muthanna&ulke=Irak)
+* [Ninawa](/iftar.html?sehir=ninawa&ulke=Irak)
+* [Dahuk](/iftar.html?sehir=dahuk&ulke=Irak)
+* [Diyala](/iftar.html?sehir=diyala&ulke=Irak)
+* [Dhi Qar](/iftar.html?sehir=dhi qar&ulke=Irak)
+* [Erbil](/iftar.html?sehir=erbil&ulke=Irak)
+* [Babil](/iftar.html?sehir=babil&ulke=Irak)
+* [Maysan](/iftar.html?sehir=maysan&ulke=Irak)
+* [An-Najaf](/iftar.html?sehir=an-najaf&ulke=Irak)
+* [As-Sulaymaniyah](/iftar.html?sehir=as-sulaymaniyah&ulke=Irak)
+* [Baghdad](/iftar.html?sehir=baghdad&ulke=Irak)
+* [Kirkuk](/iftar.html?sehir=kirkuk&ulke=Irak)
+* [Salah ad-Din](/iftar.html?sehir=salah ad-din&ulke=Irak)
+* [Wasit](/iftar.html?sehir=wasit&ulke=Irak)
+* [Al-Qadisiyah](/iftar.html?sehir=al-qadisiyah&ulke=Irak)
+* [Karbala](/iftar.html?sehir=karbala&ulke=Irak)

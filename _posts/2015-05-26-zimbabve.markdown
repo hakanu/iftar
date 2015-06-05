@@ -1,0 +1,15 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Zimbabve
+---
+* [Bulawayo](/iftar.html?sehir=bulawayo&ulke=Zimbabve)
+* [Mashonaland Central](/iftar.html?sehir=mashonaland central&ulke=Zimbabve)
+* [Harare](/iftar.html?sehir=harare&ulke=Zimbabve)
+* [Matabeleland North](/iftar.html?sehir=matabeleland north&ulke=Zimbabve)
+* [Matabeleland South](/iftar.html?sehir=matabeleland south&ulke=Zimbabve)
+* [Mashonaland East](/iftar.html?sehir=mashonaland east&ulke=Zimbabve)
+* [Manicaland](/iftar.html?sehir=manicaland&ulke=Zimbabve)
+* [Masvingo District](/iftar.html?sehir=masvingo district&ulke=Zimbabve)
+* [Midlands](/iftar.html?sehir=midlands&ulke=Zimbabve)
+* [Mashonaland West](/iftar.html?sehir=mashonaland west&ulke=Zimbabve)

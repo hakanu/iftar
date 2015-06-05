@@ -1,0 +1,13 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Nijer
+---
+* [Tahoua](/iftar.html?sehir=tahoua&ulke=Nijer)
+* [Dosso](/iftar.html?sehir=dosso&ulke=Nijer)
+* [Niamey](/iftar.html?sehir=niamey&ulke=Nijer)
+* [Diffa](/iftar.html?sehir=diffa&ulke=Nijer)
+* [Agadez](/iftar.html?sehir=agadez&ulke=Nijer)
+* [Zinder](/iftar.html?sehir=zinder&ulke=Nijer)
+* [Maradi](/iftar.html?sehir=maradi&ulke=Nijer)
+* [Tillaberi](/iftar.html?sehir=tillaberi&ulke=Nijer)

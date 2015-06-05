@@ -1,0 +1,20 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Suriye
+---
+* [Al Ladhiqiyah](/iftar.html?sehir=al ladhiqiyah&ulke=Suriye)
+* [Idlib](/iftar.html?sehir=idlib&ulke=Suriye)
+* [Suriye](/iftar.html?sehir=suriye&ulke=Suriye)
+* [Hims](/iftar.html?sehir=hims&ulke=Suriye)
+* [Al-Hasakah](/iftar.html?sehir=al-hasakah&ulke=Suriye)
+* [Dayr az-Zawr](/iftar.html?sehir=dayr az-zawr&ulke=Suriye)
+* [Hamah](/iftar.html?sehir=hamah&ulke=Suriye)
+* [Ar-Raqqah](/iftar.html?sehir=ar-raqqah&ulke=Suriye)
+* [As Suwayda](/iftar.html?sehir=as suwayda&ulke=Suriye)
+* [Dar`a](/iftar.html?sehir=dar`a&ulke=Suriye)
+* [Dimashq](/iftar.html?sehir=dimashq&ulke=Suriye)
+* [Tartus](/iftar.html?sehir=tartus&ulke=Suriye)
+* [Halab](/iftar.html?sehir=halab&ulke=Suriye)
+* [Al-Qunaytirah](/iftar.html?sehir=al-qunaytirah&ulke=Suriye)
+* [Al Hasakah](/iftar.html?sehir=al hasakah&ulke=Suriye)

@@ -1,12 +1,13 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - LAOS
+title: Şehir seç - Laos
 ---
-* [BAN DONKON](/iftar.html?sehir=ban donkon&ulke=LAOS)
-* [LOUANG NAMTHA](/iftar.html?sehir=louang namtha&ulke=LAOS)
-* [MUANG SING](/iftar.html?sehir=muang sing&ulke=LAOS)
-* [MUANG VANGVIANG](/iftar.html?sehir=muang vangviang&ulke=LAOS)
-* [SARAVAN](/iftar.html?sehir=saravan&ulke=LAOS)
-* [VIENTIANE](/iftar.html?sehir=vientiane&ulke=LAOS)
-* [XAM NUA](/iftar.html?sehir=xam nua&ulke=LAOS)
+* [Houaphan](/iftar.html?sehir=houaphan&ulke=Laos)
+* [Savannakhét](/iftar.html?sehir=savannakhét&ulke=Laos)
+* [Vientiane](/iftar.html?sehir=vientiane&ulke=Laos)
+* [Xiangkhoang](/iftar.html?sehir=xiangkhoang&ulke=Laos)
+* [Champasak](/iftar.html?sehir=champasak&ulke=Laos)
+* [Louangphrabang](/iftar.html?sehir=louangphrabang&ulke=Laos)
+* [Savannakhet](/iftar.html?sehir=savannakhet&ulke=Laos)
+* [Saravane](/iftar.html?sehir=saravane&ulke=Laos)

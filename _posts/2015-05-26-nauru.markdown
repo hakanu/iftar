@@ -1,0 +1,8 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Nauru
+---
+* [Aiwo](/iftar.html?sehir=aiwo&ulke=Nauru)
+* [Yaren](/iftar.html?sehir=yaren&ulke=Nauru)
+* [Anabar](/iftar.html?sehir=anabar&ulke=Nauru)

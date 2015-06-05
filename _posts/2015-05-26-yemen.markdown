@@ -1,0 +1,12 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Yemen
+---
+* [Socotra](/iftar.html?sehir=socotra&ulke=Yemen)
+* [Sadah](/iftar.html?sehir=sadah&ulke=Yemen)
+* [South Yemen](/iftar.html?sehir=south yemen&ulke=Yemen)
+* [Ibb](/iftar.html?sehir=ibb&ulke=Yemen)
+* [Adan](/iftar.html?sehir=adan&ulke=Yemen)
+* [Al Hudaydah](/iftar.html?sehir=al hudaydah&ulke=Yemen)
+* [North Yemen](/iftar.html?sehir=north yemen&ulke=Yemen)

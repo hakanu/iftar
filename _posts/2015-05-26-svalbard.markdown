@@ -1,0 +1,6 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Svalbard
+---
+* [ Norveç](/iftar.html?sehir= norveç&ulke=Svalbard)

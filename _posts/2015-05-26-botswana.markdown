@@ -1,0 +1,15 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Botswana
+---
+* [Central](/iftar.html?sehir=central&ulke=Botswana)
+* [Kgatleng](/iftar.html?sehir=kgatleng&ulke=Botswana)
+* [Chobe](/iftar.html?sehir=chobe&ulke=Botswana)
+* [Kgalagadi](/iftar.html?sehir=kgalagadi&ulke=Botswana)
+* [South-East](/iftar.html?sehir=south-east&ulke=Botswana)
+* [Ngwaketse](/iftar.html?sehir=ngwaketse&ulke=Botswana)
+* [Ghanzi](/iftar.html?sehir=ghanzi&ulke=Botswana)
+* [Kweneng](/iftar.html?sehir=kweneng&ulke=Botswana)
+* [Ngamiland](/iftar.html?sehir=ngamiland&ulke=Botswana)
+* [North-East District](/iftar.html?sehir=north-east district&ulke=Botswana)

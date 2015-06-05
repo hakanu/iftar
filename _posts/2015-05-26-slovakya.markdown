@@ -1,0 +1,16 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Slovakya
+---
+* [Trenciansky ](/iftar.html?sehir=trenciansky &ulke=Slovakya)
+* [Nitriansky](/iftar.html?sehir=nitriansky&ulke=Slovakya)
+* [Prešovský](/iftar.html?sehir=prešovský&ulke=Slovakya)
+* [Prešovský ](/iftar.html?sehir=prešovský &ulke=Slovakya)
+* [Trenciansky](/iftar.html?sehir=trenciansky&ulke=Slovakya)
+* [Trnavsky](/iftar.html?sehir=trnavsky&ulke=Slovakya)
+* [Bratislavský ](/iftar.html?sehir=bratislavský &ulke=Slovakya)
+* [Bratislavsky ](/iftar.html?sehir=bratislavsky &ulke=Slovakya)
+* [Bratislavský](/iftar.html?sehir=bratislavský&ulke=Slovakya)
+* [Presovsky](/iftar.html?sehir=presovsky&ulke=Slovakya)
+* [Bratislavsky](/iftar.html?sehir=bratislavsky&ulke=Slovakya)

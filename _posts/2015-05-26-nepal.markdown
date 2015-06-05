@@ -1,0 +1,20 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Nepal
+---
+* [Janakpur](/iftar.html?sehir=janakpur&ulke=Nepal)
+* [Dhawalagiri ](/iftar.html?sehir=dhawalagiri &ulke=Nepal)
+* [Bagmati](/iftar.html?sehir=bagmati&ulke=Nepal)
+* [Central](/iftar.html?sehir=central&ulke=Nepal)
+* [Kosi](/iftar.html?sehir=kosi&ulke=Nepal)
+* [Dhaulagiri](/iftar.html?sehir=dhaulagiri&ulke=Nepal)
+* [Eastern](/iftar.html?sehir=eastern&ulke=Nepal)
+* [Narayani](/iftar.html?sehir=narayani&ulke=Nepal)
+* [Karnali](/iftar.html?sehir=karnali&ulke=Nepal)
+* [Rapti](/iftar.html?sehir=rapti&ulke=Nepal)
+* [Seti](/iftar.html?sehir=seti&ulke=Nepal)
+* [Bheri](/iftar.html?sehir=bheri&ulke=Nepal)
+* [Gandaki](/iftar.html?sehir=gandaki&ulke=Nepal)
+* [Dhawalagiri](/iftar.html?sehir=dhawalagiri&ulke=Nepal)
+* [Mahakali](/iftar.html?sehir=mahakali&ulke=Nepal)

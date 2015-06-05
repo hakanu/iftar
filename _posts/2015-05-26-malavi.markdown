@@ -1,0 +1,8 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Malavi
+---
+* [Central](/iftar.html?sehir=central&ulke=Malavi)
+* [Southern](/iftar.html?sehir=southern&ulke=Malavi)
+* [Northern](/iftar.html?sehir=northern&ulke=Malavi)

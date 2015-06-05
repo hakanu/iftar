@@ -11,6 +11,7 @@ jQuery( document ).ready(function( $ ) {
   console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
   console.log('                                              |_|     |_|    ');
   var currentUrl = window.location.href;
+  var hicriTarih = getHicriDate();
 
   // If it's home page.
   if(currentUrl.indexOf('/iftar/') == -1 &&
@@ -19,6 +20,7 @@ jQuery( document ).ready(function( $ ) {
      currentUrl.indexOf('/bilgi/') == -1) {
     $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+    setHicriTarih(hicriTarih);
     showTodayBelirliGun();
     getLocation();
   } else {
@@ -27,8 +29,9 @@ jQuery( document ).ready(function( $ ) {
     var params = getJsonFromUrl(currentUrl);
     console.log('get url parameters: ' + JSON.stringify(params));
     if (params && params['ulke'] && params['sehir']) {
-      getIftarTime(params['ulke'], params['sehir']);
+      getIftarTimeP(params['ulke'], params['sehir']);
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+      setHicriTarih(hicriTarih);
     } else {
       console.log('Wrong url params');
     }
@@ -119,6 +122,21 @@ var belirliGunler = {
     }
 };
 
+var hicriAyDefinition = {
+    "Muharrem": "Haram kılınmış.  Haram ayların ilkidir.",
+    "Safer": "Sefer, yolculuk. Gıda için `sefere` gidilen aydır.",
+    "Rebiülevvel": "İlk bahar.",
+    "Rebiülahir": "Son bahar.",
+    "Cemaziyelevvel": "İlk çorak toprak.",
+    "Cemaziyelahir": "Son çorak toprak.",
+    "Recep": "Saygı, onur. Haram ayların ikincisidir.",
+    "Şaban": "Dağılmış, yayılmış.  Su bulmak için 'dağılınan' aydır.",
+    "Ramazan": "Yanma, sıcak olma. Kuran'a göre oruç ayıdır.",
+    "Şevval": "Yükselmiş.",
+    "Zilkade": "Barışa sahiplik eden. Üçüncü haram aydır.",
+    "Zilhicce": "Hacca sahiplik eden.  Hac ayıdır. Son haram aydır."
+}
+
 
 function getTodayBelirliGun() {
   var d = new Date();
@@ -183,7 +201,8 @@ function showPosition(position) {
     console.log('country: ' + country);
     var trCountry = countryNamesMapping[country.toUpperCase()];
     console.log('Turkish country: ' + trCountry);
-    getIftarTime(trCountry, city);
+    //getIftarTime(trCountry, city);
+    getIftarTimeP(trCountry, city);
   };
   xhr.send();
 }
@@ -211,14 +230,56 @@ function getIftarTime(country, city) {
     var aksam = response.Aksam
     var yatsi = response.Yatsi;
 
-    var hicriTarih = response.HicriTarih;
+    console.log('Setting timer now...');
+    setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
+    setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
+  };
+  xhr.send();   
+}
+
+function getIftarTimeP(country, city) {
+  var d = new Date();
+  var currentMonth = (
+      d.getMonth() + 1 > 10 ? d.getMonth() + 1 : '0' + (d.getMonth() + 1));
+  var currentDay = d.getDay() > 10 ? d.getDay() : '0' + d.getDay();
+  var dateStr = (d.getFullYear().toString().slice(2) + "-" + currentMonth + "-"
+                 + currentDay);
+  console.log('Getting iftar time for ' + country + ' city: ' + city
+              + ' date: ' + dateStr);
+  var xhr = new XMLHttpRequest();
+
+  // TODO(hakanu): Activate country once we have it in parse.
+  var url = ('https://api.parse.com/1/classes/prayer_times'
+             + '?where={"date":"' + dateStr // + '","country":"' + country + ''
+             + '","city":"' + city.capitalize() + '"}');
+
+  xhr.open("GET", url, true);
+  xhr.setRequestHeader(
+      "X-Parse-Application-Id", "7TDd2oVVnLZNSGS9swhFIPCEf0P49fi1IKPp7svx");
+  xhr.setRequestHeader(
+      "X-Parse-REST-API-Key", "jnEGjyKpSk3PqHFWxN4T5ejVe7WHY6aK27O3zNOr");
+  xhr.onload = function() {
+    console.log(xhr.responseText);
+    var response = JSON.parse(xhr.responseText);
+    response = response['results'][0];
+    var iftarHours = response.aksam.split(':')[0];
+    var iftarMinutes = response.aksam.split(':')[1];
+
+    var sahurHours = response.imsak.split(':')[0];
+    var sahurMinutes = response.imsak.split(':')[1];
+
+    var imsak = response.imsak;
+    var gunes = response.gunes;
+    var ogle = response.ogle;
+    var ikindi = response.ikindi;
+    var aksam = response.aksam
+    var yatsi = response.yatsi;
 
     console.log('Setting timer now...');
     setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
     setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
-    setHicriTarih(hicriTarih);
   };
-  xhr.send();   
+  xhr.send();  
 }
 
 function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi) {

@@ -1,0 +1,15 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - Uganda
+---
+* [Karamoja](/iftar.html?sehir=karamoja&ulke=Uganda)
+* [Northern](/iftar.html?sehir=northern&ulke=Uganda)
+* [Eastern](/iftar.html?sehir=eastern&ulke=Uganda)
+* [Southern](/iftar.html?sehir=southern&ulke=Uganda)
+* [Nile](/iftar.html?sehir=nile&ulke=Uganda)
+* [Western](/iftar.html?sehir=western&ulke=Uganda)
+* [North Buganda](/iftar.html?sehir=north buganda&ulke=Uganda)
+* [Central](/iftar.html?sehir=central&ulke=Uganda)
+* [Lira](/iftar.html?sehir=lira&ulke=Uganda)
+* [Busoga](/iftar.html?sehir=busoga&ulke=Uganda)

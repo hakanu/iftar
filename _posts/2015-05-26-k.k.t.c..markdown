@@ -1,0 +1,8 @@
+---
+layout: single_ulke
+category: ulke
+title: Şehir seç - K.K.T.C.
+---
+* [Gazimagosa](/iftar.html?sehir=gazimagosa&ulke=K.K.T.C.)
+* [Girne](/iftar.html?sehir=girne&ulke=K.K.T.C.)
+* [Girne ](/iftar.html?sehir=girne &ulke=K.K.T.C.)
