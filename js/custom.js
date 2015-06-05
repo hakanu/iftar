@@ -250,7 +250,8 @@ function getIftarTimeP(country, city) {
   // TODO(hakanu): Activate country once we have it in parse.
   var url = ('https://api.parse.com/1/classes/prayer_times'
              + '?where={"date":"' + dateStr // + '","country":"' + country + ''
-             + '","city":"' + city.capitalize() + '"}&limit=3');
+             + '","city":"' + city.capitalize() + '","state":"'
+             + city.capitalize() + '"}&limit=3');
   ////console.log(url);
   xhr.open("GET", url, true);
   xhr.setRequestHeader(
