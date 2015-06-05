@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Meksika
+title: Meksika için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Meksika için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Chihuahua](/iftar.html?sehir=chihuahua&ulke=Meksika)
 * [Guanajuato](/iftar.html?sehir=guanajuato&ulke=Meksika)
 * [Queretaro](/iftar.html?sehir=queretaro&ulke=Meksika)

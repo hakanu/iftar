@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Nikaragua
+title: Nikaragua için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Nikaragua için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Zelaya](/iftar.html?sehir=zelaya&ulke=Nikaragua)
 * [Esteli](/iftar.html?sehir=esteli&ulke=Nikaragua)
 * [Boaco](/iftar.html?sehir=boaco&ulke=Nikaragua)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Hindistan
+title: Hindistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Hindistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Meghalaya ](/iftar.html?sehir=meghalaya &ulke=Hindistan)
 * [Haryana](/iftar.html?sehir=haryana&ulke=Hindistan)
 * [Punjab](/iftar.html?sehir=punjab&ulke=Hindistan)

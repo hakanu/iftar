@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Gabon
+title: Gabon için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Gabon için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Woleu-Ntem](/iftar.html?sehir=woleu-ntem&ulke=Gabon)
 * [Estuaire](/iftar.html?sehir=estuaire&ulke=Gabon)
 * [Ngounié](/iftar.html?sehir=ngounié&ulke=Gabon)

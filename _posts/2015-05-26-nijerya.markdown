@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Nijerya
+title: Nijerya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Nijerya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kaduna](/iftar.html?sehir=kaduna&ulke=Nijerya)
 * [Bauchi](/iftar.html?sehir=bauchi&ulke=Nijerya)
 * [Kogi](/iftar.html?sehir=kogi&ulke=Nijerya)

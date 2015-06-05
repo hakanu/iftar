@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Somali
+title: Somali için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Somali için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Jubbada Dhexe](/iftar.html?sehir=jubbada dhexe&ulke=Somali)
 * [Galguduud](/iftar.html?sehir=galguduud&ulke=Somali)
 * [Sanaag](/iftar.html?sehir=sanaag&ulke=Somali)

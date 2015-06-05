@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Katar
+title: Katar için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Katar için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Al Khawr wa adh Dhakhirah](/iftar.html?sehir=al khawr wa adh dhakhirah&ulke=Katar)
 * [Ad-Dawhah](/iftar.html?sehir=ad-dawhah&ulke=Katar)
 * [Al Wakrah](/iftar.html?sehir=al wakrah&ulke=Katar)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kazakistan
+title: Kazakistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kazakistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kustanay](/iftar.html?sehir=kustanay&ulke=Kazakistan)
 * [Akmola](/iftar.html?sehir=akmola&ulke=Kazakistan)
 * [Kzyl-Orda](/iftar.html?sehir=kzyl-orda&ulke=Kazakistan)

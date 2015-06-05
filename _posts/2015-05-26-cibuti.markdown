@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Cibuti
+title: Cibuti için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Cibuti için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Obock](/iftar.html?sehir=obock&ulke=Cibuti)
 * [Dikhil](/iftar.html?sehir=dikhil&ulke=Cibuti)
 * [Ali Sabih](/iftar.html?sehir=ali sabih&ulke=Cibuti)

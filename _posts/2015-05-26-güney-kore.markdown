@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Güney Kore
+title: Güney Kore için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Güney Kore için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Gangwon](/iftar.html?sehir=gangwon&ulke=Güney Kore)
 * [Jeju](/iftar.html?sehir=jeju&ulke=Güney Kore)
 * [Gyeonggi](/iftar.html?sehir=gyeonggi&ulke=Güney Kore)

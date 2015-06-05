@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Nepal
+title: Nepal için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Nepal için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Janakpur](/iftar.html?sehir=janakpur&ulke=Nepal)
 * [Dhawalagiri ](/iftar.html?sehir=dhawalagiri &ulke=Nepal)
 * [Bagmati](/iftar.html?sehir=bagmati&ulke=Nepal)

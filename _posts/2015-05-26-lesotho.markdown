@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Lesotho
+title: Lesotho için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Lesotho için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Berea](/iftar.html?sehir=berea&ulke=Lesotho)
 * [Maseru](/iftar.html?sehir=maseru&ulke=Lesotho)
 * [Qachas Nek](/iftar.html?sehir=qachas nek&ulke=Lesotho)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kamboçya
+title: Kamboçya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kamboçya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kampuchea](/iftar.html?sehir=kampuchea&ulke=Kamboçya)
 * [Phnom Penh](/iftar.html?sehir=phnom penh&ulke=Kamboçya)
 * [Pouthisat](/iftar.html?sehir=pouthisat&ulke=Kamboçya)

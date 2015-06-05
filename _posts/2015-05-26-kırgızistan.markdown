@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kırgızistan
+title: Kırgızistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kırgızistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Jalal-Abad](/iftar.html?sehir=jalal-abad&ulke=Kırgızistan)
 * [Talas](/iftar.html?sehir=talas&ulke=Kırgızistan)
 * [Naryn](/iftar.html?sehir=naryn&ulke=Kırgızistan)

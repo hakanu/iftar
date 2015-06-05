@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Küba
+title: Küba için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Küba için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Villa Clara](/iftar.html?sehir=villa clara&ulke=Küba)
 * [Holguín](/iftar.html?sehir=holguín&ulke=Küba)
 * [Guantanamo](/iftar.html?sehir=guantanamo&ulke=Küba)

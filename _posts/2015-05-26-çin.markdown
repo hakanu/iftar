@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Çin
+title: Çin için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Çin için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Anhui](/iftar.html?sehir=anhui&ulke=Çin)
 * [Xizang Zizhiqu](/iftar.html?sehir=xizang zizhiqu&ulke=Çin)
 * [Tianjin](/iftar.html?sehir=tianjin&ulke=Çin)

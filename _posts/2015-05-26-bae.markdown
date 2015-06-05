@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - BAE
+title: BAE için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## BAE için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [`Ajman](/iftar.html?sehir=`ajman&ulke=BAE)
 * [Ajman](/iftar.html?sehir=ajman&ulke=BAE)
 * [Abu Zaby](/iftar.html?sehir=abu zaby&ulke=BAE)

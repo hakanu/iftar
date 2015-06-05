@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Gine
+title: Gine için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Gine için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Labe](/iftar.html?sehir=labe&ulke=Gine)
 * [Kankan](/iftar.html?sehir=kankan&ulke=Gine)
 * [Nzerekore](/iftar.html?sehir=nzerekore&ulke=Gine)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Guatemala
+title: Guatemala için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Guatemala için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Retalhuleu](/iftar.html?sehir=retalhuleu&ulke=Guatemala)
 * [Peten](/iftar.html?sehir=peten&ulke=Guatemala)
 * [Quezaltenango](/iftar.html?sehir=quezaltenango&ulke=Guatemala)

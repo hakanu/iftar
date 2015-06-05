@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Moritanya
+title: Moritanya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Moritanya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Dakhlet Nouadhibou](/iftar.html?sehir=dakhlet nouadhibou&ulke=Moritanya)
 * [Hodh el Gharbi](/iftar.html?sehir=hodh el gharbi&ulke=Moritanya)
 * [Tagant](/iftar.html?sehir=tagant&ulke=Moritanya)

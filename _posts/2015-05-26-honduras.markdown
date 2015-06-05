@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Honduras
+title: Honduras için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Honduras için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Cortés](/iftar.html?sehir=cortés&ulke=Honduras)
 * [Choluteca](/iftar.html?sehir=choluteca&ulke=Honduras)
 * [Yoro](/iftar.html?sehir=yoro&ulke=Honduras)

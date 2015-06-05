@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Sri Lanka
+title: Sri Lanka için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Sri Lanka için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [North Western Province](/iftar.html?sehir=north western province&ulke=Sri Lanka)
 * [Central Province](/iftar.html?sehir=central province&ulke=Sri Lanka)
 * [Northern](/iftar.html?sehir=northern&ulke=Sri Lanka)

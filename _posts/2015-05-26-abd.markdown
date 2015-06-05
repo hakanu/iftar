@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - ABD
+title: ABD için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## ABD için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Mississippi](/iftar.html?sehir=mississippi&ulke=ABD)
 * [Alaska (Kodiak Island)](/iftar.html?sehir=alaska (kodiak island)&ulke=ABD)
 * [Oklahoma](/iftar.html?sehir=oklahoma&ulke=ABD)

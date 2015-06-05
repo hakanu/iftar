@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Pakistan
+title: Pakistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Pakistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Federally Administered Tribal Areas](/iftar.html?sehir=federally administered tribal areas&ulke=Pakistan)
 * [Islamabad](/iftar.html?sehir=islamabad&ulke=Pakistan)
 * [Punjab](/iftar.html?sehir=punjab&ulke=Pakistan)

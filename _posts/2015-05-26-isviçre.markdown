@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İsviçre
+title: İsviçre için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İsviçre için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Neuchatel](/iftar.html?sehir=neuchatel&ulke=İsviçre)
 * [Basel-Landschaft ](/iftar.html?sehir=basel-landschaft &ulke=İsviçre)
 * [Schaffhausen](/iftar.html?sehir=schaffhausen&ulke=İsviçre)

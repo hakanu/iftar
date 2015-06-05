@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Makedonya
+title: Makedonya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Makedonya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Prilep](/iftar.html?sehir=prilep&ulke=Makedonya)
 * [Debar](/iftar.html?sehir=debar&ulke=Makedonya)
 * [Kicevo](/iftar.html?sehir=kicevo&ulke=Makedonya)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Ermenistan
+title: Ermenistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Ermenistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Armavir](/iftar.html?sehir=armavir&ulke=Ermenistan)
 * [Syunik](/iftar.html?sehir=syunik&ulke=Ermenistan)
 * [Vayots Dzor](/iftar.html?sehir=vayots dzor&ulke=Ermenistan)

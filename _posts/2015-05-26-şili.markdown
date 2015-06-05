@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Şili
+title: Şili için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Şili için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Aisén](/iftar.html?sehir=aisén&ulke=Şili)
 * [Antofagasta](/iftar.html?sehir=antofagasta&ulke=Şili)
 * [Biobío](/iftar.html?sehir=biobío&ulke=Şili)

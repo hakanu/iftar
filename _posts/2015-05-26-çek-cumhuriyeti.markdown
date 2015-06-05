@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Çek Cumhuriyeti
+title: Çek Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Çek Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Jihocesky](/iftar.html?sehir=jihocesky&ulke=Çek Cumhuriyeti)
 * [Ustecky](/iftar.html?sehir=ustecky&ulke=Çek Cumhuriyeti)
 * [Ustecky ](/iftar.html?sehir=ustecky &ulke=Çek Cumhuriyeti)

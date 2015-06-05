@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Hırvatistan
+title: Hırvatistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Hırvatistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Grad Zagreb](/iftar.html?sehir=grad zagreb&ulke=Hırvatistan)
 * [Splitsko-dalmatinska](/iftar.html?sehir=splitsko-dalmatinska&ulke=Hırvatistan)
 * [Brodsko-Posavska ](/iftar.html?sehir=brodsko-posavska &ulke=Hırvatistan)

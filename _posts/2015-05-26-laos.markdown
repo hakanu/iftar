@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Laos
+title: Laos için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Laos için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Houaphan](/iftar.html?sehir=houaphan&ulke=Laos)
 * [Savannakhét](/iftar.html?sehir=savannakhét&ulke=Laos)
 * [Vientiane](/iftar.html?sehir=vientiane&ulke=Laos)

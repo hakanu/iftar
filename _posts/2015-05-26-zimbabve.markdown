@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Zimbabve
+title: Zimbabve için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Zimbabve için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Bulawayo](/iftar.html?sehir=bulawayo&ulke=Zimbabve)
 * [Mashonaland Central](/iftar.html?sehir=mashonaland central&ulke=Zimbabve)
 * [Harare](/iftar.html?sehir=harare&ulke=Zimbabve)

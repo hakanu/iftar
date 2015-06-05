@@ -1,6 +1,13 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Singapur
+title: Singapur için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Singapur için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Singapore](/iftar.html?sehir=singapore&ulke=Singapur)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Dominik Cumhuriyeti
+title: Dominik Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Dominik Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [San Juan](/iftar.html?sehir=san juan&ulke=Dominik Cumhuriyeti)
 * [Yuma](/iftar.html?sehir=yuma&ulke=Dominik Cumhuriyeti)
 * [Santiago](/iftar.html?sehir=santiago&ulke=Dominik Cumhuriyeti)

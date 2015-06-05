@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Paraguay
+title: Paraguay için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Paraguay için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Central](/iftar.html?sehir=central&ulke=Paraguay)
 * [Presidente Hayes](/iftar.html?sehir=presidente hayes&ulke=Paraguay)
 * [Amambay](/iftar.html?sehir=amambay&ulke=Paraguay)

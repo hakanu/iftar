@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Liberya
+title: Liberya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Liberya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Grand Bassa](/iftar.html?sehir=grand bassa&ulke=Liberya)
 * [Margibi](/iftar.html?sehir=margibi&ulke=Liberya)
 * [Nimba](/iftar.html?sehir=nimba&ulke=Liberya)

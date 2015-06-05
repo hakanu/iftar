@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Tonga
+title: Tonga için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Tonga için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Vavau](/iftar.html?sehir=vavau&ulke=Tonga)
 * [Vavau ](/iftar.html?sehir=vavau &ulke=Tonga)
 * [Eua](/iftar.html?sehir=eua&ulke=Tonga)

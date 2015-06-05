@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Avustralya
+title: Avustralya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Avustralya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Northern Territory](/iftar.html?sehir=northern territory&ulke=Avustralya)
 * [New South Wales ](/iftar.html?sehir=new south wales &ulke=Avustralya)
 * [Queensland (Wellesley Island)](/iftar.html?sehir=queensland (wellesley island)&ulke=Avustralya)

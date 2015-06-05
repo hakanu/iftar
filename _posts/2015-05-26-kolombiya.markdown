@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kolombiya
+title: Kolombiya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kolombiya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Santander](/iftar.html?sehir=santander&ulke=Kolombiya)
 * [Caqueta](/iftar.html?sehir=caqueta&ulke=Kolombiya)
 * [Bolivar](/iftar.html?sehir=bolivar&ulke=Kolombiya)

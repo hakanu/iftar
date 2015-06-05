@@ -1,6 +1,13 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Niue
+title: Niue için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Niue için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [ Yeni Zelanda](/iftar.html?sehir= yeni zelanda&ulke=Niue)

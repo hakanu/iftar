@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Burundi
+title: Burundi için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Burundi için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Cankuzo](/iftar.html?sehir=cankuzo&ulke=Burundi)
 * [Rutana](/iftar.html?sehir=rutana&ulke=Burundi)
 * [Bururi](/iftar.html?sehir=bururi&ulke=Burundi)

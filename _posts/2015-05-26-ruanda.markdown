@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Ruanda
+title: Ruanda için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Ruanda için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kigali City](/iftar.html?sehir=kigali city&ulke=Ruanda)
 * [Butare](/iftar.html?sehir=butare&ulke=Ruanda)
 * [Cyangugu](/iftar.html?sehir=cyangugu&ulke=Ruanda)

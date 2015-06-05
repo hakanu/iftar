@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İrlanda
+title: İrlanda için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İrlanda için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Sligo](/iftar.html?sehir=sligo&ulke=İrlanda)
 * [Fingal](/iftar.html?sehir=fingal&ulke=İrlanda)
 * [Galway (Aran Islands)](/iftar.html?sehir=galway (aran islands)&ulke=İrlanda)

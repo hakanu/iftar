@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Moğolistan
+title: Moğolistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Moğolistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Dundgovi](/iftar.html?sehir=dundgovi&ulke=Moğolistan)
 * [Ulaanbaatar](/iftar.html?sehir=ulaanbaatar&ulke=Moğolistan)
 * [Bulgan](/iftar.html?sehir=bulgan&ulke=Moğolistan)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Ürdün
+title: Ürdün için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Ürdün için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Tafila](/iftar.html?sehir=tafila&ulke=Ürdün)
 * [Irbid](/iftar.html?sehir=irbid&ulke=Ürdün)
 * [Balqa](/iftar.html?sehir=balqa&ulke=Ürdün)

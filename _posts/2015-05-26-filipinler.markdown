@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Filipinler
+title: Filipinler için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Filipinler için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Navotas](/iftar.html?sehir=navotas&ulke=Filipinler)
 * [Basilan](/iftar.html?sehir=basilan&ulke=Filipinler)
 * [Compostela](/iftar.html?sehir=compostela&ulke=Filipinler)

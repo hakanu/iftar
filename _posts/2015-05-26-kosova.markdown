@@ -1,6 +1,13 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kosova
+title: Kosova için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kosova için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kosova](/iftar.html?sehir=kosova&ulke=Kosova)

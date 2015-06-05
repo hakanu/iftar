@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Vietnam
+title: Vietnam için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Vietnam için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Binh Tri Thien](/iftar.html?sehir=binh tri thien&ulke=Vietnam)
 * [Cuu Long](/iftar.html?sehir=cuu long&ulke=Vietnam)
 * [Quang Ninh](/iftar.html?sehir=quang ninh&ulke=Vietnam)

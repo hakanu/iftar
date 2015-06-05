@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Tanzanya
+title: Tanzanya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Tanzanya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Tanga](/iftar.html?sehir=tanga&ulke=Tanzanya)
 * [Tabora](/iftar.html?sehir=tabora&ulke=Tanzanya)
 * [Mara](/iftar.html?sehir=mara&ulke=Tanzanya)

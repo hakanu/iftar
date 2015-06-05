@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Uganda
+title: Uganda için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Uganda için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Karamoja](/iftar.html?sehir=karamoja&ulke=Uganda)
 * [Northern](/iftar.html?sehir=northern&ulke=Uganda)
 * [Eastern](/iftar.html?sehir=eastern&ulke=Uganda)

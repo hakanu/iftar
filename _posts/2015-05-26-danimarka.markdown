@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Danimarka
+title: Danimarka için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Danimarka için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Nordjylland](/iftar.html?sehir=nordjylland&ulke=Danimarka)
 * [Hovedstaden](/iftar.html?sehir=hovedstaden&ulke=Danimarka)
 * [Århus](/iftar.html?sehir=århus&ulke=Danimarka)

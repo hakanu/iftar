@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Belçika
+title: Belçika için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Belçika için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Antwerpen](/iftar.html?sehir=antwerpen&ulke=Belçika)
 * [Liege](/iftar.html?sehir=liege&ulke=Belçika)
 * [Namur](/iftar.html?sehir=namur&ulke=Belçika)

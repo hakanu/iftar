@@ -1,6 +1,13 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Güney Georgia ve Güney Sandviç Adaları
+title: Güney Georgia ve Güney Sandviç Adaları için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Güney Georgia ve Güney Sandviç Adaları için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Güney Georgia ve Güney Sandviç Adaları)

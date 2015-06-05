@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Afganistan
+title: Afganistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Afganistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Samangan](/iftar.html?sehir=samangan&ulke=Afganistan)
 * [Farah](/iftar.html?sehir=farah&ulke=Afganistan)
 * [Bamyan ](/iftar.html?sehir=bamyan &ulke=Afganistan)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İspanya
+title: İspanya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İspanya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Balearic Islands (Mallorca)](/iftar.html?sehir=balearic islands (mallorca)&ulke=İspanya)
 * [Castilla-La Mancha](/iftar.html?sehir=castilla-la mancha&ulke=İspanya)
 * [Madrid](/iftar.html?sehir=madrid&ulke=İspanya)

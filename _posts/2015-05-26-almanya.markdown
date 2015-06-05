@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Almanya
+title: Almanya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Almanya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Hessen](/iftar.html?sehir=hessen&ulke=Almanya)
 * [Sachsen-Anhalt](/iftar.html?sehir=sachsen-anhalt&ulke=Almanya)
 * [Sachsen ](/iftar.html?sehir=sachsen &ulke=Almanya)

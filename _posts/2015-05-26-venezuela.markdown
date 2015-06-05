@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Venezuela
+title: Venezuela için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Venezuela için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Apure](/iftar.html?sehir=apure&ulke=Venezuela)
 * [Trujillo](/iftar.html?sehir=trujillo&ulke=Venezuela)
 * [Monagas](/iftar.html?sehir=monagas&ulke=Venezuela)

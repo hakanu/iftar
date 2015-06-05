@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Malezya
+title: Malezya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Malezya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Sarawak](/iftar.html?sehir=sarawak&ulke=Malezya)
 * [Pahang](/iftar.html?sehir=pahang&ulke=Malezya)
 * [Kedah](/iftar.html?sehir=kedah&ulke=Malezya)

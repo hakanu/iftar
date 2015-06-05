@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Hollanda
+title: Hollanda için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Hollanda için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Groningen](/iftar.html?sehir=groningen&ulke=Hollanda)
 * [Gelderland](/iftar.html?sehir=gelderland&ulke=Hollanda)
 * [Flevoland](/iftar.html?sehir=flevoland&ulke=Hollanda)

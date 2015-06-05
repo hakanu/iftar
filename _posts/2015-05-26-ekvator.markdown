@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Ekvator
+title: Ekvator için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Ekvator için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Pastaza](/iftar.html?sehir=pastaza&ulke=Ekvator)
 * [El Oro](/iftar.html?sehir=el oro&ulke=Ekvator)
 * [Guayas (Puna Island)](/iftar.html?sehir=guayas (puna island)&ulke=Ekvator)

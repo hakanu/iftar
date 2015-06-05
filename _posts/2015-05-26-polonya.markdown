@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Polonya
+title: Polonya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Polonya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Opolskie](/iftar.html?sehir=opolskie&ulke=Polonya)
 * [Swietokrzyskie](/iftar.html?sehir=swietokrzyskie&ulke=Polonya)
 * [Wojewodztwo Podkarpackie](/iftar.html?sehir=wojewodztwo podkarpackie&ulke=Polonya)

@@ -1,6 +1,13 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Cebelitarık
+title: Cebelitarık için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Cebelitarık için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Cebelitarık)

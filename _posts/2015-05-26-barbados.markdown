@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Barbados
+title: Barbados için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Barbados için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Saint John](/iftar.html?sehir=saint john&ulke=Barbados)
 * [Saint George](/iftar.html?sehir=saint george&ulke=Barbados)
 * [Barbados (general)](/iftar.html?sehir=barbados (general)&ulke=Barbados)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kanada
+title: Kanada için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kanada için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Ontario](/iftar.html?sehir=ontario&ulke=Kanada)
 * [Quebec (Anticosti Island)](/iftar.html?sehir=quebec (anticosti island)&ulke=Kanada)
 * [British Columbia](/iftar.html?sehir=british columbia&ulke=Kanada)

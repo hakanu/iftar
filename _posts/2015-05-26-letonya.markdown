@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Letonya
+title: Letonya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Letonya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Auces Novads](/iftar.html?sehir=auces novads&ulke=Letonya)
 * [Amatas Novads](/iftar.html?sehir=amatas novads&ulke=Letonya)
 * [Alsungas Novads](/iftar.html?sehir=alsungas novads&ulke=Letonya)

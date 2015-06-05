@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kuzey Kore
+title: Kuzey Kore için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kuzey Kore için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Hwanghae-namdo ](/iftar.html?sehir=hwanghae-namdo &ulke=Kuzey Kore)
 * [Hamgyong-bukto ](/iftar.html?sehir=hamgyong-bukto &ulke=Kuzey Kore)
 * [Hamgyong-namdo](/iftar.html?sehir=hamgyong-namdo&ulke=Kuzey Kore)

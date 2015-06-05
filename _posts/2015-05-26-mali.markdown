@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Mali
+title: Mali için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Mali için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Gao](/iftar.html?sehir=gao&ulke=Mali)
 * [Sikasso](/iftar.html?sehir=sikasso&ulke=Mali)
 * [Mopti](/iftar.html?sehir=mopti&ulke=Mali)

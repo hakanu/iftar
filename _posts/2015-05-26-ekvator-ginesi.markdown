@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Ekvator Ginesi
+title: Ekvator Ginesi için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Ekvator Ginesi için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Wele-Nzas ](/iftar.html?sehir=wele-nzas &ulke=Ekvator Ginesi)
 * [Kie-Ntem](/iftar.html?sehir=kie-ntem&ulke=Ekvator Ginesi)
 * [Wele-Nzas](/iftar.html?sehir=wele-nzas&ulke=Ekvator Ginesi)

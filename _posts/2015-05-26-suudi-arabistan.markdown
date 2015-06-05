@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Suudi Arabistan
+title: Suudi Arabistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Suudi Arabistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Najran](/iftar.html?sehir=najran&ulke=Suudi Arabistan)
 * [Al Hawtah](/iftar.html?sehir=al hawtah&ulke=Suudi Arabistan)
 * [Ha`il](/iftar.html?sehir=ha`il&ulke=Suudi Arabistan)

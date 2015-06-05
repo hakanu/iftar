@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Bahreyn
+title: Bahreyn için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Bahreyn için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Al Muharrak (Muharrak)](/iftar.html?sehir=al muharrak (muharrak)&ulke=Bahreyn)
 * [Al-Bahrayn](/iftar.html?sehir=al-bahrayn&ulke=Bahreyn)
 * [Sitrah Island](/iftar.html?sehir=sitrah island&ulke=Bahreyn)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Bhutan
+title: Bhutan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Bhutan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Dagana](/iftar.html?sehir=dagana&ulke=Bhutan)
 * [Chhukha](/iftar.html?sehir=chhukha&ulke=Bhutan)
 * [Chirang](/iftar.html?sehir=chirang&ulke=Bhutan)

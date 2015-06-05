@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Burkina Faso
+title: Burkina Faso için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Burkina Faso için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Boulgou](/iftar.html?sehir=boulgou&ulke=Burkina Faso)
 * [Est](/iftar.html?sehir=est&ulke=Burkina Faso)
 * [Hauts-Bassins](/iftar.html?sehir=hauts-bassins&ulke=Burkina Faso)

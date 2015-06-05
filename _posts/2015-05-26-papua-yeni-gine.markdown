@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Papua Yeni Gine
+title: Papua Yeni Gine için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Papua Yeni Gine için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Milne Bay](/iftar.html?sehir=milne bay&ulke=Papua Yeni Gine)
 * [Gulf](/iftar.html?sehir=gulf&ulke=Papua Yeni Gine)
 * [Morobe](/iftar.html?sehir=morobe&ulke=Papua Yeni Gine)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Solomon Adaları
+title: Solomon Adaları için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Solomon Adaları için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Santa Isabel](/iftar.html?sehir=santa isabel&ulke=Solomon Adaları)
 * [Central (Mbanika Island)](/iftar.html?sehir=central (mbanika island)&ulke=Solomon Adaları)
 * [San Cristobal Island](/iftar.html?sehir=san cristobal island&ulke=Solomon Adaları)

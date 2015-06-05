@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İzlanda
+title: İzlanda için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İzlanda için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kjosarsysla](/iftar.html?sehir=kjosarsysla&ulke=İzlanda)
 * [Sudhur Mulasysla](/iftar.html?sehir=sudhur mulasysla&ulke=İzlanda)
 * [Skagafjardharsysla](/iftar.html?sehir=skagafjardharsysla&ulke=İzlanda)

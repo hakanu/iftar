@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Trinidad ve Tobago
+title: Trinidad ve Tobago için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Trinidad ve Tobago için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Point Fortin](/iftar.html?sehir=point fortin&ulke=Trinidad ve Tobago)
 * [Mayaro/Rio Claro](/iftar.html?sehir=mayaro/rio claro&ulke=Trinidad ve Tobago)
 * [Princes Town](/iftar.html?sehir=princes town&ulke=Trinidad ve Tobago)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Peru
+title: Peru için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Peru için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Pasco](/iftar.html?sehir=pasco&ulke=Peru)
 * [Junin](/iftar.html?sehir=junin&ulke=Peru)
 * [Loreto](/iftar.html?sehir=loreto&ulke=Peru)

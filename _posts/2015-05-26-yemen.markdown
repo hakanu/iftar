@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Yemen
+title: Yemen için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Yemen için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Socotra](/iftar.html?sehir=socotra&ulke=Yemen)
 * [Sadah](/iftar.html?sehir=sadah&ulke=Yemen)
 * [South Yemen](/iftar.html?sehir=south yemen&ulke=Yemen)

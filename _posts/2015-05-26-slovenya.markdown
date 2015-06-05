@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Slovenya
+title: Slovenya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Slovenya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Koper](/iftar.html?sehir=koper&ulke=Slovenya)
 * [Kocevje](/iftar.html?sehir=kocevje&ulke=Slovenya)
 * [Cerknica](/iftar.html?sehir=cerknica&ulke=Slovenya)

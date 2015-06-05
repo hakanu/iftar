@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Bangladeş
+title: Bangladeş için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Bangladeş için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Dhaka](/iftar.html?sehir=dhaka&ulke=Bangladeş)
 * [Rajshahi](/iftar.html?sehir=rajshahi&ulke=Bangladeş)
 * [Rangpur ](/iftar.html?sehir=rangpur &ulke=Bangladeş)

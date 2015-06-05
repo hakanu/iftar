@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Haiti
+title: Haiti için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Haiti için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Sud](/iftar.html?sehir=sud&ulke=Haiti)
 * [Centre](/iftar.html?sehir=centre&ulke=Haiti)
 * [Artibonite](/iftar.html?sehir=artibonite&ulke=Haiti)

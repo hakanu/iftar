@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Ukrayna
+title: Ukrayna için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Ukrayna için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kmelnitskaya Oblast](/iftar.html?sehir=kmelnitskaya oblast&ulke=Ukrayna)
 * [Kmelnitskaya Oblast ](/iftar.html?sehir=kmelnitskaya oblast &ulke=Ukrayna)
 * [Dnipropetrovsk](/iftar.html?sehir=dnipropetrovsk&ulke=Ukrayna)

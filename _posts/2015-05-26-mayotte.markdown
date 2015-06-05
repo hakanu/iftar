@@ -1,6 +1,13 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Mayotte
+title: Mayotte için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Mayotte için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [ Fransa](/iftar.html?sehir= fransa&ulke=Mayotte)

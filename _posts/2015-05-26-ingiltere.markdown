@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İngiltere
+title: İngiltere için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İngiltere için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Merseyside](/iftar.html?sehir=merseyside&ulke=İngiltere)
 * [Peterborough](/iftar.html?sehir=peterborough&ulke=İngiltere)
 * [Hants](/iftar.html?sehir=hants&ulke=İngiltere)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Romanya
+title: Romanya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Romanya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Braila](/iftar.html?sehir=braila&ulke=Romanya)
 * [Suceava](/iftar.html?sehir=suceava&ulke=Romanya)
 * [Mures](/iftar.html?sehir=mures&ulke=Romanya)

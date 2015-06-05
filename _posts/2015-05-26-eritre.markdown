@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Eritre
+title: Eritre için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Eritre için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Denkalia](/iftar.html?sehir=denkalia&ulke=Eritre)
 * [Senhit](/iftar.html?sehir=senhit&ulke=Eritre)
 * [Sahel](/iftar.html?sehir=sahel&ulke=Eritre)

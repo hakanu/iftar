@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Belize
+title: Belize için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Belize için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Corozal](/iftar.html?sehir=corozal&ulke=Belize)
 * [Cayo](/iftar.html?sehir=cayo&ulke=Belize)
 * [Orange Walk](/iftar.html?sehir=orange walk&ulke=Belize)

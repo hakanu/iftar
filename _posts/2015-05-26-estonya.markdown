@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Estonya
+title: Estonya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Estonya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Tartu](/iftar.html?sehir=tartu&ulke=Estonya)
 * [Ida-Viru](/iftar.html?sehir=ida-viru&ulke=Estonya)
 * [Laane](/iftar.html?sehir=laane&ulke=Estonya)

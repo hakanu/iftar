@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Endonezya
+title: Endonezya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Endonezya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [West Kalimantan](/iftar.html?sehir=west kalimantan&ulke=Endonezya)
 * [Moluccas (Kepulauan Leti)](/iftar.html?sehir=moluccas (kepulauan leti)&ulke=Endonezya)
 * [Sulawesi](/iftar.html?sehir=sulawesi&ulke=Endonezya)

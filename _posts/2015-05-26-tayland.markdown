@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Tayland
+title: Tayland için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Tayland için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Phichit](/iftar.html?sehir=phichit&ulke=Tayland)
 * [Prachuap Khiri Khan](/iftar.html?sehir=prachuap khiri khan&ulke=Tayland)
 * [Mukdahan](/iftar.html?sehir=mukdahan&ulke=Tayland)

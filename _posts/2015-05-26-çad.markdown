@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Çad
+title: Çad için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Çad için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Chari-Baguirmi](/iftar.html?sehir=chari-baguirmi&ulke=Çad)
 * [Moyen-Chari](/iftar.html?sehir=moyen-chari&ulke=Çad)
 * [Batha](/iftar.html?sehir=batha&ulke=Çad)

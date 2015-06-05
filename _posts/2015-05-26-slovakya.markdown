@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Slovakya
+title: Slovakya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Slovakya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Trenciansky ](/iftar.html?sehir=trenciansky &ulke=Slovakya)
 * [Nitriansky](/iftar.html?sehir=nitriansky&ulke=Slovakya)
 * [Prešovský](/iftar.html?sehir=prešovský&ulke=Slovakya)

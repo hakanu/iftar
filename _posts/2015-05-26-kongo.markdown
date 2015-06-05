@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kongo
+title: Kongo için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kongo için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kinshasa](/iftar.html?sehir=kinshasa&ulke=Kongo)
 * [Cuvette-Ouest](/iftar.html?sehir=cuvette-ouest&ulke=Kongo)
 * [Plateaux](/iftar.html?sehir=plateaux&ulke=Kongo)

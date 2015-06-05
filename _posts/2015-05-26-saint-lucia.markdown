@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Saint Lucia
+title: Saint Lucia için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Saint Lucia için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Gros-Islet](/iftar.html?sehir=gros-islet&ulke=Saint Lucia)
 * [Laborie](/iftar.html?sehir=laborie&ulke=Saint Lucia)
 * [Anse-la-Raye](/iftar.html?sehir=anse-la-raye&ulke=Saint Lucia)

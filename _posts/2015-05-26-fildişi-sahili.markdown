@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Fildişi Sahili
+title: Fildişi Sahili için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Fildişi Sahili için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Mankono](/iftar.html?sehir=mankono&ulke=Fildişi Sahili)
 * [Tabou](/iftar.html?sehir=tabou&ulke=Fildişi Sahili)
 * [Odienne](/iftar.html?sehir=odienne&ulke=Fildişi Sahili)

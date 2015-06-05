@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Benin
+title: Benin için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Benin için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Borgou](/iftar.html?sehir=borgou&ulke=Benin)
 * [Mono](/iftar.html?sehir=mono&ulke=Benin)
 * [Atakora](/iftar.html?sehir=atakora&ulke=Benin)

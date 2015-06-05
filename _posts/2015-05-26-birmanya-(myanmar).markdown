@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Birmanya (Myanmar)
+title: Birmanya (Myanmar) için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Birmanya (Myanmar) için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Tenasserim](/iftar.html?sehir=tenasserim&ulke=Birmanya (Myanmar))
 * [Magway](/iftar.html?sehir=magway&ulke=Birmanya (Myanmar))
 * [Tanintharyi](/iftar.html?sehir=tanintharyi&ulke=Birmanya (Myanmar))

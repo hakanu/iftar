@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Namibia
+title: Namibia için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Namibia için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Khomas](/iftar.html?sehir=khomas&ulke=Namibia)
 * [Otjozondjupa](/iftar.html?sehir=otjozondjupa&ulke=Namibia)
 * [Kunene](/iftar.html?sehir=kunene&ulke=Namibia)

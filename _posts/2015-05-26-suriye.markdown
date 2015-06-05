@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Suriye
+title: Suriye için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Suriye için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Al Ladhiqiyah](/iftar.html?sehir=al ladhiqiyah&ulke=Suriye)
 * [Idlib](/iftar.html?sehir=idlib&ulke=Suriye)
 * [Suriye](/iftar.html?sehir=suriye&ulke=Suriye)

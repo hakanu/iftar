@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Panama
+title: Panama için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Panama için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Los Santos](/iftar.html?sehir=los santos&ulke=Panama)
 * [Colon Island (Bocas Del Toro)](/iftar.html?sehir=colon island (bocas del toro)&ulke=Panama)
 * [Panama](/iftar.html?sehir=panama&ulke=Panama)

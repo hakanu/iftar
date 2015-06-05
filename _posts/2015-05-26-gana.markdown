@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Gana
+title: Gana için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Gana için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Upper East](/iftar.html?sehir=upper east&ulke=Gana)
 * [Brong-Ahafo](/iftar.html?sehir=brong-ahafo&ulke=Gana)
 * [Central](/iftar.html?sehir=central&ulke=Gana)

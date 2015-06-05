@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İran
+title: İran için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İran için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Markazi](/iftar.html?sehir=markazi&ulke=İran)
 * [Mazandaran](/iftar.html?sehir=mazandaran&ulke=İran)
 * [Ardabil](/iftar.html?sehir=ardabil&ulke=İran)

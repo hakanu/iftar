@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Özbekistan
+title: Özbekistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Özbekistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Bukhoro Wiloyati](/iftar.html?sehir=bukhoro wiloyati&ulke=Özbekistan)
 * [Namangan](/iftar.html?sehir=namangan&ulke=Özbekistan)
 * [Farghona Wiloyati](/iftar.html?sehir=farghona wiloyati&ulke=Özbekistan)

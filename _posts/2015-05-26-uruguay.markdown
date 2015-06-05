@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Uruguay
+title: Uruguay için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Uruguay için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Salto](/iftar.html?sehir=salto&ulke=Uruguay)
 * [Cerro Largo](/iftar.html?sehir=cerro largo&ulke=Uruguay)
 * [Colonia](/iftar.html?sehir=colonia&ulke=Uruguay)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İtalya
+title: İtalya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İtalya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Sicilia (Eolie Islands) ](/iftar.html?sehir=sicilia (eolie islands) &ulke=İtalya)
 * [Madura](/iftar.html?sehir=madura&ulke=İtalya)
 * [Piemonte](/iftar.html?sehir=piemonte&ulke=İtalya)

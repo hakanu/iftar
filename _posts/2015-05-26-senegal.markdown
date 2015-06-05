@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Senegal
+title: Senegal için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Senegal için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kaolack](/iftar.html?sehir=kaolack&ulke=Senegal)
 * [Kolda](/iftar.html?sehir=kolda&ulke=Senegal)
 * [Kedougou](/iftar.html?sehir=kedougou&ulke=Senegal)

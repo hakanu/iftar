@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Etiyopya
+title: Etiyopya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Etiyopya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Amhara](/iftar.html?sehir=amhara&ulke=Etiyopya)
 * [Sidamo](/iftar.html?sehir=sidamo&ulke=Etiyopya)
 * [Tigray](/iftar.html?sehir=tigray&ulke=Etiyopya)

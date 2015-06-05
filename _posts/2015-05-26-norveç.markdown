@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Norveç
+title: Norveç için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Norveç için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Nordland](/iftar.html?sehir=nordland&ulke=Norveç)
 * [Hedmark](/iftar.html?sehir=hedmark&ulke=Norveç)
 * [Nordland (Andoy Island)](/iftar.html?sehir=nordland (andoy island)&ulke=Norveç)

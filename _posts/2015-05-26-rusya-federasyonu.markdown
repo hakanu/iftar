@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Rusya Federasyonu
+title: Rusya Federasyonu için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Rusya Federasyonu için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kursk Oblast](/iftar.html?sehir=kursk oblast&ulke=Rusya Federasyonu)
 * [Khakasiya](/iftar.html?sehir=khakasiya&ulke=Rusya Federasyonu)
 * [Tatarstan ](/iftar.html?sehir=tatarstan &ulke=Rusya Federasyonu)

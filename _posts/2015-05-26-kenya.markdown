@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kenya
+title: Kenya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kenya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Central](/iftar.html?sehir=central&ulke=Kenya)
 * [Eastern](/iftar.html?sehir=eastern&ulke=Kenya)
 * [Coast](/iftar.html?sehir=coast&ulke=Kenya)

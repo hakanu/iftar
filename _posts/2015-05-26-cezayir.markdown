@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Cezayir
+title: Cezayir için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Cezayir için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Mestghanem](/iftar.html?sehir=mestghanem&ulke=Cezayir)
 * [Tihert](/iftar.html?sehir=tihert&ulke=Cezayir)
 * [Stif](/iftar.html?sehir=stif&ulke=Cezayir)

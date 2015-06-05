@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Avusturya
+title: Avusturya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Avusturya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Vorarlberg](/iftar.html?sehir=vorarlberg&ulke=Avusturya)
 * [Salzburg](/iftar.html?sehir=salzburg&ulke=Avusturya)
 * [Wien](/iftar.html?sehir=wien&ulke=Avusturya)

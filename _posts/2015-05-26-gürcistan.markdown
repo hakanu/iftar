@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Gürcistan
+title: Gürcistan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Gürcistan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Adzharia](/iftar.html?sehir=adzharia&ulke=Gürcistan)
 * [Jugo-Osetija](/iftar.html?sehir=jugo-osetija&ulke=Gürcistan)
 * [Abkhazia](/iftar.html?sehir=abkhazia&ulke=Gürcistan)

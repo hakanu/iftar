@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Nijer
+title: Nijer için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Nijer için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Tahoua](/iftar.html?sehir=tahoua&ulke=Nijer)
 * [Dosso](/iftar.html?sehir=dosso&ulke=Nijer)
 * [Niamey](/iftar.html?sehir=niamey&ulke=Nijer)

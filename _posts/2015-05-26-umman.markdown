@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Umman
+title: Umman için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Umman için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [al-Dakhiliyah](/iftar.html?sehir=al-dakhiliyah&ulke=Umman)
 * [Oman](/iftar.html?sehir=oman&ulke=Umman)
 * [Musandam](/iftar.html?sehir=musandam&ulke=Umman)

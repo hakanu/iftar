@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Lübnan
+title: Lübnan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Lübnan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Ash-Samal](/iftar.html?sehir=ash-samal&ulke=Lübnan)
 * [Jabal Lubnan](/iftar.html?sehir=jabal lubnan&ulke=Lübnan)
 * [Al-Janub](/iftar.html?sehir=al-janub&ulke=Lübnan)

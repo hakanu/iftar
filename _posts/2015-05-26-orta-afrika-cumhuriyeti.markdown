@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Orta Afrika Cumhuriyeti
+title: Orta Afrika Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Orta Afrika Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Lobaye](/iftar.html?sehir=lobaye&ulke=Orta Afrika Cumhuriyeti)
 * [Sangha-Mbaere](/iftar.html?sehir=sangha-mbaere&ulke=Orta Afrika Cumhuriyeti)
 * [Basse-Kotto](/iftar.html?sehir=basse-kotto&ulke=Orta Afrika Cumhuriyeti)

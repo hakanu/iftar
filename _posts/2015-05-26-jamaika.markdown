@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Jamaika
+title: Jamaika için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Jamaika için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Saint Catherine](/iftar.html?sehir=saint catherine&ulke=Jamaika)
 * [Trelawnly](/iftar.html?sehir=trelawnly&ulke=Jamaika)
 * [Kingston](/iftar.html?sehir=kingston&ulke=Jamaika)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Güney Afrika
+title: Güney Afrika için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Güney Afrika için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Gauteng](/iftar.html?sehir=gauteng&ulke=Güney Afrika)
 * [Eastern Cape](/iftar.html?sehir=eastern cape&ulke=Güney Afrika)
 * [Western Cape](/iftar.html?sehir=western cape&ulke=Güney Afrika)

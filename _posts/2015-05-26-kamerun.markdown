@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kamerun
+title: Kamerun için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kamerun için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Sud-Ouest](/iftar.html?sehir=sud-ouest&ulke=Kamerun)
 * [Est](/iftar.html?sehir=est&ulke=Kamerun)
 * [Centre](/iftar.html?sehir=centre&ulke=Kamerun)

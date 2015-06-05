@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Dominika
+title: Dominika için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Dominika için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Saint John](/iftar.html?sehir=saint john&ulke=Dominika)
 * [Saint George](/iftar.html?sehir=saint george&ulke=Dominika)
 * [Saint Paul](/iftar.html?sehir=saint paul&ulke=Dominika)

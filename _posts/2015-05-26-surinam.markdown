@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Surinam
+title: Surinam için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Surinam için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Saramacca](/iftar.html?sehir=saramacca&ulke=Surinam)
 * [Coronie](/iftar.html?sehir=coronie&ulke=Surinam)
 * [Brokopondo](/iftar.html?sehir=brokopondo&ulke=Surinam)

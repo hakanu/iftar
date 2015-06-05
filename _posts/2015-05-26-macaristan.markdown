@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Macaristan
+title: Macaristan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Macaristan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Budapest](/iftar.html?sehir=budapest&ulke=Macaristan)
 * [Heves](/iftar.html?sehir=heves&ulke=Macaristan)
 * [Zala](/iftar.html?sehir=zala&ulke=Macaristan)

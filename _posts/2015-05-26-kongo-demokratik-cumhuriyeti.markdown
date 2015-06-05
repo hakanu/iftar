@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Kongo Demokratik Cumhuriyeti
+title: Kongo Demokratik Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Kongo Demokratik Cumhuriyeti için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Kinshasa](/iftar.html?sehir=kinshasa&ulke=Kongo Demokratik Cumhuriyeti)
 * [Bandundu](/iftar.html?sehir=bandundu&ulke=Kongo Demokratik Cumhuriyeti)
 * [Katanga](/iftar.html?sehir=katanga&ulke=Kongo Demokratik Cumhuriyeti)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Arjantin
+title: Arjantin için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Arjantin için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Jujuy](/iftar.html?sehir=jujuy&ulke=Arjantin)
 * [San Juan](/iftar.html?sehir=san juan&ulke=Arjantin)
 * [Chaco](/iftar.html?sehir=chaco&ulke=Arjantin)

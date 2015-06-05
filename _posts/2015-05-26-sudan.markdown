@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Sudan
+title: Sudan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Sudan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Gharb Bahr al Ghazal](/iftar.html?sehir=gharb bahr al ghazal&ulke=Sudan)
 * [Ash-Shamaliyah](/iftar.html?sehir=ash-shamaliyah&ulke=Sudan)
 * [Darfur al Gharbiyah](/iftar.html?sehir=darfur al gharbiyah&ulke=Sudan)

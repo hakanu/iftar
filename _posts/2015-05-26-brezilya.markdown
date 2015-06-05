@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Brezilya
+title: Brezilya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Brezilya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [São Paulo](/iftar.html?sehir=são paulo&ulke=Brezilya)
 * [Rio Grande do Norte](/iftar.html?sehir=rio grande do norte&ulke=Brezilya)
 * [Tocantins](/iftar.html?sehir=tocantins&ulke=Brezilya)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Madagaskar
+title: Madagaskar için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Madagaskar için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Mahajanga](/iftar.html?sehir=mahajanga&ulke=Madagaskar)
 * [Antananarivo](/iftar.html?sehir=antananarivo&ulke=Madagaskar)
 * [Toamasina](/iftar.html?sehir=toamasina&ulke=Madagaskar)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Bahama Adaları
+title: Bahama Adaları için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Bahama Adaları için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Rum Cay Island](/iftar.html?sehir=rum cay island&ulke=Bahama Adaları)
 * [Eleuthera Island](/iftar.html?sehir=eleuthera island&ulke=Bahama Adaları)
 * [West Grand Bahama](/iftar.html?sehir=west grand bahama&ulke=Bahama Adaları)

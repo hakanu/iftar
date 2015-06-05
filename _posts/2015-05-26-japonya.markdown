@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Japonya
+title: Japonya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Japonya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Honshu (Aichi-ken)](/iftar.html?sehir=honshu (aichi-ken)&ulke=Japonya)
 * [Kyushu (Oita)](/iftar.html?sehir=kyushu (oita)&ulke=Japonya)
 * [Honshu (Yamaguchi-ken)](/iftar.html?sehir=honshu (yamaguchi-ken)&ulke=Japonya)

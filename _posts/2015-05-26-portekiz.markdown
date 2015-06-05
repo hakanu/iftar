@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Portekiz
+title: Portekiz için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Portekiz için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Leiria](/iftar.html?sehir=leiria&ulke=Portekiz)
 * [Porto](/iftar.html?sehir=porto&ulke=Portekiz)
 * [Guarda](/iftar.html?sehir=guarda&ulke=Portekiz)

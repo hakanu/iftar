@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Tayvan
+title: Tayvan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Tayvan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Chungyang Shanmo](/iftar.html?sehir=chungyang shanmo&ulke=Tayvan)
 * [Peng-hu Hsien](/iftar.html?sehir=peng-hu hsien&ulke=Tayvan)
 * [Tai-nan Hsien](/iftar.html?sehir=tai-nan hsien&ulke=Tayvan)

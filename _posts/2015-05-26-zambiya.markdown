@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Zambiya
+title: Zambiya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Zambiya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Central](/iftar.html?sehir=central&ulke=Zambiya)
 * [Northern](/iftar.html?sehir=northern&ulke=Zambiya)
 * [Eastern](/iftar.html?sehir=eastern&ulke=Zambiya)

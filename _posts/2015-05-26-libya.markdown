@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Libya
+title: Libya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Libya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Al Wahat ](/iftar.html?sehir=al wahat &ulke=Libya)
 * [Surt ](/iftar.html?sehir=surt &ulke=Libya)
 * [Al Jabal al Akhdar](/iftar.html?sehir=al jabal al akhdar&ulke=Libya)

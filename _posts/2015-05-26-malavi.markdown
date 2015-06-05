@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Malavi
+title: Malavi için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Malavi için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Central](/iftar.html?sehir=central&ulke=Malavi)
 * [Southern](/iftar.html?sehir=southern&ulke=Malavi)
 * [Northern](/iftar.html?sehir=northern&ulke=Malavi)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Brunei
+title: Brunei için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Brunei için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Brunei and Muara](/iftar.html?sehir=brunei and muara&ulke=Brunei)
 * [Belait](/iftar.html?sehir=belait&ulke=Brunei)
 * [Temburong](/iftar.html?sehir=temburong&ulke=Brunei)

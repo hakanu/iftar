@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - İsrail
+title: İsrail için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## İsrail için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [West Bank](/iftar.html?sehir=west bank&ulke=İsrail)
 * [Yerushalayim](/iftar.html?sehir=yerushalayim&ulke=İsrail)
 * [HaDarom](/iftar.html?sehir=hadarom&ulke=İsrail)

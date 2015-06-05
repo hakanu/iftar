@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Angola
+title: Angola için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Angola için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Moxico](/iftar.html?sehir=moxico&ulke=Angola)
 * [Luanda](/iftar.html?sehir=luanda&ulke=Angola)
 * [Cuanza Norte](/iftar.html?sehir=cuanza norte&ulke=Angola)

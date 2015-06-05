@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Moldavya
+title: Moldavya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Moldavya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Transnistria](/iftar.html?sehir=transnistria&ulke=Moldavya)
 * [Causeni](/iftar.html?sehir=causeni&ulke=Moldavya)
 * [Edinet](/iftar.html?sehir=edinet&ulke=Moldavya)

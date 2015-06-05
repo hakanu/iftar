@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Irak
+title: Irak için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Irak için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Al-Anbar](/iftar.html?sehir=al-anbar&ulke=Irak)
 * [Al-Basrah](/iftar.html?sehir=al-basrah&ulke=Irak)
 * [Al-Muthanna](/iftar.html?sehir=al-muthanna&ulke=Irak)

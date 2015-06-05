@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Bolivya
+title: Bolivya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Bolivya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Potosi](/iftar.html?sehir=potosi&ulke=Bolivya)
 * [Cochabamba](/iftar.html?sehir=cochabamba&ulke=Bolivya)
 * [Potosí](/iftar.html?sehir=potosí&ulke=Bolivya)

@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Vanuatu
+title: Vanuatu için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Vanuatu için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Anatom Island](/iftar.html?sehir=anatom island&ulke=Vanuatu)
 * [Erromango Island](/iftar.html?sehir=erromango island&ulke=Vanuatu)
 * [Efate Island](/iftar.html?sehir=efate island&ulke=Vanuatu)

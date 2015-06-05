@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Mısır
+title: Mısır için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Mısır için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Bur Said](/iftar.html?sehir=bur said&ulke=Mısır)
 * [Al Ismailiyah](/iftar.html?sehir=al ismailiyah&ulke=Mısır)
 * [Ash Sharqiyah](/iftar.html?sehir=ash sharqiyah&ulke=Mısır)

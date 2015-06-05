@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Bulgaristan
+title: Bulgaristan için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Bulgaristan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Sliven](/iftar.html?sehir=sliven&ulke=Bulgaristan)
 * [Blagoevgrad](/iftar.html?sehir=blagoevgrad&ulke=Bulgaristan)
 * [Sofiya-Grad ](/iftar.html?sehir=sofiya-grad &ulke=Bulgaristan)

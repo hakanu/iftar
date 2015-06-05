@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Marşal Adaları
+title: Marşal Adaları için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Marşal Adaları için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Ailinglaplap](/iftar.html?sehir=ailinglaplap&ulke=Marşal Adaları)
 * [Ralik Chain](/iftar.html?sehir=ralik chain&ulke=Marşal Adaları)
 * [Ailinginae](/iftar.html?sehir=ailinginae&ulke=Marşal Adaları)

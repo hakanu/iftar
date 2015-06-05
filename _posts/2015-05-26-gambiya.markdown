@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Gambiya
+title: Gambiya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Gambiya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [MacCarthy Island](/iftar.html?sehir=maccarthy island&ulke=Gambiya)
 * [The Gambia](/iftar.html?sehir=the gambia&ulke=Gambiya)
 * [North Bank](/iftar.html?sehir=north bank&ulke=Gambiya)

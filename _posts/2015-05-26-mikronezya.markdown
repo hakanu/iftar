@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Mikronezya
+title: Mikronezya için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Mikronezya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Pohnpei](/iftar.html?sehir=pohnpei&ulke=Mikronezya)
 * [Chuuk](/iftar.html?sehir=chuuk&ulke=Mikronezya)
 * [Yap](/iftar.html?sehir=yap&ulke=Mikronezya)

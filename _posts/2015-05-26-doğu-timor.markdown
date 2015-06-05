@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Doğu Timor
+title: Doğu Timor için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Doğu Timor için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Dili](/iftar.html?sehir=dili&ulke=Doğu Timor)
 * [Viqueque](/iftar.html?sehir=viqueque&ulke=Doğu Timor)
 * [Manufahi](/iftar.html?sehir=manufahi&ulke=Doğu Timor)

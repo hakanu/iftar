@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Fas
+title: Fas için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Fas için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Marrakech-Tensift-Al Haouz ](/iftar.html?sehir=marrakech-tensift-al haouz &ulke=Fas)
 * [Western Sahara](/iftar.html?sehir=western sahara&ulke=Fas)
 * [Gharb-Chrarda-Beni Hssen](/iftar.html?sehir=gharb-chrarda-beni hssen&ulke=Fas)

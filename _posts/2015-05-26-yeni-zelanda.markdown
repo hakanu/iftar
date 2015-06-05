@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Yeni Zelanda
+title: Yeni Zelanda için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Yeni Zelanda için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Chatham Islands](/iftar.html?sehir=chatham islands&ulke=Yeni Zelanda)
 * [South Island (Nelson)](/iftar.html?sehir=south island (nelson)&ulke=Yeni Zelanda)
 * [South Island (Otago)](/iftar.html?sehir=south island (otago)&ulke=Yeni Zelanda)

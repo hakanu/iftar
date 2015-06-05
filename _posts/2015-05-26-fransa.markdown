@@ -1,8 +1,15 @@
 ---
 layout: single_ulke
 category: ulke
-title: Şehir seç - Fransa
+title: Fransa için iftar ve namaz vakitlerini görmek için şehir seç
 ---
+
+
+## Fransa için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
 * [Hautes Alpes](/iftar.html?sehir=hautes alpes&ulke=Fransa)
 * [Maine-et-Loire](/iftar.html?sehir=maine-et-loire&ulke=Fransa)
 * [Ardeche](/iftar.html?sehir=ardeche&ulke=Fransa)
