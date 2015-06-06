@@ -6,13 +6,13 @@ title: En çok aranan şehirler
 description: İftar vakitleri en çok aranan şehirler
 ---
 
-* [İstanbul](/iftar.html?sehir=İSTANBUL&ulke=TÜRKİYE)
-* [Ankara](/iftar.html?sehir=ANKARA&ulke=TÜRKİYE)
-* [Bakü (Bakı)](/iftar.html?sehir=BAKÜ&ulke=AZERBEYCAN)
-* [İzmir](/iftar.html?sehir=İZMİR&ulke=TÜRKİYE)
-* [New York](/iftar.html?sehir=NEW&ulke=ABD)
-* [Bursa](/iftar.html?sehir=BURSA&ulke=TÜRKİYE)
-* [Berlin](/iftar.html?sehir=BERLIN&ulke=ALMANYA)
-* [Viyana (Wien)](/iftar.html?sehir=VIYANA&ulke=AVUSTURYA)
-* [Köln](/iftar.html?sehir=KÖLN&ulke=ALMANYA)
-* [Kayseri](/iftar.html?sehir=KAYSERI&ulke=TÜRKİYE)
+* [İstanbul](/iftar.html?sehir=Istanbul&ulke=TÜRKİYE)
+* [Ankara](/iftar.html?sehir=Ankara&ulke=TÜRKİYE)
+* [Bakü (Baki)](/iftar.html?sehir=Bakü&ulke=AZERBEYCAN)
+* [İzmir](/iftar.html?sehir=Izmir&ulke=TÜRKİYE)
+* [New York](/iftar.html?sehir=New york&ulke=ABD)
+* [Bursa](/iftar.html?sehir=Bursa&ulke=TÜRKİYE)
+* [Berlin](/iftar.html?sehir=Berlin&ulke=ALMANYA)
+* [Viyana (Wien)](/iftar.html?sehir=Viyana&ulke=AVUSTURYA)
+* [Köln](/iftar.html?sehir=Köln&ulke=ALMANYA)
+* [Kayseri](/iftar.html?sehir=Kayseri&ulke=TÜRKİYE)
