@@ -10,6 +10,7 @@ title: Almanya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Hessen](/iftar.html?sehir=Hessen&ulke=Almanya)
 * [Sachsen-Anhalt](/iftar.html?sehir=Sachsen-Anhalt&ulke=Almanya)
 * [Sachsen ](/iftar.html?sehir=Sachsen &ulke=Almanya)
@@ -29,3 +30,26 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Rheinland-Pfalz](/iftar.html?sehir=Rheinland-Pfalz&ulke=Almanya)
 * [Sachsen](/iftar.html?sehir=Sachsen&ulke=Almanya)
 * [Niedersachsen (Borkum Island)](/iftar.html?sehir=Niedersachsen (Borkum Island)&ulke=Almanya)
+=======
+* [Hessen](/iftar.html?sehir=hessen&ulke=Almanya)
+* [Sachsen-Anhalt](/iftar.html?sehir=sachsen-anhalt&ulke=Almanya)
+* [Sachsen ](/iftar.html?sehir=sachsen &ulke=Almanya)
+* [Nordrhein-Westfalen](/iftar.html?sehir=nordrhein-westfalen&ulke=Almanya)
+* [Niedersachsen ](/iftar.html?sehir=niedersachsen &ulke=Almanya)
+* [Saarland](/iftar.html?sehir=saarland&ulke=Almanya)
+* [Brandenburg](/iftar.html?sehir=brandenburg&ulke=Almanya)
+* [Schleswig-Holstein](/iftar.html?sehir=schleswig-holstein&ulke=Almanya)
+* [Bremen](/iftar.html?sehir=bremen&ulke=Almanya)
+* [Niedersachsen](/iftar.html?sehir=niedersachsen&ulke=Almanya)
+* [Nordrhein-Westfalen ](/iftar.html?sehir=nordrhein-westfalen &ulke=Almanya)
+* [Berlin](/iftar.html?sehir=berlin&ulke=Almanya)
+* [Baden-Württemberg](/iftar.html?sehir=baden-württemberg&ulke=Almanya)
+* [Baden-Württemberg ](/iftar.html?sehir=baden-württemberg &ulke=Almanya)
+* [Hamburg](/iftar.html?sehir=hamburg&ulke=Almanya)
+* [Mecklenburg-Vorpommern](/iftar.html?sehir=mecklenburg-vorpommern&ulke=Almanya)
+* [Thüringen](/iftar.html?sehir=thüringen&ulke=Almanya)
+* [Bayern](/iftar.html?sehir=bayern&ulke=Almanya)
+* [Rheinland-Pfalz](/iftar.html?sehir=rheinland-pfalz&ulke=Almanya)
+* [Sachsen](/iftar.html?sehir=sachsen&ulke=Almanya)
+* [Niedersachsen - Borkum Island)](/iftar.html?sehir=niedersachsen - borkum island)&ulke=Almanya)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

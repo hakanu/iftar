@@ -10,6 +10,7 @@ title: Norveç için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Nordland](/iftar.html?sehir=Nordland&ulke=Norveç)
 * [Hedmark](/iftar.html?sehir=Hedmark&ulke=Norveç)
 * [Nordland (Andoy Island)](/iftar.html?sehir=Nordland (Andoy Island)&ulke=Norveç)
@@ -30,3 +31,31 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Telemark](/iftar.html?sehir=Telemark&ulke=Norveç)
 * [Hordaland ](/iftar.html?sehir=Hordaland &ulke=Norveç)
 * [Troms (Senja Island)](/iftar.html?sehir=Troms (Senja Island)&ulke=Norveç)
+=======
+* [Sogn og Fjordane](/iftar.html?sehir=sogn og fjordane&ulke=Norveç)
+* [Oslo](/iftar.html?sehir=oslo&ulke=Norveç)
+* [Vest-Agder](/iftar.html?sehir=vest-agder&ulke=Norveç)
+* [Finnmark - Soroya Island)](/iftar.html?sehir=finnmark - soroya island)&ulke=Norveç)
+* [Østfold](/iftar.html?sehir=østfold&ulke=Norveç)
+* [Østfold ](/iftar.html?sehir=østfold &ulke=Norveç)
+* [Sør-Trøndelag - Hitra Island)](/iftar.html?sehir=sør-trøndelag - hitra island)&ulke=Norveç)
+* [Nordland - Andoy Island)](/iftar.html?sehir=nordland - andoy island)&ulke=Norveç)
+* [Aust-Agder](/iftar.html?sehir=aust-agder&ulke=Norveç)
+* [Finnmark](/iftar.html?sehir=finnmark&ulke=Norveç)
+* [Telemark](/iftar.html?sehir=telemark&ulke=Norveç)
+* [Hordaland](/iftar.html?sehir=hordaland&ulke=Norveç)
+* [Akershus](/iftar.html?sehir=akershus&ulke=Norveç)
+* [Troms - Senja Island)](/iftar.html?sehir=troms - senja island)&ulke=Norveç)
+* [Nord-Trøndelag](/iftar.html?sehir=nord-trøndelag&ulke=Norveç)
+* [Hedmark](/iftar.html?sehir=hedmark&ulke=Norveç)
+* [Troms](/iftar.html?sehir=troms&ulke=Norveç)
+* [Oppland](/iftar.html?sehir=oppland&ulke=Norveç)
+* [Hordaland ](/iftar.html?sehir=hordaland &ulke=Norveç)
+* [Sogn Og Fjordane](/iftar.html?sehir=sogn og fjordane&ulke=Norveç)
+* [Rogaland](/iftar.html?sehir=rogaland&ulke=Norveç)
+* [Buskerud](/iftar.html?sehir=buskerud&ulke=Norveç)
+* [Nordland](/iftar.html?sehir=nordland&ulke=Norveç)
+* [Møre og Romsdal](/iftar.html?sehir=møre og romsdal&ulke=Norveç)
+* [Vestfold](/iftar.html?sehir=vestfold&ulke=Norveç)
+* [Sør-Trøndelag](/iftar.html?sehir=sør-trøndelag&ulke=Norveç)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

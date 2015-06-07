@@ -10,6 +10,7 @@ title: Slovakya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Trenciansky ](/iftar.html?sehir=Trenciansky &ulke=Slovakya)
 * [Nitriansky](/iftar.html?sehir=Nitriansky&ulke=Slovakya)
 * [Prešovský](/iftar.html?sehir=Prešovský&ulke=Slovakya)
@@ -21,3 +22,23 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Bratislavský](/iftar.html?sehir=Bratislavský&ulke=Slovakya)
 * [Presovsky](/iftar.html?sehir=Presovsky&ulke=Slovakya)
 * [Bratislavsky](/iftar.html?sehir=Bratislavsky&ulke=Slovakya)
+=======
+* [Prešovský](/iftar.html?sehir=prešovský&ulke=Slovakya)
+* [Trenciansky ](/iftar.html?sehir=trenciansky &ulke=Slovakya)
+* [Žilinský](/iftar.html?sehir=žilinský&ulke=Slovakya)
+* [Nitriansky](/iftar.html?sehir=nitriansky&ulke=Slovakya)
+* [Banskobystrický](/iftar.html?sehir=banskobystrický&ulke=Slovakya)
+* [Prešovský ](/iftar.html?sehir=prešovský &ulke=Slovakya)
+* [Trenciansky](/iftar.html?sehir=trenciansky&ulke=Slovakya)
+* [Zilinsky](/iftar.html?sehir=zilinsky&ulke=Slovakya)
+* [Trnavsky](/iftar.html?sehir=trnavsky&ulke=Slovakya)
+* [Bratislavský ](/iftar.html?sehir=bratislavský &ulke=Slovakya)
+* [Kosicky](/iftar.html?sehir=kosicky&ulke=Slovakya)
+* [Žilinský ](/iftar.html?sehir=žilinský &ulke=Slovakya)
+* [Bratislavsky ](/iftar.html?sehir=bratislavsky &ulke=Slovakya)
+* [Košický](/iftar.html?sehir=košický&ulke=Slovakya)
+* [Bratislavský](/iftar.html?sehir=bratislavský&ulke=Slovakya)
+* [Banskobystrický ](/iftar.html?sehir=banskobystrický &ulke=Slovakya)
+* [Presovsky](/iftar.html?sehir=presovsky&ulke=Slovakya)
+* [Bratislavsky](/iftar.html?sehir=bratislavsky&ulke=Slovakya)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

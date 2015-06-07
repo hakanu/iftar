@@ -10,6 +10,7 @@ title: Şili için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Aisén](/iftar.html?sehir=Aisén&ulke=Şili)
 * [Antofagasta](/iftar.html?sehir=Antofagasta&ulke=Şili)
 * [Biobío](/iftar.html?sehir=Biobío&ulke=Şili)
@@ -34,3 +35,29 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Araucanía](/iftar.html?sehir=Araucanía&ulke=Şili)
 * [Araucania](/iftar.html?sehir=Araucania&ulke=Şili)
 * [Valparaiso](/iftar.html?sehir=Valparaiso&ulke=Şili)
+=======
+* [Aisén](/iftar.html?sehir=aisén&ulke=Şili)
+* [Antofagasta](/iftar.html?sehir=antofagasta&ulke=Şili)
+* [Biobío](/iftar.html?sehir=biobío&ulke=Şili)
+* [Magallanes-Antártica](/iftar.html?sehir=magallanes-antártica&ulke=Şili)
+* [Los Lagos](/iftar.html?sehir=los lagos&ulke=Şili)
+* [Western Tierra del Fuego](/iftar.html?sehir=western tierra del fuego&ulke=Şili)
+* [Coquimbo](/iftar.html?sehir=coquimbo&ulke=Şili)
+* [Valparaiso / Easter Island](/iftar.html?sehir=valparaiso / easter island&ulke=Şili)
+* [Robinson Crusoe Island - Juan F.I.)](/iftar.html?sehir=robinson crusoe island - juan f.i.)&ulke=Şili)
+* [Atacama](/iftar.html?sehir=atacama&ulke=Şili)
+* [Santiago](/iftar.html?sehir=santiago&ulke=Şili)
+* [Tarapaca](/iftar.html?sehir=tarapaca&ulke=Şili)
+* [Biobio](/iftar.html?sehir=biobio&ulke=Şili)
+* [Maule](/iftar.html?sehir=maule&ulke=Şili)
+* [Aisen](/iftar.html?sehir=aisen&ulke=Şili)
+* [Easter Island](/iftar.html?sehir=easter island&ulke=Şili)
+* [OHiggins](/iftar.html?sehir=ohiggins&ulke=Şili)
+* [Magallanes-Antartica](/iftar.html?sehir=magallanes-antartica&ulke=Şili)
+* [Los Lagos - Chiloe Island)](/iftar.html?sehir=los lagos - chiloe island)&ulke=Şili)
+* [Valparaíso](/iftar.html?sehir=valparaíso&ulke=Şili)
+* [Tarapacá](/iftar.html?sehir=tarapacá&ulke=Şili)
+* [Araucanía](/iftar.html?sehir=araucanía&ulke=Şili)
+* [Araucania](/iftar.html?sehir=araucania&ulke=Şili)
+* [Valparaiso](/iftar.html?sehir=valparaiso&ulke=Şili)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

@@ -10,6 +10,7 @@ title: Panama için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Los Santos](/iftar.html?sehir=Los Santos&ulke=Panama)
 * [Colon Island (Bocas Del Toro)](/iftar.html?sehir=Colon Island (Bocas Del Toro)&ulke=Panama)
 * [Panama](/iftar.html?sehir=Panama&ulke=Panama)
@@ -17,3 +18,15 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Bocas del Toro](/iftar.html?sehir=Bocas Del Toro&ulke=Panama)
 * [Colon](/iftar.html?sehir=Colon&ulke=Panama)
 * [Veraguas](/iftar.html?sehir=Veraguas&ulke=Panama)
+=======
+* [Chiriquí](/iftar.html?sehir=chiriquí&ulke=Panama)
+* [Coclé](/iftar.html?sehir=coclé&ulke=Panama)
+* [Los Santos](/iftar.html?sehir=los santos&ulke=Panama)
+* [Colon Island - Bocas Del Toro)](/iftar.html?sehir=colon island - bocas del toro)&ulke=Panama)
+* [Panama](/iftar.html?sehir=panama&ulke=Panama)
+* [Colón](/iftar.html?sehir=colón&ulke=Panama)
+* [Bocas del Toro](/iftar.html?sehir=bocas del toro&ulke=Panama)
+* [Colon](/iftar.html?sehir=colon&ulke=Panama)
+* [Darién](/iftar.html?sehir=darién&ulke=Panama)
+* [Veraguas](/iftar.html?sehir=veraguas&ulke=Panama)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

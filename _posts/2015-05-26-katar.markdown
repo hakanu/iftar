@@ -10,7 +10,17 @@ title: Katar için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Al Khawr wa adh Dhakhirah](/iftar.html?sehir=Al Khawr Wa Adh Dhakhirah&ulke=Katar)
 * [Ad-Dawhah](/iftar.html?sehir=Ad-Dawhah&ulke=Katar)
 * [Al Wakrah](/iftar.html?sehir=Al Wakrah&ulke=Katar)
 * [Ash Shamal](/iftar.html?sehir=Ash Shamal&ulke=Katar)
+=======
+* [Ar Rayyān](/iftar.html?sehir=ar rayyān&ulke=Katar)
+* [Al Wakrah](/iftar.html?sehir=al wakrah&ulke=Katar)
+* [Ad-Dawhah](/iftar.html?sehir=ad-dawhah&ulke=Katar)
+* [Umm Şalāl](/iftar.html?sehir=umm şalāl&ulke=Katar)
+* [Az̧ Z̧a‘āyin](/iftar.html?sehir=az̧ z̧a‘āyin&ulke=Katar)
+* [Al Khawr wa adh Dhakhirah](/iftar.html?sehir=al khawr wa adh dhakhirah&ulke=Katar)
+* [Ash Shamal](/iftar.html?sehir=ash shamal&ulke=Katar)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

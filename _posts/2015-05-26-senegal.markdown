@@ -10,6 +10,7 @@ title: Senegal için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Kaolack](/iftar.html?sehir=Kaolack&ulke=Senegal)
 * [Kolda](/iftar.html?sehir=Kolda&ulke=Senegal)
 * [Kedougou](/iftar.html?sehir=Kedougou&ulke=Senegal)
@@ -24,3 +25,20 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Diourbel](/iftar.html?sehir=Diourbel&ulke=Senegal)
 * [Kaffrine](/iftar.html?sehir=Kaffrine&ulke=Senegal)
 * [Ziguinchor](/iftar.html?sehir=Ziguinchor&ulke=Senegal)
+=======
+* [Sédhiou](/iftar.html?sehir=sédhiou&ulke=Senegal)
+* [Kaolack](/iftar.html?sehir=kaolack&ulke=Senegal)
+* [Kolda](/iftar.html?sehir=kolda&ulke=Senegal)
+* [Kedougou](/iftar.html?sehir=kedougou&ulke=Senegal)
+* [Tambacounda](/iftar.html?sehir=tambacounda&ulke=Senegal)
+* [Dakar](/iftar.html?sehir=dakar&ulke=Senegal)
+* [Saint-Louis](/iftar.html?sehir=saint-louis&ulke=Senegal)
+* [Matam](/iftar.html?sehir=matam&ulke=Senegal)
+* [Thiès](/iftar.html?sehir=thiès&ulke=Senegal)
+* [Louga](/iftar.html?sehir=louga&ulke=Senegal)
+* [Fatick](/iftar.html?sehir=fatick&ulke=Senegal)
+* [Thies](/iftar.html?sehir=thies&ulke=Senegal)
+* [Diourbel](/iftar.html?sehir=diourbel&ulke=Senegal)
+* [Kaffrine](/iftar.html?sehir=kaffrine&ulke=Senegal)
+* [Ziguinchor](/iftar.html?sehir=ziguinchor&ulke=Senegal)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

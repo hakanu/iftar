@@ -10,6 +10,7 @@ title: Uruguay için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Salto](/iftar.html?sehir=Salto&ulke=Uruguay)
 * [Cerro Largo](/iftar.html?sehir=Cerro Largo&ulke=Uruguay)
 * [Colonia](/iftar.html?sehir=Colonia&ulke=Uruguay)
@@ -29,3 +30,26 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Artigas](/iftar.html?sehir=Artigas&ulke=Uruguay)
 * [Rivera](/iftar.html?sehir=Rivera&ulke=Uruguay)
 * [Tacuarembo](/iftar.html?sehir=Tacuarembo&ulke=Uruguay)
+=======
+* [Canelones](/iftar.html?sehir=canelones&ulke=Uruguay)
+* [Salto](/iftar.html?sehir=salto&ulke=Uruguay)
+* [Cerro Largo](/iftar.html?sehir=cerro largo&ulke=Uruguay)
+* [Colonia](/iftar.html?sehir=colonia&ulke=Uruguay)
+* [Lavalleja](/iftar.html?sehir=lavalleja&ulke=Uruguay)
+* [San José](/iftar.html?sehir=san josé&ulke=Uruguay)
+* [Florida](/iftar.html?sehir=florida&ulke=Uruguay)
+* [Paysandú](/iftar.html?sehir=paysandú&ulke=Uruguay)
+* [Durazno](/iftar.html?sehir=durazno&ulke=Uruguay)
+* [Paysandu](/iftar.html?sehir=paysandu&ulke=Uruguay)
+* [Maldonado](/iftar.html?sehir=maldonado&ulke=Uruguay)
+* [Soriano](/iftar.html?sehir=soriano&ulke=Uruguay)
+* [Flores](/iftar.html?sehir=flores&ulke=Uruguay)
+* [Rocha](/iftar.html?sehir=rocha&ulke=Uruguay)
+* [Montevideo](/iftar.html?sehir=montevideo&ulke=Uruguay)
+* [Río Negro](/iftar.html?sehir=río negro&ulke=Uruguay)
+* [Tacuarembó](/iftar.html?sehir=tacuarembó&ulke=Uruguay)
+* [Trienta y Tres](/iftar.html?sehir=trienta y tres&ulke=Uruguay)
+* [Artigas](/iftar.html?sehir=artigas&ulke=Uruguay)
+* [Rivera](/iftar.html?sehir=rivera&ulke=Uruguay)
+* [Tacuarembo](/iftar.html?sehir=tacuarembo&ulke=Uruguay)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

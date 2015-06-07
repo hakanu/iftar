@@ -10,6 +10,14 @@ title: Kiribati için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Gilbert Group](/iftar.html?sehir=Gilbert Group&ulke=Kiribati)
 * [Line Islands](/iftar.html?sehir=Line Islands&ulke=Kiribati)
 * [Gilbert Group (Banaba Island)](/iftar.html?sehir=Gilbert Group (Banaba Island)&ulke=Kiribati)
+=======
+* [Phoenix Adaları](/iftar.html?sehir=phoenix adaları&ulke=Kiribati)
+* [Line İslands](/iftar.html?sehir=line islands&ulke=Kiribati)
+* [Line Islands](/iftar.html?sehir=line islands&ulke=Kiribati)
+* [Gilbert Group - Banaba Island)](/iftar.html?sehir=gilbert group - banaba island)&ulke=Kiribati)
+* [Gilbert Group](/iftar.html?sehir=gilbert group&ulke=Kiribati)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

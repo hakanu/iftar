@@ -10,7 +10,21 @@ title: Etiyopya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Amhara](/iftar.html?sehir=Amhara&ulke=Etiyopya)
 * [Sidamo](/iftar.html?sehir=Sidamo&ulke=Etiyopya)
 * [Tigray](/iftar.html?sehir=Tigray&ulke=Etiyopya)
 * [Sumale](/iftar.html?sehir=Sumale&ulke=Etiyopya)
+=======
+* [Oromīya](/iftar.html?sehir=oromīya&ulke=Etiyopya)
+* [Sumale](/iftar.html?sehir=sumale&ulke=Etiyopya)
+* [Gambēla Hizboch](/iftar.html?sehir=gambēla hizboch&ulke=Etiyopya)
+* [Gambēla Hizboch ](/iftar.html?sehir=gambēla hizboch &ulke=Etiyopya)
+* [Sidamo](/iftar.html?sehir=sidamo&ulke=Etiyopya)
+* [Ādīs Ābeba](/iftar.html?sehir=ādīs ābeba&ulke=Etiyopya)
+* [Amhara](/iftar.html?sehir=amhara&ulke=Etiyopya)
+* [Āfar](/iftar.html?sehir=āfar&ulke=Etiyopya)
+* [Tigray](/iftar.html?sehir=tigray&ulke=Etiyopya)
+* [Dirē Dawa](/iftar.html?sehir=dirē dawa&ulke=Etiyopya)
+* [Hārerī Hizb](/iftar.html?sehir=hārerī hizb&ulke=Etiyopya)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

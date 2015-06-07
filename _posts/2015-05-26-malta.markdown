@@ -1,0 +1,14 @@
+---
+layout: single_ulke
+category: ulke
+title: Malta için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Malta için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Malta Adası](/iftar.html?sehir=malta adası&ulke=Malta)
+* [Gozo Adası](/iftar.html?sehir=gozo adası&ulke=Malta)

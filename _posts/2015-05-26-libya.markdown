@@ -10,6 +10,7 @@ title: Libya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Al Wahat ](/iftar.html?sehir=Al Wahat &ulke=Libya)
 * [Surt ](/iftar.html?sehir=Surt &ulke=Libya)
 * [Al Jabal al Akhdar](/iftar.html?sehir=Al Jabal Al Akhdar&ulke=Libya)
@@ -32,3 +33,30 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Al Marqab](/iftar.html?sehir=Al Marqab&ulke=Libya)
 * [Darnah](/iftar.html?sehir=Darnah&ulke=Libya)
 * [Misratah](/iftar.html?sehir=Misratah&ulke=Libya)
+=======
+* [Al Wahat ](/iftar.html?sehir=al wahat &ulke=Libya)
+* [Surt ](/iftar.html?sehir=surt &ulke=Libya)
+* [Al Jabal al Akhdar](/iftar.html?sehir=al jabal al akhdar&ulke=Libya)
+* [An Nuqat al Khams](/iftar.html?sehir=an nuqat al khams&ulke=Libya)
+* [Al Jufrah](/iftar.html?sehir=al jufrah&ulke=Libya)
+* [Ghat](/iftar.html?sehir=ghat&ulke=Libya)
+* [Wadi al Hayat](/iftar.html?sehir=wadi al hayat&ulke=Libya)
+* [Surt](/iftar.html?sehir=surt&ulke=Libya)
+* [Al Kufrah](/iftar.html?sehir=al kufrah&ulke=Libya)
+* [Banghazi](/iftar.html?sehir=banghazi&ulke=Libya)
+* [Al-Jabal al-Garbī](/iftar.html?sehir=al-jabal al-garbī&ulke=Libya)
+* [Al Marj](/iftar.html?sehir=al marj&ulke=Libya)
+* [Nalut](/iftar.html?sehir=nalut&ulke=Libya)
+* [Wādī ash Shāṭi](/iftar.html?sehir=wādī ash shāṭi&ulke=Libya)
+* [Darnah](/iftar.html?sehir=darnah&ulke=Libya)
+* [Al Butnan](/iftar.html?sehir=al butnan&ulke=Libya)
+* [Tarabulus](/iftar.html?sehir=tarabulus&ulke=Libya)
+* [Sabha](/iftar.html?sehir=sabha&ulke=Libya)
+* [Al Jafarah](/iftar.html?sehir=al jafarah&ulke=Libya)
+* [Al Wahat](/iftar.html?sehir=al wahat&ulke=Libya)
+* [Az Zawiyah](/iftar.html?sehir=az zawiyah&ulke=Libya)
+* [Murzuq](/iftar.html?sehir=murzuq&ulke=Libya)
+* [Al Marqab](/iftar.html?sehir=al marqab&ulke=Libya)
+* [Al-Jabal al-Garbi](/iftar.html?sehir=al-jabal al-garbi&ulke=Libya)
+* [Misratah](/iftar.html?sehir=misratah&ulke=Libya)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

@@ -1,0 +1,14 @@
+---
+layout: single_ulke
+category: ulke
+title: Filistin için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Filistin için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Gazze Şeridi](/iftar.html?sehir=gazze şeridi&ulke=Filistin)
+* [Batı Şeria](/iftar.html?sehir=batı şeria&ulke=Filistin)

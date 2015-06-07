@@ -10,6 +10,7 @@ title: Çad için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Chari-Baguirmi](/iftar.html?sehir=Chari-Baguirmi&ulke=Çad)
 * [Moyen-Chari](/iftar.html?sehir=Moyen-Chari&ulke=Çad)
 * [Batha](/iftar.html?sehir=Batha&ulke=Çad)
@@ -23,3 +24,20 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Logone-Occidental](/iftar.html?sehir=Logone-Occidental&ulke=Çad)
 * [Biltine](/iftar.html?sehir=Biltine&ulke=Çad)
 * [Kanem](/iftar.html?sehir=Kanem&ulke=Çad)
+=======
+* [Chari-Baguirmi](/iftar.html?sehir=chari-baguirmi&ulke=Çad)
+* [Moyen-Chari](/iftar.html?sehir=moyen-chari&ulke=Çad)
+* [Kanem](/iftar.html?sehir=kanem&ulke=Çad)
+* [Batha](/iftar.html?sehir=batha&ulke=Çad)
+* [Bourkou-Ennedi-Tibesti](/iftar.html?sehir=bourkou-ennedi-tibesti&ulke=Çad)
+* [Tandjilé](/iftar.html?sehir=tandjilé&ulke=Çad)
+* [Logone Oriental](/iftar.html?sehir=logone oriental&ulke=Çad)
+* [Salamat](/iftar.html?sehir=salamat&ulke=Çad)
+* [Lac](/iftar.html?sehir=lac&ulke=Çad)
+* [Ouaddai](/iftar.html?sehir=ouaddai&ulke=Çad)
+* [Mayo Kebbi](/iftar.html?sehir=mayo kebbi&ulke=Çad)
+* [Ouaddaï](/iftar.html?sehir=ouaddaï&ulke=Çad)
+* [Logone-Occidental](/iftar.html?sehir=logone-occidental&ulke=Çad)
+* [Biltine](/iftar.html?sehir=biltine&ulke=Çad)
+* [Guéra](/iftar.html?sehir=guéra&ulke=Çad)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

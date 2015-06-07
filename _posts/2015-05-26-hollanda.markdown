@@ -10,6 +10,7 @@ title: Hollanda için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Groningen](/iftar.html?sehir=Groningen&ulke=Hollanda)
 * [Gelderland](/iftar.html?sehir=Gelderland&ulke=Hollanda)
 * [Flevoland](/iftar.html?sehir=Flevoland&ulke=Hollanda)
@@ -25,3 +26,21 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Utrecht](/iftar.html?sehir=Utrecht&ulke=Hollanda)
 * [Zeeland](/iftar.html?sehir=Zeeland&ulke=Hollanda)
 * [Noord-Holland (Texel)](/iftar.html?sehir=Noord-Holland (Texel)&ulke=Hollanda)
+=======
+* [Groningen](/iftar.html?sehir=groningen&ulke=Hollanda)
+* [Gelderland](/iftar.html?sehir=gelderland&ulke=Hollanda)
+* [Friesland - Terschelling İsland)](/iftar.html?sehir=friesland - terschelling island)&ulke=Hollanda)
+* [Flevoland](/iftar.html?sehir=flevoland&ulke=Hollanda)
+* [Noord-Holland](/iftar.html?sehir=noord-holland&ulke=Hollanda)
+* [Friesland](/iftar.html?sehir=friesland&ulke=Hollanda)
+* [Friesland ](/iftar.html?sehir=friesland &ulke=Hollanda)
+* [Zuid-Holland](/iftar.html?sehir=zuid-holland&ulke=Hollanda)
+* [Zuid-Holland ](/iftar.html?sehir=zuid-holland &ulke=Hollanda)
+* [Drenthe](/iftar.html?sehir=drenthe&ulke=Hollanda)
+* [Overijssel](/iftar.html?sehir=overijssel&ulke=Hollanda)
+* [Noord-Brabant](/iftar.html?sehir=noord-brabant&ulke=Hollanda)
+* [Limburg](/iftar.html?sehir=limburg&ulke=Hollanda)
+* [Utrecht](/iftar.html?sehir=utrecht&ulke=Hollanda)
+* [Zeeland](/iftar.html?sehir=zeeland&ulke=Hollanda)
+* [Noord-Holland - Texel)](/iftar.html?sehir=noord-holland - texel)&ulke=Hollanda)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

@@ -10,6 +10,7 @@ title: Barbados için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Saint John](/iftar.html?sehir=Saint John&ulke=Barbados)
 * [Saint George](/iftar.html?sehir=Saint George&ulke=Barbados)
 * [Barbados (general)](/iftar.html?sehir=Barbados (General)&ulke=Barbados)
@@ -22,3 +23,17 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Saint Philip](/iftar.html?sehir=Saint Philip&ulke=Barbados)
 * [Saint Lucy](/iftar.html?sehir=Saint Lucy&ulke=Barbados)
 * [Saint Thomas](/iftar.html?sehir=Saint Thomas&ulke=Barbados)
+=======
+* [Saint John](/iftar.html?sehir=saint john&ulke=Barbados)
+* [Saint George](/iftar.html?sehir=saint george&ulke=Barbados)
+* [Barbados - general)](/iftar.html?sehir=barbados - general)&ulke=Barbados)
+* [Saint Peter](/iftar.html?sehir=saint peter&ulke=Barbados)
+* [Saint Michael](/iftar.html?sehir=saint michael&ulke=Barbados)
+* [Saint Joseph](/iftar.html?sehir=saint joseph&ulke=Barbados)
+* [Saint James](/iftar.html?sehir=saint james&ulke=Barbados)
+* [Saint Andrew](/iftar.html?sehir=saint andrew&ulke=Barbados)
+* [Christ Church](/iftar.html?sehir=christ church&ulke=Barbados)
+* [Saint Philip](/iftar.html?sehir=saint philip&ulke=Barbados)
+* [Saint Lucy](/iftar.html?sehir=saint lucy&ulke=Barbados)
+* [Saint Thomas](/iftar.html?sehir=saint thomas&ulke=Barbados)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

@@ -10,6 +10,7 @@ title: İsviçre için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Neuchatel](/iftar.html?sehir=Neuchatel&ulke=İsviçre)
 * [Basel-Landschaft ](/iftar.html?sehir=Basel-Landschaft &ulke=İsviçre)
 * [Schaffhausen](/iftar.html?sehir=Schaffhausen&ulke=İsviçre)
@@ -35,3 +36,32 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Glarus](/iftar.html?sehir=Glarus&ulke=İsviçre)
 * [Nidwalden](/iftar.html?sehir=Nidwalden&ulke=İsviçre)
 * [Obwalden](/iftar.html?sehir=Obwalden&ulke=İsviçre)
+=======
+* [Neuchatel](/iftar.html?sehir=neuchatel&ulke=İsviçre)
+* [Basel-Landschaft ](/iftar.html?sehir=basel-landschaft &ulke=İsviçre)
+* [Schaffhausen](/iftar.html?sehir=schaffhausen&ulke=İsviçre)
+* [Valais](/iftar.html?sehir=valais&ulke=İsviçre)
+* [Schwyz](/iftar.html?sehir=schwyz&ulke=İsviçre)
+* [Solothurn](/iftar.html?sehir=solothurn&ulke=İsviçre)
+* [Geneve](/iftar.html?sehir=geneve&ulke=İsviçre)
+* [Aargau](/iftar.html?sehir=aargau&ulke=İsviçre)
+* [Fribourg](/iftar.html?sehir=fribourg&ulke=İsviçre)
+* [Basel-Landschaft](/iftar.html?sehir=basel-landschaft&ulke=İsviçre)
+* [Thurgau](/iftar.html?sehir=thurgau&ulke=İsviçre)
+* [Luzern](/iftar.html?sehir=luzern&ulke=İsviçre)
+* [Vaud](/iftar.html?sehir=vaud&ulke=İsviçre)
+* [Basel-Stadt](/iftar.html?sehir=basel-stadt&ulke=İsviçre)
+* [Graubünden](/iftar.html?sehir=graubünden&ulke=İsviçre)
+* [Bern](/iftar.html?sehir=bern&ulke=İsviçre)
+* [Jura](/iftar.html?sehir=jura&ulke=İsviçre)
+* [Sankt Gallen](/iftar.html?sehir=sankt gallen&ulke=İsviçre)
+* [Uri](/iftar.html?sehir=uri&ulke=İsviçre)
+* [Appanzell Ausserrhoden](/iftar.html?sehir=appanzell ausserrhoden&ulke=İsviçre)
+* [Zug](/iftar.html?sehir=zug&ulke=İsviçre)
+* [Appenzell Innerrhoden](/iftar.html?sehir=appenzell innerrhoden&ulke=İsviçre)
+* [Ticino](/iftar.html?sehir=ticino&ulke=İsviçre)
+* [Glarus](/iftar.html?sehir=glarus&ulke=İsviçre)
+* [Zürich](/iftar.html?sehir=zürich&ulke=İsviçre)
+* [Nidwalden](/iftar.html?sehir=nidwalden&ulke=İsviçre)
+* [Obwalden](/iftar.html?sehir=obwalden&ulke=İsviçre)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

@@ -10,6 +10,7 @@ title: Mali için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Gao](/iftar.html?sehir=Gao&ulke=Mali)
 * [Sikasso](/iftar.html?sehir=Sikasso&ulke=Mali)
 * [Mopti](/iftar.html?sehir=Mopti&ulke=Mali)
@@ -19,3 +20,15 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Kidal](/iftar.html?sehir=Kidal&ulke=Mali)
 * [Bamako](/iftar.html?sehir=Bamako&ulke=Mali)
 * [Kayes](/iftar.html?sehir=Kayes&ulke=Mali)
+=======
+* [Gao](/iftar.html?sehir=gao&ulke=Mali)
+* [Sikasso](/iftar.html?sehir=sikasso&ulke=Mali)
+* [Mopti](/iftar.html?sehir=mopti&ulke=Mali)
+* [Kayes ](/iftar.html?sehir=kayes &ulke=Mali)
+* [Ségou](/iftar.html?sehir=ségou&ulke=Mali)
+* [Tombouctou](/iftar.html?sehir=tombouctou&ulke=Mali)
+* [Koulikoro](/iftar.html?sehir=koulikoro&ulke=Mali)
+* [Kidal](/iftar.html?sehir=kidal&ulke=Mali)
+* [Bamako](/iftar.html?sehir=bamako&ulke=Mali)
+* [Kayes](/iftar.html?sehir=kayes&ulke=Mali)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

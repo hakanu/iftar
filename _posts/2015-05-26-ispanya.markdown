@@ -10,6 +10,7 @@ title: İspanya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Balearic Islands (Mallorca)](/iftar.html?sehir=Balearic Islands (Mallorca)&ulke=İspanya)
 * [Castilla-La Mancha](/iftar.html?sehir=Castilla-La Mancha&ulke=İspanya)
 * [Madrid](/iftar.html?sehir=Madrid&ulke=İspanya)
@@ -25,3 +26,30 @@ Aşağıdaki listeden bir şehir ya da semt seçin
 * [Balearic Islands (Menorca)](/iftar.html?sehir=Balearic Islands (Menorca)&ulke=İspanya)
 * [Extremadura](/iftar.html?sehir=Extremadura&ulke=İspanya)
 * [Navarra](/iftar.html?sehir=Navarra&ulke=İspanya)
+=======
+* [Andalucía ](/iftar.html?sehir=andalucía &ulke=İspanya)
+* [Cataluña ](/iftar.html?sehir=cataluña &ulke=İspanya)
+* [Cataluña](/iftar.html?sehir=cataluña&ulke=İspanya)
+* [Castilla y Leon](/iftar.html?sehir=castilla y leon&ulke=İspanya)
+* [Aragón](/iftar.html?sehir=aragón&ulke=İspanya)
+* [Andalucia](/iftar.html?sehir=andalucia&ulke=İspanya)
+* [Valencia](/iftar.html?sehir=valencia&ulke=İspanya)
+* [Balearic Islands - Menorca)](/iftar.html?sehir=balearic islands - menorca)&ulke=İspanya)
+* [Extremadura](/iftar.html?sehir=extremadura&ulke=İspanya)
+* [Castilla-La Mancha](/iftar.html?sehir=castilla-la mancha&ulke=İspanya)
+* [Andalucía](/iftar.html?sehir=andalucía&ulke=İspanya)
+* [Galicia](/iftar.html?sehir=galicia&ulke=İspanya)
+* [Murcia](/iftar.html?sehir=murcia&ulke=İspanya)
+* [Asturias](/iftar.html?sehir=asturias&ulke=İspanya)
+* [Cataluna](/iftar.html?sehir=cataluna&ulke=İspanya)
+* [Castilla y León](/iftar.html?sehir=castilla y león&ulke=İspanya)
+* [Navarra](/iftar.html?sehir=navarra&ulke=İspanya)
+* [Balearic Islands - Mallorca)](/iftar.html?sehir=balearic islands - mallorca)&ulke=İspanya)
+* [Melilla](/iftar.html?sehir=melilla&ulke=İspanya)
+* [Balearic Islands - İbiza)](/iftar.html?sehir=balearic islands - ibiza)&ulke=İspanya)
+* [Madrid](/iftar.html?sehir=madrid&ulke=İspanya)
+* [Ceuta - Presidios)](/iftar.html?sehir=ceuta - presidios)&ulke=İspanya)
+* [La Rioja](/iftar.html?sehir=la rioja&ulke=İspanya)
+* [Canarias - Canary Islands)](/iftar.html?sehir=canarias - canary islands)&ulke=İspanya)
+* [Cantabria](/iftar.html?sehir=cantabria&ulke=İspanya)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

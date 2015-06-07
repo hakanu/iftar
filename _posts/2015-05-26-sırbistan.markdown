@@ -10,4 +10,9 @@ title: Sırbistan için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
+<<<<<<< HEAD
 * [Vukovarsko-srijemska](/iftar.html?sehir=Vukovarsko-Srijemska&ulke=Sırbistan)
+=======
+* [Vukovarsko-srijemska](/iftar.html?sehir=vukovarsko-srijemska&ulke=Sırbistan)
+* [Sırbistan](/iftar.html?sehir=sırbistan&ulke=Sırbistan)
+>>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8
