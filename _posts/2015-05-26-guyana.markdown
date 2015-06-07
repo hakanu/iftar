@@ -10,10 +10,10 @@ title: Guyana için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Barima-Waini](/iftar.html?sehir=barima-waini&ulke=Guyana)
-* [Cuyuni Mazaruni](/iftar.html?sehir=cuyuni mazaruni&ulke=Guyana)
-* [East Berbice-Corentyne](/iftar.html?sehir=east berbice-corentyne&ulke=Guyana)
-* [Potaro-Siparuni](/iftar.html?sehir=potaro-siparuni&ulke=Guyana)
-* [Timehri](/iftar.html?sehir=timehri&ulke=Guyana)
-* [Upper Demerara-Berbice](/iftar.html?sehir=upper demerara-berbice&ulke=Guyana)
-* [Upper Takutu-Upper Essequibo](/iftar.html?sehir=upper takutu-upper essequibo&ulke=Guyana)
+* [Barima-Waini](/iftar.html?sehir=Barima-Waini&ulke=Guyana)
+* [Cuyuni Mazaruni](/iftar.html?sehir=Cuyuni Mazaruni&ulke=Guyana)
+* [East Berbice-Corentyne](/iftar.html?sehir=East Berbice-Corentyne&ulke=Guyana)
+* [Potaro-Siparuni](/iftar.html?sehir=Potaro-Siparuni&ulke=Guyana)
+* [Timehri](/iftar.html?sehir=Timehri&ulke=Guyana)
+* [Upper Demerara-Berbice](/iftar.html?sehir=Upper Demerara-Berbice&ulke=Guyana)
+* [Upper Takutu-Upper Essequibo](/iftar.html?sehir=Upper Takutu-Upper Essequibo&ulke=Guyana)

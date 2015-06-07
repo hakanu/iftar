@@ -10,9 +10,9 @@ title: Belize için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Belize](/iftar.html?sehir=belize&ulke=Belize)
-* [Cayo](/iftar.html?sehir=cayo&ulke=Belize)
-* [Corozal](/iftar.html?sehir=corozal&ulke=Belize)
-* [Orange Walk](/iftar.html?sehir=orange walk&ulke=Belize)
-* [Stann Creek](/iftar.html?sehir=stann creek&ulke=Belize)
-* [Toledo](/iftar.html?sehir=toledo&ulke=Belize)
+* [Belize](/iftar.html?sehir=Belize&ulke=Belize)
+* [Cayo](/iftar.html?sehir=Cayo&ulke=Belize)
+* [Corozal](/iftar.html?sehir=Corozal&ulke=Belize)
+* [Orange Walk](/iftar.html?sehir=Orange Walk&ulke=Belize)
+* [Stann Creek](/iftar.html?sehir=Stann Creek&ulke=Belize)
+* [Toledo](/iftar.html?sehir=Toledo&ulke=Belize)

@@ -10,4 +10,4 @@ title: Christmas Adası  için iftar ve namaz vakitlerini görmek için şehir s
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ Avusturalya](/iftar.html?sehir= avusturalya&ulke=Christmas Adası )
+* [Avusturalya](/iftar.html?sehir=Avusturalya&ulke=Christmas Adası)

@@ -10,4 +10,4 @@ title: Turks ve Caicos Adaları için iftar ve namaz vakitlerini görmek için �
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Turks ve Caicos Adaları)
+* [İngiltere](/iftar.html?sehir=İngiltere&ulke=Turks ve Caicos Adaları)

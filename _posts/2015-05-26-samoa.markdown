@@ -10,5 +10,5 @@ title: Samoa için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Savai’i Island](/iftar.html?sehir=savai’i island&ulke=Samoa)
-* [Upolu Island](/iftar.html?sehir=upolu island&ulke=Samoa)
+* [Savai’i Island](/iftar.html?sehir=Savai’I Island&ulke=Samoa)
+* [Upolu Island](/iftar.html?sehir=Upolu Island&ulke=Samoa)

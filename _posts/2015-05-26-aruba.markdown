@@ -10,4 +10,4 @@ title: Aruba için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ Hollanda](/iftar.html?sehir= hollanda&ulke=Aruba)
+* [Hollanda](/iftar.html?sehir=Hollanda&ulke=Aruba)

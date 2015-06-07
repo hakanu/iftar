@@ -10,8 +10,8 @@ title: Togo için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Centrale](/iftar.html?sehir=centrale&ulke=Togo)
-* [De la Kara](/iftar.html?sehir=de la kara&ulke=Togo)
-* [Des Plateaux](/iftar.html?sehir=des plateaux&ulke=Togo)
-* [Des Savanes](/iftar.html?sehir=des savanes&ulke=Togo)
-* [Maritime](/iftar.html?sehir=maritime&ulke=Togo)
+* [Centrale](/iftar.html?sehir=Centrale&ulke=Togo)
+* [De la Kara](/iftar.html?sehir=De La Kara&ulke=Togo)
+* [Des Plateaux](/iftar.html?sehir=Des Plateaux&ulke=Togo)
+* [Des Savanes](/iftar.html?sehir=Des Savanes&ulke=Togo)
+* [Maritime](/iftar.html?sehir=Maritime&ulke=Togo)

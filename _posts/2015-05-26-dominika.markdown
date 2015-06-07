@@ -10,9 +10,9 @@ title: Dominika için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Saint Andrew](/iftar.html?sehir=saint andrew&ulke=Dominika)
-* [Saint David](/iftar.html?sehir=saint david&ulke=Dominika)
-* [Saint George](/iftar.html?sehir=saint george&ulke=Dominika)
-* [Saint John](/iftar.html?sehir=saint john&ulke=Dominika)
-* [Saint Joseph](/iftar.html?sehir=saint joseph&ulke=Dominika)
-* [Saint Paul](/iftar.html?sehir=saint paul&ulke=Dominika)
+* [Saint Andrew](/iftar.html?sehir=Saint Andrew&ulke=Dominika)
+* [Saint David](/iftar.html?sehir=Saint David&ulke=Dominika)
+* [Saint George](/iftar.html?sehir=Saint George&ulke=Dominika)
+* [Saint John](/iftar.html?sehir=Saint John&ulke=Dominika)
+* [Saint Joseph](/iftar.html?sehir=Saint Joseph&ulke=Dominika)
+* [Saint Paul](/iftar.html?sehir=Saint Paul&ulke=Dominika)

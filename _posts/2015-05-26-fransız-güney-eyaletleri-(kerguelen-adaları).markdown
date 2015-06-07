@@ -10,4 +10,4 @@ title: Fransız Güney Eyaletleri (Kerguelen Adaları) için iftar ve namaz vaki
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Kerguelen Adaları](/iftar.html?sehir=kerguelen adaları&ulke=Fransız Güney Eyaletleri (Kerguelen Adaları))
+* [Kerguelen Adaları](/iftar.html?sehir=Kerguelen Adaları&ulke=Fransız Güney Eyaletleri (Kerguelen Adaları))

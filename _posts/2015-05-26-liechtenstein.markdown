@@ -10,4 +10,4 @@ title: Liechtenstein için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Oberland](/iftar.html?sehir=oberland&ulke=Liechtenstein)
+* [Oberland](/iftar.html?sehir=Oberland&ulke=Liechtenstein)

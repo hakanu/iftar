@@ -10,13 +10,13 @@ title: Honduras için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Atlantida](/iftar.html?sehir=atlantida&ulke=Honduras)
-* [Choluteca](/iftar.html?sehir=choluteca&ulke=Honduras)
-* [Colon](/iftar.html?sehir=colon&ulke=Honduras)
-* [Copán](/iftar.html?sehir=copán&ulke=Honduras)
-* [Cortes](/iftar.html?sehir=cortes&ulke=Honduras)
-* [Cortés](/iftar.html?sehir=cortés&ulke=Honduras)
-* [Francisco Morazan](/iftar.html?sehir=francisco morazan&ulke=Honduras)
-* [Francisco Morazán](/iftar.html?sehir=francisco morazán&ulke=Honduras)
-* [Yoro](/iftar.html?sehir=yoro&ulke=Honduras)
-* [Yoro ](/iftar.html?sehir=yoro &ulke=Honduras)
+* [Atlantida](/iftar.html?sehir=Atlantida&ulke=Honduras)
+* [Choluteca](/iftar.html?sehir=Choluteca&ulke=Honduras)
+* [Colon](/iftar.html?sehir=Colon&ulke=Honduras)
+* [Copán](/iftar.html?sehir=Copán&ulke=Honduras)
+* [Cortes](/iftar.html?sehir=Cortes&ulke=Honduras)
+* [Cortés](/iftar.html?sehir=Cortés&ulke=Honduras)
+* [Francisco Morazan](/iftar.html?sehir=Francisco Morazan&ulke=Honduras)
+* [Francisco Morazán](/iftar.html?sehir=Francisco Morazán&ulke=Honduras)
+* [Yoro](/iftar.html?sehir=Yoro&ulke=Honduras)
+* [Yoro](/iftar.html?sehir=Yoro&ulke=Honduras)

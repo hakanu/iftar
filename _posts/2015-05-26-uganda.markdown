@@ -10,13 +10,13 @@ title: Uganda için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Busoga](/iftar.html?sehir=busoga&ulke=Uganda)
-* [Central](/iftar.html?sehir=central&ulke=Uganda)
-* [Eastern](/iftar.html?sehir=eastern&ulke=Uganda)
-* [Karamoja](/iftar.html?sehir=karamoja&ulke=Uganda)
-* [Lira](/iftar.html?sehir=lira&ulke=Uganda)
-* [Nile](/iftar.html?sehir=nile&ulke=Uganda)
-* [North Buganda](/iftar.html?sehir=north buganda&ulke=Uganda)
-* [Northern](/iftar.html?sehir=northern&ulke=Uganda)
-* [Southern](/iftar.html?sehir=southern&ulke=Uganda)
-* [Western](/iftar.html?sehir=western&ulke=Uganda)
+* [Busoga](/iftar.html?sehir=Busoga&ulke=Uganda)
+* [Central](/iftar.html?sehir=Central&ulke=Uganda)
+* [Eastern](/iftar.html?sehir=Eastern&ulke=Uganda)
+* [Karamoja](/iftar.html?sehir=Karamoja&ulke=Uganda)
+* [Lira](/iftar.html?sehir=Lira&ulke=Uganda)
+* [Nile](/iftar.html?sehir=Nile&ulke=Uganda)
+* [North Buganda](/iftar.html?sehir=North Buganda&ulke=Uganda)
+* [Northern](/iftar.html?sehir=Northern&ulke=Uganda)
+* [Southern](/iftar.html?sehir=Southern&ulke=Uganda)
+* [Western](/iftar.html?sehir=Western&ulke=Uganda)

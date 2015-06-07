@@ -10,13 +10,13 @@ title: BAE için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Abu Dhabi](/iftar.html?sehir=abu dhabi&ulke=BAE)
-* [Abu Zaby](/iftar.html?sehir=abu zaby&ulke=BAE)
-* [Ajman](/iftar.html?sehir=ajman&ulke=BAE)
-* [Al-Fujayrah](/iftar.html?sehir=al-fujayrah&ulke=BAE)
-* [Ash-Shariqah](/iftar.html?sehir=ash-shariqah&ulke=BAE)
-* [Dubayy](/iftar.html?sehir=dubayy&ulke=BAE)
-* [Ras al-Khaymah](/iftar.html?sehir=ras al-khaymah&ulke=BAE)
-* [Umm al-Qaywayn](/iftar.html?sehir=umm al-qaywayn&ulke=BAE)
-* [United Arab Emirates](/iftar.html?sehir=united arab emirates&ulke=BAE)
-* [`Ajman](/iftar.html?sehir=`ajman&ulke=BAE)
+* [Abu Dhabi](/iftar.html?sehir=Abu Dhabi&ulke=BAE)
+* [Abu Zaby](/iftar.html?sehir=Abu Zaby&ulke=BAE)
+* [Ajman](/iftar.html?sehir=Ajman&ulke=BAE)
+* [Al-Fujayrah](/iftar.html?sehir=Al-Fujayrah&ulke=BAE)
+* [Ash-Shariqah](/iftar.html?sehir=Ash-Shariqah&ulke=BAE)
+* [Dubayy](/iftar.html?sehir=Dubayy&ulke=BAE)
+* [Ras al-Khaymah](/iftar.html?sehir=Ras Al-Khaymah&ulke=BAE)
+* [Umm al-Qaywayn](/iftar.html?sehir=Umm Al-Qaywayn&ulke=BAE)
+* [United Arab Emirates](/iftar.html?sehir=United Arab Emirates&ulke=BAE)
+* [`Ajman](/iftar.html?sehir=`Ajman&ulke=BAE)

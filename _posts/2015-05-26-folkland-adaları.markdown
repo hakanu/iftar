@@ -10,4 +10,4 @@ title: Folkland Adaları için iftar ve namaz vakitlerini görmek için şehir s
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Folkland Adaları)
+* [İngiltere](/iftar.html?sehir=İngiltere&ulke=Folkland Adaları)

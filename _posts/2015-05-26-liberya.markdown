@@ -10,11 +10,11 @@ title: Liberya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Bong](/iftar.html?sehir=bong&ulke=Liberya)
-* [Grand Bassa](/iftar.html?sehir=grand bassa&ulke=Liberya)
-* [Grand Cape Mount](/iftar.html?sehir=grand cape mount&ulke=Liberya)
-* [Margibi](/iftar.html?sehir=margibi&ulke=Liberya)
-* [Maryland](/iftar.html?sehir=maryland&ulke=Liberya)
-* [Montserrado](/iftar.html?sehir=montserrado&ulke=Liberya)
-* [Nimba](/iftar.html?sehir=nimba&ulke=Liberya)
-* [Sinoe](/iftar.html?sehir=sinoe&ulke=Liberya)
+* [Bong](/iftar.html?sehir=Bong&ulke=Liberya)
+* [Grand Bassa](/iftar.html?sehir=Grand Bassa&ulke=Liberya)
+* [Grand Cape Mount](/iftar.html?sehir=Grand Cape Mount&ulke=Liberya)
+* [Margibi](/iftar.html?sehir=Margibi&ulke=Liberya)
+* [Maryland](/iftar.html?sehir=Maryland&ulke=Liberya)
+* [Montserrado](/iftar.html?sehir=Montserrado&ulke=Liberya)
+* [Nimba](/iftar.html?sehir=Nimba&ulke=Liberya)
+* [Sinoe](/iftar.html?sehir=Sinoe&ulke=Liberya)

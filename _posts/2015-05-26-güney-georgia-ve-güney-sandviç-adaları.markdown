@@ -10,4 +10,4 @@ title: Güney Georgia ve Güney Sandviç Adaları için iftar ve namaz vakitleri
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Güney Georgia ve Güney Sandviç Adaları)
+* [İngiltere](/iftar.html?sehir=İngiltere&ulke=Güney Georgia ve Güney Sandviç Adaları)

@@ -10,4 +10,4 @@ title: San Marino için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Città](/iftar.html?sehir=città&ulke=San Marino)
+* [Città](/iftar.html?sehir=Città&ulke=San Marino)

@@ -10,13 +10,13 @@ title: Mali için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Bamako](/iftar.html?sehir=bamako&ulke=Mali)
-* [Gao](/iftar.html?sehir=gao&ulke=Mali)
-* [Kayes](/iftar.html?sehir=kayes&ulke=Mali)
-* [Kayes ](/iftar.html?sehir=kayes &ulke=Mali)
-* [Kidal](/iftar.html?sehir=kidal&ulke=Mali)
-* [Koulikoro](/iftar.html?sehir=koulikoro&ulke=Mali)
-* [Mopti](/iftar.html?sehir=mopti&ulke=Mali)
-* [Sikasso](/iftar.html?sehir=sikasso&ulke=Mali)
-* [Ségou](/iftar.html?sehir=ségou&ulke=Mali)
-* [Tombouctou](/iftar.html?sehir=tombouctou&ulke=Mali)
+* [Bamako](/iftar.html?sehir=Bamako&ulke=Mali)
+* [Gao](/iftar.html?sehir=Gao&ulke=Mali)
+* [Kayes](/iftar.html?sehir=Kayes&ulke=Mali)
+* [Kayes](/iftar.html?sehir=Kayes&ulke=Mali)
+* [Kidal](/iftar.html?sehir=Kidal&ulke=Mali)
+* [Koulikoro](/iftar.html?sehir=Koulikoro&ulke=Mali)
+* [Mopti](/iftar.html?sehir=Mopti&ulke=Mali)
+* [Sikasso](/iftar.html?sehir=Sikasso&ulke=Mali)
+* [Ségou](/iftar.html?sehir=Ségou&ulke=Mali)
+* [Tombouctou](/iftar.html?sehir=Tombouctou&ulke=Mali)

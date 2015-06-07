@@ -10,10 +10,10 @@ title: Kenya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Central](/iftar.html?sehir=central&ulke=Kenya)
-* [Coast](/iftar.html?sehir=coast&ulke=Kenya)
-* [Eastern](/iftar.html?sehir=eastern&ulke=Kenya)
-* [Nairobi Area](/iftar.html?sehir=nairobi area&ulke=Kenya)
-* [North Eastern](/iftar.html?sehir=north eastern&ulke=Kenya)
-* [Nyanza](/iftar.html?sehir=nyanza&ulke=Kenya)
-* [Rift Valley](/iftar.html?sehir=rift valley&ulke=Kenya)
+* [Central](/iftar.html?sehir=Central&ulke=Kenya)
+* [Coast](/iftar.html?sehir=Coast&ulke=Kenya)
+* [Eastern](/iftar.html?sehir=Eastern&ulke=Kenya)
+* [Nairobi Area](/iftar.html?sehir=Nairobi Area&ulke=Kenya)
+* [North Eastern](/iftar.html?sehir=North Eastern&ulke=Kenya)
+* [Nyanza](/iftar.html?sehir=Nyanza&ulke=Kenya)
+* [Rift Valley](/iftar.html?sehir=Rift Valley&ulke=Kenya)

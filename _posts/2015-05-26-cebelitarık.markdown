@@ -10,4 +10,4 @@ title: Cebelitarık için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Cebelitarık)
+* [İngiltere](/iftar.html?sehir=İngiltere&ulke=Cebelitarık)

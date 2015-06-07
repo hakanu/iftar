@@ -262,24 +262,28 @@ function getIftarTimeP(country, city) {
       "X-Parse-REST-API-Key", "jnEGjyKpSk3PqHFWxN4T5ejVe7WHY6aK27O3zNOr");
   xhr.onload = function() {
     //console.log(xhr.responseText);
-    var response = JSON.parse(xhr.responseText);
-    response = response['results'][0];
-    var iftarHours = response.aksam.split(':')[0];
-    var iftarMinutes = response.aksam.split(':')[1];
+    if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
+      var response = JSON.parse(xhr.responseText);
+      response = response['results'][0];
+      var iftarHours = response.aksam.split(':')[0];
+      var iftarMinutes = response.aksam.split(':')[1];
 
-    var sahurHours = response.imsak.split(':')[0];
-    var sahurMinutes = response.imsak.split(':')[1];
+      var sahurHours = response.imsak.split(':')[0];
+      var sahurMinutes = response.imsak.split(':')[1];
 
-    var imsak = response.imsak;
-    var gunes = response.gunes;
-    var ogle = response.ogle;
-    var ikindi = response.ikindi;
-    var aksam = response.aksam
-    var yatsi = response.yatsi;
+      var imsak = response.imsak;
+      var gunes = response.gunes;
+      var ogle = response.ogle;
+      var ikindi = response.ikindi;
+      var aksam = response.aksam
+      var yatsi = response.yatsi;
 
-    ////console.log('Setting timer now...');
-    setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
-    setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
+      ////console.log('Setting timer now...');
+      setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
+      setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
+    } else {
+      console.log("Bir hata oluştu.");
+    }
   };
   xhr.send();  
 }

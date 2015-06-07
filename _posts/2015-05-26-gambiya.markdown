@@ -10,8 +10,8 @@ title: Gambiya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Banjul](/iftar.html?sehir=banjul&ulke=Gambiya)
-* [MacCarthy Island](/iftar.html?sehir=maccarthy island&ulke=Gambiya)
-* [North Bank](/iftar.html?sehir=north bank&ulke=Gambiya)
-* [The Gambia](/iftar.html?sehir=the gambia&ulke=Gambiya)
-* [Upper River](/iftar.html?sehir=upper river&ulke=Gambiya)
+* [Banjul](/iftar.html?sehir=Banjul&ulke=Gambiya)
+* [MacCarthy Island](/iftar.html?sehir=Maccarthy Island&ulke=Gambiya)
+* [North Bank](/iftar.html?sehir=North Bank&ulke=Gambiya)
+* [The Gambia](/iftar.html?sehir=The Gambia&ulke=Gambiya)
+* [Upper River](/iftar.html?sehir=Upper River&ulke=Gambiya)

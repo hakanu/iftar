@@ -10,13 +10,13 @@ title: Eritre için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Akele Guzai](/iftar.html?sehir=akele guzai&ulke=Eritre)
-* [Asmara](/iftar.html?sehir=asmara&ulke=Eritre)
-* [Barka](/iftar.html?sehir=barka&ulke=Eritre)
-* [Denkalia](/iftar.html?sehir=denkalia&ulke=Eritre)
-* [Gash Barka](/iftar.html?sehir=gash barka&ulke=Eritre)
-* [Gash Setit](/iftar.html?sehir=gash setit&ulke=Eritre)
-* [Sahel](/iftar.html?sehir=sahel&ulke=Eritre)
-* [Semhar](/iftar.html?sehir=semhar&ulke=Eritre)
-* [Senhit](/iftar.html?sehir=senhit&ulke=Eritre)
-* [Seraye](/iftar.html?sehir=seraye&ulke=Eritre)
+* [Akele Guzai](/iftar.html?sehir=Akele Guzai&ulke=Eritre)
+* [Asmara](/iftar.html?sehir=Asmara&ulke=Eritre)
+* [Barka](/iftar.html?sehir=Barka&ulke=Eritre)
+* [Denkalia](/iftar.html?sehir=Denkalia&ulke=Eritre)
+* [Gash Barka](/iftar.html?sehir=Gash Barka&ulke=Eritre)
+* [Gash Setit](/iftar.html?sehir=Gash Setit&ulke=Eritre)
+* [Sahel](/iftar.html?sehir=Sahel&ulke=Eritre)
+* [Semhar](/iftar.html?sehir=Semhar&ulke=Eritre)
+* [Senhit](/iftar.html?sehir=Senhit&ulke=Eritre)
+* [Seraye](/iftar.html?sehir=Seraye&ulke=Eritre)

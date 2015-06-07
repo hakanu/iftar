@@ -10,5 +10,5 @@ title: Filistin için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Batı Şeria](/iftar.html?sehir=batı şeria&ulke=Filistin)
-* [Gazze Şeridi](/iftar.html?sehir=gazze şeridi&ulke=Filistin)
+* [Batı Şeria](/iftar.html?sehir=Batı Şeria&ulke=Filistin)
+* [Gazze Şeridi](/iftar.html?sehir=Gazze Şeridi&ulke=Filistin)

@@ -10,4 +10,4 @@ title: Cayman Adaları için iftar ve namaz vakitlerini görmek için şehir se�
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Cayman Adaları)
+* [İngiltere](/iftar.html?sehir=İngiltere&ulke=Cayman Adaları)
