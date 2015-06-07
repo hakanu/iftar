@@ -186,7 +186,7 @@ p.copyright {
 }
 
 .flip-clock-label {
-    display: none;
+    /*display: none;*/
 }
 
 .ulke-link {
@@ -227,4 +227,7 @@ p.copyright {
         display:block;
         margin:auto;
     } 
+    .flip-clock-label {
+        /*display: none;*/
+    }
 }
