@@ -250,7 +250,7 @@ function getIftarTimeP(country, city) {
   // TODO(hakanu): Activate country once we have it in parse.
   var url = ('https://api.parse.com/1/classes/prayer_times'
              + '?where={"date":"' + dateStr + '","country":"'
-             + country + '' + '","city":"' + city.capitalize() + '"}&limit=3');
+             + country + '' + '","city":"' + city + '"}&limit=3');
              // + '","state":"' + city.capitalize() + '"}&limit=3');
   //console.log(url);
   xhr.open("GET", url, true);
@@ -328,7 +328,7 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
     $('#description').text($('#description').text().replace('sahur', 'iftar'));
     $('#tagline').text($('#tagline').text().replace('sahur', 'iftar'));
     $('.subtitle')[0].innerHTML = (
-        city.capitalize() + ' (' + country.capitalize() +
+        city + ' (' + country +
         ') için iftara kalan süre');
   } else {
     clock.setTime(sahurRemainingMs / 1000);
