@@ -10,7 +10,7 @@ title: Gürcistan için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Adzharia](/iftar.html?sehir=Adzharia&ulke=Gürcistan)
-* [Jugo-Osetija](/iftar.html?sehir=Jugo-Osetija&ulke=Gürcistan)
-* [Abkhazia](/iftar.html?sehir=Abkhazia&ulke=Gürcistan)
-* [regions under republican juris](/iftar.html?sehir=Regions Under Republican Juris&ulke=Gürcistan)
+* [Abkhazia](/iftar.html?sehir=abkhazia&ulke=Gürcistan)
+* [Adzharia](/iftar.html?sehir=adzharia&ulke=Gürcistan)
+* [Jugo-Osetija](/iftar.html?sehir=jugo-osetija&ulke=Gürcistan)
+* [regions under republican juris](/iftar.html?sehir=regions under republican juris&ulke=Gürcistan)

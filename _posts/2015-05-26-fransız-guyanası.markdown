@@ -10,6 +10,6 @@ title: Fransız Guyanası için iftar ve namaz vakitlerini görmek için şehir 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Cayenne](/iftar.html?sehir=Cayenne&ulke=Fransız Guyanası)
-* [Saint-Laurent-du-Maroni](/iftar.html?sehir=Saint-Laurent-Du-Maroni&ulke=Fransız Guyanası)
-* [Saint-Laurent-du-Maroni ](/iftar.html?sehir=Saint-Laurent-Du-Maroni &ulke=Fransız Guyanası)
+* [Cayenne](/iftar.html?sehir=cayenne&ulke=Fransız Guyanası)
+* [Saint-Laurent-du-Maroni](/iftar.html?sehir=saint-laurent-du-maroni&ulke=Fransız Guyanası)
+* [Saint-Laurent-du-Maroni ](/iftar.html?sehir=saint-laurent-du-maroni &ulke=Fransız Guyanası)

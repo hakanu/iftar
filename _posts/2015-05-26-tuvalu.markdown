@@ -10,8 +10,8 @@ title: Tuvalu için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Funafuti](/iftar.html?sehir=Funafuti&ulke=Tuvalu)
-* [Vaitupu](/iftar.html?sehir=Vaitupu&ulke=Tuvalu)
-* [Nui](/iftar.html?sehir=Nui&ulke=Tuvalu)
-* [Lolua](/iftar.html?sehir=Lolua&ulke=Tuvalu)
-* [Nukufetau](/iftar.html?sehir=Nukufetau&ulke=Tuvalu)
+* [Funafuti](/iftar.html?sehir=funafuti&ulke=Tuvalu)
+* [Lolua](/iftar.html?sehir=lolua&ulke=Tuvalu)
+* [Nui](/iftar.html?sehir=nui&ulke=Tuvalu)
+* [Nukufetau](/iftar.html?sehir=nukufetau&ulke=Tuvalu)
+* [Vaitupu](/iftar.html?sehir=vaitupu&ulke=Tuvalu)

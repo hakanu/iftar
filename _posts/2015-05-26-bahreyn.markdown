@@ -10,14 +10,7 @@ title: Bahreyn için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-<<<<<<< HEAD
-* [Al Muharrak (Muharrak)](/iftar.html?sehir=Al Muharrak (Muharrak)&ulke=Bahreyn)
-* [Al-Bahrayn](/iftar.html?sehir=Al-Bahrayn&ulke=Bahreyn)
-* [Sitrah Island](/iftar.html?sehir=Sitrah Island&ulke=Bahreyn)
-* [Wasat](/iftar.html?sehir=Wasat&ulke=Bahreyn)
-=======
 * [Al Muharrak - Muharrak)](/iftar.html?sehir=al muharrak - muharrak)&ulke=Bahreyn)
 * [Al-Bahrayn](/iftar.html?sehir=al-bahrayn&ulke=Bahreyn)
 * [Sitrah Island](/iftar.html?sehir=sitrah island&ulke=Bahreyn)
 * [Wasat](/iftar.html?sehir=wasat&ulke=Bahreyn)
->>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

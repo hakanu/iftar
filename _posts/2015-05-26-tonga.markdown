@@ -10,10 +10,10 @@ title: Tonga için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Vavau](/iftar.html?sehir=Vavau&ulke=Tonga)
-* [Vavau ](/iftar.html?sehir=Vavau &ulke=Tonga)
-* [Eua](/iftar.html?sehir=Eua&ulke=Tonga)
-* [Haapai](/iftar.html?sehir=Haapai&ulke=Tonga)
-* [Tongatapu ](/iftar.html?sehir=Tongatapu &ulke=Tonga)
-* [Ongo Niua](/iftar.html?sehir=Ongo Niua&ulke=Tonga)
-* [Tongatapu](/iftar.html?sehir=Tongatapu&ulke=Tonga)
+* [Eua](/iftar.html?sehir=eua&ulke=Tonga)
+* [Haapai](/iftar.html?sehir=haapai&ulke=Tonga)
+* [Ongo Niua](/iftar.html?sehir=ongo niua&ulke=Tonga)
+* [Tongatapu](/iftar.html?sehir=tongatapu&ulke=Tonga)
+* [Tongatapu ](/iftar.html?sehir=tongatapu &ulke=Tonga)
+* [Vavau](/iftar.html?sehir=vavau&ulke=Tonga)
+* [Vavau ](/iftar.html?sehir=vavau &ulke=Tonga)

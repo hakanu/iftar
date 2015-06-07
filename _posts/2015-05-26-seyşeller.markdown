@@ -10,10 +10,5 @@ title: Seyşeller için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-<<<<<<< HEAD
-* [Silhouette Island](/iftar.html?sehir=Silhouette Island&ulke=Seyşeller)
-* [Central Group (Mahe Island)](/iftar.html?sehir=Central Group (Mahe Island)&ulke=Seyşeller)
-=======
-* [Silhouette Island](/iftar.html?sehir=silhouette island&ulke=Seyşeller)
 * [Central Group - Mahe Island)](/iftar.html?sehir=central group - mahe island)&ulke=Seyşeller)
->>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8
+* [Silhouette Island](/iftar.html?sehir=silhouette island&ulke=Seyşeller)

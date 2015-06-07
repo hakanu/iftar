@@ -10,5 +10,5 @@ title: Grenada için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Saint Mark](/iftar.html?sehir=Saint Mark&ulke=Grenada)
-* [Saint George](/iftar.html?sehir=Saint George&ulke=Grenada)
+* [Saint George](/iftar.html?sehir=saint george&ulke=Grenada)
+* [Saint Mark](/iftar.html?sehir=saint mark&ulke=Grenada)

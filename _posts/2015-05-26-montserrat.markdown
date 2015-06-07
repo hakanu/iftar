@@ -10,5 +10,5 @@ title: Montserrat için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Leeward Islands](/iftar.html?sehir=Leeward Islands&ulke=Montserrat)
-* [Saint Peter](/iftar.html?sehir=Saint Peter&ulke=Montserrat)
+* [Leeward Islands](/iftar.html?sehir=leeward islands&ulke=Montserrat)
+* [Saint Peter](/iftar.html?sehir=saint peter&ulke=Montserrat)

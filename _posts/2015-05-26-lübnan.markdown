@@ -10,10 +10,10 @@ title: Lübnan için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Ash-Samal](/iftar.html?sehir=Ash-Samal&ulke=Lübnan)
-* [Jabal Lubnan](/iftar.html?sehir=Jabal Lubnan&ulke=Lübnan)
-* [Al-Janub](/iftar.html?sehir=Al-Janub&ulke=Lübnan)
-* [Ash-Samal ](/iftar.html?sehir=Ash-Samal &ulke=Lübnan)
-* [Nabatiye](/iftar.html?sehir=Nabatiye&ulke=Lübnan)
-* [Beyrouth](/iftar.html?sehir=Beyrouth&ulke=Lübnan)
-* [Beqaa](/iftar.html?sehir=Beqaa&ulke=Lübnan)
+* [Al-Janub](/iftar.html?sehir=al-janub&ulke=Lübnan)
+* [Ash-Samal](/iftar.html?sehir=ash-samal&ulke=Lübnan)
+* [Ash-Samal ](/iftar.html?sehir=ash-samal &ulke=Lübnan)
+* [Beqaa](/iftar.html?sehir=beqaa&ulke=Lübnan)
+* [Beyrouth](/iftar.html?sehir=beyrouth&ulke=Lübnan)
+* [Jabal Lubnan](/iftar.html?sehir=jabal lubnan&ulke=Lübnan)
+* [Nabatiye](/iftar.html?sehir=nabatiye&ulke=Lübnan)

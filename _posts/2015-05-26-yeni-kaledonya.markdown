@@ -10,4 +10,4 @@ title: Yeni Kaledonya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ Fransa](/iftar.html?sehir= Fransa&ulke=Yeni Kaledonya)
+* [ Fransa](/iftar.html?sehir= fransa&ulke=Yeni Kaledonya)

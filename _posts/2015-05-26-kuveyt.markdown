@@ -10,6 +10,6 @@ title: Kuveyt için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Al-Ahmadi](/iftar.html?sehir=Al-Ahmadi&ulke=Kuveyt)
-* [Capital](/iftar.html?sehir=Capital&ulke=Kuveyt)
-* [Kuwait](/iftar.html?sehir=Kuwait&ulke=Kuveyt)
+* [Al-Ahmadi](/iftar.html?sehir=al-ahmadi&ulke=Kuveyt)
+* [Capital](/iftar.html?sehir=capital&ulke=Kuveyt)
+* [Kuwait](/iftar.html?sehir=kuwait&ulke=Kuveyt)

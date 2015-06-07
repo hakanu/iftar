@@ -10,15 +10,10 @@ title: Grönland için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-<<<<<<< HEAD
-* [Disko Island](/iftar.html?sehir=Disko Island&ulke=Grönland)
-* [Greenland](/iftar.html?sehir=Greenland&ulke=Grönland)
-=======
 * [Disko Island](/iftar.html?sehir=disko island&ulke=Grönland)
-* [Nordgrønland - Avannaa)](/iftar.html?sehir=nordgrønland - avannaa)&ulke=Grönland)
 * [Greenland](/iftar.html?sehir=greenland&ulke=Grönland)
-* [Østgrønland - Tunu)](/iftar.html?sehir=østgrønland - tunu)&ulke=Grönland)
-* [Vestgrønland - Kitaa)](/iftar.html?sehir=vestgrønland - kitaa)&ulke=Grönland)
+* [Nordgrønland - Avannaa)](/iftar.html?sehir=nordgrønland - avannaa)&ulke=Grönland)
 * [Nordgrønland - Avannaa)](/iftar.html?sehir=nordgrønland - avannaa)&ulke=Grönland)
+* [Vestgrønland - Kitaa)](/iftar.html?sehir=vestgrønland - kitaa)&ulke=Grönland)
+* [Østgrønland - Tunu)](/iftar.html?sehir=østgrønland - tunu)&ulke=Grönland)
 * [Østgrønland - Tunu)](/iftar.html?sehir=østgrønland - tunu)&ulke=Grönland)
->>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8

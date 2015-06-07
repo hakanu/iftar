@@ -10,7 +10,7 @@ title: Lesotho için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Berea](/iftar.html?sehir=Berea&ulke=Lesotho)
-* [Maseru](/iftar.html?sehir=Maseru&ulke=Lesotho)
-* [Qachas Nek](/iftar.html?sehir=Qachas Nek&ulke=Lesotho)
-* [Mafeteng](/iftar.html?sehir=Mafeteng&ulke=Lesotho)
+* [Berea](/iftar.html?sehir=berea&ulke=Lesotho)
+* [Mafeteng](/iftar.html?sehir=mafeteng&ulke=Lesotho)
+* [Maseru](/iftar.html?sehir=maseru&ulke=Lesotho)
+* [Qachas Nek](/iftar.html?sehir=qachas nek&ulke=Lesotho)

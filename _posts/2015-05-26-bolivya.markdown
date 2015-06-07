@@ -10,13 +10,13 @@ title: Bolivya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Potosi](/iftar.html?sehir=Potosi&ulke=Bolivya)
-* [Cochabamba](/iftar.html?sehir=Cochabamba&ulke=Bolivya)
-* [Potosí](/iftar.html?sehir=Potosí&ulke=Bolivya)
-* [Tarija](/iftar.html?sehir=Tarija&ulke=Bolivya)
-* [Santa Cruz](/iftar.html?sehir=Santa Cruz&ulke=Bolivya)
-* [Pando](/iftar.html?sehir=Pando&ulke=Bolivya)
-* [Oruro](/iftar.html?sehir=Oruro&ulke=Bolivya)
-* [Chuquisaca](/iftar.html?sehir=Chuquisaca&ulke=Bolivya)
-* [Beni](/iftar.html?sehir=Beni&ulke=Bolivya)
-* [La Paz](/iftar.html?sehir=La Paz&ulke=Bolivya)
+* [Beni](/iftar.html?sehir=beni&ulke=Bolivya)
+* [Chuquisaca](/iftar.html?sehir=chuquisaca&ulke=Bolivya)
+* [Cochabamba](/iftar.html?sehir=cochabamba&ulke=Bolivya)
+* [La Paz](/iftar.html?sehir=la paz&ulke=Bolivya)
+* [Oruro](/iftar.html?sehir=oruro&ulke=Bolivya)
+* [Pando](/iftar.html?sehir=pando&ulke=Bolivya)
+* [Potosi](/iftar.html?sehir=potosi&ulke=Bolivya)
+* [Potosí](/iftar.html?sehir=potosí&ulke=Bolivya)
+* [Santa Cruz](/iftar.html?sehir=santa cruz&ulke=Bolivya)
+* [Tarija](/iftar.html?sehir=tarija&ulke=Bolivya)

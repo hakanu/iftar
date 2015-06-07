@@ -30,8 +30,9 @@ jQuery( document ).ready(function( $ ) {
     var params = getJsonFromUrl(currentUrl);
     //console.log('get url parameters: ' + JSON.stringify(params));
     if (params && params['ulke'] && params['sehir']) {
-      getIftarTimeP(params['ulke'], params['sehir']);
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+      setIftarTitle(params['ulke'], params['sehir']);
+      getIftarTimeP(params['ulke'], params['sehir']);
       setHicriTarih(hicriTarih);
     } else {
       //console.log('Wrong url params');
@@ -202,6 +203,7 @@ function showPosition(position) {
     var trCountry = countryNamesMapping[country.toUpperCase()];
     //console.log('Turkish country: ' + trCountry);
     //getIftarTime(trCountry, city);
+    setIftarTitle(trCountry, city);
     getIftarTimeP(trCountry, city);
   };
   xhr.send();
@@ -294,6 +296,13 @@ function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi) {
 function setHicriTarih(hicriTarih) {
   $('#today-date-hicri')[0].innerHTML = (
       $('#today-date-hicri')[0].innerHTML + hicriTarih);
+}
+
+function setIftarTitle(country, city) {
+  document.title = (
+      country + ' / ' + city + ' için iftar ve namaz vakitleri, '
+      + 'ramazana ne kadar kaldı?, Ankara, İstanbul, İzmir, Bursa, Bakü '
+      + 'iftar 2015, ramazan, uluslararası namaz ve iftar zamanları.');
 }
 
 function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,

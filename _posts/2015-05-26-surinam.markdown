@@ -10,9 +10,9 @@ title: Surinam için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Saramacca](/iftar.html?sehir=Saramacca&ulke=Surinam)
-* [Coronie](/iftar.html?sehir=Coronie&ulke=Surinam)
-* [Brokopondo](/iftar.html?sehir=Brokopondo&ulke=Surinam)
-* [Marowijne](/iftar.html?sehir=Marowijne&ulke=Surinam)
-* [Paramaribo](/iftar.html?sehir=Paramaribo&ulke=Surinam)
-* [Nickerie](/iftar.html?sehir=Nickerie&ulke=Surinam)
+* [Brokopondo](/iftar.html?sehir=brokopondo&ulke=Surinam)
+* [Coronie](/iftar.html?sehir=coronie&ulke=Surinam)
+* [Marowijne](/iftar.html?sehir=marowijne&ulke=Surinam)
+* [Nickerie](/iftar.html?sehir=nickerie&ulke=Surinam)
+* [Paramaribo](/iftar.html?sehir=paramaribo&ulke=Surinam)
+* [Saramacca](/iftar.html?sehir=saramacca&ulke=Surinam)

@@ -10,24 +10,14 @@ title: Gabon için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-<<<<<<< HEAD
-* [Woleu-Ntem](/iftar.html?sehir=Woleu-Ntem&ulke=Gabon)
-* [Estuaire](/iftar.html?sehir=Estuaire&ulke=Gabon)
-* [Ngounié](/iftar.html?sehir=Ngounié&ulke=Gabon)
-* [Ogooue-Maritime](/iftar.html?sehir=Ogooue-Maritime&ulke=Gabon)
-* [Ngounie](/iftar.html?sehir=Ngounie&ulke=Gabon)
-* [Nyanga](/iftar.html?sehir=Nyanga&ulke=Gabon)
-* [Ogooué-Maritime](/iftar.html?sehir=Ogooué-Maritime&ulke=Gabon)
-=======
-* [Moyen-Ogooué](/iftar.html?sehir=moyen-ogooué&ulke=Gabon)
-* [Haut-Ogooué](/iftar.html?sehir=haut-ogooué&ulke=Gabon)
-* [Ogooué-Ivindo](/iftar.html?sehir=ogooué-ivindo&ulke=Gabon)
-* [Woleu-Ntem](/iftar.html?sehir=woleu-ntem&ulke=Gabon)
 * [Estuaire](/iftar.html?sehir=estuaire&ulke=Gabon)
-* [Ogooué-Lolo](/iftar.html?sehir=ogooué-lolo&ulke=Gabon)
-* [Ngounié](/iftar.html?sehir=ngounié&ulke=Gabon)
-* [Ogooue-Maritime](/iftar.html?sehir=ogooue-maritime&ulke=Gabon)
+* [Haut-Ogooué](/iftar.html?sehir=haut-ogooué&ulke=Gabon)
+* [Moyen-Ogooué](/iftar.html?sehir=moyen-ogooué&ulke=Gabon)
 * [Ngounie](/iftar.html?sehir=ngounie&ulke=Gabon)
+* [Ngounié](/iftar.html?sehir=ngounié&ulke=Gabon)
 * [Nyanga](/iftar.html?sehir=nyanga&ulke=Gabon)
+* [Ogooue-Maritime](/iftar.html?sehir=ogooue-maritime&ulke=Gabon)
+* [Ogooué-Ivindo](/iftar.html?sehir=ogooué-ivindo&ulke=Gabon)
+* [Ogooué-Lolo](/iftar.html?sehir=ogooué-lolo&ulke=Gabon)
 * [Ogooué-Maritime](/iftar.html?sehir=ogooué-maritime&ulke=Gabon)
->>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8
+* [Woleu-Ntem](/iftar.html?sehir=woleu-ntem&ulke=Gabon)

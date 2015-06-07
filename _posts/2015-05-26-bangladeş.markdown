@@ -10,11 +10,11 @@ title: Bangladeş için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Dhaka](/iftar.html?sehir=Dhaka&ulke=Bangladeş)
-* [Rajshahi](/iftar.html?sehir=Rajshahi&ulke=Bangladeş)
-* [Rangpur ](/iftar.html?sehir=Rangpur &ulke=Bangladeş)
-* [Chittagong](/iftar.html?sehir=Chittagong&ulke=Bangladeş)
-* [Rangpur](/iftar.html?sehir=Rangpur&ulke=Bangladeş)
-* [Sylhet](/iftar.html?sehir=Sylhet&ulke=Bangladeş)
-* [Khulna](/iftar.html?sehir=Khulna&ulke=Bangladeş)
-* [Barisal](/iftar.html?sehir=Barisal&ulke=Bangladeş)
+* [Barisal](/iftar.html?sehir=barisal&ulke=Bangladeş)
+* [Chittagong](/iftar.html?sehir=chittagong&ulke=Bangladeş)
+* [Dhaka](/iftar.html?sehir=dhaka&ulke=Bangladeş)
+* [Khulna](/iftar.html?sehir=khulna&ulke=Bangladeş)
+* [Rajshahi](/iftar.html?sehir=rajshahi&ulke=Bangladeş)
+* [Rangpur](/iftar.html?sehir=rangpur&ulke=Bangladeş)
+* [Rangpur ](/iftar.html?sehir=rangpur &ulke=Bangladeş)
+* [Sylhet](/iftar.html?sehir=sylhet&ulke=Bangladeş)

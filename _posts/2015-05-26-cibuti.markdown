@@ -10,9 +10,9 @@ title: Cibuti için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Obock](/iftar.html?sehir=Obock&ulke=Cibuti)
-* [Dikhil](/iftar.html?sehir=Dikhil&ulke=Cibuti)
-* [Ali Sabih](/iftar.html?sehir=Ali Sabih&ulke=Cibuti)
-* [Tadjoura](/iftar.html?sehir=Tadjoura&ulke=Cibuti)
-* [Arta](/iftar.html?sehir=Arta&ulke=Cibuti)
-* [Cibuti](/iftar.html?sehir=Cibuti&ulke=Cibuti)
+* [Ali Sabih](/iftar.html?sehir=ali sabih&ulke=Cibuti)
+* [Arta](/iftar.html?sehir=arta&ulke=Cibuti)
+* [Cibuti](/iftar.html?sehir=cibuti&ulke=Cibuti)
+* [Dikhil](/iftar.html?sehir=dikhil&ulke=Cibuti)
+* [Obock](/iftar.html?sehir=obock&ulke=Cibuti)
+* [Tadjoura](/iftar.html?sehir=tadjoura&ulke=Cibuti)

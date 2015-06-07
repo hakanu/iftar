@@ -10,9 +10,9 @@ title: Kuzey İrlanda için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Fermanagh](/iftar.html?sehir=Fermanagh&ulke=Kuzey İrlanda)
-* [Londonderry](/iftar.html?sehir=Londonderry&ulke=Kuzey İrlanda)
-* [Armagh](/iftar.html?sehir=Armagh&ulke=Kuzey İrlanda)
-* [Down](/iftar.html?sehir=Down&ulke=Kuzey İrlanda)
-* [Tyrone](/iftar.html?sehir=Tyrone&ulke=Kuzey İrlanda)
-* [Antrim](/iftar.html?sehir=Antrim&ulke=Kuzey İrlanda)
+* [Antrim](/iftar.html?sehir=antrim&ulke=Kuzey İrlanda)
+* [Armagh](/iftar.html?sehir=armagh&ulke=Kuzey İrlanda)
+* [Down](/iftar.html?sehir=down&ulke=Kuzey İrlanda)
+* [Fermanagh](/iftar.html?sehir=fermanagh&ulke=Kuzey İrlanda)
+* [Londonderry](/iftar.html?sehir=londonderry&ulke=Kuzey İrlanda)
+* [Tyrone](/iftar.html?sehir=tyrone&ulke=Kuzey İrlanda)

@@ -10,11 +10,11 @@ title: Laos için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Houaphan](/iftar.html?sehir=Houaphan&ulke=Laos)
-* [Savannakhét](/iftar.html?sehir=Savannakhét&ulke=Laos)
-* [Vientiane](/iftar.html?sehir=Vientiane&ulke=Laos)
-* [Xiangkhoang](/iftar.html?sehir=Xiangkhoang&ulke=Laos)
-* [Champasak](/iftar.html?sehir=Champasak&ulke=Laos)
-* [Louangphrabang](/iftar.html?sehir=Louangphrabang&ulke=Laos)
-* [Savannakhet](/iftar.html?sehir=Savannakhet&ulke=Laos)
-* [Saravane](/iftar.html?sehir=Saravane&ulke=Laos)
+* [Champasak](/iftar.html?sehir=champasak&ulke=Laos)
+* [Houaphan](/iftar.html?sehir=houaphan&ulke=Laos)
+* [Louangphrabang](/iftar.html?sehir=louangphrabang&ulke=Laos)
+* [Saravane](/iftar.html?sehir=saravane&ulke=Laos)
+* [Savannakhet](/iftar.html?sehir=savannakhet&ulke=Laos)
+* [Savannakhét](/iftar.html?sehir=savannakhét&ulke=Laos)
+* [Vientiane](/iftar.html?sehir=vientiane&ulke=Laos)
+* [Xiangkhoang](/iftar.html?sehir=xiangkhoang&ulke=Laos)

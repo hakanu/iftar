@@ -10,4 +10,4 @@ title: Niue için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ Yeni Zelanda](/iftar.html?sehir= Yeni Zelanda&ulke=Niue)
+* [ Yeni Zelanda](/iftar.html?sehir= yeni zelanda&ulke=Niue)

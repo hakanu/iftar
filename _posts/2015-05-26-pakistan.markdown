@@ -10,11 +10,11 @@ title: Pakistan için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Federally Administered Tribal Areas](/iftar.html?sehir=Federally Administered Tribal Areas&ulke=Pakistan)
-* [Islamabad](/iftar.html?sehir=Islamabad&ulke=Pakistan)
-* [Punjab](/iftar.html?sehir=Punjab&ulke=Pakistan)
-* [Baluchistan](/iftar.html?sehir=Baluchistan&ulke=Pakistan)
-* [Azad Kashmir](/iftar.html?sehir=Azad Kashmir&ulke=Pakistan)
-* [Federally Administered Tribal Areas ](/iftar.html?sehir=Federally Administered Tribal Areas &ulke=Pakistan)
-* [Sindh](/iftar.html?sehir=Sindh&ulke=Pakistan)
-* [Northwest Frontier](/iftar.html?sehir=Northwest Frontier&ulke=Pakistan)
+* [Azad Kashmir](/iftar.html?sehir=azad kashmir&ulke=Pakistan)
+* [Baluchistan](/iftar.html?sehir=baluchistan&ulke=Pakistan)
+* [Federally Administered Tribal Areas](/iftar.html?sehir=federally administered tribal areas&ulke=Pakistan)
+* [Federally Administered Tribal Areas ](/iftar.html?sehir=federally administered tribal areas &ulke=Pakistan)
+* [Islamabad](/iftar.html?sehir=islamabad&ulke=Pakistan)
+* [Northwest Frontier](/iftar.html?sehir=northwest frontier&ulke=Pakistan)
+* [Punjab](/iftar.html?sehir=punjab&ulke=Pakistan)
+* [Sindh](/iftar.html?sehir=sindh&ulke=Pakistan)

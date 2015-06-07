@@ -10,20 +10,13 @@ title: Kamboçya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-<<<<<<< HEAD
-* [Kampuchea](/iftar.html?sehir=Kampuchea&ulke=Kamboçya)
-* [Phnom Penh](/iftar.html?sehir=Phnom Penh&ulke=Kamboçya)
-* [Pouthisat](/iftar.html?sehir=Pouthisat&ulke=Kamboçya)
-* [Sihanoukville](/iftar.html?sehir=Sihanoukville&ulke=Kamboçya)
-=======
 * [Bantéay Méan Cheay](/iftar.html?sehir=bantéay méan cheay&ulke=Kamboçya)
-* [Pouthisat](/iftar.html?sehir=pouthisat&ulke=Kamboçya)
-* [Stoeng Trêng](/iftar.html?sehir=stoeng trêng&ulke=Kamboçya)
-* [Phnom Penh](/iftar.html?sehir=phnom penh&ulke=Kamboçya)
-* [Kâmpôt](/iftar.html?sehir=kâmpôt&ulke=Kamboçya)
+* [Batdâmbâng-Bântéay Méanchey](/iftar.html?sehir=batdâmbâng-bântéay méanchey&ulke=Kamboçya)
 * [Kampuchea](/iftar.html?sehir=kampuchea&ulke=Kamboçya)
 * [Krâchéh](/iftar.html?sehir=krâchéh&ulke=Kamboçya)
 * [Kâmpóng Chhnang](/iftar.html?sehir=kâmpóng chhnang&ulke=Kamboçya)
+* [Kâmpôt](/iftar.html?sehir=kâmpôt&ulke=Kamboçya)
+* [Phnom Penh](/iftar.html?sehir=phnom penh&ulke=Kamboçya)
+* [Pouthisat](/iftar.html?sehir=pouthisat&ulke=Kamboçya)
 * [Sihanoukville](/iftar.html?sehir=sihanoukville&ulke=Kamboçya)
-* [Batdâmbâng-Bântéay Méanchey](/iftar.html?sehir=batdâmbâng-bântéay méanchey&ulke=Kamboçya)
->>>>>>> 69bcf0156c1e2f3e0771633dfa81382286e26ed8
+* [Stoeng Trêng](/iftar.html?sehir=stoeng trêng&ulke=Kamboçya)

@@ -10,5 +10,5 @@ title: Palau Adaları için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Caroline Islands](/iftar.html?sehir=Caroline Islands&ulke=Palau Adaları)
-* [Melekeok](/iftar.html?sehir=Melekeok&ulke=Palau Adaları)
+* [Caroline Islands](/iftar.html?sehir=caroline islands&ulke=Palau Adaları)
+* [Melekeok](/iftar.html?sehir=melekeok&ulke=Palau Adaları)

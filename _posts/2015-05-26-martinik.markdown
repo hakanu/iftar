@@ -10,4 +10,4 @@ title: Martinik için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ Fransa](/iftar.html?sehir= Fransa&ulke=Martinik)
+* [ Fransa](/iftar.html?sehir= fransa&ulke=Martinik)

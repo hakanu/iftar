@@ -10,4 +10,4 @@ title: Maldiv Adaları için iftar ve namaz vakitlerini görmek için şehir se�
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Male Atoll](/iftar.html?sehir=Male Atoll&ulke=Maldiv Adaları)
+* [Male Atoll](/iftar.html?sehir=male atoll&ulke=Maldiv Adaları)
