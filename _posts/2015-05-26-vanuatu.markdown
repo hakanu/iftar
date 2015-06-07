@@ -10,7 +10,7 @@ title: Vanuatu için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Anatom Island](/iftar.html?sehir=anatom island&ulke=Vanuatu)
-* [Erromango Island](/iftar.html?sehir=erromango island&ulke=Vanuatu)
-* [Efate Island](/iftar.html?sehir=efate island&ulke=Vanuatu)
-* [Tanna Island](/iftar.html?sehir=tanna island&ulke=Vanuatu)
+* [Anatom Island](/iftar.html?sehir=Anatom Island&ulke=Vanuatu)
+* [Erromango Island](/iftar.html?sehir=Erromango Island&ulke=Vanuatu)
+* [Efate Island](/iftar.html?sehir=Efate Island&ulke=Vanuatu)
+* [Tanna Island](/iftar.html?sehir=Tanna Island&ulke=Vanuatu)

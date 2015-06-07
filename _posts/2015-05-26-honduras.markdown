@@ -10,10 +10,10 @@ title: Honduras için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Cortés](/iftar.html?sehir=cortés&ulke=Honduras)
-* [Choluteca](/iftar.html?sehir=choluteca&ulke=Honduras)
-* [Yoro](/iftar.html?sehir=yoro&ulke=Honduras)
-* [Colon](/iftar.html?sehir=colon&ulke=Honduras)
-* [Atlantida](/iftar.html?sehir=atlantida&ulke=Honduras)
-* [Yoro ](/iftar.html?sehir=yoro &ulke=Honduras)
-* [Cortes](/iftar.html?sehir=cortes&ulke=Honduras)
+* [Cortés](/iftar.html?sehir=Cortés&ulke=Honduras)
+* [Choluteca](/iftar.html?sehir=Choluteca&ulke=Honduras)
+* [Yoro](/iftar.html?sehir=Yoro&ulke=Honduras)
+* [Colon](/iftar.html?sehir=Colon&ulke=Honduras)
+* [Atlantida](/iftar.html?sehir=Atlantida&ulke=Honduras)
+* [Yoro ](/iftar.html?sehir=Yoro &ulke=Honduras)
+* [Cortes](/iftar.html?sehir=Cortes&ulke=Honduras)

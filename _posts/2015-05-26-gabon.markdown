@@ -10,10 +10,10 @@ title: Gabon için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Woleu-Ntem](/iftar.html?sehir=woleu-ntem&ulke=Gabon)
-* [Estuaire](/iftar.html?sehir=estuaire&ulke=Gabon)
-* [Ngounié](/iftar.html?sehir=ngounié&ulke=Gabon)
-* [Ogooue-Maritime](/iftar.html?sehir=ogooue-maritime&ulke=Gabon)
-* [Ngounie](/iftar.html?sehir=ngounie&ulke=Gabon)
-* [Nyanga](/iftar.html?sehir=nyanga&ulke=Gabon)
-* [Ogooué-Maritime](/iftar.html?sehir=ogooué-maritime&ulke=Gabon)
+* [Woleu-Ntem](/iftar.html?sehir=Woleu-Ntem&ulke=Gabon)
+* [Estuaire](/iftar.html?sehir=Estuaire&ulke=Gabon)
+* [Ngounié](/iftar.html?sehir=Ngounié&ulke=Gabon)
+* [Ogooue-Maritime](/iftar.html?sehir=Ogooue-Maritime&ulke=Gabon)
+* [Ngounie](/iftar.html?sehir=Ngounie&ulke=Gabon)
+* [Nyanga](/iftar.html?sehir=Nyanga&ulke=Gabon)
+* [Ogooué-Maritime](/iftar.html?sehir=Ogooué-Maritime&ulke=Gabon)

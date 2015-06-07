@@ -10,5 +10,5 @@ title: Grönland için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Disko Island](/iftar.html?sehir=disko island&ulke=Grönland)
-* [Greenland](/iftar.html?sehir=greenland&ulke=Grönland)
+* [Disko Island](/iftar.html?sehir=Disko Island&ulke=Grönland)
+* [Greenland](/iftar.html?sehir=Greenland&ulke=Grönland)

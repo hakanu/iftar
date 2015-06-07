@@ -10,13 +10,13 @@ title: Litvanya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Kretinga](/iftar.html?sehir=kretinga&ulke=Litvanya)
-* [Kaunas](/iftar.html?sehir=kaunas&ulke=Litvanya)
-* [Silute](/iftar.html?sehir=silute&ulke=Litvanya)
-* [Siauliai](/iftar.html?sehir=siauliai&ulke=Litvanya)
-* [Klaipeda](/iftar.html?sehir=klaipeda&ulke=Litvanya)
-* [Skuodas](/iftar.html?sehir=skuodas&ulke=Litvanya)
-* [Alytus](/iftar.html?sehir=alytus&ulke=Litvanya)
-* [Neringa](/iftar.html?sehir=neringa&ulke=Litvanya)
-* [Marijampole](/iftar.html?sehir=marijampole&ulke=Litvanya)
-* [Vilnius](/iftar.html?sehir=vilnius&ulke=Litvanya)
+* [Kretinga](/iftar.html?sehir=Kretinga&ulke=Litvanya)
+* [Kaunas](/iftar.html?sehir=Kaunas&ulke=Litvanya)
+* [Silute](/iftar.html?sehir=Silute&ulke=Litvanya)
+* [Siauliai](/iftar.html?sehir=Siauliai&ulke=Litvanya)
+* [Klaipeda](/iftar.html?sehir=Klaipeda&ulke=Litvanya)
+* [Skuodas](/iftar.html?sehir=Skuodas&ulke=Litvanya)
+* [Alytus](/iftar.html?sehir=Alytus&ulke=Litvanya)
+* [Neringa](/iftar.html?sehir=Neringa&ulke=Litvanya)
+* [Marijampole](/iftar.html?sehir=Marijampole&ulke=Litvanya)
+* [Vilnius](/iftar.html?sehir=Vilnius&ulke=Litvanya)

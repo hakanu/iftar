@@ -10,5 +10,5 @@ title: Monako için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Monte Carlo](/iftar.html?sehir=monte carlo&ulke=Monako)
-* [Monako-Ville](/iftar.html?sehir=monako-ville&ulke=Monako)
+* [Monte Carlo](/iftar.html?sehir=Monte Carlo&ulke=Monako)
+* [Monako-Ville](/iftar.html?sehir=Monako-Ville&ulke=Monako)

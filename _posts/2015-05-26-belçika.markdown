@@ -10,13 +10,13 @@ title: Belçika için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Antwerpen](/iftar.html?sehir=antwerpen&ulke=Belçika)
-* [Liege](/iftar.html?sehir=liege&ulke=Belçika)
-* [Namur](/iftar.html?sehir=namur&ulke=Belçika)
-* [Hainaut](/iftar.html?sehir=hainaut&ulke=Belçika)
-* [Luxembourg](/iftar.html?sehir=luxembourg&ulke=Belçika)
-* [Brabant](/iftar.html?sehir=brabant&ulke=Belçika)
-* [Bruxelles](/iftar.html?sehir=bruxelles&ulke=Belçika)
-* [Limburg](/iftar.html?sehir=limburg&ulke=Belçika)
-* [Oost-Vlaanderen](/iftar.html?sehir=oost-vlaanderen&ulke=Belçika)
-* [West-Vlaanderen](/iftar.html?sehir=west-vlaanderen&ulke=Belçika)
+* [Antwerpen](/iftar.html?sehir=Antwerpen&ulke=Belçika)
+* [Liege](/iftar.html?sehir=Liege&ulke=Belçika)
+* [Namur](/iftar.html?sehir=Namur&ulke=Belçika)
+* [Hainaut](/iftar.html?sehir=Hainaut&ulke=Belçika)
+* [Luxembourg](/iftar.html?sehir=Luxembourg&ulke=Belçika)
+* [Brabant](/iftar.html?sehir=Brabant&ulke=Belçika)
+* [Bruxelles](/iftar.html?sehir=Bruxelles&ulke=Belçika)
+* [Limburg](/iftar.html?sehir=Limburg&ulke=Belçika)
+* [Oost-Vlaanderen](/iftar.html?sehir=Oost-Vlaanderen&ulke=Belçika)
+* [West-Vlaanderen](/iftar.html?sehir=West-Vlaanderen&ulke=Belçika)

@@ -10,12 +10,12 @@ title: Zambiya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Central](/iftar.html?sehir=central&ulke=Zambiya)
-* [Northern](/iftar.html?sehir=northern&ulke=Zambiya)
-* [Eastern](/iftar.html?sehir=eastern&ulke=Zambiya)
-* [North-Western](/iftar.html?sehir=north-western&ulke=Zambiya)
-* [Southern](/iftar.html?sehir=southern&ulke=Zambiya)
-* [Luapula](/iftar.html?sehir=luapula&ulke=Zambiya)
-* [Western](/iftar.html?sehir=western&ulke=Zambiya)
-* [Copperbelt](/iftar.html?sehir=copperbelt&ulke=Zambiya)
-* [Lusaka](/iftar.html?sehir=lusaka&ulke=Zambiya)
+* [Central](/iftar.html?sehir=Central&ulke=Zambiya)
+* [Northern](/iftar.html?sehir=Northern&ulke=Zambiya)
+* [Eastern](/iftar.html?sehir=Eastern&ulke=Zambiya)
+* [North-Western](/iftar.html?sehir=North-Western&ulke=Zambiya)
+* [Southern](/iftar.html?sehir=Southern&ulke=Zambiya)
+* [Luapula](/iftar.html?sehir=Luapula&ulke=Zambiya)
+* [Western](/iftar.html?sehir=Western&ulke=Zambiya)
+* [Copperbelt](/iftar.html?sehir=Copperbelt&ulke=Zambiya)
+* [Lusaka](/iftar.html?sehir=Lusaka&ulke=Zambiya)

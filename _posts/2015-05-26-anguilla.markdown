@@ -10,4 +10,4 @@ title: Anguilla için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ İngiltere](/iftar.html?sehir= ingiltere&ulke=Anguilla)
+* [ İngiltere](/iftar.html?sehir= Ingiltere&ulke=Anguilla)

@@ -10,12 +10,12 @@ title: Sri Lanka için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [North Western Province](/iftar.html?sehir=north western province&ulke=Sri Lanka)
-* [Central Province](/iftar.html?sehir=central province&ulke=Sri Lanka)
-* [Northern](/iftar.html?sehir=northern&ulke=Sri Lanka)
-* [Eastern](/iftar.html?sehir=eastern&ulke=Sri Lanka)
-* [Western Province](/iftar.html?sehir=western province&ulke=Sri Lanka)
-* [Uva Province](/iftar.html?sehir=uva province&ulke=Sri Lanka)
-* [Sabaragamuwa](/iftar.html?sehir=sabaragamuwa&ulke=Sri Lanka)
-* [North Central Province](/iftar.html?sehir=north central province&ulke=Sri Lanka)
-* [Southern Province](/iftar.html?sehir=southern province&ulke=Sri Lanka)
+* [North Western Province](/iftar.html?sehir=North Western Province&ulke=Sri Lanka)
+* [Central Province](/iftar.html?sehir=Central Province&ulke=Sri Lanka)
+* [Northern](/iftar.html?sehir=Northern&ulke=Sri Lanka)
+* [Eastern](/iftar.html?sehir=Eastern&ulke=Sri Lanka)
+* [Western Province](/iftar.html?sehir=Western Province&ulke=Sri Lanka)
+* [Uva Province](/iftar.html?sehir=Uva Province&ulke=Sri Lanka)
+* [Sabaragamuwa](/iftar.html?sehir=Sabaragamuwa&ulke=Sri Lanka)
+* [North Central Province](/iftar.html?sehir=North Central Province&ulke=Sri Lanka)
+* [Southern Province](/iftar.html?sehir=Southern Province&ulke=Sri Lanka)

@@ -10,8 +10,8 @@ title: Brunei için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Brunei and Muara](/iftar.html?sehir=brunei and muara&ulke=Brunei)
-* [Belait](/iftar.html?sehir=belait&ulke=Brunei)
-* [Temburong](/iftar.html?sehir=temburong&ulke=Brunei)
-* [Temburong ](/iftar.html?sehir=temburong &ulke=Brunei)
-* [Tutong](/iftar.html?sehir=tutong&ulke=Brunei)
+* [Brunei and Muara](/iftar.html?sehir=Brunei And Muara&ulke=Brunei)
+* [Belait](/iftar.html?sehir=Belait&ulke=Brunei)
+* [Temburong](/iftar.html?sehir=Temburong&ulke=Brunei)
+* [Temburong ](/iftar.html?sehir=Temburong &ulke=Brunei)
+* [Tutong](/iftar.html?sehir=Tutong&ulke=Brunei)

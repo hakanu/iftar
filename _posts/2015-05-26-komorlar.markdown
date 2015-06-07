@@ -10,6 +10,6 @@ title: Komorlar için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Mwali (Moheli) Island](/iftar.html?sehir=mwali (moheli) island&ulke=Komorlar)
-* [Nzwani (Anjouan) Island](/iftar.html?sehir=nzwani (anjouan) island&ulke=Komorlar)
-* [Njazidja (Grande Comore)](/iftar.html?sehir=njazidja (grande comore)&ulke=Komorlar)
+* [Mwali (Moheli) Island](/iftar.html?sehir=Mwali (Moheli) Island&ulke=Komorlar)
+* [Nzwani (Anjouan) Island](/iftar.html?sehir=Nzwani (Anjouan) Island&ulke=Komorlar)
+* [Njazidja (Grande Comore)](/iftar.html?sehir=Njazidja (Grande Comore)&ulke=Komorlar)

@@ -10,4 +10,4 @@ title: Kosova için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Kosova](/iftar.html?sehir=kosova&ulke=Kosova)
+* [Kosova](/iftar.html?sehir=Kosova&ulke=Kosova)

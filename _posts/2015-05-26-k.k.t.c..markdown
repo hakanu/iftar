@@ -10,6 +10,6 @@ title: K.K.T.C. için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Gazimagosa](/iftar.html?sehir=gazimagosa&ulke=K.K.T.C.)
-* [Girne](/iftar.html?sehir=girne&ulke=K.K.T.C.)
-* [Girne ](/iftar.html?sehir=girne &ulke=K.K.T.C.)
+* [Gazimagosa](/iftar.html?sehir=Gazimagosa&ulke=K.K.T.C.)
+* [Girne](/iftar.html?sehir=Girne&ulke=K.K.T.C.)
+* [Girne ](/iftar.html?sehir=Girne &ulke=K.K.T.C.)

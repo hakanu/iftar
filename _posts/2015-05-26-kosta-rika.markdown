@@ -10,12 +10,12 @@ title: Kosta Rika için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [San jose](/iftar.html?sehir=san jose&ulke=Kosta Rika)
-* [Alajuela](/iftar.html?sehir=alajuela&ulke=Kosta Rika)
-* [Cartago](/iftar.html?sehir=cartago&ulke=Kosta Rika)
-* [Limon ](/iftar.html?sehir=limon &ulke=Kosta Rika)
-* [San Jose](/iftar.html?sehir=san jose&ulke=Kosta Rika)
-* [Puntarenas](/iftar.html?sehir=puntarenas&ulke=Kosta Rika)
-* [Heredia](/iftar.html?sehir=heredia&ulke=Kosta Rika)
-* [Limon](/iftar.html?sehir=limon&ulke=Kosta Rika)
-* [Guanacaste](/iftar.html?sehir=guanacaste&ulke=Kosta Rika)
+* [San jose](/iftar.html?sehir=San Jose&ulke=Kosta Rika)
+* [Alajuela](/iftar.html?sehir=Alajuela&ulke=Kosta Rika)
+* [Cartago](/iftar.html?sehir=Cartago&ulke=Kosta Rika)
+* [Limon ](/iftar.html?sehir=Limon &ulke=Kosta Rika)
+* [San Jose](/iftar.html?sehir=San Jose&ulke=Kosta Rika)
+* [Puntarenas](/iftar.html?sehir=Puntarenas&ulke=Kosta Rika)
+* [Heredia](/iftar.html?sehir=Heredia&ulke=Kosta Rika)
+* [Limon](/iftar.html?sehir=Limon&ulke=Kosta Rika)
+* [Guanacaste](/iftar.html?sehir=Guanacaste&ulke=Kosta Rika)

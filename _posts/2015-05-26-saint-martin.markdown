@@ -10,4 +10,4 @@ title: Saint Martin için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ Fransa](/iftar.html?sehir= fransa&ulke=Saint Martin)
+* [ Fransa](/iftar.html?sehir= Fransa&ulke=Saint Martin)

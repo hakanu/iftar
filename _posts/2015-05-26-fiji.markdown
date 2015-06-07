@@ -10,7 +10,7 @@ title: Fiji için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Taveuni ](/iftar.html?sehir=taveuni &ulke=Fiji)
-* [Viti Levu](/iftar.html?sehir=viti levu&ulke=Fiji)
-* [Taveuni](/iftar.html?sehir=taveuni&ulke=Fiji)
-* [Vanua Levu](/iftar.html?sehir=vanua levu&ulke=Fiji)
+* [Taveuni ](/iftar.html?sehir=Taveuni &ulke=Fiji)
+* [Viti Levu](/iftar.html?sehir=Viti Levu&ulke=Fiji)
+* [Taveuni](/iftar.html?sehir=Taveuni&ulke=Fiji)
+* [Vanua Levu](/iftar.html?sehir=Vanua Levu&ulke=Fiji)

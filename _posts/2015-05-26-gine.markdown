@@ -10,10 +10,10 @@ title: Gine için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Labe](/iftar.html?sehir=labe&ulke=Gine)
-* [Kankan](/iftar.html?sehir=kankan&ulke=Gine)
-* [Nzerekore](/iftar.html?sehir=nzerekore&ulke=Gine)
-* [Faranah](/iftar.html?sehir=faranah&ulke=Gine)
-* [Kindia](/iftar.html?sehir=kindia&ulke=Gine)
-* [Nzérékoré](/iftar.html?sehir=nzérékoré&ulke=Gine)
-* [Dubreka](/iftar.html?sehir=dubreka&ulke=Gine)
+* [Labe](/iftar.html?sehir=Labe&ulke=Gine)
+* [Kankan](/iftar.html?sehir=Kankan&ulke=Gine)
+* [Nzerekore](/iftar.html?sehir=Nzerekore&ulke=Gine)
+* [Faranah](/iftar.html?sehir=Faranah&ulke=Gine)
+* [Kindia](/iftar.html?sehir=Kindia&ulke=Gine)
+* [Nzérékoré](/iftar.html?sehir=Nzérékoré&ulke=Gine)
+* [Dubreka](/iftar.html?sehir=Dubreka&ulke=Gine)

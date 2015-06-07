@@ -10,11 +10,11 @@ title: Ürdün için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Tafila](/iftar.html?sehir=tafila&ulke=Ürdün)
-* [Irbid](/iftar.html?sehir=irbid&ulke=Ürdün)
-* [Balqa](/iftar.html?sehir=balqa&ulke=Ürdün)
-* [Karak](/iftar.html?sehir=karak&ulke=Ürdün)
-* [Az Zarqa](/iftar.html?sehir=az zarqa&ulke=Ürdün)
-* [Ma`an](/iftar.html?sehir=ma`an&ulke=Ürdün)
-* [Jordan](/iftar.html?sehir=jordan&ulke=Ürdün)
-* [Amman](/iftar.html?sehir=amman&ulke=Ürdün)
+* [Tafila](/iftar.html?sehir=Tafila&ulke=Ürdün)
+* [Irbid](/iftar.html?sehir=Irbid&ulke=Ürdün)
+* [Balqa](/iftar.html?sehir=Balqa&ulke=Ürdün)
+* [Karak](/iftar.html?sehir=Karak&ulke=Ürdün)
+* [Az Zarqa](/iftar.html?sehir=Az Zarqa&ulke=Ürdün)
+* [Ma`an](/iftar.html?sehir=Ma`An&ulke=Ürdün)
+* [Jordan](/iftar.html?sehir=Jordan&ulke=Ürdün)
+* [Amman](/iftar.html?sehir=Amman&ulke=Ürdün)

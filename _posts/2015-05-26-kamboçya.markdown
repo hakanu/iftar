@@ -10,7 +10,7 @@ title: Kamboçya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Kampuchea](/iftar.html?sehir=kampuchea&ulke=Kamboçya)
-* [Phnom Penh](/iftar.html?sehir=phnom penh&ulke=Kamboçya)
-* [Pouthisat](/iftar.html?sehir=pouthisat&ulke=Kamboçya)
-* [Sihanoukville](/iftar.html?sehir=sihanoukville&ulke=Kamboçya)
+* [Kampuchea](/iftar.html?sehir=Kampuchea&ulke=Kamboçya)
+* [Phnom Penh](/iftar.html?sehir=Phnom Penh&ulke=Kamboçya)
+* [Pouthisat](/iftar.html?sehir=Pouthisat&ulke=Kamboçya)
+* [Sihanoukville](/iftar.html?sehir=Sihanoukville&ulke=Kamboçya)

@@ -10,4 +10,4 @@ title: Singapur için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Singapore](/iftar.html?sehir=singapore&ulke=Singapur)
+* [Singapore](/iftar.html?sehir=Singapore&ulke=Singapur)

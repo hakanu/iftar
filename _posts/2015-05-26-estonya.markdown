@@ -10,12 +10,12 @@ title: Estonya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Tartu](/iftar.html?sehir=tartu&ulke=Estonya)
-* [Ida-Viru](/iftar.html?sehir=ida-viru&ulke=Estonya)
-* [Laane](/iftar.html?sehir=laane&ulke=Estonya)
-* [Saare (Saaremaa Island)](/iftar.html?sehir=saare (saaremaa island)&ulke=Estonya)
-* [Tapa](/iftar.html?sehir=tapa&ulke=Estonya)
-* [Harju](/iftar.html?sehir=harju&ulke=Estonya)
-* [Jarva](/iftar.html?sehir=jarva&ulke=Estonya)
-* [Parnu](/iftar.html?sehir=parnu&ulke=Estonya)
-* [Rapla](/iftar.html?sehir=rapla&ulke=Estonya)
+* [Tartu](/iftar.html?sehir=Tartu&ulke=Estonya)
+* [Ida-Viru](/iftar.html?sehir=Ida-Viru&ulke=Estonya)
+* [Laane](/iftar.html?sehir=Laane&ulke=Estonya)
+* [Saare (Saaremaa Island)](/iftar.html?sehir=Saare (Saaremaa Island)&ulke=Estonya)
+* [Tapa](/iftar.html?sehir=Tapa&ulke=Estonya)
+* [Harju](/iftar.html?sehir=Harju&ulke=Estonya)
+* [Jarva](/iftar.html?sehir=Jarva&ulke=Estonya)
+* [Parnu](/iftar.html?sehir=Parnu&ulke=Estonya)
+* [Rapla](/iftar.html?sehir=Rapla&ulke=Estonya)

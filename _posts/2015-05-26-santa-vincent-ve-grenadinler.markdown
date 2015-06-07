@@ -10,4 +10,4 @@ title: Santa Vincent ve Grenadinler için iftar ve namaz vakitlerini görmek iç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Saint Vincent (Windward Island](/iftar.html?sehir=saint vincent (windward island&ulke=Santa Vincent ve Grenadinler)
+* [Saint Vincent (Windward Island](/iftar.html?sehir=Saint Vincent (Windward Island&ulke=Santa Vincent ve Grenadinler)

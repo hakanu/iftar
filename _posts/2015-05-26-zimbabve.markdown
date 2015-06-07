@@ -10,13 +10,13 @@ title: Zimbabve için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Bulawayo](/iftar.html?sehir=bulawayo&ulke=Zimbabve)
-* [Mashonaland Central](/iftar.html?sehir=mashonaland central&ulke=Zimbabve)
-* [Harare](/iftar.html?sehir=harare&ulke=Zimbabve)
-* [Matabeleland North](/iftar.html?sehir=matabeleland north&ulke=Zimbabve)
-* [Matabeleland South](/iftar.html?sehir=matabeleland south&ulke=Zimbabve)
-* [Mashonaland East](/iftar.html?sehir=mashonaland east&ulke=Zimbabve)
-* [Manicaland](/iftar.html?sehir=manicaland&ulke=Zimbabve)
-* [Masvingo District](/iftar.html?sehir=masvingo district&ulke=Zimbabve)
-* [Midlands](/iftar.html?sehir=midlands&ulke=Zimbabve)
-* [Mashonaland West](/iftar.html?sehir=mashonaland west&ulke=Zimbabve)
+* [Bulawayo](/iftar.html?sehir=Bulawayo&ulke=Zimbabve)
+* [Mashonaland Central](/iftar.html?sehir=Mashonaland Central&ulke=Zimbabve)
+* [Harare](/iftar.html?sehir=Harare&ulke=Zimbabve)
+* [Matabeleland North](/iftar.html?sehir=Matabeleland North&ulke=Zimbabve)
+* [Matabeleland South](/iftar.html?sehir=Matabeleland South&ulke=Zimbabve)
+* [Mashonaland East](/iftar.html?sehir=Mashonaland East&ulke=Zimbabve)
+* [Manicaland](/iftar.html?sehir=Manicaland&ulke=Zimbabve)
+* [Masvingo District](/iftar.html?sehir=Masvingo District&ulke=Zimbabve)
+* [Midlands](/iftar.html?sehir=Midlands&ulke=Zimbabve)
+* [Mashonaland West](/iftar.html?sehir=Mashonaland West&ulke=Zimbabve)

@@ -10,6 +10,6 @@ title: Nauru için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Aiwo](/iftar.html?sehir=aiwo&ulke=Nauru)
-* [Yaren](/iftar.html?sehir=yaren&ulke=Nauru)
-* [Anabar](/iftar.html?sehir=anabar&ulke=Nauru)
+* [Aiwo](/iftar.html?sehir=Aiwo&ulke=Nauru)
+* [Yaren](/iftar.html?sehir=Yaren&ulke=Nauru)
+* [Anabar](/iftar.html?sehir=Anabar&ulke=Nauru)

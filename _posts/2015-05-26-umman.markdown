@@ -10,10 +10,10 @@ title: Umman için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [al-Dakhiliyah](/iftar.html?sehir=al-dakhiliyah&ulke=Umman)
-* [Oman](/iftar.html?sehir=oman&ulke=Umman)
-* [Musandam](/iftar.html?sehir=musandam&ulke=Umman)
-* [al-Janubiyah](/iftar.html?sehir=al-janubiyah&ulke=Umman)
-* [Al-Batinah](/iftar.html?sehir=al-batinah&ulke=Umman)
-* [Masqat](/iftar.html?sehir=masqat&ulke=Umman)
-* [Zufar (Dhofar)](/iftar.html?sehir=zufar (dhofar)&ulke=Umman)
+* [al-Dakhiliyah](/iftar.html?sehir=Al-Dakhiliyah&ulke=Umman)
+* [Oman](/iftar.html?sehir=Oman&ulke=Umman)
+* [Musandam](/iftar.html?sehir=Musandam&ulke=Umman)
+* [al-Janubiyah](/iftar.html?sehir=Al-Janubiyah&ulke=Umman)
+* [Al-Batinah](/iftar.html?sehir=Al-Batinah&ulke=Umman)
+* [Masqat](/iftar.html?sehir=Masqat&ulke=Umman)
+* [Zufar (Dhofar)](/iftar.html?sehir=Zufar (Dhofar)&ulke=Umman)

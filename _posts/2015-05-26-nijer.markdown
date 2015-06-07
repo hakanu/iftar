@@ -10,11 +10,11 @@ title: Nijer için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Tahoua](/iftar.html?sehir=tahoua&ulke=Nijer)
-* [Dosso](/iftar.html?sehir=dosso&ulke=Nijer)
-* [Niamey](/iftar.html?sehir=niamey&ulke=Nijer)
-* [Diffa](/iftar.html?sehir=diffa&ulke=Nijer)
-* [Agadez](/iftar.html?sehir=agadez&ulke=Nijer)
-* [Zinder](/iftar.html?sehir=zinder&ulke=Nijer)
-* [Maradi](/iftar.html?sehir=maradi&ulke=Nijer)
-* [Tillaberi](/iftar.html?sehir=tillaberi&ulke=Nijer)
+* [Tahoua](/iftar.html?sehir=Tahoua&ulke=Nijer)
+* [Dosso](/iftar.html?sehir=Dosso&ulke=Nijer)
+* [Niamey](/iftar.html?sehir=Niamey&ulke=Nijer)
+* [Diffa](/iftar.html?sehir=Diffa&ulke=Nijer)
+* [Agadez](/iftar.html?sehir=Agadez&ulke=Nijer)
+* [Zinder](/iftar.html?sehir=Zinder&ulke=Nijer)
+* [Maradi](/iftar.html?sehir=Maradi&ulke=Nijer)
+* [Tillaberi](/iftar.html?sehir=Tillaberi&ulke=Nijer)

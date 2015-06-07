@@ -10,6 +10,6 @@ title: Hollanda Antilleri için iftar ve namaz vakitlerini görmek için şehir 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Lesser Antilles](/iftar.html?sehir=lesser antilles&ulke=Hollanda Antilleri)
-* [Bonaire Island](/iftar.html?sehir=bonaire island&ulke=Hollanda Antilleri)
-* [Leeward Islands (Sint Maarten)](/iftar.html?sehir=leeward islands (sint maarten)&ulke=Hollanda Antilleri)
+* [Lesser Antilles](/iftar.html?sehir=Lesser Antilles&ulke=Hollanda Antilleri)
+* [Bonaire Island](/iftar.html?sehir=Bonaire Island&ulke=Hollanda Antilleri)
+* [Leeward Islands (Sint Maarten)](/iftar.html?sehir=Leeward Islands (Sint Maarten)&ulke=Hollanda Antilleri)

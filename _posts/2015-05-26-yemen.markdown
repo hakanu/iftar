@@ -10,10 +10,10 @@ title: Yemen için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Socotra](/iftar.html?sehir=socotra&ulke=Yemen)
-* [Sadah](/iftar.html?sehir=sadah&ulke=Yemen)
-* [South Yemen](/iftar.html?sehir=south yemen&ulke=Yemen)
-* [Ibb](/iftar.html?sehir=ibb&ulke=Yemen)
-* [Adan](/iftar.html?sehir=adan&ulke=Yemen)
-* [Al Hudaydah](/iftar.html?sehir=al hudaydah&ulke=Yemen)
-* [North Yemen](/iftar.html?sehir=north yemen&ulke=Yemen)
+* [Socotra](/iftar.html?sehir=Socotra&ulke=Yemen)
+* [Sadah](/iftar.html?sehir=Sadah&ulke=Yemen)
+* [South Yemen](/iftar.html?sehir=South Yemen&ulke=Yemen)
+* [Ibb](/iftar.html?sehir=Ibb&ulke=Yemen)
+* [Adan](/iftar.html?sehir=Adan&ulke=Yemen)
+* [Al Hudaydah](/iftar.html?sehir=Al Hudaydah&ulke=Yemen)
+* [North Yemen](/iftar.html?sehir=North Yemen&ulke=Yemen)

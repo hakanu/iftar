@@ -10,11 +10,11 @@ title: Slovenya için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Koper](/iftar.html?sehir=koper&ulke=Slovenya)
-* [Kocevje](/iftar.html?sehir=kocevje&ulke=Slovenya)
-* [Cerknica](/iftar.html?sehir=cerknica&ulke=Slovenya)
-* [Slovenia](/iftar.html?sehir=slovenia&ulke=Slovenya)
-* [Krsko](/iftar.html?sehir=krsko&ulke=Slovenya)
-* [Celje](/iftar.html?sehir=celje&ulke=Slovenya)
-* [Maribor](/iftar.html?sehir=maribor&ulke=Slovenya)
-* [Novo Mesto](/iftar.html?sehir=novo mesto&ulke=Slovenya)
+* [Koper](/iftar.html?sehir=Koper&ulke=Slovenya)
+* [Kocevje](/iftar.html?sehir=Kocevje&ulke=Slovenya)
+* [Cerknica](/iftar.html?sehir=Cerknica&ulke=Slovenya)
+* [Slovenia](/iftar.html?sehir=Slovenia&ulke=Slovenya)
+* [Krsko](/iftar.html?sehir=Krsko&ulke=Slovenya)
+* [Celje](/iftar.html?sehir=Celje&ulke=Slovenya)
+* [Maribor](/iftar.html?sehir=Maribor&ulke=Slovenya)
+* [Novo Mesto](/iftar.html?sehir=Novo Mesto&ulke=Slovenya)

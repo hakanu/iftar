@@ -10,9 +10,9 @@ title: Andorra için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [Canillo](/iftar.html?sehir=canillo&ulke=Andorra)
-* [Andorra la Vella](/iftar.html?sehir=andorra la vella&ulke=Andorra)
-* [Encamp](/iftar.html?sehir=encamp&ulke=Andorra)
-* [Ordino](/iftar.html?sehir=ordino&ulke=Andorra)
-* [La Massana](/iftar.html?sehir=la massana&ulke=Andorra)
-* [Escaldes-Engordany](/iftar.html?sehir=escaldes-engordany&ulke=Andorra)
+* [Canillo](/iftar.html?sehir=Canillo&ulke=Andorra)
+* [Andorra la Vella](/iftar.html?sehir=Andorra La Vella&ulke=Andorra)
+* [Encamp](/iftar.html?sehir=Encamp&ulke=Andorra)
+* [Ordino](/iftar.html?sehir=Ordino&ulke=Andorra)
+* [La Massana](/iftar.html?sehir=La Massana&ulke=Andorra)
+* [Escaldes-Engordany](/iftar.html?sehir=Escaldes-Engordany&ulke=Andorra)

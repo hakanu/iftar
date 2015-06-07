@@ -10,10 +10,10 @@ title: İsrail için iftar ve namaz vakitlerini görmek için şehir seç
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [West Bank](/iftar.html?sehir=west bank&ulke=İsrail)
-* [Yerushalayim](/iftar.html?sehir=yerushalayim&ulke=İsrail)
-* [HaDarom](/iftar.html?sehir=hadarom&ulke=İsrail)
-* [HaMerkaz](/iftar.html?sehir=hamerkaz&ulke=İsrail)
-* [HaZafon](/iftar.html?sehir=hazafon&ulke=İsrail)
-* [Hefa](/iftar.html?sehir=hefa&ulke=İsrail)
-* [Tel Aviv](/iftar.html?sehir=tel aviv&ulke=İsrail)
+* [West Bank](/iftar.html?sehir=West Bank&ulke=İsrail)
+* [Yerushalayim](/iftar.html?sehir=Yerushalayim&ulke=İsrail)
+* [HaDarom](/iftar.html?sehir=Hadarom&ulke=İsrail)
+* [HaMerkaz](/iftar.html?sehir=Hamerkaz&ulke=İsrail)
+* [HaZafon](/iftar.html?sehir=Hazafon&ulke=İsrail)
+* [Hefa](/iftar.html?sehir=Hefa&ulke=İsrail)
+* [Tel Aviv](/iftar.html?sehir=Tel Aviv&ulke=İsrail)

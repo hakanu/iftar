@@ -10,4 +10,4 @@ title: Virgin Adaları için iftar ve namaz vakitlerini görmek için şehir se�
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 
-* [ Amerika](/iftar.html?sehir= amerika&ulke=Virgin Adaları)
+* [ Amerika](/iftar.html?sehir= Amerika&ulke=Virgin Adaları)
