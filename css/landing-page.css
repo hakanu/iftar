@@ -219,6 +219,15 @@ p.copyright {
     color: green;
 }
 
+.row, .navbar-header {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.div-ramazan-days-left {
+    text-align: center;
+}
+
 /******* Media queries **********/
 /* Nexus 7 queries */
 @media screen and (max-width: 700px) {
@@ -228,6 +237,6 @@ p.copyright {
         margin:auto;
     } 
     .flip-clock-label {
-        /*display: none;*/
+        display: none;
     }
 }

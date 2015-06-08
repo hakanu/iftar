@@ -142,7 +142,7 @@ var hicriAyDefinition = {
 
 function getTodayBelirliGun() {
   var d = new Date();
-  var dateStr = d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDay();
+  var dateStr = d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
   if (belirliGunler[dateStr]) {
     return belirliGunler[dateStr]['content'];
   } else {
