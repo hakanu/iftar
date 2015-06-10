@@ -243,7 +243,7 @@ function getIftarTimeP(country, city) {
   var d = new Date();
   var currentMonth = (
       d.getMonth() + 1 > 10 ? d.getMonth() + 1 : '0' + (d.getMonth() + 1));
-  var currentDay = d.getDay() > 10 ? d.getDate() : '0' + (d.getDate());
+  var currentDay = d.getDate() > 10 ? d.getDate() : '0' + (d.getDate());
   var dateStr = (d.getFullYear().toString().slice(2) + "-" + currentMonth + "-"
                  + currentDay);
   //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
