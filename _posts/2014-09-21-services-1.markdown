@@ -6,7 +6,9 @@ title: Ülkeler
 description: İftar ve namaz vakitlerini ülkelere göre arayın.
 ---
 
-* [Türkiye](/ulke/turkiye)
+* [Türkiye](/ulke/türkiye)
+* [Azerbaycan](/ulke/azerbaycan)
+* [Almanya](/ulke/almanya)
 * [Amerika](/ulke/amerika)
 * [İrlanda](/ulke/irlanda)
 * [İngiltere](/ulke/ingiltere)

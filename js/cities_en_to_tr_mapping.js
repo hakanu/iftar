@@ -2,5 +2,6 @@
 var cityNamesMapping = {
 	"Hyderabad": "Haydarabad",
 	"Cracow": "Krakow",
-	"Crakow": "Krakow"
+	"Crakow": "Krakow",
+	"Bakü (Bakı)": ""
 }
