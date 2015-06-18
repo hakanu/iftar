@@ -93,6 +93,7 @@ var countryNamesMapping = {
     "ISRAEL": "İsrail",
     "ITALY": "İtalya",
     "JAMAIK to": "Jamaika",
+    "JAMAIKA": "Jamaika",
     "JAPAN": "Japonya",
     "JERUSALEM": "Kudus",
     "JORDAN": "Ürdün",
