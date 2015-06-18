@@ -46,6 +46,12 @@ jQuery( document ).ready(function( $ ) {
     $('#span-ramazan-days-left')[0].innerHTML = ramazanDaysLeft;
   }
 
+  if ($('#span-ramazan-days-remaining')) {
+    var ramazanDaysRemaining = parseInt(
+        (new Date(RAMAZAN_LAST_DATE_) - new Date()) / 1000 / 3600 / 24);
+    $('#span-ramazan-days-remaining')[0].innerHTML = ramazanDaysRemaining;
+  }
+
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
     //console.log('Bilgi page');
@@ -77,6 +83,7 @@ function getJsonFromUrl() {
   return result;
 }
 var RAMAZAN_DATE_ = '2015-06-18';
+var RAMAZAN_LAST_DATE_ = '2015-07-18';
 var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'
