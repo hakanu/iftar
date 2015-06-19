@@ -43,6 +43,11 @@ jQuery( document ).ready(function( $ ) {
   if ($('#span-ramazan-days-left')) {
     var ramazanDaysLeft = parseInt(
         (new Date(RAMAZAN_DATE_) - new Date()) / 1000 / 3600 / 24);
+
+    // If ramazan has already started, it will be minus N.
+    if (ramazanDaysLeft < 0) {
+      ramazanDaysLeft = 0;
+    }
     $('#span-ramazan-days-left')[0].innerHTML = ramazanDaysLeft;
   }
 
