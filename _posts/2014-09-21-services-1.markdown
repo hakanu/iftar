@@ -13,3 +13,5 @@ description: İftar ve namaz vakitlerini ülkelere göre arayın.
 * [İrlanda](/ulke/irlanda)
 * [İngiltere](/ulke/ingiltere)
 * [Polonya](/ulke/polonya)
+* [İsveç](/ulke/isveç)
+* [Arabistan](/ulke/suudi-arabistan/)
