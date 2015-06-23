@@ -7,5 +7,6 @@ var cityNamesMapping = {
 	"Baku": "Bakü",
 	"Oghuz": "Oguz",
 	"London": "Greater London",
-	"Londra": "Greater London"
+	"Londra": "Greater London",
+	"Mingachevir": "Mingeçevir (Mingechaur)"
 }
