@@ -9,5 +9,7 @@ var cityNamesMapping = {
 	"London": "Greater London",
 	"Londra": "Greater London",
 	"Mingachevir": "Mingeçevir (Mingechaur)",
-	"The Hague: "Den Haag (Lahey)"
+	"The Hague": "Den Haag (Lahey)",
+	"Sumgayit": "Sumgayıt (Sumqayıt)",
+	"Dubai": "Dubayy"
 }
