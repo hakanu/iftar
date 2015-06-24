@@ -11,5 +11,22 @@ var cityNamesMapping = {
 	"Mingachevir": "Mingeçevir (Mingechaur)",
 	"The Hague": "Den Haag (Lahey)",
 	"Sumgayit": "Sumgayıt (Sumqayıt)",
-	"Dubai": "Dubayy"
+	"Dubai": "Dubayy",
+	"Dammam": "Ad Dammam",
+	"Istanbul": "İstanbul",
+	"Ihsangazi": "İhsangazi",
+	"Ikizdere": "İkizdere",
+	"Iliç": "İliç",
+	"Imranlı": "İmranlı",
+	"Imroz": "İmroz",
+	"Incesu": "İncesu",
+	"Incirliova": "İncirliova",
+	"Inebolu": "İnebolu",
+	"Inegöl": "İnegöl",
+	"Iskenderun": "İskenderun",
+	"Iskilip": "İskilip",
+	"Ispir": "İspir",
+	"Istanbul": "İstanbul",
+	"Izmir": "İzmir",
+	"Iznik": "İznik"
 }
