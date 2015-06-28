@@ -86,7 +86,7 @@ String.prototype.supplant = function (o) {
 };
 
 String.prototype.capitalize = function() {
-    return this.charAt(0).toUpperCase() + this.toLowerCase().slice(1);
+    return this.charAt(0).toUpperCase().replace('İ̇', 'İ') + this.toLowerCase().slice(1);
 }
 
 function getJsonFromUrl() {
