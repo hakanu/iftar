@@ -18,6 +18,9 @@ var cityNamesMapping = {
 	"Shaki": "Şeki (Sheki)",
 	"Sharjah": "Sharjah (Ash-Shariqah)",
 	"Marseille": "Marsilya (Marseille)",
+	"Kaynaşlı": "Düzce",
+	"İstanbul ": "İstanbul",
+	"Nakhchivan": "Nahcivan (Nakhchivan)",
 
 	// Turkish asciified.
 	"Corum": "Çorum",
