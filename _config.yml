@@ -27,6 +27,8 @@ permalink: "/:categories/:title"
 # ----------------------- #
 
 social:
+  - title: instagram
+    url: https://instagram.com/soyledi
   - title: twitter
     url: https://twitter.com/iftarapp
   - title: facebook
