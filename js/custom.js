@@ -51,7 +51,7 @@ jQuery( document ).ready(function( $ ) {
   }
 
   // If I can show ramazan days left, I show.
-  if ($('#span-ramazan-days-left')) {
+  if ($('#span-ramazan-days-left').size() > 0) {
     var ramazanDaysLeft = parseInt(
         (new Date(RAMAZAN_DATE_) - new Date()) / 1000 / 3600 / 24);
 
@@ -62,7 +62,7 @@ jQuery( document ).ready(function( $ ) {
     $('#span-ramazan-days-left')[0].innerHTML = ramazanDaysLeft;
   }
 
-  if ($('#span-ramazan-days-remaining')) {
+  if ($('#span-ramazan-days-remaining').size() > 0) {
     var ramazanDaysRemaining = parseInt(
         (new Date(RAMAZAN_LAST_DATE_) - new Date()) / 1000 / 3600 / 24);
     $('#span-ramazan-days-remaining')[0].innerHTML = ramazanDaysRemaining;
@@ -104,7 +104,7 @@ var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and 
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'
                        + '&format=json&diagnostics=false&callback=';
-var firebaseUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/{date}/{country}/cities/{city}/prayer_time.json';
+
 var belirliGunler = {
     "2015-1-2": {
       "content": "Mevlid Kandili"
@@ -144,6 +144,57 @@ var belirliGunler = {
     },
     "2015-10-23": {
       "content": "Aşure Günü"
+    },
+    "2016-4-07": {
+        "content": "REGAİB KANDİLİ"
+    },
+    "2016-4-08": {
+        "content": "ÜÇ AYLARIN BAŞLANGICI"
+    },
+    "2016-5-03": {
+        "content": "MİRAC KANDİLİ"
+    },
+    "2016-5-21": {
+        "content": "BERAT KANDİLİ"
+    },
+    "2016-6-06": {
+        "content": "RAMAZAN'IN BAŞLANGICI"
+    },
+    "2016-7-01": {
+        "content": "KADİR GECESİ"
+    },
+    "2016-7-04": {
+        "content": "AREFE"
+    },
+    "2016-7-05": {
+        "content": "RAMAZAN BAYRAMI (1.Gün)"
+    },
+    "2016-7-06": {
+        "content": "RAMAZAN BAYRAMI (2.Gün)"
+    },
+    "2016-7-07": {
+        "content": "RAMAZAN BAYRAMI (3.Gün)"
+    },
+    "2016-9-11": {
+        "content": "AREFE"
+    },
+    "2016-9-12": {
+        "content": "KURBAN BAYRAMI (1.Gün)"
+    },
+    "2016-9-13": {
+        "content": "KURBAN BAYRAMI (2.Gün)"
+    },
+    "2016-9-14": {
+        "content": "KURBAN BAYRAMI (3.Gün)"
+    },
+    "2016-10-02": {
+        "content": "HİCRİ YILBAŞI"
+    },
+    "2016-10-11": {
+        "content": "AŞURE GÜNÜ"
+    },
+    "2016​​-12-1": {
+        "content": "MEVLİD KANDİLİ​"
     }
 };
 
@@ -237,6 +288,7 @@ function showPosition(position) {
 }
 
 function getIftarTime(country, city) {
+  // -----DEP.
   //console.log('Getting iftar time for ' + country + ' city: ' + city);
   var xhr = new XMLHttpRequest();
   // Example url change it with country city representation.
@@ -276,10 +328,13 @@ function getIftarTimeP(country, city) {
   //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   var xhr = new XMLHttpRequest();
 
+  var slug = getSlug(country + ' ' + city, {'lang': 'tr'});
+  //console.log('slug: ' + slug);
+
   var url = ('https://api.parse.com/1/classes/prayer_times'
-             + '?where={"date":"' + dateStr + '","country":"'
-             + country + '' + '","city":"' + city + '"}&limit=3');
-             // + '","state":"' + city.capitalize() + '"}&limit=3');
+             + '?where={"$or": [{"country":"'
+             + country + '","city":"' + city + '", "date":"' + dateStr + '"}, {"slug":{"$regex": "^' + slug + '"},"date":"' + dateStr + '"}]}&limit=3');
+
   //console.log(url);
   xhr.open("GET", url, true);
   xhr.setRequestHeader(
@@ -324,23 +379,79 @@ function getIftarTimeP(country, city) {
 
 function doStuffWithNamazVakitleri(response, city, country) {
   response = response['results'][0];
+
+  var imsak = response.imsak;
+  var gunes = response.gunes;
+  var ogle = response.ogle;
+  var ikindi = response.ikindi;
+  var aksam = response.aksam;
+  var yatsi = response.yatsi;
+
   var iftarHours = parseInt(response.aksam.split(':')[0]);
   var iftarMinutes = parseInt(response.aksam.split(':')[1]);
 
   var sahurHours = parseInt(response.imsak.split(':')[0]);
   var sahurMinutes = parseInt(response.imsak.split(':')[1]);
 
-  var imsak = response.imsak;
-  var gunes = response.gunes;
-  var ogle = response.ogle;
-  var ikindi = response.ikindi;
-  var aksam = response.aksam
-  var yatsi = response.yatsi;
+  var imsakSeconds = getSecondsFromStrTime(imsak);
+  var gunesSeconds = getSecondsFromStrTime(gunes);
+  var ogleSeconds = getSecondsFromStrTime(ogle);
+  var ikindiSeconds = getSecondsFromStrTime(ikindi);
+  var aksamSeconds = getSecondsFromStrTime(aksam);
+  var yatsiSeconds = getSecondsFromStrTime(yatsi);
 
-  ////console.log('Setting timer now...');
-  setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
+  var currentSeconds = getCurrentTimeSeconds();
+  
+  var targetHours = 0;
+  var targetMinutes = 0;
+  var targetTitle = '';
+  
+  if (imsakSeconds > currentSeconds) {
+    targetHours = parseInt(imsak.split(':')[0]);
+    targetMinutes = parseInt(imsak.split(':')[1]);
+    targetTitle = 'İmsak';
+  } else if (ogleSeconds > currentSeconds) {
+    targetHours = parseInt(ogle.split(':')[0]);
+    targetMinutes = parseInt(ogle.split(':')[1]);
+    targetTitle = 'Öğle';
+  } else if (ikindiSeconds > currentSeconds) {
+    targetHours = parseInt(ikindi.split(':')[0]);
+    targetMinutes = parseInt(ikindi.split(':')[1]);
+    targetTitle = 'İkindi';
+  } else if (aksamSeconds > currentSeconds) {
+    targetHours = parseInt(aksam.split(':')[0]);
+    targetMinutes = parseInt(aksam.split(':')[1]);
+    targetTitle = 'Akşam';
+  } else if (yatsiSeconds > currentSeconds) {
+    targetHours = parseInt(yatsi.split(':')[0]);
+    targetMinutes = parseInt(yatsi.split(':')[1]);
+    targetTitle = 'Yatsı';
+  } else {
+    // Time is after yatsi before imsak but still in the previous day.
+    targetHours = parseInt(imsak.split(':')[0]) + 24;
+    targetMinutes = parseInt(imsak.split(':')[1]);
+    targetTitle = 'İmsak';
+  }
+
+  //console.log('Setting timer now...');
+  setTimerForVakit(targetHours, targetMinutes, city, country, targetTitle);
+  //setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
   setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
-} 
+}
+
+/* Returns 62 * 60 from '01:02' */
+function getSecondsFromStrTime(str_time) {
+  var hours = parseInt(str_time.split(':')[0]);
+  var minutes = parseInt(str_time.split(':')[0]);
+  return (hours * 60 * 60) + (minutes * 60);
+}
+
+function getCurrentTimeSeconds() {
+  var currentdate = new Date();
+  var currentHours = currentdate.getHours();
+  var currentMinutes = currentdate.getMinutes();
+  return getSecondsFromStrTime(currentHours + ':' + currentMinutes);
+}
 
 function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi) {
   $('#p-imsak')[0].innerHTML = imsak;
@@ -409,6 +520,49 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
     $('.subtitle')[0].innerHTML = (
         city.capitalize() + ' (' + country.capitalize() +
         ') için sahura kalan süre');
+  }
+
+  clock.start();
+}
+
+function setTimerForVakit(
+    targetHours, targetMinutes, city, country, targetTitle) {
+  //console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
+  //console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
+  
+  targetHours = parseInt(targetHours);
+  targetMinutes = parseInt(targetMinutes);
+  
+  var currentdate = new Date();
+
+  var currentDay = currentdate.getDate();
+  var currentMonth = currentdate.getMonth();
+  var currentYear = currentdate.getYear();
+
+  var currentHours = currentdate.getHours();
+  var currentMinutes = currentdate.getMinutes();
+
+  //console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
+
+  var targetRemainingMs = (
+      new Date(new Date).setHours(targetHours, targetMinutes, 0) - new Date());
+
+  //console.log("remaining target ms: " + targetRemainingMs);
+
+  if (targetRemainingMs > 0 && currentHours < targetRemainingMs) {
+    clock.setTime(targetRemainingMs / 1000);
+    $('#description').text($('#description').text().replace('sahur', targetTitle));
+    $('#tagline').text($('#tagline').text().replace('sahur', targetTitle));
+    $('.subtitle')[0].innerHTML = (
+        city + ' (' + country +
+        ') için ' + targetTitle + '\'a kalan süre');
+  } else {
+    clock.setTime(sahurRemainingMs / 1000);
+    $('#description').text($('#description').text().replace('iftar', targetTitle));
+    $('#tagline').text($('#tagline').text().replace('iftar', targetTitle));
+    $('.subtitle')[0].innerHTML = (
+        city.capitalize() + ' (' + country.capitalize() +
+        ') için ' + targetTitle + '\'a kalan süre');
   }
 
   clock.start();
