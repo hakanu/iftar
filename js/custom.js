@@ -100,10 +100,12 @@ function getJsonFromUrl() {
 }
 var RAMAZAN_DATE_ = '2015-06-18';
 var RAMAZAN_LAST_DATE_ = '2015-07-18';
-var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
+//var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
+var reverseGeoYql = "select * from xml where url = '{url}'";
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
                        + '{reverseGeoYql}'
                        + '&format=json&diagnostics=false&callback=';
+var reverseGeoUrl = 'http://gws2.maps.yahoo.com/findlocation?pf=1&locale=en_US&offset=15&flags=&gflags=R&q={lat},{lon}'
 
 var belirliGunler = {
     "2015-1-2": {
@@ -265,13 +267,26 @@ function showPosition(position) {
   //console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
   var xhr = new XMLHttpRequest();
   reverseGeoYqlUrl = reverseGeoYqlUrl.supplant(
-      {'reverseGeoYql': reverseGeoYql.supplant({'lat': lat, 'lon': lon})});
+      {'reverseGeoYql': encodeURIComponent(
+          reverseGeoYql.supplant(
+              {'url': reverseGeoUrl.supplant(
+                    {'lat': lat, 'lon': lon})
+              }))
+      });
+  //reverseGeoYqlUrl = reverseGeoYqlUrl.supplant(
+  //    {'reverseGeoYql': reverseGeoYql.supplant({'lat': lat, 'lon': lon})});
+  // Yahoo shut down geo table. So use this workaround:
+  //reverseGeoYqlUrl = reverseGeoUrl.supplant({'lat': lat, 'lon': lon})
+  //console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
+  //console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
   xhr.open("GET", reverseGeoYqlUrl, true);
   xhr.onload = function() {
     //console.log(xhr.responseText);
     var response = JSON.parse(xhr.responseText);
-    var city = response.query.results.Result.city;
-    var country = response.query.results.Result.country;
+    //console.log(response);
+    //console.log(response.query);
+    var city = response.query.results.ResultSet.Result.city;
+    var country = response.query.results.ResultSet.Result.country;
     //console.log('city: ' + city);
     //console.log('country: ' + country);
     var trCountry = countryNamesMapping[country.toUpperCase()];
