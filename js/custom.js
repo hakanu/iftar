@@ -5,12 +5,12 @@ var clock = $('.your-clock').FlipClock({
 });
 
 jQuery( document ).ready(function( $ ) {
-  console.log('  _[]    __   _                         _                    ');
-  console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
-  console.log('  | |  | |_  | __|  / _` | |  __|     / _ \   |  _ \  |  _ \ ');
-  console.log('  | |  |  _| | |_  | (_| | | |       / ___ \  | |_) | | |_) |');
-  console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
-  console.log('                                              |_|     |_|    ');
+  //console.log('  _[]    __   _                         _                    ');
+  //console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
+  //console.log('  | |  | |_  | __|  / _` | |  __|     / _ \   |  _ \  |  _ \ ');
+  //console.log('  | |  |  _| | |_  | (_| | | |       / ___ \  | |_) | | |_) |');
+  //console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
+  //console.log('                                              |_|     |_|    ');
   var currentUrl = window.location.href;
   var hicriTarih = getHicriDate();
 
@@ -26,27 +26,18 @@ jQuery( document ).ready(function( $ ) {
     getLocation();
   } else {
     // If it's not home page but location is coming from GET.
-    console.log('not getting the location because url is ' + currentUrl);
+    //console.log('not getting the location because url is ' + currentUrl);
     var params = getJsonFromUrl(currentUrl);
-    console.log('get url parameters: ' + JSON.stringify(params));
+    //console.log('get url parameters: ' + JSON.stringify(params));
     if (params && params['ulke'] && params['sehir']) {
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
       setIftarTitle(params['ulke'], params['sehir']);
       setHicriTarih(hicriTarih);
       var city = params['sehir'];
       var country = params['ulke'];
-
-      // if (cityNamesMapping[city]) {
-      //   city = cityNamesMapping[city];
-      // }
-      //
-      // if (countryNamesMapping[country.toUpperCase()]) {
-      //   country = countryNamesMapping[country.toUpperCase()];
-      // }
-
       getIftarTimeP(country, city);
     } else {
-      console.log('Wrong url params');
+      //console.log('Wrong url params');
     }
   }
 
@@ -70,7 +61,7 @@ jQuery( document ).ready(function( $ ) {
 
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
-    console.log('Bilgi page');
+    //console.log('Bilgi page');
     showTodayBelirliGun();
   }
 
@@ -256,7 +247,7 @@ function getLocation() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
     } else {
-        console.log("Geolocation is not supported by this browser.");
+        //console.log("Geolocation is not supported by this browser.");
         $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tespit edemedik :(';
     }
 }
@@ -264,7 +255,7 @@ function getLocation() {
 function showPosition(position) {
   var lat = position.coords.latitude;
   var lon = position.coords.longitude;
-  console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
+  //console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
   var xhr = new XMLHttpRequest();
   reverseGeoYqlUrl = reverseGeoYqlUrl.supplant(
       {'reverseGeoYql': encodeURIComponent(
@@ -277,59 +268,20 @@ function showPosition(position) {
   //    {'reverseGeoYql': reverseGeoYql.supplant({'lat': lat, 'lon': lon})});
   // Yahoo shut down geo table. So use this workaround:
   //reverseGeoYqlUrl = reverseGeoUrl.supplant({'lat': lat, 'lon': lon})
-  console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
-  console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
+  //console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
+  //console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
   xhr.open("GET", reverseGeoYqlUrl, true);
   xhr.onload = function() {
-    console.log(xhr.responseText);
+    //console.log(xhr.responseText);
     var response = JSON.parse(xhr.responseText);
-    console.log(response);
-    console.log(response.query);
+    //console.log(response);
+    //console.log(response.query);
     var city = response.query.results.ResultSet.Result.city;
     var country = response.query.results.ResultSet.Result.country;
-    console.log('city: ' + city);
-    console.log('country: ' + country);
-    var trCountry = country;
-    // var trCountry = countryNamesMapping[country.toUpperCase()];
-    // if (cityNamesMapping[city]) {
-    //   city = cityNamesMapping[city];
-    // }
-    console.log('Turkish country: ' + trCountry);
-    console.log('Turkish city: ' + city);
-    //getIftarTime(trCountry, city);
-    setIftarTitle(trCountry, city);
-    getIftarTimeP(trCountry, city);
-  };
-  xhr.send();
-}
-
-function getIftarTime(country, city) {
-  // -----DEP.
-  console.log('Getting iftar time for ' + country + ' city: ' + city);
-  var xhr = new XMLHttpRequest();
-  // Example url change it with country city representation.
-  var iftarUrl = firebaseUrl.supplant({'date': '150528', 'country': country.toUpperCase(), 'city': city.toUpperCase()});
-  //var iftarUrl = 'https://blistering-fire-9964.firebaseio.com/prayer_times/T%C3%9CRK%C4%B0YE/cities/0/prayer_time.json';
-  xhr.open("GET", iftarUrl, true);
-  xhr.onload = function() {
-    console.log(xhr.responseText);
-    var response = JSON.parse(xhr.responseText);
-    var iftarHours = response.Aksam.split(':')[0];
-    var iftarMinutes = response.Aksam.split(':')[1];
-
-    var sahurHours = response.Imsak.split(':')[0];
-    var sahurMinutes = response.Imsak.split(':')[1];
-
-    var imsak = response.Imsak;
-    var gunes = response.Gunes;
-    var ogle = response.Ogle;
-    var ikindi = response.Ikindi;
-    var aksam = response.Aksam
-    var yatsi = response.Yatsi;
-
-    console.log('Setting timer now...');
-    setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
-    setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
+    //console.log('city: ' + city);
+    //console.log('country: ' + country);
+    setIftarTitle(country, city);
+    getIftarTimeP(country, city);
   };
   xhr.send();
 }
@@ -341,58 +293,28 @@ function getIftarTimeP(country, city) {
   var currentDay = d.getDate() >= 10 ? d.getDate() : '0' + (d.getDate());
   var dateStr = (d.getFullYear().toString().slice(2) + "-" + currentMonth + "-"
                  + currentDay);
-  console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
+  //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   var xhr = new XMLHttpRequest();
-
-  var slug = getSlug(country + ' ' + city, {'lang': 'tr'});
-  console.log('slug: ' + slug);
-
-  // var url = ('https://api.parse.com/1/classes/prayer_times'
-  //            + '?where={"$or": [{"country":"'
-  //            + country + '","city":"' + city + '", "date":"' + dateStr + '"}, {"slug":{"$regex": "^' + slug + '"},"date":"' + dateStr + '"}]}&limit=3');
   var url = 'https://prayer-times-3d4fb.firebaseio.com/{date}/{country}/{city}/0.json'.supplant({
       'date': String(d.getFullYear()).slice(2,4) + "-" + (d.getMonth() + 1) + "-" + d.getDate(),
       'country': encodeURIComponent(country),
       'city': encodeURIComponent(city),
   });
 
-  console.log(url);
+  //console.log(url);
   xhr.open("GET", url, true);
   // xhr.setRequestHeader(
-  //     "X-Parse-Application-Id", "7TDd2oVVnLZNSGS9swhFIPCEf0P49fi1IKPp7svx");
+  //     "X-Parse-Application-Id", "");
   // xhr.setRequestHeader(
-  //     "X-Parse-REST-API-Key", "jnEGjyKpSk3PqHFWxN4T5ejVe7WHY6aK27O3zNOr");
+  //     "X-Parse-REST-API-Key", "");
   xhr.onload = function() {
-    console.log(xhr.responseText);
+    //console.log(xhr.responseText);
     if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
       var response = JSON.parse(xhr.responseText);
       doStuffWithNamazVakitleri(response, city, country);
     } else {
-      console.log("Bir hata oluştu.");
-      console.log("Fallback");
-      var xhrFallback = new XMLHttpRequest();
-
-      var url = ('https://api.parse.com/1/classes/prayer_times'
-                 + '?where={"date":"' + dateStr + '","country":"'
-                 + country + '' + '","state":"' + city + '"}&limit=3');
-
-      console.log(url);
-      xhrFallback.open("GET", url, true);
-      xhrFallback.setRequestHeader(
-          "X-Parse-Application-Id", "7TDd2oVVnLZNSGS9swhFIPCEf0P49fi1IKPp7svx");
-      xhrFallback.setRequestHeader(
-          "X-Parse-REST-API-Key", "jnEGjyKpSk3PqHFWxN4T5ejVe7WHY6aK27O3zNOr");
-
-      xhrFallback.onload = function() {
-        console.log(xhrFallback.responseText);
-        if (xhrFallback.responseText && xhrFallback.responseText.indexOf('aksam') > -1) {
-          var response = JSON.parse(xhrFallback.responseText);
-          doStuffWithNamazVakitleri(response, city, country);
-        } else {
-          console.log("Bir hata oluştu - son");
-        }
-      }
-      xhrFallback.send();
+      //console.log("Bir hata oluştu.");
+      //console.log("Fallback");
     } // End of fallback mechanism
   };
   xhr.send();
@@ -454,7 +376,7 @@ function doStuffWithNamazVakitleri(response, city, country) {
     targetTitle = 'İmsak';
   }
 
-  console.log('Setting timer now...');
+  //console.log('Setting timer now...');
   setTimerForVakit(targetHours, targetMinutes, city, country, targetTitle);
   //setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
   setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
@@ -497,8 +419,8 @@ function setIftarTitle(country, city) {
 
 function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
                   country) {
-  console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
-  console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
+  //console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
+  //console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
 
   sahurHours = parseInt(sahurHours);
   sahurMinutes = parseInt(sahurMinutes);
@@ -512,7 +434,7 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
   var currentHours = currentdate.getHours();
   var currentMinutes = currentdate.getMinutes();
 
-  console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
+  //console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
 
   var iftarRemainingMs = (
       new Date(new Date).setHours(iftarHours, iftarMinutes, 0) - new Date());
@@ -524,8 +446,8 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
         new Date(new Date).setHours(sahurHours, sahurMinutes, 0) - new Date());
   }
 
-  console.log("remaining iftar ms: " + iftarRemainingMs);
-  console.log("remaining sahur ms: " + sahurRemainingMs);
+  //console.log("remaining iftar ms: " + iftarRemainingMs);
+  //console.log("remaining sahur ms: " + sahurRemainingMs);
 
   if (iftarRemainingMs > 0 && currentHours > sahurHours) {
     clock.setTime(iftarRemainingMs / 1000);
@@ -548,8 +470,8 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
 
 function setTimerForVakit(
     targetHours, targetMinutes, city, country, targetTitle) {
-  console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
-  console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
+  //console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
+  //console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
 
   targetHours = parseInt(targetHours);
   targetMinutes = parseInt(targetMinutes);
@@ -563,12 +485,12 @@ function setTimerForVakit(
   var currentHours = currentdate.getHours();
   var currentMinutes = currentdate.getMinutes();
 
-  console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
+  //console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
 
   var targetRemainingMs = (
       new Date(new Date).setHours(targetHours, targetMinutes, 0) - new Date());
 
-  console.log("remaining target ms: " + targetRemainingMs);
+  //console.log("remaining target ms: " + targetRemainingMs);
 
   if (targetRemainingMs > 0 && currentHours < targetRemainingMs) {
     clock.setTime(targetRemainingMs / 1000);
