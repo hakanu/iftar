@@ -235,8 +235,12 @@ p.copyright {
         width: 160px;
         display:block;
         margin:auto;
-    } 
+    }
     .flip-clock-label {
         display: none;
     }
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
 }
