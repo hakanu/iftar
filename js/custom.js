@@ -377,8 +377,8 @@ function doStuffWithNamazVakitleri(response, city, country) {
   }
 
   //console.log('Setting timer now...');
-  setTimerForVakit(targetHours, targetMinutes, city, country, targetTitle);
-  //setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
+  //setTimerForVakit(targetHours, targetMinutes, city, country, targetTitle);
+  setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
   setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
 }
 
