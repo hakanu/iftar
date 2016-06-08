@@ -1,0 +1,27 @@
+---
+layout: single_ulke
+category: ulke
+title: Kosova için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Kosova için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Ferizovik için iftar ve namaz vakitleri](/sehir/Kosova_Ferizovik)
+* [Gilan için iftar ve namaz vakitleri](/sehir/Kosova_Gilan)
+* [Ipek için iftar ve namaz vakitleri](/sehir/Kosova_Ipek)
+* [Istok için iftar ve namaz vakitleri](/sehir/Kosova_Istok)
+* [Jur için iftar ve namaz vakitleri](/sehir/Kosova_Jur)
+* [Kaçanik için iftar ve namaz vakitleri](/sehir/Kosova_Kaçanik)
+* [Lipyan için iftar ve namaz vakitleri](/sehir/Kosova_Lipyan)
+* [Mitroviça için iftar ve namaz vakitleri](/sehir/Kosova_Mitroviça)
+* [Obiliç için iftar ve namaz vakitleri](/sehir/Kosova_Obiliç)
+* [Pristine için iftar ve namaz vakitleri](/sehir/Kosova_Pristine)
+* [Prizren için iftar ve namaz vakitleri](/sehir/Kosova_Prizren)
+* [Rahofça için iftar ve namaz vakitleri](/sehir/Kosova_Rahofça)
+* [Suhareka için iftar ve namaz vakitleri](/sehir/Kosova_Suhareka)
+* [Yakova için iftar ve namaz vakitleri](/sehir/Kosova_Yakova)
+* [Yanova için iftar ve namaz vakitleri](/sehir/Kosova_Yanova)

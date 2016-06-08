@@ -8,7 +8,7 @@ description: İftar vakitleri en çok aranan şehirler
 
 * [İstanbul](/iftar.html?sehir=Istanbul&ulke=Türkiye)
 * [Ankara](/iftar.html?sehir=Ankara&ulke=Türkiye)
-* [Bakü (Baki)](/iftar.html?sehir=Bakü&ulke=Azerbaycan)
+* [Bakü (Baki)](/iftar.html?sehir=Baku&ulke=Azerbaycan)
 * [İzmir](/iftar.html?sehir=Izmir&ulke=Türkiye)
 * [New York](/iftar.html?sehir=New york&ulke=ABD)
 * [Bursa](/iftar.html?sehir=Bursa&ulke=Türkiye)

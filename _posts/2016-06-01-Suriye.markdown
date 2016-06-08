@@ -1,0 +1,21 @@
+---
+layout: single_ulke
+category: ulke
+title: Suriye için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Suriye için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Al Ladhiqiyah için iftar ve namaz vakitleri](/sehir/Suriye_Al Ladhiqiyah)
+* [Al Qamishli için iftar ve namaz vakitleri](/sehir/Suriye_Al Qamishli)
+* [Ar Raqqah için iftar ve namaz vakitleri](/sehir/Suriye_Ar Raqqah)
+* [Dayr Az Zawr için iftar ve namaz vakitleri](/sehir/Suriye_Dayr Az Zawr)
+* [Halep için iftar ve namaz vakitleri](/sehir/Suriye_Halep)
+* [Hamah için iftar ve namaz vakitleri](/sehir/Suriye_Hamah)
+* [Hims için iftar ve namaz vakitleri](/sehir/Suriye_Hims)
+* [Idlib için iftar ve namaz vakitleri](/sehir/Suriye_Idlib)
+* [Sam için iftar ve namaz vakitleri](/sehir/Suriye_Sam)

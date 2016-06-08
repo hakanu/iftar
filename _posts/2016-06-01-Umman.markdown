@@ -1,0 +1,18 @@
+---
+layout: single_ulke
+category: ulke
+title: Umman için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Umman için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Maskat için iftar ve namaz vakitleri](/sehir/Umman_Maskat)
+* [Mirbat için iftar ve namaz vakitleri](/sehir/Umman_Mirbat)
+* [Nizwa için iftar ve namaz vakitleri](/sehir/Umman_Nizwa)
+* [Salalah için iftar ve namaz vakitleri](/sehir/Umman_Salalah)
+* [Suhar için iftar ve namaz vakitleri](/sehir/Umman_Suhar)
+* [Sur için iftar ve namaz vakitleri](/sehir/Umman_Sur)

@@ -1,0 +1,13 @@
+---
+layout: single_sehir
+category: sehir
+title: Mora (İsveç) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+---
+
+
+## Mora (country) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Mora için iftar ve namaz vakitleri](/iftar.html?sehir=Mora&ulke=İsveç&state=Mora)

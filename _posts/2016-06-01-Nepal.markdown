@@ -1,0 +1,17 @@
+---
+layout: single_ulke
+category: ulke
+title: Nepal için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Nepal için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Bhaktabur için iftar ve namaz vakitleri](/sehir/Nepal_Bhaktabur)
+* [Bratnagar için iftar ve namaz vakitleri](/sehir/Nepal_Bratnagar)
+* [Butwai için iftar ve namaz vakitleri](/sehir/Nepal_Butwai)
+* [Dharan Bazar için iftar ve namaz vakitleri](/sehir/Nepal_Dharan Bazar)
+* [Kathmandu için iftar ve namaz vakitleri](/sehir/Nepal_Kathmandu)

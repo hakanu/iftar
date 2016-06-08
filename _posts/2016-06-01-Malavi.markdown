@@ -1,0 +1,15 @@
+---
+layout: single_ulke
+category: ulke
+title: Malavi için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Malavi için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Blantyre için iftar ve namaz vakitleri](/sehir/Malavi_Blantyre)
+* [Chitipa için iftar ve namaz vakitleri](/sehir/Malavi_Chitipa)
+* [Lilongwe için iftar ve namaz vakitleri](/sehir/Malavi_Lilongwe)

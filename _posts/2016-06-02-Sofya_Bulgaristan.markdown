@@ -1,0 +1,13 @@
+---
+layout: single_sehir
+category: sehir
+title: Sofya (Bulgaristan) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+---
+
+
+## Sofya (country) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Sofya için iftar ve namaz vakitleri](/iftar.html?sehir=Sofya&ulke=Bulgaristan&state=Sofya)

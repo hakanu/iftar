@@ -1,0 +1,13 @@
+---
+layout: single_ulke
+category: ulke
+title: Aruba için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Aruba için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Oranjestad için iftar ve namaz vakitleri](/sehir/Aruba_Oranjestad)

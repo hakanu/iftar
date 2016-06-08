@@ -1,0 +1,13 @@
+---
+layout: single_sehir
+category: sehir
+title: Lima (Peru) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+---
+
+
+## Lima (country) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Lima için iftar ve namaz vakitleri](/iftar.html?sehir=Lima&ulke=Peru&state=Lima)

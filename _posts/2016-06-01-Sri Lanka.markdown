@@ -1,0 +1,19 @@
+---
+layout: single_ulke
+category: ulke
+title: Sri Lanka için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Sri Lanka için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Colombo için iftar ve namaz vakitleri](/sehir/Sri Lanka_Colombo)
+* [Jaffna için iftar ve namaz vakitleri](/sehir/Sri Lanka_Jaffna)
+* [Kandy için iftar ve namaz vakitleri](/sehir/Sri Lanka_Kandy)
+* [Matara için iftar ve namaz vakitleri](/sehir/Sri Lanka_Matara)
+* [Moratuwa için iftar ve namaz vakitleri](/sehir/Sri Lanka_Moratuwa)
+* [Sri Jayawardenepura için iftar ve namaz vakitleri](/sehir/Sri Lanka_Sri Jayawardenepura)
+* [Trincomalee için iftar ve namaz vakitleri](/sehir/Sri Lanka_Trincomalee)

@@ -1,0 +1,18 @@
+---
+layout: single_ulke
+category: ulke
+title: Nijer için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Nijer için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Agadez için iftar ve namaz vakitleri](/sehir/Nijer_Agadez)
+* [Maradi için iftar ve namaz vakitleri](/sehir/Nijer_Maradi)
+* [Niamey için iftar ve namaz vakitleri](/sehir/Nijer_Niamey)
+* [Tahoua için iftar ve namaz vakitleri](/sehir/Nijer_Tahoua)
+* [Tillabery için iftar ve namaz vakitleri](/sehir/Nijer_Tillabery)
+* [Zinder için iftar ve namaz vakitleri](/sehir/Nijer_Zinder)

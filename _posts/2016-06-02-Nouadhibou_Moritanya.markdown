@@ -1,0 +1,13 @@
+---
+layout: single_sehir
+category: sehir
+title: Nouadhibou (Moritanya) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+---
+
+
+## Nouadhibou (country) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Nouadhibou için iftar ve namaz vakitleri](/iftar.html?sehir=Nouadhibou&ulke=Moritanya&state=Nouadhibou)

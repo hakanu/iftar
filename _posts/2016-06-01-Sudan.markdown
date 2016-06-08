@@ -1,0 +1,23 @@
+---
+layout: single_ulke
+category: ulke
+title: Sudan için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Sudan için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Al Qadarif için iftar ve namaz vakitleri](/sehir/Sudan_Al Qadarif)
+* [Al Ubayyid için iftar ve namaz vakitleri](/sehir/Sudan_Al Ubayyid)
+* [Hartum için iftar ve namaz vakitleri](/sehir/Sudan_Hartum)
+* [Juba için iftar ve namaz vakitleri](/sehir/Sudan_Juba)
+* [Kassala için iftar ve namaz vakitleri](/sehir/Sudan_Kassala)
+* [Nasir için iftar ve namaz vakitleri](/sehir/Sudan_Nasir)
+* [Nyala için iftar ve namaz vakitleri](/sehir/Sudan_Nyala)
+* [Port Sudan için iftar ve namaz vakitleri](/sehir/Sudan_Port Sudan)
+* [Tawkar için iftar ve namaz vakitleri](/sehir/Sudan_Tawkar)
+* [Wad Madani için iftar ve namaz vakitleri](/sehir/Sudan_Wad Madani)
+* [Wadi Halfa için iftar ve namaz vakitleri](/sehir/Sudan_Wadi Halfa)

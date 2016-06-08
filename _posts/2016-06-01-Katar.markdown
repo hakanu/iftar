@@ -1,0 +1,15 @@
+---
+layout: single_ulke
+category: ulke
+title: Katar için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Katar için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Ar Rayyan için iftar ve namaz vakitleri](/sehir/Katar_Ar Rayyan)
+* [Doha için iftar ve namaz vakitleri](/sehir/Katar_Doha)
+* [Dukhan için iftar ve namaz vakitleri](/sehir/Katar_Dukhan)

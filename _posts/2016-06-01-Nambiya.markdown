@@ -1,0 +1,17 @@
+---
+layout: single_ulke
+category: ulke
+title: Nambiya için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Nambiya için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Luderitz için iftar ve namaz vakitleri](/sehir/Nambiya_Luderitz)
+* [Oranjemund için iftar ve namaz vakitleri](/sehir/Nambiya_Oranjemund)
+* [Oshakati için iftar ve namaz vakitleri](/sehir/Nambiya_Oshakati)
+* [Otjiwarongo için iftar ve namaz vakitleri](/sehir/Nambiya_Otjiwarongo)
+* [Windhoek için iftar ve namaz vakitleri](/sehir/Nambiya_Windhoek)

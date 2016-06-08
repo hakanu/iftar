@@ -1,0 +1,22 @@
+---
+layout: single_ulke
+category: ulke
+title: Filistin için iftar ve namaz vakitlerini görmek için şehir seç
+---
+
+
+## Filistin için iftar ve namaz vakitlerini görmek için şehir seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Al-Halil WB için iftar ve namaz vakitleri](/sehir/Filistin_Al-Halil WB)
+* [Cebaliye için iftar ve namaz vakitleri](/sehir/Filistin_Cebaliye)
+* [Cenin için iftar ve namaz vakitleri](/sehir/Filistin_Cenin)
+* [Eriha için iftar ve namaz vakitleri](/sehir/Filistin_Eriha)
+* [Gazze için iftar ve namaz vakitleri](/sehir/Filistin_Gazze)
+* [Nablus WB için iftar ve namaz vakitleri](/sehir/Filistin_Nablus WB)
+* [Ramallah için iftar ve namaz vakitleri](/sehir/Filistin_Ramallah)
+* [Refah için iftar ve namaz vakitleri](/sehir/Filistin_Refah)
+* [Tulkarem için iftar ve namaz vakitleri](/sehir/Filistin_Tulkarem)
+* [Yunus için iftar ve namaz vakitleri](/sehir/Filistin_Yunus)

@@ -1,0 +1,13 @@
+---
+layout: single_sehir
+category: sehir
+title: Saravan (Laos) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+---
+
+
+## Saravan (country) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Saravan için iftar ve namaz vakitleri](/iftar.html?sehir=Saravan&ulke=Laos&state=Saravan)

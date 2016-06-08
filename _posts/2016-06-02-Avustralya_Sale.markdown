@@ -1,0 +1,13 @@
+---
+layout: single_sehir
+category: sehir
+title: Sale (Avustralya) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+---
+
+
+## Sale (Avustralya) için iftar ve namaz vakitlerini görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+
+* [Sale için iftar ve namaz vakitleri](/iftar.html?sehir=Sale&ulke=Avustralya&state=Sale)
