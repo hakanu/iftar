@@ -4,6 +4,8 @@ var clock = $('.your-clock').FlipClock({
   language: 'tr',
 });
 
+_FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
+
 jQuery( document ).ready(function( $ ) {
   //console.log('  _[]    __   _                         _                    ');
   //console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
@@ -35,7 +37,8 @@ jQuery( document ).ready(function( $ ) {
       setHicriTarih(hicriTarih);
       var city = params['sehir'];
       var country = params['ulke'];
-      getIftarTimeP(country, city);
+      var state = params['state'];
+      getIftarTimeP(country, city, state);
     } else {
       //console.log('Wrong url params');
     }
@@ -89,8 +92,8 @@ function getJsonFromUrl() {
   });
   return result;
 }
-var RAMAZAN_DATE_ = '2015-06-18';
-var RAMAZAN_LAST_DATE_ = '2015-07-18';
+var RAMAZAN_DATE_ = '2016-06-06';
+var RAMAZAN_LAST_DATE_ = '2016-07-05';
 //var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
 var reverseGeoYql = "select * from xml where url = '{url}'";
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
@@ -278,15 +281,16 @@ function showPosition(position) {
     //console.log(response.query);
     var city = response.query.results.ResultSet.Result.city;
     var country = response.query.results.ResultSet.Result.country;
+    var state = null;
     //console.log('city: ' + city);
     //console.log('country: ' + country);
-    setIftarTitle(country, city);
-    getIftarTimeP(country, city);
+    setIftarTitle(country, city, state);
+    getIftarTimeP(country, city, state);
   };
   xhr.send();
 }
 
-function getIftarTimeP(country, city) {
+function getIftarTimeP(country, city, state) {
   var d = new Date();
   var currentMonth = (
       d.getMonth() + 1 >= 10 ? d.getMonth() + 1 : '0' + (d.getMonth() + 1));
@@ -295,7 +299,8 @@ function getIftarTimeP(country, city) {
                  + currentDay);
   //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   var xhr = new XMLHttpRequest();
-  var url = 'https://prayer-times-3d4fb.firebaseio.com/{date}/{country}/{city}/0.json'.supplant({
+
+  var url = _FB_ROOT_URL + '{date}/{country}/{city}/.json'.supplant({
       'date': String(d.getFullYear()).slice(2,4) + "-" + (d.getMonth() + 1) + "-" + d.getDate(),
       'country': encodeURIComponent(country),
       'city': encodeURIComponent(city),
@@ -303,15 +308,23 @@ function getIftarTimeP(country, city) {
 
   //console.log(url);
   xhr.open("GET", url, true);
-  // xhr.setRequestHeader(
-  //     "X-Parse-Application-Id", "");
-  // xhr.setRequestHeader(
-  //     "X-Parse-REST-API-Key", "");
   xhr.onload = function() {
     //console.log(xhr.responseText);
     if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
       var response = JSON.parse(xhr.responseText);
-      doStuffWithNamazVakitleri(response, city, country);
+
+      // If state is given search for it among the results.
+      if (state != null) {
+        for (var i=0; i < response.length; i++) {
+          if (response[i].state == state) {
+            response = response[i];
+          }
+        }
+      } else {
+        response = response[0];
+      }
+
+      doStuffWithNamazVakitleri(response, state, city, country);
     } else {
       //console.log("Bir hata oluştu.");
       //console.log("Fallback");
@@ -320,7 +333,7 @@ function getIftarTimeP(country, city) {
   xhr.send();
 }
 
-function doStuffWithNamazVakitleri(response, city, country) {
+function doStuffWithNamazVakitleri(response, state, city, country) {
   //response = response['results'][0];
 
   var imsak = response.imsak;
@@ -377,8 +390,9 @@ function doStuffWithNamazVakitleri(response, city, country) {
   }
 
   //console.log('Setting timer now...');
-  //setTimerForVakit(targetHours, targetMinutes, city, country, targetTitle);
-  setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city, country);
+  //setTimerForVakit(targetHours, targetMinutes, state, city, country, targetTitle);
+  setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
+           state, city, country);
   setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
 }
 
@@ -410,15 +424,18 @@ function setHicriTarih(hicriTarih) {
       $('#today-date-hicri')[0].innerHTML + hicriTarih);
 }
 
-function setIftarTitle(country, city) {
+function setIftarTitle(country, city, state) {
+  if (state == null) {
+    state = '';
+  }
   document.title = (
-      country + ' / ' + city + ' için iftar ve namaz vakitleri, '
+      country + ' / ' + city + ' / ' + state + ' için iftar ve namaz vakitleri, '
       + 'ramazana ne kadar kaldı?, Ankara, İstanbul, İzmir, Bursa, Bakü '
       + 'iftar 2015, ramazan, uluslararası namaz ve iftar zamanları.');
 }
 
-function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
-                  country) {
+function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
+                  state, city, country) {
   //console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
   //console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
 
@@ -456,6 +473,9 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
     $('.subtitle')[0].innerHTML = (
         city + ' (' + country +
         ') için iftara kalan süre');
+    if (state != null) {
+      $('.subtitle')[0].innerHTML = state + ', ' + $('.subtitle')[0].innerHTML;
+    }
   } else {
     clock.setTime(sahurRemainingMs / 1000);
     $('#description').text($('#description').text().replace('iftar', 'sahur'));
@@ -463,13 +483,16 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, city,
     $('.subtitle')[0].innerHTML = (
         city.capitalize() + ' (' + country.capitalize() +
         ') için sahura kalan süre');
+    if (state != null) {
+      $('.subtitle')[0].innerHTML = state + ', ' + $('.subtitle')[0].innerHTML;
+    }
   }
 
   clock.start();
 }
 
 function setTimerForVakit(
-    targetHours, targetMinutes, city, country, targetTitle) {
+    targetHours, targetMinutes, state, city, country, targetTitle) {
   //console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
   //console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
 
