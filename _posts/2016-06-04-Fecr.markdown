@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Fecr suresini meali ve videosu ile takip et, dinle ve oku, Fecr dinle, Fecr meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Fecr suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Fecr suresinin mealini oku</h1>
+      <div><p></p><p></p><p>FECR SURESİ (Resmi Mushaf : 89 / İniş Sırası : 10)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun tan yerinin ağarma vaktine,</p><p></p><p></p><p>2. On geceye,</p><p></p><p></p><p>3. Çifte ve teke,</p><p></p><p></p><p>4. Yola koyulduğu zaman geceye.</p><p></p><p></p><p>5. Nasıl, bunlarda akıl sahibi için bir yemin var mı?</p><p></p><p></p><p>6. Görmedin mi ne yaptı Rabbin, Ad kavmine?</p><p></p><p></p><p>7. Sütunlarla dolu İrem’e,</p><p></p><p></p><p>8. Ki beldeler içinde onun benzeri yaratılmamıştı.</p><p></p><p></p><p>9. Ve ne yaptı vadide kayaları oyan Semud kavmine?</p><p></p><p></p><p>10. Ve kazıklar sahibi Firavun’a.</p><p></p><p></p><p>11. Bunlar, ülkelerde azıp zulmetmişlerdi.</p><p></p><p></p><p>12. Ve oralarda bozgunu çoğaltmışlardı.</p><p></p><p></p><p>13. Bu yüzden Rabbin, üzerlerine azap kamçısını yağdırıverdi.</p><p></p><p></p><p>14. Çünkü Rabbin tam gözetleme yerindedir / tam bir biçimde gözetlemektedir.</p><p></p><p></p><p>15. İnsan böyledir; Rabbi kendisini deneyip de ona cömert davranır, nimet yağdırırsa: “Rabbim bana ikramda bulundu.” der.</p><p></p><p></p><p>16. Ama Rabbi onu sıkıntıya uğratıp rızkını ölçüye bağlarsa: “Rabbim bana ihanet etti.” der.</p><p></p><p></p><p>17. Doğrusu şu ki, siz yetime ikramda bulunmuyorsunuz.</p><p></p><p></p><p>18. Yoksulun doyurulmasını teşvik etmiyorsunuz.</p><p></p><p></p><p>19. Mirası derleyip toplayıp yiyorsunuz.</p><p></p><p></p><p>20. Malı, devşirip depolatacak bir sevgiyle seviyorsunuz.</p><p></p><p></p><p>21. İş böyle gitmeyecektir. Yer birbirine çarpılıp dümdüz hale getirildiğinde,</p><p></p><p></p><p>22. Rabbin gelip melekler saf saf dizildiğinde,</p><p></p><p></p><p>23. O gün cehennem de getirilir. İşte o gün düşünüp anlar insan. Ama düşünüp hatırlamanın ona ne yararı var!</p><p></p><p></p><p>24. Der ki: “Keşke şu hayatım için önden birşeyler gönderseydim.”</p><p></p><p></p><p>25. O gün hiç kimse O’nun azabı gibi azap edemez.</p><p></p><p></p><p>26. Ve hiç kimse O’nun vurduğu bağ gibi bağ vuramaz.</p><p></p><p></p><p>27. Ey sükuna kavuşmuş benlik!</p><p></p><p></p><p>28. Dön Rabbine, razı etmiş ve razı edilmiş olarak.</p><p></p><p></p><p>29. Gir kullarımın arasına.</p><p></p><p></p><p>30. Gir cennetime.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

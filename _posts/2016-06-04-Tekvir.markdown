@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Tekvir suresini meali ve videosu ile takip et, dinle ve oku, Tekvir dinle, Tekvir meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tekvir suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tekvir suresinin mealini oku</h1>
+      <div><p></p><p></p><p>TEKVİR SURESİ (Resmi Mushaf : 81 / İniş Sırası : 7)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Güneş büzülüp dürüldüğünde,</p><p></p><p></p><p>2. Yıldızlar ışıklarını yitirdiğinde,</p><p></p><p></p><p>3. Dağlar yürütüldüğünde,</p><p></p><p></p><p>4. O bakmaya kıyılmayan develer kendi hallerine bırakıldığında,</p><p></p><p></p><p>5. Vahşi hayvanlar bir araya toplandığında,</p><p></p><p></p><p>6. Denizler kaynatıldığında,</p><p></p><p></p><p>7. Benlikler çiftleştirildiğinde,</p><p></p><p></p><p>8. O diri diri gömülen kız çocuğuna sorulduğunda,</p><p></p><p></p><p>9. Hangi günah yüzünden öldürüldü diye!</p><p></p><p></p><p>10. Sayfalar açılıp göz önüne konduğunda,</p><p></p><p></p><p>11. Göğün örtüsü soyulup indirildiğinde,</p><p></p><p></p><p>12. Cehennem kızıştırıldığında,</p><p></p><p></p><p>13. Cennet yaklaştırıldığında,</p><p></p><p></p><p>14. Her benlik önceden ne hazırlamışsa bilmiş olacaktır.</p><p></p><p></p><p>15. Hayır, iş onların sandığı gibi değil. Andolsun o sinip gizlenenlere,</p><p></p><p></p><p>16. Akıp akıp giderek yuvasına girenlere,</p><p></p><p></p><p>17. Beriye geldiği ve geriye döndüğü zaman geceye,</p><p></p><p></p><p>18. Ve soluyarak açıldığı zaman sabaha,</p><p></p><p></p><p>19. Ki o, çok değerli bir elçinin sözüdür.</p><p></p><p></p><p>20. Çok güçlüdür o elçi. Arş sahibinin katında saygındır.</p><p></p><p></p><p>21. İtaat edilir orada kendisine, emindir.</p><p></p><p></p><p>22. Ve arkadaşınız bir cin çarpmış değildir.</p><p></p><p></p><p>23. Andolsun ki o, onu apaçık ufukta gördü.</p><p></p><p></p><p>24. O, gayb konusunda cimri değildir.</p><p></p><p></p><p>25. Ve o, kovulmuş şeytanın sözü değildir.</p><p></p><p></p><p>26. Hal böyle iken nereye gidiyorsunuz?</p><p></p><p></p><p>27. O, alemlere bir öğütten başka şey değildir,</p><p></p><p></p><p>28. İçinizden, dosdoğru yürümek isteyen için.</p><p></p><p></p><p>29. Alemlerin Rabbi olan Allah dilemedikçe, siz dileyemezsiniz.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

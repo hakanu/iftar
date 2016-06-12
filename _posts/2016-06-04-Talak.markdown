@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Talak suresini meali ve videosu ile takip et, dinle ve oku, Talak dinle, Talak meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Talak suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Talak suresinin mealini oku</h1>
+      <div><p></p><p></p><p>TALAK SURESİ (Resmi Mushaf : 65 / İniş Sırası : 100)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Ey Peygamber! Kadınları boşadığınız zaman iddetlerine doğru boşayın ve iddeti iyi sayın. Rabbiniz olan Allah’tan korkun. Onları evlerinden çıkarmayın; onlar da çıkmasınlar. Apaçık ve belgeli bir yüzsüzlük yapmaları durumu müstesna. İşte bunlar Allah’ın sınırlarıdır. Allah’ın sınırlarını çiğneyen kendi benliğine zulmetmiş olur. Bilemezsin, belki Allah bundan sonra yeni bir iş / oluş ortaya çıkarır.</p><p></p><p></p><p>2. Sürelerini doldurma noktasına geldiklerinde o kadınları ya örfün gerektirdiği biçimde tutun yahut da yine örfün gerektirdiği şartlarla onlardan ayrılın. İçinizden adalet sahibi iki kişiyi de tanık tutun. Tanıklığı Allah için tam bir biçimde yapın. Allah’a ve ahiret gününe inanan kişiye işte bu şekilde öğüt verilmektedir. Kim Allah’tan korkarsa, Allah ona bir çıkış yolu nasip eder.</p><p></p><p></p><p>3. Ve onu hiç beklemediği yönden rızıklandırır. Kim Allah’a dayanıp güvenirse O, ona yeter. Hiç kuşkusuz Allah emrini yerine getirecektir. Allah herşey için bir ölçü / bir kader belirlemiştir.</p><p></p><p></p><p>4. Adetten kesilen karılarınızın iddet bekleme sürelerinde kuşkuya düşerseniz, onların iddetleri üç aydır. Hiç adet görmemiş kadınların süreleri de böyledir. Gebe olan kadınların süreleri ise yüklerini bırakmalarına kadardır. Kim Allah’tan korkarsa, O ona işinde bir kolaylık nasip eder.</p><p></p><p></p><p>5. İşte bu, Allah’ın size indirmiş olduğu emridir. Kim Allah’tan korkarsa O, onun çirkinliklerini örter ve onun ödülünü büyütür.</p><p></p><p></p><p>6. O kadınları, imkanlarınız ölçüsünde, barındığınız yerin bir kısmında barındırın. Onları baskı altında tutmak için onlara zarar verme yönüne gitmeyin. Eğer hamile iseler yüklerini bırakıncaya kadar onlara nafaka verin. Eğer sizin için çocuk emziriyorlarsa, ücretlerini de verin. Aranızda örfe uygun biçimde konuşup tartışın. Eğer anlaşmakta zorluk çekerseniz o zaman, doğmuş olan çocuğu baba hesabına başka bir kadın emzirecektir.</p><p></p><p></p><p>7. Geniş imkana sahip olan bu geniş imkanından harcasın. Rızkı kendisine ölçü ile verilmiş olan da Allah’ın kendisine verdiğinden infak etsin. Allah hiçbir benliği, kendisine verdiği şey dışında yükümlü tutmaz. Allah, bir güçlükten sonra bir kolaylık yaratacaktır.</p><p></p><p></p><p>8. Nice kentler vardı ki, azgınlık edip Rabbinin ve onun resullerinin emrinden çıktılar da biz onları çok zorlu bir hesaba çektik ve onlara, görülmemiş bir azapla azap ettik.</p><p></p><p></p><p>9. Böylece onlar, yaptıklarının vebalini tattılar ve işlerinin sonu hüsran oldu.</p><p></p><p></p><p>10. Allah onlar için şiddetli bir azap hazırladı. Artık Allah’tan korkun, ey iman etmiş akıl ve gönül sahipleri! Allah size bir Zikir / bir uyarıcı / bir düşündürücü indirmiştir.</p><p></p><p></p><p>11. Bir elçi indirmiştir ki, iman edip hayra ve barışa yönelik işler sergileyenleri, karanlıklardan nura çıkarmak için Allah’ın ayetlerini açık-seçik okur. Allah’a inanıp hayra ve barışa yönelik iş yapanları Allah, altlarından ırmaklar akan cennetlere / bahçelere koyacaktır. Onlar orada sonsuza dek kalıcıdır. Allah böylesi için rızkı gerçekten güzelleştirmiştir.</p><p></p><p></p><p>12. Allah O’dur ki, yedi göğü ve yerden de onların benzerini yaratmıştır. Emir / iş ve oluş onlar arasında sürekli iner ki, Allah’ın herşeye kadir olduğunu ve Allah’ın bilgi bakımından herşeyi kuşattığını bilesiniz.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

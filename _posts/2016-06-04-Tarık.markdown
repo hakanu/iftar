@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Tarık suresini meali ve videosu ile takip et, dinle ve oku, Tarık dinle, Tarık meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tarık suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tarık suresinin mealini oku</h1>
+      <div><p></p><p></p><p>TARIK SURESİ (Resmi Mushaf : 86 / İniş Sırası : 36)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun göğe ve Tarık’a: o, gece gelene / o tokmak gibi vurana / o çıkıverip de yürek hoplatana.</p><p></p><p></p><p>2. Nereden bileceksin sen nedir Tarık?</p><p></p><p></p><p>3. Parlayan, ışığıyla karanlığı delen yıldızdır o.</p><p></p><p></p><p>4. Hiçbir benlik yoktur ki, üzerinde bir koruyucu / bir bekçi bulunmasın.</p><p></p><p></p><p>5. İnsan, neden yaratılmış olduğuna bir baksın!</p><p></p><p></p><p>6. Atılan bir suyun bir parçacığından yaratıldı o.</p><p></p><p></p><p>7. Bel ile kaburgalar arasından çıkar o su.</p><p></p><p></p><p>8. O, o insanı tekrar hayata döndürmeye elbette kadirdir.</p><p></p><p></p><p>9. Sırların / gizlilerin yoklanıp ortaya çıkarılacağı gün,</p><p></p><p></p><p>10. Artık onun için ne bir kuvvet vardır ne de bir yardımcı.</p><p></p><p></p><p>11. Andolsun o, dönüşle / döndürümle dolu göğe,</p><p></p><p></p><p>12. Çatlayışlarla / yarılışlarla dolu yere de andolsun,</p><p></p><p></p><p>13. Ki o, tam bir biçimde ayırt eden bir sözdür;</p><p></p><p></p><p>14. Şaka değildir o.</p><p></p><p></p><p>15. Onlar habire tuzak kuruyorlar / oyun çeviriyorlar.</p><p></p><p></p><p>16. Ben de tuzak kuruyorum.</p><p></p><p></p><p>17. O halde o küfre batmışlara mühlet ver, süre tanı onlara birazcık…</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

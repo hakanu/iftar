@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Tebbet suresini meali ve videosu ile takip et, dinle ve oku, Tebbet dinle, Tebbet meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tebbet suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tebbet suresinin mealini oku</h1>
+      <div><p></p><p></p><p>TEBBET SURESİ (Resmi Mushaf : 111 / İniş Sırası : 6)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Elleri kurusun Ebu Leheb’in; zaten kurudu ya.</p><p></p><p></p><p>2. Ne malı kurtardı onu ne de kazandığı.</p><p></p><p></p><p>3. Alevli bir ateşe yaslanacaktır o.</p><p></p><p></p><p>4. Karısı da öyle.</p><p></p><p></p><p>5. Odun hamalı olarak. Gerdanında bir ip olacaktır onun, en sağlam fitillisinden.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

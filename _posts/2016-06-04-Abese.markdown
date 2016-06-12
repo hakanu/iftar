@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Abese suresini meali ve videosu ile takip et, dinle ve oku, Abese dinle, Abese meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Abese suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Abese suresinin mealini oku</h1>
+      <div><p></p><p></p><p>ABESE SURESİ (Resmi Mushaf : 80 / İniş Sırası : 24)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Yüzünü ekşitti ve öteye döndü;</p><p></p><p></p><p>2. Yanına kör adam geldi diye.</p><p></p><p></p><p>3. Nereden bilirsin, belki de o arınıp temizlenecek.</p><p></p><p></p><p>4. Belki de düşünüp taşınacak da öğüt kendisine yarayacak.</p><p></p><p></p><p>5. O, kendisini her türlü ihtiyacın üstünde görene gelince,</p><p></p><p></p><p>6. Ki sen ona yöneliyorsun;</p><p></p><p></p><p>7. Sana ne onun arınmasından!</p><p></p><p></p><p>8. O, koşarak sana gelen var ya;</p><p></p><p></p><p>9. Odur içine ürperti düşen.</p><p></p><p></p><p>10. Sen ona aldırmazlık ediyorsun.</p><p></p><p></p><p>11. Hayır, hiç de öyle değil. O bir düşündürücüdür.</p><p></p><p></p><p>12. Dileyen onu düşünüp öğüt alır.</p><p></p><p></p><p>13. Kutsanan bereketli sayfalardadır o.</p><p></p><p></p><p>14. Yüceltilen, tertemiz sayfalarda,</p><p></p><p></p><p>15. Yazıcıların ellerinde;</p><p></p><p></p><p>16. Ak-pak, mübarek yazıcıların.</p><p></p><p></p><p>17. Kahrolası insan ne kadar da nankördür!</p><p></p><p></p><p>18. Hangi şeyden yarattı onu?</p><p></p><p></p><p>19. Bir spermden. Yarattı onu, ölçülendirip-biçimlendirdi.</p><p></p><p></p><p>20. Sonra yolu kolaylaştırdı kendisine,</p><p></p><p></p><p>21. Sonra öldürdü onu, kabre koydurdu.</p><p></p><p></p><p>22. Sonra dilediği zaman diriltip ortaya çıkardı onu.</p><p></p><p></p><p>23. Hayır, hayır! O, O’nun kendisine emrettiğini hiç yerine getirmedi.</p><p></p><p></p><p>24. Hadi, bakıversin insan kendi yiyeceğine!</p><p></p><p></p><p>25. Biz suyu döktük de döktük.</p><p></p><p></p><p>26. Sonra toprağı yardık da yardık.</p><p></p><p></p><p>27. Ardından yeryüzünde daneler bitirdik.</p><p></p><p></p><p>28. Üzümler, yoncalar vücuda getirdik.</p><p></p><p></p><p>29. Zeytinlikler, hurmalıklar oluşturduk.</p><p></p><p></p><p>30. Gür çimenli, bol ağaçlı bahçeler.</p><p></p><p></p><p>31. Meyva, otlak, sebze yetiştirdik.</p><p></p><p></p><p>32. Sizin ve hayvanlarınızın yararına.</p><p></p><p></p><p>33. Şiddetli çarpanın çıkardığı korkunç ses geldiğinde,</p><p></p><p></p><p>34. Bir günkü o, kişi öz kardeşinden kaçar,</p><p></p><p></p><p>35. Öz annesinden, öz babasından,</p><p></p><p></p><p>36. Eşinden, oğullarından kaçar.</p><p></p><p></p><p>37. O gün onlardan her kişinin, kendisine yetecek bir uğraşı vardır.</p><p></p><p></p><p>38. Yüzler vardır o gün, pırıl pırıl.</p><p></p><p></p><p>39. Gülen, müjdelerle parıldayan yüzler.</p><p></p><p></p><p>40. Ve yüzler vardır o gün toza toprağa bulanmış.</p><p></p><p></p><p>41. Tozu-toprağı da bir is bürümüştür.</p><p></p><p></p><p>42. İşte bunlardır küfre sapanlar, kötülüğe batanlar.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

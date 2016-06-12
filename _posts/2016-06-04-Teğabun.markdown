@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Teğabun suresini meali ve videosu ile takip et, dinle ve oku, Teğabun dinle, Teğabun meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Teğabun suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Teğabun suresinin mealini oku</h1>
+      <div><p></p><p></p><p>TEĞABÜN SURESİ (Resmi Mushaf : 64 / İniş Sırası : 107)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Göklerdekiler ve yerdekiler Allah’ı tespih ediyor. O’nundur mülk ve yönetim; O’nun içindir tüm övgüler. Herşeye gücü yetendir O.</p><p></p><p></p><p>2. O’dur sizi yaratan. Sizin bir kısmınız küfre sapmıştır, bir kısmınız iman etmiştir. Ve Allah, işleyip ürettiklerinizi çok iyi görmektedir.</p><p></p><p></p><p>3. Gökleri ve yeri hak olarak yarattı; sizi biçimlendirdi ve görünüşlerinizi güzel yaptı. Yalnız O’nadır dönüş.</p><p></p><p></p><p>4. Göklerde ne var, yerde ne var, bilir. Ve bilir sizin gizlediklerinizi de açıkladıklarınızı da. Allah, göğüslerin özünü çok iyi bilir.</p><p></p><p></p><p>5. Sizden önce küfre sapanların haberleri gelmedi mi size? Onlar yapıp ettiklerinin vebalini tattılar. Ve onlar için korkunç bir azap vardır.</p><p></p><p></p><p>6. Bu böyledir. Çünkü resulleri onlara apaçık deliller getirip dururken onlar: “Bir insan mı bize kılavuluk edecek?!” deyip küfre saptılar ve yüz çevirdiler. Ve Allah hiçbir şeye muhtaç olmadığını gösterdi. Allah sınırsız zenginliğin, sonsuz övgülerin sahibidir.</p><p></p><p></p><p>7. Küfre sapanlar asla diriltilmeyeceklerini sandılar. De ki: “Rabbime yemin ederim ki, sandığınız gibi değil. Andolsun ki, mutlaka diriltileceksiniz; yine andolsun ki, yaptıklarınız size mutlaka haber verilecektir. Ve bu, Allah için çok kolaydır.”</p><p></p><p></p><p>8. Artık Allah’a, onun resulüne ve size indirdiğimiz nura inanın. Allah, yapmakta olduklarınızı iyiden iyiye haber almaktadır.</p><p></p><p></p><p>9. “Toplanma günü” için sizi biraraya getirdiği gün, karşılıklı aldatış ve aldanışların ortaya çıktığı gündür. Kim Allah’a iman eder, barışa ve hayra yönelik iş yaparsa, Allah onun çirkinliklerini örter ve kendisini altından nehirler akan bahçelere, içlerinde sürekli kalmak üzere yerleştirir. İşte büyük başarı budur.</p><p></p><p></p><p>10. Küfre sapıp ayetlerimizi yalanlayanlara gelince, işte bunlar, içinde sürekli kalacakları ateşin dostlarıdır. Ne kötü dönüş yeridir orası!</p><p></p><p></p><p>11. Allah’ın izni olmadıkça hiçbir musibet gelip çatmaz. Kim Allah’a inanırsa Allah O’nun kalbini doğruya ve güzele kılavuzlar. Ve Allah herşeyi en iyi biçimde bilmektedir.</p><p></p><p></p><p>12. Allah’a itaat edin, resule de itaat edin. Eğer yüz çevirirseniz resulümüze düşen, apaçık bir tebliğden başkası değildir.</p><p></p><p></p><p>13. Allah… İlah yok O’ndan başka! Yalnız Allah’a güvenip dayanır iman sahipleri.</p><p></p><p></p><p>14. Ey iman edenler! Şu bir gerçek ki, eşlerinizin ve evlatlarınızın içinden size bir düşman vardır; onlara karşı dikkatli olun. Eğer affeder, ellerini tutar, hatalarını görmezlikten gelirseniz, kuşkusuz Allah da affedici, merhamet edici olur.</p><p></p><p></p><p>15. Şu da bir gerçek ki, mallarınız ve çocuklarınız bir imtihan aracıdır. Allah’a gelince, onun katında büyük bir ödül vardır.</p><p></p><p></p><p>16. O halde, gücünüz ölçüsünde Allah’tan korkun, dinleyin, itaat edin. Ve benlikleriniz için bir hayır olarak infakta bulunun. Nefsinin cimrilik ve doymazlığından korunanlar, kurtuluşa erenlerin ta kendileridir.</p><p></p><p></p><p>17. Eğer Allah’a gönül hoşluğuyla birşey borç verirseniz O, onu sizin için katlayarak artırır ve sizin hatalarınızı bağışlar. Allah Şekur’dur, şükredenlere karşılık verir; Halim’dir, yumuşak ve merhametli davranır.</p><p></p><p></p><p>18. Görünmeyen ve görünen alemleri bilendir O; Aziz’dir, Hakim’dir.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Büruc suresini meali ve videosu ile takip et, dinle ve oku, Büruc dinle, Büruc meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Büruc suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Büruc suresinin mealini oku</h1>
+      <div><p>BÜRUC SURESİ (Resmi Mushaf : 85 / İniş Sırası : 27)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun o burçlarla dolu göğe,</p><p></p><p></p><p>2. O vaat olunan güne,</p><p></p><p></p><p>3. Tanıklık edene, tanıklık edilene / seyredene, seyredilene,</p><p></p><p></p><p>4. Ki gebertildi o hendekçi grup / o kamçıları hendek gibi iz bırakan herifler,</p><p></p><p></p><p>5. O tutuşturulan ateşin adamları,</p><p></p><p></p><p>6. Onlar onun başında oturmuşlardı.</p><p></p><p></p><p>7. Ve hepsi müminlere yaptıklarını seyrediyorlardı.</p><p></p><p></p><p>8. Onlardan sadece, Aziz ve Hamid Allah’a iman ettikleri için öc alıyorlardı.</p><p></p><p></p><p>9. O Allah ki göklerin ve yerin mülkü kendisinindir. Allah herşeye tanıktır.</p><p></p><p></p><p>10. Şu bir gerçek ki inanan erkeklerle inanan kadınlara işkence edip sonra da tövbe etmemiş olanlar için, cehennem azabı vardır. Onlar için yangın azabı da vardır.</p><p></p><p></p><p>11. İman edip hayra ve barışa yönelik işler yapanlara gelince onlar için, altlarından ırmaklar akan cennetler vardır. Büyük başarı işte budur.</p><p></p><p></p><p>12. Hiç kuşkusuz, Rabbinin yakalayışı / çarpışı çok şiddetlidir.</p><p></p><p></p><p>13. İlk yaratan da O’dur, tekrar yaratan da O’dur.</p><p></p><p></p><p>14. Gafur O’dur, Vedud O.</p><p></p><p></p><p>15. Arş’ın sahibidir; Mecid’dir, şanı yüce olandır,</p><p></p><p></p><p>16. İstediğini hemen yapandır.</p><p></p><p></p><p>17. Geldi mi sana orduların haberi?</p><p></p><p></p><p>18. Yani Firavun ve Semud’un?</p><p></p><p></p><p>19. Gerçek şu ki, inkar edenler bir yalanlama içindedirler.</p><p></p><p></p><p>20. Allah ise onları arkalarından kuşatmış bulunuyor.</p><p></p><p></p><p>21. İş onların iddialarının aksinedir. O, çok yüce bir Kur’an’dır.</p><p></p><p></p><p>22. Korunmuş bir levhada / Levh-i Mahfuz’dadır.</p><p></p><p></p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

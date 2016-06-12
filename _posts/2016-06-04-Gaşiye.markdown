@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Gaşiye suresini meali ve videosu ile takip et, dinle ve oku, Gaşiye dinle, Gaşiye meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Gaşiye suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/http://">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Gaşiye suresinin mealini oku</h1>
+      <div><p>ĞAŞİYE SURESİ (Resmi Mushaf : 88 / İniş Sırası : 68)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Geldi mi sana Ğaşiye’nin / herşeyi her yandan sarıp kaplayacak olanın haberi!</p><p></p><p></p><p>2. Yüzler vardır o gün zilletle öne eğilmiştir.</p><p></p><p></p><p>3. Çalışmış, boşa yorulmuştur.</p><p></p><p></p><p>4. Kızışmış bir ateşe dalarlar.</p><p></p><p></p><p>5. Ateşimsi bir kaynaktan sulanırlar.</p><p></p><p></p><p>6. Yırtıcı bir dikenden başka yemek yoktur onlar için.</p><p></p><p></p><p>7. Ne semirtir ne açlıktan kurtarır.</p><p></p><p></p><p>8. Yüzler de vardır o gün, nimetlerle mutlu.</p><p></p><p></p><p>9. Emek ve gayreti yüzünden hoşnuttur.</p><p></p><p></p><p>10. Yüksek bir bahçededir;</p><p></p><p></p><p>11. Hiçbir boş söz işitmez orada,</p><p></p><p></p><p>12. Akıp duran bir pınar vardır orada,</p><p></p><p></p><p>13. Yüksek sedirler vardır orada,</p><p></p><p></p><p>14. Hizmete sunulmuş kadehler,</p><p></p><p></p><p>15. Sıra sıra dizilmiş yastıklar,</p><p></p><p></p><p>16. Serilmiş seçme döşekler.</p><p></p><p></p><p>17. Bakmıyorlar mı o deveye, nasıl yaratıldı!</p><p></p><p></p><p>18. Ve göğe ki, nasıl yükseltildi!</p><p></p><p></p><p>19. Ve dağlara ki, nasıl dikildi!</p><p></p><p></p><p>20. Ve yere, nasıl yayılıp döşendi!</p><p></p><p></p><p>21. Artık uyar, düşündür. Çünkü sen bir uyarıcı / düşündürücüsün.</p><p></p><p></p><p>22. Üzerlerine musallat bir despot değilsin.</p><p></p><p></p><p>23. Tersine giden, nankörlük eden başka.</p><p></p><p></p><p>24. Allah, böylesine en büyük azapla azap edecektir.</p><p></p><p></p><p>25. Hiç kuşkusuz, onların dönüşleri bizedir.</p><p></p><p></p><p>26. Bunun ardından hesapları da bizim elimizde olacaktır.</p><p></p><p></p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

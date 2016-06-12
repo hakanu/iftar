@@ -1,0 +1,24 @@
+---
+layout: sure
+category: oku
+title: Fatiha suresini meali ve videosu ile takip et, dinle ve oku, Fatiha dinle, Fatiha meali.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Fatiha suresini oku, dinle, takip et</h1>
+      <div class="div-youtube-embed">
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=6CXwMqpa9Ac">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Fatiha suresinin mealini oku</h1>
+      <div><p>1- Rahmân ve Rahîm olan Allah'ın ismiyle.</p><p>2- Hamd o âlemlerin Rabbi,</p><p>3- O Rahmân ve Rahim,</p><p>4- O, din gününün maliki Allah'ın.</p><p>5- Ancak sana ederiz kulluğu, ibadeti ve ancak senden dileriz yardımı, inayeti.</p><p>6- Hidayet eyle bizi doğru yola,</p><p>7- O kendilerine nimet verdiğin mutlu kimselerin yoluna; o gazaba uğramışların </p><p>ve o sapmışların yoluna değil.</p><p></p><p></p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />
