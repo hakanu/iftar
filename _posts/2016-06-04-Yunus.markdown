@@ -9,7 +9,7 @@ title: Yunus suresini meali ve videosu ile takip et, dinle ve oku, Yunus dinle, 
     <div class="col-lg-12">
       <h1>Yunus suresini oku, dinle, takip et</h1>
       <div class="div-youtube-embed">
-        <iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=s9zCzpxM6SI">frameborder="0" allowfullscreen></iframe>
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/s9zCzpxM6SI">frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
   </div>

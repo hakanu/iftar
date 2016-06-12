@@ -9,7 +9,7 @@ title: Nur suresini meali ve videosu ile takip et, dinle ve oku, Nur dinle, Nur 
     <div class="col-lg-12">
       <h1>Nur suresini oku, dinle, takip et</h1>
       <div class="div-youtube-embed">
-        <iframe width="640" height="480" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=Q_gYjnSLkeU">frameborder="0" allowfullscreen></iframe>
+        <iframe width="640" height="480" src="https://www.youtube.com/embed/Q_gYjnSLkeU">frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
   </div>
