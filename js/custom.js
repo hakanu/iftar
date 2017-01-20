@@ -4,7 +4,9 @@ var clock = $('.your-clock').FlipClock({
   language: 'tr',
 });
 
-_FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
+var _FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
+var RAMAZAN_DATE_ = '2017-05-27';
+var RAMAZAN_LAST_DATE_ = '2017-06-25';
 
 jQuery( document ).ready(function( $ ) {
   //console.log('  _[]    __   _                         _                    ');
@@ -52,6 +54,7 @@ jQuery( document ).ready(function( $ ) {
     // If ramazan has already started, it will be minus N.
     if (ramazanDaysLeft < 0) {
       ramazanDaysLeft = 0;
+      $('#span-ramazan-start-end-text').innerHTML = 'bitmesine';
     }
     $('#span-ramazan-days-left')[0].innerHTML = ramazanDaysLeft;
   }
@@ -60,7 +63,10 @@ jQuery( document ).ready(function( $ ) {
     var ramazanDaysRemaining = parseInt(
         (new Date(RAMAZAN_LAST_DATE_) - new Date()) / 1000 / 3600 / 24);
     $('#span-ramazan-days-remaining')[0].innerHTML = ramazanDaysRemaining;
+    $('#span-ramazan-start-end-text')[0].innerHTML = 'başlamasına';
   }
+
+  $('#span-ramazan-bitis')[0].innerHTML = RAMAZAN_LAST_DATE_;
 
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
@@ -92,8 +98,7 @@ function getJsonFromUrl() {
   });
   return result;
 }
-var RAMAZAN_DATE_ = '2016-06-06';
-var RAMAZAN_LAST_DATE_ = '2016-07-05';
+
 //var reverseGeoYql = 'select * from geo.placefinder where text="{lat},{lon}" and gflags="R"';
 var reverseGeoYql = "select * from xml where url = '{url}'";
 var reverseGeoYqlUrl = 'https://query.yahooapis.com/v1/public/yql?q='
@@ -300,10 +305,10 @@ function getIftarTimeP(country, city, state) {
   //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   var xhr = new XMLHttpRequest();
 
-  var url = _FB_ROOT_URL + '{date}/{country}/{city}/.json'.supplant({
-      'date': String(d.getFullYear()).slice(2,4) + "-" + (d.getMonth() + 1) + "-" + d.getDate(),
-      'country': encodeURIComponent(country),
-      'city': encodeURIComponent(city),
+  var url = _FB_ROOT_URL + 'iftar/{date}/{country}/{city}/.json'.supplant({
+      'date': String(d.getFullYear()) + "/" + currentMonth + "/" + currentDay,
+      'country': encodeURIComponent(country.toUpperCase().replace('İ', 'I')),
+      'city': encodeURIComponent(city.toUpperCase().replace('İ', 'I')),
   });
 
   //console.log(url);
