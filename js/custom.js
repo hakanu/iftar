@@ -305,7 +305,7 @@ function getIftarTimeP(country, city, state) {
   //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   var xhr = new XMLHttpRequest();
 
-  var url = _FB_ROOT_URL + 'iftar/{date}/{country}/{city}/.json'.supplant({
+  var url = _FB_ROOT_URL + 'iftar/iftar/{date}/{country}/{city}/.json'.supplant({
       'date': String(d.getFullYear()) + "/" + currentMonth + "/" + currentDay,
       'country': encodeURIComponent(country.toUpperCase().replace('İ', 'I')),
       'city': encodeURIComponent(city.toUpperCase().replace('İ', 'I')),
