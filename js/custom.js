@@ -4,17 +4,22 @@ var clock = $('.your-clock').FlipClock({
   language: 'tr',
 });
 
+var _OPEN_WEATHER_API_KEY = 'd0985731af499fa7eab5fa9e2238550e';
+var _OPEN_WEATHER_API_LAT_LON_URL = 'http://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={api_key}&lang=tr&units=metric';
+var _OPEN_WEATHER_API_CITY_URL = 'http://api.openweathermap.org/data/2.5/forecast?q={city},{country_code}&mode=json&appid={api_key}&lang=tr&units=metric';
+var _OPEN_WEATHER_ICON_URL = 'http://openweathermap.org/img/w/{icon_code}.png';
+
 var _FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
 var RAMAZAN_DATE_ = '2017-05-27';
 var RAMAZAN_LAST_DATE_ = '2017-06-25';
 
 jQuery( document ).ready(function( $ ) {
-  //console.log('  _[]    __   _                         _                    ');
-  //console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
-  //console.log('  | |  | |_  | __|  / _` | |  __|     / _ \   |  _ \  |  _ \ ');
-  //console.log('  | |  |  _| | |_  | (_| | | |       / ___ \  | |_) | | |_) |');
-  //console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
-  //console.log('                                              |_|     |_|    ');
+  console.log('  _[]    __   _                         _                    ');
+  console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
+  console.log('  | |  | |_  | __|  / _` | |  __|     / _ \   |  _ \  |  _ \ ');
+  console.log('  | |  |  _| | |_  | (_| | | |       / ___ \  | |_) | | |_) |');
+  console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
+  console.log('                                              |_|     |_|    ');
   var currentUrl = window.location.href;
   var hicriTarih = getHicriDate();
 
@@ -30,19 +35,21 @@ jQuery( document ).ready(function( $ ) {
     getLocation();
   } else {
     // If it's not home page but location is coming from GET.
-    //console.log('not getting the location because url is ' + currentUrl);
+    console.log('not getting the location because url is ' + currentUrl);
     var params = getJsonFromUrl(currentUrl);
-    //console.log('get url parameters: ' + JSON.stringify(params));
+    console.log('get url parameters: ' + JSON.stringify(params));
     if (params && params['ulke'] && params['sehir']) {
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
       setIftarTitle(params['ulke'], params['sehir'], params['state']);
+      setWeatherTitle(params['ulke'], params['sehir'])
       setHicriTarih(hicriTarih);
       var city = params['sehir'];
       var country = params['ulke'];
       var state = params['state'];
       getIftarTimeP(country, city, state);
+      getWeatherByCity(country, city);
     } else {
-      //console.log('Wrong url params');
+      console.log('Wrong url params');
     }
   }
 
@@ -70,7 +77,7 @@ jQuery( document ).ready(function( $ ) {
 
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
-    //console.log('Bilgi page');
+    console.log('Bilgi page');
     showTodayBelirliGun();
   }
 
@@ -255,7 +262,7 @@ function getLocation() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
     } else {
-        //console.log("Geolocation is not supported by this browser.");
+        console.log("Geolocation is not supported by this browser.");
         $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tespit edemedik :(';
     }
 }
@@ -263,7 +270,7 @@ function getLocation() {
 function showPosition(position) {
   var lat = position.coords.latitude;
   var lon = position.coords.longitude;
-  //console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
+  console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
   var xhr = new XMLHttpRequest();
   reverseGeoYqlUrl = reverseGeoYqlUrl.supplant(
       {'reverseGeoYql': encodeURIComponent(
@@ -276,23 +283,26 @@ function showPosition(position) {
   //    {'reverseGeoYql': reverseGeoYql.supplant({'lat': lat, 'lon': lon})});
   // Yahoo shut down geo table. So use this workaround:
   //reverseGeoYqlUrl = reverseGeoUrl.supplant({'lat': lat, 'lon': lon})
-  //console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
-  //console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
+  console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
+  console.log('reverseGeoYqlUrl: ' + reverseGeoYqlUrl);
   xhr.open("GET", reverseGeoYqlUrl, true);
   xhr.onload = function() {
-    //console.log(xhr.responseText);
+    console.log(xhr.responseText);
     var response = JSON.parse(xhr.responseText);
-    //console.log(response);
-    //console.log(response.query);
+    console.log(response);
+    console.log(response.query);
     var city = response.query.results.ResultSet.Result.city;
     var country = response.query.results.ResultSet.Result.country;
     var state = null;
-    //console.log('city: ' + city);
-    //console.log('country: ' + country);
+    console.log('city: ' + city);
+    console.log('country: ' + country);
     setIftarTitle(country, city, state);
+    setWeatherTitle(country, city)
     getIftarTimeP(country, city, state);
   };
   xhr.send();
+
+  getWeatherByLatLon(lat, lon);
 }
 
 function getIftarTimeP(country, city, state) {
@@ -302,19 +312,17 @@ function getIftarTimeP(country, city, state) {
   var currentDay = d.getDate() >= 10 ? d.getDate() : '0' + (d.getDate());
   var dateStr = (d.getFullYear().toString().slice(2) + "-" + currentMonth + "-"
                  + currentDay);
-  //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
+  console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   var xhr = new XMLHttpRequest();
 
   var url = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{date}.json'.supplant({
-      'date': String(d.getFullYear()) + "/" + currentMonth + "/" + currentDay,
+      'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
       'country': encodeURIComponent(country.toUpperCase().replace('İ', 'I')),
       'city': encodeURIComponent(city.toUpperCase().replace('İ', 'I')),
   });
 
-  //console.log(url);
   xhr.open("GET", url, true);
   xhr.onload = function() {
-    //console.log(xhr.responseText);
     if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
       var response = JSON.parse(xhr.responseText);
 
@@ -325,34 +333,43 @@ function getIftarTimeP(country, city, state) {
             response = response[i];
           }
         }
-      } else {
-        response = response[0];
-      }
-
+      } 
       doStuffWithNamazVakitleri(response, state, city, country);
     } else {
-      //console.log("Bir hata oluştu.");
-      //console.log("Fallback");
+      console.log("Bir hata oluştu.");
+      console.log("Fallback");
     } // End of fallback mechanism
   };
   xhr.send();
 }
 
-function doStuffWithNamazVakitleri(response, state, city, country) {
+function getCurrentDay() {
+  var d = new Date();
+  var currentDay = d.getDate() >= 10 ? d.getDate() : '0' + (d.getDate());
+  return currentDay;
+}
+
+function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   //response = response['results'][0];
+  console.log('doStuffWithNamazVakitleri response: ');
+  console.log(monthlyVakits);
 
-  var imsak = response.imsak;
-  var gunes = response.gunes;
-  var ogle = response.ogle;
-  var ikindi = response.ikindi;
-  var aksam = response.aksam;
-  var yatsi = response.yatsi;
+  var currentDay = getCurrentDay();
+  var todayNamazVakits = monthlyVakits[currentDay];
+  console.log(todayNamazVakits);
 
-  var iftarHours = parseInt(response.aksam.split(':')[0]);
-  var iftarMinutes = parseInt(response.aksam.split(':')[1]);
+  var imsak = todayNamazVakits.imsak;
+  var gunes = todayNamazVakits.gunes;
+  var ogle = todayNamazVakits.ogle;
+  var ikindi = todayNamazVakits.ikindi;
+  var aksam = todayNamazVakits.aksam;
+  var yatsi = todayNamazVakits.yatsi;
 
-  var sahurHours = parseInt(response.imsak.split(':')[0]);
-  var sahurMinutes = parseInt(response.imsak.split(':')[1]);
+  var iftarHours = parseInt(todayNamazVakits.aksam.split(':')[0]);
+  var iftarMinutes = parseInt(todayNamazVakits.aksam.split(':')[1]);
+
+  var sahurHours = parseInt(todayNamazVakits.imsak.split(':')[0]);
+  var sahurMinutes = parseInt(todayNamazVakits.imsak.split(':')[1]);
 
   var imsakSeconds = getSecondsFromStrTime(imsak);
   var gunesSeconds = getSecondsFromStrTime(gunes);
@@ -394,11 +411,11 @@ function doStuffWithNamazVakitleri(response, state, city, country) {
     targetTitle = 'İmsak';
   }
 
-  //console.log('Setting timer now...');
+  console.log('Setting timer now...');
   //setTimerForVakit(targetHours, targetMinutes, state, city, country, targetTitle);
   setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
            state, city, country);
-  setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi);
+  setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi, monthlyVakits);
 }
 
 /* Returns 62 * 60 from '01:02' */
@@ -415,13 +432,43 @@ function getCurrentTimeSeconds() {
   return getSecondsFromStrTime(currentHours + ':' + currentMinutes);
 }
 
-function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi) {
+function getValues(objects) {
+  var values = [];
+  for(var key in objects) {
+    values.push(objects[key]);
+  }
+  return values;
+}
+
+function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi, monthlyVakits) {
   $('#p-imsak')[0].innerHTML = imsak;
   $('#p-gunes')[0].innerHTML = gunes;
   $('#p-ogle')[0].innerHTML = ogle;
   $('#p-ikindi')[0].innerHTML = ikindi;
   $('#p-aksam')[0].innerHTML = aksam;
   $('#p-yatsi')[0].innerHTML = yatsi;
+
+  monthlyVakits = getValues(monthlyVakits);
+  monthlyVakits.sort(function compare(a, b) {
+    if (a.date < b.date) {
+      return -1;
+    } else if (a.date > b.date) {
+      return 1;
+    }
+    return 0;
+  });
+
+  var counter = 1;
+  for (var i in monthlyVakits) {
+    $('#p-tarih-' + counter)[0].innerHTML = monthlyVakits[i].date;
+    $('#p-imsak-' + counter)[0].innerHTML = monthlyVakits[i].imsak;
+    $('#p-gunes-' + counter)[0].innerHTML = monthlyVakits[i].gunes;
+    $('#p-ogle-' + counter)[0].innerHTML = monthlyVakits[i].ogle;
+    $('#p-ikindi-' + counter)[0].innerHTML = monthlyVakits[i].ikindi;
+    $('#p-aksam-' + counter)[0].innerHTML = monthlyVakits[i].aksam;
+    $('#p-yatsi-' + counter)[0].innerHTML = monthlyVakits[i].yatsi;
+    counter++;
+  }
 }
 
 function setHicriTarih(hicriTarih) {
@@ -446,10 +493,15 @@ function setIftarTitle(country, city, state) {
   }
 }
 
+function setWeatherTitle(country, city) {
+  $('#span-weather-country').innerHTML = country;
+  $('#span-weather-city').innerHTML = city;
+}
+
 function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
                   state, city, country) {
-  //console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
-  //console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
+  console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
+  console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
 
   sahurHours = parseInt(sahurHours);
   sahurMinutes = parseInt(sahurMinutes);
@@ -463,7 +515,7 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
   var currentHours = currentdate.getHours();
   var currentMinutes = currentdate.getMinutes();
 
-  //console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
+  console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
 
   var iftarRemainingMs = (
       new Date(new Date).setHours(iftarHours, iftarMinutes, 0) - new Date());
@@ -475,8 +527,8 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
         new Date(new Date).setHours(sahurHours, sahurMinutes, 0) - new Date());
   }
 
-  //console.log("remaining iftar ms: " + iftarRemainingMs);
-  //console.log("remaining sahur ms: " + sahurRemainingMs);
+  console.log("remaining iftar ms: " + iftarRemainingMs);
+  console.log("remaining sahur ms: " + sahurRemainingMs);
 
   if (iftarRemainingMs > 0 && currentHours > sahurHours) {
     clock.setTime(iftarRemainingMs / 1000);
@@ -505,8 +557,8 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
 
 function setTimerForVakit(
     targetHours, targetMinutes, state, city, country, targetTitle) {
-  //console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
-  //console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
+  console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
+  console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
 
   targetHours = parseInt(targetHours);
   targetMinutes = parseInt(targetMinutes);
@@ -520,12 +572,12 @@ function setTimerForVakit(
   var currentHours = currentdate.getHours();
   var currentMinutes = currentdate.getMinutes();
 
-  //console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
+  console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
 
   var targetRemainingMs = (
       new Date(new Date).setHours(targetHours, targetMinutes, 0) - new Date());
 
-  //console.log("remaining target ms: " + targetRemainingMs);
+  console.log("remaining target ms: " + targetRemainingMs);
 
   if (targetRemainingMs > 0 && currentHours < targetRemainingMs) {
     clock.setTime(targetRemainingMs / 1000);
@@ -544,4 +596,52 @@ function setTimerForVakit(
   }
 
   clock.start();
+}
+
+function getWeatherByLatLon(lat, lon) {
+  var xhr = new XMLHttpRequest();
+  var weatherUrl = _OPEN_WEATHER_API_LAT_LON_URL.supplant(
+      {'lat': lat, 'lon': lon, 'api_key': _OPEN_WEATHER_API_KEY});
+  xhr.open("GET", weatherUrl, true);
+  xhr.onload = function() {
+    var response = JSON.parse(xhr.responseText).list;
+    setWeatherData(response);
+  };
+  xhr.send();
+}
+
+function getWeatherByCity(countryCode, city) {
+  var xhr = new XMLHttpRequest();
+  var weatherUrl = _OPEN_WEATHER_API_CITY_URL.supplant({
+      'country_code': countryCode,
+      'city': city,
+      'api_key': _OPEN_WEATHER_API_KEY});
+  xhr.open("GET", weatherUrl, true);
+  xhr.onload = function() {
+    var response = JSON.parse(xhr.responseText).list;
+    setWeatherData(response);
+  };
+  xhr.send();
+}
+
+function setWeatherData(response) {
+  for (var i in response) {
+      var hava = response[i];
+      var rowsCode =( 
+          '<tr id="tr-vakit-0">' +
+          '  <td id="p-tarih-0">{date}</td>' +
+          '  <td id="p-sicaklik-0">{temp} &#8451;</td>' +
+          '  <td id="p-durum-0">{description}</td>' +
+          '  <td id="p-icon-0"><img src="{icon_url}"></td>' +
+          '  <td id="p-durum-0">{humidity}</td>' +
+          '</tr>').supplant({
+              'date': hava.dt_txt,
+              'temp': hava.main.temp,
+              'description': hava.weather[0].description,
+              'icon_url': _OPEN_WEATHER_ICON_URL.supplant({
+                  'icon_code': hava.weather[0].icon}),
+              'humidity': hava.main.humidity
+          });
+      $('#table-hava-durumu').append(rowsCode);
+    }
 }

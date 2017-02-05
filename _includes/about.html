@@ -1,69 +1,410 @@
-    <!-- About Section -->
-    <section id="about" class="container content-section text-center">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-              <br/><br/>
-              <h2>Namaz Vakitleri</h2>
+<section id="about" class="container content-section text-center">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <br/><br/>
+          <h2>Aylık Namaz Vakitleri</h2>
 
-              <table class="table table-namaz-vakitleri">
-                <tr>
-                  <th class="th-namaz-vakitleri">İmsak</th>
-                  <th class="th-namaz-vakitleri">Güneş</th>
-                  <th class="th-namaz-vakitleri">Öğle</th>
-                  <th class="th-namaz-vakitleri">İkindi</th>
-                  <th class="th-namaz-vakitleri">Akşam</th>
-                  <th class="th-namaz-vakitleri">Yatsı</th>
-                </tr>
-                <tr>
-                  <td id="p-imsak"></td>
-                  <td id="p-gunes"></td>
-                  <td id="p-ogle"></td>
-                  <td id="p-ikindi"></td>
-                  <td id="p-aksam"></td>
-                  <td id="p-yatsi"></td> 
-                </tr>
-              </table>
+          <table class="table table-striped table-namaz-vakitleri"> 
+            <thead>
+              <tr>
+                <th class="th-namaz-vakitleri">Tarih</th>
+                <th class="th-namaz-vakitleri">İmsak</th>
+                <th class="th-namaz-vakitleri">Güneş</th>
+                <th class="th-namaz-vakitleri">Öğle</th>
+                <th class="th-namaz-vakitleri">İkindi</th>
+                <th class="th-namaz-vakitleri">Akşam</th>
+                <th class="th-namaz-vakitleri">Yatsı</th>
+              </tr>
+            </thead>
 
-              <div class="row">
-                <a href="https://play.google.com/store/apps/details?id=io.haku.iftarvakitleri">
-                  <img alt="Get it on Google Play" src="https://developer.android.com/images/brand/tr_generic_rgb_wo_45.png" />
-                </a>
-              </div><br /><br /><br />
+            <tbody>
+              <tr id="tr-vakit-0" style="font-size: bold;">
+                <td id="p-tarih">Bugün</td>
+                <td id="p-imsak"></td>
+                <td id="p-gunes"></td>
+                <td id="p-ogle"></td>
+                <td id="p-ikindi"></td>
+                <td id="p-aksam"></td>
+                <td id="p-yatsi"></td> 
+              </tr>
+              
+              <tr id="tr-vakit-1">
+                <td id="p-tarih-1"></td> 
+                <td id="p-imsak-1"></td>
+                <td id="p-gunes-1"></td>
+                <td id="p-ogle-1"></td>
+                <td id="p-ikindi-1"></td>
+                <td id="p-aksam-1"></td>
+                <td id="p-yatsi-1"></td> 
+              </tr>
 
-              <div class="row">
+              <tr id="tr-vakit-2">
+                <td id="p-tarih-2"></td> 
+                <td id="p-imsak-2"></td>
+                <td id="p-gunes-2"></td>
+                <td id="p-ogle-2"></td>
+                <td id="p-ikindi-2"></td>
+                <td id="p-aksam-2"></td>
+                <td id="p-yatsi-2"></td> 
+              </tr>
 
-                <div class="col-md-3">
-                  <div class="fb-share-button" data-href="http://iftarvakitleri.org" data-layout="button_count"></div>
-                </div>
+              <tr id="tr-vakit-3">
+                <td id="p-tarih-3"></td> 
+                <td id="p-imsak-3"></td>
+                <td id="p-gunes-3"></td>
+                <td id="p-ogle-3"></td>
+                <td id="p-ikindi-3"></td>
+                <td id="p-aksam-3"></td>
+                <td id="p-yatsi-3"></td> 
+              </tr>
 
-                <div class="col-md-3">
-                  <a class="twitter-hashtag-button" href="https://twitter.com/intent/tweet">Tivitle</a>
-                </div>
+              <tr id="tr-vakit-4">
+                <td id="p-tarih-4"></td> 
+                <td id="p-imsak-4"></td>
+                <td id="p-gunes-4"></td>
+                <td id="p-ogle-4"></td>
+                <td id="p-ikindi-4"></td>
+                <td id="p-aksam-4"></td>
+                <td id="p-yatsi-4"></td> 
+              </tr>
 
-                <div class="col-md-3"> 
-                  <div class="g-plus" data-action="share"></div>
-                </div>
-                  
-                <div class="col-md-3">
-                  <script type="IN/Share" data-url="http://iftarvakitleri.org" data-counter="top"></script>
-                </div>
-              </div><br /><br />
+              <tr id="tr-vakit-5">
+                <td id="p-tarih-5"></td> 
+                <td id="p-imsak-5"></td>
+                <td id="p-gunes-5"></td>
+                <td id="p-ogle-5"></td>
+                <td id="p-ikindi-5"></td>
+                <td id="p-aksam-5"></td>
+                <td id="p-yatsi-5"></td> 
+              </tr>
+
+              <tr id="tr-vakit-6">
+                <td id="p-tarih-6"></td> 
+                <td id="p-imsak-6"></td>
+                <td id="p-gunes-6"></td>
+                <td id="p-ogle-6"></td>
+                <td id="p-ikindi-6"></td>
+                <td id="p-aksam-6"></td>
+                <td id="p-yatsi-6"></td> 
+              </tr>
+
+              <tr id="tr-vakit-7">
+                <td id="p-tarih-7"></td> 
+                <td id="p-imsak-7"></td>
+                <td id="p-gunes-7"></td>
+                <td id="p-ogle-7"></td>
+                <td id="p-ikindi-7"></td>
+                <td id="p-aksam-7"></td>
+                <td id="p-yatsi-7"></td> 
+              </tr>
+
+              <tr id="tr-vakit-8">
+                <td id="p-tarih-8"></td> 
+                <td id="p-imsak-8"></td>
+                <td id="p-gunes-8"></td>
+                <td id="p-ogle-8"></td>
+                <td id="p-ikindi-8"></td>
+                <td id="p-aksam-8"></td>
+                <td id="p-yatsi-8"></td> 
+              </tr>
+
+              <tr id="tr-vakit-9">
+                <td id="p-tarih-9"></td> 
+                <td id="p-imsak-9"></td>
+                <td id="p-gunes-9"></td>
+                <td id="p-ogle-9"></td>
+                <td id="p-ikindi-9"></td>
+                <td id="p-aksam-9"></td>
+                <td id="p-yatsi-9"></td> 
+              </tr>
+
+              <tr id="tr-vakit-10">
+                <td id="p-tarih-10"></td> 
+                <td id="p-imsak-10"></td>
+                <td id="p-gunes-10"></td>
+                <td id="p-ogle-10"></td>
+                <td id="p-ikindi-10"></td>
+                <td id="p-aksam-10"></td>
+                <td id="p-yatsi-10"></td> 
+              </tr>
+
+              <tr id="tr-vakit-11">
+                <td id="p-tarih-11"></td> 
+                <td id="p-imsak-11"></td>
+                <td id="p-gunes-11"></td>
+                <td id="p-ogle-11"></td>
+                <td id="p-ikindi-11"></td>
+                <td id="p-aksam-11"></td>
+                <td id="p-yatsi-11"></td> 
+              </tr>
+
+              <tr id="tr-vakit-12">
+                <td id="p-tarih-12"></td> 
+                <td id="p-imsak-12"></td>
+                <td id="p-gunes-12"></td>
+                <td id="p-ogle-12"></td>
+                <td id="p-ikindi-12"></td>
+                <td id="p-aksam-12"></td>
+                <td id="p-yatsi-12"></td> 
+              </tr>
+
+              <tr id="tr-vakit-13">
+                <td id="p-tarih-13"></td> 
+                <td id="p-imsak-13"></td>
+                <td id="p-gunes-13"></td>
+                <td id="p-ogle-13"></td>
+                <td id="p-ikindi-13"></td>
+                <td id="p-aksam-13"></td>
+                <td id="p-yatsi-13"></td> 
+              </tr>
+
+              <tr id="tr-vakit-14">
+                <td id="p-tarih-14"></td> 
+                <td id="p-imsak-14"></td>
+                <td id="p-gunes-14"></td>
+                <td id="p-ogle-14"></td>
+                <td id="p-ikindi-14"></td>
+                <td id="p-aksam-14"></td>
+                <td id="p-yatsi-14"></td> 
+              </tr>
+
+              <tr id="tr-vakit-15">
+                <td id="p-tarih-15"></td> 
+                <td id="p-imsak-15"></td>
+                <td id="p-gunes-15"></td>
+                <td id="p-ogle-15"></td>
+                <td id="p-ikindi-15"></td>
+                <td id="p-aksam-15"></td>
+                <td id="p-yatsi-15"></td> 
+              </tr>
+
+              <tr id="tr-vakit-16">
+                <td id="p-tarih-16"></td> 
+                <td id="p-imsak-16"></td>
+                <td id="p-gunes-16"></td>
+                <td id="p-ogle-16"></td>
+                <td id="p-ikindi-16"></td>
+                <td id="p-aksam-16"></td>
+                <td id="p-yatsi-16"></td> 
+              </tr>
+
+              <tr id="tr-vakit-17">
+                <td id="p-tarih-17"></td> 
+                <td id="p-imsak-17"></td>
+                <td id="p-gunes-17"></td>
+                <td id="p-ogle-17"></td>
+                <td id="p-ikindi-17"></td>
+                <td id="p-aksam-17"></td>
+                <td id="p-yatsi-17"></td> 
+              </tr>
+
+              <tr id="tr-vakit-18">
+                <td id="p-tarih-18"></td> 
+                <td id="p-imsak-18"></td>
+                <td id="p-gunes-18"></td>
+                <td id="p-ogle-18"></td>
+                <td id="p-ikindi-18"></td>
+                <td id="p-aksam-18"></td>
+                <td id="p-yatsi-18"></td> 
+              </tr>
+
+              <tr id="tr-vakit-19">
+                <td id="p-tarih-19"></td> 
+                <td id="p-imsak-19"></td>
+                <td id="p-gunes-19"></td>
+                <td id="p-ogle-19"></td>
+                <td id="p-ikindi-19"></td>
+                <td id="p-aksam-19"></td>
+                <td id="p-yatsi-19"></td> 
+              </tr>
+
+              <tr id="tr-vakit-20">
+                <td id="p-tarih-20"></td> 
+                <td id="p-imsak-20"></td>
+                <td id="p-gunes-20"></td>
+                <td id="p-ogle-20"></td>
+                <td id="p-ikindi-20"></td>
+                <td id="p-aksam-20"></td>
+                <td id="p-yatsi-20"></td> 
+              </tr>
+
+              <tr id="tr-vakit-21">
+                <td id="p-tarih-21"></td> 
+                <td id="p-imsak-21"></td>
+                <td id="p-gunes-21"></td>
+                <td id="p-ogle-21"></td>
+                <td id="p-ikindi-21"></td>
+                <td id="p-aksam-21"></td>
+                <td id="p-yatsi-21"></td> 
+              </tr>
+
+              <tr id="tr-vakit-22">
+                <td id="p-tarih-22"></td> 
+                <td id="p-imsak-22"></td>
+                <td id="p-gunes-22"></td>
+                <td id="p-ogle-22"></td>
+                <td id="p-ikindi-22"></td>
+                <td id="p-aksam-22"></td>
+                <td id="p-yatsi-22"></td> 
+              </tr>
+
+              <tr id="tr-vakit-23">
+                <td id="p-tarih-23"></td> 
+                <td id="p-imsak-23"></td>
+                <td id="p-gunes-23"></td>
+                <td id="p-ogle-23"></td>
+                <td id="p-ikindi-23"></td>
+                <td id="p-aksam-23"></td>
+                <td id="p-yatsi-23"></td> 
+              </tr>
+
+              <tr id="tr-vakit-24">
+                <td id="p-tarih-24"></td> 
+                <td id="p-imsak-24"></td>
+                <td id="p-gunes-24"></td>
+                <td id="p-ogle-24"></td>
+                <td id="p-ikindi-24"></td>
+                <td id="p-aksam-24"></td>
+                <td id="p-yatsi-24"></td> 
+              </tr>
+
+              <tr id="tr-vakit-25">
+                <td id="p-tarih-25"></td> 
+                <td id="p-imsak-25"></td>
+                <td id="p-gunes-25"></td>
+                <td id="p-ogle-25"></td>
+                <td id="p-ikindi-25"></td>
+                <td id="p-aksam-25"></td>
+                <td id="p-yatsi-25"></td> 
+              </tr>
+
+              <tr id="tr-vakit-26">
+                <td id="p-tarih-26"></td> 
+                <td id="p-imsak-26"></td>
+                <td id="p-gunes-26"></td>
+                <td id="p-ogle-26"></td>
+                <td id="p-ikindi-26"></td>
+                <td id="p-aksam-26"></td>
+                <td id="p-yatsi-26"></td> 
+              </tr>
+
+              <tr id="tr-vakit-27">
+                <td id="p-tarih-27"></td> 
+                <td id="p-imsak-27"></td>
+                <td id="p-gunes-27"></td>
+                <td id="p-ogle-27"></td>
+                <td id="p-ikindi-27"></td>
+                <td id="p-aksam-27"></td>
+                <td id="p-yatsi-27"></td> 
+              </tr>
+
+              <tr id="tr-vakit-28">
+                <td id="p-tarih-28"></td> 
+                <td id="p-imsak-28"></td>
+                <td id="p-gunes-28"></td>
+                <td id="p-ogle-28"></td>
+                <td id="p-ikindi-28"></td>
+                <td id="p-aksam-28"></td>
+                <td id="p-yatsi-28"></td> 
+              </tr>
+
+              <tr id="tr-vakit-29">
+                <td id="p-tarih-29"></td> 
+                <td id="p-imsak-29"></td>
+                <td id="p-gunes-29"></td>
+                <td id="p-ogle-29"></td>
+                <td id="p-ikindi-29"></td>
+                <td id="p-aksam-29"></td>
+                <td id="p-yatsi-29"></td> 
+              </tr>
+
+              <tr id="tr-vakit-30">
+                <td id="p-tarih-30"></td> 
+                <td id="p-imsak-30"></td>
+                <td id="p-gunes-30"></td>
+                <td id="p-ogle-30"></td>
+                <td id="p-ikindi-30"></td>
+                <td id="p-aksam-30"></td>
+                <td id="p-yatsi-30"></td> 
+              </tr>
+
+              <tr id="tr-vakit-31">
+                <td id="p-tarih-31"></td> 
+                <td id="p-imsak-31"></td>
+                <td id="p-gunes-31"></td>
+                <td id="p-ogle-31"></td>
+                <td id="p-ikindi-31"></td>
+                <td id="p-aksam-31"></td>
+                <td id="p-yatsi-31"></td> 
+              </tr>
+            </tbody>
+          </table>
+
+          <div class="row">
+            <a href="https://play.google.com/store/apps/details?id=io.haku.iftarvakitleri">
+              <img alt="Get it on Google Play" src="https://developer.android.com/images/brand/tr_generic_rgb_wo_45.png" />
+            </a>
+          </div><br /><br /><br />
+
+          <div class="row">
+
+            <div class="col-md-3">
+              <div class="fb-share-button" data-href="http://iftarvakitleri.org" data-layout="button_count"></div>
+            </div>
+
+            <div class="col-md-3">
+              <a class="twitter-hashtag-button" href="https://twitter.com/intent/tweet">Tivitle</a>
+            </div>
+
+            <div class="col-md-3"> 
+              <div class="g-plus" data-action="share"></div>
+            </div>
+              
+            <div class="col-md-3">
+              <script type="IN/Share" data-url="http://iftarvakitleri.org" data-counter="top"></script>
+            </div>
+          </div><br /><br />
 
 <!--               <div id="disqus_thread"></div>
-              <script type="text/javascript">
-                  /* * * CONFIGURATION VARIABLES * * */
-                  var disqus_shortname = 'iftarvakitleri';
-                  
-                  /* * * DON'T EDIT BELOW THIS LINE * * */
-                  (function() {
-                      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-                      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                  })();
-              </script>
-              <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript> -->
+          <script type="text/javascript">
+              /* * * CONFIGURATION VARIABLES * * */
+              var disqus_shortname = 'iftarvakitleri';
+              
+              /* * * DON'T EDIT BELOW THIS LINE * * */
+              (function() {
+                  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript> -->
 
-              <div class="fb-comments" data-href="http://iftarvakitleri.org" data-numposts="10"></div>
-            </div>
+          <div class="fb-comments" data-href="http://iftarvakitleri.org" data-numposts="10"></div>
         </div>
-    </section>
+    </div>
+</section>
+
+<section id="about" class="container content-section text-center">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2">
+      <br/><br/>
+      <h2 id="hava-durumu">
+        <span id="span-weather-country"></span>
+        <span id="span-weather-city"></span>
+        5 Günlük Hava Durumu
+      </h2>
+
+      <table class="table table-striped" id="table-hava-durumu">
+        <thead>
+          <tr>
+            <th class="th-namaz-vakitleri">Tarih/saat</th>
+            <th class="th-namaz-vakitleri">Sıcaklık</th>
+            <th class="th-namaz-vakitleri">Durum</th>
+            <th class="th-namaz-vakitleri"></th>
+            <th class="th-namaz-vakitleri">Nem</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+  </div>
+</section>
