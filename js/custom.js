@@ -3,11 +3,16 @@ var clock = $('.your-clock').FlipClock({
   defaultLanguage: 'tr',
   language: 'tr',
 });
+var _PROXY_SERVER_URL = 'https://warm-citadel-93183.herokuapp.com/proxy/{url}';
 
 var _OPEN_WEATHER_API_KEY = 'd0985731af499fa7eab5fa9e2238550e';
 var _OPEN_WEATHER_API_LAT_LON_URL = 'http://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={api_key}&lang=tr&units=metric';
 var _OPEN_WEATHER_API_CITY_URL = 'http://api.openweathermap.org/data/2.5/forecast?q={city},{country_code}&mode=json&appid={api_key}&lang=tr&units=metric';
 var _OPEN_WEATHER_ICON_URL = 'http://openweathermap.org/img/w/{icon_code}.png';
+
+var _DARK_SKY_API_KEY = 'a03645f9fff26b6189d43c83992211df';
+var _DARK_SKY_API_LAT_LON_URL = 'https://api.darksky.net/forecast/a03645f9fff26b6189d43c83992211df/{lat},{lon}?lang=tr&units=si';
+var _WEATHER_ICON_URL = '/img/ow/{icon_code}';
 
 var _FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
 var RAMAZAN_DATE_ = '2017-05-27';
@@ -47,7 +52,7 @@ jQuery( document ).ready(function( $ ) {
       var country = params['ulke'];
       var state = params['state'];
       getIftarTimeP(country, city, state);
-      getWeatherByCity(country, city);
+      getWeatherByCityOW(country, city);
     } else {
       console.log('Wrong url params');
     }
@@ -302,7 +307,8 @@ function showPosition(position) {
   };
   xhr.send();
 
-  getWeatherByLatLon(lat, lon);
+  getWeatherByLatLonOW(lat, lon);
+  //getWeatherByLatLonDarkSky(lat, lon);
 }
 
 function getIftarTimeP(country, city, state) {
@@ -598,10 +604,15 @@ function setTimerForVakit(
   clock.start();
 }
 
-function getWeatherByLatLon(lat, lon) {
+
+// USES OPEN WEATHER MAPS but this doesn't work on HTTPS.
+// Need https to be able to fetch the location.
+function getWeatherByLatLonOW(lat, lon) {
   var xhr = new XMLHttpRequest();
-  var weatherUrl = _OPEN_WEATHER_API_LAT_LON_URL.supplant(
-      {'lat': lat, 'lon': lon, 'api_key': _OPEN_WEATHER_API_KEY});
+  var weatherUrl = _PROXY_SERVER_URL.supplant({
+      'url': _OPEN_WEATHER_API_LAT_LON_URL.supplant(
+          {'lat': lat, 'lon': lon, 'api_key': _OPEN_WEATHER_API_KEY})
+  });
   xhr.open("GET", weatherUrl, true);
   xhr.onload = function() {
     var response = JSON.parse(xhr.responseText).list;
@@ -610,21 +621,23 @@ function getWeatherByLatLon(lat, lon) {
   xhr.send();
 }
 
-function getWeatherByCity(countryCode, city) {
+function getWeatherByCityOW(countryCode, city) {
   var xhr = new XMLHttpRequest();
-  var weatherUrl = _OPEN_WEATHER_API_CITY_URL.supplant({
-      'country_code': countryCode,
-      'city': city,
-      'api_key': _OPEN_WEATHER_API_KEY});
+  var weatherUrl = _PROXY_SERVER_URL.supplant({
+      'url': _OPEN_WEATHER_API_CITY_URL.supplant({
+          'country_code': countryCode,
+          'city': city,
+          'api_key': _OPEN_WEATHER_API_KEY})
+  });
   xhr.open("GET", weatherUrl, true);
   xhr.onload = function() {
     var response = JSON.parse(xhr.responseText).list;
-    setWeatherData(response);
+    setWeatherDataOW(response);
   };
   xhr.send();
 }
 
-function setWeatherData(response) {
+function setWeatherDataOW(response) {
   for (var i in response) {
       var hava = response[i];
       var rowsCode =( 
@@ -645,3 +658,39 @@ function setWeatherData(response) {
       $('#table-hava-durumu').append(rowsCode);
     }
 }
+
+// Using Dark sky net's API.
+// They only have lat lon API.
+// function getWeatherByLatLonDarkSky(lat, lon) {
+//   var xhr = new XMLHttpRequest();
+//   var weatherUrl = _DARK_SKY_API_LAT_LON_URL.supplant(
+//       {'lat': lat, 'lon': lon, 'api_key': _DARK_SKY_API_KEY});
+//   xhr.open("GET", weatherUrl, true);
+//   xhr.onload = function() {
+//     var response = JSON.parse(xhr.responseText);
+//     setWeatherDataDarkSky(response);
+//   };
+//   xhr.send();
+// }
+
+// function setWeatherDataDarkSky(response) {
+//   for (var i in response) {
+//       var hava = response[i];
+//       var rowsCode =( 
+//           '<tr id="tr-vakit-0">' +
+//           '  <td id="p-tarih-0">{date}</td>' +
+//           '  <td id="p-sicaklik-0">{temp} &#8451;</td>' +
+//           '  <td id="p-durum-0">{description}</td>' +
+//           '  <td id="p-icon-0"><img src=' + _WEATHER_ICON_URL + '"{icon_url}"></td>' +
+//           '  <td id="p-durum-0">{humidity}</td>' +
+//           '</tr>').supplant({
+//               'date': hava.dt_txt,
+//               'temp': hava.main.temp,
+//               'description': hava.weather[0].description,
+//               'icon_url': _WEATHER_ICON_URL.supplant({
+//                   'icon_code': hava.weather[0].icon}),
+//               'humidity': hava.main.humidity
+//           });
+//       $('#table-hava-durumu').append(rowsCode);
+//     }
+// }
