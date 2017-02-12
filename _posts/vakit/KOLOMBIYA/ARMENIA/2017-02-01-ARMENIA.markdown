@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ARMENIA, KOLOMBIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOLOMBIYA/ARMENIA
+---
+
+## ARMENIA (KOLOMBIYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ARMENIA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/ARMENIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+  var GLOBAL_CITY = 'ARMENIA';
+  var GLOBAL_STATE = 'ARMENIA';
+</script>

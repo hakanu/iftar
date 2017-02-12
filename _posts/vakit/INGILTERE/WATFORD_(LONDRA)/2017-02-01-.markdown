@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WATFORD_(LONDRA), INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/WATFORD_(LONDRA)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'WATFORD_(LONDRA)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

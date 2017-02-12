@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TOAMASINA, MADAGASKAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MADAGASKAR/TOAMASINA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
+  var GLOBAL_CITY = 'TOAMASINA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

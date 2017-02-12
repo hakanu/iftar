@@ -1,0 +1,24 @@
+---
+layout: vakit_dashboard
+title: DÜZCE, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/DÜZCE
+---
+
+## DÜZCE (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [GÜMÜŞOVA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/GÜMÜŞOVA)
+* [CUMAYERİ (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/CUMAYERİ)
+* [GÖLYAKA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/GÖLYAKA)
+* [YIĞILCA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/YIĞILCA)
+* [DÜZCE (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/DÜZCE)
+* [ÇİLİMLİ (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/ÇİLİMLİ)
+* [AKÇAKOCA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/AKÇAKOCA)
+* [KAYNAŞLI (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/KAYNAŞLI)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'DÜZCE';
+  var GLOBAL_STATE = 'DÜZCE';
+</script>

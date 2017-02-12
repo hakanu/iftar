@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DERVENTA, BOSNA HERSEK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOSNA HERSEK/DERVENTA
+---
+
+## DERVENTA (BOSNA HERSEK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DERVENTA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/DERVENTA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+  var GLOBAL_CITY = 'DERVENTA';
+  var GLOBAL_STATE = 'DERVENTA';
+</script>

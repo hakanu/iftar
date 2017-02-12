@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: POORTUGAAL, HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/POORTUGAAL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'POORTUGAAL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

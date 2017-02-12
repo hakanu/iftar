@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: JABLANICA , BOSNA HERSEK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOSNA HERSEK/JABLANICA 
+---
+
+## JABLANICA  (BOSNA HERSEK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (JABLANICA_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/JABLANICA_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+  var GLOBAL_CITY = 'JABLANICA ';
+  var GLOBAL_STATE = 'JABLANICA ';
+</script>

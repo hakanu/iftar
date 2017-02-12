@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KUSHLA , BULGARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BULGARISTAN/KUSHLA 
+---
+
+## KUSHLA  (BULGARISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KUSHLA_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/KUSHLA_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
+  var GLOBAL_CITY = 'KUSHLA ';
+  var GLOBAL_STATE = 'KUSHLA ';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALPHEN_AAN_DEN_RIJN, HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/ALPHEN_AAN_DEN_RIJN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'ALPHEN_AAN_DEN_RIJN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PRAG, CEK CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEK CUMHURIYETI/PRAG
+---
+
+## PRAG (CEK CUMHURIYETI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PRAG, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/PRAG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+  var GLOBAL_CITY = 'PRAG';
+  var GLOBAL_STATE = 'PRAG';
+</script>

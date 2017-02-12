@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DESSEL, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/DESSEL
+---
+
+## DESSEL (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DESSEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/DESSEL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'DESSEL';
+  var GLOBAL_STATE = 'DESSEL';
+</script>

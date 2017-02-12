@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VANIMO, PAPUA_YENI_GINE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PAPUA_YENI_GINE/VANIMO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PAPUA_YENI_GINE';
+  var GLOBAL_CITY = 'VANIMO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

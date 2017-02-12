@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KOUMAC, YENI_KALEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YENI_KALEDONYA/KOUMAC/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YENI_KALEDONYA';
+  var GLOBAL_CITY = 'KOUMAC';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

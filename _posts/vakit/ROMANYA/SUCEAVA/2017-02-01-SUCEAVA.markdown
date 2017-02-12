@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SUCEAVA, ROMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ROMANYA/SUCEAVA
+---
+
+## SUCEAVA (ROMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SUCEAVA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SUCEAVA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ROMANYA';
+  var GLOBAL_CITY = 'SUCEAVA';
+  var GLOBAL_STATE = 'SUCEAVA';
+</script>

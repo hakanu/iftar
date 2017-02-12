@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ORURO, BOLIVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOLIVYA/ORURO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOLIVYA';
+  var GLOBAL_CITY = 'ORURO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

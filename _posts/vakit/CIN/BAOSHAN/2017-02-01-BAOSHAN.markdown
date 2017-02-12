@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BAOSHAN, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/BAOSHAN
+---
+
+## BAOSHAN (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BAOSHAN, CIN) için iftar ve namaz vakitleri](/CIN/BAOSHAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'BAOSHAN';
+  var GLOBAL_STATE = 'BAOSHAN';
+</script>

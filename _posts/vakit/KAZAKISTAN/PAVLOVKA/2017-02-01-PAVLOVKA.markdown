@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PAVLOVKA, KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/PAVLOVKA
+---
+
+## PAVLOVKA (KAZAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PAVLOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/PAVLOVKA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'PAVLOVKA';
+  var GLOBAL_STATE = 'PAVLOVKA';
+</script>

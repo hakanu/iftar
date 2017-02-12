@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TRIESTE, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/TRIESTE
+---
+
+## TRIESTE (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TRIESTE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRIESTE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'TRIESTE';
+  var GLOBAL_STATE = 'TRIESTE';
+</script>

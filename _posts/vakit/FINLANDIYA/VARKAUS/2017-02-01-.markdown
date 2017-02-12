@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VARKAUS, FINLANDIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FINLANDIYA/VARKAUS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
+  var GLOBAL_CITY = 'VARKAUS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

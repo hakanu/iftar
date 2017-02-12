@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CAGAYAN_DE_ORO, FILIPINLER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILIPINLER/CAGAYAN_DE_ORO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILIPINLER';
+  var GLOBAL_CITY = 'CAGAYAN_DE_ORO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

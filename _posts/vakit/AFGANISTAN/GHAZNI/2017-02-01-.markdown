@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GHAZNI, AFGANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AFGANISTAN/GHAZNI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
+  var GLOBAL_CITY = 'GHAZNI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

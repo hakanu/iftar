@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CAPE COAST, GANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GANA/CAPE COAST
+---
+
+## CAPE COAST (GANA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CAPE_COAST, GANA) için iftar ve namaz vakitleri](/GANA/CAPE_COAST/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GANA';
+  var GLOBAL_CITY = 'CAPE COAST';
+  var GLOBAL_STATE = 'CAPE COAST';
+</script>

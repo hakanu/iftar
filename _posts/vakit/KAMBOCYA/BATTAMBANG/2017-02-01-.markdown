@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BATTAMBANG, KAMBOCYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAMBOCYA/BATTAMBANG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
+  var GLOBAL_CITY = 'BATTAMBANG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

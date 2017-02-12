@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KARLSRUHE, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/KARLSRUHE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'KARLSRUHE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

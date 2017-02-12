@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BEESKOW, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BEESKOW
+---
+
+## BEESKOW (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BEESKOW, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEESKOW/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'BEESKOW';
+  var GLOBAL_STATE = 'BEESKOW';
+</script>

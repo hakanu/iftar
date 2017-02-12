@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BARIPADA, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/BARIPADA
+---
+
+## BARIPADA (HINDISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BARIPADA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BARIPADA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'BARIPADA';
+  var GLOBAL_STATE = 'BARIPADA';
+</script>

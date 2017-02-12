@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PONTA_DELGADA, PORTEKIZ için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PORTEKIZ/PONTA_DELGADA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
+  var GLOBAL_CITY = 'PONTA_DELGADA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

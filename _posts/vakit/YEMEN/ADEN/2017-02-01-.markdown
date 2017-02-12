@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ADEN, YEMEN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YEMEN/ADEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YEMEN';
+  var GLOBAL_CITY = 'ADEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

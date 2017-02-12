@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KOMRAT, MOLDAVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOLDAVYA/KOMRAT/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
+  var GLOBAL_CITY = 'KOMRAT';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

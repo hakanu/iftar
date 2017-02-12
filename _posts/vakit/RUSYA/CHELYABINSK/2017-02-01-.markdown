@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHELYABINSK, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/CHELYABINSK/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'CHELYABINSK';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

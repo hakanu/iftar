@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GARGES_LES_GONESSE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/GARGES_LES_GONESSE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'GARGES_LES_GONESSE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

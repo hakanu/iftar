@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GODOLLO, MACARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MACARISTAN/GODOLLO
+---
+
+## GODOLLO (MACARISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GODOLLO, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/GODOLLO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MACARISTAN';
+  var GLOBAL_CITY = 'GODOLLO';
+  var GLOBAL_STATE = 'GODOLLO';
+</script>

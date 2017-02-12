@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: COMODORA_RIVADAVIA, ARJANTIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARJANTIN/COMODORA_RIVADAVIA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARJANTIN';
+  var GLOBAL_CITY = 'COMODORA_RIVADAVIA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

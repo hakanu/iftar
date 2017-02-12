@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MARDİN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MARDİN/KIZILTEPE
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'MARDİN';
+  var GLOBAL_STATE = 'KIZILTEPE';
+  var lat = 72;
+  var lon = 21;
+</script>

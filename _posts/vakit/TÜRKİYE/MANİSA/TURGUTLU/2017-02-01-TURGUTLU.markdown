@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MANİSA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MANİSA/TURGUTLU
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'MANİSA';
+  var GLOBAL_STATE = 'TURGUTLU';
+  var lat = 72;
+  var lon = 21;
+</script>

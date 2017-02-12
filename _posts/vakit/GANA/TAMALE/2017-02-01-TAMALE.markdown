@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TAMALE, GANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GANA/TAMALE
+---
+
+## TAMALE (GANA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TAMALE, GANA) için iftar ve namaz vakitleri](/GANA/TAMALE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GANA';
+  var GLOBAL_CITY = 'TAMALE';
+  var GLOBAL_STATE = 'TAMALE';
+</script>

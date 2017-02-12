@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LIEPAJA, LETONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LETONYA/LIEPAJA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LETONYA';
+  var GLOBAL_CITY = 'LIEPAJA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

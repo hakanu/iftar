@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MALAGA, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/MALAGA
+---
+
+## MALAGA (ISPANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MALAGA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/MALAGA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'MALAGA';
+  var GLOBAL_STATE = 'MALAGA';
+</script>

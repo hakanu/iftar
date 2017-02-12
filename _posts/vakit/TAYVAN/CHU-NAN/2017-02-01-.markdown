@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHU-NAN, TAYVAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYVAN/CHU-NAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYVAN';
+  var GLOBAL_CITY = 'CHU-NAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

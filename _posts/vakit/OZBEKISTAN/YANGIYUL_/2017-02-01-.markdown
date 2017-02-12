@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: YANGIYUL_, OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/YANGIYUL_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'YANGIYUL_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

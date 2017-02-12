@@ -1,0 +1,32 @@
+<section id="home">
+  <!-- Header -->
+  <div class="intro-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="intro-message">
+            <!-- <h1>{{ page.title }}</h1> -->
+            <div class="row">
+              <div class="your-clock"></div>
+            </div>
+            <h3>
+              <span class="subtitle">
+                {{ page.subTitle }}
+              </span> <sup><a href="#hava-durumu">hava durumu</a></sup>
+            </h3>
+            <span>
+              <h4>
+                <a href="#disclaimer" style="color:blue;"> *</a>
+              </h4>
+            </span>
+            <hr class="intro-divider">
+            <h4 id="today-date"></h4>
+            <p id="today-date-hicri"><b>Hicri: </b></p>
+            <p id="p-belirli-gun"></p>
+          </div>
+        </div>
+        {% include adsense.html %}
+      </div>
+    </div> <!-- /.container -->
+  </div> <!-- /.intro-header -->
+</section>

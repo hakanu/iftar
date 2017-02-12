@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ODAWARA, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/ODAWARA
+---
+
+## ODAWARA (JAPONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ODAWARA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ODAWARA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'ODAWARA';
+  var GLOBAL_STATE = 'ODAWARA';
+</script>

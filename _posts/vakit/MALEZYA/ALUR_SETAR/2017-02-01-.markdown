@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALUR_SETAR, MALEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALEZYA/ALUR_SETAR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALEZYA';
+  var GLOBAL_CITY = 'ALUR_SETAR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

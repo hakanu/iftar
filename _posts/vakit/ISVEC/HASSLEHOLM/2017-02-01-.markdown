@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HASSLEHOLM, ISVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVEC/HASSLEHOLM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVEC';
+  var GLOBAL_CITY = 'HASSLEHOLM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

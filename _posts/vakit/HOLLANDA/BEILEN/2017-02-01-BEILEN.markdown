@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BEILEN, HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/BEILEN
+---
+
+## BEILEN (HOLLANDA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BEILEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEILEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'BEILEN';
+  var GLOBAL_STATE = 'BEILEN';
+</script>

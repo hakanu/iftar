@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SHIJIAZHUANG_(_HEBEI_), CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/SHIJIAZHUANG_(_HEBEI_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'SHIJIAZHUANG_(_HEBEI_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

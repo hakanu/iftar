@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ROXAS, FILIPINLER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILIPINLER/ROXAS
+---
+
+## ROXAS (FILIPINLER) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ROXAS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ROXAS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILIPINLER';
+  var GLOBAL_CITY = 'ROXAS';
+  var GLOBAL_STATE = 'ROXAS';
+</script>

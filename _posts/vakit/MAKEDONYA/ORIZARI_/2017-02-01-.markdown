@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ORIZARI_, MAKEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKEDONYA/ORIZARI_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
+  var GLOBAL_CITY = 'ORIZARI_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

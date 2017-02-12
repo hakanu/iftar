@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GOTTMADINGEN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GOTTMADINGEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GOTTMADINGEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

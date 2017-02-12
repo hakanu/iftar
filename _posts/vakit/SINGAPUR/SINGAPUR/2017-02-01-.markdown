@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SINGAPUR, SINGAPUR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SINGAPUR/SINGAPUR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SINGAPUR';
+  var GLOBAL_CITY = 'SINGAPUR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: URMIA, IRAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAN/URMIA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAN';
+  var GLOBAL_CITY = 'URMIA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

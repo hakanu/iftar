@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ITAPETININGA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/ITAPETININGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'ITAPETININGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

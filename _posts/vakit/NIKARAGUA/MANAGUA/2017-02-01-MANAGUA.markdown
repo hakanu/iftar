@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MANAGUA, NIKARAGUA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIKARAGUA/MANAGUA
+---
+
+## MANAGUA (NIKARAGUA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MANAGUA, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/MANAGUA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
+  var GLOBAL_CITY = 'MANAGUA';
+  var GLOBAL_STATE = 'MANAGUA';
+</script>

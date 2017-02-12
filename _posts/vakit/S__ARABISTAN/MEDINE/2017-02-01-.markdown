@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MEDINE, S__ARABISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /S__ARABISTAN/MEDINE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'S__ARABISTAN';
+  var GLOBAL_CITY = 'MEDINE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

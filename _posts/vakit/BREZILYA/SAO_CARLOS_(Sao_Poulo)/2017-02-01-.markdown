@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAO_CARLOS_(Sao_Poulo), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/SAO_CARLOS_(Sao_Poulo)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'SAO_CARLOS_(Sao_Poulo)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

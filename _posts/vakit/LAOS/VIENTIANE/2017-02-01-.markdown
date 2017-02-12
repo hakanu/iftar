@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VIENTIANE, LAOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LAOS/VIENTIANE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LAOS';
+  var GLOBAL_CITY = 'VIENTIANE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

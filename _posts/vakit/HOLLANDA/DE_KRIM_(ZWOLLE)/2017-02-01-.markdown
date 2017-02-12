@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DE_KRIM_(ZWOLLE), HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/DE_KRIM_(ZWOLLE)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'DE_KRIM_(ZWOLLE)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

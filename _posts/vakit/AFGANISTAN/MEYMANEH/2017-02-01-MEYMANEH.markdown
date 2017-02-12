@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MEYMANEH, AFGANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AFGANISTAN/MEYMANEH
+---
+
+## MEYMANEH (AFGANISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MEYMANEH, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/MEYMANEH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
+  var GLOBAL_CITY = 'MEYMANEH';
+  var GLOBAL_STATE = 'MEYMANEH';
+</script>

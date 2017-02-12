@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NEBIT DAG, TURKMENISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TURKMENISTAN/NEBIT DAG
+---
+
+## NEBIT DAG (TURKMENISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NEBIT_DAG, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/NEBIT_DAG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+  var GLOBAL_CITY = 'NEBIT DAG';
+  var GLOBAL_STATE = 'NEBIT DAG';
+</script>

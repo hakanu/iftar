@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VENEDIK, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/VENEDIK
+---
+
+## VENEDIK (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VENEDIK, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VENEDIK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'VENEDIK';
+  var GLOBAL_STATE = 'VENEDIK';
+</script>

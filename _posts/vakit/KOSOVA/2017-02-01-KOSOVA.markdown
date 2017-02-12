@@ -1,0 +1,25 @@
+---
+layout: generated_md
+title: KOSOVA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /KOSOVA
+---
+
+## KOSOVA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [İPEK (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/İPEK)
+* [OBİLİÇ (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/OBİLİÇ)
+* [YANOVA (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/YANOVA)
+* [PRİZREN (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/PRİZREN)
+* [LİPYAN (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/LİPYAN)
+* [PRİSTİNE (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/PRİSTİNE)
+* [İSTOK_ (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/İSTOK_)
+* [RAHOFÇA (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/RAHOFÇA)
+* [GİLAN (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/GİLAN)
+* [FERİZOVİK (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/FERİZOVİK)
+* [KAÇANİK (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/KAÇANİK)
+* [MİTROVİÇA (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/MİTROVİÇA)
+* [JUR_ (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/JUR_)
+* [SUHAREKA (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/SUHAREKA)
+* [YAKOVA (KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/YAKOVA)

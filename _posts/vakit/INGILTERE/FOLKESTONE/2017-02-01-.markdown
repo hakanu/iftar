@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: FOLKESTONE, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/FOLKESTONE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'FOLKESTONE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

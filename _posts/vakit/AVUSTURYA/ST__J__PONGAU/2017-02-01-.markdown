@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ST__J__PONGAU, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/ST__J__PONGAU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'ST__J__PONGAU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

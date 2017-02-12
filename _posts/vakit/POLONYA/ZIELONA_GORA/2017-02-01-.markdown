@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZIELONA_GORA, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/ZIELONA_GORA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'ZIELONA_GORA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

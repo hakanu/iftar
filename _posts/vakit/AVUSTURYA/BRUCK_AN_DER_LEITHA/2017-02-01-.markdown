@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BRUCK_AN_DER_LEITHA, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/BRUCK_AN_DER_LEITHA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'BRUCK_AN_DER_LEITHA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

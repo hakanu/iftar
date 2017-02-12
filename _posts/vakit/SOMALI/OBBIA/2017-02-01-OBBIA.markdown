@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: OBBIA, SOMALI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SOMALI/OBBIA
+---
+
+## OBBIA (SOMALI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (OBBIA, SOMALI) için iftar ve namaz vakitleri](/SOMALI/OBBIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SOMALI';
+  var GLOBAL_CITY = 'OBBIA';
+  var GLOBAL_STATE = 'OBBIA';
+</script>

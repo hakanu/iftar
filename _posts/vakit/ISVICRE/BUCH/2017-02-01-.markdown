@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BUCH, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/BUCH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'BUCH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

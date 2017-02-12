@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALI_SABIH, CIBUTI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIBUTI/ALI_SABIH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIBUTI';
+  var GLOBAL_CITY = 'ALI_SABIH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BESANCON, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/BESANCON/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'BESANCON';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

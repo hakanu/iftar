@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ELST_(Nijmegen), HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/ELST_(Nijmegen)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'ELST_(Nijmegen)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

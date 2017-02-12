@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KISHINEV, MOLDAVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOLDAVYA/KISHINEV/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
+  var GLOBAL_CITY = 'KISHINEV';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

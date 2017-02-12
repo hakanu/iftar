@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BANGKOK, TAYLAND için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYLAND/BANGKOK/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYLAND';
+  var GLOBAL_CITY = 'BANGKOK';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

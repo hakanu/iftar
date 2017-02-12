@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SALMIYA_(AS_SALIMIYAH), KUVEYT için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUVEYT/SALMIYA_(AS_SALIMIYAH)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUVEYT';
+  var GLOBAL_CITY = 'SALMIYA_(AS_SALIMIYAH)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

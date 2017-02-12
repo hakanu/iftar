@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BARTIN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/BARTIN/ULUS
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'BARTIN';
+  var GLOBAL_STATE = 'ULUS';
+  var lat = 72;
+  var lon = 21;
+</script>

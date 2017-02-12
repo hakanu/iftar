@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HAVANA, KUBA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUBA/HAVANA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUBA';
+  var GLOBAL_CITY = 'HAVANA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

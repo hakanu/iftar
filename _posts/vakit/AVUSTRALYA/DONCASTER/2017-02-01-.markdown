@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DONCASTER, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/DONCASTER/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'DONCASTER';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

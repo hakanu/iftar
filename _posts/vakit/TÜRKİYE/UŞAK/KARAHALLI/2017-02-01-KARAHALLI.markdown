@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: UŞAK, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/UŞAK/KARAHALLI
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'UŞAK';
+  var GLOBAL_STATE = 'KARAHALLI';
+  var lat = 72;
+  var lon = 21;
+</script>

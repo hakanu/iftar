@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BERWICK, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/BERWICK
+---
+
+## BERWICK (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BERWICK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BERWICK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'BERWICK';
+  var GLOBAL_STATE = 'BERWICK';
+</script>

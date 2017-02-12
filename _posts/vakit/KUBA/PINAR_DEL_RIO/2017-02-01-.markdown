@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PINAR_DEL_RIO, KUBA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUBA/PINAR_DEL_RIO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUBA';
+  var GLOBAL_CITY = 'PINAR_DEL_RIO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

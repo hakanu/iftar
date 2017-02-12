@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ŞIRNAK, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ŞIRNAK/CİZRE
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ŞIRNAK';
+  var GLOBAL_STATE = 'CİZRE';
+  var lat = 72;
+  var lon = 21;
+</script>

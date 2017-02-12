@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RAVENNA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/RAVENNA
+---
+
+## RAVENNA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RAVENNA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RAVENNA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'RAVENNA';
+  var GLOBAL_STATE = 'RAVENNA';
+</script>

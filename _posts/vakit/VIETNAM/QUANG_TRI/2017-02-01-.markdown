@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: QUANG_TRI, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/QUANG_TRI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'QUANG_TRI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

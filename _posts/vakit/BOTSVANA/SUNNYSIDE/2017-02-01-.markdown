@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SUNNYSIDE, BOTSVANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOTSVANA/SUNNYSIDE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOTSVANA';
+  var GLOBAL_CITY = 'SUNNYSIDE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

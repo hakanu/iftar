@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TROUVILLE_(H-N), FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/TROUVILLE_(H-N)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'TROUVILLE_(H-N)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

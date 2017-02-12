@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEVTONOVSKIY, TURKMENISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TURKMENISTAN/NEVTONOVSKIY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+  var GLOBAL_CITY = 'NEVTONOVSKIY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

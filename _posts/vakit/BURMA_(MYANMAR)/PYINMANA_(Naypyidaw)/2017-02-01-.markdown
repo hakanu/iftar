@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PYINMANA_(Naypyidaw), BURMA_(MYANMAR) için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BURMA_(MYANMAR)/PYINMANA_(Naypyidaw)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BURMA_(MYANMAR)';
+  var GLOBAL_CITY = 'PYINMANA_(Naypyidaw)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

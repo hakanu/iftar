@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALTDORF_B__NURNBERG, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ALTDORF_B__NURNBERG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ALTDORF_B__NURNBERG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

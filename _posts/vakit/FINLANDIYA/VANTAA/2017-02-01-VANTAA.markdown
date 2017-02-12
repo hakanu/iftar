@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VANTAA, FINLANDIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FINLANDIYA/VANTAA
+---
+
+## VANTAA (FINLANDIYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VANTAA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/VANTAA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
+  var GLOBAL_CITY = 'VANTAA';
+  var GLOBAL_STATE = 'VANTAA';
+</script>

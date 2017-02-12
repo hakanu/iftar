@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MECHERNICH, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/MECHERNICH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'MECHERNICH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

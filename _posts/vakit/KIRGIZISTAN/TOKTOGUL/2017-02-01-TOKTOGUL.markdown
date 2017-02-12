@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TOKTOGUL, KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/TOKTOGUL
+---
+
+## TOKTOGUL (KIRGIZISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TOKTOGUL, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/TOKTOGUL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'TOKTOGUL';
+  var GLOBAL_STATE = 'TOKTOGUL';
+</script>

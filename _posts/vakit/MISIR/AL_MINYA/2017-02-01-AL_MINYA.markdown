@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AL MINYA, MISIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MISIR/AL MINYA
+---
+
+## AL MINYA (MISIR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AL_MINYA, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_MINYA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MISIR';
+  var GLOBAL_CITY = 'AL MINYA';
+  var GLOBAL_STATE = 'AL MINYA';
+</script>

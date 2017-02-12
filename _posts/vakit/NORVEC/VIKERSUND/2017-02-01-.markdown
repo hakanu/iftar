@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VIKERSUND, NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/VIKERSUND/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'VIKERSUND';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

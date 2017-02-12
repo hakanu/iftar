@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DOHA, KATAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KATAR/DOHA
+---
+
+## DOHA (KATAR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DOHA, KATAR) için iftar ve namaz vakitleri](/KATAR/DOHA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KATAR';
+  var GLOBAL_CITY = 'DOHA';
+  var GLOBAL_STATE = 'DOHA';
+</script>

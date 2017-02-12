@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TAWAI, MALEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALEZYA/TAWAI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALEZYA';
+  var GLOBAL_CITY = 'TAWAI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: OSKEMEN, KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/OSKEMEN
+---
+
+## OSKEMEN (KAZAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (OSKEMEN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/OSKEMEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'OSKEMEN';
+  var GLOBAL_STATE = 'OSKEMEN';
+</script>

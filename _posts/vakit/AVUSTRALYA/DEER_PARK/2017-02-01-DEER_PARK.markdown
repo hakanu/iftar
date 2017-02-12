@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DEER PARK, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/DEER PARK
+---
+
+## DEER PARK (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DEER_PARK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DEER_PARK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'DEER PARK';
+  var GLOBAL_STATE = 'DEER PARK';
+</script>

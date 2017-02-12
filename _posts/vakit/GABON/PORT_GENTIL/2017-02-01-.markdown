@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PORT_GENTIL, GABON için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GABON/PORT_GENTIL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GABON';
+  var GLOBAL_CITY = 'PORT_GENTIL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

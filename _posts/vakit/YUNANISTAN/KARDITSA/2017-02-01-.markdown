@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KARDITSA, YUNANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YUNANISTAN/KARDITSA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
+  var GLOBAL_CITY = 'KARDITSA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

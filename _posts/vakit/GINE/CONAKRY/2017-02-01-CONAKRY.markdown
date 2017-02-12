@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CONAKRY, GINE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GINE/CONAKRY
+---
+
+## CONAKRY (GINE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CONAKRY, GINE) için iftar ve namaz vakitleri](/GINE/CONAKRY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GINE';
+  var GLOBAL_CITY = 'CONAKRY';
+  var GLOBAL_STATE = 'CONAKRY';
+</script>

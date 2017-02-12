@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AR_RAMADI, IRAK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAK/AR_RAMADI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAK';
+  var GLOBAL_CITY = 'AR_RAMADI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

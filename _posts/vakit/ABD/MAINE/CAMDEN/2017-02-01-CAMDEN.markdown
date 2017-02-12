@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MAINE, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/MAINE/CAMDEN
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'MAINE';
+  var GLOBAL_STATE = 'CAMDEN';
+  var lat = 72;
+  var lon = 21;
+</script>

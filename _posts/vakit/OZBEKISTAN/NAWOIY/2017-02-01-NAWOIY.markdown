@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NAWOIY, OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/NAWOIY
+---
+
+## NAWOIY (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NAWOIY, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/NAWOIY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'NAWOIY';
+  var GLOBAL_STATE = 'NAWOIY';
+</script>

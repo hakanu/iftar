@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALGHERO, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/ALGHERO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'ALGHERO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

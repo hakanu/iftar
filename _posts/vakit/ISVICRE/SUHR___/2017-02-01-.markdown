@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SUHR___, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/SUHR___/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'SUHR___';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

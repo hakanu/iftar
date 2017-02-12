@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BOSE, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/BOSE
+---
+
+## BOSE (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BOSE, CIN) için iftar ve namaz vakitleri](/CIN/BOSE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'BOSE';
+  var GLOBAL_STATE = 'BOSE';
+</script>

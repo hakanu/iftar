@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ACQUI_TERME, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/ACQUI_TERME/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'ACQUI_TERME';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

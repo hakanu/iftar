@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WILHELMSHAVEN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WILHELMSHAVEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WILHELMSHAVEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

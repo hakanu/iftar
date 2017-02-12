@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SMEDEREVSKA_PALANKA_, SIRBISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SIRBISTAN/SMEDEREVSKA_PALANKA_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
+  var GLOBAL_CITY = 'SMEDEREVSKA_PALANKA_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

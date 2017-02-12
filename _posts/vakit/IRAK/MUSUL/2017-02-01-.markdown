@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MUSUL, IRAK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAK/MUSUL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAK';
+  var GLOBAL_CITY = 'MUSUL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

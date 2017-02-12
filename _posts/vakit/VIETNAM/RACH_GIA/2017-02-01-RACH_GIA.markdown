@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RACH GIA, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/RACH GIA
+---
+
+## RACH GIA (VIETNAM) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RACH_GIA, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/RACH_GIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'RACH GIA';
+  var GLOBAL_STATE = 'RACH GIA';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KAMPALA, UGANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UGANDA/KAMPALA
+---
+
+## KAMPALA (UGANDA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KAMPALA, UGANDA) için iftar ve namaz vakitleri](/UGANDA/KAMPALA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UGANDA';
+  var GLOBAL_CITY = 'KAMPALA';
+  var GLOBAL_STATE = 'KAMPALA';
+</script>

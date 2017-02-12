@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CARNOT, ORTA AFRIKA CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ORTA AFRIKA CUMHURIYETI/CARNOT
+---
+
+## CARNOT (ORTA AFRIKA CUMHURIYETI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CARNOT, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/CARNOT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
+  var GLOBAL_CITY = 'CARNOT';
+  var GLOBAL_STATE = 'CARNOT';
+</script>

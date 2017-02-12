@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TAMBOV, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/TAMBOV
+---
+
+## TAMBOV (RUSYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TAMBOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TAMBOV/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'TAMBOV';
+  var GLOBAL_STATE = 'TAMBOV';
+</script>

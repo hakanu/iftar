@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VASILKOV, UKRAYNA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA/VASILKOV
+---
+
+## VASILKOV (UKRAYNA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VASILKOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VASILKOV/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA';
+  var GLOBAL_CITY = 'VASILKOV';
+  var GLOBAL_STATE = 'VASILKOV';
+</script>

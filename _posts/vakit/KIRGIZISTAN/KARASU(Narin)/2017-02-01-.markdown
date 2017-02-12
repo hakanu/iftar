@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KARASU(Narin), KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/KARASU(Narin)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'KARASU(Narin)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

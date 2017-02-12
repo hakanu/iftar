@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LIER, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/LIER/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'LIER';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

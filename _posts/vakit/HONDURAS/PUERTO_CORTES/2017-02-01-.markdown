@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PUERTO_CORTES, HONDURAS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HONDURAS/PUERTO_CORTES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HONDURAS';
+  var GLOBAL_CITY = 'PUERTO_CORTES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

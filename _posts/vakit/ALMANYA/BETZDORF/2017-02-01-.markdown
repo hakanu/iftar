@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BETZDORF, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BETZDORF/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'BETZDORF';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

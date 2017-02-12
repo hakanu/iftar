@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GESEKE, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GESEKE
+---
+
+## GESEKE (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GESEKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GESEKE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GESEKE';
+  var GLOBAL_STATE = 'GESEKE';
+</script>

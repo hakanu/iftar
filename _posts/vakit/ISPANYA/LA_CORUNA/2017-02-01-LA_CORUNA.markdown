@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LA CORUNA, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/LA CORUNA
+---
+
+## LA CORUNA (ISPANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LA_CORUNA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/LA_CORUNA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'LA CORUNA';
+  var GLOBAL_STATE = 'LA CORUNA';
+</script>

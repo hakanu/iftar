@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RAAHE, FINLANDIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FINLANDIYA/RAAHE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
+  var GLOBAL_CITY = 'RAAHE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LAPU-LAPU, FILIPINLER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILIPINLER/LAPU-LAPU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILIPINLER';
+  var GLOBAL_CITY = 'LAPU-LAPU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

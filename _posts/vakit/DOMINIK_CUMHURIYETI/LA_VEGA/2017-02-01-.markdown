@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LA_VEGA, DOMINIK_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DOMINIK_CUMHURIYETI/LA_VEGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DOMINIK_CUMHURIYETI';
+  var GLOBAL_CITY = 'LA_VEGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

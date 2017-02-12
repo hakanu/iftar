@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NAMPULA, MOZAMBIK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOZAMBIK/NAMPULA
+---
+
+## NAMPULA (MOZAMBIK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NAMPULA, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/NAMPULA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOZAMBIK';
+  var GLOBAL_CITY = 'NAMPULA';
+  var GLOBAL_STATE = 'NAMPULA';
+</script>

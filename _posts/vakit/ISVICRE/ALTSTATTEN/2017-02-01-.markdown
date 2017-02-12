@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALTSTATTEN, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/ALTSTATTEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'ALTSTATTEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

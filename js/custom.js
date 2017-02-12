@@ -18,6 +18,10 @@ var _FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
 var RAMAZAN_DATE_ = '2017-05-27';
 var RAMAZAN_LAST_DATE_ = '2017-06-25';
 
+var GLOBAL_COUNTRY = null;
+var GLOBAL_CITY = null;
+var GLOBAL_STATE = null;
+
 jQuery( document ).ready(function( $ ) {
   console.log('  _[]    __   _                         _                    ');
   console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
@@ -32,7 +36,8 @@ jQuery( document ).ready(function( $ ) {
   if(currentUrl.indexOf('/iftar/') == -1 &&
      currentUrl.indexOf('/iftar.html') == -1 &&
      currentUrl.indexOf('/ulkeler.html') == -1 &&
-     currentUrl.indexOf('/bilgi/') == -1) {
+     currentUrl.indexOf('/bilgi/') == -1 &&
+     GLOBAL_COUNTRY == null && GLOBAL_CITY == null) {
     $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
     setHicriTarih(hicriTarih);
@@ -53,6 +58,13 @@ jQuery( document ).ready(function( $ ) {
       var state = params['state'];
       getIftarTimeP(country, city, state);
       getWeatherByCityOW(country, city);
+    } else if (GLOBAL_COUNTRY != null && GLOBAL_CITY != null) {
+      $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+      setIftarTitle(GLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
+      setWeatherTitle(GLOBAL_COUNTRY, GLOBAL_CITY)
+      setHicriTarih(hicriTarih);
+      getIftarTimeP(GLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
+      getWeatherByCityOW(GLOBAL_COUNTRY, GLOBAL_CITY);
     } else {
       console.log('Wrong url params');
     }
@@ -98,7 +110,21 @@ String.prototype.supplant = function (o) {
 };
 
 String.prototype.capitalize = function() {
-    return this.charAt(0).toUpperCase().replace('İ̇', 'İ') + this.toLowerCase().slice(1);
+    return this.charAt(0).toUpperCase() + this.toLowerCase().slice(1);
+}
+
+String.prototype.turkishToUpper = function() {
+  var string = this;
+  var letters = { "i": "İ", "ş": "Ş", "ğ": "Ğ", "ü": "Ü", "ö": "Ö", "ç": "Ç", "ı": "I" };
+  string = string.replace(/(([iışğüçö]))/g, function(letter){ return letters[letter]; })
+  return string.toUpperCase();
+}
+
+String.prototype.turkishToLower = function() {
+  var string = this;
+  var letters = { "İ": "i", "I": "ı", "Ş": "ş", "Ğ": "ğ", "Ü": "ü", "Ö": "ö", "Ç": "ç" };
+  string = string.replace(/(([İIŞĞÜÇÖ]))/g, function(letter){ return letters[letter]; })
+  return string.toLowerCase();
 }
 
 function getJsonFromUrl() {
@@ -296,8 +322,8 @@ function showPosition(position) {
     var response = JSON.parse(xhr.responseText);
     console.log(response);
     console.log(response.query);
-    var city = response.query.results.ResultSet.Result.city;
-    var country = response.query.results.ResultSet.Result.country;
+    var city = response.query.results.ResultSet.Result.city.turkishToUpper();
+    var country = response.query.results.ResultSet.Result.country.turkishToUpper();
     var state = null;
     console.log('city: ' + city);
     console.log('country: ' + country);
@@ -321,10 +347,17 @@ function getIftarTimeP(country, city, state) {
   console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   var xhr = new XMLHttpRequest();
 
-  var url = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{date}.json'.supplant({
+  // This is Diyanet style - they count city as one of the state as well.
+  // If no state is given, go with city.
+  if (state == null) {
+    state = city;
+  }
+
+  var url = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{state}/{date}.json'.supplant({
       'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
-      'country': encodeURIComponent(country.toUpperCase().replace('İ', 'I')),
-      'city': encodeURIComponent(city.toUpperCase().replace('İ', 'I')),
+      'country': encodeURIComponent(country),
+      'city': encodeURIComponent(city),
+      'state': encodeURIComponent(state),
   });
 
   xhr.open("GET", url, true);

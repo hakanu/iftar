@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TACLOBAN, FILIPINLER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILIPINLER/TACLOBAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILIPINLER';
+  var GLOBAL_CITY = 'TACLOBAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

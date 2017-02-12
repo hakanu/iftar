@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: XAM_NUA, LAOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LAOS/XAM_NUA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LAOS';
+  var GLOBAL_CITY = 'XAM_NUA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

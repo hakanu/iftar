@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ISERNHAGEN_F_B_, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ISERNHAGEN_F_B_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ISERNHAGEN_F_B_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

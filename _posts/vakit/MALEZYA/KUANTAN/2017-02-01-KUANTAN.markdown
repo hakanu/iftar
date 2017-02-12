@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KUANTAN, MALEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALEZYA/KUANTAN
+---
+
+## KUANTAN (MALEZYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KUANTAN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUANTAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALEZYA';
+  var GLOBAL_CITY = 'KUANTAN';
+  var GLOBAL_STATE = 'KUANTAN';
+</script>

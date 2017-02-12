@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CAMPO_GRANDE, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/CAMPO_GRANDE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'CAMPO_GRANDE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: FEYZIN, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/FEYZIN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'FEYZIN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

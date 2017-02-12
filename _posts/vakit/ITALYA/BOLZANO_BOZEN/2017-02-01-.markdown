@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BOLZANO_BOZEN, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/BOLZANO_BOZEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'BOLZANO_BOZEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

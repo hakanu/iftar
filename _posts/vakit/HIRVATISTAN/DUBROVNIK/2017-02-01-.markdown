@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DUBROVNIK, HIRVATISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HIRVATISTAN/DUBROVNIK/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+  var GLOBAL_CITY = 'DUBROVNIK';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

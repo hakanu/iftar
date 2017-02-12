@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PESHKOPI, ARNAVUTLUK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARNAVUTLUK/PESHKOPI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+  var GLOBAL_CITY = 'PESHKOPI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

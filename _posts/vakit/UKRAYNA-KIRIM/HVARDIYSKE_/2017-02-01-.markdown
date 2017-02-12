@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HVARDIYSKE_, UKRAYNA-KIRIM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA-KIRIM/HVARDIYSKE_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+  var GLOBAL_CITY = 'HVARDIYSKE_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

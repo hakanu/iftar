@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KHARAGPUR_(WEST_BENGAL), HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/KHARAGPUR_(WEST_BENGAL)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'KHARAGPUR_(WEST_BENGAL)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

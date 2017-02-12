@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VIBORG, DANIMARKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DANIMARKA/VIBORG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DANIMARKA';
+  var GLOBAL_CITY = 'VIBORG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

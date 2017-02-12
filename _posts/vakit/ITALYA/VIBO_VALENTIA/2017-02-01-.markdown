@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VIBO_VALENTIA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/VIBO_VALENTIA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'VIBO_VALENTIA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

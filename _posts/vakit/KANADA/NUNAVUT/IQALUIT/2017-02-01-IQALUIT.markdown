@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NUNAVUT, KANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KANADA/NUNAVUT/IQALUIT
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KANADA';
+  var GLOBAL_CITY = 'NUNAVUT';
+  var GLOBAL_STATE = 'IQALUIT';
+  var lat = 72;
+  var lon = 21;
+</script>

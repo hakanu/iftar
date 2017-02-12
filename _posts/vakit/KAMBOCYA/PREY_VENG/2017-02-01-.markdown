@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PREY_VENG, KAMBOCYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAMBOCYA/PREY_VENG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
+  var GLOBAL_CITY = 'PREY_VENG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HALL_IN_TIROL, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/HALL_IN_TIROL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'HALL_IN_TIROL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

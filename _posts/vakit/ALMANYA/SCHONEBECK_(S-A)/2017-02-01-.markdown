@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SCHONEBECK_(S-A), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SCHONEBECK_(S-A)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SCHONEBECK_(S-A)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

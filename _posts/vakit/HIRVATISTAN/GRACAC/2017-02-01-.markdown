@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GRACAC, HIRVATISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HIRVATISTAN/GRACAC/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+  var GLOBAL_CITY = 'GRACAC';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

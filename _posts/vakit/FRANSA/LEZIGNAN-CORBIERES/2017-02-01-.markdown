@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LEZIGNAN-CORBIERES, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/LEZIGNAN-CORBIERES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'LEZIGNAN-CORBIERES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PORT_-AU_-PRINCE, HAITI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HAITI/PORT_-AU_-PRINCE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HAITI';
+  var GLOBAL_CITY = 'PORT_-AU_-PRINCE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

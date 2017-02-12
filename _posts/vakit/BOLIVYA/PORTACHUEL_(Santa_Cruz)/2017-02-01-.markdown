@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PORTACHUEL_(Santa_Cruz), BOLIVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOLIVYA/PORTACHUEL_(Santa_Cruz)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOLIVYA';
+  var GLOBAL_CITY = 'PORTACHUEL_(Santa_Cruz)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

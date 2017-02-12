@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NAGANO, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/NAGANO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'NAGANO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

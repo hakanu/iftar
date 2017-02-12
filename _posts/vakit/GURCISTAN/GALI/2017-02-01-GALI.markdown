@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GALI, GURCISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GURCISTAN/GALI
+---
+
+## GALI (GURCISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GALI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/GALI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GURCISTAN';
+  var GLOBAL_CITY = 'GALI';
+  var GLOBAL_STATE = 'GALI';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HISAR, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/HISAR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'HISAR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ZARAGOZA, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/ZARAGOZA
+---
+
+## ZARAGOZA (ISPANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ZARAGOZA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ZARAGOZA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'ZARAGOZA';
+  var GLOBAL_STATE = 'ZARAGOZA';
+</script>

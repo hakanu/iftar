@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KNOKKE-HEIST, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/KNOKKE-HEIST/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'KNOKKE-HEIST';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

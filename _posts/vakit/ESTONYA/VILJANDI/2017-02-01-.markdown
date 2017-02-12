@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VILJANDI, ESTONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ESTONYA/VILJANDI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ESTONYA';
+  var GLOBAL_CITY = 'VILJANDI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

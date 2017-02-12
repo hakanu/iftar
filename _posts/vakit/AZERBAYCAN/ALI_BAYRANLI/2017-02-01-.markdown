@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALI_BAYRANLI, AZERBAYCAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AZERBAYCAN/ALI_BAYRANLI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+  var GLOBAL_CITY = 'ALI_BAYRANLI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

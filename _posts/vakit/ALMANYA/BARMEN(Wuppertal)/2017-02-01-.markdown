@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BARMEN(Wuppertal), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BARMEN(Wuppertal)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'BARMEN(Wuppertal)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MALE, MALDIVLER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALDIVLER/MALE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALDIVLER';
+  var GLOBAL_CITY = 'MALE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

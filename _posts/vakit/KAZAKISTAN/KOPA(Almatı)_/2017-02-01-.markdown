@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KOPA(Almatı)_, KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/KOPA(Almatı)_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'KOPA(Almatı)_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

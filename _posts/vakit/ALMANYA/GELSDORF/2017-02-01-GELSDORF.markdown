@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GELSDORF, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GELSDORF
+---
+
+## GELSDORF (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GELSDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELSDORF/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GELSDORF';
+  var GLOBAL_STATE = 'GELSDORF';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MARAGHEH, IRAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAN/MARAGHEH
+---
+
+## MARAGHEH (IRAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MARAGHEH, IRAN) için iftar ve namaz vakitleri](/IRAN/MARAGHEH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAN';
+  var GLOBAL_CITY = 'MARAGHEH';
+  var GLOBAL_STATE = 'MARAGHEH';
+</script>

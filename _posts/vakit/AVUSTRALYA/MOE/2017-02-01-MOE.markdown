@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MOE, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/MOE
+---
+
+## MOE (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MOE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'MOE';
+  var GLOBAL_STATE = 'MOE';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MOUNT_GAMBIER, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/MOUNT_GAMBIER/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'MOUNT_GAMBIER';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

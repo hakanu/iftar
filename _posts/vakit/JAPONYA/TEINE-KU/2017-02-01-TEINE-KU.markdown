@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TEINE-KU, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/TEINE-KU
+---
+
+## TEINE-KU (JAPONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TEINE-KU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TEINE-KU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'TEINE-KU';
+  var GLOBAL_STATE = 'TEINE-KU';
+</script>

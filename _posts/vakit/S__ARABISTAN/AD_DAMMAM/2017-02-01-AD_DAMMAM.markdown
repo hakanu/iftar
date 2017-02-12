@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AD DAMMAM, S_ ARABISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /S_ ARABISTAN/AD DAMMAM
+---
+
+## AD DAMMAM (S_ ARABISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AD_DAMMAM, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/AD_DAMMAM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+  var GLOBAL_CITY = 'AD DAMMAM';
+  var GLOBAL_STATE = 'AD DAMMAM';
+</script>

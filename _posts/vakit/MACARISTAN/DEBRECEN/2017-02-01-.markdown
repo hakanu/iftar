@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DEBRECEN, MACARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MACARISTAN/DEBRECEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MACARISTAN';
+  var GLOBAL_CITY = 'DEBRECEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

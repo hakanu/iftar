@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZANZIBAR, TANZANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TANZANYA/ZANZIBAR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TANZANYA';
+  var GLOBAL_CITY = 'ZANZIBAR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

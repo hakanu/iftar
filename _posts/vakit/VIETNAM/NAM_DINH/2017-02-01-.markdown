@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NAM_DINH, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/NAM_DINH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'NAM_DINH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

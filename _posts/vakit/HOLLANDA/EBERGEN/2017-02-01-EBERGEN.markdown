@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: EBERGEN, HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/EBERGEN
+---
+
+## EBERGEN (HOLLANDA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (EBERGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EBERGEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'EBERGEN';
+  var GLOBAL_STATE = 'EBERGEN';
+</script>

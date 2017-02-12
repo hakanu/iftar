@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KUVEYT, KUVEYT için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUVEYT/KUVEYT
+---
+
+## KUVEYT (KUVEYT) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KUVEYT, KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/KUVEYT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUVEYT';
+  var GLOBAL_CITY = 'KUVEYT';
+  var GLOBAL_STATE = 'KUVEYT';
+</script>

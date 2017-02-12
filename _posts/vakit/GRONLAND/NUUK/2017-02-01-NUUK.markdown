@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NUUK, GRONLAND için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GRONLAND/NUUK
+---
+
+## NUUK (GRONLAND) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NUUK, GRONLAND) için iftar ve namaz vakitleri](/GRONLAND/NUUK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GRONLAND';
+  var GLOBAL_CITY = 'NUUK';
+  var GLOBAL_STATE = 'NUUK';
+</script>

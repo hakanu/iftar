@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BATIA, BENIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BENIN/BATIA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BENIN';
+  var GLOBAL_CITY = 'BATIA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HO_CHI_MINH_CITY, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/HO_CHI_MINH_CITY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'HO_CHI_MINH_CITY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

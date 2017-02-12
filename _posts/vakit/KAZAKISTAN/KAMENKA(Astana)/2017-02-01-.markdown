@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KAMENKA(Astana), KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/KAMENKA(Astana)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'KAMENKA(Astana)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

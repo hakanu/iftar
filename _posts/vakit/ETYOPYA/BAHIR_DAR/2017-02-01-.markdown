@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BAHIR_DAR, ETYOPYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ETYOPYA/BAHIR_DAR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ETYOPYA';
+  var GLOBAL_CITY = 'BAHIR_DAR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

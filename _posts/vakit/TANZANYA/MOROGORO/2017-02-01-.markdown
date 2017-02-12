@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MOROGORO, TANZANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TANZANYA/MOROGORO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TANZANYA';
+  var GLOBAL_CITY = 'MOROGORO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

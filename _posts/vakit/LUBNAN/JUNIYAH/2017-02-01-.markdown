@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: JUNIYAH, LUBNAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LUBNAN/JUNIYAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LUBNAN';
+  var GLOBAL_CITY = 'JUNIYAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

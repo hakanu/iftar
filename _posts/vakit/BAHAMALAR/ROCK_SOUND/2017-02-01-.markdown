@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ROCK_SOUND, BAHAMALAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BAHAMALAR/ROCK_SOUND/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
+  var GLOBAL_CITY = 'ROCK_SOUND';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

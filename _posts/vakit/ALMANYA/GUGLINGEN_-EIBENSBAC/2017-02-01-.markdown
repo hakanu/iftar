@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GUGLINGEN_-EIBENSBAC, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GUGLINGEN_-EIBENSBAC/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GUGLINGEN_-EIBENSBAC';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

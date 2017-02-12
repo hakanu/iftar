@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BENTO_GONCALVES, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/BENTO_GONCALVES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'BENTO_GONCALVES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

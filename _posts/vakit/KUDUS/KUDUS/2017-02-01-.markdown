@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KUDUS, KUDUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUDUS/KUDUS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUDUS';
+  var GLOBAL_CITY = 'KUDUS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

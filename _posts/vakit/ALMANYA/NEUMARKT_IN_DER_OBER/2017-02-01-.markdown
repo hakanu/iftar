@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEUMARKT_IN_DER_OBER, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/NEUMARKT_IN_DER_OBER/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'NEUMARKT_IN_DER_OBER';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

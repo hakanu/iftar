@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ENNETACH_, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ENNETACH_/_MENGEN
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ENNETACH_';
+  var GLOBAL_STATE = '_MENGEN';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: OUJDA, FAS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FAS/OUJDA
+---
+
+## OUJDA (FAS) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (OUJDA, FAS) için iftar ve namaz vakitleri](/FAS/OUJDA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FAS';
+  var GLOBAL_CITY = 'OUJDA';
+  var GLOBAL_STATE = 'OUJDA';
+</script>

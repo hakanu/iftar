@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BARYSAW, BELARUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELARUS/BARYSAW/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELARUS';
+  var GLOBAL_CITY = 'BARYSAW';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TIENEN, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/TIENEN
+---
+
+## TIENEN (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TIENEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TIENEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'TIENEN';
+  var GLOBAL_STATE = 'TIENEN';
+</script>

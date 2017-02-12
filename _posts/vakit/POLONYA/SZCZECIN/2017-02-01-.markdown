@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SZCZECIN, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/SZCZECIN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'SZCZECIN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

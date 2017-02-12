@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MATTHEW_TOWN, BAHAMALAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BAHAMALAR/MATTHEW_TOWN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
+  var GLOBAL_CITY = 'MATTHEW_TOWN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

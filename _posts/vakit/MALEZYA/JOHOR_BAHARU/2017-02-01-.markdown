@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: JOHOR_BAHARU, MALEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALEZYA/JOHOR_BAHARU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALEZYA';
+  var GLOBAL_CITY = 'JOHOR_BAHARU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

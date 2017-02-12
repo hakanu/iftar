@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BURGLEN_(U), ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/BURGLEN_(U)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'BURGLEN_(U)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

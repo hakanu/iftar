@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SANDY_POINT, BAHAMALAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BAHAMALAR/SANDY_POINT/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
+  var GLOBAL_CITY = 'SANDY_POINT';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

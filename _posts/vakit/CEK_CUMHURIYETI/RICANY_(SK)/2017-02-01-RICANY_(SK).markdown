@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RICANY (SK), CEK CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEK CUMHURIYETI/RICANY (SK)
+---
+
+## RICANY (SK) (CEK CUMHURIYETI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RICANY_(SK), CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/RICANY_(SK)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+  var GLOBAL_CITY = 'RICANY (SK)';
+  var GLOBAL_STATE = 'RICANY (SK)';
+</script>

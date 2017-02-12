@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ROSTOV_NA_DONU, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/ROSTOV_NA_DONU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'ROSTOV_NA_DONU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

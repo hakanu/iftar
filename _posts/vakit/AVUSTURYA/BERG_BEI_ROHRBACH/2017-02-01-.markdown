@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BERG_BEI_ROHRBACH, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/BERG_BEI_ROHRBACH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'BERG_BEI_ROHRBACH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SUNGAI_PETANI, MALEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALEZYA/SUNGAI_PETANI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALEZYA';
+  var GLOBAL_CITY = 'SUNGAI_PETANI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

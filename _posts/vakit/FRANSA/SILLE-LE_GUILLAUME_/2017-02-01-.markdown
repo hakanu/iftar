@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SILLE-LE_GUILLAUME_, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/SILLE-LE_GUILLAUME_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'SILLE-LE_GUILLAUME_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALAJUELA, KOSTARIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOSTARIKA/ALAJUELA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOSTARIKA';
+  var GLOBAL_CITY = 'ALAJUELA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

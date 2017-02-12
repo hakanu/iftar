@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PALMAS, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/PALMAS
+---
+
+## PALMAS (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PALMAS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PALMAS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'PALMAS';
+  var GLOBAL_STATE = 'PALMAS';
+</script>

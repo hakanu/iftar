@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ST_ CLAUDE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/ST_ CLAUDE
+---
+
+## ST_ CLAUDE (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ST__CLAUDE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__CLAUDE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'ST_ CLAUDE';
+  var GLOBAL_STATE = 'ST_ CLAUDE';
+</script>

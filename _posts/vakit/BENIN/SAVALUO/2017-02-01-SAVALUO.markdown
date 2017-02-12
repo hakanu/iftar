@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SAVALUO, BENIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BENIN/SAVALUO
+---
+
+## SAVALUO (BENIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SAVALUO, BENIN) için iftar ve namaz vakitleri](/BENIN/SAVALUO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BENIN';
+  var GLOBAL_CITY = 'SAVALUO';
+  var GLOBAL_STATE = 'SAVALUO';
+</script>

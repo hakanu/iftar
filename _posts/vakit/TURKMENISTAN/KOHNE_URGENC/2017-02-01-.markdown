@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KOHNE_URGENC, TURKMENISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TURKMENISTAN/KOHNE_URGENC/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+  var GLOBAL_CITY = 'KOHNE_URGENC';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

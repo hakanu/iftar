@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SCHNEEBERG_(S), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SCHNEEBERG_(S)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SCHNEEBERG_(S)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

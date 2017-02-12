@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GRUPCIN , MAKEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKEDONYA/GRUPCIN 
+---
+
+## GRUPCIN  (MAKEDONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GRUPCIN_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/GRUPCIN_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
+  var GLOBAL_CITY = 'GRUPCIN ';
+  var GLOBAL_STATE = 'GRUPCIN ';
+</script>

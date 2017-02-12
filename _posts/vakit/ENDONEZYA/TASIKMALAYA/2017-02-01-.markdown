@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TASIKMALAYA, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/TASIKMALAYA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'TASIKMALAYA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: OKARA, PAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PAKISTAN/OKARA
+---
+
+## OKARA (PAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (OKARA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/OKARA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PAKISTAN';
+  var GLOBAL_CITY = 'OKARA';
+  var GLOBAL_STATE = 'OKARA';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ASKIM_(Ostfold), NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/ASKIM_(Ostfold)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'ASKIM_(Ostfold)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

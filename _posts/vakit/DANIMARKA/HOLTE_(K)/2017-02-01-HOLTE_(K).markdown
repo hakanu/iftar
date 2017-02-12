@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HOLTE (K), DANIMARKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DANIMARKA/HOLTE (K)
+---
+
+## HOLTE (K) (DANIMARKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HOLTE_(K), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOLTE_(K)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DANIMARKA';
+  var GLOBAL_CITY = 'HOLTE (K)';
+  var GLOBAL_STATE = 'HOLTE (K)';
+</script>

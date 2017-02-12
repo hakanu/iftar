@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SONTHEIM, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SONTHEIM
+---
+
+## SONTHEIM (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SONTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SONTHEIM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SONTHEIM';
+  var GLOBAL_STATE = 'SONTHEIM';
+</script>

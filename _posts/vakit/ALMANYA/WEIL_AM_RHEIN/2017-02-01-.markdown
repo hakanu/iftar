@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WEIL_AM_RHEIN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WEIL_AM_RHEIN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WEIL_AM_RHEIN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

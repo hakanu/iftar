@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AR RAYYAN, KATAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KATAR/AR RAYYAN
+---
+
+## AR RAYYAN (KATAR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AR_RAYYAN, KATAR) için iftar ve namaz vakitleri](/KATAR/AR_RAYYAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KATAR';
+  var GLOBAL_CITY = 'AR RAYYAN';
+  var GLOBAL_STATE = 'AR RAYYAN';
+</script>

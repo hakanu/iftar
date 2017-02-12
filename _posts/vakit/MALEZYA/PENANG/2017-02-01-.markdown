@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PENANG, MALEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALEZYA/PENANG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALEZYA';
+  var GLOBAL_CITY = 'PENANG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TIRASPOL, MOLDAVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOLDAVYA/TIRASPOL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
+  var GLOBAL_CITY = 'TIRASPOL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

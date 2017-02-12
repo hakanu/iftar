@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RAUMA, FINLANDIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FINLANDIYA/RAUMA
+---
+
+## RAUMA (FINLANDIYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RAUMA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/RAUMA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
+  var GLOBAL_CITY = 'RAUMA';
+  var GLOBAL_STATE = 'RAUMA';
+</script>

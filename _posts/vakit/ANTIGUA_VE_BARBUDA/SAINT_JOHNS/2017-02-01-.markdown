@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAINT_JOHNS, ANTIGUA_VE_BARBUDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ANTIGUA_VE_BARBUDA/SAINT_JOHNS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ANTIGUA_VE_BARBUDA';
+  var GLOBAL_CITY = 'SAINT_JOHNS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

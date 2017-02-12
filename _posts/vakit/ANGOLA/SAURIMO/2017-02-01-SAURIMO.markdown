@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SAURIMO, ANGOLA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ANGOLA/SAURIMO
+---
+
+## SAURIMO (ANGOLA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SAURIMO, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/SAURIMO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ANGOLA';
+  var GLOBAL_CITY = 'SAURIMO';
+  var GLOBAL_STATE = 'SAURIMO';
+</script>

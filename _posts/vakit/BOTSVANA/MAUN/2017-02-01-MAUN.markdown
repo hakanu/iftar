@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MAUN, BOTSVANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOTSVANA/MAUN
+---
+
+## MAUN (BOTSVANA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MAUN, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/MAUN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOTSVANA';
+  var GLOBAL_CITY = 'MAUN';
+  var GLOBAL_STATE = 'MAUN';
+</script>

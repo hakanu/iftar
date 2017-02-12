@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TORORO, UGANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UGANDA/TORORO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UGANDA';
+  var GLOBAL_CITY = 'TORORO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHIPPENHAM_(Bristol), INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/CHIPPENHAM_(Bristol)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'CHIPPENHAM_(Bristol)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

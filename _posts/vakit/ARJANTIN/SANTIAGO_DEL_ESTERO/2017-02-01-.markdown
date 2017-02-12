@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SANTIAGO_DEL_ESTERO, ARJANTIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARJANTIN/SANTIAGO_DEL_ESTERO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARJANTIN';
+  var GLOBAL_CITY = 'SANTIAGO_DEL_ESTERO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

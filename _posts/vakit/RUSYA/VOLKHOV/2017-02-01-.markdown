@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VOLKHOV, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/VOLKHOV/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'VOLKHOV';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

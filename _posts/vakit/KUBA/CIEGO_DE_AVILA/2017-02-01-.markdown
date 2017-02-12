@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CIEGO_DE_AVILA, KUBA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUBA/CIEGO_DE_AVILA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUBA';
+  var GLOBAL_CITY = 'CIEGO_DE_AVILA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

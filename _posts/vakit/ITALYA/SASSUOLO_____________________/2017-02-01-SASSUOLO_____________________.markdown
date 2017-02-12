@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SASSUOLO                     , ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/SASSUOLO                     
+---
+
+## SASSUOLO                      (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SASSUOLO_____________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SASSUOLO_____________________/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'SASSUOLO                     ';
+  var GLOBAL_STATE = 'SASSUOLO                     ';
+</script>

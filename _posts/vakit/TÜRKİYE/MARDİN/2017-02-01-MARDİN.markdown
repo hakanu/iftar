@@ -1,0 +1,24 @@
+---
+layout: vakit_dashboard
+title: MARDİN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MARDİN
+---
+
+## MARDİN (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [MİDYAT (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MİDYAT)
+* [NUSAYBİN (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/NUSAYBİN)
+* [MAZIDAĞI (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MAZIDAĞI)
+* [KIZILTEPE (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/KIZILTEPE)
+* [MARDİN (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MARDİN)
+* [DARGECİT (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/DARGECİT)
+* [DERİK (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/DERİK)
+* [ÖMERLİ (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/ÖMERLİ)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'MARDİN';
+  var GLOBAL_STATE = 'MARDİN';
+</script>

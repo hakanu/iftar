@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KONGSBERG, NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/KONGSBERG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'KONGSBERG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

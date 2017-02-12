@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DA-QAIDAM, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/DA-QAIDAM
+---
+
+## DA-QAIDAM (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DA-QAIDAM, CIN) için iftar ve namaz vakitleri](/CIN/DA-QAIDAM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'DA-QAIDAM';
+  var GLOBAL_STATE = 'DA-QAIDAM';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TURKU, FINLANDIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FINLANDIYA/TURKU
+---
+
+## TURKU (FINLANDIYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TURKU, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/TURKU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
+  var GLOBAL_CITY = 'TURKU';
+  var GLOBAL_STATE = 'TURKU';
+</script>

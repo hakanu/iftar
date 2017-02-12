@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WERNE_A_D_LIPPE, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WERNE_A_D_LIPPE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WERNE_A_D_LIPPE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

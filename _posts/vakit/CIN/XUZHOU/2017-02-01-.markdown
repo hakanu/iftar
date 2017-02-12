@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: XUZHOU, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/XUZHOU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'XUZHOU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

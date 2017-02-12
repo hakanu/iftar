@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LIFSTRUP, DANIMARKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DANIMARKA/LIFSTRUP
+---
+
+## LIFSTRUP (DANIMARKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LIFSTRUP, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/LIFSTRUP/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DANIMARKA';
+  var GLOBAL_CITY = 'LIFSTRUP';
+  var GLOBAL_STATE = 'LIFSTRUP';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LUTJENBURG_(S-H), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/LUTJENBURG_(S-H)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'LUTJENBURG_(S-H)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

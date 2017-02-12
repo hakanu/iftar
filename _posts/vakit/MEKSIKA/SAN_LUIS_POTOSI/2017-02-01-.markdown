@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_LUIS_POTOSI, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/SAN_LUIS_POTOSI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'SAN_LUIS_POTOSI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ATAR, MORITANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MORITANYA/ATAR
+---
+
+## ATAR (MORITANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ATAR, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ATAR/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MORITANYA';
+  var GLOBAL_CITY = 'ATAR';
+  var GLOBAL_STATE = 'ATAR';
+</script>

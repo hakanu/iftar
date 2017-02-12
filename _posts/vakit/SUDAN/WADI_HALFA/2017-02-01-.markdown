@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WADI_HALFA, SUDAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SUDAN/WADI_HALFA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SUDAN';
+  var GLOBAL_CITY = 'WADI_HALFA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

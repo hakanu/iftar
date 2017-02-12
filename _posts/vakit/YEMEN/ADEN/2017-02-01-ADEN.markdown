@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ADEN, YEMEN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YEMEN/ADEN
+---
+
+## ADEN (YEMEN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ADEN, YEMEN) için iftar ve namaz vakitleri](/YEMEN/ADEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YEMEN';
+  var GLOBAL_CITY = 'ADEN';
+  var GLOBAL_STATE = 'ADEN';
+</script>

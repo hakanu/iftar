@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DROBETA-TURNU_SEVERIN, ROMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ROMANYA/DROBETA-TURNU_SEVERIN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ROMANYA';
+  var GLOBAL_CITY = 'DROBETA-TURNU_SEVERIN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ABRAHAMS_BAY, BAHAMALAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BAHAMALAR/ABRAHAMS_BAY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
+  var GLOBAL_CITY = 'ABRAHAMS_BAY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

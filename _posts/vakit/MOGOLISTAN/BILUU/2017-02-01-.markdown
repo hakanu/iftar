@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BILUU, MOGOLISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOGOLISTAN/BILUU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+  var GLOBAL_CITY = 'BILUU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

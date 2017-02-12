@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ST_ HUBERT, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/ST_ HUBERT
+---
+
+## ST_ HUBERT (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ST__HUBERT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ST__HUBERT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'ST_ HUBERT';
+  var GLOBAL_STATE = 'ST_ HUBERT';
+</script>

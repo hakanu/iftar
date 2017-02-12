@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: OBO, ORTA_AFRIKA_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ORTA_AFRIKA_CUMHURIYETI/OBO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ORTA_AFRIKA_CUMHURIYETI';
+  var GLOBAL_CITY = 'OBO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

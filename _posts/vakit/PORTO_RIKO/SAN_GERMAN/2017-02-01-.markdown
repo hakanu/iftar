@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_GERMAN, PORTO_RIKO için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PORTO_RIKO/SAN_GERMAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PORTO_RIKO';
+  var GLOBAL_CITY = 'SAN_GERMAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

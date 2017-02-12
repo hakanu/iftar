@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PYANDZH, TACIKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TACIKISTAN/PYANDZH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
+  var GLOBAL_CITY = 'PYANDZH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

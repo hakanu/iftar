@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KOLDING, DANIMARKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DANIMARKA/KOLDING/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DANIMARKA';
+  var GLOBAL_CITY = 'KOLDING';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

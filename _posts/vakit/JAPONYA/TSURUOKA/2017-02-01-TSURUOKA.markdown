@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TSURUOKA, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/TSURUOKA
+---
+
+## TSURUOKA (JAPONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TSURUOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TSURUOKA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'TSURUOKA';
+  var GLOBAL_STATE = 'TSURUOKA';
+</script>

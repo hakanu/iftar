@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZURS, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/ZURS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'ZURS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

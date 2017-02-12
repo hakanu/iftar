@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MUANG_SING, LAOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LAOS/MUANG_SING/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LAOS';
+  var GLOBAL_CITY = 'MUANG_SING';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

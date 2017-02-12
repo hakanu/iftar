@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DURGAPUR, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/DURGAPUR
+---
+
+## DURGAPUR (HINDISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DURGAPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/DURGAPUR/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'DURGAPUR';
+  var GLOBAL_STATE = 'DURGAPUR';
+</script>

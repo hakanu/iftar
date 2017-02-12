@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GABORONE, BOTSVANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOTSVANA/GABORONE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOTSVANA';
+  var GLOBAL_CITY = 'GABORONE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

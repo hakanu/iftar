@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: OHRID, MAKEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKEDONYA/OHRID/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
+  var GLOBAL_CITY = 'OHRID';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

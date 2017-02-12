@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: REYKJAVIK, IZLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IZLANDA/REYKJAVIK/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IZLANDA';
+  var GLOBAL_CITY = 'REYKJAVIK';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

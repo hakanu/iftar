@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ABAY, KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/ABAY
+---
+
+## ABAY (KAZAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ABAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ABAY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'ABAY';
+  var GLOBAL_STATE = 'ABAY';
+</script>

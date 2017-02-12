@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AGANA, GUAM_ADASI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUAM_ADASI/AGANA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUAM_ADASI';
+  var GLOBAL_CITY = 'AGANA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

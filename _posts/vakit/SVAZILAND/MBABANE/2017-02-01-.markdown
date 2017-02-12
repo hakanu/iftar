@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MBABANE, SVAZILAND için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SVAZILAND/MBABANE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SVAZILAND';
+  var GLOBAL_CITY = 'MBABANE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GLADBECK, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GLADBECK
+---
+
+## GLADBECK (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GLADBECK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLADBECK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GLADBECK';
+  var GLOBAL_STATE = 'GLADBECK';
+</script>

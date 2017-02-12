@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FUSHUN, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/FUSHUN
+---
+
+## FUSHUN (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FUSHUN, CIN) için iftar ve namaz vakitleri](/CIN/FUSHUN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'FUSHUN';
+  var GLOBAL_STATE = 'FUSHUN';
+</script>

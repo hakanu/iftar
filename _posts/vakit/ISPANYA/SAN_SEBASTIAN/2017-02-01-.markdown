@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_SEBASTIAN, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/SAN_SEBASTIAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'SAN_SEBASTIAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

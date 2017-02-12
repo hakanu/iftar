@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SHEBERGHAN, AFGANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AFGANISTAN/SHEBERGHAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
+  var GLOBAL_CITY = 'SHEBERGHAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

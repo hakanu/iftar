@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MOMBASA, KENYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KENYA/MOMBASA
+---
+
+## MOMBASA (KENYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MOMBASA, KENYA) için iftar ve namaz vakitleri](/KENYA/MOMBASA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KENYA';
+  var GLOBAL_CITY = 'MOMBASA';
+  var GLOBAL_STATE = 'MOMBASA';
+</script>

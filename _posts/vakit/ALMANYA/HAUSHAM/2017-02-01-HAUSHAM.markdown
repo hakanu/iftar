@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HAUSHAM, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/HAUSHAM
+---
+
+## HAUSHAM (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [MIESBACH (HAUSHAM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAUSHAM/MIESBACH)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'HAUSHAM';
+  var GLOBAL_STATE = 'HAUSHAM';
+</script>

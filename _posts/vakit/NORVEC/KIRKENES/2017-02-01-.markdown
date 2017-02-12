@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KIRKENES, NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/KIRKENES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'KIRKENES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

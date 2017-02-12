@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VILLA_NUEVA, GUATEMALA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUATEMALA/VILLA_NUEVA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUATEMALA';
+  var GLOBAL_CITY = 'VILLA_NUEVA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

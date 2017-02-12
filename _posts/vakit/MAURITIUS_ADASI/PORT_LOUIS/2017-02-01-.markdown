@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PORT_LOUIS, MAURITIUS_ADASI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAURITIUS_ADASI/PORT_LOUIS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAURITIUS_ADASI';
+  var GLOBAL_CITY = 'PORT_LOUIS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

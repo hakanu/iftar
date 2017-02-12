@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VELENJE, SLOVENYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SLOVENYA/VELENJE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SLOVENYA';
+  var GLOBAL_CITY = 'VELENJE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

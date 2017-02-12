@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BORO_BURGAASA, MOGOLISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOGOLISTAN/BORO_BURGAASA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+  var GLOBAL_CITY = 'BORO_BURGAASA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

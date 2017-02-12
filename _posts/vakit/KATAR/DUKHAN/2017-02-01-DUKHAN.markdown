@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DUKHAN, KATAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KATAR/DUKHAN
+---
+
+## DUKHAN (KATAR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DUKHAN, KATAR) için iftar ve namaz vakitleri](/KATAR/DUKHAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KATAR';
+  var GLOBAL_CITY = 'DUKHAN';
+  var GLOBAL_STATE = 'DUKHAN';
+</script>

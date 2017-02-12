@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_ANTONIO_ABAD, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/SAN_ANTONIO_ABAD/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'SAN_ANTONIO_ABAD';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

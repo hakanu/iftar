@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SEVILLE, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/SEVILLE
+---
+
+## SEVILLE (ISPANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SEVILLE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SEVILLE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'SEVILLE';
+  var GLOBAL_STATE = 'SEVILLE';
+</script>

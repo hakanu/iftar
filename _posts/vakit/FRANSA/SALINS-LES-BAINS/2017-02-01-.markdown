@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SALINS-LES-BAINS, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/SALINS-LES-BAINS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'SALINS-LES-BAINS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

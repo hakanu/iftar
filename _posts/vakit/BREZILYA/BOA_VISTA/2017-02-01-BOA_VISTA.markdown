@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BOA VISTA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/BOA VISTA
+---
+
+## BOA VISTA (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BOA_VISTA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BOA_VISTA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'BOA VISTA';
+  var GLOBAL_STATE = 'BOA VISTA';
+</script>

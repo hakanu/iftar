@@ -1,0 +1,28 @@
+---
+layout: vakit_dashboard
+title: ADANA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ADANA
+---
+
+## ADANA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [SAİMBEYLİ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/SAİMBEYLİ)
+* [KARATAŞ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/KARATAŞ)
+* [KARAISALI (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/KARAISALI)
+* [ALADAĞ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/ALADAĞ)
+* [KOZAN (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/KOZAN)
+* [POZANTI (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/POZANTI)
+* [CEYHAN (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/CEYHAN)
+* [YUMURTALIK (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/YUMURTALIK)
+* [TUFANBEYLİ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/TUFANBEYLİ)
+* [İMAMOĞLU (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/İMAMOĞLU)
+* [FEKE (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/FEKE)
+* [ADANA (ADANA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADANA/ADANA)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ADANA';
+  var GLOBAL_STATE = 'ADANA';
+</script>

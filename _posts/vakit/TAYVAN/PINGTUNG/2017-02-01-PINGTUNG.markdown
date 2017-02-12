@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PINGTUNG, TAYVAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYVAN/PINGTUNG
+---
+
+## PINGTUNG (TAYVAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PINGTUNG, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PINGTUNG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYVAN';
+  var GLOBAL_CITY = 'PINGTUNG';
+  var GLOBAL_STATE = 'PINGTUNG';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PRIBOJ , SIRBISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SIRBISTAN/PRIBOJ 
+---
+
+## PRIBOJ  (SIRBISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PRIBOJ_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/PRIBOJ_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
+  var GLOBAL_CITY = 'PRIBOJ ';
+  var GLOBAL_STATE = 'PRIBOJ ';
+</script>

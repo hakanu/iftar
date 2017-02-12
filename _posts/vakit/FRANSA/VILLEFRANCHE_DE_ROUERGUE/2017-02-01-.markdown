@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VILLEFRANCHE_DE_ROUERGUE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/VILLEFRANCHE_DE_ROUERGUE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'VILLEFRANCHE_DE_ROUERGUE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

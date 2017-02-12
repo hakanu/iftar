@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WEITERSTADT, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WEITERSTADT/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WEITERSTADT';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

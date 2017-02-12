@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: WALTROP, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WALTROP
+---
+
+## WALTROP (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WALTROP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALTROP/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WALTROP';
+  var GLOBAL_STATE = 'WALTROP';
+</script>

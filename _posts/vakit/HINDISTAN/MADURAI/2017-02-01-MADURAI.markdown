@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MADURAI, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/MADURAI
+---
+
+## MADURAI (HINDISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MADURAI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MADURAI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'MADURAI';
+  var GLOBAL_STATE = 'MADURAI';
+</script>

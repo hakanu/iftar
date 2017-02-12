@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MALANG, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/MALANG
+---
+
+## MALANG (ENDONEZYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MALANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MALANG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'MALANG';
+  var GLOBAL_STATE = 'MALANG';
+</script>

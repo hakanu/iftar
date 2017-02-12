@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LIBREVILLE, GABON için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GABON/LIBREVILLE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GABON';
+  var GLOBAL_CITY = 'LIBREVILLE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

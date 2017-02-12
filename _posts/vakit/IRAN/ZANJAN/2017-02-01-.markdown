@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZANJAN, IRAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAN/ZANJAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAN';
+  var GLOBAL_CITY = 'ZANJAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

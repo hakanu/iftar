@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: Kari'a suresini meali ve videosu ile takip et, dinle ve oku, Kari'a dinle, Kari'a meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Kari'a suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Kari'a suresinin mealini oku, dinle, takip et</h1>
+      <div><p></p><p></p><p>KAARİA SURESİ (Resmi Mushaf : 101 / İniş Sırası : 30)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. O Kaaria, o şiddetli ses çıkararak çarpan.</p><p></p><p></p><p>2. Nedir Kaaria?</p><p></p><p></p><p>3. Kaaria’nın ne olduğunu sana bildiren nedir?</p><p></p><p></p><p>4. O gün insanlar, çırpınarak yayılmış pervaneler gibi olurlar.</p><p></p><p></p><p>5. Dağlar, didilmiş renkli yün gibi olur.</p><p></p><p></p><p>6. İşte o gün tartıları ağır basan kişi,</p><p></p><p></p><p>7. Evet o kişi, hoşnutluk verici bir yaşayış içindedir.</p><p></p><p></p><p>8. Tartıları hafif çekeninse,</p><p></p><p></p><p>9. Anası, Haviye’dir.</p><p></p><p></p><p>10. Onun ne olduğunu sana bildiren nedir?</p><p></p><p></p><p>11. Kızışmış bir ateştir o.</p><p>vvv</p></div>
+    </div>
+  </div>
+</div>
+<hr />

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LEVUKA, FIJI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FIJI/LEVUKA
+---
+
+## LEVUKA (FIJI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LEVUKA, FIJI) için iftar ve namaz vakitleri](/FIJI/LEVUKA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FIJI';
+  var GLOBAL_CITY = 'LEVUKA';
+  var GLOBAL_STATE = 'LEVUKA';
+</script>

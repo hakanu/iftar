@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SHANWEI, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/SHANWEI
+---
+
+## SHANWEI (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SHANWEI, CIN) için iftar ve namaz vakitleri](/CIN/SHANWEI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'SHANWEI';
+  var GLOBAL_STATE = 'SHANWEI';
+</script>

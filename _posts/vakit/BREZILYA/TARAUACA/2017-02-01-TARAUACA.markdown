@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TARAUACA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/TARAUACA
+---
+
+## TARAUACA (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TARAUACA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TARAUACA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'TARAUACA';
+  var GLOBAL_STATE = 'TARAUACA';
+</script>

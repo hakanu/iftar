@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PORT_HARCOURT, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/PORT_HARCOURT/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'PORT_HARCOURT';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

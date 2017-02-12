@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DIPKARPAZ, KUZEY_KIBRIS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUZEY_KIBRIS/DIPKARPAZ/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUZEY_KIBRIS';
+  var GLOBAL_CITY = 'DIPKARPAZ';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

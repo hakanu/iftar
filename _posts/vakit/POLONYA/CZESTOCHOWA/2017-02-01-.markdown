@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CZESTOCHOWA, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/CZESTOCHOWA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'CZESTOCHOWA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HAMILTON_(_V_), AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/HAMILTON_(_V_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'HAMILTON_(_V_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

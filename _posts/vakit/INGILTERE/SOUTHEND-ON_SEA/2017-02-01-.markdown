@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SOUTHEND-ON_SEA, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/SOUTHEND-ON_SEA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'SOUTHEND-ON_SEA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

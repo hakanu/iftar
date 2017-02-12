@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VALLETTA, MALTA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALTA/VALLETTA
+---
+
+## VALLETTA (MALTA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VALLETTA, MALTA) için iftar ve namaz vakitleri](/MALTA/VALLETTA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALTA';
+  var GLOBAL_CITY = 'VALLETTA';
+  var GLOBAL_STATE = 'VALLETTA';
+</script>

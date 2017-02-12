@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MIRANDELA, PORTEKIZ için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PORTEKIZ/MIRANDELA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
+  var GLOBAL_CITY = 'MIRANDELA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

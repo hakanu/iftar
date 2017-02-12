@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: USTER, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/USTER
+---
+
+## USTER (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (USTER, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/USTER/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'USTER';
+  var GLOBAL_STATE = 'USTER';
+</script>

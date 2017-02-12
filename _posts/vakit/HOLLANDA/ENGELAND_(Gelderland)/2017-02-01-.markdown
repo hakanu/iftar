@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ENGELAND_(Gelderland), HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/ENGELAND_(Gelderland)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'ENGELAND_(Gelderland)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

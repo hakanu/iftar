@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ROSSO, MORITANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MORITANYA/ROSSO
+---
+
+## ROSSO (MORITANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ROSSO, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ROSSO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MORITANYA';
+  var GLOBAL_CITY = 'ROSSO';
+  var GLOBAL_STATE = 'ROSSO';
+</script>

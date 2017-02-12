@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GDYNIA, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/GDYNIA
+---
+
+## GDYNIA (POLONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GDYNIA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/GDYNIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'GDYNIA';
+  var GLOBAL_STATE = 'GDYNIA';
+</script>

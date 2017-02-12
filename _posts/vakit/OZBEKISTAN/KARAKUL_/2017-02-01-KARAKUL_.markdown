@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KARAKUL , OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/KARAKUL 
+---
+
+## KARAKUL  (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KARAKUL_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARAKUL_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'KARAKUL ';
+  var GLOBAL_STATE = 'KARAKUL ';
+</script>

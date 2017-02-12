@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: OELSNITZ_(CHEMNITZ), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/OELSNITZ_(CHEMNITZ)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'OELSNITZ_(CHEMNITZ)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

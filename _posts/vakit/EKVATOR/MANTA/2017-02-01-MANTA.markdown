@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MANTA, EKVATOR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /EKVATOR/MANTA
+---
+
+## MANTA (EKVATOR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MANTA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/MANTA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'EKVATOR';
+  var GLOBAL_CITY = 'MANTA';
+  var GLOBAL_STATE = 'MANTA';
+</script>

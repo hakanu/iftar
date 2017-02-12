@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BELGAUM, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/BELGAUM
+---
+
+## BELGAUM (HINDISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BELGAUM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BELGAUM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'BELGAUM';
+  var GLOBAL_STATE = 'BELGAUM';
+</script>

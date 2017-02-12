@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VICTORIA, SEYSEL_ADALARI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SEYSEL_ADALARI/VICTORIA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SEYSEL_ADALARI';
+  var GLOBAL_CITY = 'VICTORIA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LINDEN, GUYANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUYANA/LINDEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUYANA';
+  var GLOBAL_CITY = 'LINDEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

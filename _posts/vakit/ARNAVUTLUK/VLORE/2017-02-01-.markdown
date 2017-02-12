@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VLORE, ARNAVUTLUK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARNAVUTLUK/VLORE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+  var GLOBAL_CITY = 'VLORE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

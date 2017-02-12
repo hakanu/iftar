@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CORURIPE, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/CORURIPE
+---
+
+## CORURIPE (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CORURIPE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CORURIPE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'CORURIPE';
+  var GLOBAL_STATE = 'CORURIPE';
+</script>

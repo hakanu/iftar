@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FUJIEDA, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/FUJIEDA
+---
+
+## FUJIEDA (JAPONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FUJIEDA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUJIEDA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'FUJIEDA';
+  var GLOBAL_STATE = 'FUJIEDA';
+</script>

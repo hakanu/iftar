@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BANJUL, GAMBIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GAMBIYA/BANJUL
+---
+
+## BANJUL (GAMBIYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BANJUL, GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/BANJUL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GAMBIYA';
+  var GLOBAL_CITY = 'BANJUL';
+  var GLOBAL_STATE = 'BANJUL';
+</script>

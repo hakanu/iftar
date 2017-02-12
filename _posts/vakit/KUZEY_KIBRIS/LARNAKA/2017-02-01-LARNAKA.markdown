@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LARNAKA, KUZEY KIBRIS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUZEY KIBRIS/LARNAKA
+---
+
+## LARNAKA (KUZEY KIBRIS) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LARNAKA, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LARNAKA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+  var GLOBAL_CITY = 'LARNAKA';
+  var GLOBAL_STATE = 'LARNAKA';
+</script>

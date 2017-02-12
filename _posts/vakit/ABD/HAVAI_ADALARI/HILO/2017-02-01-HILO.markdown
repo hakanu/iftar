@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HAVAI_ADALARI, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/HAVAI_ADALARI/HILO
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'HAVAI_ADALARI';
+  var GLOBAL_STATE = 'HILO';
+  var lat = 72;
+  var lon = 21;
+</script>

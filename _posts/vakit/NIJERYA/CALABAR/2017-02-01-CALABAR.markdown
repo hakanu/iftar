@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CALABAR, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/CALABAR
+---
+
+## CALABAR (NIJERYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CALABAR, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/CALABAR/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'CALABAR';
+  var GLOBAL_STATE = 'CALABAR';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CUMANA, VENEZUELA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VENEZUELA/CUMANA
+---
+
+## CUMANA (VENEZUELA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CUMANA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CUMANA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VENEZUELA';
+  var GLOBAL_CITY = 'CUMANA';
+  var GLOBAL_STATE = 'CUMANA';
+</script>

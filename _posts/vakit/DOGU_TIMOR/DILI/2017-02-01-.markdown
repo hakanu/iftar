@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DILI, DOGU_TIMOR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DOGU_TIMOR/DILI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DOGU_TIMOR';
+  var GLOBAL_CITY = 'DILI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

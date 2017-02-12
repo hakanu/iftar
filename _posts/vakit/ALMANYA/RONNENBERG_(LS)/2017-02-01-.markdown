@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RONNENBERG_(LS), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/RONNENBERG_(LS)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'RONNENBERG_(LS)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

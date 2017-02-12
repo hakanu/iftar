@@ -1,0 +1,32 @@
+---
+layout: generated_md
+title: VIETNAM için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /VIETNAM
+---
+
+## VIETNAM için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [VINH (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/VINH)
+* [CAM_PHA (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/CAM_PHA)
+* [HANOI (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HANOI)
+* [THAI_NGUYEN (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/THAI_NGUYEN)
+* [CAN_THO (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/CAN_THO)
+* [MY_THO (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/MY_THO)
+* [QUANG_TRI (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/QUANG_TRI)
+* [HUE (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HUE)
+* [RACH_GIA (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/RACH_GIA)
+* [NAM_DINH (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/NAM_DINH)
+* [DA_NANG (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/DA_NANG)
+* [PHAN_THIET (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/PHAN_THIET)
+* [HONG_GAI (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HONG_GAI)
+* [DA_LAT (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/DA_LAT)
+* [QUI_NHON (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/QUI_NHON)
+* [HAIPHONG (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HAIPHONG)
+* [BIEN_HOA (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/BIEN_HOA)
+* [VUNG_TAU (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/VUNG_TAU)
+* [LONG_XUYEN (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/LONG_XUYEN)
+* [BUON_ME_THUOT (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/BUON_ME_THUOT)
+* [HO_CHI_MINH_CITY (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HO_CHI_MINH_CITY)
+* [NHA_TRANG (VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/NHA_TRANG)

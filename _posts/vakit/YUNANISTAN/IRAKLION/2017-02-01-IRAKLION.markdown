@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IRAKLION, YUNANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YUNANISTAN/IRAKLION
+---
+
+## IRAKLION (YUNANISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IRAKLION, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/IRAKLION/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
+  var GLOBAL_CITY = 'IRAKLION';
+  var GLOBAL_STATE = 'IRAKLION';
+</script>

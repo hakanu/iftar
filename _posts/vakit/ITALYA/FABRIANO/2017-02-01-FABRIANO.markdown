@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FABRIANO, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/FABRIANO
+---
+
+## FABRIANO (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FABRIANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FABRIANO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'FABRIANO';
+  var GLOBAL_STATE = 'FABRIANO';
+</script>

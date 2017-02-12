@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BASSE-TERRE, GUADELOPE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUADELOPE/BASSE-TERRE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUADELOPE';
+  var GLOBAL_CITY = 'BASSE-TERRE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

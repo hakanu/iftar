@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PALEMBANG, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/PALEMBANG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'PALEMBANG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

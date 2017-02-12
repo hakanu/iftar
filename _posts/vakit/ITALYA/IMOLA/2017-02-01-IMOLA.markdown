@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IMOLA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/IMOLA
+---
+
+## IMOLA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IMOLA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/IMOLA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'IMOLA';
+  var GLOBAL_STATE = 'IMOLA';
+</script>

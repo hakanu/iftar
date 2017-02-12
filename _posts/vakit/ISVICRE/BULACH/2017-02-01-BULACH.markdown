@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BULACH, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/BULACH
+---
+
+## BULACH (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BULACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BULACH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'BULACH';
+  var GLOBAL_STATE = 'BULACH';
+</script>

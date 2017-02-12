@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BOLGATANGA, GANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GANA/BOLGATANGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GANA';
+  var GLOBAL_CITY = 'BOLGATANGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DUBBO, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/DUBBO
+---
+
+## DUBBO (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DUBBO, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DUBBO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'DUBBO';
+  var GLOBAL_STATE = 'DUBBO';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KRASNYY_OKTYABR_, TURKMENISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TURKMENISTAN/KRASNYY_OKTYABR_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+  var GLOBAL_CITY = 'KRASNYY_OKTYABR_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

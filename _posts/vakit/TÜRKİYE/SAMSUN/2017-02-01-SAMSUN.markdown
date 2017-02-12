@@ -1,0 +1,31 @@
+---
+layout: vakit_dashboard
+title: SAMSUN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/SAMSUN
+---
+
+## SAMSUN (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [VEZİRKÖPRÜ (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/VEZİRKÖPRÜ)
+* [AYVACIK_(S) (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/AYVACIK_(S))
+* [TEKKEKÖY (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/TEKKEKÖY)
+* [YAKAKENT (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/YAKAKENT)
+* [ALAÇAM (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/ALAÇAM)
+* [LADİK (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/LADİK)
+* [TERME (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/TERME)
+* [SAMSUN (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/SAMSUN)
+* [HAVZA (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/HAVZA)
+* [BAFRA (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/BAFRA)
+* [ASARCIK (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/ASARCIK)
+* [19_MAYIS (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/19_MAYIS)
+* [SALIPAZARI (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/SALIPAZARI)
+* [KAVAK (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/KAVAK)
+* [ÇARŞAMBA (SAMSUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAMSUN/ÇARŞAMBA)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'SAMSUN';
+  var GLOBAL_STATE = 'SAMSUN';
+</script>

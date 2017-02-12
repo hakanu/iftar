@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PUERTO_BAQUERIZO_MORENO, EKVATOR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /EKVATOR/PUERTO_BAQUERIZO_MORENO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'EKVATOR';
+  var GLOBAL_CITY = 'PUERTO_BAQUERIZO_MORENO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

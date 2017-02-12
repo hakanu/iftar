@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KÜTAHYA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/KÜTAHYA/SİMAV
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'KÜTAHYA';
+  var GLOBAL_STATE = 'SİMAV';
+  var lat = 72;
+  var lon = 21;
+</script>

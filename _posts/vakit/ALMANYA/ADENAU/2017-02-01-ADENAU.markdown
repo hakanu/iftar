@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ADENAU, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ADENAU
+---
+
+## ADENAU (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ADENAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ADENAU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ADENAU';
+  var GLOBAL_STATE = 'ADENAU';
+</script>

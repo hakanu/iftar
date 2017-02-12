@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAINT_GEORGE, BERMUDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BERMUDA/SAINT_GEORGE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BERMUDA';
+  var GLOBAL_CITY = 'SAINT_GEORGE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

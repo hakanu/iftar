@@ -1,0 +1,32 @@
+---
+layout: vakit_dashboard
+title: SİVAS, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/SİVAS
+---
+
+## SİVAS (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [İMRANLI (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/İMRANLI)
+* [SİVAS (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/SİVAS)
+* [ŞARKIŞLA (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/ŞARKIŞLA)
+* [KANGAL (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/KANGAL)
+* [ALTINYAYLA(S) (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/ALTINYAYLA(S))
+* [GÜRÜN (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/GÜRÜN)
+* [SUŞEHRİ (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/SUŞEHRİ)
+* [ZARA (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/ZARA)
+* [HAFİK (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/HAFİK)
+* [AKINCILAR (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/AKINCILAR)
+* [GEMEREK (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/GEMEREK)
+* [GÖLOVA (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/GÖLOVA)
+* [DOĞANŞAR (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/DOĞANŞAR)
+* [DİVRİĞİ (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/DİVRİĞİ)
+* [KOYULHİSAR (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/KOYULHİSAR)
+* [YILDIZELİ (SİVAS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİVAS/YILDIZELİ)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'SİVAS';
+  var GLOBAL_STATE = 'SİVAS';
+</script>

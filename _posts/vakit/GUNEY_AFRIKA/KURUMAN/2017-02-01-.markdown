@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KURUMAN, GUNEY_AFRIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY_AFRIKA/KURUMAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY_AFRIKA';
+  var GLOBAL_CITY = 'KURUMAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

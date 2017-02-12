@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: WOHLEN (B), ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/WOHLEN (B)
+---
+
+## WOHLEN (B) (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WOHLEN_(B), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WOHLEN_(B)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'WOHLEN (B)';
+  var GLOBAL_STATE = 'WOHLEN (B)';
+</script>

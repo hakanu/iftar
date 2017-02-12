@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KAGAN, OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/KAGAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'KAGAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

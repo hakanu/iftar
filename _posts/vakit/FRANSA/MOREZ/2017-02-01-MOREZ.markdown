@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MOREZ, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/MOREZ
+---
+
+## MOREZ (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MOREZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MOREZ/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'MOREZ';
+  var GLOBAL_STATE = 'MOREZ';
+</script>

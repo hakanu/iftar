@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VOIRON, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/VOIRON
+---
+
+## VOIRON (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VOIRON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VOIRON/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'VOIRON';
+  var GLOBAL_STATE = 'VOIRON';
+</script>

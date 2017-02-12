@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DETMOLD, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/DETMOLD
+---
+
+## DETMOLD (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DETMOLD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DETMOLD/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'DETMOLD';
+  var GLOBAL_STATE = 'DETMOLD';
+</script>

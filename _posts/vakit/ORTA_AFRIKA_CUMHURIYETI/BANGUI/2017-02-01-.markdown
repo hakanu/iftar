@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BANGUI, ORTA_AFRIKA_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ORTA_AFRIKA_CUMHURIYETI/BANGUI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ORTA_AFRIKA_CUMHURIYETI';
+  var GLOBAL_CITY = 'BANGUI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

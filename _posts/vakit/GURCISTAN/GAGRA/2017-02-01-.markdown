@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GAGRA, GURCISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GURCISTAN/GAGRA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GURCISTAN';
+  var GLOBAL_CITY = 'GAGRA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

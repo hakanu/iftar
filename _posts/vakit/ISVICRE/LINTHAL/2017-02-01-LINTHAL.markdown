@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LINTHAL, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/LINTHAL
+---
+
+## LINTHAL (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LINTHAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LINTHAL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'LINTHAL';
+  var GLOBAL_STATE = 'LINTHAL';
+</script>

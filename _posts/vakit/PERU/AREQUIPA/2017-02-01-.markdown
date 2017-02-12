@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AREQUIPA, PERU için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PERU/AREQUIPA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PERU';
+  var GLOBAL_CITY = 'AREQUIPA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

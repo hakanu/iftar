@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PALMA_DE_MALLARCO, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/PALMA_DE_MALLARCO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'PALMA_DE_MALLARCO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

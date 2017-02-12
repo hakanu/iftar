@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NIENBURG_(WESER), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/NIENBURG_(WESER)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'NIENBURG_(WESER)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

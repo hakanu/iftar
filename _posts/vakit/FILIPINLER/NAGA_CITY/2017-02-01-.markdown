@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NAGA_CITY, FILIPINLER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILIPINLER/NAGA_CITY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILIPINLER';
+  var GLOBAL_CITY = 'NAGA_CITY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LILLE_NAESTWED, DANIMARKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DANIMARKA/LILLE_NAESTWED/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DANIMARKA';
+  var GLOBAL_CITY = 'LILLE_NAESTWED';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

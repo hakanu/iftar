@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RIVAS, NIKARAGUA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIKARAGUA/RIVAS
+---
+
+## RIVAS (NIKARAGUA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RIVAS, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/RIVAS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
+  var GLOBAL_CITY = 'RIVAS';
+  var GLOBAL_STATE = 'RIVAS';
+</script>

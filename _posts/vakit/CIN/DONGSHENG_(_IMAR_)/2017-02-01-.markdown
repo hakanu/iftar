@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DONGSHENG_(_IMAR_), CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/DONGSHENG_(_IMAR_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'DONGSHENG_(_IMAR_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

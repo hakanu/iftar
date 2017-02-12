@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CIUDAD_JUAREZ, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/CIUDAD_JUAREZ/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'CIUDAD_JUAREZ';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

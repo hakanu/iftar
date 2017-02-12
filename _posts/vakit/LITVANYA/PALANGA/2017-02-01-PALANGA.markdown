@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PALANGA, LITVANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LITVANYA/PALANGA
+---
+
+## PALANGA (LITVANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PALANGA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/PALANGA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LITVANYA';
+  var GLOBAL_CITY = 'PALANGA';
+  var GLOBAL_STATE = 'PALANGA';
+</script>

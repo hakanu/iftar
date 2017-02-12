@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TRUJILLO, PERU için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PERU/TRUJILLO
+---
+
+## TRUJILLO (PERU) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TRUJILLO, PERU) için iftar ve namaz vakitleri](/PERU/TRUJILLO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PERU';
+  var GLOBAL_CITY = 'TRUJILLO';
+  var GLOBAL_STATE = 'TRUJILLO';
+</script>

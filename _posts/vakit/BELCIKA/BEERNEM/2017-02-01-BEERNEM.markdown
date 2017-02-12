@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BEERNEM, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/BEERNEM
+---
+
+## BEERNEM (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BEERNEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BEERNEM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'BEERNEM';
+  var GLOBAL_STATE = 'BEERNEM';
+</script>

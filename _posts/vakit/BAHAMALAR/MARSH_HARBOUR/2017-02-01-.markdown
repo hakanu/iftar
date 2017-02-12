@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MARSH_HARBOUR, BAHAMALAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BAHAMALAR/MARSH_HARBOUR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
+  var GLOBAL_CITY = 'MARSH_HARBOUR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

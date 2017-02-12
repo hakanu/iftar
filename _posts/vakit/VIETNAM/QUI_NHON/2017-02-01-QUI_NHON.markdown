@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: QUI NHON, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/QUI NHON
+---
+
+## QUI NHON (VIETNAM) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (QUI_NHON, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/QUI_NHON/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'QUI NHON';
+  var GLOBAL_STATE = 'QUI NHON';
+</script>

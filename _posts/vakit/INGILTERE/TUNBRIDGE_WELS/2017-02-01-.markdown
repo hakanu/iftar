@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TUNBRIDGE_WELS, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/TUNBRIDGE_WELS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'TUNBRIDGE_WELS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

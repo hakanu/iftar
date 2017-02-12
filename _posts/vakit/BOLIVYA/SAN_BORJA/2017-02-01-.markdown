@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_BORJA, BOLIVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOLIVYA/SAN_BORJA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOLIVYA';
+  var GLOBAL_CITY = 'SAN_BORJA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

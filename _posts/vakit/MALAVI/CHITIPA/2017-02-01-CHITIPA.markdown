@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CHITIPA, MALAVI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALAVI/CHITIPA
+---
+
+## CHITIPA (MALAVI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CHITIPA, MALAVI) için iftar ve namaz vakitleri](/MALAVI/CHITIPA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALAVI';
+  var GLOBAL_CITY = 'CHITIPA';
+  var GLOBAL_STATE = 'CHITIPA';
+</script>

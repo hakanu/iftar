@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VEJLE, DANIMARKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DANIMARKA/VEJLE
+---
+
+## VEJLE (DANIMARKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VEJLE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VEJLE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DANIMARKA';
+  var GLOBAL_CITY = 'VEJLE';
+  var GLOBAL_STATE = 'VEJLE';
+</script>

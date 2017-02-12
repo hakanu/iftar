@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KHASHURI , GURCISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GURCISTAN/KHASHURI 
+---
+
+## KHASHURI  (GURCISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KHASHURI_, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KHASHURI_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GURCISTAN';
+  var GLOBAL_CITY = 'KHASHURI ';
+  var GLOBAL_STATE = 'KHASHURI ';
+</script>

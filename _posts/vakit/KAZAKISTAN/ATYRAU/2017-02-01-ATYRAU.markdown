@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ATYRAU, KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/ATYRAU
+---
+
+## ATYRAU (KAZAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ATYRAU, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ATYRAU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'ATYRAU';
+  var GLOBAL_STATE = 'ATYRAU';
+</script>

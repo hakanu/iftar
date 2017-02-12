@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BONGOR, CAD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CAD/BONGOR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CAD';
+  var GLOBAL_CITY = 'BONGOR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

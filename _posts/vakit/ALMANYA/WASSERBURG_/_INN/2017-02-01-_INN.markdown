@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WASSERBURG_, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WASSERBURG_/_INN
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WASSERBURG_';
+  var GLOBAL_STATE = '_INN';
+  var lat = 72;
+  var lon = 21;
+</script>

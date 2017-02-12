@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BAFOUSSAM, KAMERUN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAMERUN/BAFOUSSAM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAMERUN';
+  var GLOBAL_CITY = 'BAFOUSSAM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

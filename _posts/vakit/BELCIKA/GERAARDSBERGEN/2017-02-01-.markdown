@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GERAARDSBERGEN, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/GERAARDSBERGEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'GERAARDSBERGEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

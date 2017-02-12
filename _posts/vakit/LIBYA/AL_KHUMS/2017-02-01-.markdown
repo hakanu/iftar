@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AL_KHUMS, LIBYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LIBYA/AL_KHUMS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LIBYA';
+  var GLOBAL_CITY = 'AL_KHUMS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

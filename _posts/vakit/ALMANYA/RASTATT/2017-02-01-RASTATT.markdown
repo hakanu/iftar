@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RASTATT, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/RASTATT
+---
+
+## RASTATT (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RASTATT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RASTATT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'RASTATT';
+  var GLOBAL_STATE = 'RASTATT';
+</script>

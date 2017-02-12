@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AK TEREK, KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/AK TEREK
+---
+
+## AK TEREK (KIRGIZISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AK_TEREK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AK_TEREK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'AK TEREK';
+  var GLOBAL_STATE = 'AK TEREK';
+</script>

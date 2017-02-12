@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LAI, CAD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CAD/LAI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CAD';
+  var GLOBAL_CITY = 'LAI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

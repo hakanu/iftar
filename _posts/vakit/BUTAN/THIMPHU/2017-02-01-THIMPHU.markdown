@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: THIMPHU, BUTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BUTAN/THIMPHU
+---
+
+## THIMPHU (BUTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (THIMPHU, BUTAN) için iftar ve namaz vakitleri](/BUTAN/THIMPHU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BUTAN';
+  var GLOBAL_CITY = 'THIMPHU';
+  var GLOBAL_STATE = 'THIMPHU';
+</script>

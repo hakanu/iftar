@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SANKT_MARTIN_(O), AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/SANKT_MARTIN_(O)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'SANKT_MARTIN_(O)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

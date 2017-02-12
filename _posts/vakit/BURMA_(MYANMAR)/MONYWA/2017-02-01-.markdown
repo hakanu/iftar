@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MONYWA, BURMA_(MYANMAR) için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BURMA_(MYANMAR)/MONYWA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BURMA_(MYANMAR)';
+  var GLOBAL_CITY = 'MONYWA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

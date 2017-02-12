@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BURDUR, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/BURDUR/KEMER_(B)
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'BURDUR';
+  var GLOBAL_STATE = 'KEMER_(B)';
+  var lat = 72;
+  var lon = 21;
+</script>

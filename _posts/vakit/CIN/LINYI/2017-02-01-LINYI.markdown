@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LINYI, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/LINYI
+---
+
+## LINYI (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LINYI, CIN) için iftar ve namaz vakitleri](/CIN/LINYI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'LINYI';
+  var GLOBAL_STATE = 'LINYI';
+</script>

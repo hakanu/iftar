@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MERSA_FATMA, ERITRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ERITRE/MERSA_FATMA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ERITRE';
+  var GLOBAL_CITY = 'MERSA_FATMA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

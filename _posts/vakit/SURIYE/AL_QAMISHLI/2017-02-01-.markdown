@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AL_QAMISHLI, SURIYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SURIYE/AL_QAMISHLI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SURIYE';
+  var GLOBAL_CITY = 'AL_QAMISHLI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZENICA, BOSNA_HERSEK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOSNA_HERSEK/ZENICA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOSNA_HERSEK';
+  var GLOBAL_CITY = 'ZENICA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

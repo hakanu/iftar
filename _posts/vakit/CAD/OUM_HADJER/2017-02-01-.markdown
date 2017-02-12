@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: OUM_HADJER, CAD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CAD/OUM_HADJER/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CAD';
+  var GLOBAL_CITY = 'OUM_HADJER';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

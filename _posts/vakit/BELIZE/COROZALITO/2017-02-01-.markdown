@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: COROZALITO, BELIZE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELIZE/COROZALITO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELIZE';
+  var GLOBAL_CITY = 'COROZALITO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,23 @@
+---
+layout: vakit_dashboard
+title: AMASYA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/AMASYA
+---
+
+## AMASYA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [GÖYNÜCEK (AMASYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AMASYA/GÖYNÜCEK)
+* [HAMAMÖZÜ (AMASYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AMASYA/HAMAMÖZÜ)
+* [AMASYA (AMASYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AMASYA/AMASYA)
+* [GÜMÜŞHACIKÖY (AMASYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AMASYA/GÜMÜŞHACIKÖY)
+* [MERZİFON (AMASYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AMASYA/MERZİFON)
+* [SULUOVA (AMASYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AMASYA/SULUOVA)
+* [TAŞOVA (AMASYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AMASYA/TAŞOVA)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'AMASYA';
+  var GLOBAL_STATE = 'AMASYA';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: UZWIL, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/UZWIL
+---
+
+## UZWIL (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (UZWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/UZWIL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'UZWIL';
+  var GLOBAL_STATE = 'UZWIL';
+</script>

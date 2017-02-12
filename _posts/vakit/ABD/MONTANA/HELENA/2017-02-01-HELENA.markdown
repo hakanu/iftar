@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MONTANA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/MONTANA/HELENA
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'MONTANA';
+  var GLOBAL_STATE = 'HELENA';
+  var lat = 72;
+  var lon = 21;
+</script>

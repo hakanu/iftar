@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FREISING, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/FREISING
+---
+
+## FREISING (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FREISING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREISING/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'FREISING';
+  var GLOBAL_STATE = 'FREISING';
+</script>

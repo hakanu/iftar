@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: INAJA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/INAJA
+---
+
+## INAJA (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (INAJA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/INAJA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'INAJA';
+  var GLOBAL_STATE = 'INAJA';
+</script>

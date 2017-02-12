@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEGOTINO_(Gostivar), MAKEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKEDONYA/NEGOTINO_(Gostivar)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
+  var GLOBAL_CITY = 'NEGOTINO_(Gostivar)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

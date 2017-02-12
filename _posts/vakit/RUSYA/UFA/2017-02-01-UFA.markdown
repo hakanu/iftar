@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: UFA, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/UFA
+---
+
+## UFA (RUSYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (UFA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UFA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'UFA';
+  var GLOBAL_STATE = 'UFA';
+</script>

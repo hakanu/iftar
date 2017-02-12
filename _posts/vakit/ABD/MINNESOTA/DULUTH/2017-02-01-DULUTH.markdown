@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MINNESOTA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/MINNESOTA/DULUTH
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'MINNESOTA';
+  var GLOBAL_STATE = 'DULUTH';
+  var lat = 72;
+  var lon = 21;
+</script>

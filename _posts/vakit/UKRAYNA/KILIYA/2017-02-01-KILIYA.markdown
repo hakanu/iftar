@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KILIYA, UKRAYNA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA/KILIYA
+---
+
+## KILIYA (UKRAYNA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KILIYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KILIYA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA';
+  var GLOBAL_CITY = 'KILIYA';
+  var GLOBAL_STATE = 'KILIYA';
+</script>

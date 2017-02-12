@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IBARRA, EKVATOR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /EKVATOR/IBARRA
+---
+
+## IBARRA (EKVATOR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IBARRA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/IBARRA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'EKVATOR';
+  var GLOBAL_CITY = 'IBARRA';
+  var GLOBAL_STATE = 'IBARRA';
+</script>

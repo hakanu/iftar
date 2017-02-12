@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: REMICH, LUKSEMBURG için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LUKSEMBURG/REMICH
+---
+
+## REMICH (LUKSEMBURG) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (REMICH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/REMICH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+  var GLOBAL_CITY = 'REMICH';
+  var GLOBAL_STATE = 'REMICH';
+</script>

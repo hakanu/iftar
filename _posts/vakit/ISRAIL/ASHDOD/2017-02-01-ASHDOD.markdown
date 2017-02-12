@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ASHDOD, ISRAIL için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISRAIL/ASHDOD
+---
+
+## ASHDOD (ISRAIL) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ASHDOD, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/ASHDOD/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISRAIL';
+  var GLOBAL_CITY = 'ASHDOD';
+  var GLOBAL_STATE = 'ASHDOD';
+</script>

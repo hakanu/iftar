@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VADUZ, LIECHTENSTEIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LIECHTENSTEIN/VADUZ
+---
+
+## VADUZ (LIECHTENSTEIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VADUZ, LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/VADUZ/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LIECHTENSTEIN';
+  var GLOBAL_CITY = 'VADUZ';
+  var GLOBAL_STATE = 'VADUZ';
+</script>

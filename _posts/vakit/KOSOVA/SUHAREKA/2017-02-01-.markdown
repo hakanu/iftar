@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SUHAREKA, KOSOVA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOSOVA/SUHAREKA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOSOVA';
+  var GLOBAL_CITY = 'SUHAREKA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

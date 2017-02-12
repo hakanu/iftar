@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NOVI_BEOGRAD_, SIRBISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SIRBISTAN/NOVI_BEOGRAD_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
+  var GLOBAL_CITY = 'NOVI_BEOGRAD_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

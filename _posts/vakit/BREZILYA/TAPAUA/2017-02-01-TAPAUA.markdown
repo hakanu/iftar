@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TAPAUA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/TAPAUA
+---
+
+## TAPAUA (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TAPAUA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TAPAUA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'TAPAUA';
+  var GLOBAL_STATE = 'TAPAUA';
+</script>

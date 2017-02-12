@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CASTELLON_DE_LA_PLANA, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/CASTELLON_DE_LA_PLANA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'CASTELLON_DE_LA_PLANA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

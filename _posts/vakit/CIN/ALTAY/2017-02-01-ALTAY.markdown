@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ALTAY, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/ALTAY
+---
+
+## ALTAY (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ALTAY, CIN) için iftar ve namaz vakitleri](/CIN/ALTAY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'ALTAY';
+  var GLOBAL_STATE = 'ALTAY';
+</script>

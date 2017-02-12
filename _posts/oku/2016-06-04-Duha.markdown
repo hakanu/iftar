@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: Duha suresini meali ve videosu ile takip et, dinle ve oku, Duha dinle, Duha meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Duha suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Duha suresinin mealini oku, dinle, takip et</h1>
+      <div><p></p><p></p><p>DUHA SURESİ (Resmi Mushaf : 93 / İniş Sırası : 11)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun kuşluk vaktine,</p><p></p><p></p><p>2. Gelip oturduğu vakit geceye ki,</p><p></p><p></p><p>3. Rabbin seni terketmedi, sana darılmadı da.</p><p></p><p></p><p>4. Sonrası senin için öncesinden elbette ki daha mutlu ve kutlu olacaktır.</p><p></p><p></p><p>5. Rabbin sana verecek de sen hoşnut olacaksın.</p><p></p><p></p><p>6. O seni bir yetim olarak bulup da barınağa kavuşturmadı mı?</p><p></p><p></p><p>7. Seni şaşırmış olarak bulup da kılavuzluğunu üstlenmedi mi?</p><p></p><p></p><p>8. Seni aile geçindirme zorluğu içinde bulup da zengin etmedi mi?</p><p></p><p></p><p>9. O halde, yetimi örseleme,</p><p></p><p></p><p>10. Yoksulu / dilenciyi azarlama.</p><p></p><p></p><p>11. Ve Rabbinin nimetini söz ve fiillerinle dile getir.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

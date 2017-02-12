@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DUDELANGE, LUKSEMBURG için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LUKSEMBURG/DUDELANGE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+  var GLOBAL_CITY = 'DUDELANGE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

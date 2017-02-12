@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VRANJE , SIRBISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SIRBISTAN/VRANJE 
+---
+
+## VRANJE  (SIRBISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VRANJE_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/VRANJE_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
+  var GLOBAL_CITY = 'VRANJE ';
+  var GLOBAL_STATE = 'VRANJE ';
+</script>

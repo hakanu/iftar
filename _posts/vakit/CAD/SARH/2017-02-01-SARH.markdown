@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SARH, CAD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CAD/SARH
+---
+
+## SARH (CAD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SARH, CAD) için iftar ve namaz vakitleri](/CAD/SARH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CAD';
+  var GLOBAL_CITY = 'SARH';
+  var GLOBAL_STATE = 'SARH';
+</script>

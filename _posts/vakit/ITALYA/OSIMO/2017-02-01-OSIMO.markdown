@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: OSIMO, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/OSIMO
+---
+
+## OSIMO (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (OSIMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/OSIMO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'OSIMO';
+  var GLOBAL_STATE = 'OSIMO';
+</script>

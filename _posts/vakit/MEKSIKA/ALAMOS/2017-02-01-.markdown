@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALAMOS, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/ALAMOS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'ALAMOS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

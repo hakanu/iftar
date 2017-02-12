@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NARST, MOGOLISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOGOLISTAN/NARST
+---
+
+## NARST (MOGOLISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NARST, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/NARST/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+  var GLOBAL_CITY = 'NARST';
+  var GLOBAL_STATE = 'NARST';
+</script>

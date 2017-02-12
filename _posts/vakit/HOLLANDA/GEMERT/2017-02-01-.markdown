@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GEMERT, HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/GEMERT/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'GEMERT';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BRITISH_COLOMBIA, KANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KANADA/BRITISH_COLOMBIA/LOUISE_ADASI
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KANADA';
+  var GLOBAL_CITY = 'BRITISH_COLOMBIA';
+  var GLOBAL_STATE = 'LOUISE_ADASI';
+  var lat = 72;
+  var lon = 21;
+</script>

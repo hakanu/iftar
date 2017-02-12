@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEGOTINO_(Kavadarci), MAKEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKEDONYA/NEGOTINO_(Kavadarci)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
+  var GLOBAL_CITY = 'NEGOTINO_(Kavadarci)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

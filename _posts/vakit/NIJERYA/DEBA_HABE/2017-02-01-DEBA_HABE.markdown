@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DEBA HABE, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/DEBA HABE
+---
+
+## DEBA HABE (NIJERYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DEBA_HABE, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/DEBA_HABE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'DEBA HABE';
+  var GLOBAL_STATE = 'DEBA HABE';
+</script>

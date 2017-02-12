@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SINCELEJO, KOLOMBIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOLOMBIYA/SINCELEJO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+  var GLOBAL_CITY = 'SINCELEJO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

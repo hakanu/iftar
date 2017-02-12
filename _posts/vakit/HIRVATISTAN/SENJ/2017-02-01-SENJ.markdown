@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SENJ, HIRVATISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HIRVATISTAN/SENJ
+---
+
+## SENJ (HIRVATISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SENJ, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SENJ/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+  var GLOBAL_CITY = 'SENJ';
+  var GLOBAL_STATE = 'SENJ';
+</script>

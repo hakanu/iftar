@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TRENTO, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/TRENTO
+---
+
+## TRENTO (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TRENTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRENTO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'TRENTO';
+  var GLOBAL_STATE = 'TRENTO';
+</script>

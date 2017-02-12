@@ -1,0 +1,19 @@
+---
+layout: vakit_dashboard
+title: NEVADA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/NEVADA
+---
+
+## NEVADA (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [LAS_VEGAS (NEVADA, ABD) için iftar ve namaz vakitleri](/ABD/NEVADA/LAS_VEGAS)
+* [RENO (NEVADA, ABD) için iftar ve namaz vakitleri](/ABD/NEVADA/RENO)
+* [CARSON_CITY (NEVADA, ABD) için iftar ve namaz vakitleri](/ABD/NEVADA/CARSON_CITY)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'NEVADA';
+  var GLOBAL_STATE = 'NEVADA';
+</script>

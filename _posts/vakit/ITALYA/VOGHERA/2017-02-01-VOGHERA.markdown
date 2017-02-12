@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VOGHERA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/VOGHERA
+---
+
+## VOGHERA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VOGHERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VOGHERA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'VOGHERA';
+  var GLOBAL_STATE = 'VOGHERA';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HYERES, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/HYERES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'HYERES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

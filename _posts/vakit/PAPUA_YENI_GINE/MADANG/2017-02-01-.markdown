@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MADANG, PAPUA_YENI_GINE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PAPUA_YENI_GINE/MADANG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PAPUA_YENI_GINE';
+  var GLOBAL_CITY = 'MADANG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

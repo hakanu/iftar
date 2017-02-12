@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ANTSIRABE, MADAGASKAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MADAGASKAR/ANTSIRABE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
+  var GLOBAL_CITY = 'ANTSIRABE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

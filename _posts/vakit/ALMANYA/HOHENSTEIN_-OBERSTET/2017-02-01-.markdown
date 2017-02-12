@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HOHENSTEIN_-OBERSTET, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/HOHENSTEIN_-OBERSTET/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'HOHENSTEIN_-OBERSTET';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

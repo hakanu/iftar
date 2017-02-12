@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZAHLAH, LUBNAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LUBNAN/ZAHLAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LUBNAN';
+  var GLOBAL_CITY = 'ZAHLAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

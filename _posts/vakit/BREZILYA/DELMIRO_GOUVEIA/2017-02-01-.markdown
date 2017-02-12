@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DELMIRO_GOUVEIA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/DELMIRO_GOUVEIA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'DELMIRO_GOUVEIA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

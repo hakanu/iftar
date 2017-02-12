@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MONOPOLI, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/MONOPOLI
+---
+
+## MONOPOLI (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MONOPOLI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MONOPOLI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'MONOPOLI';
+  var GLOBAL_STATE = 'MONOPOLI';
+</script>

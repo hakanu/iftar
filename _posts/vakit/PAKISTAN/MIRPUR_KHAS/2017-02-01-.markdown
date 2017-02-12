@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MIRPUR_KHAS, PAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PAKISTAN/MIRPUR_KHAS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PAKISTAN';
+  var GLOBAL_CITY = 'MIRPUR_KHAS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

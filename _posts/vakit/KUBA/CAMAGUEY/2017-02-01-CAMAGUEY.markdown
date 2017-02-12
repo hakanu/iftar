@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CAMAGUEY, KUBA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUBA/CAMAGUEY
+---
+
+## CAMAGUEY (KUBA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CAMAGUEY, KUBA) için iftar ve namaz vakitleri](/KUBA/CAMAGUEY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUBA';
+  var GLOBAL_CITY = 'CAMAGUEY';
+  var GLOBAL_STATE = 'CAMAGUEY';
+</script>

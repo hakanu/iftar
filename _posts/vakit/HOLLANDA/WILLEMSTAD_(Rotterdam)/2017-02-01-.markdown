@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WILLEMSTAD_(Rotterdam), HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/WILLEMSTAD_(Rotterdam)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'WILLEMSTAD_(Rotterdam)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

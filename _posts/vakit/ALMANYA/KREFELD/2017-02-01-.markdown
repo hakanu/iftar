@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KREFELD, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/KREFELD/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'KREFELD';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

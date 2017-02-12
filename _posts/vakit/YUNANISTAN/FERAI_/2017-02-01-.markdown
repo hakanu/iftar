@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: FERAI_, YUNANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YUNANISTAN/FERAI_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
+  var GLOBAL_CITY = 'FERAI_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TİDJİKDJA, MORITANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MORITANYA/TİDJİKDJA
+---
+
+## TİDJİKDJA (MORITANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TİDJİKDJA, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/TİDJİKDJA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MORITANYA';
+  var GLOBAL_CITY = 'TİDJİKDJA';
+  var GLOBAL_STATE = 'TİDJİKDJA';
+</script>

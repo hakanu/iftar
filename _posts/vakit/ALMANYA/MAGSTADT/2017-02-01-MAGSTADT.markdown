@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MAGSTADT, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/MAGSTADT
+---
+
+## MAGSTADT (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MAGSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAGSTADT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'MAGSTADT';
+  var GLOBAL_STATE = 'MAGSTADT';
+</script>

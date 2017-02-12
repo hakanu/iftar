@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BARDEJOV, SLOVAKYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SLOVAKYA/BARDEJOV/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
+  var GLOBAL_CITY = 'BARDEJOV';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

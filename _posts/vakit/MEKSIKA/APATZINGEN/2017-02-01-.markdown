@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: APATZINGEN, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/APATZINGEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'APATZINGEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

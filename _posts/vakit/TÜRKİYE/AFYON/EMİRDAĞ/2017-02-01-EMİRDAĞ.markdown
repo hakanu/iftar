@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AFYON, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/AFYON/EMİRDAĞ
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'AFYON';
+  var GLOBAL_STATE = 'EMİRDAĞ';
+  var lat = 72;
+  var lon = 21;
+</script>

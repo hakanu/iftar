@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TURMERO, VENEZUELA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VENEZUELA/TURMERO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VENEZUELA';
+  var GLOBAL_CITY = 'TURMERO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

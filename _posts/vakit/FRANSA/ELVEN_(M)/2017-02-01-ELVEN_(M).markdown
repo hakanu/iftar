@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ELVEN (M), FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/ELVEN (M)
+---
+
+## ELVEN (M) (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ELVEN_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ELVEN_(M)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'ELVEN (M)';
+  var GLOBAL_STATE = 'ELVEN (M)';
+</script>

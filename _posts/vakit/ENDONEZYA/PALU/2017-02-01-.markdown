@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PALU, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/PALU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'PALU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,21 @@
+---
+layout: generated_md
+title: SUDAN için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /SUDAN
+---
+
+## SUDAN için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [NYALA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/NYALA)
+* [NASIR (SUDAN) için iftar ve namaz vakitleri](/SUDAN/NASIR)
+* [JUBA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/JUBA)
+* [WAD_MADANI (SUDAN) için iftar ve namaz vakitleri](/SUDAN/WAD_MADANI)
+* [WADI_HALFA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/WADI_HALFA)
+* [TAWKAR (SUDAN) için iftar ve namaz vakitleri](/SUDAN/TAWKAR)
+* [KASSALA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/KASSALA)
+* [PORT_SUDAN (SUDAN) için iftar ve namaz vakitleri](/SUDAN/PORT_SUDAN)
+* [AL_QADARIF (SUDAN) için iftar ve namaz vakitleri](/SUDAN/AL_QADARIF)
+* [AL_UBAYYID (SUDAN) için iftar ve namaz vakitleri](/SUDAN/AL_UBAYYID)
+* [HARTUM (SUDAN) için iftar ve namaz vakitleri](/SUDAN/HARTUM)

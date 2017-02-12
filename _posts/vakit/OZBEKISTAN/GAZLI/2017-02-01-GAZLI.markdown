@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GAZLI, OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/GAZLI
+---
+
+## GAZLI (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GAZLI, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GAZLI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'GAZLI';
+  var GLOBAL_STATE = 'GAZLI';
+</script>

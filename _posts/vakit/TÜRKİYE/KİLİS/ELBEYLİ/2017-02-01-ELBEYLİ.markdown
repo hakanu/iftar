@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KİLİS, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/KİLİS/ELBEYLİ
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'KİLİS';
+  var GLOBAL_STATE = 'ELBEYLİ';
+  var lat = 72;
+  var lon = 21;
+</script>

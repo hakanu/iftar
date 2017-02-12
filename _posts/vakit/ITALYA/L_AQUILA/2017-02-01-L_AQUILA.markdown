@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: L AQUILA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/L AQUILA
+---
+
+## L AQUILA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (L_AQUILA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/L_AQUILA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'L AQUILA';
+  var GLOBAL_STATE = 'L AQUILA';
+</script>

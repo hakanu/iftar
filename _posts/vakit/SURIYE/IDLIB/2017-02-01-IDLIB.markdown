@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IDLIB, SURIYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SURIYE/IDLIB
+---
+
+## IDLIB (SURIYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IDLIB, SURIYE) için iftar ve namaz vakitleri](/SURIYE/IDLIB/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SURIYE';
+  var GLOBAL_CITY = 'IDLIB';
+  var GLOBAL_STATE = 'IDLIB';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: URUS-MARTAN, CECENISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CECENISTAN/URUS-MARTAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CECENISTAN';
+  var GLOBAL_CITY = 'URUS-MARTAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

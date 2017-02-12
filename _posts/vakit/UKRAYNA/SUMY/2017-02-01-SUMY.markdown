@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SUMY, UKRAYNA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA/SUMY
+---
+
+## SUMY (UKRAYNA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SUMY, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SUMY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA';
+  var GLOBAL_CITY = 'SUMY';
+  var GLOBAL_STATE = 'SUMY';
+</script>

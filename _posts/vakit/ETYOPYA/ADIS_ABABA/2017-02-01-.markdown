@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ADIS_ABABA, ETYOPYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ETYOPYA/ADIS_ABABA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ETYOPYA';
+  var GLOBAL_CITY = 'ADIS_ABABA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

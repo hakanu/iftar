@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ORIZABA, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/ORIZABA
+---
+
+## ORIZABA (MEKSIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ORIZABA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ORIZABA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'ORIZABA';
+  var GLOBAL_STATE = 'ORIZABA';
+</script>

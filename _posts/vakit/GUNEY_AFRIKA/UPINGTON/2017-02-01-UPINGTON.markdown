@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: UPINGTON, GUNEY AFRIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY AFRIKA/UPINGTON
+---
+
+## UPINGTON (GUNEY AFRIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (UPINGTON, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/UPINGTON/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+  var GLOBAL_CITY = 'UPINGTON';
+  var GLOBAL_STATE = 'UPINGTON';
+</script>

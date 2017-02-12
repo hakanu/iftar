@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DOSSO, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/DOSSO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'DOSSO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

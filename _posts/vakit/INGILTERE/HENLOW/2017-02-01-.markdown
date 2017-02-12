@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HENLOW, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/HENLOW/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'HENLOW';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

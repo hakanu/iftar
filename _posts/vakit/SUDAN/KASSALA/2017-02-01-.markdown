@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KASSALA, SUDAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SUDAN/KASSALA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SUDAN';
+  var GLOBAL_CITY = 'KASSALA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

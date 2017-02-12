@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KATHMANDU, NEPAL için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NEPAL/KATHMANDU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NEPAL';
+  var GLOBAL_CITY = 'KATHMANDU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

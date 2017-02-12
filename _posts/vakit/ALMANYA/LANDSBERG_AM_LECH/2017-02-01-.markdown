@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LANDSBERG_AM_LECH, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/LANDSBERG_AM_LECH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'LANDSBERG_AM_LECH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

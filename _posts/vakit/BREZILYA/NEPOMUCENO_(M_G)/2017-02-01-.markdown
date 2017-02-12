@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEPOMUCENO_(M_G), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/NEPOMUCENO_(M_G)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'NEPOMUCENO_(M_G)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: REFAH, FILISTIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILISTIN/REFAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILISTIN';
+  var GLOBAL_CITY = 'REFAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BALIKESİR, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/BALIKESİR/DURSUNBEY
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'BALIKESİR';
+  var GLOBAL_STATE = 'DURSUNBEY';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AKSARAY, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/AKSARAY/ESKİL
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'AKSARAY';
+  var GLOBAL_STATE = 'ESKİL';
+  var lat = 72;
+  var lon = 21;
+</script>

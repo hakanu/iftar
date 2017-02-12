@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KARAKOL, KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/KARAKOL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'KARAKOL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

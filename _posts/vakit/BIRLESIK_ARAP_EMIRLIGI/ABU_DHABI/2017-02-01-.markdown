@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ABU_DHABI, BIRLESIK_ARAP_EMIRLIGI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BIRLESIK_ARAP_EMIRLIGI/ABU_DHABI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BIRLESIK_ARAP_EMIRLIGI';
+  var GLOBAL_CITY = 'ABU_DHABI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

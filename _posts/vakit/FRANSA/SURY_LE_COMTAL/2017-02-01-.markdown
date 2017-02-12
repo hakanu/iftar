@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SURY_LE_COMTAL, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/SURY_LE_COMTAL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'SURY_LE_COMTAL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

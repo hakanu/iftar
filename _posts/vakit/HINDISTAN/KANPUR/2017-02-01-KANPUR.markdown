@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KANPUR, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/KANPUR
+---
+
+## KANPUR (HINDISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KANPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KANPUR/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'KANPUR';
+  var GLOBAL_STATE = 'KANPUR';
+</script>

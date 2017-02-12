@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BATUM, GURCISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GURCISTAN/BATUM
+---
+
+## BATUM (GURCISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BATUM, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/BATUM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GURCISTAN';
+  var GLOBAL_CITY = 'BATUM';
+  var GLOBAL_STATE = 'BATUM';
+</script>

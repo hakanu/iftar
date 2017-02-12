@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BRYNE_(_R_), NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/BRYNE_(_R_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'BRYNE_(_R_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

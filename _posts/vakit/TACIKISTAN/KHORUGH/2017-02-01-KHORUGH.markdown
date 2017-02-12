@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KHORUGH, TACIKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TACIKISTAN/KHORUGH
+---
+
+## KHORUGH (TACIKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KHORUGH, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KHORUGH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
+  var GLOBAL_CITY = 'KHORUGH';
+  var GLOBAL_STATE = 'KHORUGH';
+</script>

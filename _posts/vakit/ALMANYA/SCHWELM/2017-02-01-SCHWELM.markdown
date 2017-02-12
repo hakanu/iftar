@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SCHWELM, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SCHWELM
+---
+
+## SCHWELM (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SCHWELM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWELM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SCHWELM';
+  var GLOBAL_STATE = 'SCHWELM';
+</script>

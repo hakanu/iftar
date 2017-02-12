@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MURICI (A), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/MURICI (A)
+---
+
+## MURICI (A) (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MURICI_(A), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MURICI_(A)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'MURICI (A)';
+  var GLOBAL_STATE = 'MURICI (A)';
+</script>

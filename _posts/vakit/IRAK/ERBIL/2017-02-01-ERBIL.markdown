@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ERBIL, IRAK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAK/ERBIL
+---
+
+## ERBIL (IRAK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ERBIL, IRAK) için iftar ve namaz vakitleri](/IRAK/ERBIL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAK';
+  var GLOBAL_CITY = 'ERBIL';
+  var GLOBAL_STATE = 'ERBIL';
+</script>

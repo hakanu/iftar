@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ONITSHA, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/ONITSHA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'ONITSHA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

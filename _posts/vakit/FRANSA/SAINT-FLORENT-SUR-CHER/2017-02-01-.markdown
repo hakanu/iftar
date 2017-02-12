@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAINT-FLORENT-SUR-CHER, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/SAINT-FLORENT-SUR-CHER/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'SAINT-FLORENT-SUR-CHER';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

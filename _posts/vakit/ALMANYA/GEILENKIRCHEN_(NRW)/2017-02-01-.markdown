@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GEILENKIRCHEN_(NRW), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GEILENKIRCHEN_(NRW)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GEILENKIRCHEN_(NRW)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

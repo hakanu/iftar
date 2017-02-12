@@ -1,0 +1,21 @@
+---
+layout: vakit_dashboard
+title: GÜMÜŞHANE, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/GÜMÜŞHANE
+---
+
+## GÜMÜŞHANE (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [GÜMÜŞHANE (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/GÜMÜŞHANE)
+* [KÜRTÜN (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/KÜRTÜN)
+* [KÖSE (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/KÖSE)
+* [ŞİRAN (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/ŞİRAN)
+* [TORUL (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/TORUL)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'GÜMÜŞHANE';
+  var GLOBAL_STATE = 'GÜMÜŞHANE';
+</script>

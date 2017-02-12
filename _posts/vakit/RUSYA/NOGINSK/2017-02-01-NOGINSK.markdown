@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NOGINSK, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/NOGINSK
+---
+
+## NOGINSK (RUSYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NOGINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOGINSK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'NOGINSK';
+  var GLOBAL_STATE = 'NOGINSK';
+</script>

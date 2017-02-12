@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BOGOR, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/BOGOR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'BOGOR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

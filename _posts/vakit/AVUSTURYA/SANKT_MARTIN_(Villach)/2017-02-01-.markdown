@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SANKT_MARTIN_(Villach), AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/SANKT_MARTIN_(Villach)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'SANKT_MARTIN_(Villach)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

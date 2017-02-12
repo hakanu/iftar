@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SUBOTICA, SIRBISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SIRBISTAN/SUBOTICA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
+  var GLOBAL_CITY = 'SUBOTICA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

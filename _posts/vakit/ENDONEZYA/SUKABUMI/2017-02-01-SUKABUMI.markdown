@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SUKABUMI, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/SUKABUMI
+---
+
+## SUKABUMI (ENDONEZYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SUKABUMI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SUKABUMI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'SUKABUMI';
+  var GLOBAL_STATE = 'SUKABUMI';
+</script>

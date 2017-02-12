@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HUBINA, SLOVAKYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SLOVAKYA/HUBINA
+---
+
+## HUBINA (SLOVAKYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HUBINA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/HUBINA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
+  var GLOBAL_CITY = 'HUBINA';
+  var GLOBAL_STATE = 'HUBINA';
+</script>

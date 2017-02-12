@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHAIYAP_HUM, TAYLAND için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYLAND/CHAIYAP_HUM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYLAND';
+  var GLOBAL_CITY = 'CHAIYAP_HUM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

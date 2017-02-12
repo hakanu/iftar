@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AL_QADARIF, SUDAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SUDAN/AL_QADARIF/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SUDAN';
+  var GLOBAL_CITY = 'AL_QADARIF';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

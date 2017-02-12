@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KOMAKI, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/KOMAKI
+---
+
+## KOMAKI (JAPONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KOMAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KOMAKI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'KOMAKI';
+  var GLOBAL_STATE = 'KOMAKI';
+</script>

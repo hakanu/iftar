@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MARNEULI, GURCISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GURCISTAN/MARNEULI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GURCISTAN';
+  var GLOBAL_CITY = 'MARNEULI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

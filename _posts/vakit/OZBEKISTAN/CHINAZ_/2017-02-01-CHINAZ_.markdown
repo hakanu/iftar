@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CHINAZ , OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/CHINAZ 
+---
+
+## CHINAZ  (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CHINAZ_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/CHINAZ_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'CHINAZ ';
+  var GLOBAL_STATE = 'CHINAZ ';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NOVIY_URENGOY, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/NOVIY_URENGOY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'NOVIY_URENGOY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

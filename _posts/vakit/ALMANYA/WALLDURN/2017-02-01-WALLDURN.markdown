@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: WALLDURN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WALLDURN
+---
+
+## WALLDURN (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WALLDURN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALLDURN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WALLDURN';
+  var GLOBAL_STATE = 'WALLDURN';
+</script>

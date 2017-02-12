@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CASCAVEL_(Parana), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/CASCAVEL_(Parana)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'CASCAVEL_(Parana)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

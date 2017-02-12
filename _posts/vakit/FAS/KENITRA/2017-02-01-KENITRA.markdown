@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KENITRA, FAS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FAS/KENITRA
+---
+
+## KENITRA (FAS) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KENITRA, FAS) için iftar ve namaz vakitleri](/FAS/KENITRA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FAS';
+  var GLOBAL_CITY = 'KENITRA';
+  var GLOBAL_STATE = 'KENITRA';
+</script>

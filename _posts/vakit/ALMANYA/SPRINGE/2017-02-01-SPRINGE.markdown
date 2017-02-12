@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SPRINGE, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SPRINGE
+---
+
+## SPRINGE (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SPRINGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPRINGE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SPRINGE';
+  var GLOBAL_STATE = 'SPRINGE';
+</script>

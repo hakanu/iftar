@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SEKONDI, GANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GANA/SEKONDI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GANA';
+  var GLOBAL_CITY = 'SEKONDI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

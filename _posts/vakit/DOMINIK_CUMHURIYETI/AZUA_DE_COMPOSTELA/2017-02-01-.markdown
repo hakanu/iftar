@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AZUA_DE_COMPOSTELA, DOMINIK_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DOMINIK_CUMHURIYETI/AZUA_DE_COMPOSTELA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DOMINIK_CUMHURIYETI';
+  var GLOBAL_CITY = 'AZUA_DE_COMPOSTELA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

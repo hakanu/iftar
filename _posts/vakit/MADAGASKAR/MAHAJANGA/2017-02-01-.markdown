@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MAHAJANGA, MADAGASKAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MADAGASKAR/MAHAJANGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
+  var GLOBAL_CITY = 'MAHAJANGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

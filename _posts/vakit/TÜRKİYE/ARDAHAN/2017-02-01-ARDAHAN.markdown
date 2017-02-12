@@ -1,0 +1,22 @@
+---
+layout: vakit_dashboard
+title: ARDAHAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ARDAHAN
+---
+
+## ARDAHAN (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [DAMAL (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/DAMAL)
+* [HANAK (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/HANAK)
+* [ARDAHAN (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/ARDAHAN)
+* [ÇILDIR (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/ÇILDIR)
+* [GÖLE (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/GÖLE)
+* [POSOF (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/POSOF)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ARDAHAN';
+  var GLOBAL_STATE = 'ARDAHAN';
+</script>

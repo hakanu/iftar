@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FIER, ARNAVUTLUK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARNAVUTLUK/FIER
+---
+
+## FIER (ARNAVUTLUK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FIER, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/FIER/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+  var GLOBAL_CITY = 'FIER';
+  var GLOBAL_STATE = 'FIER';
+</script>

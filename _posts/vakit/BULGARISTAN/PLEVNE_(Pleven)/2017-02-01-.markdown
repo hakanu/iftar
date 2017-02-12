@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PLEVNE_(Pleven), BULGARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BULGARISTAN/PLEVNE_(Pleven)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
+  var GLOBAL_CITY = 'PLEVNE_(Pleven)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

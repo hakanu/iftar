@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DEUTSCHLANDSBERG_, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/DEUTSCHLANDSBERG_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'DEUTSCHLANDSBERG_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

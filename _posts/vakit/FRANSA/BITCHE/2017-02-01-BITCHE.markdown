@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BITCHE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/BITCHE
+---
+
+## BITCHE (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BITCHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BITCHE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'BITCHE';
+  var GLOBAL_STATE = 'BITCHE';
+</script>

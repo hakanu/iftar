@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WASSERBURG_AM_BODENS, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WASSERBURG_AM_BODENS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WASSERBURG_AM_BODENS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

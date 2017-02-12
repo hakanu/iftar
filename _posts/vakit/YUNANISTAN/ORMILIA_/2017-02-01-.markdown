@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ORMILIA_, YUNANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YUNANISTAN/ORMILIA_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
+  var GLOBAL_CITY = 'ORMILIA_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

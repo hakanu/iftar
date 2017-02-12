@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: JINOTEGA, NIKARAGUA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIKARAGUA/JINOTEGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
+  var GLOBAL_CITY = 'JINOTEGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

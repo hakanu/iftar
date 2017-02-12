@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SUMBE, ANGOLA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ANGOLA/SUMBE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ANGOLA';
+  var GLOBAL_CITY = 'SUMBE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

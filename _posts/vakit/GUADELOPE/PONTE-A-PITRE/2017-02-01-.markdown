@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PONTE-A-PITRE, GUADELOPE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUADELOPE/PONTE-A-PITRE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUADELOPE';
+  var GLOBAL_CITY = 'PONTE-A-PITRE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

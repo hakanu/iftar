@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RYDE, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/RYDE
+---
+
+## RYDE (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RYDE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/RYDE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'RYDE';
+  var GLOBAL_STATE = 'RYDE';
+</script>

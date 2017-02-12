@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ELBLAG, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/ELBLAG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'ELBLAG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: OSTRAVA, CEK CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEK CUMHURIYETI/OSTRAVA
+---
+
+## OSTRAVA (CEK CUMHURIYETI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (OSTRAVA, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/OSTRAVA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+  var GLOBAL_CITY = 'OSTRAVA';
+  var GLOBAL_STATE = 'OSTRAVA';
+</script>

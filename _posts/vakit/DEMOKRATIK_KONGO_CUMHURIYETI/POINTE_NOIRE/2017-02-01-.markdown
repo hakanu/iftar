@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: POINTE_NOIRE, DEMOKRATIK_KONGO_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DEMOKRATIK_KONGO_CUMHURIYETI/POINTE_NOIRE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DEMOKRATIK_KONGO_CUMHURIYETI';
+  var GLOBAL_CITY = 'POINTE_NOIRE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

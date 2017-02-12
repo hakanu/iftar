@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PLOIESTI, ROMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ROMANYA/PLOIESTI
+---
+
+## PLOIESTI (ROMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PLOIESTI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PLOIESTI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ROMANYA';
+  var GLOBAL_CITY = 'PLOIESTI';
+  var GLOBAL_STATE = 'PLOIESTI';
+</script>

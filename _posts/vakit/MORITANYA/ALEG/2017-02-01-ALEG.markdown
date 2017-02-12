@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ALEG, MORITANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MORITANYA/ALEG
+---
+
+## ALEG (MORITANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ALEG, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ALEG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MORITANYA';
+  var GLOBAL_CITY = 'ALEG';
+  var GLOBAL_STATE = 'ALEG';
+</script>

@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: İnfitar suresini meali ve videosu ile takip et, dinle ve oku, İnfitar dinle, İnfitar meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>İnfitar suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>İnfitar suresinin mealini oku, dinle, takip et</h1>
+      <div><p>İNFİTAR SURESİ (Resmi Mushaf : 82 / İniş Sırası : 82)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Gök çatlayıp yarıldığı zaman,</p><p></p><p></p><p>2. Yıldızlar dökülüp saçıldığı zaman,</p><p></p><p></p><p>3. Denizler fışkırtıldığı zaman,</p><p></p><p></p><p>4. Kabirler deşildiği zaman,</p><p></p><p></p><p>5. Benlik bilmiş olacaktır önden gönderdiğini de arkaya bıraktığını da.</p><p></p><p></p><p>6. Ey İnsan! O sonsuz cömertliğin sahibi Rabbine karşı seni gururlu kılan nedir?</p><p></p><p></p><p>7. Rabbin ki seni yarattı, düzenledi, en güzel ölçülerle şekillendirdi.</p><p></p><p></p><p>8. Dilediği herhangi bir biçimde seni oluşturdu.</p><p></p><p></p><p>9. Hayır, iş sanıldığı gibi değil. Siz dini yalanlıyorsunuz.</p><p></p><p></p><p>10. Ve şu kuşkusuz ki, sizin üzerinizde koruyucular-bekçiler var.</p><p></p><p></p><p>11. Çok değerli yazıcılar,</p><p></p><p></p><p>12. Bilirler yapmakta olduğunuzu.</p><p></p><p></p><p>13. Şu da kuşkusuz: İyiler tam bir nimet içindedir,</p><p></p><p></p><p>14. Kötülerse cehennemin ta ortasında.</p><p></p><p></p><p>15. Din günü girerler oraya.</p><p></p><p></p><p>16. Onlar ondan, görülmeyecek şekilde uzaklaşmış değillerdir.</p><p></p><p></p><p>17. Din gününün ne olduğunu sana bildiren nedir?</p><p></p><p></p><p>18. Evet, din gününün ne olduğunu sana bildiren nedir?</p><p></p><p></p><p>19. Bir gündür ki o, bir benlik bir başka benlik için hiçbir şeye güç yetiremez. O gün buyruk yalnız Allah’ındır.</p><p></p><p></p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

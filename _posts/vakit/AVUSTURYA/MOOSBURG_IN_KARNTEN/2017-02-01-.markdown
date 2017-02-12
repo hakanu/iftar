@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MOOSBURG_IN_KARNTEN, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/MOOSBURG_IN_KARNTEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'MOOSBURG_IN_KARNTEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

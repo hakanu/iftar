@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_IGNACIO, BELIZE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELIZE/SAN_IGNACIO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELIZE';
+  var GLOBAL_CITY = 'SAN_IGNACIO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

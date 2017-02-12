@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BAHIA_DE_CARAQUEZ, EKVATOR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /EKVATOR/BAHIA_DE_CARAQUEZ/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'EKVATOR';
+  var GLOBAL_CITY = 'BAHIA_DE_CARAQUEZ';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

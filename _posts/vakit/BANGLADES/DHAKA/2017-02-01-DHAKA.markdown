@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DHAKA, BANGLADES için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BANGLADES/DHAKA
+---
+
+## DHAKA (BANGLADES) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DHAKA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/DHAKA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BANGLADES';
+  var GLOBAL_CITY = 'DHAKA';
+  var GLOBAL_STATE = 'DHAKA';
+</script>

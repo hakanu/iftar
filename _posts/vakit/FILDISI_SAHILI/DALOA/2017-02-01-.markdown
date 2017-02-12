@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DALOA, FILDISI_SAHILI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILDISI_SAHILI/DALOA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILDISI_SAHILI';
+  var GLOBAL_CITY = 'DALOA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VALKI, UKRAYNA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA/VALKI
+---
+
+## VALKI (UKRAYNA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VALKI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VALKI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA';
+  var GLOBAL_CITY = 'VALKI';
+  var GLOBAL_STATE = 'VALKI';
+</script>

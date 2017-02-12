@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: APOPA, EL_SALVADOR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /EL_SALVADOR/APOPA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'EL_SALVADOR';
+  var GLOBAL_CITY = 'APOPA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

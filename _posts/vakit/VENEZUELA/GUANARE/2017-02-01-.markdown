@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GUANARE, VENEZUELA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VENEZUELA/GUANARE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VENEZUELA';
+  var GLOBAL_CITY = 'GUANARE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

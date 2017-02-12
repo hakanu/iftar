@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SAM, SURIYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SURIYE/SAM
+---
+
+## SAM (SURIYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SAM, SURIYE) için iftar ve namaz vakitleri](/SURIYE/SAM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SURIYE';
+  var GLOBAL_CITY = 'SAM';
+  var GLOBAL_STATE = 'SAM';
+</script>

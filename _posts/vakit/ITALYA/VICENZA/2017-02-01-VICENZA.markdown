@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VICENZA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/VICENZA
+---
+
+## VICENZA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VICENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VICENZA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'VICENZA';
+  var GLOBAL_STATE = 'VICENZA';
+</script>

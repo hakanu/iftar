@@ -1,0 +1,18 @@
+---
+layout: vakit_dashboard
+title: P_E_I_, KANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KANADA/P_E_I_
+---
+
+## P_E_I_ (KANADA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [CHARLOTTETOWN (P_E_I_, KANADA) için iftar ve namaz vakitleri](/KANADA/P_E_I_/CHARLOTTETOWN)
+* [NAHCIVAN (P_E_I_, KANADA) için iftar ve namaz vakitleri](/KANADA/P_E_I_/NAHCIVAN)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KANADA';
+  var GLOBAL_CITY = 'P_E_I_';
+  var GLOBAL_STATE = 'P_E_I_';
+</script>

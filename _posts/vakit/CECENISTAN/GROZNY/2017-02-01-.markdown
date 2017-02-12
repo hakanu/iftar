@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GROZNY, CECENISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CECENISTAN/GROZNY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CECENISTAN';
+  var GLOBAL_CITY = 'GROZNY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

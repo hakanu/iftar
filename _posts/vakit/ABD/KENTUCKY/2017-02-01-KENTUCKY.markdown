@@ -1,0 +1,20 @@
+---
+layout: vakit_dashboard
+title: KENTUCKY, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/KENTUCKY
+---
+
+## KENTUCKY (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [BOWLING_GREEN (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/BOWLING_GREEN)
+* [LEXINGTON (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/LEXINGTON)
+* [FRANKFORT (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/FRANKFORT)
+* [LOUISVILLE (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/LOUISVILLE)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'KENTUCKY';
+  var GLOBAL_STATE = 'KENTUCKY';
+</script>

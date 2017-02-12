@@ -1,0 +1,33 @@
+---
+layout: vakit_dashboard
+title: NEW YORK, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/NEW YORK
+---
+
+## NEW YORK (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [LOCKPORT (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/LOCKPORT)
+* [BINGHAMTON (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BINGHAMTON)
+* [ALBANY (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ALBANY)
+* [BRIGHTON (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BRIGHTON)
+* [BUFFALO (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BUFFALO)
+* [CANANDAIGUA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/CANANDAIGUA)
+* [ELMIRA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ELMIRA)
+* [ROCHESTER (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ROCHESTER)
+* [YONKERS (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/YONKERS)
+* [SYRACUSE (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/SYRACUSE)
+* [BATAVIA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BATAVIA)
+* [NEW_YORK (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/NEW_YORK)
+* [BROOKLYN_(Cattaraugus) (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BROOKLYN_(Cattaraugus))
+* [GENEVA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/GENEVA)
+* [ITHACA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ITHACA)
+* [RONKONKOMA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/RONKONKOMA)
+* [NEWARK (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/NEWARK)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'NEW YORK';
+  var GLOBAL_STATE = 'NEW YORK';
+</script>

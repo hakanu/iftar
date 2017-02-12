@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MAZYR, BELARUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELARUS/MAZYR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELARUS';
+  var GLOBAL_CITY = 'MAZYR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

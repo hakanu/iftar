@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MALDEGEM, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/MALDEGEM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'MALDEGEM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

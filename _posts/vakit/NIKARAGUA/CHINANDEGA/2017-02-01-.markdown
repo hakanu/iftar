@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHINANDEGA, NIKARAGUA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIKARAGUA/CHINANDEGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
+  var GLOBAL_CITY = 'CHINANDEGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MULHEIM_AN_DER_RUHR, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/MULHEIM_AN_DER_RUHR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'MULHEIM_AN_DER_RUHR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

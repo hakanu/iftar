@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GLAMOC_, BOSNA_HERSEK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOSNA_HERSEK/GLAMOC_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOSNA_HERSEK';
+  var GLOBAL_CITY = 'GLAMOC_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

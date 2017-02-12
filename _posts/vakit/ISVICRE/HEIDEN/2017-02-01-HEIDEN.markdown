@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HEIDEN, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/HEIDEN
+---
+
+## HEIDEN (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HEIDEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HEIDEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'HEIDEN';
+  var GLOBAL_STATE = 'HEIDEN';
+</script>

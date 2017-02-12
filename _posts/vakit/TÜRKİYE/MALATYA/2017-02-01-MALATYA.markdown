@@ -1,0 +1,29 @@
+---
+layout: vakit_dashboard
+title: MALATYA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MALATYA
+---
+
+## MALATYA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [DOĞANYOL (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/DOĞANYOL)
+* [YEŞİLYURT (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/YEŞİLYURT)
+* [HEKİMHAN (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/HEKİMHAN)
+* [DARENDE (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/DARENDE)
+* [YAZIHAN (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/YAZIHAN)
+* [KULUNCAK (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/KULUNCAK)
+* [MALATYA (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/MALATYA)
+* [PÜTÜRGE (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/PÜTÜRGE)
+* [DOĞANŞEHİR (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/DOĞANŞEHİR)
+* [AKÇADAĞ (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/AKÇADAĞ)
+* [KALE_(M) (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/KALE_(M))
+* [ARGUVAN (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/ARGUVAN)
+* [ARAPGİR (MALATYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MALATYA/ARAPGİR)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'MALATYA';
+  var GLOBAL_STATE = 'MALATYA';
+</script>

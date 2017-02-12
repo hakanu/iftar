@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: EISDEN, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/EISDEN
+---
+
+## EISDEN (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (EISDEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/EISDEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'EISDEN';
+  var GLOBAL_STATE = 'EISDEN';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CAP-HAITEN, HAITI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HAITI/CAP-HAITEN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HAITI';
+  var GLOBAL_CITY = 'CAP-HAITEN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

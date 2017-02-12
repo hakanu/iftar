@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MONZA               , ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/MONZA               
+---
+
+## MONZA                (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MONZA_______________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MONZA_______________/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'MONZA               ';
+  var GLOBAL_STATE = 'MONZA               ';
+</script>

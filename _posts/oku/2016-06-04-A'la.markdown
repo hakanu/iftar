@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: A'la suresini meali ve videosu ile takip et, dinle ve oku, A'la dinle, A'la meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>A'la suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>A'la suresinin mealini oku, dinle, takip et</h1>
+      <div><p>A’LA SURESİ (Resmi Mushaf : 87 / İniş Sırası : 8)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Rabbinin o yüce adını tespih et;</p><p></p><p></p><p>2. O ki yarattı, düzene koydu,</p><p></p><p></p><p>3. O ki miktarını, şeklini belirledi, yolunu çizip aydınlattı.</p><p></p><p></p><p>4. O ki otlağı çıkardı,</p><p></p><p></p><p>5. Sonra da onu sellerin sürüklediği morarmış bir atık haline getirdi.</p><p></p><p></p><p>6. Seni okutacağız da artık unutmayacaksın.</p><p></p><p></p><p>7. Allah’ın dilediği müstesna. O, açıklananı da gizleneni de bilir.</p><p></p><p></p><p>8. Sana en kolay olanı kolaylaştıracağız.</p><p></p><p></p><p>9. Eğer hatırlatmak yarar sağlarsa hatırlat / öğüt ver.</p><p></p><p></p><p>10. İçine ürperti düşen öğüt alacaktır.</p><p></p><p></p><p>11. İçi kararmış bedbaht ise ondan kaçınacaktır.</p><p></p><p></p><p>12. En büyük ateşe girer o.</p><p></p><p></p><p>13. Sonra orada ne ölür ne de hayat bulur.</p><p></p><p></p><p>14. Benliğini arındıran / zekat veren, kurtuluşa gerçekten ermiştir.</p><p></p><p></p><p>15. Rabbinin adını anmış, namaz kılıp dua etmiştir o.</p><p></p><p></p><p>16. Doğrusu şu ki, siz şu iğreti hayatı yeğliyorsunuz.</p><p></p><p></p><p>17. Oysa ki sonraki hayat daha mutlu, daha kalıcıdır.</p><p></p><p></p><p>18. Bütün bu gerçekler ilk sayfalarda da elbette vardır.</p><p></p><p></p><p>19. İbrahim’in ve Musa’nın sayfalarında.</p><p></p><p></p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

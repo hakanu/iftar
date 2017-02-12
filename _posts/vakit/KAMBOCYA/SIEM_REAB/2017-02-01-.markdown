@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SIEM_REAB, KAMBOCYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAMBOCYA/SIEM_REAB/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
+  var GLOBAL_CITY = 'SIEM_REAB';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

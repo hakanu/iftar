@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IQUITOS, PERU için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PERU/IQUITOS
+---
+
+## IQUITOS (PERU) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IQUITOS, PERU) için iftar ve namaz vakitleri](/PERU/IQUITOS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PERU';
+  var GLOBAL_CITY = 'IQUITOS';
+  var GLOBAL_STATE = 'IQUITOS';
+</script>

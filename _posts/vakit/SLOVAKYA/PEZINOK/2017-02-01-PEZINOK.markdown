@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PEZINOK, SLOVAKYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SLOVAKYA/PEZINOK
+---
+
+## PEZINOK (SLOVAKYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PEZINOK, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/PEZINOK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
+  var GLOBAL_CITY = 'PEZINOK';
+  var GLOBAL_STATE = 'PEZINOK';
+</script>

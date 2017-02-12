@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ELSFETH, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ELSFETH
+---
+
+## ELSFETH (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ELSFETH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELSFETH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ELSFETH';
+  var GLOBAL_STATE = 'ELSFETH';
+</script>

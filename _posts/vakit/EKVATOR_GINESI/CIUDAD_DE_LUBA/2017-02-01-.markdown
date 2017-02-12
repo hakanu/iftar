@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CIUDAD_DE_LUBA, EKVATOR_GINESI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /EKVATOR_GINESI/CIUDAD_DE_LUBA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'EKVATOR_GINESI';
+  var GLOBAL_CITY = 'CIUDAD_DE_LUBA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

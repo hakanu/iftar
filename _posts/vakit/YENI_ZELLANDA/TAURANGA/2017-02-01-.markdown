@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TAURANGA, YENI_ZELLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YENI_ZELLANDA/TAURANGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YENI_ZELLANDA';
+  var GLOBAL_CITY = 'TAURANGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

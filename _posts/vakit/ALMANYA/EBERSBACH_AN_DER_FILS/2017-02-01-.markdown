@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: EBERSBACH_AN_DER_FILS, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/EBERSBACH_AN_DER_FILS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'EBERSBACH_AN_DER_FILS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

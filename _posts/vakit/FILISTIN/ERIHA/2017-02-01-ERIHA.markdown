@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ERIHA, FILISTIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILISTIN/ERIHA
+---
+
+## ERIHA (FILISTIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ERIHA, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/ERIHA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILISTIN';
+  var GLOBAL_CITY = 'ERIHA';
+  var GLOBAL_STATE = 'ERIHA';
+</script>

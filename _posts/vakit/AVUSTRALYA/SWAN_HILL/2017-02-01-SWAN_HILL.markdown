@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SWAN HILL, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/SWAN HILL
+---
+
+## SWAN HILL (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SWAN_HILL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SWAN_HILL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'SWAN HILL';
+  var GLOBAL_STATE = 'SWAN HILL';
+</script>

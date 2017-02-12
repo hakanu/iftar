@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAINT_DENIS, REUNION için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /REUNION/SAINT_DENIS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'REUNION';
+  var GLOBAL_CITY = 'SAINT_DENIS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

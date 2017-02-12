@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SHARJAH, BIRLESIK_ARAP_EMIRLIGI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BIRLESIK_ARAP_EMIRLIGI/SHARJAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BIRLESIK_ARAP_EMIRLIGI';
+  var GLOBAL_CITY = 'SHARJAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

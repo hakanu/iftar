@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: COQUIMBO, SILI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SILI/COQUIMBO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SILI';
+  var GLOBAL_CITY = 'COQUIMBO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

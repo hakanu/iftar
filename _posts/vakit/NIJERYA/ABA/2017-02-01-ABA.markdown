@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ABA, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/ABA
+---
+
+## ABA (NIJERYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ABA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/ABA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'ABA';
+  var GLOBAL_STATE = 'ABA';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALBERTA, KANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KANADA/ALBERTA/EDMONTON
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KANADA';
+  var GLOBAL_CITY = 'ALBERTA';
+  var GLOBAL_STATE = 'EDMONTON';
+  var lat = 72;
+  var lon = 21;
+</script>

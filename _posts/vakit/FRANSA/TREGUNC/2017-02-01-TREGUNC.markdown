@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TREGUNC, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/TREGUNC
+---
+
+## TREGUNC (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TREGUNC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TREGUNC/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'TREGUNC';
+  var GLOBAL_STATE = 'TREGUNC';
+</script>

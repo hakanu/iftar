@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BINJAI, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/BINJAI
+---
+
+## BINJAI (ENDONEZYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BINJAI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BINJAI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'BINJAI';
+  var GLOBAL_STATE = 'BINJAI';
+</script>

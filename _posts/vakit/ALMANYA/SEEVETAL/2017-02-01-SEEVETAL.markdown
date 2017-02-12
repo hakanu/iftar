@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SEEVETAL, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SEEVETAL
+---
+
+## SEEVETAL (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SEEVETAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEEVETAL/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SEEVETAL';
+  var GLOBAL_STATE = 'SEEVETAL';
+</script>

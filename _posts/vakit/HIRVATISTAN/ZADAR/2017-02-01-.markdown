@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZADAR, HIRVATISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HIRVATISTAN/ZADAR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+  var GLOBAL_CITY = 'ZADAR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

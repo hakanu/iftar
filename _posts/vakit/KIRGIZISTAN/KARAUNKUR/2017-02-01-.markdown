@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KARAUNKUR, KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/KARAUNKUR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'KARAUNKUR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: EL_PROGRESO, HONDURAS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HONDURAS/EL_PROGRESO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HONDURAS';
+  var GLOBAL_CITY = 'EL_PROGRESO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KAMEN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/KAMEN
+---
+
+## KAMEN (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KAMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KAMEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'KAMEN';
+  var GLOBAL_STATE = 'KAMEN';
+</script>

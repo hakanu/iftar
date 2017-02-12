@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BASSANO_DEL_GRAPPA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/BASSANO_DEL_GRAPPA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'BASSANO_DEL_GRAPPA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

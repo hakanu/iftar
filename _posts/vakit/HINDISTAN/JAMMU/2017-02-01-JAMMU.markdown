@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: JAMMU, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/JAMMU
+---
+
+## JAMMU (HINDISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (JAMMU, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JAMMU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'JAMMU';
+  var GLOBAL_STATE = 'JAMMU';
+</script>

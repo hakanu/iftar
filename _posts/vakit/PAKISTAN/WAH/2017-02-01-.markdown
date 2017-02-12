@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WAH, PAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PAKISTAN/WAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PAKISTAN';
+  var GLOBAL_CITY = 'WAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KELUANG, MALEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALEZYA/KELUANG
+---
+
+## KELUANG (MALEZYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KELUANG, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KELUANG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALEZYA';
+  var GLOBAL_CITY = 'KELUANG';
+  var GLOBAL_STATE = 'KELUANG';
+</script>

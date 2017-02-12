@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SARSTEDT, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SARSTEDT
+---
+
+## SARSTEDT (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SARSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SARSTEDT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SARSTEDT';
+  var GLOBAL_STATE = 'SARSTEDT';
+</script>

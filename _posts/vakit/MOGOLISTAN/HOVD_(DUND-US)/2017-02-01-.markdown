@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HOVD_(DUND-US), MOGOLISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOGOLISTAN/HOVD_(DUND-US)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+  var GLOBAL_CITY = 'HOVD_(DUND-US)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

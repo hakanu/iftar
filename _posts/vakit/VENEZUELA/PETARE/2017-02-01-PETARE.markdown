@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PETARE, VENEZUELA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VENEZUELA/PETARE
+---
+
+## PETARE (VENEZUELA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PETARE, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PETARE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VENEZUELA';
+  var GLOBAL_CITY = 'PETARE';
+  var GLOBAL_STATE = 'PETARE';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BELLEGARDE_SUR_VALSERINE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/BELLEGARDE_SUR_VALSERINE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'BELLEGARDE_SUR_VALSERINE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

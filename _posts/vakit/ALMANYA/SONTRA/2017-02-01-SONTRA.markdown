@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SONTRA, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SONTRA
+---
+
+## SONTRA (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SONTRA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SONTRA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SONTRA';
+  var GLOBAL_STATE = 'SONTRA';
+</script>

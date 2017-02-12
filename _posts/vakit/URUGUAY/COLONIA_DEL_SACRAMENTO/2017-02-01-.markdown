@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: COLONIA_DEL_SACRAMENTO, URUGUAY için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /URUGUAY/COLONIA_DEL_SACRAMENTO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'URUGUAY';
+  var GLOBAL_CITY = 'COLONIA_DEL_SACRAMENTO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

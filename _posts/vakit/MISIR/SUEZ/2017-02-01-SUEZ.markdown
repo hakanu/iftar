@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SUEZ, MISIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MISIR/SUEZ
+---
+
+## SUEZ (MISIR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SUEZ, MISIR) için iftar ve namaz vakitleri](/MISIR/SUEZ/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MISIR';
+  var GLOBAL_CITY = 'SUEZ';
+  var GLOBAL_STATE = 'SUEZ';
+</script>

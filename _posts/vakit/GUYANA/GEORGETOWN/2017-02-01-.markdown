@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GEORGETOWN, GUYANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUYANA/GEORGETOWN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUYANA';
+  var GLOBAL_CITY = 'GEORGETOWN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TURA, MACARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MACARISTAN/TURA
+---
+
+## TURA (MACARISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TURA, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/TURA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MACARISTAN';
+  var GLOBAL_CITY = 'TURA';
+  var GLOBAL_STATE = 'TURA';
+</script>

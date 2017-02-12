@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: JUIZ_DE_FORA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/JUIZ_DE_FORA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'JUIZ_DE_FORA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

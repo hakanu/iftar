@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BUTWAI, NEPAL için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NEPAL/BUTWAI
+---
+
+## BUTWAI (NEPAL) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BUTWAI, NEPAL) için iftar ve namaz vakitleri](/NEPAL/BUTWAI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NEPAL';
+  var GLOBAL_CITY = 'BUTWAI';
+  var GLOBAL_STATE = 'BUTWAI';
+</script>

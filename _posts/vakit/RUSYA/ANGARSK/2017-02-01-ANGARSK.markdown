@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ANGARSK, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/ANGARSK
+---
+
+## ANGARSK (RUSYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ANGARSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ANGARSK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'ANGARSK';
+  var GLOBAL_STATE = 'ANGARSK';
+</script>

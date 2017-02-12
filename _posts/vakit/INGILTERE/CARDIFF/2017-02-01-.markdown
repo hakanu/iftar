@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CARDIFF, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/CARDIFF/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'CARDIFF';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

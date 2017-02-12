@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BALSTA (U), ISVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVEC/BALSTA (U)
+---
+
+## BALSTA (U) (ISVEC) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BALSTA_(U), ISVEC) için iftar ve namaz vakitleri](/ISVEC/BALSTA_(U)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVEC';
+  var GLOBAL_CITY = 'BALSTA (U)';
+  var GLOBAL_STATE = 'BALSTA (U)';
+</script>

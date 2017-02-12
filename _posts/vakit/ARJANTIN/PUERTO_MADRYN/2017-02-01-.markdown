@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PUERTO_MADRYN, ARJANTIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARJANTIN/PUERTO_MADRYN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARJANTIN';
+  var GLOBAL_CITY = 'PUERTO_MADRYN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

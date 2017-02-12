@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MERZIG, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/MERZIG
+---
+
+## MERZIG (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MERZIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MERZIG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'MERZIG';
+  var GLOBAL_STATE = 'MERZIG';
+</script>

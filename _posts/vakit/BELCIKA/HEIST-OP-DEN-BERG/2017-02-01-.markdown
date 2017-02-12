@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HEIST-OP-DEN-BERG, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/HEIST-OP-DEN-BERG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'HEIST-OP-DEN-BERG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

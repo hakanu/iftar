@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LAMBACH (O), AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/LAMBACH (O)
+---
+
+## LAMBACH (O) (AVUSTURYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LAMBACH_(O), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LAMBACH_(O)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'LAMBACH (O)';
+  var GLOBAL_STATE = 'LAMBACH (O)';
+</script>

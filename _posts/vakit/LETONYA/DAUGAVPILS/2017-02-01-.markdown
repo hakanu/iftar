@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DAUGAVPILS, LETONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LETONYA/DAUGAVPILS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LETONYA';
+  var GLOBAL_CITY = 'DAUGAVPILS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KORÇE, ARNAVUTLUK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARNAVUTLUK/KORÇE
+---
+
+## KORÇE (ARNAVUTLUK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KORÇE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/KORÇE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+  var GLOBAL_CITY = 'KORÇE';
+  var GLOBAL_STATE = 'KORÇE';
+</script>

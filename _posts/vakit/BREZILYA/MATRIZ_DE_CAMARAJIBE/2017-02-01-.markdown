@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MATRIZ_DE_CAMARAJIBE, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/MATRIZ_DE_CAMARAJIBE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'MATRIZ_DE_CAMARAJIBE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

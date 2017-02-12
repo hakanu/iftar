@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RESITA, ROMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ROMANYA/RESITA
+---
+
+## RESITA (ROMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RESITA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/RESITA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ROMANYA';
+  var GLOBAL_CITY = 'RESITA';
+  var GLOBAL_STATE = 'RESITA';
+</script>

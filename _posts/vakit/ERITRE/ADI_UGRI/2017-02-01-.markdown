@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ADI_UGRI, ERITRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ERITRE/ADI_UGRI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ERITRE';
+  var GLOBAL_CITY = 'ADI_UGRI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

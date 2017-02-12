@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHRISTCHURCH, BARBADOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BARBADOS/CHRISTCHURCH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BARBADOS';
+  var GLOBAL_CITY = 'CHRISTCHURCH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

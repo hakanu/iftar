@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HAMILTON_(Tasmania), AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/HAMILTON_(Tasmania)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'HAMILTON_(Tasmania)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KINDIA, GINE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GINE/KINDIA
+---
+
+## KINDIA (GINE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KINDIA, GINE) için iftar ve namaz vakitleri](/GINE/KINDIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GINE';
+  var GLOBAL_CITY = 'KINDIA';
+  var GLOBAL_STATE = 'KINDIA';
+</script>

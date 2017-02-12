@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALTAY_(GOVI_ALTAY), MOGOLISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOGOLISTAN/ALTAY_(GOVI_ALTAY)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+  var GLOBAL_CITY = 'ALTAY_(GOVI_ALTAY)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

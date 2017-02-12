@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LODZ, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/LODZ
+---
+
+## LODZ (POLONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LODZ, POLONYA) için iftar ve namaz vakitleri](/POLONYA/LODZ/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'LODZ';
+  var GLOBAL_STATE = 'LODZ';
+</script>

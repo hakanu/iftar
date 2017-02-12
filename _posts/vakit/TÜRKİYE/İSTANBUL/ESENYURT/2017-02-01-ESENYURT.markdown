@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/İSTANBUL/ESENYURT
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'ESENYURT';
+  var lat = 72;
+  var lon = 21;
+</script>

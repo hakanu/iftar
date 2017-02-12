@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: OER-ERKENSCHWICK, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/OER-ERKENSCHWICK/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'OER-ERKENSCHWICK';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

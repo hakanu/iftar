@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHADYR-LUNGA, MOLDAVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOLDAVYA/CHADYR-LUNGA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
+  var GLOBAL_CITY = 'CHADYR-LUNGA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

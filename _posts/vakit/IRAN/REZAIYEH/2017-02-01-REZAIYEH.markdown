@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: REZAIYEH, IRAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAN/REZAIYEH
+---
+
+## REZAIYEH (IRAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (REZAIYEH, IRAN) için iftar ve namaz vakitleri](/IRAN/REZAIYEH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAN';
+  var GLOBAL_CITY = 'REZAIYEH';
+  var GLOBAL_STATE = 'REZAIYEH';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KITGUM, UGANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UGANDA/KITGUM
+---
+
+## KITGUM (UGANDA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KITGUM, UGANDA) için iftar ve namaz vakitleri](/UGANDA/KITGUM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UGANDA';
+  var GLOBAL_CITY = 'KITGUM';
+  var GLOBAL_STATE = 'KITGUM';
+</script>

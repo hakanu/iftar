@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SHAOYANG, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/SHAOYANG
+---
+
+## SHAOYANG (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SHAOYANG, CIN) için iftar ve namaz vakitleri](/CIN/SHAOYANG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'SHAOYANG';
+  var GLOBAL_STATE = 'SHAOYANG';
+</script>

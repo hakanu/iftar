@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HEMIKSEM, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/HEMIKSEM
+---
+
+## HEMIKSEM (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HEMIKSEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HEMIKSEM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'HEMIKSEM';
+  var GLOBAL_STATE = 'HEMIKSEM';
+</script>

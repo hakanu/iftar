@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MAUES, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/MAUES
+---
+
+## MAUES (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MAUES, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MAUES/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'MAUES';
+  var GLOBAL_STATE = 'MAUES';
+</script>

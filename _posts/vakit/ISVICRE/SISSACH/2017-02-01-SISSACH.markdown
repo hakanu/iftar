@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SISSACH, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/SISSACH
+---
+
+## SISSACH (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SISSACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SISSACH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'SISSACH';
+  var GLOBAL_STATE = 'SISSACH';
+</script>

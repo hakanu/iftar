@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TENKODOGO, BURKINA_FASO için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BURKINA_FASO/TENKODOGO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BURKINA_FASO';
+  var GLOBAL_CITY = 'TENKODOGO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

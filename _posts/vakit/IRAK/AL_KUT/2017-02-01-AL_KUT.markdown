@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AL KUT, IRAK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAK/AL KUT
+---
+
+## AL KUT (IRAK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AL_KUT, IRAK) için iftar ve namaz vakitleri](/IRAK/AL_KUT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAK';
+  var GLOBAL_CITY = 'AL KUT';
+  var GLOBAL_STATE = 'AL KUT';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HSIN-CHU, TAYVAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYVAN/HSIN-CHU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYVAN';
+  var GLOBAL_CITY = 'HSIN-CHU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

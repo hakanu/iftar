@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GEISENFELD, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GEISENFELD/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GEISENFELD';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CALDAS_DA_RAINHA, PORTEKIZ için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PORTEKIZ/CALDAS_DA_RAINHA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
+  var GLOBAL_CITY = 'CALDAS_DA_RAINHA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LAS_CONDES, SILI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SILI/LAS_CONDES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SILI';
+  var GLOBAL_CITY = 'LAS_CONDES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

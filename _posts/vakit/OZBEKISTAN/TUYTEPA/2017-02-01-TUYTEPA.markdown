@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TUYTEPA, OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/TUYTEPA
+---
+
+## TUYTEPA (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TUYTEPA, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/TUYTEPA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'TUYTEPA';
+  var GLOBAL_STATE = 'TUYTEPA';
+</script>

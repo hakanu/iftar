@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SETE_LAGOAS_(M_GoroIs), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/SETE_LAGOAS_(M_GoroIs)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'SETE_LAGOAS_(M_GoroIs)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

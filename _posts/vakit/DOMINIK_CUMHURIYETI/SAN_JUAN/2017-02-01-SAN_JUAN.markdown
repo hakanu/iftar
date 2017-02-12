@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SAN JUAN, DOMINIK CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DOMINIK CUMHURIYETI/SAN JUAN
+---
+
+## SAN JUAN (DOMINIK CUMHURIYETI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SAN_JUAN, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/SAN_JUAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+  var GLOBAL_CITY = 'SAN JUAN';
+  var GLOBAL_STATE = 'SAN JUAN';
+</script>

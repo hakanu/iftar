@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TERESOPOLIS_(R_D_J_), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/TERESOPOLIS_(R_D_J_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'TERESOPOLIS_(R_D_J_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

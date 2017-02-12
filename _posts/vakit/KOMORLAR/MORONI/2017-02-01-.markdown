@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MORONI, KOMORLAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOMORLAR/MORONI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOMORLAR';
+  var GLOBAL_CITY = 'MORONI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

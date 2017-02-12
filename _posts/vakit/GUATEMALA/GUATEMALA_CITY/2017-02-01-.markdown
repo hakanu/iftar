@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GUATEMALA_CITY, GUATEMALA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUATEMALA/GUATEMALA_CITY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUATEMALA';
+  var GLOBAL_CITY = 'GUATEMALA_CITY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

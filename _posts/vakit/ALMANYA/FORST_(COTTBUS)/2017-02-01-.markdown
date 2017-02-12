@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: FORST_(COTTBUS), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/FORST_(COTTBUS)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'FORST_(COTTBUS)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

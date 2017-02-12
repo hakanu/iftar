@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BAN_DONKON, LAOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LAOS/BAN_DONKON/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LAOS';
+  var GLOBAL_CITY = 'BAN_DONKON';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

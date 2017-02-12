@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BORNUUR, MOGOLISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOGOLISTAN/BORNUUR
+---
+
+## BORNUUR (MOGOLISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BORNUUR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BORNUUR/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+  var GLOBAL_CITY = 'BORNUUR';
+  var GLOBAL_STATE = 'BORNUUR';
+</script>

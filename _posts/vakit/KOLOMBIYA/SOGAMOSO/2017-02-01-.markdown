@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SOGAMOSO, KOLOMBIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOLOMBIYA/SOGAMOSO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+  var GLOBAL_CITY = 'SOGAMOSO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

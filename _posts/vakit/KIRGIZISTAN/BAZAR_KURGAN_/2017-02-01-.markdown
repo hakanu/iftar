@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BAZAR_KURGAN_, KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/BAZAR_KURGAN_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'BAZAR_KURGAN_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

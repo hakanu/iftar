@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALLENDORF, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ALLENDORF/EDER
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ALLENDORF';
+  var GLOBAL_STATE = 'EDER';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAHIWAL, PAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PAKISTAN/SAHIWAL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PAKISTAN';
+  var GLOBAL_CITY = 'SAHIWAL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

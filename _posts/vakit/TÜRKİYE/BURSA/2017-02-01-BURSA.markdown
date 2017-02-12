@@ -1,0 +1,28 @@
+---
+layout: vakit_dashboard
+title: BURSA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/BURSA
+---
+
+## BURSA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [YENİŞEHİR (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/YENİŞEHİR)
+* [KELES (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/KELES)
+* [ORHANGAZİ (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/ORHANGAZİ)
+* [BÜYÜK_ORHAN (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/BÜYÜK_ORHAN)
+* [MUSTAFA_KEMALPAŞA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/MUSTAFA_KEMALPAŞA)
+* [GEMLİK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/GEMLİK)
+* [KARACABEY (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/KARACABEY)
+* [İZNİK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/İZNİK)
+* [MUDANYA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/MUDANYA)
+* [HARMANCIK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/HARMANCIK)
+* [İNEGÖL (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/İNEGÖL)
+* [BURSA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/BURSA)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'BURSA';
+  var GLOBAL_STATE = 'BURSA';
+</script>

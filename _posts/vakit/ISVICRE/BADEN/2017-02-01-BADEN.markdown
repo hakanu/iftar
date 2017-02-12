@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BADEN, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/BADEN
+---
+
+## BADEN (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BADEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BADEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'BADEN';
+  var GLOBAL_STATE = 'BADEN';
+</script>

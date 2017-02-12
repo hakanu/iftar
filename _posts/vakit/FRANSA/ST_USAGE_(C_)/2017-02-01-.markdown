@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ST_USAGE_(C_), FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/ST_USAGE_(C_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'ST_USAGE_(C_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

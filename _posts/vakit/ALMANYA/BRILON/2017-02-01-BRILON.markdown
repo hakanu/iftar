@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BRILON, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BRILON
+---
+
+## BRILON (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BRILON, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRILON/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'BRILON';
+  var GLOBAL_STATE = 'BRILON';
+</script>

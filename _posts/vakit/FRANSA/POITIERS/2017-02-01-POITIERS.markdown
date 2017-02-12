@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: POITIERS, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/POITIERS
+---
+
+## POITIERS (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (POITIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/POITIERS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'POITIERS';
+  var GLOBAL_STATE = 'POITIERS';
+</script>

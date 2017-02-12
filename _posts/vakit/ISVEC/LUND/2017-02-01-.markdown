@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LUND, ISVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVEC/LUND/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVEC';
+  var GLOBAL_CITY = 'LUND';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

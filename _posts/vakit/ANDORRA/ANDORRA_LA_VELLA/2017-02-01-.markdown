@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ANDORRA_LA_VELLA, ANDORRA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ANDORRA/ANDORRA_LA_VELLA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ANDORRA';
+  var GLOBAL_CITY = 'ANDORRA_LA_VELLA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

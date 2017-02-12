@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GUNZBURG, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GUNZBURG
+---
+
+## GUNZBURG (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GUNZBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GUNZBURG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GUNZBURG';
+  var GLOBAL_STATE = 'GUNZBURG';
+</script>

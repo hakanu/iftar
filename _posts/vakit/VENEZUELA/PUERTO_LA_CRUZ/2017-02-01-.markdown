@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PUERTO_LA_CRUZ, VENEZUELA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VENEZUELA/PUERTO_LA_CRUZ/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VENEZUELA';
+  var GLOBAL_CITY = 'PUERTO_LA_CRUZ';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KİFFA, MORITANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MORITANYA/KİFFA
+---
+
+## KİFFA (MORITANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KİFFA, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/KİFFA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MORITANYA';
+  var GLOBAL_CITY = 'KİFFA';
+  var GLOBAL_STATE = 'KİFFA';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NUEVA_LOJA, EKVATOR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /EKVATOR/NUEVA_LOJA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'EKVATOR';
+  var GLOBAL_CITY = 'NUEVA_LOJA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

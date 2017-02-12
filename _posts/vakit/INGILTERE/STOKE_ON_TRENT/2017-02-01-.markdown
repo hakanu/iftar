@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: STOKE_ON_TRENT, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/STOKE_ON_TRENT/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'STOKE_ON_TRENT';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

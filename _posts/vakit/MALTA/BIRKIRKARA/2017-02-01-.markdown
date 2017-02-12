@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BIRKIRKARA, MALTA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALTA/BIRKIRKARA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALTA';
+  var GLOBAL_CITY = 'BIRKIRKARA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

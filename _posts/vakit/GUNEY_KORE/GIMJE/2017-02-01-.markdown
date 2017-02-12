@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GIMJE, GUNEY_KORE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY_KORE/GIMJE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY_KORE';
+  var GLOBAL_CITY = 'GIMJE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

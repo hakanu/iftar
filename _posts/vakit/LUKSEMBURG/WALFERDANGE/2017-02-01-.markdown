@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WALFERDANGE, LUKSEMBURG için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LUKSEMBURG/WALFERDANGE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+  var GLOBAL_CITY = 'WALFERDANGE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

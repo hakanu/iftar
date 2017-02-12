@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AZ_ZARQA, URDUN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /URDUN/AZ_ZARQA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'URDUN';
+  var GLOBAL_CITY = 'AZ_ZARQA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

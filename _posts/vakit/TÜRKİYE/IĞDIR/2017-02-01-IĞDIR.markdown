@@ -1,0 +1,20 @@
+---
+layout: vakit_dashboard
+title: IĞDIR, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/IĞDIR
+---
+
+## IĞDIR (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ARALIK (IĞDIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/IĞDIR/ARALIK)
+* [IĞDIR (IĞDIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/IĞDIR/IĞDIR)
+* [KARAKOYUNLU (IĞDIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/IĞDIR/KARAKOYUNLU)
+* [TUZLUCA (IĞDIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/IĞDIR/TUZLUCA)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'IĞDIR';
+  var GLOBAL_STATE = 'IĞDIR';
+</script>

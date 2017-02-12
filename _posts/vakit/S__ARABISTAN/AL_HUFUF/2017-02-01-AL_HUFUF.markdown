@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AL HUFUF, S_ ARABISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /S_ ARABISTAN/AL HUFUF
+---
+
+## AL HUFUF (S_ ARABISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AL_HUFUF, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/AL_HUFUF/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+  var GLOBAL_CITY = 'AL HUFUF';
+  var GLOBAL_STATE = 'AL HUFUF';
+</script>

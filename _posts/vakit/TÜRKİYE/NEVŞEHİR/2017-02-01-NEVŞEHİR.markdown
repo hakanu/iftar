@@ -1,0 +1,21 @@
+---
+layout: vakit_dashboard
+title: NEVŞEHİR, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/NEVŞEHİR
+---
+
+## NEVŞEHİR (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ACIGÖL (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/ACIGÖL)
+* [KOZAKLI (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/KOZAKLI)
+* [NEVŞEHİR (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/NEVŞEHİR)
+* [ÜRGÜP (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/ÜRGÜP)
+* [HACIBEKTAŞ (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/HACIBEKTAŞ)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'NEVŞEHİR';
+  var GLOBAL_STATE = 'NEVŞEHİR';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SANDEID, NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/SANDEID
+---
+
+## SANDEID (NORVEC) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SANDEID, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDEID/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'SANDEID';
+  var GLOBAL_STATE = 'SANDEID';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CLUJ-NAPOCA, ROMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ROMANYA/CLUJ-NAPOCA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ROMANYA';
+  var GLOBAL_CITY = 'CLUJ-NAPOCA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

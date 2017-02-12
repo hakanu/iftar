@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LE_PEAGE_DE_ROUSSILLION, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/LE_PEAGE_DE_ROUSSILLION/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'LE_PEAGE_DE_ROUSSILLION';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

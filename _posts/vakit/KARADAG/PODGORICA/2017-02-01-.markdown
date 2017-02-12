@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PODGORICA, KARADAG için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KARADAG/PODGORICA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KARADAG';
+  var GLOBAL_CITY = 'PODGORICA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

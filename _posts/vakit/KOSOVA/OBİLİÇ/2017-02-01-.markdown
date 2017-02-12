@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: OBİLİÇ, KOSOVA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOSOVA/OBİLİÇ/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOSOVA';
+  var GLOBAL_CITY = 'OBİLİÇ';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

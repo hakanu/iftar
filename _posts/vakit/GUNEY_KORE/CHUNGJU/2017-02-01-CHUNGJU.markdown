@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CHUNGJU, GUNEY KORE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY KORE/CHUNGJU
+---
+
+## CHUNGJU (GUNEY KORE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CHUNGJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/CHUNGJU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
+  var GLOBAL_CITY = 'CHUNGJU';
+  var GLOBAL_STATE = 'CHUNGJU';
+</script>

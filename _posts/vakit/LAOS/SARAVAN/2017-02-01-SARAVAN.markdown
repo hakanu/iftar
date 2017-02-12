@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SARAVAN, LAOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LAOS/SARAVAN
+---
+
+## SARAVAN (LAOS) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SARAVAN, LAOS) için iftar ve namaz vakitleri](/LAOS/SARAVAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LAOS';
+  var GLOBAL_CITY = 'SARAVAN';
+  var GLOBAL_STATE = 'SARAVAN';
+</script>

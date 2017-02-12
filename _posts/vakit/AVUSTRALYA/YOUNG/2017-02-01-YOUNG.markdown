@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: YOUNG, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/YOUNG
+---
+
+## YOUNG (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (YOUNG, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/YOUNG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'YOUNG';
+  var GLOBAL_STATE = 'YOUNG';
+</script>

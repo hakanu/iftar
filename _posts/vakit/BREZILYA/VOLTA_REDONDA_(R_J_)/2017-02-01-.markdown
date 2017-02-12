@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VOLTA_REDONDA_(R_J_), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/VOLTA_REDONDA_(R_J_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'VOLTA_REDONDA_(R_J_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

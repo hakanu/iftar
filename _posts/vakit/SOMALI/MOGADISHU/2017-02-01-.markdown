@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MOGADISHU, SOMALI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SOMALI/MOGADISHU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SOMALI';
+  var GLOBAL_CITY = 'MOGADISHU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

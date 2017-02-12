@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: WEVELGEM, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/WEVELGEM
+---
+
+## WEVELGEM (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WEVELGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WEVELGEM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'WEVELGEM';
+  var GLOBAL_STATE = 'WEVELGEM';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HARER, ETYOPYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ETYOPYA/HARER
+---
+
+## HARER (ETYOPYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HARER, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/HARER/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ETYOPYA';
+  var GLOBAL_CITY = 'HARER';
+  var GLOBAL_STATE = 'HARER';
+</script>

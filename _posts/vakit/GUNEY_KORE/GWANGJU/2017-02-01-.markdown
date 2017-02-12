@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GWANGJU, GUNEY_KORE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY_KORE/GWANGJU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY_KORE';
+  var GLOBAL_CITY = 'GWANGJU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

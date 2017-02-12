@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: UUJIM, MOGOLISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOGOLISTAN/UUJIM
+---
+
+## UUJIM (MOGOLISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (UUJIM, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/UUJIM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+  var GLOBAL_CITY = 'UUJIM';
+  var GLOBAL_STATE = 'UUJIM';
+</script>

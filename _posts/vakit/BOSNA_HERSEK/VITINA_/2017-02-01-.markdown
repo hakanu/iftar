@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VITINA_, BOSNA_HERSEK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOSNA_HERSEK/VITINA_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOSNA_HERSEK';
+  var GLOBAL_CITY = 'VITINA_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

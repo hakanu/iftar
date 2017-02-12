@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BHAVANI, HINDISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HINDISTAN/BHAVANI
+---
+
+## BHAVANI (HINDISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BHAVANI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHAVANI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HINDISTAN';
+  var GLOBAL_CITY = 'BHAVANI';
+  var GLOBAL_STATE = 'BHAVANI';
+</script>

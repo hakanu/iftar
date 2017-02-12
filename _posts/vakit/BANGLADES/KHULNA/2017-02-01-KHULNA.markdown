@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KHULNA, BANGLADES için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BANGLADES/KHULNA
+---
+
+## KHULNA (BANGLADES) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KHULNA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/KHULNA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BANGLADES';
+  var GLOBAL_CITY = 'KHULNA';
+  var GLOBAL_STATE = 'KHULNA';
+</script>

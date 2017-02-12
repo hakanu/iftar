@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MONROVIA, LIBERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LIBERYA/MONROVIA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LIBERYA';
+  var GLOBAL_CITY = 'MONROVIA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

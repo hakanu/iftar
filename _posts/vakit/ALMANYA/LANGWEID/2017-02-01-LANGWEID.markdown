@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LANGWEID, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/LANGWEID
+---
+
+## LANGWEID (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LANGWEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANGWEID/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'LANGWEID';
+  var GLOBAL_STATE = 'LANGWEID';
+</script>

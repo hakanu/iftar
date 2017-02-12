@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ULM, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ULM
+---
+
+## ULM (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ULM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ULM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ULM';
+  var GLOBAL_STATE = 'ULM';
+</script>

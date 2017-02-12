@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: FIANARANTSOA, MADAGASKAR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MADAGASKAR/FIANARANTSOA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
+  var GLOBAL_CITY = 'FIANARANTSOA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

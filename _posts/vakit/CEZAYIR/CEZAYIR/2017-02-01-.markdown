@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CEZAYIR, CEZAYIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEZAYIR/CEZAYIR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEZAYIR';
+  var GLOBAL_CITY = 'CEZAYIR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

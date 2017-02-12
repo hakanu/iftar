@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: Leyl suresini meali ve videosu ile takip et, dinle ve oku, Leyl dinle, Leyl meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Leyl suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Leyl suresinin mealini oku, dinle, takip et</h1>
+      <div><p></p><p></p><p>LEYL SURESİ (Resmi Mushaf : 92 / İniş Sırası : 9)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun bürüyüp örttüğü zaman geceye,</p><p></p><p></p><p>2. Ve parıldadığı zaman gündüze,</p><p></p><p></p><p>3. Andolsun erkeği de dişiyi de yaratana,</p><p></p><p></p><p>4. Ki sizin emek ve gayretiniz dağınık-parça parçadır.</p><p></p><p></p><p>5. Kim verir ve sakınırsa,</p><p></p><p></p><p>6. Ve güzeli doğrularsa,</p><p></p><p></p><p>7. Biz ona en kolay olanı kolaylaştıracağız.</p><p></p><p></p><p>8. Ama kim cimriliğe sapar ve kendisini tüm ihtiyaçların üstünde görür,</p><p></p><p></p><p>9. Ve güzelliği yalanlarsa,</p><p></p><p></p><p>10. Biz onu, en zor olana sevkedeceğiz.</p><p></p><p></p><p>11. Aşağı yuvarlandığında malı onu kurtarmayacaktır.</p><p></p><p></p><p>12. Doğruya ve güzele kılavuzlamak sadece bizim işimizdir.</p><p></p><p></p><p>13. Sonrası da öncesi de sadece bizimdir.</p><p></p><p></p><p>14. Ben sizi, köpürerek yanan bir ateşe karşı uyardım.</p><p></p><p></p><p>15. Sadece karanlık ruhlu azgın girer ona.</p><p></p><p></p><p>16. Yalanlamış, sırtını dönmüştü o.</p><p></p><p></p><p>17. İyice saklanan da ondan uzak tutulur.</p><p></p><p></p><p>18. O ki, temizlenip arınsın diye malını verir.</p><p></p><p></p><p>19. Onun katında hiç kimsenin, karşılığı verilecek bir nimeti yoktur / hiç kimsenin ona, karşılık olarak verilecek bir nimeti yoktur.</p><p></p><p></p><p>20. Yüceler yücesi Rabbinin yüzünü özleyip istemek için veren hariç.</p><p></p><p></p><p>21. Yakında mutlaka hoşnut olacaktır.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

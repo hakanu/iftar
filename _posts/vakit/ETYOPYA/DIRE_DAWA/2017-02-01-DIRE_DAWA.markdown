@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DIRE DAWA, ETYOPYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ETYOPYA/DIRE DAWA
+---
+
+## DIRE DAWA (ETYOPYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DIRE_DAWA, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/DIRE_DAWA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ETYOPYA';
+  var GLOBAL_CITY = 'DIRE DAWA';
+  var GLOBAL_STATE = 'DIRE DAWA';
+</script>

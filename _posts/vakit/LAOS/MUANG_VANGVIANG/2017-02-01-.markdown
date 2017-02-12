@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MUANG_VANGVIANG, LAOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LAOS/MUANG_VANGVIANG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LAOS';
+  var GLOBAL_CITY = 'MUANG_VANGVIANG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

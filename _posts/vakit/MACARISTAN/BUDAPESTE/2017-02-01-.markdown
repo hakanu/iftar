@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BUDAPESTE, MACARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MACARISTAN/BUDAPESTE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MACARISTAN';
+  var GLOBAL_CITY = 'BUDAPESTE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

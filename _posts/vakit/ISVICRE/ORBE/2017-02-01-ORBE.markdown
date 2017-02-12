@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ORBE, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/ORBE
+---
+
+## ORBE (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ORBE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ORBE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'ORBE';
+  var GLOBAL_STATE = 'ORBE';
+</script>

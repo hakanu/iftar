@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TAIZZ, YEMEN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YEMEN/TAIZZ/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YEMEN';
+  var GLOBAL_CITY = 'TAIZZ';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

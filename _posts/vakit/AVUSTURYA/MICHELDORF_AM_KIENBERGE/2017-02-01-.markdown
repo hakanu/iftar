@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MICHELDORF_AM_KIENBERGE, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/MICHELDORF_AM_KIENBERGE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'MICHELDORF_AM_KIENBERGE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

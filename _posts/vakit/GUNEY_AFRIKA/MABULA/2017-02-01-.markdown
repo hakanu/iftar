@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MABULA, GUNEY_AFRIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY_AFRIKA/MABULA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY_AFRIKA';
+  var GLOBAL_CITY = 'MABULA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

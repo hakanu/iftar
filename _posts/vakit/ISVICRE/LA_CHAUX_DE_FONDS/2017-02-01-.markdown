@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LA_CHAUX_DE_FONDS, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/LA_CHAUX_DE_FONDS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'LA_CHAUX_DE_FONDS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

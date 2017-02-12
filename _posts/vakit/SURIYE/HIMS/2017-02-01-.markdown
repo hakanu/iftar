@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HIMS, SURIYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SURIYE/HIMS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SURIYE';
+  var GLOBAL_CITY = 'HIMS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

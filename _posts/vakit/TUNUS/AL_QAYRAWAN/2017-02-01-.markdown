@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AL_QAYRAWAN, TUNUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TUNUS/AL_QAYRAWAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TUNUS';
+  var GLOBAL_CITY = 'AL_QAYRAWAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

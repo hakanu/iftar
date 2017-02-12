@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HATVAN , MACARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MACARISTAN/HATVAN 
+---
+
+## HATVAN  (MACARISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HATVAN_, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/HATVAN_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MACARISTAN';
+  var GLOBAL_CITY = 'HATVAN ';
+  var GLOBAL_STATE = 'HATVAN ';
+</script>

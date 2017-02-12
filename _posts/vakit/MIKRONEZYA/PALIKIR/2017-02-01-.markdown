@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PALIKIR, MIKRONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MIKRONEZYA/PALIKIR/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MIKRONEZYA';
+  var GLOBAL_CITY = 'PALIKIR';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

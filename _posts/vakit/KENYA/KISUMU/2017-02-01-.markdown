@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KISUMU, KENYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KENYA/KISUMU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KENYA';
+  var GLOBAL_CITY = 'KISUMU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

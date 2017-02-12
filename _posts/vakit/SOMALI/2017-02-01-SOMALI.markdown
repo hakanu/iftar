@@ -1,0 +1,18 @@
+---
+layout: generated_md
+title: SOMALI için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /SOMALI
+---
+
+## SOMALI için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [BANDARBEYLA (SOMALI) için iftar ve namaz vakitleri](/SOMALI/BANDARBEYLA)
+* [OBBIA (SOMALI) için iftar ve namaz vakitleri](/SOMALI/OBBIA)
+* [BULO_BURTI (SOMALI) için iftar ve namaz vakitleri](/SOMALI/BULO_BURTI)
+* [EYL (SOMALI) için iftar ve namaz vakitleri](/SOMALI/EYL)
+* [DHORZI (SOMALI) için iftar ve namaz vakitleri](/SOMALI/DHORZI)
+* [CALUULA (SOMALI) için iftar ve namaz vakitleri](/SOMALI/CALUULA)
+* [MOGADISHU (SOMALI) için iftar ve namaz vakitleri](/SOMALI/MOGADISHU)
+* [KISMAAYO (SOMALI) için iftar ve namaz vakitleri](/SOMALI/KISMAAYO)

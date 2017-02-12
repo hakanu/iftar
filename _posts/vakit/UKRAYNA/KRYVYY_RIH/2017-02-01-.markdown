@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KRYVYY_RIH, UKRAYNA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA/KRYVYY_RIH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA';
+  var GLOBAL_CITY = 'KRYVYY_RIH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

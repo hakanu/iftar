@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DAR_ES_SALAAM, TANZANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TANZANYA/DAR_ES_SALAAM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TANZANYA';
+  var GLOBAL_CITY = 'DAR_ES_SALAAM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

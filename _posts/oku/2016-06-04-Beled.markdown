@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: Beled suresini meali ve videosu ile takip et, dinle ve oku, Beled dinle, Beled meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Beled suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Beled suresinin mealini oku, dinle, takip et</h1>
+      <div><p>BELED SURESİ (Resmi Mushaf : 90 / İniş Sırası : 35)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Yemin ederim bu kente ki, iş onların sandığı gibi değildir.</p><p></p><p></p><p>2. Sen bu kente mahremsin / bu kente gireceksin.</p><p></p><p></p><p>3. Ve doğurana ve doğurduğuna da yemin olsun ki,</p><p></p><p></p><p>4. Biz insanı gerçekten bir sıkıntı ve zorluk içinde yarattık.</p><p></p><p></p><p>5. O sanıyor mu ki, hiç kimse ona asla güç yetiremeyecektir!</p><p></p><p></p><p>6. “Yığınlarla mal telef ettim.” diyor.</p><p></p><p></p><p>7. Hiç kimsenin kendisini görmediğini sanıyor.</p><p></p><p></p><p>8. Biz ona vermedik mi iki göz,</p><p></p><p></p><p>9. Bir dil, iki dudak?</p><p></p><p></p><p>10. Kılavuzladık onu iki tepeye.</p><p></p><p></p><p>11. Akabe’ye, sarp yokuşa atılamadı o.</p><p></p><p></p><p>12. Sarp yokuşun ne olduğunu sana bildiren nedir?</p><p></p><p></p><p>13. Özgürlüğü zincirlenenin bağını çözmektir o.</p><p></p><p></p><p>14. Yahut da açlık ve perişanlık gününde doyurmaktır o,</p><p></p><p></p><p>15. Yakındaki bir yetimi,</p><p></p><p></p><p>16. Yahut ezilmiş-boynu bükük bir yoksulu.</p><p></p><p></p><p>17. Sonra da iman eden ve birbirlerine sabrı öneren, merhameti öneren kişilerden olmaktır o.</p><p></p><p></p><p>18. İşte böyleleridir uğur ve bereket dostları.</p><p></p><p></p><p>19. Bizim ayetlerimizi tanımayanlara gelince bunlar; şomluk, uğursuzluk yaranıdır.</p><p></p><p></p><p>20. Bunların üzerine, kilitlenecek bir ateş gelecektir.</p><p></p><p></p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

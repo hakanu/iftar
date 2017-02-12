@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MEZAR-I_SERIF, AFGANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AFGANISTAN/MEZAR-I_SERIF/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
+  var GLOBAL_CITY = 'MEZAR-I_SERIF';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

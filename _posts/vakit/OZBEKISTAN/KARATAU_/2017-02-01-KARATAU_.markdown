@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KARATAU , OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/KARATAU 
+---
+
+## KARATAU  (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KARATAU_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARATAU_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'KARATAU ';
+  var GLOBAL_STATE = 'KARATAU ';
+</script>

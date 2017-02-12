@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MINNA, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/MINNA
+---
+
+## MINNA (NIJERYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MINNA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/MINNA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'MINNA';
+  var GLOBAL_STATE = 'MINNA';
+</script>

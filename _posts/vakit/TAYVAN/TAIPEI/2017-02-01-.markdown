@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TAIPEI, TAYVAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYVAN/TAIPEI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYVAN';
+  var GLOBAL_CITY = 'TAIPEI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

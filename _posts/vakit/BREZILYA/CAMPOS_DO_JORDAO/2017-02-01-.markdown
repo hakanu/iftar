@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CAMPOS_DO_JORDAO, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/CAMPOS_DO_JORDAO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'CAMPOS_DO_JORDAO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

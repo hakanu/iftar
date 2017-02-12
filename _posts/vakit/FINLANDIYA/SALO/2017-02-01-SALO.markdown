@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SALO, FINLANDIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FINLANDIYA/SALO
+---
+
+## SALO (FINLANDIYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SALO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/SALO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
+  var GLOBAL_CITY = 'SALO';
+  var GLOBAL_STATE = 'SALO';
+</script>

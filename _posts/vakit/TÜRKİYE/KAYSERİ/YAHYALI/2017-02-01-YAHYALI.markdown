@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KAYSERİ, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/KAYSERİ/YAHYALI
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'KAYSERİ';
+  var GLOBAL_STATE = 'YAHYALI';
+  var lat = 72;
+  var lon = 21;
+</script>

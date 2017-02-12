@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LEIMEN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/LEIMEN
+---
+
+## LEIMEN (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LEIMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEIMEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'LEIMEN';
+  var GLOBAL_STATE = 'LEIMEN';
+</script>

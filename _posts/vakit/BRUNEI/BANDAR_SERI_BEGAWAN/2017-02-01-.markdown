@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BANDAR_SERI_BEGAWAN, BRUNEI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BRUNEI/BANDAR_SERI_BEGAWAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BRUNEI';
+  var GLOBAL_CITY = 'BANDAR_SERI_BEGAWAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NHA TRANG, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/NHA TRANG
+---
+
+## NHA TRANG (VIETNAM) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NHA_TRANG, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/NHA_TRANG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'NHA TRANG';
+  var GLOBAL_STATE = 'NHA TRANG';
+</script>

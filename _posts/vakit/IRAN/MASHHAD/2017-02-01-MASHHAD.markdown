@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MASHHAD, IRAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAN/MASHHAD
+---
+
+## MASHHAD (IRAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MASHHAD, IRAN) için iftar ve namaz vakitleri](/IRAN/MASHHAD/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAN';
+  var GLOBAL_CITY = 'MASHHAD';
+  var GLOBAL_STATE = 'MASHHAD';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GAZI_MAGOSA, KUZEY_KIBRIS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUZEY_KIBRIS/GAZI_MAGOSA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUZEY_KIBRIS';
+  var GLOBAL_CITY = 'GAZI_MAGOSA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

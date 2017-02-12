@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SALE, FAS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FAS/SALE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FAS';
+  var GLOBAL_CITY = 'SALE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

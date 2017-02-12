@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FUSSEN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/FUSSEN
+---
+
+## FUSSEN (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FUSSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FUSSEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'FUSSEN';
+  var GLOBAL_STATE = 'FUSSEN';
+</script>

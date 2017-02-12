@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: OYEM, GABON için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GABON/OYEM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GABON';
+  var GLOBAL_CITY = 'OYEM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

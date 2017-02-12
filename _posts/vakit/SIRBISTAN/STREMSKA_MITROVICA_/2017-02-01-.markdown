@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: STREMSKA_MITROVICA_, SIRBISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SIRBISTAN/STREMSKA_MITROVICA_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
+  var GLOBAL_CITY = 'STREMSKA_MITROVICA_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

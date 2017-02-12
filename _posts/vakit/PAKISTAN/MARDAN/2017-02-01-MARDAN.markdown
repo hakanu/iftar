@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MARDAN, PAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PAKISTAN/MARDAN
+---
+
+## MARDAN (PAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MARDAN, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/MARDAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PAKISTAN';
+  var GLOBAL_CITY = 'MARDAN';
+  var GLOBAL_STATE = 'MARDAN';
+</script>

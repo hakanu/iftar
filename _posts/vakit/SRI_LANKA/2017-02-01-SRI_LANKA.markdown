@@ -1,0 +1,17 @@
+---
+layout: generated_md
+title: SRI_LANKA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /SRI_LANKA
+---
+
+## SRI_LANKA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [SRI_JAYAWARDENEPURA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/SRI_JAYAWARDENEPURA)
+* [MATARA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MATARA)
+* [TRINCOMALEE (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/TRINCOMALEE)
+* [JAFFNA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/JAFFNA)
+* [COLOMBO (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/COLOMBO)
+* [KANDY (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/KANDY)
+* [MORATUWA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MORATUWA)

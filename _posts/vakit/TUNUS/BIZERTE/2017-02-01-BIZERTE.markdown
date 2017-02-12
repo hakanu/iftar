@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BIZERTE, TUNUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TUNUS/BIZERTE
+---
+
+## BIZERTE (TUNUS) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BIZERTE, TUNUS) için iftar ve namaz vakitleri](/TUNUS/BIZERTE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TUNUS';
+  var GLOBAL_CITY = 'BIZERTE';
+  var GLOBAL_STATE = 'BIZERTE';
+</script>

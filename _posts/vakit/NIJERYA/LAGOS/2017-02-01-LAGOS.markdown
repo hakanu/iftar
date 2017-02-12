@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LAGOS, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/LAGOS
+---
+
+## LAGOS (NIJERYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LAGOS, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/LAGOS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'LAGOS';
+  var GLOBAL_STATE = 'LAGOS';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ADIYAMAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ADIYAMAN/ADIYAMAN
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ADIYAMAN';
+  var GLOBAL_STATE = 'ADIYAMAN';
+  var lat = 72;
+  var lon = 21;
+</script>

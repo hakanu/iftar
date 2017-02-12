@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HAGEN_(Ruhr_Valley), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/HAGEN_(Ruhr_Valley)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'HAGEN_(Ruhr_Valley)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

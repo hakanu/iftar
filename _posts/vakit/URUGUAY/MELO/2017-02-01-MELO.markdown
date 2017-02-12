@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MELO, URUGUAY için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /URUGUAY/MELO
+---
+
+## MELO (URUGUAY) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MELO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MELO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'URUGUAY';
+  var GLOBAL_CITY = 'MELO';
+  var GLOBAL_STATE = 'MELO';
+</script>

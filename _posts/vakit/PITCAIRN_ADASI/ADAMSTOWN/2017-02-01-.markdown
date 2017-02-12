@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ADAMSTOWN, PITCAIRN_ADASI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PITCAIRN_ADASI/ADAMSTOWN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PITCAIRN_ADASI';
+  var GLOBAL_CITY = 'ADAMSTOWN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

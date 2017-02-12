@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RANCAGUA, SILI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SILI/RANCAGUA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SILI';
+  var GLOBAL_CITY = 'RANCAGUA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

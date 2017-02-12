@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CIUDAD_DEL_ESTE, PARAGUAY için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PARAGUAY/CIUDAD_DEL_ESTE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PARAGUAY';
+  var GLOBAL_CITY = 'CIUDAD_DEL_ESTE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

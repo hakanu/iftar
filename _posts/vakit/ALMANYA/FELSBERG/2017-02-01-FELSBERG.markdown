@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FELSBERG, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/FELSBERG
+---
+
+## FELSBERG (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FELSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FELSBERG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'FELSBERG';
+  var GLOBAL_STATE = 'FELSBERG';
+</script>

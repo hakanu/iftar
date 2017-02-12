@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SERROKUNDA, GAMBIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GAMBIYA/SERROKUNDA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GAMBIYA';
+  var GLOBAL_CITY = 'SERROKUNDA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

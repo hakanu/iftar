@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LA_ROCHE-BERNARD, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/LA_ROCHE-BERNARD/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'LA_ROCHE-BERNARD';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

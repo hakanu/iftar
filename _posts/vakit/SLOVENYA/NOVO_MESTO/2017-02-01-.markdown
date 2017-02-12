@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NOVO_MESTO, SLOVENYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SLOVENYA/NOVO_MESTO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SLOVENYA';
+  var GLOBAL_CITY = 'NOVO_MESTO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

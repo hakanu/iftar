@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: YANOVA, KOSOVA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOSOVA/YANOVA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOSOVA';
+  var GLOBAL_CITY = 'YANOVA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

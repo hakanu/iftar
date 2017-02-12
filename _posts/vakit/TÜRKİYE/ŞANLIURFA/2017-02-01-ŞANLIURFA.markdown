@@ -1,0 +1,27 @@
+---
+layout: vakit_dashboard
+title: ŞANLIURFA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ŞANLIURFA
+---
+
+## ŞANLIURFA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [CEYLANPINAR (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/CEYLANPINAR)
+* [ŞANLIURFA (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/ŞANLIURFA)
+* [SURUÇ (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/SURUÇ)
+* [SİVEREK (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/SİVEREK)
+* [AKÇAKALE (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/AKÇAKALE)
+* [BOZOVA (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/BOZOVA)
+* [HALFETİ (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HALFETİ)
+* [BİRECİK (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/BİRECİK)
+* [HİLVAN (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HİLVAN)
+* [VİRANŞEHİR (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/VİRANŞEHİR)
+* [HARRAN (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HARRAN)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ŞANLIURFA';
+  var GLOBAL_STATE = 'ŞANLIURFA';
+</script>

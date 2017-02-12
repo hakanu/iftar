@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEUSS_-_NORF, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/NEUSS_-_NORF/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'NEUSS_-_NORF';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

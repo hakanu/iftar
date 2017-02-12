@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NİĞDE, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/NİĞDE/ÇİFTLİK
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'NİĞDE';
+  var GLOBAL_STATE = 'ÇİFTLİK';
+  var lat = 72;
+  var lon = 21;
+</script>

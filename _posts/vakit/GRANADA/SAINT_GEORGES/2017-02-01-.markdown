@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAINT_GEORGES, GRANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GRANADA/SAINT_GEORGES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GRANADA';
+  var GLOBAL_CITY = 'SAINT_GEORGES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DONETSK, UKRAYNA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA/DONETSK
+---
+
+## DONETSK (UKRAYNA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DONETSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DONETSK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA';
+  var GLOBAL_CITY = 'DONETSK';
+  var GLOBAL_STATE = 'DONETSK';
+</script>

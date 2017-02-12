@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SAN PEDRO, FILIPINLER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FILIPINLER/SAN PEDRO
+---
+
+## SAN PEDRO (FILIPINLER) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SAN_PEDRO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_PEDRO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FILIPINLER';
+  var GLOBAL_CITY = 'SAN PEDRO';
+  var GLOBAL_STATE = 'SAN PEDRO';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MUFULIRA, ZAMBIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ZAMBIYA/MUFULIRA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ZAMBIYA';
+  var GLOBAL_CITY = 'MUFULIRA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

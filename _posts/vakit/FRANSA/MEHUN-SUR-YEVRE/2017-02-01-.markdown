@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MEHUN-SUR-YEVRE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/MEHUN-SUR-YEVRE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'MEHUN-SUR-YEVRE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

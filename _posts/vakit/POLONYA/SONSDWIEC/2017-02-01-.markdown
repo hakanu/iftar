@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SONSDWIEC, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/SONSDWIEC/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'SONSDWIEC';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

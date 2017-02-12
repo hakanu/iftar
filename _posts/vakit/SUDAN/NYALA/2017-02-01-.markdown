@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NYALA, SUDAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SUDAN/NYALA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SUDAN';
+  var GLOBAL_CITY = 'NYALA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

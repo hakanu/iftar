@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ECH_CHELIFF, CEZAYIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEZAYIR/ECH_CHELIFF/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEZAYIR';
+  var GLOBAL_CITY = 'ECH_CHELIFF';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

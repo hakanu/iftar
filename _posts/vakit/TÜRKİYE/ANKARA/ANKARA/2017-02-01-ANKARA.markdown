@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ANKARA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ANKARA/ANKARA
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ANKARA';
+  var GLOBAL_STATE = 'ANKARA';
+  var lat = 72;
+  var lon = 21;
+</script>

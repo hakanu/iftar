@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BRUNSWICK_(BRAUNSCHWEIG), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BRUNSWICK_(BRAUNSCHWEIG)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'BRUNSWICK_(BRAUNSCHWEIG)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

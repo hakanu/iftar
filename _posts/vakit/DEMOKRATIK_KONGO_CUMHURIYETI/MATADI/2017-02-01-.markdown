@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MATADI, DEMOKRATIK_KONGO_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DEMOKRATIK_KONGO_CUMHURIYETI/MATADI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DEMOKRATIK_KONGO_CUMHURIYETI';
+  var GLOBAL_CITY = 'MATADI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

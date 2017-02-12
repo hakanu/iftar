@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: WINDHOEK, NAMBIYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NAMBIYA/WINDHOEK
+---
+
+## WINDHOEK (NAMBIYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WINDHOEK, NAMBIYA) için iftar ve namaz vakitleri](/NAMBIYA/WINDHOEK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NAMBIYA';
+  var GLOBAL_CITY = 'WINDHOEK';
+  var GLOBAL_STATE = 'WINDHOEK';
+</script>

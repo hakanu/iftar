@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ERKRATH, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/ERKRATH
+---
+
+## ERKRATH (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ERKRATH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERKRATH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'ERKRATH';
+  var GLOBAL_STATE = 'ERKRATH';
+</script>

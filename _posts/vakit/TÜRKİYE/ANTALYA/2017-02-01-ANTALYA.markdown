@@ -1,0 +1,32 @@
+---
+layout: vakit_dashboard
+title: ANTALYA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ANTALYA
+---
+
+## ANTALYA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [İBRADI (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/İBRADI)
+* [DEMRE (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/DEMRE)
+* [FİNİKE (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/FİNİKE)
+* [KEMER (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/KEMER)
+* [AKSEKİ (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/AKSEKİ)
+* [GAZİPAŞA (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/GAZİPAŞA)
+* [SERİK (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/SERİK)
+* [KUMLUCA (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/KUMLUCA)
+* [ELMALI (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/ELMALI)
+* [GÜNDOĞMUŞ (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/GÜNDOĞMUŞ)
+* [AKSU (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/AKSU)
+* [ANTALYA (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/ANTALYA)
+* [MANAVGAT (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/MANAVGAT)
+* [ALANYA (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/ALANYA)
+* [KAŞ (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/KAŞ)
+* [KORKUTELİ (ANTALYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANTALYA/KORKUTELİ)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ANTALYA';
+  var GLOBAL_STATE = 'ANTALYA';
+</script>

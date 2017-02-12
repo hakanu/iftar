@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LAS_TABLAS, PANAMA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PANAMA/LAS_TABLAS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PANAMA';
+  var GLOBAL_CITY = 'LAS_TABLAS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

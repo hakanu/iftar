@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CELJE, SLOVENYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SLOVENYA/CELJE
+---
+
+## CELJE (SLOVENYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CELJE, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/CELJE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SLOVENYA';
+  var GLOBAL_CITY = 'CELJE';
+  var GLOBAL_STATE = 'CELJE';
+</script>

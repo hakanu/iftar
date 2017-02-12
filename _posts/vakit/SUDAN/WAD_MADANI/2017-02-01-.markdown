@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: WAD_MADANI, SUDAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SUDAN/WAD_MADANI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SUDAN';
+  var GLOBAL_CITY = 'WAD_MADANI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

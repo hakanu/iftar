@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: FALKENBERG, ISVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVEC/FALKENBERG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVEC';
+  var GLOBAL_CITY = 'FALKENBERG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

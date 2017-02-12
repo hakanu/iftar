@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ASUNCION, PARAGUAY için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PARAGUAY/ASUNCION
+---
+
+## ASUNCION (PARAGUAY) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ASUNCION, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/ASUNCION/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PARAGUAY';
+  var GLOBAL_CITY = 'ASUNCION';
+  var GLOBAL_STATE = 'ASUNCION';
+</script>

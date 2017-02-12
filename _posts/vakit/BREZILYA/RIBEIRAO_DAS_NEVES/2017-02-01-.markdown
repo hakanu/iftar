@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RIBEIRAO_DAS_NEVES, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/RIBEIRAO_DAS_NEVES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'RIBEIRAO_DAS_NEVES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SHEKER, KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/SHEKER
+---
+
+## SHEKER (KIRGIZISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SHEKER, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/SHEKER/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'SHEKER';
+  var GLOBAL_STATE = 'SHEKER';
+</script>

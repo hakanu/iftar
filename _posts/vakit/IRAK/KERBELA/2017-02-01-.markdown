@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KERBELA, IRAK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAK/KERBELA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRAK';
+  var GLOBAL_CITY = 'KERBELA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TANGARA_DA_SERRA_(M_G_), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/TANGARA_DA_SERRA_(M_G_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'TANGARA_DA_SERRA_(M_G_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

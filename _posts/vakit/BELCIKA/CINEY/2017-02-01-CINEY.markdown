@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CINEY, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/CINEY
+---
+
+## CINEY (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CINEY, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CINEY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'CINEY';
+  var GLOBAL_STATE = 'CINEY';
+</script>

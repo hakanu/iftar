@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RAS_AL_KHAYMAH, BIRLESIK_ARAP_EMIRLIGI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BIRLESIK_ARAP_EMIRLIGI/RAS_AL_KHAYMAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BIRLESIK_ARAP_EMIRLIGI';
+  var GLOBAL_CITY = 'RAS_AL_KHAYMAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

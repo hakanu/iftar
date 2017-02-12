@@ -1,0 +1,18 @@
+---
+layout: vakit_dashboard
+title: VERMONT, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/VERMONT
+---
+
+## VERMONT (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [MONTPELIER (VERMONT, ABD) için iftar ve namaz vakitleri](/ABD/VERMONT/MONTPELIER)
+* [BENNINGTON (VERMONT, ABD) için iftar ve namaz vakitleri](/ABD/VERMONT/BENNINGTON)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'VERMONT';
+  var GLOBAL_STATE = 'VERMONT';
+</script>

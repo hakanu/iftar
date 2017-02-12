@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MAKAO, MAKAO için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKAO/MAKAO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKAO';
+  var GLOBAL_CITY = 'MAKAO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

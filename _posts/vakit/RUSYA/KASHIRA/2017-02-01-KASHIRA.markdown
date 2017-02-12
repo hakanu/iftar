@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KASHIRA, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/KASHIRA
+---
+
+## KASHIRA (RUSYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KASHIRA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KASHIRA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'KASHIRA';
+  var GLOBAL_STATE = 'KASHIRA';
+</script>

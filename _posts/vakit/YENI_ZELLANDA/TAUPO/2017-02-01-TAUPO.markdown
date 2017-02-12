@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TAUPO, YENI ZELLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YENI ZELLANDA/TAUPO
+---
+
+## TAUPO (YENI ZELLANDA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TAUPO, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/TAUPO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+  var GLOBAL_CITY = 'TAUPO';
+  var GLOBAL_STATE = 'TAUPO';
+</script>

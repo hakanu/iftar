@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MUŞ, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MUŞ/MALAZGİRT
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'MUŞ';
+  var GLOBAL_STATE = 'MALAZGİRT';
+  var lat = 72;
+  var lon = 21;
+</script>

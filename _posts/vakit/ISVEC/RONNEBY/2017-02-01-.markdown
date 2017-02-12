@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RONNEBY, ISVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVEC/RONNEBY/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVEC';
+  var GLOBAL_CITY = 'RONNEBY';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

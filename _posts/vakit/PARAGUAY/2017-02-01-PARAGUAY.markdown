@@ -1,0 +1,16 @@
+---
+layout: generated_md
+title: PARAGUAY için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /PARAGUAY
+---
+
+## PARAGUAY için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [CORONEL_OVIEDO (PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/CORONEL_OVIEDO)
+* [VILLARRICA (PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/VILLARRICA)
+* [CIUDAD_DEL_ESTE (PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/CIUDAD_DEL_ESTE)
+* [CONCEPCION (PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/CONCEPCION)
+* [ASUNCION (PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/ASUNCION)
+* [SAN_PEDRO_DEL_PARANA (PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/SAN_PEDRO_DEL_PARANA)

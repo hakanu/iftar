@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NOVY_JICIN, CEK_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEK_CUMHURIYETI/NOVY_JICIN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEK_CUMHURIYETI';
+  var GLOBAL_CITY = 'NOVY_JICIN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

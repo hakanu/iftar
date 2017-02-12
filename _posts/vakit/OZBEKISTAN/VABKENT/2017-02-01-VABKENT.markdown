@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VABKENT, OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/VABKENT
+---
+
+## VABKENT (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VABKENT, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/VABKENT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'VABKENT';
+  var GLOBAL_STATE = 'VABKENT';
+</script>

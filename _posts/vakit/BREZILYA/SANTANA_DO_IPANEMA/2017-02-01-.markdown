@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SANTANA_DO_IPANEMA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/SANTANA_DO_IPANEMA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'SANTANA_DO_IPANEMA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

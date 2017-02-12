@@ -1,0 +1,35 @@
+---
+layout: vakit_dashboard
+title: TEXAS, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/TEXAS
+---
+
+## TEXAS (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [FORT_WORTH (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/FORT_WORTH)
+* [BAYTOWN (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/BAYTOWN)
+* [GALVESTON (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/GALVESTON)
+* [SAN_ANTONIO (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/SAN_ANTONIO)
+* [DALLAS (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/DALLAS)
+* [CONROE (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/CONROE)
+* [BEAUMONT (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/BEAUMONT)
+* [DENTON (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/DENTON)
+* [HOUSTON (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/HOUSTON)
+* [BAY_CITY (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/BAY_CITY)
+* [AUSTIN (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/AUSTIN)
+* [WICHITA_FALLS (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/WICHITA_FALLS)
+* [EL_PASO (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/EL_PASO)
+* [COLLEGE_STATION (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/COLLEGE_STATION)
+* [LUBBOCK (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/LUBBOCK)
+* [ROSENBERG (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/ROSENBERG)
+* [PASADENA (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/PASADENA)
+* [TEXAS_CITY (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/TEXAS_CITY)
+* [LAREDO (TEXAS, ABD) için iftar ve namaz vakitleri](/ABD/TEXAS/LAREDO)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'TEXAS';
+  var GLOBAL_STATE = 'TEXAS';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: VAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/VAN/SARAY_(V)
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'VAN';
+  var GLOBAL_STATE = 'SARAY_(V)';
+  var lat = 72;
+  var lon = 21;
+</script>

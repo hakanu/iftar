@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NAKHON_SAWAN, TAYLAND için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYLAND/NAKHON_SAWAN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYLAND';
+  var GLOBAL_CITY = 'NAKHON_SAWAN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

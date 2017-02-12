@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NITRA, SLOVAKYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SLOVAKYA/NITRA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
+  var GLOBAL_CITY = 'NITRA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

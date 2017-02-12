@@ -1,0 +1,21 @@
+---
+layout: generated_md
+title: TANZANYA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /TANZANYA
+---
+
+## TANZANYA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [TANGA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TANGA)
+* [MWANZA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MWANZA)
+* [ARUSHA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ARUSHA)
+* [MOROGORO (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MOROGORO)
+* [TABORA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TABORA)
+* [SHINYANGA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/SHINYANGA)
+* [DAR_ES_SALAAM (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DAR_ES_SALAAM)
+* [MBEYA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MBEYA)
+* [DODOMA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DODOMA)
+* [WETE (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/WETE)
+* [ZANZIBAR (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ZANZIBAR)

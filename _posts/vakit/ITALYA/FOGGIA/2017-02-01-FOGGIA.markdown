@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FOGGIA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/FOGGIA
+---
+
+## FOGGIA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FOGGIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FOGGIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'FOGGIA';
+  var GLOBAL_STATE = 'FOGGIA';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MERIDA, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/MERIDA
+---
+
+## MERIDA (MEKSIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MERIDA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MERIDA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'MERIDA';
+  var GLOBAL_STATE = 'MERIDA';
+</script>

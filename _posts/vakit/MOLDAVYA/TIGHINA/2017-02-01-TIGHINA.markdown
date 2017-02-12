@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TIGHINA, MOLDAVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOLDAVYA/TIGHINA
+---
+
+## TIGHINA (MOLDAVYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TIGHINA, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIGHINA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
+  var GLOBAL_CITY = 'TIGHINA';
+  var GLOBAL_STATE = 'TIGHINA';
+</script>

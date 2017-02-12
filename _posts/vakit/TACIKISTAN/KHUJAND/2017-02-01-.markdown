@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KHUJAND, TACIKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TACIKISTAN/KHUJAND/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
+  var GLOBAL_CITY = 'KHUJAND';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

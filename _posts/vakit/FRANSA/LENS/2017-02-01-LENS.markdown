@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LENS, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/LENS
+---
+
+## LENS (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LENS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LENS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'LENS';
+  var GLOBAL_STATE = 'LENS';
+</script>

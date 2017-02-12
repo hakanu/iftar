@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: YERVILLE_(S-M), FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/YERVILLE_(S-M)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'YERVILLE_(S-M)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

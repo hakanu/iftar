@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: COLOMBO, SRI LANKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SRI LANKA/COLOMBO
+---
+
+## COLOMBO (SRI LANKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (COLOMBO, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/COLOMBO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SRI LANKA';
+  var GLOBAL_CITY = 'COLOMBO';
+  var GLOBAL_STATE = 'COLOMBO';
+</script>

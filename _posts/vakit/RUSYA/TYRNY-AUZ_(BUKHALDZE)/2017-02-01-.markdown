@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TYRNY-AUZ_(BUKHALDZE), RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/TYRNY-AUZ_(BUKHALDZE)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'RUSYA';
+  var GLOBAL_CITY = 'TYRNY-AUZ_(BUKHALDZE)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

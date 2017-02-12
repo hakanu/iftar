@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ENDE, ENDONEZYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ENDONEZYA/ENDE
+---
+
+## ENDE (ENDONEZYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ENDE, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/ENDE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
+  var GLOBAL_CITY = 'ENDE';
+  var GLOBAL_STATE = 'ENDE';
+</script>

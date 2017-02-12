@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: COLOMBO (P), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/COLOMBO (P)
+---
+
+## COLOMBO (P) (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (COLOMBO_(P), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/COLOMBO_(P)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'COLOMBO (P)';
+  var GLOBAL_STATE = 'COLOMBO (P)';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: WITTLICH, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/WITTLICH
+---
+
+## WITTLICH (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WITTLICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WITTLICH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'WITTLICH';
+  var GLOBAL_STATE = 'WITTLICH';
+</script>

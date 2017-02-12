@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: COBURG, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/COBURG
+---
+
+## COBURG (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (COBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/COBURG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'COBURG';
+  var GLOBAL_STATE = 'COBURG';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GAO, MALI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALI/GAO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALI';
+  var GLOBAL_CITY = 'GAO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

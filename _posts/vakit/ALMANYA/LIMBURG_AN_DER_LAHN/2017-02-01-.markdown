@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LIMBURG_AN_DER_LAHN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/LIMBURG_AN_DER_LAHN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'LIMBURG_AN_DER_LAHN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

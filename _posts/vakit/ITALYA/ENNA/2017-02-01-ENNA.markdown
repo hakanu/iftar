@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ENNA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/ENNA
+---
+
+## ENNA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ENNA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ENNA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'ENNA';
+  var GLOBAL_STATE = 'ENNA';
+</script>

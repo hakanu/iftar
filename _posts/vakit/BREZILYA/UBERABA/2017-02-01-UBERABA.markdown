@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: UBERABA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/UBERABA
+---
+
+## UBERABA (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (UBERABA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/UBERABA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'UBERABA';
+  var GLOBAL_STATE = 'UBERABA';
+</script>

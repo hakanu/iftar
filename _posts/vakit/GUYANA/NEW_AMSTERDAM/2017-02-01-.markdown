@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEW_AMSTERDAM, GUYANA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUYANA/NEW_AMSTERDAM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUYANA';
+  var GLOBAL_CITY = 'NEW_AMSTERDAM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

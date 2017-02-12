@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GIJON, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/GIJON
+---
+
+## GIJON (ISPANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GIJON, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/GIJON/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'GIJON';
+  var GLOBAL_STATE = 'GIJON';
+</script>

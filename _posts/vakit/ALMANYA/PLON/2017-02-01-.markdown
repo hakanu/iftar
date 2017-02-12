@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PLON, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/PLON/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'PLON';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

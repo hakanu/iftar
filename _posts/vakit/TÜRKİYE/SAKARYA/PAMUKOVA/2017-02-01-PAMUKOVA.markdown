@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAKARYA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/SAKARYA/PAMUKOVA
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'SAKARYA';
+  var GLOBAL_STATE = 'PAMUKOVA';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SABHA, LIBYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LIBYA/SABHA
+---
+
+## SABHA (LIBYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SABHA, LIBYA) için iftar ve namaz vakitleri](/LIBYA/SABHA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LIBYA';
+  var GLOBAL_CITY = 'SABHA';
+  var GLOBAL_STATE = 'SABHA';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BEJAIA, CEZAYIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEZAYIR/BEJAIA
+---
+
+## BEJAIA (CEZAYIR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BEJAIA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BEJAIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEZAYIR';
+  var GLOBAL_CITY = 'BEJAIA';
+  var GLOBAL_STATE = 'BEJAIA';
+</script>

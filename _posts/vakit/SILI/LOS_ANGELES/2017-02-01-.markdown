@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LOS_ANGELES, SILI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SILI/LOS_ANGELES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SILI';
+  var GLOBAL_CITY = 'LOS_ANGELES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

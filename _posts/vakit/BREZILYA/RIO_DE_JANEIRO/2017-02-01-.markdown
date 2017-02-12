@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RIO_DE_JANEIRO, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/RIO_DE_JANEIRO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'RIO_DE_JANEIRO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

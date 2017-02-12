@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ÇANKIRI, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ÇANKIRI/YAPRAKLI
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ÇANKIRI';
+  var GLOBAL_STATE = 'YAPRAKLI';
+  var lat = 72;
+  var lon = 21;
+</script>

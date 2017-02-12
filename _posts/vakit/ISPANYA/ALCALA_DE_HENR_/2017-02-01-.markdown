@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ALCALA_DE_HENR_, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/ALCALA_DE_HENR_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'ALCALA_DE_HENR_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

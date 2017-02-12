@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BAKYRLY, KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/BAKYRLY
+---
+
+## BAKYRLY (KAZAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BAKYRLY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BAKYRLY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'BAKYRLY';
+  var GLOBAL_STATE = 'BAKYRLY';
+</script>

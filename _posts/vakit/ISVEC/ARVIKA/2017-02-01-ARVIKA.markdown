@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ARVIKA, ISVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVEC/ARVIKA
+---
+
+## ARVIKA (ISVEC) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ARVIKA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/ARVIKA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVEC';
+  var GLOBAL_CITY = 'ARVIKA';
+  var GLOBAL_STATE = 'ARVIKA';
+</script>

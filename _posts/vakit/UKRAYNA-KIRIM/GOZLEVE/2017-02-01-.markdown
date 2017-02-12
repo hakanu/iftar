@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GOZLEVE, UKRAYNA-KIRIM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA-KIRIM/GOZLEVE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+  var GLOBAL_CITY = 'GOZLEVE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

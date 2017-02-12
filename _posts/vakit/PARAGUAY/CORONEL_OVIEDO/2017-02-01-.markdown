@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CORONEL_OVIEDO, PARAGUAY için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PARAGUAY/CORONEL_OVIEDO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PARAGUAY';
+  var GLOBAL_CITY = 'CORONEL_OVIEDO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

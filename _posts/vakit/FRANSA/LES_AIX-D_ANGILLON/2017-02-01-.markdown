@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LES_AIX-D_ANGILLON, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/LES_AIX-D_ANGILLON/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'LES_AIX-D_ANGILLON';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

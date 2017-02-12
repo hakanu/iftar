@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CAMDEN, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/CAMDEN
+---
+
+## CAMDEN (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CAMDEN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CAMDEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'CAMDEN';
+  var GLOBAL_STATE = 'CAMDEN';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TRABZON, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/TRABZON/DÜZKÖY
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'TRABZON';
+  var GLOBAL_STATE = 'DÜZKÖY';
+  var lat = 72;
+  var lon = 21;
+</script>

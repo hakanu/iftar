@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TABORA, TANZANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TANZANYA/TABORA
+---
+
+## TABORA (TANZANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TABORA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TABORA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TANZANYA';
+  var GLOBAL_CITY = 'TABORA';
+  var GLOBAL_STATE = 'TABORA';
+</script>

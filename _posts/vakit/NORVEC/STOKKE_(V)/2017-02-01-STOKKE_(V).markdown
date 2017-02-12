@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: STOKKE (V), NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/STOKKE (V)
+---
+
+## STOKKE (V) (NORVEC) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (STOKKE_(V), NORVEC) için iftar ve namaz vakitleri](/NORVEC/STOKKE_(V)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'STOKKE (V)';
+  var GLOBAL_STATE = 'STOKKE (V)';
+</script>

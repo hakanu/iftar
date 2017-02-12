@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AVEIRO, PORTEKIZ için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PORTEKIZ/AVEIRO
+---
+
+## AVEIRO (PORTEKIZ) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AVEIRO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/AVEIRO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
+  var GLOBAL_CITY = 'AVEIRO';
+  var GLOBAL_STATE = 'AVEIRO';
+</script>

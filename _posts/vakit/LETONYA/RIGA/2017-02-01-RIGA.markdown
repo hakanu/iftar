@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: RIGA, LETONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LETONYA/RIGA
+---
+
+## RIGA (LETONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (RIGA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/RIGA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LETONYA';
+  var GLOBAL_CITY = 'RIGA';
+  var GLOBAL_STATE = 'RIGA';
+</script>

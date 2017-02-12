@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PEGU, BURMA_(MYANMAR) için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BURMA_(MYANMAR)/PEGU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BURMA_(MYANMAR)';
+  var GLOBAL_CITY = 'PEGU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

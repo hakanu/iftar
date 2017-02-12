@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_MARTIN_TEX__D_L_, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/SAN_MARTIN_TEX__D_L_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'SAN_MARTIN_TEX__D_L_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

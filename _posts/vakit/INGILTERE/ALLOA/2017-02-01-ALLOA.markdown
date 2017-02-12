@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ALLOA, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/ALLOA
+---
+
+## ALLOA (INGILTERE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ALLOA, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ALLOA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'ALLOA';
+  var GLOBAL_STATE = 'ALLOA';
+</script>

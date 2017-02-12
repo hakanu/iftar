@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LILLE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/LILLE
+---
+
+## LILLE (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LILLE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'LILLE';
+  var GLOBAL_STATE = 'LILLE';
+</script>

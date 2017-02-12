@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SON_EN_BREUGEL, HOLLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HOLLANDA/SON_EN_BREUGEL/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HOLLANDA';
+  var GLOBAL_CITY = 'SON_EN_BREUGEL';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

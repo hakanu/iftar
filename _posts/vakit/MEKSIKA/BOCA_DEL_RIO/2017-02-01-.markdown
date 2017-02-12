@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BOCA_DEL_RIO, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/BOCA_DEL_RIO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'BOCA_DEL_RIO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

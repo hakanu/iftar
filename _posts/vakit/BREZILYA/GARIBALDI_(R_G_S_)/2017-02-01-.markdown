@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GARIBALDI_(R_G_S_), BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/GARIBALDI_(R_G_S_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'GARIBALDI_(R_G_S_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: USKUP, MAKEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKEDONYA/USKUP/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
+  var GLOBAL_CITY = 'USKUP';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

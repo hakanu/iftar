@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ERZİNCAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ERZİNCAN/REFAHİYE
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ERZİNCAN';
+  var GLOBAL_STATE = 'REFAHİYE';
+  var lat = 72;
+  var lon = 21;
+</script>

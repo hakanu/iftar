@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PUERTO_MONTT, SILI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SILI/PUERTO_MONTT/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SILI';
+  var GLOBAL_CITY = 'PUERTO_MONTT';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SUSAH, TUNUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TUNUS/SUSAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TUNUS';
+  var GLOBAL_CITY = 'SUSAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SEHNDE, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/SEHNDE
+---
+
+## SEHNDE (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SEHNDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEHNDE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'SEHNDE';
+  var GLOBAL_STATE = 'SEHNDE';
+</script>

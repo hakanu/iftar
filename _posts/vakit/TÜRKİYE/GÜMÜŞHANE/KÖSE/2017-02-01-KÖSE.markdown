@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GÜMÜŞHANE, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/GÜMÜŞHANE/KÖSE
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'GÜMÜŞHANE';
+  var GLOBAL_STATE = 'KÖSE';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHIQUIMULA, GUATEMALA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUATEMALA/CHIQUIMULA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUATEMALA';
+  var GLOBAL_CITY = 'CHIQUIMULA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

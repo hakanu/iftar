@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BERN, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/BERN
+---
+
+## BERN (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BERN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BERN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'BERN';
+  var GLOBAL_STATE = 'BERN';
+</script>

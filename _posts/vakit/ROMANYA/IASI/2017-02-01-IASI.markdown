@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IASI, ROMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ROMANYA/IASI
+---
+
+## IASI (ROMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IASI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/IASI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ROMANYA';
+  var GLOBAL_CITY = 'IASI';
+  var GLOBAL_STATE = 'IASI';
+</script>

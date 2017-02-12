@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHATILLON_SUR_SEINE, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/CHATILLON_SUR_SEINE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'CHATILLON_SUR_SEINE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ANGREN , OZBEKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /OZBEKISTAN/ANGREN 
+---
+
+## ANGREN  (OZBEKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ANGREN_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/ANGREN_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+  var GLOBAL_CITY = 'ANGREN ';
+  var GLOBAL_STATE = 'ANGREN ';
+</script>

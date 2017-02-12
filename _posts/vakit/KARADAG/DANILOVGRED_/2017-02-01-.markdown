@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DANILOVGRED_, KARADAG için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KARADAG/DANILOVGRED_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KARADAG';
+  var GLOBAL_CITY = 'DANILOVGRED_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

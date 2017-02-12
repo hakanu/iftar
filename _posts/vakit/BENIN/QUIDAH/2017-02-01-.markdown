@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: QUIDAH, BENIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BENIN/QUIDAH/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BENIN';
+  var GLOBAL_CITY = 'QUIDAH';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

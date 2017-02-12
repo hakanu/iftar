@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: HENGELO_(GELDERLAND), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/HENGELO_(GELDERLAND)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'HENGELO_(GELDERLAND)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

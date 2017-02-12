@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RUTANA, BURUNDI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BURUNDI/RUTANA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BURUNDI';
+  var GLOBAL_CITY = 'RUTANA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

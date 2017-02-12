@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PASO_DE_LOS_LIBRES, ARJANTIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARJANTIN/PASO_DE_LOS_LIBRES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARJANTIN';
+  var GLOBAL_CITY = 'PASO_DE_LOS_LIBRES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

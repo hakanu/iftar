@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SJENICA , SIRBISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SIRBISTAN/SJENICA 
+---
+
+## SJENICA  (SIRBISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SJENICA_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/SJENICA_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
+  var GLOBAL_CITY = 'SJENICA ';
+  var GLOBAL_STATE = 'SJENICA ';
+</script>

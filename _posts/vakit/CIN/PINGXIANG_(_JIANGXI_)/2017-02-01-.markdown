@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PINGXIANG_(_JIANGXI_), CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/PINGXIANG_(_JIANGXI_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'PINGXIANG_(_JIANGXI_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GIMHAE, GUNEY KORE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY KORE/GIMHAE
+---
+
+## GIMHAE (GUNEY KORE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GIMHAE, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GIMHAE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
+  var GLOBAL_CITY = 'GIMHAE';
+  var GLOBAL_STATE = 'GIMHAE';
+</script>

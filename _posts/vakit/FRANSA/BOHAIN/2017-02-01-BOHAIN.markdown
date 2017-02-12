@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BOHAIN, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/BOHAIN
+---
+
+## BOHAIN (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BOHAIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOHAIN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'BOHAIN';
+  var GLOBAL_STATE = 'BOHAIN';
+</script>

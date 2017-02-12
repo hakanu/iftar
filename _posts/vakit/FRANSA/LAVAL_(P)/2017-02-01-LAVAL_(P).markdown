@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LAVAL (P), FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/LAVAL (P)
+---
+
+## LAVAL (P) (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LAVAL_(P), FRANSA) için iftar ve namaz vakitleri](/FRANSA/LAVAL_(P)/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'LAVAL (P)';
+  var GLOBAL_STATE = 'LAVAL (P)';
+</script>

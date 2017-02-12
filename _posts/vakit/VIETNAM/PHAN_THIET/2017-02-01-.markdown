@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PHAN_THIET, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/PHAN_THIET/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'PHAN_THIET';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

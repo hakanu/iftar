@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LIMERIC, IRLANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRLANDA/LIMERIC/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'IRLANDA';
+  var GLOBAL_CITY = 'LIMERIC';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

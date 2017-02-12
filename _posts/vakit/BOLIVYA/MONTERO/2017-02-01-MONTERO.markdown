@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MONTERO, BOLIVYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BOLIVYA/MONTERO
+---
+
+## MONTERO (BOLIVYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MONTERO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/MONTERO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BOLIVYA';
+  var GLOBAL_CITY = 'MONTERO';
+  var GLOBAL_STATE = 'MONTERO';
+</script>

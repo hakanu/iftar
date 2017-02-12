@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAN_JOSE, KOSTARIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KOSTARIKA/SAN_JOSE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KOSTARIKA';
+  var GLOBAL_CITY = 'SAN_JOSE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

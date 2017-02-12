@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VERTUS, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/VERTUS
+---
+
+## VERTUS (FRANSA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VERTUS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VERTUS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'VERTUS';
+  var GLOBAL_STATE = 'VERTUS';
+</script>

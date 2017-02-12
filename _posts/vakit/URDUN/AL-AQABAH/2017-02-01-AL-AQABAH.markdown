@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AL-AQABAH, URDUN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /URDUN/AL-AQABAH
+---
+
+## AL-AQABAH (URDUN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AL-AQABAH, URDUN) için iftar ve namaz vakitleri](/URDUN/AL-AQABAH/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'URDUN';
+  var GLOBAL_CITY = 'AL-AQABAH';
+  var GLOBAL_STATE = 'AL-AQABAH';
+</script>

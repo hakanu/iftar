@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BAMBERG, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BAMBERG
+---
+
+## BAMBERG (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BAMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAMBERG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'BAMBERG';
+  var GLOBAL_STATE = 'BAMBERG';
+</script>

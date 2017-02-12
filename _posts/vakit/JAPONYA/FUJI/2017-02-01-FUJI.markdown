@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FUJI, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/FUJI
+---
+
+## FUJI (JAPONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FUJI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUJI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'FUJI';
+  var GLOBAL_STATE = 'FUJI';
+</script>

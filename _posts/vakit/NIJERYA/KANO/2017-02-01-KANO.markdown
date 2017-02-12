@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KANO, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/KANO
+---
+
+## KANO (NIJERYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KANO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/KANO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'KANO';
+  var GLOBAL_STATE = 'KANO';
+</script>

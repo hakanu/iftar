@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: TAKASAKI, JAPONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAPONYA/TAKASAKI
+---
+
+## TAKASAKI (JAPONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (TAKASAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAKASAKI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAPONYA';
+  var GLOBAL_CITY = 'TAKASAKI';
+  var GLOBAL_STATE = 'TAKASAKI';
+</script>

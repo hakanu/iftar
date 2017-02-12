@@ -1,0 +1,33 @@
+---
+layout: vakit_dashboard
+title: ANKARA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ANKARA
+---
+
+## ANKARA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ANKARA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ANKARA)
+* [KIZILCAHAMAM (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KIZILCAHAMAM)
+* [ŞEREFLİKOÇHİSAR (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ŞEREFLİKOÇHİSAR)
+* [AKYURT (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/AKYURT)
+* [NALLIHAN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/NALLIHAN)
+* [EVREN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/EVREN)
+* [KALECİK (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KALECİK)
+* [CUBUK (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/CUBUK)
+* [KAZAN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KAZAN)
+* [HAYMANA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/HAYMANA)
+* [BEYPAZARI (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/BEYPAZARI)
+* [BALA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/BALA)
+* [GÜDÜL (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/GÜDÜL)
+* [ELMADAĞ (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ELMADAĞ)
+* [ÇAMLIDERE (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ÇAMLIDERE)
+* [AYAŞ (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/AYAŞ)
+* [POLATLI (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/POLATLI)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ANKARA';
+  var GLOBAL_STATE = 'ANKARA';
+</script>

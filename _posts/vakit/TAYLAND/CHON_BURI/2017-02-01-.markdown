@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHON_BURI, TAYLAND için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TAYLAND/CHON_BURI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TAYLAND';
+  var GLOBAL_CITY = 'CHON_BURI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

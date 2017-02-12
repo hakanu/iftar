@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: XINGTAI, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/XINGTAI
+---
+
+## XINGTAI (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (XINGTAI, CIN) için iftar ve namaz vakitleri](/CIN/XINGTAI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'XINGTAI';
+  var GLOBAL_STATE = 'XINGTAI';
+</script>

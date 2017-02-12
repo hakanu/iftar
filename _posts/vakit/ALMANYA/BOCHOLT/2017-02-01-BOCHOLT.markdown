@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BOCHOLT, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BOCHOLT
+---
+
+## BOCHOLT (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BOCHOLT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOCHOLT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'BOCHOLT';
+  var GLOBAL_STATE = 'BOCHOLT';
+</script>

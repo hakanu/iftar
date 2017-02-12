@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHIMOIO, MOZAMBIK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOZAMBIK/CHIMOIO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOZAMBIK';
+  var GLOBAL_CITY = 'CHIMOIO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

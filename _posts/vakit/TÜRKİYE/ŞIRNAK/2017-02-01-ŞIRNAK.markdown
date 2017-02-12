@@ -1,0 +1,23 @@
+---
+layout: vakit_dashboard
+title: ŞIRNAK, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ŞIRNAK
+---
+
+## ŞIRNAK (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ULUDERE (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/ULUDERE)
+* [İDİL (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/İDİL)
+* [ŞIRNAK (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/ŞIRNAK)
+* [SİLOPİ (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/SİLOPİ)
+* [GÜÇLÜKONAK (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/GÜÇLÜKONAK)
+* [CİZRE (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/CİZRE)
+* [BEYTÜŞŞEBAP (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/BEYTÜŞŞEBAP)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ŞIRNAK';
+  var GLOBAL_STATE = 'ŞIRNAK';
+</script>

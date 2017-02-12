@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AKTAU_(Tupqarakhan), KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/AKTAU_(Tupqarakhan)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'AKTAU_(Tupqarakhan)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

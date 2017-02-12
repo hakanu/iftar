@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GAETA, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/GAETA
+---
+
+## GAETA (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GAETA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GAETA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'GAETA';
+  var GLOBAL_STATE = 'GAETA';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: UMEA, ISVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVEC/UMEA
+---
+
+## UMEA (ISVEC) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (UMEA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/UMEA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVEC';
+  var GLOBAL_CITY = 'UMEA';
+  var GLOBAL_STATE = 'UMEA';
+</script>

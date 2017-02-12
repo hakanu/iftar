@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MUĞLA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MUĞLA/MUĞLA
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'MUĞLA';
+  var GLOBAL_STATE = 'MUĞLA';
+  var lat = 72;
+  var lon = 21;
+</script>

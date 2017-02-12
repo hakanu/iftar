@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VICTORIA, MALTA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALTA/VICTORIA
+---
+
+## VICTORIA (MALTA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VICTORIA, MALTA) için iftar ve namaz vakitleri](/MALTA/VICTORIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALTA';
+  var GLOBAL_CITY = 'VICTORIA';
+  var GLOBAL_STATE = 'VICTORIA';
+</script>

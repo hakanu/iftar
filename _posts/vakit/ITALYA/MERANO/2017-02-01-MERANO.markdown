@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MERANO, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/MERANO
+---
+
+## MERANO (ITALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MERANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MERANO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'MERANO';
+  var GLOBAL_STATE = 'MERANO';
+</script>

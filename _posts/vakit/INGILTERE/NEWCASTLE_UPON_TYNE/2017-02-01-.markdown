@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEWCASTLE_UPON_TYNE, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/NEWCASTLE_UPON_TYNE/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'NEWCASTLE_UPON_TYNE';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

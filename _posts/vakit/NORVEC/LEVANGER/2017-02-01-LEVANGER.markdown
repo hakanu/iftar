@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LEVANGER, NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/LEVANGER
+---
+
+## LEVANGER (NORVEC) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LEVANGER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/LEVANGER/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'LEVANGER';
+  var GLOBAL_STATE = 'LEVANGER';
+</script>

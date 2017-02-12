@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ATABAY, KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/ATABAY
+---
+
+## ATABAY (KAZAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ATABAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ATABAY/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'ATABAY';
+  var GLOBAL_STATE = 'ATABAY';
+</script>

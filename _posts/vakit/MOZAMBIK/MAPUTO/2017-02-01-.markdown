@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MAPUTO, MOZAMBIK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MOZAMBIK/MAPUTO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MOZAMBIK';
+  var GLOBAL_CITY = 'MAPUTO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

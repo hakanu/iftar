@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: NOTODDEN, NORVEC için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NORVEC/NOTODDEN
+---
+
+## NOTODDEN (NORVEC) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NOTODDEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/NOTODDEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NORVEC';
+  var GLOBAL_CITY = 'NOTODDEN';
+  var GLOBAL_STATE = 'NOTODDEN';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BATNA, CEZAYIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEZAYIR/BATNA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEZAYIR';
+  var GLOBAL_CITY = 'BATNA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

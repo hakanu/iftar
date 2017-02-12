@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LACHEN, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/LACHEN
+---
+
+## LACHEN (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LACHEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LACHEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'LACHEN';
+  var GLOBAL_STATE = 'LACHEN';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DOBA, CAD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CAD/DOBA
+---
+
+## DOBA (CAD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DOBA, CAD) için iftar ve namaz vakitleri](/CAD/DOBA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CAD';
+  var GLOBAL_CITY = 'DOBA';
+  var GLOBAL_STATE = 'DOBA';
+</script>

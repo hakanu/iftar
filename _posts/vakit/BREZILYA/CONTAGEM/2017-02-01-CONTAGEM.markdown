@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CONTAGEM, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/CONTAGEM
+---
+
+## CONTAGEM (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CONTAGEM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CONTAGEM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'CONTAGEM';
+  var GLOBAL_STATE = 'CONTAGEM';
+</script>

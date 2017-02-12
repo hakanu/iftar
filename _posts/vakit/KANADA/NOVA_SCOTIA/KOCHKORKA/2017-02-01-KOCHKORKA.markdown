@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NOVA_SCOTIA, KANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KANADA/NOVA_SCOTIA/KOCHKORKA
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KANADA';
+  var GLOBAL_CITY = 'NOVA_SCOTIA';
+  var GLOBAL_STATE = 'KOCHKORKA';
+  var lat = 72;
+  var lon = 21;
+</script>

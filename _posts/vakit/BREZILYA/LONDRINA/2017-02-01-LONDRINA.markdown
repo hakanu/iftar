@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: LONDRINA, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/LONDRINA
+---
+
+## LONDRINA (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LONDRINA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/LONDRINA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'LONDRINA';
+  var GLOBAL_STATE = 'LONDRINA';
+</script>

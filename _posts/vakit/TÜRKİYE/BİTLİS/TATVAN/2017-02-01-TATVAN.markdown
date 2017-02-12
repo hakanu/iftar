@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BİTLİS, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/BİTLİS/TATVAN
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'BİTLİS';
+  var GLOBAL_STATE = 'TATVAN';
+  var lat = 72;
+  var lon = 21;
+</script>

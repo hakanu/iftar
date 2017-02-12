@@ -1,0 +1,20 @@
+---
+layout: vakit_dashboard
+title: OKLAHOMA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/OKLAHOMA
+---
+
+## OKLAHOMA (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [LAWTON (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/LAWTON)
+* [STILLWATER (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/STILLWATER)
+* [TULSA (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/TULSA)
+* [OKLAHOMA_CITY (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/OKLAHOMA_CITY)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'OKLAHOMA';
+  var GLOBAL_STATE = 'OKLAHOMA';
+</script>

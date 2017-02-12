@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SPEIGHTSTOWN, BARBADOS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BARBADOS/SPEIGHTSTOWN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BARBADOS';
+  var GLOBAL_CITY = 'SPEIGHTSTOWN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GUIYANG_(GUIZHOU), CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/GUIYANG_(GUIZHOU)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'GUIYANG_(GUIZHOU)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

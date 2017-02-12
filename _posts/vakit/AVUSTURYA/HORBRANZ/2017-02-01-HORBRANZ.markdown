@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HORBRANZ, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/HORBRANZ
+---
+
+## HORBRANZ (AVUSTURYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HORBRANZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HORBRANZ/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
+  var GLOBAL_CITY = 'HORBRANZ';
+  var GLOBAL_STATE = 'HORBRANZ';
+</script>

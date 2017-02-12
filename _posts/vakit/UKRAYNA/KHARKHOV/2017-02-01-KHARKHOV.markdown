@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KHARKHOV, UKRAYNA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA/KHARKHOV
+---
+
+## KHARKHOV (UKRAYNA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KHARKHOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KHARKHOV/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA';
+  var GLOBAL_CITY = 'KHARKHOV';
+  var GLOBAL_STATE = 'KHARKHOV';
+</script>

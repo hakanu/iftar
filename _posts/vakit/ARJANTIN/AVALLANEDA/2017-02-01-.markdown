@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: AVALLANEDA, ARJANTIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARJANTIN/AVALLANEDA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARJANTIN';
+  var GLOBAL_CITY = 'AVALLANEDA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

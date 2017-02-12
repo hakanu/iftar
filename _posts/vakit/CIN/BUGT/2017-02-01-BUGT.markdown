@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BUGT, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/BUGT
+---
+
+## BUGT (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BUGT, CIN) için iftar ve namaz vakitleri](/CIN/BUGT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'BUGT';
+  var GLOBAL_STATE = 'BUGT';
+</script>

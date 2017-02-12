@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IEPER, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/IEPER
+---
+
+## IEPER (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IEPER, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/IEPER/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BELCIKA';
+  var GLOBAL_CITY = 'IEPER';
+  var GLOBAL_STATE = 'IEPER';
+</script>

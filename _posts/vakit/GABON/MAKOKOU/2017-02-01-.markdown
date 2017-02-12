@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MAKOKOU, GABON için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GABON/MAKOKOU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GABON';
+  var GLOBAL_CITY = 'MAKOKOU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

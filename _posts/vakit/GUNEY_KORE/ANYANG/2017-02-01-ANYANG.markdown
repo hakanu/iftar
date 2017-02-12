@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ANYANG, GUNEY KORE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY KORE/ANYANG
+---
+
+## ANYANG (GUNEY KORE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ANYANG, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/ANYANG/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
+  var GLOBAL_CITY = 'ANYANG';
+  var GLOBAL_STATE = 'ANYANG';
+</script>

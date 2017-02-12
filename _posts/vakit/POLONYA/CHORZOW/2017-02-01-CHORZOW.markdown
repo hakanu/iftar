@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CHORZOW, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/CHORZOW
+---
+
+## CHORZOW (POLONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CHORZOW, POLONYA) için iftar ve namaz vakitleri](/POLONYA/CHORZOW/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'CHORZOW';
+  var GLOBAL_STATE = 'CHORZOW';
+</script>

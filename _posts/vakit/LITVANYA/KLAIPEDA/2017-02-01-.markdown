@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KLAIPEDA, LITVANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LITVANYA/KLAIPEDA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LITVANYA';
+  var GLOBAL_CITY = 'KLAIPEDA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

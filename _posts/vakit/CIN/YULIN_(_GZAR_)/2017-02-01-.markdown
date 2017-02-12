@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: YULIN_(_GZAR_), CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/YULIN_(_GZAR_)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'YULIN_(_GZAR_)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

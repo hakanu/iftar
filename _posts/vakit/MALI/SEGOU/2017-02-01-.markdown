@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SEGOU, MALI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALI/SEGOU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALI';
+  var GLOBAL_CITY = 'SEGOU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

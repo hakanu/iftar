@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: TUNUS, TUNUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TUNUS/TUNUS/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TUNUS';
+  var GLOBAL_CITY = 'TUNUS';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

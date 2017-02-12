@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: JILIN, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/JILIN
+---
+
+## JILIN (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (JILIN, CIN) için iftar ve namaz vakitleri](/CIN/JILIN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'JILIN';
+  var GLOBAL_STATE = 'JILIN';
+</script>

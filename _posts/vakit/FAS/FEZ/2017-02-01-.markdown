@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: FEZ, FAS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FAS/FEZ/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FAS';
+  var GLOBAL_CITY = 'FEZ';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: EISLEBEN_(S-A), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/EISLEBEN_(S-A)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'EISLEBEN_(S-A)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

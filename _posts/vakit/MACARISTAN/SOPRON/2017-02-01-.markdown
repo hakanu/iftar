@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SOPRON, MACARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MACARISTAN/SOPRON/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MACARISTAN';
+  var GLOBAL_CITY = 'SOPRON';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

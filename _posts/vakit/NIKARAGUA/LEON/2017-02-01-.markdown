@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LEON, NIKARAGUA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIKARAGUA/LEON/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
+  var GLOBAL_CITY = 'LEON';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

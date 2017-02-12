@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MADAN , BULGARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BULGARISTAN/MADAN 
+---
+
+## MADAN  (BULGARISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MADAN_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/MADAN_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
+  var GLOBAL_CITY = 'MADAN ';
+  var GLOBAL_STATE = 'MADAN ';
+</script>

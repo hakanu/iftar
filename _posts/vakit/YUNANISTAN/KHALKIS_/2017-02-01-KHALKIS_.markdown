@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KHALKIS , YUNANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YUNANISTAN/KHALKIS 
+---
+
+## KHALKIS  (YUNANISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KHALKIS_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KHALKIS_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
+  var GLOBAL_CITY = 'KHALKIS ';
+  var GLOBAL_STATE = 'KHALKIS ';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MARINA_D_ANDORA_______, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/MARINA_D_ANDORA_______/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'MARINA_D_ANDORA_______';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

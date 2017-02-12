@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MBEYA, TANZANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TANZANYA/MBEYA
+---
+
+## MBEYA (TANZANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MBEYA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MBEYA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TANZANYA';
+  var GLOBAL_CITY = 'MBEYA';
+  var GLOBAL_STATE = 'MBEYA';
+</script>

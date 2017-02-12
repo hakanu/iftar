@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: REPELEN_(MOERS), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/REPELEN_(MOERS)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'REPELEN_(MOERS)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

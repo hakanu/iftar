@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MANITOBA, KANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KANADA/MANITOBA
+---
+
+## MANITOBA (KANADA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [WINNIPEG (MANITOBA, KANADA) için iftar ve namaz vakitleri](/KANADA/MANITOBA/WINNIPEG)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KANADA';
+  var GLOBAL_CITY = 'MANITOBA';
+  var GLOBAL_STATE = 'MANITOBA';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ORDUBAD, AZERBAYCAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AZERBAYCAN/ORDUBAD
+---
+
+## ORDUBAD (AZERBAYCAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ORDUBAD, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/ORDUBAD/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+  var GLOBAL_CITY = 'ORDUBAD';
+  var GLOBAL_STATE = 'ORDUBAD';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEMENCINE_, LITVANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LITVANYA/NEMENCINE_/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LITVANYA';
+  var GLOBAL_CITY = 'NEMENCINE_';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

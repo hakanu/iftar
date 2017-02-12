@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: PORT_OF_SPAIN, TRINIDAT_VE_TOBAGO için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TRINIDAT_VE_TOBAGO/PORT_OF_SPAIN/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TRINIDAT_VE_TOBAGO';
+  var GLOBAL_CITY = 'PORT_OF_SPAIN';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

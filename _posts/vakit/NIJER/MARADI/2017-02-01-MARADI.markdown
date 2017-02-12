@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: MARADI, NIJER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJER/MARADI
+---
+
+## MARADI (NIJER) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MARADI, NIJER) için iftar ve namaz vakitleri](/NIJER/MARADI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJER';
+  var GLOBAL_CITY = 'MARADI';
+  var GLOBAL_STATE = 'MARADI';
+</script>

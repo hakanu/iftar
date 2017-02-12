@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: SAYDA, LUBNAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LUBNAN/SAYDA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LUBNAN';
+  var GLOBAL_CITY = 'SAYDA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

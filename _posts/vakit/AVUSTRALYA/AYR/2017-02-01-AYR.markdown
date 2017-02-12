@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AYR, AVUSTRALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTRALYA/AYR
+---
+
+## AYR (AVUSTRALYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AYR, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/AYR/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+  var GLOBAL_CITY = 'AYR';
+  var GLOBAL_STATE = 'AYR';
+</script>

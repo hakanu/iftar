@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ÇORUM, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ÇORUM/SUNGURLU
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'ÇORUM';
+  var GLOBAL_STATE = 'SUNGURLU';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AHLEN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/AHLEN
+---
+
+## AHLEN (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AHLEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHLEN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'AHLEN';
+  var GLOBAL_STATE = 'AHLEN';
+</script>

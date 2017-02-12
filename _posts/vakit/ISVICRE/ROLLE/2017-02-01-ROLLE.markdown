@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ROLLE, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/ROLLE
+---
+
+## ROLLE (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ROLLE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ROLLE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'ROLLE';
+  var GLOBAL_STATE = 'ROLLE';
+</script>

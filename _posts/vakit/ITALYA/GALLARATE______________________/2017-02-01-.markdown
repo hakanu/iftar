@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: GALLARATE______________________, ITALYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ITALYA/GALLARATE______________________/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ITALYA';
+  var GLOBAL_CITY = 'GALLARATE______________________';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

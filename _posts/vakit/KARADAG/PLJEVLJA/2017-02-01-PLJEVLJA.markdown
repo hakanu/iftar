@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: PLJEVLJA, KARADAG için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KARADAG/PLJEVLJA
+---
+
+## PLJEVLJA (KARADAG) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PLJEVLJA, KARADAG) için iftar ve namaz vakitleri](/KARADAG/PLJEVLJA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KARADAG';
+  var GLOBAL_CITY = 'PLJEVLJA';
+  var GLOBAL_STATE = 'PLJEVLJA';
+</script>

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BAMBARI, ORTA AFRIKA CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ORTA AFRIKA CUMHURIYETI/BAMBARI
+---
+
+## BAMBARI (ORTA AFRIKA CUMHURIYETI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BAMBARI, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/BAMBARI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
+  var GLOBAL_CITY = 'BAMBARI';
+  var GLOBAL_STATE = 'BAMBARI';
+</script>

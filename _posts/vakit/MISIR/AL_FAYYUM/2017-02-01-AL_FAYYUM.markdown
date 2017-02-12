@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: AL FAYYUM, MISIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MISIR/AL FAYYUM
+---
+
+## AL FAYYUM (MISIR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (AL_FAYYUM, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_FAYYUM/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MISIR';
+  var GLOBAL_CITY = 'AL FAYYUM';
+  var GLOBAL_STATE = 'AL FAYYUM';
+</script>

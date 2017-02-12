@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MASERU, LESOTO için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /LESOTO/MASERU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'LESOTO';
+  var GLOBAL_CITY = 'MASERU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

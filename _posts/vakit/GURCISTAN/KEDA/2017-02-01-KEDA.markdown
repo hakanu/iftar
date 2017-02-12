@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KEDA, GURCISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GURCISTAN/KEDA
+---
+
+## KEDA (GURCISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KEDA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KEDA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GURCISTAN';
+  var GLOBAL_CITY = 'KEDA';
+  var GLOBAL_STATE = 'KEDA';
+</script>

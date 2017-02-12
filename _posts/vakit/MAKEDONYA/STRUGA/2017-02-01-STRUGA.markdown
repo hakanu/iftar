@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: STRUGA, MAKEDONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MAKEDONYA/STRUGA
+---
+
+## STRUGA (MAKEDONYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (STRUGA, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/STRUGA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
+  var GLOBAL_CITY = 'STRUGA';
+  var GLOBAL_STATE = 'STRUGA';
+</script>

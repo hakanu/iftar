@@ -1,0 +1,21 @@
+---
+layout: vakit_dashboard
+title: IOWA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/IOWA
+---
+
+## IOWA (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [DES_MOINES (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/DES_MOINES)
+* [NEWTON (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/NEWTON)
+* [AMES (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/AMES)
+* [COUNCIL_BLUFFS (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/COUNCIL_BLUFFS)
+* [IOWA_CITY (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/IOWA_CITY)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'IOWA';
+  var GLOBAL_STATE = 'IOWA';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ESKI_KIRIM, UKRAYNA-KIRIM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UKRAYNA-KIRIM/ESKI_KIRIM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+  var GLOBAL_CITY = 'ESKI_KIRIM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

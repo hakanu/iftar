@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: MALATYA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MALATYA/YAZIHAN
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'MALATYA';
+  var GLOBAL_STATE = 'YAZIHAN';
+  var lat = 72;
+  var lon = 21;
+</script>

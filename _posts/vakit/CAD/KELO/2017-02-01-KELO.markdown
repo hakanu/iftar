@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: KELO, CAD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CAD/KELO
+---
+
+## KELO (CAD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (KELO, CAD) için iftar ve namaz vakitleri](/CAD/KELO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CAD';
+  var GLOBAL_CITY = 'KELO';
+  var GLOBAL_STATE = 'KELO';
+</script>

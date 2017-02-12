@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BAHERDAN , TURKMENISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TURKMENISTAN/BAHERDAN 
+---
+
+## BAHERDAN  (TURKMENISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BAHERDAN_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BAHERDAN_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+  var GLOBAL_CITY = 'BAHERDAN ';
+  var GLOBAL_STATE = 'BAHERDAN ';
+</script>

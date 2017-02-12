@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DURAZNO, URUGUAY için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /URUGUAY/DURAZNO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'URUGUAY';
+  var GLOBAL_CITY = 'DURAZNO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

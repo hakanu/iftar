@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GUAYMAS, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/GUAYMAS
+---
+
+## GUAYMAS (MEKSIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GUAYMAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/GUAYMAS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'GUAYMAS';
+  var GLOBAL_STATE = 'GUAYMAS';
+</script>

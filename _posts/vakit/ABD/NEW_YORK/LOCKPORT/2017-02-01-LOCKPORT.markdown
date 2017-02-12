@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEW_YORK, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/NEW_YORK/LOCKPORT
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_CITY = 'NEW_YORK';
+  var GLOBAL_STATE = 'LOCKPORT';
+  var lat = 72;
+  var lon = 21;
+</script>

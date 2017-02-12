@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VUNG TAU, VIETNAM için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /VIETNAM/VUNG TAU
+---
+
+## VUNG TAU (VIETNAM) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VUNG_TAU, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/VUNG_TAU/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'VIETNAM';
+  var GLOBAL_CITY = 'VUNG TAU';
+  var GLOBAL_STATE = 'VUNG TAU';
+</script>

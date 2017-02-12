@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BAIA MARE, ROMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ROMANYA/BAIA MARE
+---
+
+## BAIA MARE (ROMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BAIA_MARE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BAIA_MARE/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ROMANYA';
+  var GLOBAL_CITY = 'BAIA MARE';
+  var GLOBAL_STATE = 'BAIA MARE';
+</script>

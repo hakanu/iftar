@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ALOFI, NIUE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIUE/ALOFI
+---
+
+## ALOFI (NIUE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ALOFI, NIUE) için iftar ve namaz vakitleri](/NIUE/ALOFI/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIUE';
+  var GLOBAL_CITY = 'ALOFI';
+  var GLOBAL_STATE = 'ALOFI';
+</script>

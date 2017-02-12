@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: DABROWA_GORNICZA, POLONYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /POLONYA/DABROWA_GORNICZA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'POLONYA';
+  var GLOBAL_CITY = 'DABROWA_GORNICZA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

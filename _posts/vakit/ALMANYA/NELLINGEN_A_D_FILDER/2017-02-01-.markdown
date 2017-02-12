@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NELLINGEN_A_D_FILDER, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/NELLINGEN_A_D_FILDER/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'NELLINGEN_A_D_FILDER';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

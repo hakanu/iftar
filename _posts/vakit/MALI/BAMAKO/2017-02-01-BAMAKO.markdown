@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BAMAKO, MALI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MALI/BAMAKO
+---
+
+## BAMAKO (MALI) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BAMAKO, MALI) için iftar ve namaz vakitleri](/MALI/BAMAKO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MALI';
+  var GLOBAL_CITY = 'BAMAKO';
+  var GLOBAL_STATE = 'BAMAKO';
+</script>

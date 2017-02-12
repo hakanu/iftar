@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: GROMITZ, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/GROMITZ
+---
+
+## GROMITZ (ALMANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (GROMITZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GROMITZ/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'GROMITZ';
+  var GLOBAL_STATE = 'GROMITZ';
+</script>

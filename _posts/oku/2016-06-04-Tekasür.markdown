@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: Tekasür suresini meali ve videosu ile takip et, dinle ve oku, Tekasür dinle, Tekasür meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tekasür suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tekasür suresinin mealini oku, dinle, takip et</h1>
+      <div><p></p><p></p><p>TEKASÜR SURESİ (Resmi Mushaf : 102 / İniş Sırası : 16)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Aldatıp oyaladı o çokluk yarışı sizleri,</p><p></p><p></p><p>2. Öyle ki ziyaret edip saydınız kabirleri.</p><p></p><p></p><p>3. Ama iş öyle değil; yakında bileceksiniz.</p><p></p><p></p><p>4. Hayır, hayır! İş öyle değil. Yakında bileceksiniz.</p><p></p><p></p><p>5. İş sizin bildiğiniz gibi değil! Ne olurdu şaşmaz ve aldatmaz bir bilgiyle bilseydiniz.</p><p></p><p></p><p>6. Yemin olsun, o cehennemi mutlaka göreceksiniz.</p><p></p><p></p><p>7. Yine yemin olsun, onu gözünüzle apaçık göreceksiniz.</p><p></p><p></p><p>8. Sonra o gün, nimetten kesinlikle sorguya çekileceksiniz.</p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DURRES, ARNAVUTLUK için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARNAVUTLUK/DURRES
+---
+
+## DURRES (ARNAVUTLUK) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DURRES, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/DURRES/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+  var GLOBAL_CITY = 'DURRES';
+  var GLOBAL_STATE = 'DURRES';
+</script>

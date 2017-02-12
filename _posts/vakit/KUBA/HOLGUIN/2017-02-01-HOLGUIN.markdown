@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: HOLGUIN, KUBA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KUBA/HOLGUIN
+---
+
+## HOLGUIN (KUBA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HOLGUIN, KUBA) için iftar ve namaz vakitleri](/KUBA/HOLGUIN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KUBA';
+  var GLOBAL_CITY = 'HOLGUIN';
+  var GLOBAL_STATE = 'HOLGUIN';
+</script>

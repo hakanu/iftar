@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: YEOSU, GUNEY_KORE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /GUNEY_KORE/YEOSU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'GUNEY_KORE';
+  var GLOBAL_CITY = 'YEOSU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

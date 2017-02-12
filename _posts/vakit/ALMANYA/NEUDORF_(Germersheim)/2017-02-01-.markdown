@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NEUDORF_(Germersheim), ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/NEUDORF_(Germersheim)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_CITY = 'NEUDORF_(Germersheim)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

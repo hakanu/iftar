@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: POYNTON, INGILTERE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /INGILTERE/POYNTON
+---
+
+## POYNTON (INGILTERE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (POYNTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/POYNTON/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'INGILTERE';
+  var GLOBAL_CITY = 'POYNTON';
+  var GLOBAL_STATE = 'POYNTON';
+</script>

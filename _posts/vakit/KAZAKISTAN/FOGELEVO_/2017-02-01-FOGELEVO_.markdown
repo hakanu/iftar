@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: FOGELEVO , KAZAKISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAZAKISTAN/FOGELEVO 
+---
+
+## FOGELEVO  (KAZAKISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (FOGELEVO_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/FOGELEVO_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+  var GLOBAL_CITY = 'FOGELEVO ';
+  var GLOBAL_STATE = 'FOGELEVO ';
+</script>

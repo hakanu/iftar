@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IWO, NIJERYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJERYA/IWO
+---
+
+## IWO (NIJERYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IWO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IWO/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'NIJERYA';
+  var GLOBAL_CITY = 'IWO';
+  var GLOBAL_STATE = 'IWO';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: NAKURU, KENYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KENYA/NAKURU/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KENYA';
+  var GLOBAL_CITY = 'NAKURU';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

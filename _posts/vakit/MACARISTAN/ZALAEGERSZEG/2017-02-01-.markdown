@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ZALAEGERSZEG, MACARISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MACARISTAN/ZALAEGERSZEG/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MACARISTAN';
+  var GLOBAL_CITY = 'ZALAEGERSZEG';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

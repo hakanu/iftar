@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ROZTOKY_(P), CEK_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CEK_CUMHURIYETI/ROZTOKY_(P)/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CEK_CUMHURIYETI';
+  var GLOBAL_CITY = 'ROZTOKY_(P)';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: LAGOS_DE_MORENO, MEKSIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MEKSIKA/LAGOS_DE_MORENO/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'MEKSIKA';
+  var GLOBAL_CITY = 'LAGOS_DE_MORENO';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

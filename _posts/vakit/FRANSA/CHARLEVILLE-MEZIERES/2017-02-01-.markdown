@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: CHARLEVILLE-MEZIERES, FRANSA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /FRANSA/CHARLEVILLE-MEZIERES/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'FRANSA';
+  var GLOBAL_CITY = 'CHARLEVILLE-MEZIERES';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

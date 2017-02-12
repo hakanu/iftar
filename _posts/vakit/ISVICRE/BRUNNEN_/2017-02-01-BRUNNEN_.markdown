@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: BRUNNEN , ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/BRUNNEN 
+---
+
+## BRUNNEN  (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BRUNNEN_, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BRUNNEN_/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISVICRE';
+  var GLOBAL_CITY = 'BRUNNEN ';
+  var GLOBAL_STATE = 'BRUNNEN ';
+</script>

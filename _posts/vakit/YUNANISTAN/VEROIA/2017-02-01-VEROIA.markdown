@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: VEROIA, YUNANISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YUNANISTAN/VEROIA
+---
+
+## VEROIA (YUNANISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (VEROIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/VEROIA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
+  var GLOBAL_CITY = 'VEROIA';
+  var GLOBAL_STATE = 'VEROIA';
+</script>

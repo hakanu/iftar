@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KINGSTON, JAMAIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /JAMAIKA/KINGSTON/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'JAMAIKA';
+  var GLOBAL_CITY = 'KINGSTON';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

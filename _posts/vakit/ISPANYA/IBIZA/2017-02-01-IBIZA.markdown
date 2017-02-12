@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: IBIZA, ISPANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISPANYA/IBIZA
+---
+
+## IBIZA (ISPANYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (IBIZA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/IBIZA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ISPANYA';
+  var GLOBAL_CITY = 'IBIZA';
+  var GLOBAL_STATE = 'IBIZA';
+</script>

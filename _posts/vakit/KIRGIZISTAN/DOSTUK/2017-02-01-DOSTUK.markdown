@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: DOSTUK, KIRGIZISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KIRGIZISTAN/DOSTUK
+---
+
+## DOSTUK (KIRGIZISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (DOSTUK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/DOSTUK/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+  var GLOBAL_CITY = 'DOSTUK';
+  var GLOBAL_STATE = 'DOSTUK';
+</script>

@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: KAMPONG_CHAM, KAMBOCYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KAMBOCYA/KAMPONG_CHAM/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
+  var GLOBAL_CITY = 'KAMPONG_CHAM';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

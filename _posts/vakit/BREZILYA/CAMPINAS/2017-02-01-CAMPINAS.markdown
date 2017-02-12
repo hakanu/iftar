@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: CAMPINAS, BREZILYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BREZILYA/CAMPINAS
+---
+
+## CAMPINAS (BREZILYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CAMPINAS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CAMPINAS/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BREZILYA';
+  var GLOBAL_CITY = 'CAMPINAS';
+  var GLOBAL_STATE = 'CAMPINAS';
+</script>

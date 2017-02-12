@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: BAJOS_DE_HAINA, DOMINIK_CUMHURIYETI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /DOMINIK_CUMHURIYETI/BAJOS_DE_HAINA/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'DOMINIK_CUMHURIYETI';
+  var GLOBAL_CITY = 'BAJOS_DE_HAINA';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

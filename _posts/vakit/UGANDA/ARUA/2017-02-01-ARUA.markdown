@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: ARUA, UGANDA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UGANDA/ARUA
+---
+
+## ARUA (UGANDA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ARUA, UGANDA) için iftar ve namaz vakitleri](/UGANDA/ARUA/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'UGANDA';
+  var GLOBAL_CITY = 'ARUA';
+  var GLOBAL_STATE = 'ARUA';
+</script>

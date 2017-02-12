@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: ORANJESTAD, ARUBA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ARUBA/ORANJESTAD/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'ARUBA';
+  var GLOBAL_CITY = 'ORANJESTAD';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

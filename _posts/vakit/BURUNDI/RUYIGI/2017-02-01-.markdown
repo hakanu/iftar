@@ -1,0 +1,13 @@
+---
+layout: vakit_dashboard
+title: RUYIGI, BURUNDI için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BURUNDI/RUYIGI/
+---
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'BURUNDI';
+  var GLOBAL_CITY = 'RUYIGI';
+  var GLOBAL_STATE = '';
+  var lat = 72;
+  var lon = 21;
+</script>

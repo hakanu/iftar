@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: SPLIT, HIRVATISTAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /HIRVATISTAN/SPLIT
+---
+
+## SPLIT (HIRVATISTAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SPLIT, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SPLIT/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+  var GLOBAL_CITY = 'SPLIT';
+  var GLOBAL_STATE = 'SPLIT';
+</script>

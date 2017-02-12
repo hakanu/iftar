@@ -1,0 +1,21 @@
+---
+layout: generated_md
+title: KANADA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /KANADA
+---
+
+## KANADA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [BRITISH_COLOMBIA (KANADA) için iftar ve namaz vakitleri](/KANADA/BRITISH_COLOMBIA)
+* [P_E_I_ (KANADA) için iftar ve namaz vakitleri](/KANADA/P_E_I_)
+* [NEW_BRUNSWICK (KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK)
+* [N_A_L_ (KANADA) için iftar ve namaz vakitleri](/KANADA/N_A_L_)
+* [NOVA_SCOTIA (KANADA) için iftar ve namaz vakitleri](/KANADA/NOVA_SCOTIA)
+* [QUEBECK (KANADA) için iftar ve namaz vakitleri](/KANADA/QUEBECK)
+* [SASKATCHEWAN (KANADA) için iftar ve namaz vakitleri](/KANADA/SASKATCHEWAN)
+* [ALBERTA (KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA)
+* [MANITOBA (KANADA) için iftar ve namaz vakitleri](/KANADA/MANITOBA)
+* [ONTORIO (KANADA) için iftar ve namaz vakitleri](/KANADA/ONTORIO)
+* [NUNAVUT (KANADA) için iftar ve namaz vakitleri](/KANADA/NUNAVUT)

@@ -1,0 +1,17 @@
+---
+layout: vakit_dashboard
+title: WUHAN, CIN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /CIN/WUHAN
+---
+
+## WUHAN (CIN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WUHAN, CIN) için iftar ve namaz vakitleri](/CIN/WUHAN/)
+
+<script type="text/javascript">
+  var GLOBAL_COUNTRY = 'CIN';
+  var GLOBAL_CITY = 'WUHAN';
+  var GLOBAL_STATE = 'WUHAN';
+</script>
