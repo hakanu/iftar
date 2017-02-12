@@ -610,8 +610,8 @@ function setTimerForVakit(
 function getWeatherByLatLonOW(lat, lon) {
   var xhr = new XMLHttpRequest();
   var weatherUrl = _PROXY_SERVER_URL.supplant({
-      'url': _OPEN_WEATHER_API_LAT_LON_URL.supplant(
-          {'lat': lat, 'lon': lon, 'api_key': _OPEN_WEATHER_API_KEY})
+      'url': encodeURIComponent(_OPEN_WEATHER_API_LAT_LON_URL.supplant(
+          {'lat': lat, 'lon': lon, 'api_key': _OPEN_WEATHER_API_KEY}))
   });
   xhr.open("GET", weatherUrl, true);
   xhr.onload = function() {
@@ -624,10 +624,10 @@ function getWeatherByLatLonOW(lat, lon) {
 function getWeatherByCityOW(countryCode, city) {
   var xhr = new XMLHttpRequest();
   var weatherUrl = _PROXY_SERVER_URL.supplant({
-      'url': _OPEN_WEATHER_API_CITY_URL.supplant({
+      'url': encodeURIComponent(_OPEN_WEATHER_API_CITY_URL.supplant({
           'country_code': countryCode,
           'city': city,
-          'api_key': _OPEN_WEATHER_API_KEY})
+          'api_key': _OPEN_WEATHER_API_KEY}))
   });
   xhr.open("GET", weatherUrl, true);
   xhr.onload = function() {
