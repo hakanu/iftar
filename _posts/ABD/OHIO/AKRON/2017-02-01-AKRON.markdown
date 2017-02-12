@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: OHIO, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/OHIO/AKRON
+---
+
+<script type="text/javascript">
+  var country = ABD;
+  var city = OHIO;
+  var state = AKRON;
+  var lat = 72;
+  var lon = 21;
+</script>

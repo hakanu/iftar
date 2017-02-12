@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: DETTINGEN, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/DETTINGEN/TECK 
+---
+
+<script type="text/javascript">
+  var country = ALMANYA;
+  var city = DETTINGEN;
+  var state = TECK ;
+  var lat = 72;
+  var lon = 21;
+</script>

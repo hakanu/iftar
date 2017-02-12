@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: NEBRASKA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/NEBRASKA/OMAHA
+---
+
+<script type="text/javascript">
+  var country = ABD;
+  var city = NEBRASKA;
+  var state = OMAHA;
+  var lat = 72;
+  var lon = 21;
+</script>

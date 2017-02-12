@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: SASKATCHEWAN, KANADA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /KANADA/SASKATCHEWAN/REGINA
+---
+
+<script type="text/javascript">
+  var country = KANADA;
+  var city = SASKATCHEWAN;
+  var state = REGINA;
+  var lat = 72;
+  var lon = 21;
+</script>

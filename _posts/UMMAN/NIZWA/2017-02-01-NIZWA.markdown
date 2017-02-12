@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: NIZWA, UMMAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UMMAN/NIZWA
+---
+
+## NIZWA (UMMAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NIZWA, UMMAN) için iftar ve namaz vakitleri](/UMMAN/NIZWA/)

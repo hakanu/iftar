@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: YAZD, IRAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAN/YAZD
+---
+
+## YAZD (IRAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (YAZD, IRAN) için iftar ve namaz vakitleri](/IRAN/YAZD/)

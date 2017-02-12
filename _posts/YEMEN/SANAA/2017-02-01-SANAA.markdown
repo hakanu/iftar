@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: SANAA, YEMEN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /YEMEN/SANAA
+---
+
+## SANAA (YEMEN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SANAA, YEMEN) için iftar ve namaz vakitleri](/YEMEN/SANAA/)

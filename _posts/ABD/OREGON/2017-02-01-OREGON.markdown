@@ -1,0 +1,14 @@
+---
+layout: generated_md
+title: OREGON, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/OREGON
+---
+
+## OREGON (ABD) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [PORTLAND (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/PORTLAND)
+* [CORVALLIS (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/CORVALLIS)
+* [SALEM (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/SALEM)
+* [SISKIYOU (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/SISKIYOU)

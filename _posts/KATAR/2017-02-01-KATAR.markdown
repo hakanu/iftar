@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: KATAR için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /KATAR
+---
+
+## KATAR için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [AR RAYYAN (KATAR) için iftar ve namaz vakitleri](/KATAR/AR RAYYAN)
+* [DUKHAN (KATAR) için iftar ve namaz vakitleri](/KATAR/DUKHAN)
+* [DOHA (KATAR) için iftar ve namaz vakitleri](/KATAR/DOHA)

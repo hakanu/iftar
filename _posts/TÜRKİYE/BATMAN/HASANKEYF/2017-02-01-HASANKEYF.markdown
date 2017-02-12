@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: BATMAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/BATMAN/HASANKEYF
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = BATMAN;
+  var state = HASANKEYF;
+  var lat = 72;
+  var lon = 21;
+</script>

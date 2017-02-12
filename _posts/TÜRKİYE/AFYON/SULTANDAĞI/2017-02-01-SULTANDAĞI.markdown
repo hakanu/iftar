@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: AFYON, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/AFYON/SULTANDAĞI
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = AFYON;
+  var state = SULTANDAĞI;
+  var lat = 72;
+  var lon = 21;
+</script>

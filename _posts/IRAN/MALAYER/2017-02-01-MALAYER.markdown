@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: MALAYER, IRAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /IRAN/MALAYER
+---
+
+## MALAYER (IRAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MALAYER, IRAN) için iftar ve namaz vakitleri](/IRAN/MALAYER/)

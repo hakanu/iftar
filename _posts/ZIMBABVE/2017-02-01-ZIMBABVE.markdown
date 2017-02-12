@@ -1,0 +1,15 @@
+---
+layout: generated_md
+title: ZIMBABVE için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /ZIMBABVE
+---
+
+## ZIMBABVE için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [MUTARE (ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/MUTARE)
+* [GWERU (ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/GWERU)
+* [BULAWAYO (ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/BULAWAYO)
+* [CHITUNGWIZA (ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/CHITUNGWIZA)
+* [HARARE (ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/HARARE)

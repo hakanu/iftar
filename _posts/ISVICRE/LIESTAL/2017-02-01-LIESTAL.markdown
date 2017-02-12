@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: LIESTAL, ISVICRE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ISVICRE/LIESTAL
+---
+
+## LIESTAL (ISVICRE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (LIESTAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LIESTAL/)

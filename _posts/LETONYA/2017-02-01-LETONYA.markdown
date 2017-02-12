@@ -1,0 +1,19 @@
+---
+layout: generated_md
+title: LETONYA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /LETONYA
+---
+
+## LETONYA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [OGRE (LETONYA) için iftar ve namaz vakitleri](/LETONYA/OGRE)
+* [JELGAVA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/JELGAVA)
+* [RIGA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/RIGA)
+* [DAUGAVPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/DAUGAVPILS)
+* [LIEPAJA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/LIEPAJA)
+* [VENTSPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/VENTSPILS)
+* [VALDEMARPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/VALDEMARPILS)
+* [TUKUMS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/TUKUMS)
+* [RUJIENA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/RUJIENA)

@@ -1,0 +1,18 @@
+---
+layout: generated_md
+title: ZAMBIYA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /ZAMBIYA
+---
+
+## ZAMBIYA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [LIVINGSTONE (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/LIVINGSTONE)
+* [MUFULIRA (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/MUFULIRA)
+* [NDOLA (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/NDOLA)
+* [KABWE (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/KABWE)
+* [CHINGOLA (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/CHINGOLA)
+* [KITWE (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/KITWE)
+* [LUSAKA (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/LUSAKA)
+* [LUANSHYA (ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/LUANSHYA)

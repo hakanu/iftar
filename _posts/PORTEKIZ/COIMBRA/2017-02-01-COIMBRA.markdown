@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: COIMBRA, PORTEKIZ için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /PORTEKIZ/COIMBRA
+---
+
+## COIMBRA (PORTEKIZ) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (COIMBRA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/COIMBRA/)

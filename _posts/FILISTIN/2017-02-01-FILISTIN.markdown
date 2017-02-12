@@ -1,0 +1,20 @@
+---
+layout: generated_md
+title: FILISTIN için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /FILISTIN
+---
+
+## FILISTIN için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [AL-HALIL (W_B_) (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/AL-HALIL (W_B_))
+* [YUNUS (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/YUNUS)
+* [CENIN (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CENIN)
+* [TULKAREM (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/TULKAREM)
+* [ERIHA (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/ERIHA)
+* [NABLUS (W_B_) (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/NABLUS (W_B_))
+* [GAZZE (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/GAZZE)
+* [REFAH (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/REFAH)
+* [CEBALIYE (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CEBALIYE)
+* [RAMALLAH (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/RAMALLAH)

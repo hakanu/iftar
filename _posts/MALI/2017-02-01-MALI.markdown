@@ -1,0 +1,14 @@
+---
+layout: generated_md
+title: MALI için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /MALI
+---
+
+## MALI için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [GAO (MALI) için iftar ve namaz vakitleri](/MALI/GAO)
+* [BAMAKO (MALI) için iftar ve namaz vakitleri](/MALI/BAMAKO)
+* [SEGOU (MALI) için iftar ve namaz vakitleri](/MALI/SEGOU)
+* [TOMBOUCTOU (MALI) için iftar ve namaz vakitleri](/MALI/TOMBOUCTOU)

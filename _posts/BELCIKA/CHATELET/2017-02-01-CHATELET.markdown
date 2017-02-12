@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: CHATELET, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/CHATELET
+---
+
+## CHATELET (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (CHATELET, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CHATELET/)

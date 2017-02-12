@@ -1,0 +1,17 @@
+---
+layout: generated_md
+title: ISRAIL için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /ISRAIL
+---
+
+## ISRAIL için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ASHDOD (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/ASHDOD)
+* [HAIFA (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/HAIFA)
+* [BEERSHEBA (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/BEERSHEBA)
+* [NAZARETH (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NAZARETH)
+* [TEL AVIV (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/TEL AVIV)
+* [RISHON LE ZIYYON (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/RISHON LE ZIYYON)
+* [NETANYA (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NETANYA)

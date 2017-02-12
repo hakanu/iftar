@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: VANUATU için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /VANUATU
+---
+
+## VANUATU için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [PORT-VILA (VANUATU) için iftar ve namaz vakitleri](/VANUATU/PORT-VILA)

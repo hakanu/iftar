@@ -1,0 +1,17 @@
+---
+layout: generated_md
+title: KARS, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/KARS
+---
+
+## KARS (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ARPAÇAY (KARS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARS/ARPAÇAY)
+* [SARIKAMIŞ (KARS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARS/SARIKAMIŞ)
+* [KAĞIZMAN (KARS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARS/KAĞIZMAN)
+* [AKYAKA (KARS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARS/AKYAKA)
+* [SELİM (KARS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARS/SELİM)
+* [KARS (KARS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARS/KARS)
+* [DİGOR (KARS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARS/DİGOR)

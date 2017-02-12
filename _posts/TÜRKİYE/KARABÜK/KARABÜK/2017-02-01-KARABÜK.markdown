@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: KARABÜK, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/KARABÜK/KARABÜK
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = KARABÜK;
+  var state = KARABÜK;
+  var lat = 72;
+  var lon = 21;
+</script>

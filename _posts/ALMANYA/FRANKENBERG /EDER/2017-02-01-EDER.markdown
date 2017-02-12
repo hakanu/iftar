@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: FRANKENBERG , ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/FRANKENBERG /EDER
+---
+
+<script type="text/javascript">
+  var country = ALMANYA;
+  var city = FRANKENBERG ;
+  var state = EDER;
+  var lat = 72;
+  var lon = 21;
+</script>

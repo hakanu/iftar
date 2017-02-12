@@ -1,0 +1,12 @@
+---
+layout: generated_md
+title: SVALBARD için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /SVALBARD
+---
+
+## SVALBARD için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [SVEAGRUVA (SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/SVEAGRUVA)
+* [LONGYEARBYEN (SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/LONGYEARBYEN)

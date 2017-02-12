@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: ARIZONA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/ARIZONA/GRAND CANYON
+---
+
+<script type="text/javascript">
+  var country = ABD;
+  var city = ARIZONA;
+  var state = GRAND CANYON;
+  var lat = 72;
+  var lon = 21;
+</script>

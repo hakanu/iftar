@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: ARTVİN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ARTVİN/ARTVİN
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = ARTVİN;
+  var state = ARTVİN;
+  var lat = 72;
+  var lon = 21;
+</script>

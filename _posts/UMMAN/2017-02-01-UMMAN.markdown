@@ -1,0 +1,16 @@
+---
+layout: generated_md
+title: UMMAN için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /UMMAN
+---
+
+## UMMAN için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [NIZWA (UMMAN) için iftar ve namaz vakitleri](/UMMAN/NIZWA)
+* [SALALAH (UMMAN) için iftar ve namaz vakitleri](/UMMAN/SALALAH)
+* [SUR (UMMAN) için iftar ve namaz vakitleri](/UMMAN/SUR)
+* [SUHAR (UMMAN) için iftar ve namaz vakitleri](/UMMAN/SUHAR)
+* [MASKAT (UMMAN) için iftar ve namaz vakitleri](/UMMAN/MASKAT)
+* [MIRBAT (UMMAN) için iftar ve namaz vakitleri](/UMMAN/MIRBAT)

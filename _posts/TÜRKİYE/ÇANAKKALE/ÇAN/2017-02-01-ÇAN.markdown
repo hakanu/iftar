@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: ÇANAKKALE, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ÇANAKKALE/ÇAN
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = ÇANAKKALE;
+  var state = ÇAN;
+  var lat = 72;
+  var lon = 21;
+</script>

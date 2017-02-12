@@ -1,0 +1,12 @@
+---
+layout: generated_md
+title: BRUNEI için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /BRUNEI
+---
+
+## BRUNEI için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [KUALA BELAIT (BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/KUALA BELAIT)
+* [BANDAR SERI BEGAWAN (BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/BANDAR SERI BEGAWAN)

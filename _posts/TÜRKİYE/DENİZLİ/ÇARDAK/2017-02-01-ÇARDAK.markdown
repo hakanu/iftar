@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: DENİZLİ, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/DENİZLİ/ÇARDAK
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = DENİZLİ;
+  var state = ÇARDAK;
+  var lat = 72;
+  var lon = 21;
+</script>

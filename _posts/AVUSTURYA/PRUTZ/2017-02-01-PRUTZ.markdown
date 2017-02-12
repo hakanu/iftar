@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: PRUTZ, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/PRUTZ
+---
+
+## PRUTZ (AVUSTURYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (PRUTZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/PRUTZ/)

@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: MELK, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/MELK
+---
+
+## MELK (AVUSTURYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MELK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MELK/)

@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: OSTERODE, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/OSTERODE/HARZ
+---
+
+<script type="text/javascript">
+  var country = ALMANYA;
+  var city = OSTERODE;
+  var state = HARZ;
+  var lat = 72;
+  var lon = 21;
+</script>

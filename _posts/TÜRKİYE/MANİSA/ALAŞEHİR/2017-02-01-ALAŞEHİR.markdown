@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: MANİSA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MANİSA/ALAŞEHİR
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = MANİSA;
+  var state = ALAŞEHİR;
+  var lat = 72;
+  var lon = 21;
+</script>

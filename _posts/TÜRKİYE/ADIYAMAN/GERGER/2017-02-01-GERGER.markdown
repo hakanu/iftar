@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: ADIYAMAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ADIYAMAN/GERGER
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = ADIYAMAN;
+  var state = GERGER;
+  var lat = 72;
+  var lon = 21;
+</script>

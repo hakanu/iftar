@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: ÇANKIRI, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ÇANKIRI/KURŞUNLU
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = ÇANKIRI;
+  var state = KURŞUNLU;
+  var lat = 72;
+  var lon = 21;
+</script>

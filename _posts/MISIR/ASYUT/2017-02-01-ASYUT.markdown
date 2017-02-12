@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: ASYUT, MISIR için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /MISIR/ASYUT
+---
+
+## ASYUT (MISIR) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (ASYUT, MISIR) için iftar ve namaz vakitleri](/MISIR/ASYUT/)

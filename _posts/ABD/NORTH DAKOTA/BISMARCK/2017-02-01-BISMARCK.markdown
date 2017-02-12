@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: NORTH DAKOTA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/NORTH DAKOTA/BISMARCK
+---
+
+<script type="text/javascript">
+  var country = ABD;
+  var city = NORTH DAKOTA;
+  var state = BISMARCK;
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: NIAMEY, NIJER için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /NIJER/NIAMEY
+---
+
+## NIAMEY (NIJER) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (NIAMEY, NIJER) için iftar ve namaz vakitleri](/NIJER/NIAMEY/)

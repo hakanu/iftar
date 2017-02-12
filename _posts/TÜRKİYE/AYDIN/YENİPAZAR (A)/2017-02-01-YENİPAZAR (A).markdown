@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: AYDIN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/AYDIN/YENİPAZAR (A)
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = AYDIN;
+  var state = YENİPAZAR (A);
+  var lat = 72;
+  var lon = 21;
+</script>

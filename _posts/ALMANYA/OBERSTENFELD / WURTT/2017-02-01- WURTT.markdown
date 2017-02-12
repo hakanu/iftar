@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: OBERSTENFELD , ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/OBERSTENFELD / WURTT
+---
+
+<script type="text/javascript">
+  var country = ALMANYA;
+  var city = OBERSTENFELD ;
+  var state =  WURTT;
+  var lat = 72;
+  var lon = 21;
+</script>

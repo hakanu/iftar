@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: ALASKA, ABD için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ABD/ALASKA/KODIAK
+---
+
+<script type="text/javascript">
+  var country = ABD;
+  var city = ALASKA;
+  var state = KODIAK;
+  var lat = 72;
+  var lon = 21;
+</script>

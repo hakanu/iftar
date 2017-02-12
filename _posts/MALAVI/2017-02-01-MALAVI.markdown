@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: MALAVI için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /MALAVI
+---
+
+## MALAVI için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [CHITIPA (MALAVI) için iftar ve namaz vakitleri](/MALAVI/CHITIPA)
+* [BLANTYRE (MALAVI) için iftar ve namaz vakitleri](/MALAVI/BLANTYRE)
+* [LILONGWE (MALAVI) için iftar ve namaz vakitleri](/MALAVI/LILONGWE)

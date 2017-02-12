@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: SFAX, TUNUS için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TUNUS/SFAX
+---
+
+## SFAX (TUNUS) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (SFAX, TUNUS) için iftar ve namaz vakitleri](/TUNUS/SFAX/)

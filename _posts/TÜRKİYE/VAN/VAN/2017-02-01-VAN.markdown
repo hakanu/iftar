@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: VAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/VAN/VAN
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = VAN;
+  var state = VAN;
+  var lat = 72;
+  var lon = 21;
+</script>

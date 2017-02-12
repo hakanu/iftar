@@ -1,0 +1,12 @@
+---
+layout: generated_md
+title: RUANDA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /RUANDA
+---
+
+## RUANDA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [BUTARE (RUANDA) için iftar ve namaz vakitleri](/RUANDA/BUTARE)
+* [KIGALI (RUANDA) için iftar ve namaz vakitleri](/RUANDA/KIGALI)

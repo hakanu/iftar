@@ -1,0 +1,15 @@
+---
+layout: generated_md
+title: YALOVA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/YALOVA
+---
+
+## YALOVA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [YALOVA (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/YALOVA)
+* [ARMUTLU (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ARMUTLU)
+* [ALTINOVA (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ALTINOVA)
+* [ÇINARCIK (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ÇINARCIK)
+* [TERMAL (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/TERMAL)

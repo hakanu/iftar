@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: UŞAK, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/UŞAK/BANAZ
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = UŞAK;
+  var state = BANAZ;
+  var lat = 72;
+  var lon = 21;
+</script>

@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: MORTSEL, BELCIKA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /BELCIKA/MORTSEL
+---
+
+## MORTSEL (BELCIKA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MORTSEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MORTSEL/)

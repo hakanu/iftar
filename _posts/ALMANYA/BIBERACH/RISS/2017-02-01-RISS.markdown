@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: BIBERACH, ALMANYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /ALMANYA/BIBERACH/RISS
+---
+
+<script type="text/javascript">
+  var country = ALMANYA;
+  var city = BIBERACH;
+  var state = RISS;
+  var lat = 72;
+  var lon = 21;
+</script>

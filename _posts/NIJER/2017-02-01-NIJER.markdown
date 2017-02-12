@@ -1,0 +1,16 @@
+---
+layout: generated_md
+title: NIJER için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /NIJER
+---
+
+## NIJER için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [TAHOUA (NIJER) için iftar ve namaz vakitleri](/NIJER/TAHOUA)
+* [TILLABERY (NIJER) için iftar ve namaz vakitleri](/NIJER/TILLABERY)
+* [NIAMEY (NIJER) için iftar ve namaz vakitleri](/NIJER/NIAMEY)
+* [AGADEZ (NIJER) için iftar ve namaz vakitleri](/NIJER/AGADEZ)
+* [MARADI (NIJER) için iftar ve namaz vakitleri](/NIJER/MARADI)
+* [ZINDER (NIJER) için iftar ve namaz vakitleri](/NIJER/ZINDER)

@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: BALTASI, RUSYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /RUSYA/BALTASI
+---
+
+## BALTASI (RUSYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (BALTASI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BALTASI/)

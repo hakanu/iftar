@@ -1,0 +1,16 @@
+---
+layout: generated_md
+title: MOLDAVYA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /MOLDAVYA
+---
+
+## MOLDAVYA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [TIRASPOL (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIRASPOL)
+* [KOMRAT (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KOMRAT)
+* [BALTI (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/BALTI)
+* [TIGHINA (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIGHINA)
+* [KISHINEV (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KISHINEV)
+* [CHADYR-LUNGA (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/CHADYR-LUNGA)

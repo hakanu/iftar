@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: MUŞ, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/MUŞ/HASKÖY
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = MUŞ;
+  var state = HASKÖY;
+  var lat = 72;
+  var lon = 21;
+</script>

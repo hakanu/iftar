@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: HAKKARİ, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/HAKKARİ/ŞEMDİNLİ
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = HAKKARİ;
+  var state = ŞEMDİNLİ;
+  var lat = 72;
+  var lon = 21;
+</script>

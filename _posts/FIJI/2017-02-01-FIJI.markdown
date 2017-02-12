@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: FIJI için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /FIJI
+---
+
+## FIJI için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [LEVUKA (FIJI) için iftar ve namaz vakitleri](/FIJI/LEVUKA)
+* [SUVA (FIJI) için iftar ve namaz vakitleri](/FIJI/SUVA)
+* [LAUTOKA (FIJI) için iftar ve namaz vakitleri](/FIJI/LAUTOKA)

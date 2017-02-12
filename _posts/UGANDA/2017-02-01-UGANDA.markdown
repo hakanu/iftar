@@ -1,0 +1,16 @@
+---
+layout: generated_md
+title: UGANDA için iftar, namaz vakitleri ve hava durumu - il/eyalet seç
+permalink: /UGANDA
+---
+
+## UGANDA için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [TORORO (UGANDA) için iftar ve namaz vakitleri](/UGANDA/TORORO)
+* [KAMPALA (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KAMPALA)
+* [KABALE (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KABALE)
+* [GULU (UGANDA) için iftar ve namaz vakitleri](/UGANDA/GULU)
+* [ARUA (UGANDA) için iftar ve namaz vakitleri](/UGANDA/ARUA)
+* [KITGUM (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KITGUM)

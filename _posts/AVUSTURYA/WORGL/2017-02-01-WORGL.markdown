@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: WORGL, AVUSTURYA için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /AVUSTURYA/WORGL
+---
+
+## WORGL (AVUSTURYA) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (WORGL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WORGL/)

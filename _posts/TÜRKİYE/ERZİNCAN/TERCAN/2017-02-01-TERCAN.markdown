@@ -1,0 +1,13 @@
+---
+layout: generated_md
+title: ERZİNCAN, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /TÜRKİYE/ERZİNCAN/TERCAN
+---
+
+<script type="text/javascript">
+  var country = TÜRKİYE;
+  var city = ERZİNCAN;
+  var state = TERCAN;
+  var lat = 72;
+  var lon = 21;
+</script>

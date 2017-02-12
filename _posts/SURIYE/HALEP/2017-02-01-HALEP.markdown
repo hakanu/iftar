@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: HALEP, SURIYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /SURIYE/HALEP
+---
+
+## HALEP (SURIYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (HALEP, SURIYE) için iftar ve namaz vakitleri](/SURIYE/HALEP/)

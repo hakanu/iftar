@@ -1,0 +1,11 @@
+---
+layout: generated_md
+title: MIRBAT, UMMAN için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç
+permalink: /UMMAN/MIRBAT
+---
+
+## MIRBAT (UMMAN) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç
+
+Aşağıdaki listeden bir şehir ya da semt seçin
+
+* [ (MIRBAT, UMMAN) için iftar ve namaz vakitleri](/UMMAN/MIRBAT/)
