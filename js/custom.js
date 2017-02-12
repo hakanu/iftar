@@ -616,7 +616,7 @@ function getWeatherByLatLonOW(lat, lon) {
   xhr.open("GET", weatherUrl, true);
   xhr.onload = function() {
     var response = JSON.parse(xhr.responseText).list;
-    setWeatherData(response);
+    setWeatherDataOW(response);
   };
   xhr.send();
 }
