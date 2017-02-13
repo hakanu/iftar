@@ -109,6 +109,16 @@ String.prototype.capitalize = function() {
     return this.charAt(0).toUpperCase() + this.toLowerCase().slice(1);
 }
 
+String.prototype.nonTurkishToUpper = function() {
+  var string = this;
+  var letters = {
+      "i": "I", "ş": "S", "ğ": "G", "ü": "U", "ö": "O", "ç": "C", "ı": "I",
+      "İ": "I", "Ş": "S", "Ğ": "G", "Ü": "U", "Ö": "O", "Ç": "C", "I": "I",
+      "İ̇": "I" };
+  string = string.replace(/(([iışğüçöİ̇İŞĞÜÖÇI]))/g, function(letter){ return letters[letter]; })
+  return string.toUpperCase();
+}
+
 String.prototype.turkishToUpper = function() {
   var string = this;
   var letters = { "i": "İ", "ş": "Ş", "ğ": "Ğ", "ü": "Ü", "ö": "Ö", "ç": "Ç", "ı": "I" };
@@ -121,6 +131,13 @@ String.prototype.turkishToLower = function() {
   var letters = { "İ": "i", "I": "ı", "Ş": "ş", "Ğ": "ğ", "Ü": "ü", "Ö": "ö", "Ç": "ç" };
   string = string.replace(/(([İIŞĞÜÇÖ]))/g, function(letter){ return letters[letter]; })
   return string.toLowerCase();
+}
+
+String.prototype.diyanetify = function() {
+  if (this == 'Türkiye' || this == 'TURKIYE' || this == 'türkiye') {
+    return 'TÜRKİYE'
+  }
+  return this.nonTurkishToUpper();
 }
 
 function getJsonFromUrl() {
@@ -318,8 +335,8 @@ function showPosition(position) {
     var response = JSON.parse(xhr.responseText);
     console.log(response);
     console.log(response.query);
-    var city = response.query.results.ResultSet.Result.city.turkishToUpper();
-    var country = response.query.results.ResultSet.Result.country.turkishToUpper();
+    var city = response.query.results.ResultSet.Result.city.diyanetify();
+    var country = response.query.results.ResultSet.Result.country.diyanetify();
     var state = null;
     console.log('city: ' + city);
     console.log('country: ' + country);
@@ -349,14 +366,20 @@ function getIftarTimeP(country, city, state) {
     state = city;
   }
 
-  var url = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{state}/{date}.json'.supplant({
+  var withStateUrl = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{state}/{date}.json'.supplant({
       'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
       'country': encodeURIComponent(country),
       'city': encodeURIComponent(city),
       'state': encodeURIComponent(state),
   });
 
-  xhr.open("GET", url, true);
+  var withoutStateUrl = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{date}.json'.supplant({
+      'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
+      'country': encodeURIComponent(country),
+      'city': encodeURIComponent(city),
+  });
+
+  xhr.open("GET", withStateUrl, true);
   xhr.onload = function() {
     if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
       var response = JSON.parse(xhr.responseText);
@@ -373,6 +396,28 @@ function getIftarTimeP(country, city, state) {
     } else {
       console.log("Bir hata oluştu.");
       console.log("Fallback");
+      // Try without state, some cities have states some dont.
+      // IRELAND vs Turkey.
+      xhr.open("GET", withoutStateUrl, true);
+      xhr.onload = function() {
+        if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
+          var response = JSON.parse(xhr.responseText);
+
+          // If state is given search for it among the results.
+          if (state != null) {
+            for (var i=0; i < response.length; i++) {
+              if (response[i].state == state) {
+                response = response[i];
+              }
+            }
+          } 
+          doStuffWithNamazVakitleri(response, state, city, country);
+        } else {
+          console.log("Bir hata oluştu.");
+          console.log("Fallback");
+        } // End of fallback mechanism
+      };
+      xhr.send();
     } // End of fallback mechanism
   };
   xhr.send();
@@ -524,7 +569,7 @@ function setIftarTitle(country, city, state) {
       city.capitalize() + ' (' + country.capitalize() +
       ') için kalan süre');
   if (state != null) {
-    $('.subtitle')[0].innerHTML = state + ', ' + $('.subtitle')[0].innerHTML;
+    $('.subtitle')[0].innerHTML = state + $('.subtitle')[0].innerHTML;
   }
 }
 
