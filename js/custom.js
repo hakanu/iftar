@@ -18,10 +18,6 @@ var _FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
 var RAMAZAN_DATE_ = '2017-05-27';
 var RAMAZAN_LAST_DATE_ = '2017-06-25';
 
-var GLOBAL_COUNTRY = null;
-var GLOBAL_CITY = null;
-var GLOBAL_STATE = null;
-
 jQuery( document ).ready(function( $ ) {
   console.log('  _[]    __   _                         _                    ');
   console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
