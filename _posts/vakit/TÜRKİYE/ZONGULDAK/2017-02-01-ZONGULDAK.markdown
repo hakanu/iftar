@@ -9,11 +9,11 @@ permalink: /TÜRKİYE/ZONGULDAK
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [ALAPLI (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/ALAPLI)
-* [GÖKÇEBEY (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/GÖKÇEBEY)
-* [ZONGULDAK (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/ZONGULDAK)
 * [DEVREK (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/DEVREK)
-* [ÇAYCUMA (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/ÇAYCUMA)
+* [GÖKÇEBEY (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/GÖKÇEBEY)
 * [KARADENİZ_EREĞLİ (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/KARADENİZ_EREĞLİ)
+* [ZONGULDAK (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/ZONGULDAK)
+* [ÇAYCUMA (ZONGULDAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ZONGULDAK/ÇAYCUMA)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

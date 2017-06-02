@@ -8,9 +8,9 @@ permalink: /BURUNDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [RUTANA (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUTANA)
-* [BURURI (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/BURURI)
-* [NGOZI (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/NGOZI)
-* [RUYIGI (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUYIGI)
 * [BUJUMBURA (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/BUJUMBURA)
+* [BURURI (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/BURURI)
 * [GITEGA (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/GITEGA)
+* [NGOZI (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/NGOZI)
+* [RUTANA (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUTANA)
+* [RUYIGI (BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUYIGI)

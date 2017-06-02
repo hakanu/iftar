@@ -9,16 +9,16 @@ permalink: /TÜRKİYE/ELAZIĞ
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [ALACAKAYA (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/ALACAKAYA)
-* [AĞIN (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/AĞIN)
-* [KOVANCILAR (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/KOVANCILAR)
-* [SİVRİCE (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/SİVRİCE)
-* [MADEN (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/MADEN)
-* [BASKİL (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/BASKİL)
-* [PALU (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/PALU)
-* [KEBAN (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/KEBAN)
 * [ARICAK (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/ARICAK)
+* [AĞIN (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/AĞIN)
+* [BASKİL (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/BASKİL)
 * [ELAZIĞ (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/ELAZIĞ)
 * [KARAKOÇAN (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/KARAKOÇAN)
+* [KEBAN (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/KEBAN)
+* [KOVANCILAR (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/KOVANCILAR)
+* [MADEN (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/MADEN)
+* [PALU (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/PALU)
+* [SİVRİCE (ELAZIĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ELAZIĞ/SİVRİCE)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

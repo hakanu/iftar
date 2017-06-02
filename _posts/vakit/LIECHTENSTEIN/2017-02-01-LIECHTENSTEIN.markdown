@@ -8,6 +8,6 @@ permalink: /LIECHTENSTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [VADUZ (LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/VADUZ)
-* [TRIESENBERG (LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/TRIESENBERG)
 * [BALZERS (LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/BALZERS)
+* [TRIESENBERG (LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/TRIESENBERG)
+* [VADUZ (LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/VADUZ)

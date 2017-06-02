@@ -8,11 +8,11 @@ permalink: /TÜRKİYE/KIRKLARELI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [LULEBURGAZ (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/LULEBURGAZ)
 * [DEMIRKOY (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/DEMIRKOY)
-* [PINARHISAR (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/PINARHISAR)
-* [PEHLIVANKOY (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/PEHLIVANKOY)
 * [KIRKLARELI (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/KIRKLARELI)
+* [LULEBURGAZ (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/LULEBURGAZ)
+* [PEHLIVANKOY (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/PEHLIVANKOY)
+* [PINARHISAR (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/PINARHISAR)
 * [VIZE (KIRKLARELI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRKLARELI/VIZE)
 
 <script type="text/javascript">

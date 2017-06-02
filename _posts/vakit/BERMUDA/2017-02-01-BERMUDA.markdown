@@ -8,6 +8,6 @@ permalink: /BERMUDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SOMERSET_VILLAGE (BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/SOMERSET_VILLAGE)
 * [HAMILTON (BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/HAMILTON)
 * [SAINT_GEORGE (BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/SAINT_GEORGE)
+* [SOMERSET_VILLAGE (BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/SOMERSET_VILLAGE)

@@ -8,8 +8,8 @@ permalink: /ABD/SOUTH CAROLINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [PENDLETON (SOUTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/SOUTH_CAROLINA/PENDLETON)
 * [CLEMSON (SOUTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/SOUTH_CAROLINA/CLEMSON)
+* [PENDLETON (SOUTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/SOUTH_CAROLINA/PENDLETON)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

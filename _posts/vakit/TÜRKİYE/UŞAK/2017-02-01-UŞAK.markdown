@@ -8,11 +8,11 @@ permalink: /TÜRKİYE/UŞAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ESME (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/ESME)
-* [UŞAK (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/UŞAK)
-* [SİVASLI (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/SİVASLI)
 * [BANAZ (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/BANAZ)
+* [ESME (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/ESME)
 * [KARAHALLI (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/KARAHALLI)
+* [SİVASLI (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/SİVASLI)
+* [UŞAK (UŞAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/UŞAK/UŞAK)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

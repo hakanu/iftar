@@ -8,12 +8,12 @@ permalink: /PAPUA_YENI_GINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [BUNA (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/BUNA)
-* [MOROBE (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/MOROBE)
-* [WEWAK (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/WEWAK)
-* [LAE (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/LAE)
-* [VANIMO (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/VANIMO)
-* [DARU (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/DARU)
-* [PORT_MORESBY (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/PORT_MORESBY)
-* [MADANG (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/MADANG)
 * [ALOTAU (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/ALOTAU)
+* [BUNA (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/BUNA)
+* [DARU (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/DARU)
+* [LAE (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/LAE)
+* [MADANG (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/MADANG)
+* [MOROBE (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/MOROBE)
+* [PORT_MORESBY (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/PORT_MORESBY)
+* [VANIMO (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/VANIMO)
+* [WEWAK (PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/WEWAK)

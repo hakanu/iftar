@@ -8,13 +8,13 @@ permalink: /SLOVENYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MURSKA_SOBOTA (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/MURSKA_SOBOTA)
-* [DRAVOGRAD (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/DRAVOGRAD)
 * [CELJE (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/CELJE)
-* [NOVO_MESTO (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/NOVO_MESTO)
-* [VELENJE (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/VELENJE)
+* [DRAVOGRAD (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/DRAVOGRAD)
 * [KOCEVJE (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KOCEVJE)
-* [KRSKO (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KRSKO)
 * [KOPER (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KOPER)
+* [KRSKO (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KRSKO)
 * [LJUBLJANA (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/LJUBLJANA)
 * [MARIBOR (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/MARIBOR)
+* [MURSKA_SOBOTA (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/MURSKA_SOBOTA)
+* [NOVO_MESTO (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/NOVO_MESTO)
+* [VELENJE (SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/VELENJE)

@@ -8,15 +8,15 @@ permalink: /ABD/INDIANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [BLOOMINGTON (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/BLOOMINGTON)
 * [EVANSVILLE (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/EVANSVILLE)
-* [GARY_ (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/GARY_)
-* [INDIANAPOLIS (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/INDIANAPOLIS)
-* [GARY (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/GARY)
 * [FORT_WAYNE (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/FORT_WAYNE)
+* [GARY (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/GARY)
+* [GARY_ (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/GARY_)
 * [HAMMOND (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/HAMMOND)
+* [INDIANAPOLIS (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/INDIANAPOLIS)
 * [LAFAYETTE (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/LAFAYETTE)
 * [RICHMOND (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/RICHMOND)
-* [BLOOMINGTON (INDIANA, ABD) için iftar ve namaz vakitleri](/ABD/INDIANA/BLOOMINGTON)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

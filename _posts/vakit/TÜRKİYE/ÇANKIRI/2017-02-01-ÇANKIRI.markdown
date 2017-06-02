@@ -8,16 +8,16 @@ permalink: /TÜRKİYE/ÇANKIRI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [BAYRAMÖREN (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/BAYRAMÖREN)
-* [ILGAZ (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ILGAZ)
 * [ATKARACALAR (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ATKARACALAR)
-* [ORTA (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ORTA)
+* [BAYRAMÖREN (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/BAYRAMÖREN)
 * [CERKEŞ (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/CERKEŞ)
-* [ŞABANÖZÜ (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ŞABANÖZÜ)
-* [KURŞUNLU (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/KURŞUNLU)
-* [YAPRAKLI (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/YAPRAKLI)
+* [ILGAZ (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ILGAZ)
 * [KIZILIRMAK (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/KIZILIRMAK)
+* [KURŞUNLU (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/KURŞUNLU)
+* [ORTA (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ORTA)
+* [YAPRAKLI (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/YAPRAKLI)
 * [ÇANKIRI (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ÇANKIRI)
+* [ŞABANÖZÜ (ÇANKIRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANKIRI/ŞABANÖZÜ)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

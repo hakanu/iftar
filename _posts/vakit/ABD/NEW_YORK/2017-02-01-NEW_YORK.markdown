@@ -8,23 +8,23 @@ permalink: /ABD/NEW YORK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [LOCKPORT (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/LOCKPORT)
-* [BINGHAMTON (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BINGHAMTON)
 * [ALBANY (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ALBANY)
+* [BATAVIA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BATAVIA)
+* [BINGHAMTON (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BINGHAMTON)
 * [BRIGHTON (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BRIGHTON)
+* [BROOKLYN_(Cattaraugus) (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BROOKLYN_(Cattaraugus))
 * [BUFFALO (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BUFFALO)
 * [CANANDAIGUA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/CANANDAIGUA)
 * [ELMIRA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ELMIRA)
-* [ROCHESTER (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ROCHESTER)
-* [YONKERS (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/YONKERS)
-* [SYRACUSE (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/SYRACUSE)
-* [BATAVIA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BATAVIA)
-* [NEW_YORK (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/NEW_YORK)
-* [BROOKLYN_(Cattaraugus) (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/BROOKLYN_(Cattaraugus))
 * [GENEVA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/GENEVA)
 * [ITHACA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ITHACA)
-* [RONKONKOMA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/RONKONKOMA)
+* [LOCKPORT (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/LOCKPORT)
+* [NEW_YORK (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/NEW_YORK)
 * [NEWARK (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/NEWARK)
+* [ROCHESTER (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/ROCHESTER)
+* [RONKONKOMA (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/RONKONKOMA)
+* [SYRACUSE (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/SYRACUSE)
+* [YONKERS (NEW_YORK, ABD) için iftar ve namaz vakitleri](/ABD/NEW_YORK/YONKERS)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

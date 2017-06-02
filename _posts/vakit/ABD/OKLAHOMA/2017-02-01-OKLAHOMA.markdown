@@ -9,9 +9,9 @@ permalink: /ABD/OKLAHOMA
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [LAWTON (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/LAWTON)
+* [OKLAHOMA_CITY (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/OKLAHOMA_CITY)
 * [STILLWATER (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/STILLWATER)
 * [TULSA (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/TULSA)
-* [OKLAHOMA_CITY (OKLAHOMA, ABD) için iftar ve namaz vakitleri](/ABD/OKLAHOMA/OKLAHOMA_CITY)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

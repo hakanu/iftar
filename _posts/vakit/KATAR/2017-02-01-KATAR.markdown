@@ -9,5 +9,5 @@ permalink: /KATAR
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [AR_RAYYAN (KATAR) için iftar ve namaz vakitleri](/KATAR/AR_RAYYAN)
-* [DUKHAN (KATAR) için iftar ve namaz vakitleri](/KATAR/DUKHAN)
 * [DOHA (KATAR) için iftar ve namaz vakitleri](/KATAR/DOHA)
+* [DUKHAN (KATAR) için iftar ve namaz vakitleri](/KATAR/DUKHAN)

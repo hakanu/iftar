@@ -9,9 +9,9 @@ permalink: /ISRAIL
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [ASHDOD (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/ASHDOD)
-* [HAIFA (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/HAIFA)
 * [BEERSHEBA (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/BEERSHEBA)
+* [HAIFA (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/HAIFA)
 * [NAZARETH (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NAZARETH)
-* [TEL_AVIV (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/TEL_AVIV)
-* [RISHON_LE_ZIYYON (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/RISHON_LE_ZIYYON)
 * [NETANYA (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NETANYA)
+* [RISHON_LE_ZIYYON (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/RISHON_LE_ZIYYON)
+* [TEL_AVIV (ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/TEL_AVIV)

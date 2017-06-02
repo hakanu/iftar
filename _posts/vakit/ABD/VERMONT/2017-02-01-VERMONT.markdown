@@ -8,8 +8,8 @@ permalink: /ABD/VERMONT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MONTPELIER (VERMONT, ABD) için iftar ve namaz vakitleri](/ABD/VERMONT/MONTPELIER)
 * [BENNINGTON (VERMONT, ABD) için iftar ve namaz vakitleri](/ABD/VERMONT/BENNINGTON)
+* [MONTPELIER (VERMONT, ABD) için iftar ve namaz vakitleri](/ABD/VERMONT/MONTPELIER)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

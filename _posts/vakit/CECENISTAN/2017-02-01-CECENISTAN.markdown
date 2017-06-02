@@ -8,7 +8,7 @@ permalink: /CECENISTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [URUS-MARTAN (CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/URUS-MARTAN)
 * [GROZNY (CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/GROZNY)
-* [SHALI (CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/SHALI)
 * [GUEDERMES (CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/GUEDERMES)
+* [SHALI (CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/SHALI)
+* [URUS-MARTAN (CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/URUS-MARTAN)

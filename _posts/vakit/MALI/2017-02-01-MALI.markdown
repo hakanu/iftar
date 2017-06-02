@@ -8,7 +8,7 @@ permalink: /MALI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [GAO (MALI) için iftar ve namaz vakitleri](/MALI/GAO)
 * [BAMAKO (MALI) için iftar ve namaz vakitleri](/MALI/BAMAKO)
+* [GAO (MALI) için iftar ve namaz vakitleri](/MALI/GAO)
 * [SEGOU (MALI) için iftar ve namaz vakitleri](/MALI/SEGOU)
 * [TOMBOUCTOU (MALI) için iftar ve namaz vakitleri](/MALI/TOMBOUCTOU)

@@ -8,10 +8,10 @@ permalink: /ABD/MINNESOTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [DULUTH (MINNESOTA, ABD) için iftar ve namaz vakitleri](/ABD/MINNESOTA/DULUTH)
 * [BRAINERD (MINNESOTA, ABD) için iftar ve namaz vakitleri](/ABD/MINNESOTA/BRAINERD)
-* [ROCHESTER (MINNESOTA, ABD) için iftar ve namaz vakitleri](/ABD/MINNESOTA/ROCHESTER)
+* [DULUTH (MINNESOTA, ABD) için iftar ve namaz vakitleri](/ABD/MINNESOTA/DULUTH)
 * [MINNEAPOLIS (MINNESOTA, ABD) için iftar ve namaz vakitleri](/ABD/MINNESOTA/MINNEAPOLIS)
+* [ROCHESTER (MINNESOTA, ABD) için iftar ve namaz vakitleri](/ABD/MINNESOTA/ROCHESTER)
 * [SAINT_PAUL (MINNESOTA, ABD) için iftar ve namaz vakitleri](/ABD/MINNESOTA/SAINT_PAUL)
 
 <script type="text/javascript">

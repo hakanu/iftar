@@ -8,12 +8,12 @@ permalink: /LETONYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [OGRE (LETONYA) için iftar ve namaz vakitleri](/LETONYA/OGRE)
-* [JELGAVA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/JELGAVA)
-* [RIGA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/RIGA)
 * [DAUGAVPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/DAUGAVPILS)
+* [JELGAVA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/JELGAVA)
 * [LIEPAJA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/LIEPAJA)
-* [VENTSPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/VENTSPILS)
-* [VALDEMARPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/VALDEMARPILS)
-* [TUKUMS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/TUKUMS)
+* [OGRE (LETONYA) için iftar ve namaz vakitleri](/LETONYA/OGRE)
+* [RIGA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/RIGA)
 * [RUJIENA (LETONYA) için iftar ve namaz vakitleri](/LETONYA/RUJIENA)
+* [TUKUMS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/TUKUMS)
+* [VALDEMARPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/VALDEMARPILS)
+* [VENTSPILS (LETONYA) için iftar ve namaz vakitleri](/LETONYA/VENTSPILS)

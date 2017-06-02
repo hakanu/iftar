@@ -8,15 +8,15 @@ permalink: /TÜRKİYE/SİNOP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [AYANCIK (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/AYANCIK)
+* [BOYABAT (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/BOYABAT)
+* [DURAĞAN (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/DURAĞAN)
+* [DİKMEN (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/DİKMEN)
+* [ERFELEK (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/ERFELEK)
+* [GERZE (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/GERZE)
+* [SARAYDÜZÜ (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/SARAYDÜZÜ)
 * [SINOP (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/SINOP)
 * [TÜRKELİ (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/TÜRKELİ)
-* [ERFELEK (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/ERFELEK)
-* [DİKMEN (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/DİKMEN)
-* [BOYABAT (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/BOYABAT)
-* [SARAYDÜZÜ (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/SARAYDÜZÜ)
-* [AYANCIK (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/AYANCIK)
-* [DURAĞAN (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/DURAĞAN)
-* [GERZE (SİNOP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİNOP/GERZE)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

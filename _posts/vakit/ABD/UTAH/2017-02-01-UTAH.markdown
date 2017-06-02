@@ -8,9 +8,9 @@ permalink: /ABD/UTAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SALT_LAKE_CITY (UTAH, ABD) için iftar ve namaz vakitleri](/ABD/UTAH/SALT_LAKE_CITY)
 * [OGDEN (UTAH, ABD) için iftar ve namaz vakitleri](/ABD/UTAH/OGDEN)
 * [ROY (UTAH, ABD) için iftar ve namaz vakitleri](/ABD/UTAH/ROY)
+* [SALT_LAKE_CITY (UTAH, ABD) için iftar ve namaz vakitleri](/ABD/UTAH/SALT_LAKE_CITY)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

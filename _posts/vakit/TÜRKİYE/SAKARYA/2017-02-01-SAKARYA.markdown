@@ -9,14 +9,14 @@ permalink: /TÜRKİYE/SAKARYA
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [AKYAZI (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/AKYAZI)
-* [KOCAALİ (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/KOCAALİ)
-* [KARASU (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/KARASU)
-* [KAYNARCA (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/KAYNARCA)
-* [TARAKLI (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/TARAKLI)
-* [SAKARYA (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/SAKARYA)
-* [PAMUKOVA (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/PAMUKOVA)
 * [GEYVE (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/GEYVE)
 * [HENDEK (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/HENDEK)
+* [KARASU (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/KARASU)
+* [KAYNARCA (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/KAYNARCA)
+* [KOCAALİ (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/KOCAALİ)
+* [PAMUKOVA (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/PAMUKOVA)
+* [SAKARYA (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/SAKARYA)
+* [TARAKLI (SAKARYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SAKARYA/TARAKLI)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

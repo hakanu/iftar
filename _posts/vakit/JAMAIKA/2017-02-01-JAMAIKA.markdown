@@ -8,7 +8,7 @@ permalink: /JAMAIKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SPANISH_TOWN (JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/SPANISH_TOWN)
+* [KINGSTON (JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/KINGSTON)
 * [MANDEVILLE (JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/MANDEVILLE)
 * [MONTEGO_BAY (JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/MONTEGO_BAY)
-* [KINGSTON (JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/KINGSTON)
+* [SPANISH_TOWN (JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/SPANISH_TOWN)

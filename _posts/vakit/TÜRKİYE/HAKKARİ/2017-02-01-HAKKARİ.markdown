@@ -8,10 +8,10 @@ permalink: /TÜRKİYE/HAKKARİ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ŞEMDİNLİ (HAKKARİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/HAKKARİ/ŞEMDİNLİ)
+* [HAKKARİ (HAKKARİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/HAKKARİ/HAKKARİ)
 * [YÜKSEKOVA (HAKKARİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/HAKKARİ/YÜKSEKOVA)
 * [ÇUKURCA (HAKKARİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/HAKKARİ/ÇUKURCA)
-* [HAKKARİ (HAKKARİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/HAKKARİ/HAKKARİ)
+* [ŞEMDİNLİ (HAKKARİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/HAKKARİ/ŞEMDİNLİ)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

@@ -8,15 +8,15 @@ permalink: /ABD/KANSAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TOPEKA (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/TOPEKA)
-* [OVERLANDPARK (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/OVERLANDPARK)
-* [LAWRENCE (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/LAWRENCE)
 * [ATCHISON (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/ATCHISON)
+* [LAWRENCE (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/LAWRENCE)
 * [LEAVENWORTH (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/LEAVENWORTH)
-* [OTTOWA (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/OTTOWA)
-* [WICHITA (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/WICHITA)
 * [MANHATTAN (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/MANHATTAN)
 * [OLATHE (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/OLATHE)
+* [OTTOWA (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/OTTOWA)
+* [OVERLANDPARK (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/OVERLANDPARK)
+* [TOPEKA (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/TOPEKA)
+* [WICHITA (KANSAS, ABD) için iftar ve namaz vakitleri](/ABD/KANSAS/WICHITA)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

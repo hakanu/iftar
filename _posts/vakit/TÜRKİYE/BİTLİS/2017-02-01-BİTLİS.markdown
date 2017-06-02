@@ -8,12 +8,12 @@ permalink: /TÜRKİYE/BİTLİS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TATVAN (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/TATVAN)
 * [ADİLCEVAZ (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/ADİLCEVAZ)
-* [HİZAN (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/HİZAN)
 * [AHLAT (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/AHLAT)
-* [MUTKİ (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/MUTKİ)
 * [BİTLİS (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/BİTLİS)
+* [HİZAN (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/HİZAN)
+* [MUTKİ (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/MUTKİ)
+* [TATVAN (BİTLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİTLİS/TATVAN)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

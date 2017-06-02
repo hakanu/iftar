@@ -8,11 +8,11 @@ permalink: /TÜRKİYE/KIRSEHIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MUCUR (KIRSEHIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRSEHIR/MUCUR)
-* [CICEKDAGI (KIRSEHIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRSEHIR/CICEKDAGI)
 * [AKPINAR (KIRSEHIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRSEHIR/AKPINAR)
+* [CICEKDAGI (KIRSEHIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRSEHIR/CICEKDAGI)
 * [KAMAN (KIRSEHIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRSEHIR/KAMAN)
 * [KIRSEHIR (KIRSEHIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRSEHIR/KIRSEHIR)
+* [MUCUR (KIRSEHIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRSEHIR/MUCUR)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

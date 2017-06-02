@@ -8,10 +8,10 @@ permalink: /SRI_LANKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SRI_JAYAWARDENEPURA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/SRI_JAYAWARDENEPURA)
-* [MATARA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MATARA)
-* [TRINCOMALEE (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/TRINCOMALEE)
-* [JAFFNA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/JAFFNA)
 * [COLOMBO (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/COLOMBO)
+* [JAFFNA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/JAFFNA)
 * [KANDY (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/KANDY)
+* [MATARA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MATARA)
 * [MORATUWA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MORATUWA)
+* [SRI_JAYAWARDENEPURA (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/SRI_JAYAWARDENEPURA)
+* [TRINCOMALEE (SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/TRINCOMALEE)

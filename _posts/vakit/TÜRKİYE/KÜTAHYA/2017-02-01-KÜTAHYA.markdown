@@ -8,18 +8,18 @@ permalink: /TÜRKİYE/KÜTAHYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SİMAV (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/SİMAV)
-* [EMET (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/EMET)
-* [ÇAVDARHİSAR (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/ÇAVDARHİSAR)
-* [KÜTAHYA (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/KÜTAHYA)
-* [HİSARCIK (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/HİSARCIK)
-* [ŞAPHANE (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/ŞAPHANE)
 * [ALTINTAŞ (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/ALTINTAŞ)
-* [GEDİZ (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/GEDİZ)
-* [TAVŞANLI (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/TAVŞANLI)
 * [ASLANAPA (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/ASLANAPA)
-* [PAZARLAR (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/PAZARLAR)
 * [DOMANİÇ (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/DOMANİÇ)
+* [EMET (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/EMET)
+* [GEDİZ (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/GEDİZ)
+* [HİSARCIK (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/HİSARCIK)
+* [KÜTAHYA (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/KÜTAHYA)
+* [PAZARLAR (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/PAZARLAR)
+* [SİMAV (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/SİMAV)
+* [TAVŞANLI (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/TAVŞANLI)
+* [ÇAVDARHİSAR (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/ÇAVDARHİSAR)
+* [ŞAPHANE (KÜTAHYA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KÜTAHYA/ŞAPHANE)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

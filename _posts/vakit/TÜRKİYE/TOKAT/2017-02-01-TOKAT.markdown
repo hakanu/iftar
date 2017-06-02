@@ -8,17 +8,17 @@ permalink: /TÜRKİYE/TOKAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [ALMUS (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/ALMUS)
+* [ARTOVA (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/ARTOVA)
+* [BAŞÇİFTLİK (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/BAŞÇİFTLİK)
+* [NİKSAR (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/NİKSAR)
+* [PAZAR_(T) (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/PAZAR_(T))
+* [REŞADİYE (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/REŞADİYE)
 * [SULUSARAY (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/SULUSARAY)
 * [TOKAT (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/TOKAT)
 * [TURHAL (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/TURHAL)
 * [YEŞİLYURT (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/YEŞİLYURT)
 * [ZİLE (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/ZİLE)
-* [ARTOVA (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/ARTOVA)
-* [NİKSAR (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/NİKSAR)
-* [ALMUS (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/ALMUS)
-* [PAZAR_(T) (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/PAZAR_(T))
-* [BAŞÇİFTLİK (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/BAŞÇİFTLİK)
-* [REŞADİYE (TOKAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TOKAT/REŞADİYE)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

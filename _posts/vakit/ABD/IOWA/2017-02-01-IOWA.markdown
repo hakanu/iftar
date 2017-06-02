@@ -8,11 +8,11 @@ permalink: /ABD/IOWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [DES_MOINES (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/DES_MOINES)
-* [NEWTON (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/NEWTON)
 * [AMES (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/AMES)
 * [COUNCIL_BLUFFS (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/COUNCIL_BLUFFS)
+* [DES_MOINES (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/DES_MOINES)
 * [IOWA_CITY (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/IOWA_CITY)
+* [NEWTON (IOWA, ABD) için iftar ve namaz vakitleri](/ABD/IOWA/NEWTON)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

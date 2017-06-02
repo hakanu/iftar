@@ -8,23 +8,23 @@ permalink: /TÜRKİYE/AYDIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [AYDIN (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/AYDIN)
+* [BOZDOĞAN (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/BOZDOĞAN)
+* [BUHARKENT (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/BUHARKENT)
+* [DİDİM (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/DİDİM)
+* [GERMENCİK (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/GERMENCİK)
+* [KARACASU (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KARACASU)
+* [KARPUZLU (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KARPUZLU)
+* [KOÇARLI (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KOÇARLI)
+* [KUYUCAK (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KUYUCAK)
+* [KUŞADASI (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KUŞADASI)
+* [KÖŞK (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KÖŞK)
+* [NAZİLLİ (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/NAZİLLİ)
+* [SULTANHİSAR (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/SULTANHİSAR)
+* [SÖKE (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/SÖKE)
+* [YENİPAZAR_(A) (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/YENİPAZAR_(A))
 * [ÇİNE (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/ÇİNE)
 * [İNCİRLİOVA (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/İNCİRLİOVA)
-* [DİDİM (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/DİDİM)
-* [SÖKE (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/SÖKE)
-* [KARACASU (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KARACASU)
-* [NAZİLLİ (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/NAZİLLİ)
-* [BOZDOĞAN (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/BOZDOĞAN)
-* [KUYUCAK (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KUYUCAK)
-* [KÖŞK (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KÖŞK)
-* [SULTANHİSAR (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/SULTANHİSAR)
-* [KUŞADASI (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KUŞADASI)
-* [GERMENCİK (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/GERMENCİK)
-* [KOÇARLI (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KOÇARLI)
-* [BUHARKENT (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/BUHARKENT)
-* [YENİPAZAR_(A) (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/YENİPAZAR_(A))
-* [AYDIN (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/AYDIN)
-* [KARPUZLU (AYDIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AYDIN/KARPUZLU)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

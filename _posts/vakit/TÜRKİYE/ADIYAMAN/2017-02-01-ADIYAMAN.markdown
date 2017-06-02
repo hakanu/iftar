@@ -8,15 +8,15 @@ permalink: /TÜRKİYE/ADIYAMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ÇELİKHAN (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/ÇELİKHAN)
-* [SİNCİK (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/SİNCİK)
+* [ADIYAMAN (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/ADIYAMAN)
+* [BESNİ (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/BESNİ)
 * [GERGER (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/GERGER)
 * [GÖLBAŞI (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/GÖLBAŞI)
 * [KAHTA (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/KAHTA)
-* [ADIYAMAN (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/ADIYAMAN)
 * [SAMSAT (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/SAMSAT)
-* [BESNİ (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/BESNİ)
+* [SİNCİK (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/SİNCİK)
 * [TUT (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/TUT)
+* [ÇELİKHAN (ADIYAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ADIYAMAN/ÇELİKHAN)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

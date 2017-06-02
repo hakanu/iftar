@@ -8,10 +8,10 @@ permalink: /BELIZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [BELIZE_CITY (BELIZE) için iftar ve namaz vakitleri](/BELIZE/BELIZE_CITY)
 * [BELMOPAN (BELIZE) için iftar ve namaz vakitleri](/BELIZE/BELMOPAN)
 * [COROZAL (BELIZE) için iftar ve namaz vakitleri](/BELIZE/COROZAL)
 * [COROZALITO (BELIZE) için iftar ve namaz vakitleri](/BELIZE/COROZALITO)
 * [DANGRIGA (BELIZE) için iftar ve namaz vakitleri](/BELIZE/DANGRIGA)
 * [ORANGE_WALK (BELIZE) için iftar ve namaz vakitleri](/BELIZE/ORANGE_WALK)
-* [BELIZE_CITY (BELIZE) için iftar ve namaz vakitleri](/BELIZE/BELIZE_CITY)
 * [SAN_IGNACIO (BELIZE) için iftar ve namaz vakitleri](/BELIZE/SAN_IGNACIO)

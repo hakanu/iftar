@@ -8,12 +8,12 @@ permalink: /TÜRKİYE/ARDAHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [DAMAL (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/DAMAL)
-* [HANAK (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/HANAK)
 * [ARDAHAN (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/ARDAHAN)
-* [ÇILDIR (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/ÇILDIR)
+* [DAMAL (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/DAMAL)
 * [GÖLE (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/GÖLE)
+* [HANAK (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/HANAK)
 * [POSOF (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/POSOF)
+* [ÇILDIR (ARDAHAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ARDAHAN/ÇILDIR)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

@@ -8,8 +8,8 @@ permalink: /PORTO_RIKO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SAN_JUAN (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_JUAN)
 * [BAYAMON (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/BAYAMON)
-* [SAN_GERMAN (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_GERMAN)
-* [PONCE (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/PONCE)
 * [CAROLINA (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/CAROLINA)
+* [PONCE (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/PONCE)
+* [SAN_GERMAN (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_GERMAN)
+* [SAN_JUAN (PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_JUAN)

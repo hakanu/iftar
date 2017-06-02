@@ -8,9 +8,9 @@ permalink: /KOSTARIKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [LIBERIA (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/LIBERIA)
 * [ALAJUELA (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/ALAJUELA)
 * [CARTAGO (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/CARTAGO)
-* [SAN_JOSE (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/SAN_JOSE)
 * [HEREDIA (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/HEREDIA)
+* [LIBERIA (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/LIBERIA)
 * [LIMON (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/LIMON)
+* [SAN_JOSE (KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/SAN_JOSE)

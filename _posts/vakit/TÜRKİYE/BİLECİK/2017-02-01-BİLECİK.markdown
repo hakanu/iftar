@@ -8,12 +8,12 @@ permalink: /TÜRKİYE/BİLECİK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [BİLECİK (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/BİLECİK)
-* [İNHİSAR (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/İNHİSAR)
 * [BOZÜYÜK (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/BOZÜYÜK)
-* [YENİPAZAR (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/YENİPAZAR)
-* [SÖĞÜT (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/SÖĞÜT)
+* [BİLECİK (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/BİLECİK)
 * [GÖLPAZARI (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/GÖLPAZARI)
+* [SÖĞÜT (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/SÖĞÜT)
+* [YENİPAZAR (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/YENİPAZAR)
+* [İNHİSAR (BİLECİK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİLECİK/İNHİSAR)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

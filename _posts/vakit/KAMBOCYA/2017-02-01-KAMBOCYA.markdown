@@ -8,11 +8,11 @@ permalink: /KAMBOCYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [POUTHISAT (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/POUTHISAT)
-* [KAMPOT (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPOT)
-* [KAMPONG_CHAM (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPONG_CHAM)
-* [PHNOM_PENH (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PHNOM_PENH)
-* [SIEM_REAB (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/SIEM_REAB)
-* [KRACHEH (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KRACHEH)
-* [PREY_VENG (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PREY_VENG)
 * [BATTAMBANG (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/BATTAMBANG)
+* [KAMPONG_CHAM (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPONG_CHAM)
+* [KAMPOT (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPOT)
+* [KRACHEH (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KRACHEH)
+* [PHNOM_PENH (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PHNOM_PENH)
+* [POUTHISAT (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/POUTHISAT)
+* [PREY_VENG (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PREY_VENG)
+* [SIEM_REAB (KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/SIEM_REAB)

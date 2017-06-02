@@ -8,7 +8,7 @@ permalink: /URDUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [IRBID (URDUN) için iftar ve namaz vakitleri](/URDUN/IRBID)
-* [AZ_ZARQA (URDUN) için iftar ve namaz vakitleri](/URDUN/AZ_ZARQA)
 * [AL-AQABAH (URDUN) için iftar ve namaz vakitleri](/URDUN/AL-AQABAH)
 * [AMMAN (URDUN) için iftar ve namaz vakitleri](/URDUN/AMMAN)
+* [AZ_ZARQA (URDUN) için iftar ve namaz vakitleri](/URDUN/AZ_ZARQA)
+* [IRBID (URDUN) için iftar ve namaz vakitleri](/URDUN/IRBID)

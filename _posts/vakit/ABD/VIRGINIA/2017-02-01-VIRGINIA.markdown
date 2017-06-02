@@ -8,20 +8,20 @@ permalink: /ABD/VIRGINIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [RICHMOND (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/RICHMOND)
-* [ALICE_SPRINGS (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/ALICE_SPRINGS)
-* [HAMPTON (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/HAMPTON)
-* [HOPEWELL (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/HOPEWELL)
-* [BARROV_CREEK (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/BARROV_CREEK)
-* [PETERSBURG (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/PETERSBURG)
-* [NORFOLK (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/NORFOLK)
-* [WILLIAMSBURG (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/WILLIAMSBURG)
-* [LAKESIDE (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/LAKESIDE)
-* [BLACKSBURG (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/BLACKSBURG)
 * [ALEXANDRIA (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/ALEXANDRIA)
+* [ALICE_SPRINGS (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/ALICE_SPRINGS)
+* [BARROV_CREEK (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/BARROV_CREEK)
+* [BLACKSBURG (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/BLACKSBURG)
 * [BON_AIR (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/BON_AIR)
 * [CHARLOTTESVILLE (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/CHARLOTTESVILLE)
+* [HAMPTON (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/HAMPTON)
+* [HOPEWELL (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/HOPEWELL)
+* [LAKESIDE (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/LAKESIDE)
+* [NORFOLK (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/NORFOLK)
+* [PETERSBURG (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/PETERSBURG)
 * [PORTSMOUTH (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/PORTSMOUTH)
+* [RICHMOND (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/RICHMOND)
+* [WILLIAMSBURG (VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/VIRGINIA/WILLIAMSBURG)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

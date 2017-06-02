@@ -8,9 +8,9 @@ permalink: /UGANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TORORO (UGANDA) için iftar ve namaz vakitleri](/UGANDA/TORORO)
-* [KAMPALA (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KAMPALA)
-* [KABALE (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KABALE)
-* [GULU (UGANDA) için iftar ve namaz vakitleri](/UGANDA/GULU)
 * [ARUA (UGANDA) için iftar ve namaz vakitleri](/UGANDA/ARUA)
+* [GULU (UGANDA) için iftar ve namaz vakitleri](/UGANDA/GULU)
+* [KABALE (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KABALE)
+* [KAMPALA (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KAMPALA)
 * [KITGUM (UGANDA) için iftar ve namaz vakitleri](/UGANDA/KITGUM)
+* [TORORO (UGANDA) için iftar ve namaz vakitleri](/UGANDA/TORORO)

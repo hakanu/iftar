@@ -8,10 +8,10 @@ permalink: /LAOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [XAM_NUA (LAOS) için iftar ve namaz vakitleri](/LAOS/XAM_NUA)
-* [MUANG_VANGVIANG (LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_VANGVIANG)
-* [VIENTIANE (LAOS) için iftar ve namaz vakitleri](/LAOS/VIENTIANE)
-* [MUANG_SING (LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_SING)
-* [LOUANG_NAMTHA (LAOS) için iftar ve namaz vakitleri](/LAOS/LOUANG_NAMTHA)
-* [SARAVAN (LAOS) için iftar ve namaz vakitleri](/LAOS/SARAVAN)
 * [BAN_DONKON (LAOS) için iftar ve namaz vakitleri](/LAOS/BAN_DONKON)
+* [LOUANG_NAMTHA (LAOS) için iftar ve namaz vakitleri](/LAOS/LOUANG_NAMTHA)
+* [MUANG_SING (LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_SING)
+* [MUANG_VANGVIANG (LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_VANGVIANG)
+* [SARAVAN (LAOS) için iftar ve namaz vakitleri](/LAOS/SARAVAN)
+* [VIENTIANE (LAOS) için iftar ve namaz vakitleri](/LAOS/VIENTIANE)
+* [XAM_NUA (LAOS) için iftar ve namaz vakitleri](/LAOS/XAM_NUA)

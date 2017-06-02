@@ -8,14 +8,14 @@ permalink: /TÜRKİYE/KOCAELİ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KÖRFEZ (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KÖRFEZ)
-* [KANDIRA (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KANDIRA)
-* [KOCAELİ (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KOCAELİ)
-* [DİLOVASI (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/DİLOVASI)
-* [KARAMÜRSEL (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KARAMÜRSEL)
-* [ÇAYIROVA (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/ÇAYIROVA)
-* [GEBZE (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/GEBZE)
 * [DARICA (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/DARICA)
+* [DİLOVASI (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/DİLOVASI)
+* [GEBZE (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/GEBZE)
+* [KANDIRA (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KANDIRA)
+* [KARAMÜRSEL (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KARAMÜRSEL)
+* [KOCAELİ (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KOCAELİ)
+* [KÖRFEZ (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/KÖRFEZ)
+* [ÇAYIROVA (KOCAELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KOCAELİ/ÇAYIROVA)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

@@ -9,10 +9,10 @@ permalink: /TÜRKİYE/SİİRT
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [BAYKAN (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/BAYKAN)
-* [SİİRT (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/SİİRT)
-* [PERVARİ (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/PERVARİ)
-* [KURTALAN (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/KURTALAN)
 * [ERUH (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/ERUH)
+* [KURTALAN (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/KURTALAN)
+* [PERVARİ (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/PERVARİ)
+* [SİİRT (SİİRT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/SİİRT/SİİRT)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

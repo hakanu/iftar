@@ -8,6 +8,6 @@ permalink: /GUYANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [LINDEN (GUYANA) için iftar ve namaz vakitleri](/GUYANA/LINDEN)
 * [GEORGETOWN (GUYANA) için iftar ve namaz vakitleri](/GUYANA/GEORGETOWN)
+* [LINDEN (GUYANA) için iftar ve namaz vakitleri](/GUYANA/LINDEN)
 * [NEW_AMSTERDAM (GUYANA) için iftar ve namaz vakitleri](/GUYANA/NEW_AMSTERDAM)

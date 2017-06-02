@@ -8,10 +8,10 @@ permalink: /LUBNAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SAYDA (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SAYDA)
-* [BEYRUT (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/BEYRUT)
-* [SUR (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SUR)
 * [BAALBEK (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/BAALBEK)
-* [ZAHLAH (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/ZAHLAH)
-* [TRABLUSGARP (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/TRABLUSGARP)
+* [BEYRUT (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/BEYRUT)
 * [JUNIYAH (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/JUNIYAH)
+* [SAYDA (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SAYDA)
+* [SUR (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SUR)
+* [TRABLUSGARP (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/TRABLUSGARP)
+* [ZAHLAH (LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/ZAHLAH)

@@ -8,13 +8,13 @@ permalink: /ESTONYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [RAKVERE (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/RAKVERE)
-* [TARTU (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TARTU)
-* [TAPA (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TAPA)
-* [POLVA (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/POLVA)
-* [VORU (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VORU)
 * [JOGEVA (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/JOGEVA)
-* [VILJANDI (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VILJANDI)
 * [KURESSAARE (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/KURESSAARE)
-* [TALLINN (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TALLINN)
 * [PARNU (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/PARNU)
+* [POLVA (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/POLVA)
+* [RAKVERE (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/RAKVERE)
+* [TALLINN (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TALLINN)
+* [TAPA (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TAPA)
+* [TARTU (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TARTU)
+* [VILJANDI (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VILJANDI)
+* [VORU (ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VORU)

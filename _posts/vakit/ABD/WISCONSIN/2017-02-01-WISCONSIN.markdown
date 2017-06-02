@@ -8,15 +8,15 @@ permalink: /ABD/WISCONSIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SHEBOYGAN (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/SHEBOYGAN)
-* [RHINELANDER (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/RHINELANDER)
+* [BENTON (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/BENTON)
 * [BUNDABERG (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/BUNDABERG)
 * [KENOSHA (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/KENOSHA)
-* [STEVENS_POINT (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/STEVENS_POINT)
-* [MILWAUKEE (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/MILWAUKEE)
 * [MADISON (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/MADISON)
+* [MILWAUKEE (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/MILWAUKEE)
 * [RACINE (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/RACINE)
-* [BENTON (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/BENTON)
+* [RHINELANDER (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/RHINELANDER)
+* [SHEBOYGAN (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/SHEBOYGAN)
+* [STEVENS_POINT (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/STEVENS_POINT)
 * [SUPERIOR (WISCONSIN, ABD) için iftar ve namaz vakitleri](/ABD/WISCONSIN/SUPERIOR)
 
 <script type="text/javascript">

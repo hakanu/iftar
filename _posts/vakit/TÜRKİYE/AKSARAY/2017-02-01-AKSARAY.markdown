@@ -8,12 +8,12 @@ permalink: /TÜRKİYE/AKSARAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [GÜZELYURT (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/GÜZELYURT)
-* [AĞAÇÖREN (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/AĞAÇÖREN)
 * [AKSARAY (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/AKSARAY)
-* [SARIYAHŞİ (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/SARIYAHŞİ)
+* [AĞAÇÖREN (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/AĞAÇÖREN)
 * [ESKİL (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/ESKİL)
 * [GULAGAÇ (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/GULAGAÇ)
+* [GÜZELYURT (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/GÜZELYURT)
+* [SARIYAHŞİ (AKSARAY, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AKSARAY/SARIYAHŞİ)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

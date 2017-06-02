@@ -8,12 +8,12 @@ permalink: /EL_SALVADOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SAN_MIGUEL (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SAN_MIGUEL)
-* [MEJICANOS (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/MEJICANOS)
-* [SOYAPANGO (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SOYAPANGO)
-* [SAN_SALVADOR (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SAN_SALVADOR)
-* [VILLA_DELGADO (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/VILLA_DELGADO)
 * [APOPA (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/APOPA)
+* [MEJICANOS (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/MEJICANOS)
 * [NUEVA_SAN_SALVADOR (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/NUEVA_SAN_SALVADOR)
+* [SAN_MIGUEL (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SAN_MIGUEL)
+* [SAN_SALVADOR (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SAN_SALVADOR)
 * [SANTA_ANA (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SANTA_ANA)
+* [SOYAPANGO (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SOYAPANGO)
+* [VILLA_DELGADO (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/VILLA_DELGADO)
 * [ZACATECOLUCA (EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/ZACATECOLUCA)

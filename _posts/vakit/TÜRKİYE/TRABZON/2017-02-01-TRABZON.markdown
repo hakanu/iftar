@@ -8,23 +8,23 @@ permalink: /TÜRKİYE/TRABZON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SÜRMENE (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/SÜRMENE)
 * [AKÇAABAT (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/AKÇAABAT)
-* [DÜZKÖY (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/DÜZKÖY)
+* [ARAKLI (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/ARAKLI)
 * [ARSİN (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/ARSİN)
+* [BEŞİKDÜZÜ (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/BEŞİKDÜZÜ)
+* [DERNEKPAZARI (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/DERNEKPAZARI)
+* [DÜZKÖY (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/DÜZKÖY)
 * [HAYRAT (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/HAYRAT)
+* [KÖPRÜBAŞI_(T) (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/KÖPRÜBAŞI_(T))
+* [OF (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/OF)
+* [SÜRMENE (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/SÜRMENE)
+* [TONYA (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/TONYA)
 * [TRABZON (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/TRABZON)
 * [VAKFIKEBİR (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/VAKFIKEBİR)
-* [ARAKLI (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/ARAKLI)
-* [KÖPRÜBAŞI_(T) (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/KÖPRÜBAŞI_(T))
+* [YOMRA (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/YOMRA)
+* [ÇARŞIBAŞI (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/ÇARŞIBAŞI)
 * [ÇAYKARA (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/ÇAYKARA)
 * [ŞALPAZARI (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/ŞALPAZARI)
-* [DERNEKPAZARI (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/DERNEKPAZARI)
-* [YOMRA (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/YOMRA)
-* [BEŞİKDÜZÜ (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/BEŞİKDÜZÜ)
-* [OF (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/OF)
-* [ÇARŞIBAŞI (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/ÇARŞIBAŞI)
-* [TONYA (TRABZON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TRABZON/TONYA)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

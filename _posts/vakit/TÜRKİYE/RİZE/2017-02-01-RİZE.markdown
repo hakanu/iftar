@@ -8,15 +8,15 @@ permalink: /TÜRKİYE/RİZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [FINDIKLI (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/FINDIKLI)
-* [ÇAMLIHEMŞİN (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/ÇAMLIHEMŞİN)
-* [İYİDERE (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/İYİDERE)
-* [RİZE (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/RİZE)
-* [HEMŞİN (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/HEMŞİN)
-* [İKİZDERE (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/İKİZDERE)
 * [ARDEŞEN (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/ARDEŞEN)
-* [ÇAYELİ (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/ÇAYELİ)
+* [FINDIKLI (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/FINDIKLI)
+* [HEMŞİN (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/HEMŞİN)
 * [PAZAR (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/PAZAR)
+* [RİZE (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/RİZE)
+* [ÇAMLIHEMŞİN (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/ÇAMLIHEMŞİN)
+* [ÇAYELİ (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/ÇAYELİ)
+* [İKİZDERE (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/İKİZDERE)
+* [İYİDERE (RİZE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/RİZE/İYİDERE)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

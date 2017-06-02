@@ -9,10 +9,10 @@ permalink: /TÜRKİYE/NEVŞEHİR
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [ACIGÖL (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/ACIGÖL)
+* [HACIBEKTAŞ (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/HACIBEKTAŞ)
 * [KOZAKLI (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/KOZAKLI)
 * [NEVŞEHİR (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/NEVŞEHİR)
 * [ÜRGÜP (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/ÜRGÜP)
-* [HACIBEKTAŞ (NEVŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NEVŞEHİR/HACIBEKTAŞ)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

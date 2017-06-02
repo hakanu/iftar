@@ -8,9 +8,9 @@ permalink: /ABD/MISSISSIPPI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [OXFORD (MISSISSIPPI, ABD) için iftar ve namaz vakitleri](/ABD/MISSISSIPPI/OXFORD)
 * [HATTIESBURG (MISSISSIPPI, ABD) için iftar ve namaz vakitleri](/ABD/MISSISSIPPI/HATTIESBURG)
 * [JACKSON (MISSISSIPPI, ABD) için iftar ve namaz vakitleri](/ABD/MISSISSIPPI/JACKSON)
+* [OXFORD (MISSISSIPPI, ABD) için iftar ve namaz vakitleri](/ABD/MISSISSIPPI/OXFORD)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

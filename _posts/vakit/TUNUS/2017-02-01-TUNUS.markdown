@@ -8,11 +8,11 @@ permalink: /TUNUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SUSAH (TUNUS) için iftar ve namaz vakitleri](/TUNUS/SUSAH)
-* [BIZERTE (TUNUS) için iftar ve namaz vakitleri](/TUNUS/BIZERTE)
-* [LA_GOULETTA (TUNUS) için iftar ve namaz vakitleri](/TUNUS/LA_GOULETTA)
-* [TUNUS (TUNUS) için iftar ve namaz vakitleri](/TUNUS/TUNUS)
-* [GABES (TUNUS) için iftar ve namaz vakitleri](/TUNUS/GABES)
 * [AL_QAYRAWAN (TUNUS) için iftar ve namaz vakitleri](/TUNUS/AL_QAYRAWAN)
-* [SFAX (TUNUS) için iftar ve namaz vakitleri](/TUNUS/SFAX)
+* [BIZERTE (TUNUS) için iftar ve namaz vakitleri](/TUNUS/BIZERTE)
+* [GABES (TUNUS) için iftar ve namaz vakitleri](/TUNUS/GABES)
 * [GAFSA (TUNUS) için iftar ve namaz vakitleri](/TUNUS/GAFSA)
+* [LA_GOULETTA (TUNUS) için iftar ve namaz vakitleri](/TUNUS/LA_GOULETTA)
+* [SFAX (TUNUS) için iftar ve namaz vakitleri](/TUNUS/SFAX)
+* [SUSAH (TUNUS) için iftar ve namaz vakitleri](/TUNUS/SUSAH)
+* [TUNUS (TUNUS) için iftar ve namaz vakitleri](/TUNUS/TUNUS)

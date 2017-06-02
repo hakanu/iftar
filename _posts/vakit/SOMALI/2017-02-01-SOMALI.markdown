@@ -9,10 +9,10 @@ permalink: /SOMALI
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [BANDARBEYLA (SOMALI) için iftar ve namaz vakitleri](/SOMALI/BANDARBEYLA)
-* [OBBIA (SOMALI) için iftar ve namaz vakitleri](/SOMALI/OBBIA)
 * [BULO_BURTI (SOMALI) için iftar ve namaz vakitleri](/SOMALI/BULO_BURTI)
-* [EYL (SOMALI) için iftar ve namaz vakitleri](/SOMALI/EYL)
-* [DHORZI (SOMALI) için iftar ve namaz vakitleri](/SOMALI/DHORZI)
 * [CALUULA (SOMALI) için iftar ve namaz vakitleri](/SOMALI/CALUULA)
-* [MOGADISHU (SOMALI) için iftar ve namaz vakitleri](/SOMALI/MOGADISHU)
+* [DHORZI (SOMALI) için iftar ve namaz vakitleri](/SOMALI/DHORZI)
+* [EYL (SOMALI) için iftar ve namaz vakitleri](/SOMALI/EYL)
 * [KISMAAYO (SOMALI) için iftar ve namaz vakitleri](/SOMALI/KISMAAYO)
+* [MOGADISHU (SOMALI) için iftar ve namaz vakitleri](/SOMALI/MOGADISHU)
+* [OBBIA (SOMALI) için iftar ve namaz vakitleri](/SOMALI/OBBIA)

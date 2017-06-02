@@ -9,8 +9,8 @@ permalink: /ABD/KENTUCKY
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [BOWLING_GREEN (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/BOWLING_GREEN)
-* [LEXINGTON (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/LEXINGTON)
 * [FRANKFORT (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/FRANKFORT)
+* [LEXINGTON (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/LEXINGTON)
 * [LOUISVILLE (KENTUCKY, ABD) için iftar ve namaz vakitleri](/ABD/KENTUCKY/LOUISVILLE)
 
 <script type="text/javascript">

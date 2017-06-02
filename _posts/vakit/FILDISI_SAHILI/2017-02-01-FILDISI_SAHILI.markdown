@@ -8,8 +8,8 @@ permalink: /FILDISI_SAHILI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [ABIDJAN (FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/ABIDJAN)
 * [BOUAKE (FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/BOUAKE)
 * [DALOA (FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/DALOA)
-* [ABIDJAN (FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/ABIDJAN)
 * [KORHOGO (FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/KORHOGO)
 * [YAMOUSSOUKRO (FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/YAMOUSSOUKRO)

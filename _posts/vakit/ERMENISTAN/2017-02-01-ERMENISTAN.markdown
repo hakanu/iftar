@@ -8,6 +8,6 @@ permalink: /ERMENISTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [VANADZOR (ERMENISTAN) için iftar ve namaz vakitleri](/ERMENISTAN/VANADZOR)
-* [GYUMRI (ERMENISTAN) için iftar ve namaz vakitleri](/ERMENISTAN/GYUMRI)
 * [ERIVAN (ERMENISTAN) için iftar ve namaz vakitleri](/ERMENISTAN/ERIVAN)
+* [GYUMRI (ERMENISTAN) için iftar ve namaz vakitleri](/ERMENISTAN/GYUMRI)
+* [VANADZOR (ERMENISTAN) için iftar ve namaz vakitleri](/ERMENISTAN/VANADZOR)

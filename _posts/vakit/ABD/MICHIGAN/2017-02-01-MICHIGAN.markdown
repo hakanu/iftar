@@ -8,18 +8,18 @@ permalink: /ABD/MICHIGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MICHIGAN_CENTER (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/MICHIGAN_CENTER)
-* [WARREN (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/WARREN)
-* [FLINT (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/FLINT)
-* [EAST_LANSING (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/EAST_LANSING)
-* [HOUGHTON (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/HOUGHTON)
-* [LIVONIA (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/LIVONIA)
 * [ANN_ARBOR (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/ANN_ARBOR)
-* [DETROIT (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/DETROIT)
-* [GRAND_RAPIDS (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/GRAND_RAPIDS)
-* [LANSING (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/LANSING)
-* [STIRLING_HEIGHTS (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/STIRLING_HEIGHTS)
 * [BAY_CITY (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/BAY_CITY)
+* [DETROIT (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/DETROIT)
+* [EAST_LANSING (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/EAST_LANSING)
+* [FLINT (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/FLINT)
+* [GRAND_RAPIDS (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/GRAND_RAPIDS)
+* [HOUGHTON (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/HOUGHTON)
+* [LANSING (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/LANSING)
+* [LIVONIA (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/LIVONIA)
+* [MICHIGAN_CENTER (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/MICHIGAN_CENTER)
+* [STIRLING_HEIGHTS (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/STIRLING_HEIGHTS)
+* [WARREN (MICHIGAN, ABD) için iftar ve namaz vakitleri](/ABD/MICHIGAN/WARREN)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

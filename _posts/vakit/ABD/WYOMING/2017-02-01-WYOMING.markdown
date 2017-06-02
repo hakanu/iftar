@@ -9,11 +9,11 @@ permalink: /ABD/WYOMING
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [BERRIMAH (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/BERRIMAH)
-* [MONDORAH (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/MONDORAH)
 * [CHEYENNE (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/CHEYENNE)
 * [DARWIN (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/DARWIN)
-* [ROCK_SPRINGS (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/ROCK_SPRINGS)
+* [MONDORAH (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/MONDORAH)
 * [NOONAMBAH (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/NOONAMBAH)
+* [ROCK_SPRINGS (WYOMING, ABD) için iftar ve namaz vakitleri](/ABD/WYOMING/ROCK_SPRINGS)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

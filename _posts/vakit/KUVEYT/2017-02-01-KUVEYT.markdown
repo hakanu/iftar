@@ -8,7 +8,7 @@ permalink: /KUVEYT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [JAHRA (KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/JAHRA)
 * [JALIB_ASH_SHUYUKH (KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/JALIB_ASH_SHUYUKH)
 * [KUVEYT (KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/KUVEYT)
-* [JAHRA (KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/JAHRA)
 * [SALMIYA_(AS_SALIMIYAH) (KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/SALMIYA_(AS_SALIMIYAH))

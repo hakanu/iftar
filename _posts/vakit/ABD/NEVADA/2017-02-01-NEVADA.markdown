@@ -8,9 +8,9 @@ permalink: /ABD/NEVADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [CARSON_CITY (NEVADA, ABD) için iftar ve namaz vakitleri](/ABD/NEVADA/CARSON_CITY)
 * [LAS_VEGAS (NEVADA, ABD) için iftar ve namaz vakitleri](/ABD/NEVADA/LAS_VEGAS)
 * [RENO (NEVADA, ABD) için iftar ve namaz vakitleri](/ABD/NEVADA/RENO)
-* [CARSON_CITY (NEVADA, ABD) için iftar ve namaz vakitleri](/ABD/NEVADA/CARSON_CITY)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

@@ -8,14 +8,14 @@ permalink: /TÜRKİYE/GAZİANTEP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KARKAMIŞ (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/KARKAMIŞ)
-* [YAVUZELİ (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/YAVUZELİ)
-* [İSLAHİYE (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/İSLAHİYE)
-* [OĞUZELİ (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/OĞUZELİ)
+* [ARABAN (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/ARABAN)
 * [GAZİANTEP (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/GAZİANTEP)
+* [KARKAMIŞ (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/KARKAMIŞ)
 * [NURDAĞI (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/NURDAĞI)
 * [NİZİP (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/NİZİP)
-* [ARABAN (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/ARABAN)
+* [OĞUZELİ (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/OĞUZELİ)
+* [YAVUZELİ (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/YAVUZELİ)
+* [İSLAHİYE (GAZİANTEP, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GAZİANTEP/İSLAHİYE)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

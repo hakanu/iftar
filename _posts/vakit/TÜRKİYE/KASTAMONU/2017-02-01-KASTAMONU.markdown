@@ -8,24 +8,24 @@ permalink: /TÜRKİYE/KASTAMONU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [ABANA (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ABANA)
+* [ARAÇ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ARAÇ)
+* [AZDAVAY (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/AZDAVAY)
 * [AĞLI (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/AĞLI)
-* [HANÖNÜ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/HANÖNÜ)
-* [TAŞKÖPRÜ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/TAŞKÖPRÜ)
-* [İNEBOLU (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/İNEBOLU)
 * [BOZKURT_(K) (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/BOZKURT_(K))
-* [İHSANGAZİ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/İHSANGAZİ)
+* [CİDE (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/CİDE)
+* [DADAY (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/DADAY)
+* [DOĞANYURT (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/DOĞANYURT)
+* [HANÖNÜ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/HANÖNÜ)
+* [KASTAMONU (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/KASTAMONU)
 * [KÜRE (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/KÜRE)
 * [PINARBAŞI_(K) (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/PINARBAŞI_(K))
-* [CİDE (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/CİDE)
-* [ŞENPAZAR (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ŞENPAZAR)
-* [ÇATALZEYTİN (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ÇATALZEYTİN)
-* [DADAY (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/DADAY)
+* [TAŞKÖPRÜ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/TAŞKÖPRÜ)
 * [TOSYA (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/TOSYA)
-* [AZDAVAY (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/AZDAVAY)
-* [DOĞANYURT (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/DOĞANYURT)
-* [KASTAMONU (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/KASTAMONU)
-* [ARAÇ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ARAÇ)
-* [ABANA (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ABANA)
+* [ÇATALZEYTİN (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ÇATALZEYTİN)
+* [İHSANGAZİ (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/İHSANGAZİ)
+* [İNEBOLU (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/İNEBOLU)
+* [ŞENPAZAR (KASTAMONU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KASTAMONU/ŞENPAZAR)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

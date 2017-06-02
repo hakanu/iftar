@@ -8,23 +8,23 @@ permalink: /TÜRKİYE/ANKARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ANKARA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ANKARA)
-* [KIZILCAHAMAM (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KIZILCAHAMAM)
-* [ŞEREFLİKOÇHİSAR (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ŞEREFLİKOÇHİSAR)
 * [AKYURT (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/AKYURT)
-* [NALLIHAN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/NALLIHAN)
-* [EVREN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/EVREN)
-* [KALECİK (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KALECİK)
-* [CUBUK (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/CUBUK)
-* [KAZAN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KAZAN)
-* [HAYMANA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/HAYMANA)
-* [BEYPAZARI (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/BEYPAZARI)
-* [BALA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/BALA)
-* [GÜDÜL (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/GÜDÜL)
-* [ELMADAĞ (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ELMADAĞ)
-* [ÇAMLIDERE (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ÇAMLIDERE)
+* [ANKARA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ANKARA)
 * [AYAŞ (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/AYAŞ)
+* [BALA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/BALA)
+* [BEYPAZARI (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/BEYPAZARI)
+* [CUBUK (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/CUBUK)
+* [ELMADAĞ (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ELMADAĞ)
+* [EVREN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/EVREN)
+* [GÜDÜL (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/GÜDÜL)
+* [HAYMANA (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/HAYMANA)
+* [KALECİK (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KALECİK)
+* [KAZAN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KAZAN)
+* [KIZILCAHAMAM (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/KIZILCAHAMAM)
+* [NALLIHAN (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/NALLIHAN)
 * [POLATLI (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/POLATLI)
+* [ÇAMLIDERE (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ÇAMLIDERE)
+* [ŞEREFLİKOÇHİSAR (ANKARA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ANKARA/ŞEREFLİKOÇHİSAR)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

@@ -8,5 +8,5 @@ permalink: /SURINAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [PARAMARIBO (SURINAM) için iftar ve namaz vakitleri](/SURINAM/PARAMARIBO)
 * [BROKOPONDO (SURINAM) için iftar ve namaz vakitleri](/SURINAM/BROKOPONDO)
+* [PARAMARIBO (SURINAM) için iftar ve namaz vakitleri](/SURINAM/PARAMARIBO)

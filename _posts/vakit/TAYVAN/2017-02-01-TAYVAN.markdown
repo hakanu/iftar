@@ -8,13 +8,13 @@ permalink: /TAYVAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TAICHUNG (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAICHUNG)
 * [CHIAYI (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/CHIAYI)
-* [HUA-LIEN (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/HUA-LIEN)
 * [CHU-NAN (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/CHU-NAN)
-* [KAOHSIUNG (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/KAOHSIUNG)
-* [PINGTUNG (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PINGTUNG)
 * [HSIN-CHU (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/HSIN-CHU)
+* [HUA-LIEN (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/HUA-LIEN)
+* [KAOHSIUNG (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/KAOHSIUNG)
 * [PANCHIAO (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PANCHIAO)
-* [TAIPEI (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAIPEI)
+* [PINGTUNG (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PINGTUNG)
+* [TAICHUNG (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAICHUNG)
 * [TAINAN (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAINAN)
+* [TAIPEI (TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAIPEI)

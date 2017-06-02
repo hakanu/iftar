@@ -8,17 +8,17 @@ permalink: /ABD/ALABAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MONTGOMERY (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/MONTGOMERY)
+* [AUBURN (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/AUBURN)
 * [BIRMINGHAM (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/BIRMINGHAM)
+* [DOTHAN (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/DOTHAN)
+* [FLORENCE (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/FLORENCE)
+* [GULF_SHORES (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/GULF_SHORES)
 * [HUNTSVILLE (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/HUNTSVILLE)
+* [MOBILE (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/MOBILE)
+* [MONTGOMERY (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/MONTGOMERY)
 * [PETERSBURG (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/PETERSBURG)
 * [TROY (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/TROY)
-* [FLORENCE (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/FLORENCE)
-* [AUBURN (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/AUBURN)
 * [VALDEZ (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/VALDEZ)
-* [GULF_SHORES (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/GULF_SHORES)
-* [DOTHAN (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/DOTHAN)
-* [MOBILE (ALABAMA, ABD) için iftar ve namaz vakitleri](/ABD/ALABAMA/MOBILE)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

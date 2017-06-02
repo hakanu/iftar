@@ -9,7 +9,7 @@ permalink: /HONG_KONG
 Aşağıdaki listeden bir şehir ya da semt seçin
 
 * [ABERDEEN (HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/ABERDEEN)
-* [LAMMA_ADASI (HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/LAMMA_ADASI)
 * [HONG_KONG (HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/HONG_KONG)
 * [KOWLOON (HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/KOWLOON)
+* [LAMMA_ADASI (HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/LAMMA_ADASI)
 * [VICTORIA (HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/VICTORIA)

@@ -8,8 +8,8 @@ permalink: /MADAGASKAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TOAMASINA (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/TOAMASINA)
-* [FIANARANTSOA (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/FIANARANTSOA)
-* [MAHAJANGA (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/MAHAJANGA)
 * [ANTANANARIVO (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/ANTANANARIVO)
 * [ANTSIRABE (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/ANTSIRABE)
+* [FIANARANTSOA (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/FIANARANTSOA)
+* [MAHAJANGA (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/MAHAJANGA)
+* [TOAMASINA (MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/TOAMASINA)

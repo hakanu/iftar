@@ -8,15 +8,15 @@ permalink: /TÜRKİYE/ERZİNCAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KEMALİYE (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/KEMALİYE)
-* [ÇAYIRLI (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/ÇAYIRLI)
-* [İLİÇ (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/İLİÇ)
-* [KEMAH (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/KEMAH)
 * [ERZİNCAN (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/ERZİNCAN)
-* [REFAHİYE (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/REFAHİYE)
-* [ÜZÜMLÜ (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/ÜZÜMLÜ)
+* [KEMAH (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/KEMAH)
+* [KEMALİYE (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/KEMALİYE)
 * [OTLUKBELİ (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/OTLUKBELİ)
+* [REFAHİYE (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/REFAHİYE)
 * [TERCAN (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/TERCAN)
+* [ÇAYIRLI (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/ÇAYIRLI)
+* [ÜZÜMLÜ (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/ÜZÜMLÜ)
+* [İLİÇ (ERZİNCAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZİNCAN/İLİÇ)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

@@ -8,9 +8,9 @@ permalink: /SENEGAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KAOLACK (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/KAOLACK)
-* [SAINT-LOUIS (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/SAINT-LOUIS)
-* [LINGUERE (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/LINGUERE)
-* [THIES (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/THIES)
 * [DAKAR (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/DAKAR)
+* [KAOLACK (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/KAOLACK)
+* [LINGUERE (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/LINGUERE)
+* [SAINT-LOUIS (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/SAINT-LOUIS)
+* [THIES (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/THIES)
 * [ZIGUINCHOR (SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/ZIGUINCHOR)

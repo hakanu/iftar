@@ -8,24 +8,24 @@ permalink: /TÜRKİYE/AFYON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [AFYON (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/AFYON)
+* [BAYAT (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/BAYAT)
+* [BAŞMAKÇI (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/BAŞMAKÇI)
 * [BOLVADİN (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/BOLVADİN)
+* [DAZKIRI (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/DAZKIRI)
+* [DİNAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/DİNAR)
+* [EMİRDAĞ (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/EMİRDAĞ)
+* [EVCİLER (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/EVCİLER)
+* [HOCALAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/HOCALAR)
+* [KIZILÖREN (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/KIZILÖREN)
 * [SANDIKLI (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/SANDIKLI)
 * [SUHUT (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/SUHUT)
-* [DİNAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/DİNAR)
 * [SULTANDAĞI (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/SULTANDAĞI)
-* [HOCALAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/HOCALAR)
-* [BAYAT (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/BAYAT)
-* [DAZKIRI (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/DAZKIRI)
-* [İSCEHİSAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/İSCEHİSAR)
-* [AFYON (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/AFYON)
-* [EMİRDAĞ (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/EMİRDAĞ)
-* [KIZILÖREN (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/KIZILÖREN)
-* [İHSANİYE (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/İHSANİYE)
-* [EVCİLER (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/EVCİLER)
-* [ÇOBANLAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/ÇOBANLAR)
 * [SİNANPAŞA (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/SİNANPAŞA)
 * [ÇAY (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/ÇAY)
-* [BAŞMAKÇI (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/BAŞMAKÇI)
+* [ÇOBANLAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/ÇOBANLAR)
+* [İHSANİYE (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/İHSANİYE)
+* [İSCEHİSAR (AFYON, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AFYON/İSCEHİSAR)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

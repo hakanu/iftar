@@ -8,12 +8,12 @@ permalink: /TÜRKİYE/BATMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [HASANKEYF (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/HASANKEYF)
-* [SASON (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/SASON)
-* [BEŞİRİ (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/BEŞİRİ)
-* [KOZLUK (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/KOZLUK)
-* [GERCÜŞ (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/GERCÜŞ)
 * [BATMAN (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/BATMAN)
+* [BEŞİRİ (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/BEŞİRİ)
+* [GERCÜŞ (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/GERCÜŞ)
+* [HASANKEYF (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/HASANKEYF)
+* [KOZLUK (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/KOZLUK)
+* [SASON (BATMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BATMAN/SASON)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

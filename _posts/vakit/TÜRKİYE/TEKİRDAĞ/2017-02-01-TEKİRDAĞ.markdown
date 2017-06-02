@@ -8,14 +8,14 @@ permalink: /TÜRKİYE/TEKİRDAĞ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ŞARKÖY (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/ŞARKÖY)
-* [MALKARA (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/MALKARA)
-* [ÇERKEZKÖY (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/ÇERKEZKÖY)
-* [M_EREĞLİSİ (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/M_EREĞLİSİ)
 * [HAYRABOLU (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/HAYRABOLU)
-* [TEKİRDAĞ (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/TEKİRDAĞ)
+* [MALKARA (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/MALKARA)
+* [M_EREĞLİSİ (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/M_EREĞLİSİ)
 * [SARAY (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/SARAY)
+* [TEKİRDAĞ (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/TEKİRDAĞ)
+* [ÇERKEZKÖY (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/ÇERKEZKÖY)
 * [ÇORLU (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/ÇORLU)
+* [ŞARKÖY (TEKİRDAĞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TEKİRDAĞ/ŞARKÖY)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

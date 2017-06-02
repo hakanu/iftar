@@ -8,21 +8,21 @@ permalink: /TÜRKİYE/BALIKESİR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [BALIKESİR (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BALIKESİR)
-* [HAVRAN (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/HAVRAN)
-* [SINDIRGI (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/SINDIRGI)
-* [BURHANİYE (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BURHANİYE)
-* [MARMARA (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/MARMARA)
-* [BALYA (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BALYA)
-* [GÖNEN (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/GÖNEN)
-* [EDREMİT (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/EDREMİT)
-* [SUSURLUK (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/SUSURLUK)
-* [GÖMEÇ (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/GÖMEÇ)
-* [BİGADİÇ (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BİGADİÇ)
-* [SAVAŞTEPE (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/SAVAŞTEPE)
 * [AYVALIK (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/AYVALIK)
+* [BALIKESİR (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BALIKESİR)
+* [BALYA (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BALYA)
+* [BURHANİYE (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BURHANİYE)
+* [BİGADİÇ (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/BİGADİÇ)
 * [DURSUNBEY (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/DURSUNBEY)
+* [EDREMİT (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/EDREMİT)
+* [GÖMEÇ (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/GÖMEÇ)
+* [GÖNEN (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/GÖNEN)
+* [HAVRAN (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/HAVRAN)
 * [KEPSUT (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/KEPSUT)
+* [MARMARA (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/MARMARA)
+* [SAVAŞTEPE (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/SAVAŞTEPE)
+* [SINDIRGI (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/SINDIRGI)
+* [SUSURLUK (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/SUSURLUK)
 * [İVRİNDİ (BALIKESİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BALIKESİR/İVRİNDİ)
 
 <script type="text/javascript">

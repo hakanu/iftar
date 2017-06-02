@@ -8,14 +8,14 @@ permalink: /KANADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+* [ALBERTA (KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA)
 * [BRITISH_COLOMBIA (KANADA) için iftar ve namaz vakitleri](/KANADA/BRITISH_COLOMBIA)
-* [P_E_I_ (KANADA) için iftar ve namaz vakitleri](/KANADA/P_E_I_)
+* [MANITOBA (KANADA) için iftar ve namaz vakitleri](/KANADA/MANITOBA)
 * [NEW_BRUNSWICK (KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK)
-* [N_A_L_ (KANADA) için iftar ve namaz vakitleri](/KANADA/N_A_L_)
 * [NOVA_SCOTIA (KANADA) için iftar ve namaz vakitleri](/KANADA/NOVA_SCOTIA)
+* [NUNAVUT (KANADA) için iftar ve namaz vakitleri](/KANADA/NUNAVUT)
+* [N_A_L_ (KANADA) için iftar ve namaz vakitleri](/KANADA/N_A_L_)
+* [ONTORIO (KANADA) için iftar ve namaz vakitleri](/KANADA/ONTORIO)
+* [P_E_I_ (KANADA) için iftar ve namaz vakitleri](/KANADA/P_E_I_)
 * [QUEBECK (KANADA) için iftar ve namaz vakitleri](/KANADA/QUEBECK)
 * [SASKATCHEWAN (KANADA) için iftar ve namaz vakitleri](/KANADA/SASKATCHEWAN)
-* [ALBERTA (KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA)
-* [MANITOBA (KANADA) için iftar ve namaz vakitleri](/KANADA/MANITOBA)
-* [ONTORIO (KANADA) için iftar ve namaz vakitleri](/KANADA/ONTORIO)
-* [NUNAVUT (KANADA) için iftar ve namaz vakitleri](/KANADA/NUNAVUT)

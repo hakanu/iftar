@@ -8,20 +8,20 @@ permalink: /TÜRKİYE/DİYARBAKIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [HAZRO (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/HAZRO)
-* [EĞİL (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/EĞİL)
-* [ÇÜNGÜŞ (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ÇÜNGÜŞ)
-* [DİCLE (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/DİCLE)
-* [KULP (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/KULP)
-* [ERGANİ (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ERGANİ)
-* [HANİ (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/HANİ)
 * [BİSMİL (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/BİSMİL)
-* [ÇINAR (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ÇINAR)
-* [ÇERMİK (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ÇERMİK)
-* [SİLVAN (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/SİLVAN)
-* [LİCE (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/LİCE)
+* [DİCLE (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/DİCLE)
 * [DİYARBAKIR (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/DİYARBAKIR)
+* [ERGANİ (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ERGANİ)
+* [EĞİL (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/EĞİL)
+* [HANİ (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/HANİ)
+* [HAZRO (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/HAZRO)
 * [KOCAKÖY (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/KOCAKÖY)
+* [KULP (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/KULP)
+* [LİCE (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/LİCE)
+* [SİLVAN (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/SİLVAN)
+* [ÇERMİK (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ÇERMİK)
+* [ÇINAR (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ÇINAR)
+* [ÇÜNGÜŞ (DİYARBAKIR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DİYARBAKIR/ÇÜNGÜŞ)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

@@ -8,20 +8,20 @@ permalink: /TÜRKİYE/ÇORUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SUNGURLU (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/SUNGURLU)
-* [LAÇİN (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/LAÇİN)
-* [ORTAKÖY (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/ORTAKÖY)
 * [ALACA (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/ALACA)
-* [ÇORUM (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/ÇORUM)
-* [KARGI (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/KARGI)
-* [DODURGA (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/DODURGA)
-* [BOĞAZKALE (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/BOĞAZKALE)
-* [OSMANCIK (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/OSMANCIK)
 * [BAYAT_© (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/BAYAT_©)
-* [UĞURLUDAĞ (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/UĞURLUDAĞ)
-* [İSKİLİP (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/İSKİLİP)
+* [BOĞAZKALE (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/BOĞAZKALE)
+* [DODURGA (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/DODURGA)
+* [KARGI (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/KARGI)
+* [LAÇİN (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/LAÇİN)
 * [MECİTÖZÜ (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/MECİTÖZÜ)
+* [ORTAKÖY (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/ORTAKÖY)
+* [OSMANCIK (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/OSMANCIK)
 * [OĞUZLAR (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/OĞUZLAR)
+* [SUNGURLU (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/SUNGURLU)
+* [UĞURLUDAĞ (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/UĞURLUDAĞ)
+* [ÇORUM (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/ÇORUM)
+* [İSKİLİP (ÇORUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇORUM/İSKİLİP)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

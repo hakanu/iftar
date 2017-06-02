@@ -8,5 +8,5 @@ permalink: /YENI_KALEDONYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [NOUMEA (YENI_KALEDONYA) için iftar ve namaz vakitleri](/YENI_KALEDONYA/NOUMEA)
 * [KOUMAC (YENI_KALEDONYA) için iftar ve namaz vakitleri](/YENI_KALEDONYA/KOUMAC)
+* [NOUMEA (YENI_KALEDONYA) için iftar ve namaz vakitleri](/YENI_KALEDONYA/NOUMEA)

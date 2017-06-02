@@ -8,18 +8,18 @@ permalink: /TÜRKİYE/BURSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [YENİŞEHİR (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/YENİŞEHİR)
-* [KELES (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/KELES)
-* [ORHANGAZİ (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/ORHANGAZİ)
-* [BÜYÜK_ORHAN (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/BÜYÜK_ORHAN)
-* [MUSTAFA_KEMALPAŞA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/MUSTAFA_KEMALPAŞA)
-* [GEMLİK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/GEMLİK)
-* [KARACABEY (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/KARACABEY)
-* [İZNİK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/İZNİK)
-* [MUDANYA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/MUDANYA)
-* [HARMANCIK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/HARMANCIK)
-* [İNEGÖL (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/İNEGÖL)
 * [BURSA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/BURSA)
+* [BÜYÜK_ORHAN (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/BÜYÜK_ORHAN)
+* [GEMLİK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/GEMLİK)
+* [HARMANCIK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/HARMANCIK)
+* [KARACABEY (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/KARACABEY)
+* [KELES (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/KELES)
+* [MUDANYA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/MUDANYA)
+* [MUSTAFA_KEMALPAŞA (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/MUSTAFA_KEMALPAŞA)
+* [ORHANGAZİ (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/ORHANGAZİ)
+* [YENİŞEHİR (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/YENİŞEHİR)
+* [İNEGÖL (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/İNEGÖL)
+* [İZNİK (BURSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BURSA/İZNİK)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

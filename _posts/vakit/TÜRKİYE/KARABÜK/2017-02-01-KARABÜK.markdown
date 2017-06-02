@@ -8,10 +8,10 @@ permalink: /TÜRKİYE/KARABÜK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [YENİCE_(K) (KARABÜK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARABÜK/YENİCE_(K))
-* [KARABÜK (KARABÜK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARABÜK/KARABÜK)
 * [EFLANİ (KARABÜK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARABÜK/EFLANİ)
+* [KARABÜK (KARABÜK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARABÜK/KARABÜK)
 * [OVACIK_(K) (KARABÜK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARABÜK/OVACIK_(K))
+* [YENİCE_(K) (KARABÜK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARABÜK/YENİCE_(K))
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

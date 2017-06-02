@@ -8,8 +8,8 @@ permalink: /ABD/NEBRASKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [OMAHA (NEBRASKA, ABD) için iftar ve namaz vakitleri](/ABD/NEBRASKA/OMAHA)
 * [LINCOLN (NEBRASKA, ABD) için iftar ve namaz vakitleri](/ABD/NEBRASKA/LINCOLN)
+* [OMAHA (NEBRASKA, ABD) için iftar ve namaz vakitleri](/ABD/NEBRASKA/OMAHA)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

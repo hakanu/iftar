@@ -8,12 +8,12 @@ permalink: /ABD/ALASKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [NAKNEK (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/NAKNEK)
-* [KODIAK (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/KODIAK)
-* [JUNEAU (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/JUNEAU)
-* [SEWARD (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/SEWARD)
-* [CORDOVA (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/CORDOVA)
 * [ANCHORAGE (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/ANCHORAGE)
+* [CORDOVA (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/CORDOVA)
+* [JUNEAU (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/JUNEAU)
+* [KODIAK (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/KODIAK)
+* [NAKNEK (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/NAKNEK)
+* [SEWARD (ALASKA, ABD) için iftar ve namaz vakitleri](/ABD/ALASKA/SEWARD)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';

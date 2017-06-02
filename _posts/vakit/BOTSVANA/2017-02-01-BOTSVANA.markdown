@@ -8,10 +8,10 @@ permalink: /BOTSVANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [LOBATSE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/LOBATSE)
-* [SUNNYSIDE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SUNNYSIDE)
 * [GABORONE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/GABORONE)
 * [GHANZI (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/GHANZI)
-* [TSHANE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/TSHANE)
-* [SHAKAWE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SHAKAWE)
+* [LOBATSE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/LOBATSE)
 * [MAUN (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/MAUN)
+* [SHAKAWE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SHAKAWE)
+* [SUNNYSIDE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SUNNYSIDE)
+* [TSHANE (BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/TSHANE)

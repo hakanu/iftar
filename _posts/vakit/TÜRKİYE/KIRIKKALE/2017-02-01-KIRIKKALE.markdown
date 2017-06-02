@@ -8,12 +8,12 @@ permalink: /TÜRKİYE/KIRIKKALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SULAKYURT (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/SULAKYURT)
+* [BALISEYH (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/BALISEYH)
 * [CELEBI (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/CELEBI)
-* [KIRIKKALE (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/KIRIKKALE)
 * [DELICE (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/DELICE)
 * [KARAKECILI (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/KARAKECILI)
-* [BALISEYH (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/BALISEYH)
+* [KIRIKKALE (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/KIRIKKALE)
+* [SULAKYURT (KIRIKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KIRIKKALE/SULAKYURT)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'TÜRKİYE';

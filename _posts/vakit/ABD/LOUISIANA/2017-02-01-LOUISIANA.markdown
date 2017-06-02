@@ -8,8 +8,8 @@ permalink: /ABD/LOUISIANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [NEW_ORLEANS (LOUISIANA, ABD) için iftar ve namaz vakitleri](/ABD/LOUISIANA/NEW_ORLEANS)
 * [BATON_ROUGE (LOUISIANA, ABD) için iftar ve namaz vakitleri](/ABD/LOUISIANA/BATON_ROUGE)
+* [NEW_ORLEANS (LOUISIANA, ABD) için iftar ve namaz vakitleri](/ABD/LOUISIANA/NEW_ORLEANS)
 
 <script type="text/javascript">
   var GLOBAL_COUNTRY = 'ABD';
