@@ -8,8 +8,9 @@ title: İbrahim suresini meali ve videosu ile takip et, dinle ve oku, İbrahim d
   <div class="row">
     <div class="col-lg-12">
       <h1>İbrahim suresini oku, dinle, takip et, hatim</h1>
-      <div class="div-youtube-embed">
-        <iframe width="560" height="415" src="https://www.youtube.com/embed/q_tvaylBGEg ">frameborder="0" allowfullscreen></iframe>
+      <!--<div class="div-youtube-embed">-->
+      <div class="">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/q_tvaylBGEg">frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
   </div>

@@ -1,0 +1,13 @@
+<script type="text/rocketscript" data-rocketsrc="/js/instafeed.min.js"></script>
+<script type="text/rocketscript">
+	var userFeed = new Instafeed({
+			get: 'user',
+			userId: 34836469,
+			accessToken: '34836469.1c6ae78.7d196911ffbb4c85b89cacaa8b8c65c7',
+			template: '<li><a href="{{link}}" target="_blank"><img src="{{image}}" /></a></li>',
+			resolution: 'low_resolution',
+			limit: 6,
+			sortBy: 'random'
+	});
+	userFeed.run();
+</script>

@@ -15,8 +15,25 @@ var _DARK_SKY_API_LAT_LON_URL = 'https://api.darksky.net/forecast/a03645f9fff26b
 var _WEATHER_ICON_URL = '/img/ow/{icon_code}';
 
 var _FB_ROOT_URL = 'https://prayer-times-3d4fb.firebaseio.com/'
-var RAMAZAN_DATE_ = '2017-05-27';
-var RAMAZAN_LAST_DATE_ = '2017-06-25';
+var _RAMAZAN_DATES = {
+    '2017': {
+        'start': '2017-05-27',
+        'end': '2017-06-25'
+    },
+    '2018': {
+        'start': '2018-05-16',
+        'end': '2018-06-14'
+    },
+    '2019': {
+        'start': '2019-05-06',
+        'end': '2019-06-04'
+    },
+    '2020': {
+        'start': '2020-04-24',
+        'end': '2020-05-23'
+    }
+};
+
 
 jQuery( document ).ready(function( $ ) {
   console.log('  _[]    __   _                         _                    ');
@@ -66,27 +83,29 @@ jQuery( document ).ready(function( $ ) {
     }
   }
 
+  var currentYear = (new Date()).getFullYear();
+  console.log('Current year: ' + currentYear);
+
+  var currentRamazanItem = _RAMAZAN_DATES[currentYear];
+  var ramazanStartDaysLeft = parseInt(
+        (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
+  var ramazanEndDaysLeft = parseInt(
+        (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
+  console.log('Ramazan end days left: ' + ramazanEndDaysLeft);
+
   // If I can show ramazan days left, I show.
-  if ($('#span-ramazan-days-left').size() > 0) {
-    var ramazanDaysLeft = parseInt(
-        (new Date(RAMAZAN_DATE_) - new Date()) / 1000 / 3600 / 24);
-
+//  if ($('#span-ramazan-days-left').size() > 0) {
+  if (ramazanStartDaysLeft > 0) {
     // If ramazan has already started, it will be minus N.
-    if (ramazanDaysLeft < 0) {
-      ramazanDaysLeft = 0;
-      $('#span-ramazan-start-end-text').innerHTML = 'bitmesine';
-    }
-    $('#span-ramazan-days-left')[0].innerHTML = ramazanDaysLeft;
+    ramazanStartDaysLeft = 0;
+    $('#span-ramazan-start-end-text').innerHTML = 'başlamasına';
+    $('#span-ramazan-days-left').innerHTML = ramazanEndDaysLeft;
+  } else {
+    $('#span-ramazan-days-remaining')[0].innerHTML = ramazanEndDaysLeft;
+    $('#span-ramazan-start-end-text')[0].innerHTML = 'bitmesine';
   }
 
-  if ($('#span-ramazan-days-remaining').size() > 0) {
-    var ramazanDaysRemaining = parseInt(
-        (new Date(RAMAZAN_LAST_DATE_) - new Date()) / 1000 / 3600 / 24);
-    $('#span-ramazan-days-remaining')[0].innerHTML = ramazanDaysRemaining;
-    $('#span-ramazan-start-end-text')[0].innerHTML = 'başlamasına';
-  }
-
-  $('#span-ramazan-bitis')[0].innerHTML = RAMAZAN_LAST_DATE_;
+  $('#span-ramazan-bitis')[0].innerHTML = currentRamazanItem.end;
 
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
@@ -245,8 +264,8 @@ var belirliGunler = {
     "2016-10-11": {
         "content": "AŞURE GÜNÜ"
     },
-    "2016​​-12-1": {
-        "content": "MEVLİD KANDİLİ​"
+    "2016-12-1": {
+        "content": "MEVLİD KANDİLİ"
     }
 };
 
@@ -391,7 +410,7 @@ function getIftarTimeP(country, city, state) {
             response = response[i];
           }
         }
-      } 
+      }
       doStuffWithNamazVakitleri(response, state, city, country);
     } else {
       console.log("Bir hata oluştu.");
@@ -410,7 +429,7 @@ function getIftarTimeP(country, city, state) {
                 response = response[i];
               }
             }
-          } 
+          }
           doStuffWithNamazVakitleri(response, state, city, country);
         } else {
           console.log("Bir hata oluştu.");
@@ -714,7 +733,7 @@ function getWeatherByCityOW(countryCode, city) {
 function setWeatherDataOW(response) {
   for (var i in response) {
       var hava = response[i];
-      var rowsCode =( 
+      var rowsCode =(
           '<tr id="tr-vakit-0">' +
           '  <td id="p-tarih-0">{date}</td>' +
           '  <td id="p-sicaklik-0">{temp} &#8451;</td>' +
@@ -750,7 +769,7 @@ function setWeatherDataOW(response) {
 // function setWeatherDataDarkSky(response) {
 //   for (var i in response) {
 //       var hava = response[i];
-//       var rowsCode =( 
+//       var rowsCode =(
 //           '<tr id="tr-vakit-0">' +
 //           '  <td id="p-tarih-0">{date}</td>' +
 //           '  <td id="p-sicaklik-0">{temp} &#8451;</td>' +

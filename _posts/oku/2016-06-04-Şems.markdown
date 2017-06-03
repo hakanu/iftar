@@ -8,7 +8,8 @@ title: Şems suresini meali ve videosu ile takip et, dinle ve oku, Şems dinle, 
   <div class="row">
     <div class="col-lg-12">
       <h1>Şems suresini oku, dinle, takip et, hatim</h1>
-      <div class="div-youtube-embed">
+      <!--<div class="div-youtube-embed">-->
+      <div class="">
         <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
@@ -17,7 +18,7 @@ title: Şems suresini meali ve videosu ile takip et, dinle ve oku, Şems dinle, 
   <div class="row">
     <div class="col-lg-12">
       <h1>Şems suresinin mealini oku, dinle, takip et</h1>
-      <div><p></p><p></p><p>ŞEMS SURESİ (Resmi Mushaf : 91 / İniş Sırası : 26)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun Güneş’e ve ışığının parladığı kuşluk vaktine,</p><p></p><p></p><p>2. Onu izlediğinde Ay’a,</p><p></p><p></p><p>3. Onu iyice açtığı vakit gündüze,</p><p></p><p></p><p>4. Ve onu sarıp sarmaladığı zaman geceye.</p><p></p><p></p><p>5. Göğü ve onu kurana,</p><p></p><p></p><p>6. Yere ve onu döşeyene.</p><p></p><p></p><p>7. Nefse ve onu düzgün bir biçimde şekillendirene.</p><p></p><p></p><p>8. Ardından da ona bozukluğunu ve takvasını ilham edene andolsun ki,</p><p></p><p></p><p>9. Benliği temizleyip arındıran gerçekten kurtulmuştur.</p><p></p><p></p><p>10. Onu kirletip örtense kayba uğramıştır.</p><p></p><p></p><p>11. Semud kavmi, azgınlığı yüzünden yalanladı.</p><p></p><p></p><p>12. En haydutları ortaya fırladığı zaman,</p><p></p><p></p><p>13. Allah’ın elçisi onlara şöyle demişti: “Allah’ın devesini ve onun su içme hakkını koruyun.”</p><p></p><p></p><p>14. Fakat elçiye inanmadılar da deveyi boğazladılar. Bunun üzerine, Rableri onların günahlarını kendi başlarına geçirdi de o yurdu dümdüz etti.</p><p></p><p></p><p>15. Allah, işin sonundan korkacak değil ya!</p><p>  </p><p></p><p>  </p><p></p><p>  </p><p></p><p></p><p></p></div>
+      <div><p></p><p></p><p>ŞEMS SURESİ (Resmi Mushaf : 91 / İniş Sırası : 26)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun Güneş’e ve ışığının parladığı kuşluk vaktine,</p><p></p><p></p><p>2. Onu izlediğinde Ay’a,</p><p></p><p></p><p>3. Onu iyice açtığı vakit gündüze,</p><p></p><p></p><p>4. Ve onu sarıp sarmaladığı zaman geceye.</p><p></p><p></p><p>5. Göğü ve onu kurana,</p><p></p><p></p><p>6. Yere ve onu döşeyene.</p><p></p><p></p><p>7. Nefse ve onu düzgün bir biçimde şekillendirene.</p><p></p><p></p><p>8. Ardından da ona bozukluğunu ve takvasını ilham edene andolsun ki,</p><p></p><p></p><p>9. Benliği temizleyip arındıran gerçekten kurtulmuştur.</p><p></p><p></p><p>10. Onu kirletip örtense kayba uğramıştır.</p><p></p><p></p><p>11. Semud kavmi, azgınlığı yüzünden yalanladı.</p><p></p><p></p><p>12. En haydutları ortaya fırladığı zaman,</p><p></p><p></p><p>13. Allah’ın elçisi onlara şöyle demişti: “Allah’ın devesini ve onun su içme hakkını koruyun.”</p><p></p><p></p><p>14. Fakat elçiye inanmadılar da deveyi boğazladılar. Bunun üzerine, Rableri onların günahlarını kendi başlarına geçirdi de o yurdu dümdüz etti.</p><p></p><p></p><p>15. Allah, işin sonundan korkacak değil ya!</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></div>
     </div>
   </div>
 </div>

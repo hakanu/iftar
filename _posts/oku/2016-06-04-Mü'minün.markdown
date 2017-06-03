@@ -8,7 +8,8 @@ title: M체'min체n suresini meali ve videosu ile takip et, dinle ve oku, M체'min�
   <div class="row">
     <div class="col-lg-12">
       <h1>M체'min체n suresini oku, dinle, takip et, hatim</h1>
-      <div class="div-youtube-embed">
+      <!--<div class="div-youtube-embed">-->
+      <div class="">
         <iframe width="560" height="415" src="https://www.youtube.com/embed/e3lV7SBoisE">frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
