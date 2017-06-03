@@ -1,2 +1,4 @@
-Sitemap: http://iftarvakitleri.org/sitemaps.xml
+Sitemap: http://iftarvakitleri.org/sitemap.xml
+Sitemap: http://iftarvakitleri.org/sitemap_sureler.xml
+Sitemap: http://iftarvakitleri.org/sitemap_vakitler.xml
 User-agent: *
