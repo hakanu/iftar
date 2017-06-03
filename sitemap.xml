@@ -16,21 +16,6 @@
   </url>
 
   <url>
-    <loc>http://iftarvakitleri.org/services/services-2</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-
-  <url>
-    <loc>http://iftarvakitleri.org/services/services-1</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-
-  <url>
-    <loc>http://iftarvakitleri.org/about/</loc>
-    <changefreq>monthly</changefreq>
-  </url>
-
-  <url>
     <loc>http://iftarvakitleri.org/iftar</loc>
     <changefreq>monthly</changefreq>
   </url>
