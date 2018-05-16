@@ -406,7 +406,7 @@ function getIftarTimeP(country, city, state) {
       // If state is given search for it among the results.
       if (state != null) {
         for (var i=0; i < response.length; i++) {
-          if (response[i].state == state) {
+          if response[i].state && response[i].state == state) {
             response = response[i];
           }
         }
@@ -425,7 +425,7 @@ function getIftarTimeP(country, city, state) {
           // If state is given search for it among the results.
           if (state != null) {
             for (var i=0; i < response.length; i++) {
-              if (response[i].state == state) {
+              if (response[i].state && response[i].state == state) {
                 response = response[i];
               }
             }
