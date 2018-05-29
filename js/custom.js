@@ -377,6 +377,17 @@ function getIftarTimeP(country, city, state) {
   var dateStr = (d.getFullYear().toString().slice(2) + "-" + currentMonth + "-"
                  + currentDay);
   console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
+  
+  // New id based method.
+  console.log('ID: ' + city_names_to_diyanet_ids[city] + ' | ');
+  var url = _FB_ROOT_URL + '/new_iftar/' + city_names_to_diyanet_ids[city] + '.json';
+  console.log('fb url: ' + url);
+  fetch(url)
+    .then(function(response) { return response.json(); })
+    .then(function(json) {
+      console.log('json: ', json);
+  });  
+
   var xhr = new XMLHttpRequest();
 
   // This is Diyanet style - they count city as one of the state as well.
@@ -406,7 +417,7 @@ function getIftarTimeP(country, city, state) {
       // If state is given search for it among the results.
       if (state != null) {
         for (var i=0; i < response.length; i++) {
-          if response[i].state && response[i].state == state) {
+          if (response[i].state && response[i].state == state) {
             response = response[i];
           }
         }
