@@ -100,7 +100,19 @@ jQuery( document ).ready(function( $ ) {
     ramazanStartDaysLeft = 0;
     $('#span-ramazan-start-end-text').innerHTML = 'başlamasına';
     $('#span-ramazan-days-left').innerHTML = ramazanEndDaysLeft;
+  } else if (ramazanStartDaysLeft < -30) {
+    // Show next ramazan.
+    currentYear++;
+    currentRamazanItem = _RAMAZAN_DATES[currentYear];
+    var ramazanStartDaysLeft = parseInt(
+          (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
+    var ramazanEndDaysLeft = parseInt(
+          (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
+    console.log('next Ramazan end days left: ' + ramazanEndDaysLeft);
+    $('#span-ramazan-start-end-text').innerHTML = 'başlamasına';
+    $('#span-ramazan-days-left').innerHTML = ramazanEndDaysLeft;
   } else {
+    // Ramazan started.
     $('#span-ramazan-days-remaining')[0].innerHTML = ramazanEndDaysLeft;
     $('#span-ramazan-start-end-text')[0].innerHTML = 'bitmesine';
   }
@@ -386,71 +398,72 @@ function getIftarTimeP(country, city, state) {
     .then(function(response) { return response.json(); })
     .then(function(json) {
       console.log('json: ', json);
+      doStuffWithNamazVakitleri(json, state, city, country);
   });  
 
-  var xhr = new XMLHttpRequest();
+  // var xhr = new XMLHttpRequest();
 
-  // This is Diyanet style - they count city as one of the state as well.
-  // If no state is given, go with city.
-  if (state == null) {
-    state = city;
-  }
+  // // This is Diyanet style - they count city as one of the state as well.
+  // // If no state is given, go with city.
+  // if (state == null) {
+  //   state = city;
+  // }
 
-  var withStateUrl = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{state}/{date}.json'.supplant({
-      'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
-      'country': encodeURIComponent(country),
-      'city': encodeURIComponent(city),
-      'state': encodeURIComponent(state),
-  });
+  // var withStateUrl = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{state}/{date}.json'.supplant({
+  //     'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
+  //     'country': encodeURIComponent(country),
+  //     'city': encodeURIComponent(city),
+  //     'state': encodeURIComponent(state),
+  // });
 
-  var withoutStateUrl = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{date}.json'.supplant({
-      'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
-      'country': encodeURIComponent(country),
-      'city': encodeURIComponent(city),
-  });
+  // var withoutStateUrl = _FB_ROOT_URL + 'iftar/iftar/{country}/{city}/{date}.json'.supplant({
+  //     'date': String(d.getFullYear()) + "/" + currentMonth + "/", //+ currentDay,
+  //     'country': encodeURIComponent(country),
+  //     'city': encodeURIComponent(city),
+  // });
 
-  xhr.open("GET", withStateUrl, true);
-  xhr.onload = function() {
-    if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
-      var response = JSON.parse(xhr.responseText);
+  // xhr.open("GET", withStateUrl, true);
+  // xhr.onload = function() {
+  //   if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
+  //     var response = JSON.parse(xhr.responseText);
 
-      // If state is given search for it among the results.
-      if (state != null) {
-        for (var i=0; i < response.length; i++) {
-          if (response[i].state && response[i].state == state) {
-            response = response[i];
-          }
-        }
-      }
-      doStuffWithNamazVakitleri(response, state, city, country);
-    } else {
-      console.log("Bir hata oluştu.");
-      console.log("Fallback");
-      // Try without state, some cities have states some dont.
-      // IRELAND vs Turkey.
-      xhr.open("GET", withoutStateUrl, true);
-      xhr.onload = function() {
-        if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
-          var response = JSON.parse(xhr.responseText);
+  //     // If state is given search for it among the results.
+  //     if (state != null) {
+  //       for (var i=0; i < response.length; i++) {
+  //         if (response[i].state && response[i].state == state) {
+  //           response = response[i];
+  //         }
+  //       }
+  //     }
+  //     doStuffWithNamazVakitleri(response, state, city, country);
+  //   } else {
+  //     console.log("Bir hata oluştu.");
+  //     console.log("Fallback");
+  //     // Try without state, some cities have states some dont.
+  //     // IRELAND vs Turkey.
+  //     xhr.open("GET", withoutStateUrl, true);
+  //     xhr.onload = function() {
+  //       if (xhr.responseText && xhr.responseText.indexOf('aksam') > -1) {
+  //         var response = JSON.parse(xhr.responseText);
 
-          // If state is given search for it among the results.
-          if (state != null) {
-            for (var i=0; i < response.length; i++) {
-              if (response[i].state && response[i].state == state) {
-                response = response[i];
-              }
-            }
-          }
-          doStuffWithNamazVakitleri(response, state, city, country);
-        } else {
-          console.log("Bir hata oluştu.");
-          console.log("Fallback");
-        } // End of fallback mechanism
-      };
-      xhr.send();
-    } // End of fallback mechanism
-  };
-  xhr.send();
+  //         // If state is given search for it among the results.
+  //         if (state != null) {
+  //           for (var i=0; i < response.length; i++) {
+  //             if (response[i].state && response[i].state == state) {
+  //               response = response[i];
+  //             }
+  //           }
+  //         }
+  //         doStuffWithNamazVakitleri(response, state, city, country);
+  //       } else {
+  //         console.log("Bir hata oluştu.");
+  //         console.log("Fallback");
+  //       } // End of fallback mechanism
+  //     };
+  //     xhr.send();
+  //   } // End of fallback mechanism
+  // };
+  // xhr.send();
 }
 
 function getCurrentDay() {
@@ -464,8 +477,13 @@ function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   console.log('doStuffWithNamazVakitleri response: ');
   console.log(monthlyVakits);
 
-  var currentDay = getCurrentDay();
-  var todayNamazVakits = monthlyVakits[currentDay];
+  var dateobj= new Date() ;
+  var month = dateobj.getMonth() + 1;
+  var day = dateobj.getDate();
+  var year = dateobj.getFullYear();
+  var currentFlatDate = year + (month >= 10 ? month : '0' + month) + (day >= 10 ? day : '0' + day);
+  console.log('currentFlatDate', currentFlatDate);
+  var todayNamazVakits = monthlyVakits[currentFlatDate];
   console.log(todayNamazVakits);
 
   var imsak = todayNamazVakits.imsak;
