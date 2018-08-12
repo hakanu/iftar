@@ -8,6 +8,7 @@ var _PROXY_SERVER_URL = 'https://warm-citadel-93183.herokuapp.com/proxy/{url}';
 var _OPEN_WEATHER_API_KEY = 'd0985731af499fa7eab5fa9e2238550e';
 var _OPEN_WEATHER_API_LAT_LON_URL = 'http://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={api_key}&lang=tr&units=metric';
 var _OPEN_WEATHER_API_CITY_URL = 'http://api.openweathermap.org/data/2.5/forecast?q={city},{country_code}&mode=json&appid={api_key}&lang=tr&units=metric';
+var _OPEN_WEATHER_API_CITY_ONLY_URL = 'http://api.openweathermap.org/data/2.5/forecast?q={city}&mode=json&appid={api_key}&lang=tr&units=metric';
 var _OPEN_WEATHER_ICON_URL = 'http://openweathermap.org/img/w/{icon_code}.png';
 
 var _DARK_SKY_API_KEY = 'a03645f9fff26b6189d43c83992211df';
@@ -45,6 +46,30 @@ jQuery( document ).ready(function( $ ) {
   var currentUrl = window.location.href;
   var hicriTarih = getHicriDate();
 
+  // Auto complete stuff.
+  $( "#location-ids" ).autocomplete({
+    source: function(request, response) {
+        var filteredArray = $.map(Object.keys(city_names_to_diyanet_ids), function(item) {
+            if( item.startsWith(request.term.toUpperCase())){
+                return item;
+            }
+            else{
+                return null;
+            }
+        });
+        response(filteredArray);
+    },
+    select: function(event, ui) {
+        if(ui.item){
+          console.log('Selected location: ', ui.item.value);
+          var id = city_names_to_diyanet_ids[ui.item.value];
+          createCookie('locationId', id, 6000);
+          createCookie('locationName', ui.item.value, 6000);
+          location.reload();
+        }
+    }
+  });
+
   // If it's home page.
   if(currentUrl.indexOf('/iftar/') == -1 &&
      currentUrl.indexOf('/iftar.html') == -1 &&
@@ -53,9 +78,21 @@ jQuery( document ).ready(function( $ ) {
      GLOBAL_COUNTRY == null && GLOBAL_CITY == null) {
     $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
+
+    // Check if location had been chosen before.
+    var locationId = readCookie('locationId');
+    var locationName = readCookie('locationName');
+    console.log('Location from cookies: ', locationId, locationName);
+
     setHicriTarih(hicriTarih);
     showTodayBelirliGun();
-    getLocation();
+
+    if (locationId && locationName) {
+      getIftarTimeFromId(locationId, locationName);
+      getWeatherByCityOW(null, locationName);
+    } else {
+      getLocation();
+    }
   } else {
     // If it's not home page but location is coming from GET.
     console.log('not getting the location because url is ' + currentUrl);
@@ -328,7 +365,6 @@ function createCORSRequest(method, url) {
   } else {
     // Otherwise, CORS is not supported by the browser.
     xhr = null;
-
   }
   return xhr;
 }
@@ -380,6 +416,20 @@ function showPosition(position) {
   getWeatherByLatLonOW(lat, lon);
   //getWeatherByLatLonDarkSky(lat, lon);
 }
+
+function getIftarTimeFromId(locationId, locationName) {
+  // New id based method.
+  console.log('getIftarTimeFromId ID: ' + locationId + ' | ');
+  var url = _FB_ROOT_URL + '/new_iftar/' + locationId + '.json';
+  console.log('fb url: ' + url);
+  fetch(url)
+    .then(function(response) { return response.json(); })
+    .then(function(json) {
+      console.log('json: ', json);
+      doStuffWithNamazVakitleri(json, '', locationName, '');
+  });  
+}
+
 
 function getIftarTimeP(country, city, state) {
   var d = new Date();
@@ -614,8 +664,8 @@ function setIftarTitle(country, city, state) {
       + 'iftar 2015, ramazan, uluslararası namaz ve iftar zamanları.');
 
   $('.subtitle')[0].innerHTML = (
-      city.capitalize() + ' (' + country.capitalize() +
-      ') için kalan süre');
+      city.capitalize() + ' ' + country.capitalize() +
+      ' için kalan süre');
   if (state != null) {
     $('.subtitle')[0].innerHTML = state + $('.subtitle')[0].innerHTML;
   }
@@ -663,8 +713,7 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
     $('#description').text($('#description').text().replace('sahur', 'iftar'));
     $('#tagline').text($('#tagline').text().replace('sahur', 'iftar'));
     $('.subtitle')[0].innerHTML = (
-        city + ' (' + country +
-        ') için iftara kalan süre');
+        city + ' ' + country + ' için iftara kalan süre');
     if (state != null) {
       $('.subtitle')[0].innerHTML = state + ', ' + $('.subtitle')[0].innerHTML;
     }
@@ -676,7 +725,7 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
         city.capitalize() + ' (' + country.capitalize() +
         ') için sahura kalan süre');
     if (state != null) {
-      $('.subtitle')[0].innerHTML = state + ', ' + $('.subtitle')[0].innerHTML;
+      $('.subtitle')[0].innerHTML = state + ' ' + $('.subtitle')[0].innerHTML;
     }
   }
 
@@ -745,12 +794,23 @@ function getWeatherByLatLonOW(lat, lon) {
 
 function getWeatherByCityOW(countryCode, city) {
   var xhr = new XMLHttpRequest();
-  var weatherUrl = _PROXY_SERVER_URL.supplant({
-      'url': encodeURIComponent(_OPEN_WEATHER_API_CITY_URL.supplant({
-          'country_code': countryCode,
-          'city': city,
-          'api_key': _OPEN_WEATHER_API_KEY}))
-  });
+  var weatherUrl = '';
+
+  if (!countryCode) {
+    weatherUrl = _PROXY_SERVER_URL.supplant({
+        'url': encodeURIComponent(_OPEN_WEATHER_API_CITY_ONLY_URL.supplant({
+            'city': city,
+            'api_key': _OPEN_WEATHER_API_KEY}))
+    });
+  } else {
+    var weatherUrl = _PROXY_SERVER_URL.supplant({
+        'url': encodeURIComponent(_OPEN_WEATHER_API_CITY_URL.supplant({
+            'country_code': countryCode,
+            'city': city,
+            'api_key': _OPEN_WEATHER_API_KEY}))
+    });
+  }
+
   xhr.open("GET", weatherUrl, true);
   xhr.onload = function() {
     var response = JSON.parse(xhr.responseText).list;
@@ -779,6 +839,32 @@ function setWeatherDataOW(response) {
           });
       $('#table-hava-durumu').append(rowsCode);
     }
+}
+
+function createCookie(name, value, days) {
+    var expires;
+
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        expires = "; expires=" + date.toGMTString();
+    } else {
+        expires = "";
+    }
+    document.cookie = encodeURIComponent(name) + "=" + encodeURIComponent(value) + expires + "; path=/";
+}
+
+function readCookie(name) {
+    var nameEQ = encodeURIComponent(name) + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) === ' ')
+            c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) === 0)
+            return decodeURIComponent(c.substring(nameEQ.length, c.length));
+    }
+    return null;
 }
 
 // Using Dark sky net's API.
@@ -816,3 +902,4 @@ function setWeatherDataOW(response) {
 //       $('#table-hava-durumu').append(rowsCode);
 //     }
 // }
+
