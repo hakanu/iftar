@@ -65,6 +65,9 @@ jQuery( document ).ready(function( $ ) {
           var id = city_names_to_diyanet_ids[ui.item.value];
           createCookie('locationId', id, 6000);
           createCookie('locationName', ui.item.value, 6000);
+          localStorage.setItem('locationId', id);
+          localStorage.setItem('locationName', ui.item.value);
+
           location.reload();
         }
     }
@@ -80,8 +83,8 @@ jQuery( document ).ready(function( $ ) {
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
 
     // Check if location had been chosen before.
-    var locationId = readCookie('locationId');
-    var locationName = readCookie('locationName');
+    var locationId = localStorage.getItem('locationId') || readCookie('locationId');
+    var locationName = localStorage.getItem('locationName') || readCookie('locationName');
     console.log('Location from cookies: ', locationId, locationName);
 
     setHicriTarih(hicriTarih);
@@ -400,15 +403,23 @@ function showPosition(position) {
   xhr.onload = function() {
     console.log(xhr.responseText);
     var response = JSON.parse(xhr.responseText);
-    console.log(response);
-    console.log(response.query);
+    // console.log(response);
+    // console.log(response.query);
     var city = response.query.results.ResultSet.Result.city.diyanetify();
     var country = response.query.results.ResultSet.Result.country.diyanetify();
     var state = null;
     console.log('city: ' + city);
     console.log('country: ' + country);
     setIftarTitle(country, city, state);
-    setWeatherTitle(country, city)
+    setWeatherTitle(country, city);
+
+    // Overwrite the cookie and local storage.
+    console.log('Setting the cookies');
+    createCookie('locationId', id, 6000);
+    createCookie('locationName', (state || city), 6000);
+    localStorage.setItem('locationId', city_names_to_diyanet_ids[(state || city)]);
+    localStorage.setItem('locationName', (state || city));
+
     getIftarTimeP(country, city, state);
   };
   xhr.send();
@@ -429,7 +440,6 @@ function getIftarTimeFromId(locationId, locationName) {
       doStuffWithNamazVakitleri(json, '', locationName, '');
   });  
 }
-
 
 function getIftarTimeP(country, city, state) {
   var d = new Date();
@@ -590,9 +600,8 @@ function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   }
 
   console.log('Setting timer now...');
-  //setTimerForVakit(targetHours, targetMinutes, state, city, country, targetTitle);
-  setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
-           state, city, country);
+  setTimerForVakit(targetHours, targetMinutes, state, city, country, targetTitle);
+  // setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, state, city, country);
   setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi, monthlyVakits);
 }
 
@@ -715,15 +724,14 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
     $('.subtitle')[0].innerHTML = (
         city + ' ' + country + ' için iftara kalan süre');
     if (state != null) {
-      $('.subtitle')[0].innerHTML = state + ', ' + $('.subtitle')[0].innerHTML;
+      $('.subtitle')[0].innerHTML = state + ' ' + $('.subtitle')[0].innerHTML;
     }
   } else {
     clock.setTime(sahurRemainingMs / 1000);
     $('#description').text($('#description').text().replace('iftar', 'sahur'));
     $('#tagline').text($('#tagline').text().replace('iftar', 'sahur'));
     $('.subtitle')[0].innerHTML = (
-        city.capitalize() + ' (' + country.capitalize() +
-        ') için sahura kalan süre');
+        city.capitalize() + ' ' + country.capitalize() + ' için sahura kalan süre');
     if (state != null) {
       $('.subtitle')[0].innerHTML = state + ' ' + $('.subtitle')[0].innerHTML;
     }
@@ -761,15 +769,13 @@ function setTimerForVakit(
     $('#description').text($('#description').text().replace('sahur', targetTitle));
     $('#tagline').text($('#tagline').text().replace('sahur', targetTitle));
     $('.subtitle')[0].innerHTML = (
-        city + ' (' + country +
-        ') için ' + targetTitle + '\'a kalan süre');
+        city + ' ' + country + ' için ' + targetTitle + '\'a kalan süre');
   } else {
     clock.setTime(sahurRemainingMs / 1000);
     $('#description').text($('#description').text().replace('iftar', targetTitle));
     $('#tagline').text($('#tagline').text().replace('iftar', targetTitle));
     $('.subtitle')[0].innerHTML = (
-        city.capitalize() + ' (' + country.capitalize() +
-        ') için ' + targetTitle + '\'a kalan süre');
+        city.capitalize() + ' ' + country.capitalize() + ' için ' + targetTitle + '\'a kalan süre');
   }
 
   clock.start();
