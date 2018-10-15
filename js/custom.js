@@ -541,7 +541,7 @@ function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   var month = dateobj.getMonth() + 1;
   var day = dateobj.getDate();
   var year = dateobj.getFullYear();
-  var currentFlatDate = year + (month >= 10 ? month : '0' + month) + (day >= 10 ? day : '0' + day);
+  var currentFlatDate = year + '' + (month >= 10 ? month : '0' + month) + (day >= 10 ? day : '0' + day);
   console.log('currentFlatDate', currentFlatDate);
   var todayNamazVakits = monthlyVakits[currentFlatDate];
   console.log(todayNamazVakits);
