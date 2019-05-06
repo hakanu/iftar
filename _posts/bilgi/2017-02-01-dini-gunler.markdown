@@ -8,135 +8,7 @@ category: bilgi
 <div class="row"></div>
 
 <div class="container">
-  <div align="center">
-    <h1>2017 Dini Günler ve Resmi Tatil Günleri</h1>
-    <table class="table table-striped">
-      <thead>
-        <tr>
-          <th><b>TATİL GÜNÜNÜN İSMİ</b></th>
-          <th><b>SÜRE</b></th>
-          <th><b>AY</b></th>
-          <th><b>GÜN</b></th>
-        </tr>
-      </thead>
-
-      <tbody>
-
-        <tr>
-        <td>YILBAŞI</td>
-        <td>1. GÜN</td>
-        <td>01 OCAK</td>
-        <td>PAZAR</td>
-        </tr>
-
-        <tr>
-        <td>ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi</td>
-        <td>1 GÜN</td>
-        <td>23 NİSAN</td>
-        <td>PAZAR</td>
-        </tr>
-
-        <tr>
-        <td>EMEK VE DAYANiŞMA GÜNÜ*</td>
-        <td>1 GÜN</td>
-        <td>01 MAYiS</td>
-        <td>PAZARTESİ</td>
-        </tr>
-
-        <tr>
-        <td>ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi</td>
-        <td>1 GÜN</td>
-        <td>19 MAYiS</td>
-        <td>CUMA</td>
-        </tr>
-
-        <tr>
-        <td>RAMAZAN BAYRAMi AREFESi</td>
-        <td>1/2 GÜN</td>
-        <td>24 HAZİRAN</td>
-        <td>CUMARTESİ</td>
-        </tr>
-
-        <tr>
-        <td>RAMAZAN BAYRAMi</td>
-        <td>1. GÜN</td>
-        <td>25 HAZİRAN</td>
-        <td>PAZAR</td>
-        </tr>
-
-        <tr>
-        <td>RAMAZAN BAYRAMi</td>
-        <td>2. GÜN</td>
-        <td>26 HAZİRAN</td>
-        <td>PAZARTESİ</td>
-        </tr>
-
-        <tr>
-        <td>RAMAZAN BAYRAMi</td>
-        <td>3. GÜN</td>
-        <td>27 HAZİRAN</td>
-        <td>SALi</td>
-        </tr>
-
-        <tr>
-        <td>ZAFER BAYRAMi</td>
-        <td>1 GÜN</td>
-        <td>30 AĞUSTOS</td>
-        <td>ÇARŞAMBA</td>
-        </tr>
-
-        <tr>
-        <td>KURBAN BAYRAMi AREFESi</td>
-        <td>1/2 GÜN</td>
-        <td>31 AĞUSTOS</td>
-        <td>PERŞEMBE</td>
-        </tr>
-
-        <tr>
-        <td>KURBAN BAYRAMi</td>
-        <td>1. GÜN</td>
-        <td>01 EYLÜL</td>
-        <td>CUMA</td>
-        </tr>
-
-        <tr>
-        <td>KURBAN BAYRAMi</td>
-        <td>2. GÜN</td>
-        <td>02 EYLÜL</td>
-        <td>
-        CUMARTESİ
-        </div></td>
-        </tr>
-
-        <tr>
-        <td>KURBAN BAYRAMi</td>
-        <td>3. GÜN</td>
-        <td>03 EYLÜL</td>
-        <td>PAZAR</td>
-        </tr>
-
-        <tr>
-        <td>KURBAN BAYRAMi</td>
-        <td>4. GÜN</td>
-        <td>04 EYLÜL</td>
-        <td>PAZARTESİ</td>
-        </tr>
-
-        <tr>
-        <td>CUMHURİYET BAYRAMi</td>
-        <td>1,5 GÜN</td>
-        <td>28 EKİM
-        29 EKİM</td>
-        <td>CUMARTESİ
-        PAZAR</td>
-        </tr>
-
-      </tbody>
-    </table>
-  </div>
-
   <hr>
-
   <div align="center">
     <h1>2018 yılı resmi tatil günleri</h1>
     <table class="table table-striped">
@@ -885,5 +757,132 @@ category: bilgi
   </div> <!-- /col-lg-8 -->
 
   <hr>
+
+  <div align="center">
+    <h1>2017 Dini Günler ve Resmi Tatil Günleri</h1>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th><b>TATİL GÜNÜNÜN İSMİ</b></th>
+          <th><b>SÜRE</b></th>
+          <th><b>AY</b></th>
+          <th><b>GÜN</b></th>
+        </tr>
+      </thead>
+
+      <tbody>
+
+        <tr>
+        <td>YILBAŞI</td>
+        <td>1. GÜN</td>
+        <td>01 OCAK</td>
+        <td>PAZAR</td>
+        </tr>
+
+        <tr>
+        <td>ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi</td>
+        <td>1 GÜN</td>
+        <td>23 NİSAN</td>
+        <td>PAZAR</td>
+        </tr>
+
+        <tr>
+        <td>EMEK VE DAYANiŞMA GÜNÜ*</td>
+        <td>1 GÜN</td>
+        <td>01 MAYiS</td>
+        <td>PAZARTESİ</td>
+        </tr>
+
+        <tr>
+        <td>ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi</td>
+        <td>1 GÜN</td>
+        <td>19 MAYiS</td>
+        <td>CUMA</td>
+        </tr>
+
+        <tr>
+        <td>RAMAZAN BAYRAMi AREFESi</td>
+        <td>1/2 GÜN</td>
+        <td>24 HAZİRAN</td>
+        <td>CUMARTESİ</td>
+        </tr>
+
+        <tr>
+        <td>RAMAZAN BAYRAMi</td>
+        <td>1. GÜN</td>
+        <td>25 HAZİRAN</td>
+        <td>PAZAR</td>
+        </tr>
+
+        <tr>
+        <td>RAMAZAN BAYRAMi</td>
+        <td>2. GÜN</td>
+        <td>26 HAZİRAN</td>
+        <td>PAZARTESİ</td>
+        </tr>
+
+        <tr>
+        <td>RAMAZAN BAYRAMi</td>
+        <td>3. GÜN</td>
+        <td>27 HAZİRAN</td>
+        <td>SALi</td>
+        </tr>
+
+        <tr>
+        <td>ZAFER BAYRAMi</td>
+        <td>1 GÜN</td>
+        <td>30 AĞUSTOS</td>
+        <td>ÇARŞAMBA</td>
+        </tr>
+
+        <tr>
+        <td>KURBAN BAYRAMi AREFESi</td>
+        <td>1/2 GÜN</td>
+        <td>31 AĞUSTOS</td>
+        <td>PERŞEMBE</td>
+        </tr>
+
+        <tr>
+        <td>KURBAN BAYRAMi</td>
+        <td>1. GÜN</td>
+        <td>01 EYLÜL</td>
+        <td>CUMA</td>
+        </tr>
+
+        <tr>
+        <td>KURBAN BAYRAMi</td>
+        <td>2. GÜN</td>
+        <td>02 EYLÜL</td>
+        <td>
+        CUMARTESİ
+        </div></td>
+        </tr>
+
+        <tr>
+        <td>KURBAN BAYRAMi</td>
+        <td>3. GÜN</td>
+        <td>03 EYLÜL</td>
+        <td>PAZAR</td>
+        </tr>
+
+        <tr>
+        <td>KURBAN BAYRAMi</td>
+        <td>4. GÜN</td>
+        <td>04 EYLÜL</td>
+        <td>PAZARTESİ</td>
+        </tr>
+
+        <tr>
+        <td>CUMHURİYET BAYRAMi</td>
+        <td>1,5 GÜN</td>
+        <td>28 EKİM
+        29 EKİM</td>
+        <td>CUMARTESİ
+        PAZAR</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
 
 </div>
