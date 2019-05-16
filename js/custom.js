@@ -46,6 +46,8 @@ jQuery( document ).ready(function( $ ) {
   var currentUrl = window.location.href;
   var hicriTarih = getHicriDate();
 
+  console.log(city_names_to_diyanet_ids);
+
   // Auto complete stuff.
   $( "#location-ids" ).autocomplete({
     source: function(request, response) {
@@ -106,6 +108,8 @@ jQuery( document ).ready(function( $ ) {
       setIftarTitle(params['ulke'], params['sehir'], params['state']);
       setWeatherTitle(params['ulke'], params['sehir'])
       setHicriTarih(hicriTarih);
+      window.location.href = (
+          '/' + params['ulke'] + '/' + params['sehir'] + '/' + params['state'])
       var city = params['sehir'];
       var country = params['ulke'];
       var state = params['state'];
@@ -116,7 +120,7 @@ jQuery( document ).ready(function( $ ) {
       setIftarTitle(GLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
       setWeatherTitle(GLOBAL_COUNTRY, GLOBAL_CITY)
       setHicriTarih(hicriTarih);
-      getIftarTimeP(GLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
+      getiftartimep(gLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
       getWeatherByCityOW(GLOBAL_COUNTRY, GLOBAL_CITY);
     } else {
       console.log('Wrong url params');
@@ -420,7 +424,10 @@ function showPosition(position) {
     localStorage.setItem('locationId', city_names_to_diyanet_ids[(state || city)]);
     localStorage.setItem('locationName', (state || city));
 
-    getIftarTimeP(country, city, state);
+
+    window.location.href = (
+          '/' + params['ulke'] + '/' + params['sehir'] + '/' + params['state'])
+    // getIftarTimeP(country, city, state);
   };
   xhr.send();
 
@@ -574,7 +581,7 @@ function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
 
   targetHours = parseInt(aksam.split(':')[0]);
   targetMinutes = parseInt(aksam.split(':')[1]);
-  targetTitle = 'Akşam';
+  targetTitle = 'İftar';
 
   // if (imsakSeconds > currentSeconds) {
   //   targetHours = parseInt(imsak.split(':')[0]);
@@ -631,23 +638,44 @@ function getValues(objects) {
   return values;
 }
 
-function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi, monthlyVakits) {
-  $('#p-imsak')[0].innerHTML = imsak;
-  $('#p-gunes')[0].innerHTML = gunes;
-  $('#p-ogle')[0].innerHTML = ogle;
-  $('#p-ikindi')[0].innerHTML = ikindi;
-  $('#p-aksam')[0].innerHTML = aksam;
-  $('#p-yatsi')[0].innerHTML = yatsi;
+Date.prototype.yyyymmdd = function() {
+  var mm = this.getMonth() + 1; // getMonth() is zero-based
+  var dd = this.getDate();
 
-  monthlyVakits = getValues(monthlyVakits);
-  monthlyVakits.sort(function compare(a, b) {
-    if (a.date < b.date) {
-      return -1;
-    } else if (a.date > b.date) {
-      return 1;
+  return [this.getFullYear(),
+          (mm>9 ? '' : '0') + mm,
+          (dd>9 ? '' : '0') + dd
+         ].join('');
+};
+
+function setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi, monthlyVakits) {
+  $('#p-imsak')[0].innerHTML = '<b>' + imsak + '</b>';
+  $('#p-gunes')[0].innerHTML = '<b>' + gunes+ '</b>';
+  $('#p-ogle')[0].innerHTML = '<b>' + ogle+ '</b>';
+  $('#p-ikindi')[0].innerHTML = '<b>' + ikindi+ '</b>';
+  $('#p-aksam')[0].innerHTML = '<b>' + aksam+ '</b>';
+  $('#p-yatsi')[0].innerHTML = '<b>' + yatsi+ '</b>';
+
+  var refinedMonthlyVakits = []
+  var date = new Date();
+  for (var keyDate in monthlyVakits) {
+    if (keyDate > date.yyyymmdd()) {
+      refinedMonthlyVakits.push(monthlyVakits[keyDate]);
     }
-    return 0;
-  });
+  }
+
+  monthlyVakits = getValues(refinedMonthlyVakits);
+  // monthlyVakits.sort(function compare(a, b) {
+  //   if (a.date < b.date) {
+  //     return -1;
+  //   } else if (a.date > b.date) {
+  //     return 1;
+  //   }
+  //   return 0;
+  // });
+
+  console.log('Unsorted hope this is good')
+  console.log(monthlyVakits);
 
   var counter = 1;
   for (var i in monthlyVakits) {
