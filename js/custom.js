@@ -1,5 +1,5 @@
-// var console = {};
-// console.log = function(){};
+ var console = {};
+ console.log = function(){};
 
 var clock = $('.your-clock').FlipClock({
   countdown: true,
