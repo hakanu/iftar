@@ -6,1720 +6,187 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 May 2019 04:43:49 +0100</pubDate>
-    <lastBuildDate>Sun, 19 May 2019 04:43:49 +0100</lastBuildDate>
+    <pubDate>Sun, 19 May 2019 14:32:08 +0100</pubDate>
+    <lastBuildDate>Sun, 19 May 2019 14:32:08 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>ADANA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
         <description>&lt;script type=&quot;text/javascript&quot;&gt;
   var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ADANA';
-  var GLOBAL_STATE = 'ADANA';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'ŞİLE';
   var lat = 72;
   var lon = 21;
 &lt;/script&gt;
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/ADANA/ADANA</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/ADANA/ADANA</guid>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/ŞİLE</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/ŞİLE</guid>
         
         
       </item>
     
       <item>
-        <title>ADANA, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
-        <description>&lt;h2 id=&quot;adana-tÜrkİye-için-iftar-namaz-vakitleri-ve-hava-durumu--görmek-için-bir-ilçeeyalet-seç&quot;&gt;ADANA (TÜRKİYE) için iftar, namaz vakitleri ve hava durumu  görmek için bir ilçe/eyalet seç&lt;/h2&gt;
-
-&lt;p&gt;Aşağıdaki listeden bir şehir ya da semt seçin&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/ADANA&quot;&gt;ADANA (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/ALADAĞ&quot;&gt;ALADAĞ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/CEYHAN&quot;&gt;CEYHAN (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/FEKE&quot;&gt;FEKE (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/KARAISALI&quot;&gt;KARAISALI (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/KARATAŞ&quot;&gt;KARATAŞ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/KOZAN&quot;&gt;KOZAN (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/POZANTI&quot;&gt;POZANTI (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/SAİMBEYLİ&quot;&gt;SAİMBEYLİ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/TUFANBEYLİ&quot;&gt;TUFANBEYLİ (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/YUMURTALIK&quot;&gt;YUMURTALIK (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA/İMAMOĞLU&quot;&gt;İMAMOĞLU (ADANA, TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script type=&quot;text/javascript&quot;&gt;
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
   var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ADANA';
-  var GLOBAL_STATE = 'ADANA';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'İSTANBUL';
+  var lat = 72;
+  var lon = 21;
 &lt;/script&gt;
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/ADANA</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/ADANA</guid>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/İSTANBUL</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/İSTANBUL</guid>
         
         
       </item>
     
       <item>
-        <title>TÜRKİYE için iftar, namaz vakitleri ve hava durumu - il/eyalet seç</title>
-        <description>&lt;h2 id=&quot;tÜrkİye-için-iftar-namaz-vakitleri-ve-hava-durumu--görmek-için-bir-ileyalet-seç&quot;&gt;TÜRKİYE için iftar, namaz vakitleri ve hava durumu  görmek için bir il/eyalet seç&lt;/h2&gt;
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'ÇEKMEKÖY';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
 
-&lt;p&gt;Aşağıdaki listeden bir şehir ya da semt seçin&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADANA&quot;&gt;ADANA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ADIYAMAN&quot;&gt;ADIYAMAN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/AFYON&quot;&gt;AFYON (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/AKSARAY&quot;&gt;AKSARAY (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/AMASYA&quot;&gt;AMASYA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ANKARA&quot;&gt;ANKARA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ANTALYA&quot;&gt;ANTALYA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ARDAHAN&quot;&gt;ARDAHAN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ARTVİN&quot;&gt;ARTVİN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/AYDIN&quot;&gt;AYDIN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/AĞRI&quot;&gt;AĞRI (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BALIKESİR&quot;&gt;BALIKESİR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BARTIN&quot;&gt;BARTIN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BATMAN&quot;&gt;BATMAN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BAYBURT&quot;&gt;BAYBURT (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BOLU&quot;&gt;BOLU (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BURDUR&quot;&gt;BURDUR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BURSA&quot;&gt;BURSA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BİLECİK&quot;&gt;BİLECİK (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BİNGÖL&quot;&gt;BİNGÖL (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/BİTLİS&quot;&gt;BİTLİS (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/DENİZLİ&quot;&gt;DENİZLİ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/DÜZCE&quot;&gt;DÜZCE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/DİYARBAKIR&quot;&gt;DİYARBAKIR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/EDİRNE&quot;&gt;EDİRNE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ELAZIĞ&quot;&gt;ELAZIĞ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ERZURUM&quot;&gt;ERZURUM (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ERZİNCAN&quot;&gt;ERZİNCAN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ESKİŞEHİR&quot;&gt;ESKİŞEHİR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/GAZİANTEP&quot;&gt;GAZİANTEP (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/GÜMÜŞHANE&quot;&gt;GÜMÜŞHANE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/GİRESUN&quot;&gt;GİRESUN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/HAKKARİ&quot;&gt;HAKKARİ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/HATAY&quot;&gt;HATAY (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ISPARTA&quot;&gt;ISPARTA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/IĞDIR&quot;&gt;IĞDIR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KAHRAMANMARAŞ&quot;&gt;KAHRAMANMARAŞ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KARABÜK&quot;&gt;KARABÜK (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KARAMAN&quot;&gt;KARAMAN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KARS&quot;&gt;KARS (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KASTAMONU&quot;&gt;KASTAMONU (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KAYSERİ&quot;&gt;KAYSERİ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KIRIKKALE&quot;&gt;KIRIKKALE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KIRKLARELI&quot;&gt;KIRKLARELI (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KIRSEHIR&quot;&gt;KIRSEHIR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KOCAELİ&quot;&gt;KOCAELİ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KONYA&quot;&gt;KONYA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KÜTAHYA&quot;&gt;KÜTAHYA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/KİLİS&quot;&gt;KİLİS (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/MALATYA&quot;&gt;MALATYA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/MANİSA&quot;&gt;MANİSA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/MARDİN&quot;&gt;MARDİN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/MERSİN&quot;&gt;MERSİN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/MUĞLA&quot;&gt;MUĞLA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/MUŞ&quot;&gt;MUŞ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/NEVŞEHİR&quot;&gt;NEVŞEHİR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/NİĞDE&quot;&gt;NİĞDE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ORDU&quot;&gt;ORDU (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/OSMANİYE&quot;&gt;OSMANİYE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/RİZE&quot;&gt;RİZE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/SAKARYA&quot;&gt;SAKARYA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/SAMSUN&quot;&gt;SAMSUN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/SİNOP&quot;&gt;SİNOP (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/SİVAS&quot;&gt;SİVAS (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/SİİRT&quot;&gt;SİİRT (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/TEKİRDAĞ&quot;&gt;TEKİRDAĞ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/TOKAT&quot;&gt;TOKAT (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/TRABZON&quot;&gt;TRABZON (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/TUNCELİ&quot;&gt;TUNCELİ (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/UŞAK&quot;&gt;UŞAK (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/VAN&quot;&gt;VAN (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/YALOVA&quot;&gt;YALOVA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/YOZGAT&quot;&gt;YOZGAT (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ZONGULDAK&quot;&gt;ZONGULDAK (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ÇANAKKALE&quot;&gt;ÇANAKKALE (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ÇANKIRI&quot;&gt;ÇANKIRI (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ÇORUM&quot;&gt;ÇORUM (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/İSTANBUL&quot;&gt;İSTANBUL (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/İZMİR&quot;&gt;İZMİR (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ŞANLIURFA&quot;&gt;ŞANLIURFA (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE/ŞIRNAK&quot;&gt;ŞIRNAK (TÜRKİYE) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE</guid>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/ÇEKMEKÖY</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/ÇEKMEKÖY</guid>
         
         
       </item>
     
       <item>
-        <title>Kullancı Sözleşmesi ve Gizlilik</title>
-        <description>&lt;h2 id=&quot;gizlilik-sözleşmesi&quot;&gt;Gizlilik sözleşmesi&lt;/h2&gt;
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'ÇATALCA';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Gizlilik için elimizden geleni yapacağız.&lt;/li&gt;
-  &lt;li&gt;Şifreler kriptoplu olarak hashlenmiş halde saklanmaktadır.&lt;/li&gt;
-  &lt;li&gt;Bilgileriniz hiç bir üçüncü partiyle ticari olarak paylaşılmayacaktır&lt;/li&gt;
-  &lt;li&gt;Bilgileriniz anonim olarak analiz edilip istatistiki veriler çıkarılabilir&lt;/li&gt;
-  &lt;li&gt;iftarvakitleri.org bu anlaşmada değişiklik yapma hakkını haklı tutar. O yüzden düzenli olarak okunması gerekir.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sorumluluk-reddi&quot;&gt;Sorumluluk Reddi:&lt;/h2&gt;
-
-&lt;p&gt;Namaz ve iftar vakitlerinde Diyanet takvimi’ni baz almaktadır ve diğer takvimlere göre birkaç dakikalık sapmalar mevcut olabilir. Bulunulan bölgeye göre bu sapmalar artabilir ya da azalabilir. Dilerseniz Diyanet İşleri’nin sitesini de kullanabilirsiniz. Bu siteyi bu sorumluluğu bilerek kullanmanız önerilir. Sapmalardan dolayı oluşabilecek maddi ve manevi zarardan bu site ve yönetimi mesul sayılamaz.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/meta/gizlilik-sozlesmesi</link>
-        <guid isPermaLink="true">http://localhost:4000/meta/gizlilik-sozlesmesi</guid>
-        
-        
-        <category>meta</category>
-        
-      </item>
-    
-      <item>
-        <title>Tesbihatlar ve Anlamları</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Estağfirullah: Allahtan mağfiret dilerim&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Estağfirullah ve etübü ileyh : Allahtan mağfiret diler ve ona tövbe ederim.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Estağfirullah ellezî lâ ilâhe illâ hüve’l-hayyü’l-kayyûmü ve etûbü ileyh:Hayy ve Kayyum olan ondan başka hakkıyla ibadete layık hiçbir ilah olmayan yüce Allahtan bağışlanma diler ve ona tövbe ederim. Hayy: diri canlı; Kayyum: Bütün mahlukatın idaresini bizzat yürüten hepsini hesaba çeken demektir.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allah Allah Allah  Tek, zıddı ve benzeri olmayan yaratıcının adı&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sübhanallah: Allah bütün  noksanlıklardan uzaktır&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Elhamdülillah: Hamd (şükür) Allah’adır.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lâ ilâhe illâllah: Allahtan başka ilah yoktur.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allahü Ekber : Allah En büyüktür.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;La havle vela Kuvvete illa billahil aliyyil azim.:Güç ve kuvvet yalnız aziz ve hakim  olan Allahtandır.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sübhanallahi ve bi hamdihi : Allah a hamd ederim.Onu tüm noksanlıklardan tenzih ederim.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Subhanallahi ve bi-hamdihi, subhanallahi’l-azim: Allah a hamd ederek tesbih ederim .Tüm noksanlıklardan tenzih ederim.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sübhanallahi ve bi hamdihi, subhanallahi’l-azim ve bi hamdihi estağfirullah: Allah a hamd ederim.Onu tüm noksanlıklardan tenzih ederim.Mağfiret dilerim.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Lâ ilâhe illâllahü vahdehû lâ şerike leh. Lehü’l-mülkü ve lehü’l-hamdü ve hüve alâ külli şey’in kadîr: Allah tan başka hakkıyla ibadete layık hiçbir ilah yoktur.o birdir.ve hiçbir ortağı yoktur. Mülk onundur. Hamd onadır. O her şeye gücü yetendir.o yaşatır o öldürürür.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Salavatı Şerife
-Allahümme Salli ve sellim ala nebiyyine Muhammed. Anlamı :Allahım Muhammed Sallallahü  Aleyhi ve selemle Salat ve Selam eyle.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allahümme Salli ve Allahümme Barik Duaları&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;La ilahe illallahül Melikül Hakkul Mübin: Melik(İdare eden) hak ve her şeyi açıklayan Allah tan başka ilah yoktur.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;La ilahe illa ente sübhaneke inni küntü minezzalimin: Senden başka hiçbir ilah yoktur seni tenzih ederim ben gerçekten zalimlerden oldum.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;İhlası Şerif(Gulhuvallahü ehad): Allahtan başka ilah yoktur. Allah hiçbir şeye muhtaç değildir. Herkes ona muhtaçtır. Doğmamış ve doğurmamıştır. Onun hiçbir dengi yoktur.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allahü ekber kebiran velhamdüllillahi kesiran ve sübhanallahi bükreten ve esila: Allah en büyüktür Allah a çokça hamderim.Sabah ve akşam Allah ı tüm noksanlıklardan tenzih ederim.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ya Hayyu Ya Kayyum Daima diri ve canlı olan kesintiye uğramayan ,ebedi olan ,bütün mahlukatın idaresini bizzat yürüten,hepsini hesaba çeken demektir.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Subhanallahi vel hamdu lillahi ve la ilahe illellahu vallahu ekber. Allahı bütün noksan sıfatlardan tenzih ederim.Hamd&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allahadır.Allah tan başka hakkıyla ibadet edecek hiçbir ilah yoktur.ve Allah en büyüktür.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Subhanallahi vel hamdu lillahi ve la ilahe illellahu vallahu ekber Ve la havle ve la kuvvete illa billahil aliyyil azim.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allahümme inneke afüvvün tuhibbul afve fağfü anni: Allahım senin mağfiretin bol ,affedicisin,affı seversin Beni affeyle.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;La havle vela Kuvvete illa billah: Güç ve kuvvet yalnız Allahtandır.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hasbünallahi ve niğmel vekil: Bize Allah yeter .O ne güzel vekildir.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allahümme ecirna minennar: Allahım cehennem ateşinden koru&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rabbiğfirli: Yarabbi beni bağışla&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rabbenâ âtinâ fid’dünyâ haseneten ve fil’âhireti haseneten ve kinâ azâbennâr. Ey Rabbimiz, bize dünyada ve ahirette iyi hal ver ve bizi o ateş azabından koru.(Ey merhametlilerin en merhametlisi olan Allahım!)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Teveffeni Müslimen ve el hıkni minessalihin Ya rabbi beni Müslüman olarak yaşat beni Müslüman olarak öldür.beni Salihlerle beraber eyle. Namazda okunan sübhane duasının anlamı . Allahım Sen ter türlü eksiklerden uzak ve her türlü olgunluklarla birliktesin.seni her an eksiksiz övgülerle överim. Sen ve adın daima mübarektir.sen daima büyük ve yücesin .seni övmek ne büyük  bir iştir.senden başka gerçek ilah yoktur&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rabbiğfirli ve tüb aleyye inneke ettet tevvabür rahim Rabbim beni bağışla ve tövbemi kabul et şüphesiz sen tövbeleri çokça kabul eden ve çokça bağışlayansın&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sübhaneke Allahümme ve bihamdik estağfiruke ve etübü ileyk Yarabbi seni tesbih eder sana hamd eder senden mağfiret dilerim sana tövbe ederim&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;İnnallahe basirun bil ibat.Allah kullarının yaptıklarını çok iyi görendir.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Subhanallahi ve bihamdihi adede halkıhi ve rıza nefsihi ve zinete arşihi ve midade kelimatihi.
-Yarattıklarının sayısınca kendisinin razı olacağı kadar arşının ağırlığınca kelimelerinin çokluğunca hamd ederek Allahı tüm noksanlıklardan tenzih ederim.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Maşallah la havle vela kuvvete illa billah Allahtan Başka güç ve kuvvet sahibi yoktur&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Enni mağlubun fentesir. Yarabbi ben yenildim mağlub oldum bana yardım et.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bilgi/tesbihatlar-ve-anlamlari</link>
-        <guid isPermaLink="true">http://localhost:4000/bilgi/tesbihatlar-ve-anlamlari</guid>
-        
-        
-        <category>bilgi</category>
-        
-      </item>
-    
-      <item>
-        <title>Orucu bozan ve bozmayan şeyler</title>
-        <description>&lt;h4 id=&quot;orucu-bozan-eylemler&quot;&gt;Orucu Bozan Eylemler&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Oruclu olduğunu bildiği halde yemek içmek,ilaç kullanmak&lt;/li&gt;
-  &lt;li&gt;Sigara içmek,başkasının sigara dumanını isteyerek çekmek&lt;/li&gt;
-  &lt;li&gt;Cinsel ilişkide bulunmak&lt;/li&gt;
-  &lt;li&gt;Boğaza giren kar ve yağmur suyunu isteyerek yutmak&lt;/li&gt;
-  &lt;li&gt;Başkasının zorlaması ile orucu bozmak&lt;/li&gt;
-  &lt;li&gt;Açlığa veya susuzluğa dayanamayarak yiyip içmek,&lt;/li&gt;
-  &lt;li&gt;Abdest alırken boğaza su kaçması,&lt;/li&gt;
-  &lt;li&gt;Isteyerek ağız dolusu kusmak&lt;/li&gt;
-  &lt;li&gt;İmsak vakti bittiğini bilmeden yiyip içmek,&lt;/li&gt;
-  &lt;li&gt;Güneş battı zannederek orucunu bozmak,&lt;/li&gt;
-  &lt;li&gt;Buruna kolonya çekmek, [Koklamak bozmaz.]&lt;/li&gt;
-  &lt;li&gt;Mukimken oruca başlayıp, sefere çıkınca yiyip içmek,&lt;/li&gt;
-  &lt;li&gt;Kulağın içine ilaç damlatmak, kulağı ilaçlı suyla yıkamak,&lt;/li&gt;
-  &lt;li&gt;Derideki açık yaraya konan sıvı ilacın sindirim yoluna girmesi,&lt;/li&gt;
-  &lt;li&gt;Vücuda ilaç şırınga etmek,&lt;/li&gt;
-  &lt;li&gt;Dişi kanayanın ağzındaki kanı yutması veya tükürükle eşit miktarda karışık kanı yutması,&lt;/li&gt;
-  &lt;li&gt;Dişlerin arasında kalan nohut kadar şeyi yutmak,&lt;/li&gt;
-  &lt;li&gt;Buruna çekilen suyun ağızdan çıkması,&lt;/li&gt;
-  &lt;li&gt;Kâğıt, taş, pamuk, ot, pişmemiş pirinç gibi ilaç ve gıda olmayan şeyi yutmak,&lt;/li&gt;
-  &lt;li&gt;Makattan veya önden fitil kullanmak,&lt;/li&gt;
-  &lt;li&gt;Oruçlu olduğunu unutup yediğinde, orucu bozuldu sanarak, bilerek yemeye devam etmek,&lt;/li&gt;
-  &lt;li&gt;İmsak vaktinden sonra niyet edip,gün içinde orucunu kasten bozması,&lt;/li&gt;
-  &lt;li&gt;Denize girince veya guslederken makattan su girmesi, [Hanbeli’de bozmaz.]&lt;/li&gt;
-  &lt;li&gt;Dil altına konan ilacı emmek,&lt;/li&gt;
-  &lt;li&gt;Makata konan pamuğun veya başka şeyin hepsinin içeri girmesi,&lt;/li&gt;
-  &lt;li&gt;Mastürbasyon yapmak,&lt;/li&gt;
-  &lt;li&gt;Vücuda giren ultrason veya endoskopi cihazında ilaç, merhem olması,&lt;/li&gt;
-  &lt;li&gt;Lavman yaptırmak, [Maliki’de bozmaz.]&lt;/li&gt;
-  &lt;li&gt;Burundan genze giden kanı yutmak,&lt;/li&gt;
-  &lt;li&gt;Bayılanı ayıltmak için veya uyuyanın ağzına su akıtmak,&lt;/li&gt;
-  &lt;li&gt;Oruçlunun ağzına giren gözyaşı veya ter, çok olur da, tuzluluğunu ağzının her yerinde duyar ve yutarsa orucu bozulur. Yutmayıp tükürürse bozulmaz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-
-&lt;!-- iftar ad responsive --&gt;
-&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-3237344784986563&quot; data-ad-slot=&quot;6285125774&quot; data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;orucu-bozmayan-eylemler&quot;&gt;Orucu Bozmayan Eylemler&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Unutarak yemek içmek,cinsel ilişkide bulunmak&lt;/li&gt;
-  &lt;li&gt;Iradesi dışında kusmak&lt;/li&gt;
-  &lt;li&gt;Uyurken ihtilam olmak&lt;/li&gt;
-  &lt;li&gt;Ağıza gelen balgamı veya genızdeki akıntıyı yutmak&lt;/li&gt;
-  &lt;li&gt;Sahurda tokluk veren ilaç kullanmak&lt;/li&gt;
-  &lt;li&gt;Rüyada ihtilam olmak&lt;/li&gt;
-  &lt;li&gt;Gıybet etmek&lt;/li&gt;
-  &lt;li&gt;Kan aldırmak,hacamat olmak,akapunktur kullanmak&lt;/li&gt;
-  &lt;li&gt;Gusletmek,banyo yapmak,serinlemek için duş almak&lt;/li&gt;
-  &lt;li&gt;Arı sokması&lt;/li&gt;
-  &lt;li&gt;Saç boyatmak&lt;/li&gt;
-  &lt;li&gt;Su ile ağzını çalkalamak&lt;/li&gt;
-  &lt;li&gt;Buruna su çekmek&lt;/li&gt;
-  &lt;li&gt;Dudaktaki yaşlığ yutmak&lt;/li&gt;
-  &lt;li&gt;Isteyerek biraz kusmak&lt;/li&gt;
-  &lt;li&gt;Bel soğukluğundan dolayı akıntı gelmesi&lt;/li&gt;
-  &lt;li&gt;Baştan buruna gelen akıntıyı yada ağza gelen yemeği,kusmuğu,balgamı yutmak&lt;/li&gt;
-  &lt;li&gt;Çiçek,kolonya,parfüm koklamak&lt;/li&gt;
-  &lt;li&gt;Bogaza toz yada sinek kaçması&lt;/li&gt;
-  &lt;li&gt;Kulağa  su kaçması&lt;/li&gt;
-  &lt;li&gt;Sadece bakmak veya düşünmek suretiyle boşalmak&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bilgi/orucu-bozan-seyler</link>
-        <guid isPermaLink="true">http://localhost:4000/bilgi/orucu-bozan-seyler</guid>
-        
-        
-        <category>bilgi</category>
-        
-      </item>
-    
-      <item>
-        <title>Ramazan ve Oruç ile ilgili Ayet ve Hadisler</title>
-        <description>&lt;!-- &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-&lt;div class=&quot;container&quot; style=&quot;margin-top: 30px;&quot;&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;container&quot;&gt;
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-lg-8 col-lg-offset-4&quot;&gt;
-      &lt;h1 id=&quot;p-belirli-gun&quot;&gt;&lt;b&gt;Bugün: &lt;/b&gt;&lt;/h1&gt;
-      &lt;br /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt; --&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-3237344784986563&quot; data-ad-slot=&quot;6285125774&quot; data-ad-format=&quot;auto&quot;&gt;&lt;/ins&gt;
-&lt;script&gt;
-(adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ey iman edenler! oruç sizden önce gelip geçmiş ümmetlere farz kılındığı gibi size de farz kılındı. Umulur ki korunursunuz.
-&lt;br /&gt;&lt;b&gt;Bakara(2) 183&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sayılı günlerde olmak üzere (oruç size farz kılındı). Sizden her kim hasta yahut yolcu olursa (tutamadığı günler kadar) diğer günlerde kaza eder. (İhtiyarlık veya şifa umudu kalmamış hastalık gibi devamlı mazereti olup da) oruç tutmaya güçleri yetmeyenlere bir fakir doyumu kadar fidye gerekir. Bununla beraber kim gönüllü olarak hayır yaparsa, bu kendisi için daha iyidir. Eğer bilirseniz (güçlüğüne rağmen) oruç tutmanız sizin için daha hayırlıdır.
-&lt;br /&gt;&lt;b&gt;Bakara(2) 184&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ramazan ayı, insanlara yol gösterici, doğrunun ve doğruyu eğriden ayırmanın açık delilleri olarak Kur’an’ın indirildiği aydır. Öyle ise sizden ramazan ayını idrak edenler onda oruç tutsun. Kim o anda hasta veya yolcu olursa (tutamadığı günler sayısınca) başka günlerde kaza etsin. Allah sizin için kolaylık ister, zorluk istemez. Bütün bunlar, sayıyı tamamlamanız ve size doğru yolu göstermesine karşılık, Allah’ı tazim etmeniz, şükretmeniz içindir.
-&lt;br /&gt;&lt;b&gt;Bakara(2) 185&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Oruç gecesinde kadınlarınıza yaklaşmak size helâl kılındı. Onlar sizin için birer elbise, siz de onlar için birer elbisesiniz. Allah sizin kendinize kötülük ettiğinizi bildi ve tevbenizi kabul edip sizi bağışladı. Artık (ramazan gecelerinde) onlara yaklaşın ve Allah’ın sizin için takdir ettiklerini isteyin. Sabahın beyaz ipliği (aydınlığı), siyah ipliğinden (karanlığından) ayırt edilinceye kadar yeyin, için, sonra akşama kadar orucu tamamlayın. Mescitlerde ibadete çekilmiş olduğunuz zamanlarda kadınlarla birleşmeyin. Bunlar Allah’ın koyduğu sınırlardır. Sakın bu sınırlara yaklaşmayın. İşte böylece Allah âyetlerini insanlara açıklar. Umulur ki korunurlar.
-&lt;br /&gt;&lt;b&gt;Bakara(2) 187&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Haccı ve umreyi Allah için tam yapın. Eğer (bunlardan) alıkonursanız kolayınıza gelen kurbanı gönderin. Kurban, yerine varıncaya kadar başlarınızı tıraş etmeyin. Sizden her kim hasta olursa yahut başından bir rahatsızlığı varsa, oruç veya sadaka veya kurban olmak üzere fidye gerekir. (Hac yolculuğu için) emin olduğunuz vakit kim hac günlerine kadar umre ile faydalanmak isterse, kolayına gelen bir kurban kesmek gerekir. Kurban kesmeyen kimse hac günlerinde üç, memleketine döndüğü zaman yedi olmak üzere oruç tutar ki, hepsi tam on gündür. Bu söylenenler, ailesi Mescid-i Haram civarında oturmayanlar içindir. Allah’tan korkun. Biliniz ki Allah’ın vereceği ceza ağırdır.
-&lt;br /&gt;&lt;b&gt;Bakara(2) 196&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Yanlışlıkla olması dışında bir müminin bir mümini öldürmeye hakkı olamaz. Yanlışlıkla bir mümini öldüren kimsenin, mümin bir köle azat etmesi ve ölenin ailesine teslim edilecek bir diyet vermesi gereklidir. Meğer ki ölünün ailesi o diyeti bağışlamış ola. (Bu takdirde diyet vermez). Eğer öldürülen mümin olduğu halde, size düşman olan bir toplumdan ise mümin bir köle azat etmek lâzımdır. Eğer kendileriyle aranızda antlaşma bulunan bir toplumdan ise ailesine teslim edilecek bir diyet ve bir mümin köleyi azat etmek gerekir. Bunları bulamayan kimsenin, Allah tarafından tevbesinin kabulü için iki ay peşpeşe oruç tutması lâzımdır. Allah her şeyi bilendir, hikmet sahibidir.
-&lt;br /&gt;&lt;b&gt;Nisa(4) 92&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Allah, kasıtsız olarak ağzınızdan çıkıveren yeminlerinizden dolayı sizi sorumlu tutmaz, fakat bilerek yaptığınız yeminlerden dolayı sizi sorumlu tutar. Bunun da keffâreti, ailenize yedirdiğiniz yemeğin orta hallisinden on fakire yedirmek, yahut onları giydirmek, yahut da bir köle azat etmektir. Bunları bulamıyan üç gün oruç tutmalıdır. Yemin ettiğiniz takdirde yeminlerinizin keffâreti işte budur. Yeminlerinizi koruyun (onlara riayet edin). Allah size âyetlerini açıklıyor; umulur ki şükredersiniz!
-&lt;br /&gt;&lt;b&gt;Maide( 5) 89&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ey iman edenler! İhramlı iken avı öldürmeyin. İçinizden kim onu kasten öldürürse öldürdüğü hayvanın dengi (ona) cezadır. (Buna) Kâbe’ye varacak bir kurban olmak üzere içinizden adalet sahibi iki kişi hükmeder (öldürülen avın dengini takdir eder). Yahut (avlanmanın cezası), fakirleri doyurmaktan ibaret bir keffârettir, yahut onun dengi oruç tutmaktır. Ta ki (yasak av yapan) işinin cezasını tatmış olsun. Allah geçmişi affetmiştir. Kim bu suçu tekrar işlerse Allah da ondan karşılığını alır. Allah daima galiptir, öç alandır.
-&lt;br /&gt;&lt;b&gt;Maide( 5) 95&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;(Bu alış verişi yapanlar), tevbe edenler, ibadet edenler, hamdedenler, oruç tutanlar, rükû edenler, secde edenler, iyiliği emredip kötülükten alıkoyanlar ve Allah’ın sınırlarını koruyanlardır. O müminleri müjdele!
-&lt;br /&gt;&lt;b&gt;Tevbe(9) 112&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;“Ye, iç. Gözün aydın olsun! Eğer insanlardan birini görürsen de ki: Ben, çok merhametli olan Allah’a oruç adadım; artık bugün hiçbir insanla konuşmayacağım.”
-&lt;br /&gt;&lt;b&gt;Meryem(19) 26&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Müslüman erkekler ve müslüman kadınlar, mümin erkekler ve mümin kadınlar, taata devam eden erkekler ve taata devam eden kadınlar, doğru erkekler ve doğru kadınlar, sabreden erkekler ve sabreden kadınlar, mütevazi erkekler ve mütevazi kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, ırzlarını koruyan erkekler ve (ırzlarını) koruyan kadınlar, Allah’ı çok zikreden erkekler ve zikreden kadınlar var ya; işte Allah, bunlar için bir mağfiret ve büyük bir mükâfat hazırlamıştır.
-&lt;br /&gt;&lt;b&gt;Ahzab(33) 35&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;(Buna imkân) bulamayan kimse, hanımıyla temas etmeden önce ardarda iki ay oruç tutar. Buna da gücü yetmeyen, altmış fakiri doyurur. Bu (hafifletme), Allah’a ve Resûlüne inanmanızdan dolayıdır. Bunlar Allah’ın hükümleridir. Kâfirler için acı bir azap vardır.
-&lt;br /&gt;&lt;b&gt;Mücadele(58) 4&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Eğer o sizi boşarsa Rabbi ona, sizden daha iyi kendini Allah a veren, inanan, sebatla itaat eden, tevbe eden, ibadef eden, oruç tutan, dul ve bâkire eşler verebilir.
-&lt;br /&gt;&lt;b&gt;Tahrim(66) 5&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;“Ramazan ayı, insanlara yol gösterici, dogrunun ve dogruyu egriden ayırmanın açık delilleri olarak kendisinde Kur’an’ın indirildigi aydır. Sizden her kim bu ayda bulunursa oruç tutsun”
-&lt;br /&gt;&lt;b&gt;Bakara, 2/185&lt;/b&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bilgi/oruc-ile-ilgili-ayetler</link>
-        <guid isPermaLink="true">http://localhost:4000/bilgi/oruc-ile-ilgili-ayetler</guid>
-        
-        
-        <category>bilgi</category>
-        
-      </item>
-    
-      <item>
-        <title>2017, 2018, 2019 Dini Günler ve Resmi Tatil Günleri</title>
-        <description>&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;row&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;hr /&gt;
-  &lt;div align=&quot;center&quot;&gt;
-    &lt;h1&gt;2018 yılı resmi tatil günleri&lt;/h1&gt;
-    &lt;table class=&quot;table table-striped&quot;&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;&lt;b&gt;TATİL GÜNÜNÜN İSMİ&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;SÜRE&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;AY&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;GÜN&lt;/b&gt;&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      
-      &lt;tbody&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;YiLBAŞi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;01 OCAK&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;23 NİSAN&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;EMEK VE DAYANiŞMA GÜNÜ*&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;01 MAYiS&lt;/td&gt;
-        &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;19 MAYiS&lt;/td&gt;
-        &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi AREFESi&lt;/td&gt;
-        &lt;td&gt;1/2 GÜN&lt;/td&gt;
-        &lt;td&gt;14 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;15 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;2. GÜN&lt;/td&gt;
-        &lt;td&gt;16 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;3. GÜN&lt;/td&gt;
-        &lt;td&gt;17 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi AREFESi&lt;/td&gt;
-        &lt;td&gt;1/2 GÜN&lt;/td&gt;
-        &lt;td&gt;20 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;21 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;2. GÜN&lt;/td&gt;
-        &lt;td&gt;22 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;3. GÜN&lt;/td&gt;
-        &lt;td&gt;23 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;4. GÜN&lt;/td&gt;
-        &lt;td&gt;24 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;ZAFER BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&amp;lt;/div&amp;gt;&lt;/td&gt;
-        &lt;td&gt;30 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;PERŞEMBE&amp;lt;/div&amp;gt;&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;CUMHURİYET BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1,5 GÜN&lt;/td&gt;
-        &lt;td&gt;28 EKİM29 EKİM&lt;/td&gt;
-        &lt;td&gt;PAZAR PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/div&gt;
-
-  &lt;hr /&gt;
-
-  &lt;div align=&quot;center&quot;&gt;
-    &lt;h1&gt;2019 yılı resmi tatil günleri&lt;/h1&gt;
-    &lt;table class=&quot;table table-striped&quot;&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;&lt;b&gt;TATİL GÜNÜNÜN İSMİ&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;SÜRE&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;AY&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;GÜN&lt;/b&gt;&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      
-      &lt;tbody&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;YiLBAŞi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;01 OCAK&lt;/td&gt;
-          &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;23 NİSAN&lt;/td&gt;
-          &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;EMEK VE DAYANiŞMA GÜNÜ*&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;01 MAYiS&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;19 MAYiS&lt;/td&gt;
-          &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi AREFESi&lt;/td&gt;
-          &lt;td&gt;1/2 GÜN&lt;/td&gt;
-          &lt;td&gt;04 HAZİRAN&lt;/td&gt;
-          &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;05 HAZİRAN&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;2. GÜN&lt;/td&gt;
-          &lt;td&gt;06 HAZİRAN&lt;/td&gt;
-          &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;3. GÜN&lt;/td&gt;
-          &lt;td&gt;07 HAZİRAN&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi AREFESi&lt;/td&gt;
-          &lt;td&gt;1/2 GÜN&lt;/td&gt;
-          &lt;td&gt;10 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;11 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;2. GÜN&lt;/td&gt;
-          &lt;td&gt;12 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;3. GÜN&lt;/td&gt;
-          &lt;td&gt;13 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;4. GÜN&lt;/td&gt;
-          &lt;td&gt;14 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ZAFER BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;30 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;CUMHURİYET BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1,5 GÜN&lt;/td&gt;
-          &lt;td&gt;28 EKİM 29 EKİM&lt;/td&gt;
-          &lt;td&gt;PAZARTESİ SALi&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/div&gt;
-
-  &lt;hr /&gt;
-
-  &lt;div align=&quot;center&quot;&gt;
-    &lt;h1&gt;2020 yılı resmi tatil günleri&lt;/h1&gt;
-    &lt;table class=&quot;table table-striped&quot;&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;&lt;b&gt;TATİL GÜNÜNÜN İSMİ&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;SÜRE&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;AY&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;GÜN&lt;/b&gt;&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      
-      &lt;tbody&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;YiLBAŞi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;01 OCAK&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;23 NİSAN&lt;/td&gt;
-          &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;EMEK VE DAYANiŞMA GÜNÜ*&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;01 MAYiS&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;19 MAYiS&lt;/td&gt;
-          &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi AREFESi&lt;/td&gt;
-          &lt;td&gt;1/2 GÜN&lt;/td&gt;
-          &lt;td&gt;23 MAYiS&lt;/td&gt;
-          &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;24 MAYiS&lt;/td&gt;
-          &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;2. GÜN&lt;/td&gt;
-          &lt;td&gt;25 MAYiS&lt;/td&gt;
-          &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;3. GÜN&lt;/td&gt;
-          &lt;td&gt;26 MAYiS&lt;/td&gt;
-          &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi AREFESi&lt;/td&gt;
-          &lt;td&gt;1/2 GÜN&lt;/td&gt;
-          &lt;td&gt;30 TEMMUZ&lt;/td&gt;
-          &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;31 TEMMUZ&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;2. GÜN&lt;/td&gt;
-          &lt;td&gt;01 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;3. GÜN&lt;/td&gt;
-          &lt;td&gt;02 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;4. GÜN&lt;/td&gt;
-          &lt;td&gt;03 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ZAFER BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;30 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;CUMHURİYET BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1,5 GÜN&lt;/td&gt;
-          &lt;td&gt;28 EKİM
-        29 EKİM&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA
-        PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/div&gt;
-
-  &lt;hr /&gt;
-
-  &lt;div align=&quot;center&quot;&gt;
-    &lt;h1&gt;2021 yılı resmi tatil günleri&lt;/h1&gt;
-    &lt;table class=&quot;table table-striped&quot;&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;&lt;b&gt;TATİL GÜNÜNÜN İSMİ&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;SÜRE&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;AY&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;GÜN&lt;/b&gt;&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      
-      &lt;tbody&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;YiLBAŞi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;01 OCAK&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;23 NİSAN&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;EMEK VE DAYANiŞMA GÜNÜ*&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;01 MAYiS&lt;/td&gt;
-          &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi AREFESi&lt;/td&gt;
-          &lt;td&gt;1/2 GÜN&lt;/td&gt;
-          &lt;td&gt;12 MAYiS&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;13 MAYiS&lt;/td&gt;
-          &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;2. GÜN&lt;/td&gt;
-          &lt;td&gt;14 MAYiS&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;3. GÜN&lt;/td&gt;
-          &lt;td&gt;15 MAYiS&lt;/td&gt;
-          &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;19 MAYiS&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi AREFESi&lt;/td&gt;
-          &lt;td&gt;1/2 GÜN&lt;/td&gt;
-          &lt;td&gt;19 TEMMUZ&lt;/td&gt;
-          &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1/2 GÜN&lt;/td&gt;
-          &lt;td&gt;20 TEMMUZ&lt;/td&gt;
-          &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1. GÜN&lt;/td&gt;
-          &lt;td&gt;21 TEMMUZ&lt;/td&gt;
-          &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;2. GÜN&lt;/td&gt;
-          &lt;td&gt;22 TEMMUZ&lt;/td&gt;
-          &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-          &lt;td&gt;3. GÜN&lt;/td&gt;
-          &lt;td&gt;23 TEMMUZ&lt;/td&gt;
-          &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;ZAFER BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1 GÜN&lt;/td&gt;
-          &lt;td&gt;30 AĞUSTOS&lt;/td&gt;
-          &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;CUMHURİYET BAYRAMi&lt;/td&gt;
-          &lt;td&gt;1,5 GÜN&lt;/td&gt;
-          &lt;td&gt;28 EKİM
-        29 EKİM&lt;/td&gt;
-          &lt;td&gt;PERŞEMBE
-        CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/div&gt;
-
-  &lt;hr /&gt;
-
-  &lt;div align=&quot;center&quot;&gt;
-    &lt;h1&gt;2022 yılı resmi tatil günleri&lt;/h1&gt;
-    &lt;table class=&quot;table table-striped&quot;&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;&lt;b&gt;TATİL GÜNÜNÜN İSMİ&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;SÜRE&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;AY&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;GÜN&lt;/b&gt;&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;YiLBAŞi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;01 OCAK&lt;/td&gt;
-        &lt;td&gt;CUMARTESİ&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;23 NİSAN&lt;/td&gt;
-        &lt;td&gt;CUMARTESİ&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;EMEK VE DAYANiŞMA GÜNÜ* VE RAMAZAN BAYRAMi AREFESi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;01 MAYiS&lt;/td&gt;
-        &lt;td&gt;PAZAR&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;02 MAYiS&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;2. GÜN&lt;/td&gt;
-        &lt;td&gt;03 MAYiS&lt;/td&gt;
-        &lt;td&gt;SALi&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;3. GÜN&lt;/td&gt;
-        &lt;td&gt;04 MAYiS&lt;/td&gt;
-        &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;19 MAYiS&lt;/td&gt;
-        &lt;td&gt;PERŞEMBE&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi AREFESi&lt;/td&gt;
-        &lt;td&gt;1/2 GÜN&lt;/td&gt;
-        &lt;td&gt;08 TEMMUZ&lt;/td&gt;
-        &lt;td&gt;CUMA&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;09 TEMMUZ&lt;/td&gt;
-        &lt;td&gt;CUMARTESİ&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;2. GÜN&lt;/td&gt;
-        &lt;td&gt;10 TEMMUZ&lt;/td&gt;
-        &lt;td&gt;PAZAR&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;3. GÜN&lt;/td&gt;
-        &lt;td&gt;11 TEMMUZ&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;4. GÜN&lt;/td&gt;
-        &lt;td&gt;12 TEMMUZ&lt;/td&gt;
-        &lt;td&gt;SALi&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;ZAFER BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;30 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;SALi&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &lt;tr&gt;
-        &lt;td&gt;CUMHURİYET BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1,5 GÜN&lt;/td&gt;
-        &lt;td&gt;28 EKİM29 EKİM&lt;/td&gt;
-        &lt;td&gt;CUMA CUMARTESİ&lt;/td&gt;
-      &lt;/tr&gt;
-
-      &amp;lt;/tbody&amp;gt;
-    &lt;/table&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;row&quot;&gt;
-    &lt;h1&gt;2016 Dini Tatil Günleri&lt;/h1&gt;
-    &lt;div class=&quot;col-lg-12&quot;&gt;
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6 div-table-header&quot;&gt;&lt;b&gt;Gün&lt;/b&gt;&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6 div-table-header&quot;&gt;&lt;b&gt;Tarih&lt;/b&gt;&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 REGAİB KANDİLİ ne zaman?&quot;&gt;REGAİB KANDİLİ&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;07 NİSAN 2016, PERŞEMBE&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 ÜÇ AYLARiN BAŞLANGiCi ne zaman?&quot;&gt;ÜÇ AYLARiN BAŞLANGiCi&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;08 NİSAN 2016, CUMA&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 MİRAC KANDİLİ ne zaman?&quot;&gt;MİRAC KANDİLİ&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;03 MAYiS 2016, SALi&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 BERAT KANDİLİ ne zaman?&quot;&gt;BERAT KANDİLİ&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;21 MAYiS 2016, CUMARTESİ&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 RAMAZAN'iN BAŞLANGiCi ne zaman?&quot;&gt;RAMAZAN'iN BAŞLANGiCi&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;06 HAZİRAN 2016, PAZARTESİ&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 KADİR GECESİ ne zaman?&quot;&gt;KADİR GECESİ&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;01 TEMMUZ 2016, CUMA&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 AREFE ne zaman?&quot;&gt;AREFE&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;04 TEMMUZ 2016, PAZARTESİ&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 RAMAZAN BAYRAMi (1.Gün) ne zaman?&quot;&gt;RAMAZAN BAYRAMi (1.Gün)&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;05 TEMMUZ 2016, SALi&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 RAMAZAN BAYRAMi (2.Gün) ne zaman?&quot;&gt;RAMAZAN BAYRAMi (2.Gün)&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;06 TEMMUZ 2016, ÇARŞAMBA&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 RAMAZAN BAYRAMi (3.Gün) ne zaman?&quot;&gt;RAMAZAN BAYRAMi (3.Gün)&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;07 TEMMUZ 2016, PERŞEMBE&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 AREFE ne zaman?&quot;&gt;AREFE&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;11 EYLÜL 2016, PAZAR&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 KURBAN BAYRAMi (1.Gün) ne zaman?&quot;&gt;KURBAN BAYRAMi (1.Gün)&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;12 EYLÜL 2016, PAZARTESİ&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 KURBAN BAYRAMi (2.Gün) ne zaman?&quot;&gt;KURBAN BAYRAMi (2.Gün)&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;13 EYLÜL 2016, SALi&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 KURBAN BAYRAMi (3.Gün) ne zaman?&quot;&gt;KURBAN BAYRAMi (3.Gün)&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;14 EYLÜL 2016, ÇARŞAMBA&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 HİCRİ YiLBAŞi ne zaman?&quot;&gt;HİCRİ YiLBAŞi&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;02 EKİM 2016, PAZAR&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 AŞURE GÜNÜ ne zaman?&quot;&gt;AŞURE GÜNÜ&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;11 EKİM 2016, SALi&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-      ​
-      &lt;div class=&quot;row&quot;&gt;
-        &lt;div class=&quot;col-xs-6&quot; data=&quot;2016 MEVLİD KANDİLİ​ ne zaman?&quot;&gt;MEVLİD KANDİLİ​&lt;/div&gt;
-        &lt;div class=&quot;col-xs-6&quot;&gt;1 ARALiK 2016​​, PAZAR​&lt;/div&gt;
-      &lt;/div&gt;
-
-      &lt;hr /&gt;
-    &lt;/div&gt;
-  &lt;/div&gt; &lt;!-- /col-lg-8 --&gt;
-
-  &lt;hr /&gt;
-
-  &lt;div align=&quot;center&quot;&gt;
-    &lt;h1&gt;2017 Dini Günler ve Resmi Tatil Günleri&lt;/h1&gt;
-    &lt;table class=&quot;table table-striped&quot;&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;&lt;b&gt;TATİL GÜNÜNÜN İSMİ&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;SÜRE&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;AY&lt;/b&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;b&gt;GÜN&lt;/b&gt;&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-
-      &lt;tbody&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;YILBAŞI&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;01 OCAK&lt;/td&gt;
-        &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;ULUSAL EGEMENLİK VE ÇOCUK BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;23 NİSAN&lt;/td&gt;
-        &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;EMEK VE DAYANiŞMA GÜNÜ*&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;01 MAYiS&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;ATATÜRK'Ü ANMA GENÇLİK VE SPOR BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;19 MAYiS&lt;/td&gt;
-        &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi AREFESi&lt;/td&gt;
-        &lt;td&gt;1/2 GÜN&lt;/td&gt;
-        &lt;td&gt;24 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;CUMARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;25 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;2. GÜN&lt;/td&gt;
-        &lt;td&gt;26 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;RAMAZAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;3. GÜN&lt;/td&gt;
-        &lt;td&gt;27 HAZİRAN&lt;/td&gt;
-        &lt;td&gt;SALi&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;ZAFER BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1 GÜN&lt;/td&gt;
-        &lt;td&gt;30 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;ÇARŞAMBA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi AREFESi&lt;/td&gt;
-        &lt;td&gt;1/2 GÜN&lt;/td&gt;
-        &lt;td&gt;31 AĞUSTOS&lt;/td&gt;
-        &lt;td&gt;PERŞEMBE&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1. GÜN&lt;/td&gt;
-        &lt;td&gt;01 EYLÜL&lt;/td&gt;
-        &lt;td&gt;CUMA&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;2. GÜN&lt;/td&gt;
-        &lt;td&gt;02 EYLÜL&lt;/td&gt;
-        &lt;td&gt;
-        CUMARTESİ
-        &amp;lt;/div&amp;gt;&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;3. GÜN&lt;/td&gt;
-        &lt;td&gt;03 EYLÜL&lt;/td&gt;
-        &lt;td&gt;PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;KURBAN BAYRAMi&lt;/td&gt;
-        &lt;td&gt;4. GÜN&lt;/td&gt;
-        &lt;td&gt;04 EYLÜL&lt;/td&gt;
-        &lt;td&gt;PAZARTESİ&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-        &lt;td&gt;CUMHURİYET BAYRAMi&lt;/td&gt;
-        &lt;td&gt;1,5 GÜN&lt;/td&gt;
-        &lt;td&gt;28 EKİM
-        29 EKİM&lt;/td&gt;
-        &lt;td&gt;CUMARTESİ
-        PAZAR&lt;/td&gt;
-        &lt;/tr&gt;
-
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/div&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/bilgi/dini-gunler</link>
-        <guid isPermaLink="true">http://localhost:4000/bilgi/dini-gunler</guid>
-        
-        
-        <category>bilgi</category>
-        
-      </item>
-    
-      <item>
-        <title>İftar, namaz vakitleri ve hava durumu  görmek için bir ülke seç</title>
-        <description>&lt;h1 id=&quot;Ülke-seçin&quot;&gt;Ülke seçin&lt;/h1&gt;
-
-&lt;p&gt;O ülkenin şehirlerinin iftar, namaz ve sahur vakitlerini, hava durumunu görebilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;Aşağıdaki listeden bir şehir ya da semt seçin&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/ABD&quot;&gt;ABD için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/AFGANISTAN&quot;&gt;AFGANISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ALMANYA&quot;&gt;ALMANYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ANDORRA&quot;&gt;ANDORRA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ANGOLA&quot;&gt;ANGOLA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ANGUILLA&quot;&gt;ANGUILLA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ANTIGUA_VE_BARBUDA&quot;&gt;ANTIGUA_VE_BARBUDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ARJANTIN&quot;&gt;ARJANTIN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ARNAVUTLUK&quot;&gt;ARNAVUTLUK için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ARUBA&quot;&gt;ARUBA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/AVUSTRALYA&quot;&gt;AVUSTRALYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/AVUSTURYA&quot;&gt;AVUSTURYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/AZERBAYCAN&quot;&gt;AZERBAYCAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BAHAMALAR&quot;&gt;BAHAMALAR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BAHREYN&quot;&gt;BAHREYN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BANGLADES&quot;&gt;BANGLADES için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BARBADOS&quot;&gt;BARBADOS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BELARUS&quot;&gt;BELARUS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BELCIKA&quot;&gt;BELCIKA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BELIZE&quot;&gt;BELIZE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BENIN&quot;&gt;BENIN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BERMUDA&quot;&gt;BERMUDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BIRLESIK_ARAP_EMIRLIGI&quot;&gt;BIRLESIK_ARAP_EMIRLIGI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BOLIVYA&quot;&gt;BOLIVYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BOSNA_HERSEK&quot;&gt;BOSNA_HERSEK için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BOTSVANA&quot;&gt;BOTSVANA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BREZILYA&quot;&gt;BREZILYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BRUNEI&quot;&gt;BRUNEI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BULGARISTAN&quot;&gt;BULGARISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BURKINA_FASO&quot;&gt;BURKINA_FASO için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BURMA_(MYANMAR)&quot;&gt;BURMA_(MYANMAR) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BURUNDI&quot;&gt;BURUNDI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/BUTAN&quot;&gt;BUTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/CAD&quot;&gt;CAD için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/CECENISTAN&quot;&gt;CECENISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/CEK_CUMHURIYETI&quot;&gt;CEK_CUMHURIYETI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/CEZAYIR&quot;&gt;CEZAYIR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/CIBUTI&quot;&gt;CIBUTI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/CIN&quot;&gt;CIN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/DANIMARKA&quot;&gt;DANIMARKA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/DEMOKRATIK_KONGO_CUMHURIYETI&quot;&gt;DEMOKRATIK_KONGO_CUMHURIYETI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/DOGU_TIMOR&quot;&gt;DOGU_TIMOR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/DOMINIK&quot;&gt;DOMINIK için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/DOMINIK_CUMHURIYETI&quot;&gt;DOMINIK_CUMHURIYETI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/EKVATOR&quot;&gt;EKVATOR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/EKVATOR_GINESI&quot;&gt;EKVATOR_GINESI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/EL_SALVADOR&quot;&gt;EL_SALVADOR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ENDONEZYA&quot;&gt;ENDONEZYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ERITRE&quot;&gt;ERITRE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ERMENISTAN&quot;&gt;ERMENISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ESTONYA&quot;&gt;ESTONYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ETYOPYA&quot;&gt;ETYOPYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/FAS&quot;&gt;FAS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/FIJI&quot;&gt;FIJI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/FILDISI_SAHILI&quot;&gt;FILDISI_SAHILI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/FILIPINLER&quot;&gt;FILIPINLER için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/FILISTIN&quot;&gt;FILISTIN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/FINLANDIYA&quot;&gt;FINLANDIYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/FRANSA&quot;&gt;FRANSA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GABON&quot;&gt;GABON için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GAMBIYA&quot;&gt;GAMBIYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GANA&quot;&gt;GANA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GINE&quot;&gt;GINE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GRANADA&quot;&gt;GRANADA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GRONLAND&quot;&gt;GRONLAND için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GUADELOPE&quot;&gt;GUADELOPE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GUAM_ADASI&quot;&gt;GUAM_ADASI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GUATEMALA&quot;&gt;GUATEMALA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GUNEY_AFRIKA&quot;&gt;GUNEY_AFRIKA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GUNEY_KORE&quot;&gt;GUNEY_KORE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GURCISTAN&quot;&gt;GURCISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/GUYANA&quot;&gt;GUYANA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HAITI&quot;&gt;HAITI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HINDISTAN&quot;&gt;HINDISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HIRVATISTAN&quot;&gt;HIRVATISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HOLLANDA&quot;&gt;HOLLANDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HOLLANDA_ANTILLERI&quot;&gt;HOLLANDA_ANTILLERI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HONDURAS&quot;&gt;HONDURAS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/HONG_KONG&quot;&gt;HONG_KONG için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/INGILTERE&quot;&gt;INGILTERE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/IRAK&quot;&gt;IRAK için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/IRAN&quot;&gt;IRAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/IRLANDA&quot;&gt;IRLANDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ISPANYA&quot;&gt;ISPANYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ISRAIL&quot;&gt;ISRAIL için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ISVEC&quot;&gt;ISVEC için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ISVICRE&quot;&gt;ISVICRE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ITALYA&quot;&gt;ITALYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/IZLANDA&quot;&gt;IZLANDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/JAMAIKA&quot;&gt;JAMAIKA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/JAPONYA&quot;&gt;JAPONYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KAMBOCYA&quot;&gt;KAMBOCYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KAMERUN&quot;&gt;KAMERUN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KANADA&quot;&gt;KANADA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KARADAG&quot;&gt;KARADAG için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KATAR&quot;&gt;KATAR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KAZAKISTAN&quot;&gt;KAZAKISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KENYA&quot;&gt;KENYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KIRGIZISTAN&quot;&gt;KIRGIZISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KOLOMBIYA&quot;&gt;KOLOMBIYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KOMORLAR&quot;&gt;KOMORLAR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KOSOVA&quot;&gt;KOSOVA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KOSTARIKA&quot;&gt;KOSTARIKA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KUBA&quot;&gt;KUBA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KUDUS&quot;&gt;KUDUS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KUVEYT&quot;&gt;KUVEYT için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KUZEY_KIBRIS&quot;&gt;KUZEY_KIBRIS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/KUZEY_KORE&quot;&gt;KUZEY_KORE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LAOS&quot;&gt;LAOS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LESOTO&quot;&gt;LESOTO için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LETONYA&quot;&gt;LETONYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LIBERYA&quot;&gt;LIBERYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LIBYA&quot;&gt;LIBYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LIECHTENSTEIN&quot;&gt;LIECHTENSTEIN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LITVANYA&quot;&gt;LITVANYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LUBNAN&quot;&gt;LUBNAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/LUKSEMBURG&quot;&gt;LUKSEMBURG için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MACARISTAN&quot;&gt;MACARISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MADAGASKAR&quot;&gt;MADAGASKAR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MAKAO&quot;&gt;MAKAO için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MAKEDONYA&quot;&gt;MAKEDONYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MALAVI&quot;&gt;MALAVI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MALDIVLER&quot;&gt;MALDIVLER için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MALEZYA&quot;&gt;MALEZYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MALI&quot;&gt;MALI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MALTA&quot;&gt;MALTA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MARTINIK&quot;&gt;MARTINIK için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MAURITIUS_ADASI&quot;&gt;MAURITIUS_ADASI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MAYOTTE&quot;&gt;MAYOTTE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MEKSIKA&quot;&gt;MEKSIKA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MIKRONEZYA&quot;&gt;MIKRONEZYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MISIR&quot;&gt;MISIR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MOGOLISTAN&quot;&gt;MOGOLISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MOLDAVYA&quot;&gt;MOLDAVYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MONAKO&quot;&gt;MONAKO için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MONTSERRAT_(U_K_)&quot;&gt;MONTSERRAT_(U_K_) için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MORITANYA&quot;&gt;MORITANYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/MOZAMBIK&quot;&gt;MOZAMBIK için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/NAMBIYA&quot;&gt;NAMBIYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/NEPAL&quot;&gt;NEPAL için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/NIJER&quot;&gt;NIJER için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/NIJERYA&quot;&gt;NIJERYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/NIKARAGUA&quot;&gt;NIKARAGUA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/NIUE&quot;&gt;NIUE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/NORVEC&quot;&gt;NORVEC için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ORTA_AFRIKA_CUMHURIYETI&quot;&gt;ORTA_AFRIKA_CUMHURIYETI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/OZBEKISTAN&quot;&gt;OZBEKISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PAKISTAN&quot;&gt;PAKISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PALAU&quot;&gt;PALAU için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PANAMA&quot;&gt;PANAMA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PAPUA_YENI_GINE&quot;&gt;PAPUA_YENI_GINE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PARAGUAY&quot;&gt;PARAGUAY için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PERU&quot;&gt;PERU için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PITCAIRN_ADASI&quot;&gt;PITCAIRN_ADASI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/POLONYA&quot;&gt;POLONYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PORTEKIZ&quot;&gt;PORTEKIZ için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/PORTO_RIKO&quot;&gt;PORTO_RIKO için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/REUNION&quot;&gt;REUNION için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ROMANYA&quot;&gt;ROMANYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RUANDA&quot;&gt;RUANDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/RUSYA&quot;&gt;RUSYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/S__ARABISTAN&quot;&gt;S__ARABISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SAMOA&quot;&gt;SAMOA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SENEGAL&quot;&gt;SENEGAL için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SEYSEL_ADALARI&quot;&gt;SEYSEL_ADALARI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SILI&quot;&gt;SILI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SINGAPUR&quot;&gt;SINGAPUR için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SIRBISTAN&quot;&gt;SIRBISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SLOVAKYA&quot;&gt;SLOVAKYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SLOVENYA&quot;&gt;SLOVENYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SOMALI&quot;&gt;SOMALI için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SRI_LANKA&quot;&gt;SRI_LANKA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SUDAN&quot;&gt;SUDAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SURINAM&quot;&gt;SURINAM için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SURIYE&quot;&gt;SURIYE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SVALBARD&quot;&gt;SVALBARD için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/SVAZILAND&quot;&gt;SVAZILAND için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TACIKISTAN&quot;&gt;TACIKISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TANZANYA&quot;&gt;TANZANYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TAYLAND&quot;&gt;TAYLAND için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TAYVAN&quot;&gt;TAYVAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TOGO&quot;&gt;TOGO için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TONGA&quot;&gt;TONGA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TRINIDAT_VE_TOBAGO&quot;&gt;TRINIDAT_VE_TOBAGO için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TUNUS&quot;&gt;TUNUS için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TURKMENISTAN&quot;&gt;TURKMENISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/TÜRKİYE&quot;&gt;TÜRKİYE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/UGANDA&quot;&gt;UGANDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/UKRAYNA&quot;&gt;UKRAYNA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/UKRAYNA-KIRIM&quot;&gt;UKRAYNA-KIRIM için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/UMMAN&quot;&gt;UMMAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/URDUN&quot;&gt;URDUN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/URUGUAY&quot;&gt;URUGUAY için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/VANUATU&quot;&gt;VANUATU için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/VATIKAN&quot;&gt;VATIKAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/VENEZUELA&quot;&gt;VENEZUELA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/VIETNAM&quot;&gt;VIETNAM için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/YEMEN&quot;&gt;YEMEN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/YENI_KALEDONYA&quot;&gt;YENI_KALEDONYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/YENI_ZELLANDA&quot;&gt;YENI_ZELLANDA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/YUNANISTAN&quot;&gt;YUNANISTAN için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ZAMBIYA&quot;&gt;ZAMBIYA için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/ZIMBABVE&quot;&gt;ZIMBABVE için iftar ve namaz vakitleri&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/ulkeler</link>
-        <guid isPermaLink="true">http://localhost:4000/ulkeler</guid>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/ÇATALCA</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/ÇATALCA</guid>
         
         
       </item>
     
       <item>
-        <title>Kur'an oku, dinle</title>
-        <description>&lt;h1&gt;Hatim et, Kur'an oku, Kur'an dinle, meal oku&lt;/h1&gt;
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'TUZLA';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Fatiha&quot;&gt;Fatiha Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Bakara&quot;&gt;Bakara Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Al-imran&quot;&gt;Al-imran Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Nisa&quot;&gt;Nisa Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Maide&quot;&gt;Maide Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/En'am&quot;&gt;En'am Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/A'raf&quot;&gt;A'raf Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Enfal&quot;&gt;Enfal Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tevbe&quot;&gt;Tevbe Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Yunus&quot;&gt;Yunus Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Hud&quot;&gt;Hud Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Yusuf&quot;&gt;Yusuf Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Rad&quot;&gt;Rad Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/İbrahim&quot;&gt;İbrahim Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Hicr&quot;&gt;Hicr Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Nalh&quot;&gt;Nalh Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/İsra&quot;&gt;İsra Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kehf&quot;&gt;Kehf Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Meryem&quot;&gt;Meryem Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Ta-ha&quot;&gt;Ta-ha Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Enbiya&quot;&gt;Enbiya Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Hac&quot;&gt;Hac Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Mü'minün&quot;&gt;Mü'minün Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Nur&quot;&gt;Nur Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Furkan&quot;&gt;Furkan Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Şu'ara&quot;&gt;Şu'ara Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Neml&quot;&gt;Neml Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kasas&quot;&gt;Kasas Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Ankebut&quot;&gt;Ankebut Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Rum&quot;&gt;Rum Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Lokman&quot;&gt;Lokman Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Secde&quot;&gt;Secde Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Ahzab&quot;&gt;Ahzab Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Sebe'&quot;&gt;Sebe' Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Fatır&quot;&gt;Fatır Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Yasin&quot;&gt;Yasin Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Saffat&quot;&gt;Saffat Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Sad&quot;&gt;Sad Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Zümer&quot;&gt;Zümer Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Mü'min&quot;&gt;Mü'min Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Fussilet&quot;&gt;Fussilet Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Şura&quot;&gt;Şura Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Zuhruf&quot;&gt;Zuhruf Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Duhan&quot;&gt;Duhan Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Casiye&quot;&gt;Casiye Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Ahkaf&quot;&gt;Ahkaf Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Muhammed&quot;&gt;Muhammed Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Fetih&quot;&gt;Fetih Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Hucurat&quot;&gt;Hucurat Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kaf&quot;&gt;Kaf Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Zariyat&quot;&gt;Zariyat Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tur&quot;&gt;Tur Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Necm&quot;&gt;Necm Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kamer&quot;&gt;Kamer Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Rahman&quot;&gt;Rahman Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Vakı'a&quot;&gt;Vakı'a Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Hadid&quot;&gt;Hadid Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Mücadele&quot;&gt;Mücadele Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Haşr&quot;&gt;Haşr Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Mümtehin&quot;&gt;Mümtehin Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Saf&quot;&gt;Saf Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Cum'a&quot;&gt;Cum'a Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Munafiku&quot;&gt;Munafiku Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Teğabun&quot;&gt;Teğabun Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Talak&quot;&gt;Talak Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tahrim&quot;&gt;Tahrim Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Mülk&quot;&gt;Mülk Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kalem&quot;&gt;Kalem Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Hakka&quot;&gt;Hakka Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Me'aric&quot;&gt;Me'aric Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Nuh&quot;&gt;Nuh Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Cin&quot;&gt;Cin Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Müzzemmi&quot;&gt;Müzzemmi Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Müddesir&quot;&gt;Müddesir Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kıyamet&quot;&gt;Kıyamet Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/İnsan&quot;&gt;İnsan Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Mürselat&quot;&gt;Mürselat Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Nebe'&quot;&gt;Nebe' Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Nazi'at&quot;&gt;Nazi'at Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Abese&quot;&gt;Abese Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tekvir&quot;&gt;Tekvir Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/İnfitar&quot;&gt;İnfitar Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Mutaffifin&quot;&gt;Mutaffifin Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/İnşikak&quot;&gt;İnşikak Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Büruc&quot;&gt;Büruc Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tarık&quot;&gt;Tarık Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/A'la&quot;&gt;A'la Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Gaşiye&quot;&gt;Gaşiye Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Fecr&quot;&gt;Fecr Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Beled&quot;&gt;Beled Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Şems&quot;&gt;Şems Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Leyl&quot;&gt;Leyl Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Duha&quot;&gt;Duha Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/İnşirah&quot;&gt;İnşirah Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tin&quot;&gt;Tin Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Âlak&quot;&gt;Âlak Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kadir&quot;&gt;Kadir Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Beyyine&quot;&gt;Beyyine Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Zilzal&quot;&gt;Zilzal Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Adiyat&quot;&gt;Adiyat Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kari'a&quot;&gt;Kari'a Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tekasür&quot;&gt;Tekasür Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Asr&quot;&gt;Asr Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Hümeze&quot;&gt;Hümeze Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Fil&quot;&gt;Fil Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kureyş&quot;&gt;Kureyş Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Ma'un&quot;&gt;Ma'un Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Kevser&quot;&gt;Kevser Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Tebbet&quot;&gt;Tebbet Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/İhlas&quot;&gt;İhlas Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Felak&quot;&gt;Felak Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oku/Nas&quot;&gt;Nas Suresini oku, dinle, meal oku&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/oku</link>
-        <guid isPermaLink="true">http://localhost:4000/oku</guid>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/TUZLA</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/TUZLA</guid>
         
         
-        <category>oku</category>
+      </item>
+    
+      <item>
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'SİLİVRİ';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SİLİVRİ</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SİLİVRİ</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'SULTANGAZİ';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANGAZİ</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANGAZİ</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'SULTANBEYLİ';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANBEYLİ</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANBEYLİ</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'SANCAKTEPE';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SANCAKTEPE</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SANCAKTEPE</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>İSTANBUL, TÜRKİYE için iftar, namaz vakitleri ve hava durumu - ilçe/eyalet seç</title>
+        <description>&lt;script type=&quot;text/javascript&quot;&gt;
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_STATE = 'PENDİK';
+  var lat = 72;
+  var lon = 21;
+&lt;/script&gt;
+
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/PENDİK</link>
+        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/PENDİK</guid>
+        
         
       </item>
     

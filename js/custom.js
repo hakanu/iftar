@@ -1,3 +1,6 @@
+// var console = {};
+// console.log = function(){};
+
 var clock = $('.your-clock').FlipClock({
   countdown: true,
   defaultLanguage: 'tr',
@@ -39,16 +42,16 @@ var _RAMAZAN_DATES = {
 
 
 jQuery( document ).ready(function( $ ) {
-  ////console.log('  _[]    __   _                         _                    ');
-  ////console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
-  //console.log('  | |  | |_  | __|  / _` | |  __|     / _ \   |  _ \  |  _ \ ');
-  //console.log('  | |  |  _| | |_  | (_| | | |       / ___ \  | |_) | | |_) |');
-  //console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
-  //console.log('                                              |_|     |_|    ');
+  console.log('  _[]    __   _                         _                    ');
+  console.log(' |_ _|  / _| | |_    __ _   _ __       / \     _ __    _ __  ');
+  console.log('  | |  | |_  | __|  / _` | |  __|     / _ \   |  _ \  |  _ \ ');
+  console.log('  | |  |  _| | |_  | (_| | | |       / ___ \  | |_) | | |_) |');
+  console.log(' |___| |_|    \__|  \__,_| |_|      /_/   \_\ | .__/  | .__/ ');
+  console.log('                                              |_|     |_|    ');
   var currentUrl = window.location.href;
   var hicriTarih = getHicriDate();
 
-  // //console.log(city_names_to_diyanet_ids);
+  // console.log(city_names_to_diyanet_ids);
 
   // Auto complete stuff.
   $( "#location-ids" ).autocomplete({
@@ -65,7 +68,7 @@ jQuery( document ).ready(function( $ ) {
     },
     select: function(event, ui) {
         if(ui.item){
-          //console.log('Selected location: ', ui.item.value);
+          console.log('Selected location: ', ui.item.value);
           var id = city_names_to_diyanet_ids[ui.item.value];
           // createCookie('locationId', id, 6000);
           // createCookie('locationName', ui.item.value, 6000);
@@ -89,7 +92,7 @@ jQuery( document ).ready(function( $ ) {
     // Check if location had been chosen before.
     var locationId = localStorage.getItem('locationId') || readCookie('locationId');
     var locationName = localStorage.getItem('locationName') || readCookie('locationName');
-    //console.log('Location from cookies: ', locationId, locationName);
+    console.log('Location from cookies: ', locationId, locationName);
 
     setHicriTarih(hicriTarih);
     showTodayBelirliGun();
@@ -102,22 +105,23 @@ jQuery( document ).ready(function( $ ) {
     }
   } else {
     // If it's not home page but location is coming from GET.
-    //console.log('not getting the location because url is ' + currentUrl);
+    console.log('not getting the location because url is ' + currentUrl);
     var params = getJsonFromUrl(currentUrl);
-    //console.log('get url parameters: ' + JSON.stringify(params));
+    console.log('get url parameters: ' + JSON.stringify(params));
     if (params && params['ulke'] && params['sehir']) {
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
       setIftarTitle(params['ulke'], params['sehir'], params['state']);
       setWeatherTitle(params['ulke'], params['sehir'])
       setHicriTarih(hicriTarih);
-      window.location.href = (
-          '/' + params['ulke'] + '/' + params['sehir'] + '/' + params['state'])
+      // window.location.href = (
+      //     '/' + params['ulke'] + '/' + params['sehir'] + '/' + params['state'])
       var city = params['sehir'];
       var country = params['ulke'];
       var state = params['state'];
       getIftarTimeP(country, city, state);
       getWeatherByCityOW(country, city);
     } else if (GLOBAL_COUNTRY != null && GLOBAL_CITY != null) {
+      console.log('GLOBALS: ', GLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
       $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
       setIftarTitle(GLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
       setWeatherTitle(GLOBAL_COUNTRY, GLOBAL_CITY)
@@ -125,19 +129,19 @@ jQuery( document ).ready(function( $ ) {
       getIftarTimeP(GLOBAL_COUNTRY, GLOBAL_CITY, GLOBAL_STATE);
       getWeatherByCityOW(GLOBAL_COUNTRY, GLOBAL_CITY);
     } else {
-      //console.log('Wrong url params');
+      console.log('Wrong url params');
     }
   }
 
   var currentYear = (new Date()).getFullYear();
-  //console.log('Current year: ' + currentYear);
+  console.log('Current year: ' + currentYear);
 
   var currentRamazanItem = _RAMAZAN_DATES[currentYear];
   var ramazanStartDaysLeft = parseInt(
         (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
   var ramazanEndDaysLeft = parseInt(
         (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
-  //console.log('Ramazan end days left: ' + ramazanEndDaysLeft);
+  console.log('Ramazan end days left: ' + ramazanEndDaysLeft);
 
   // If I can show ramazan days left, I show.
 //  if ($('#span-ramazan-days-left').size() > 0) {
@@ -154,7 +158,7 @@ jQuery( document ).ready(function( $ ) {
           (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
     var ramazanEndDaysLeft = parseInt(
           (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
-    //console.log('next Ramazan end days left: ' + ramazanEndDaysLeft);
+    console.log('next Ramazan end days left: ' + ramazanEndDaysLeft);
     $('#span-ramazan-start-end-text').innerHTML = 'başlamasına';
     $('#span-ramazan-days-left').innerHTML = ramazanEndDaysLeft;
   } else {
@@ -167,7 +171,7 @@ jQuery( document ).ready(function( $ ) {
 
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
-    //console.log('Bilgi page');
+    console.log('Bilgi page');
     showTodayBelirliGun();
   }
 
@@ -211,11 +215,20 @@ String.prototype.turkishToLower = function() {
 }
 
 String.prototype.diyanetify = function() {
-  if (this == 'TÜRKİYE') {
-    return this;
+  console.log('Diyanetifying: ', this);
+  var trArr = ['TÜRKİYE', 'İBRADI', 'İDİL', 'İHSANGAZİ', 'İHSANİYE', 'İKİZCE', 'İKİZDERE', 'İLİÇ', 'İMAMOĞLU', 'İMRANLI', 'İNCESU', 'İNCİRLİOVA', 'İNEBOLU', 'İNEGÖL', 'İNHİSAR', 'İNÖNÜ', 'İPEK', 'İPSALA', 'İSCEHİSAR', 'İSKENDERUN', 'İSKİLİP', 'İSLAHİYE', 'İSPİR', 'İSTANBUL', 'İSTOK', 'İVRİNDİ', 'İYİDERE', 'İZMİR', 'İZNİK'];
+  for (var i = trArr.length - 1; i >= 0; i--) {
+    if (trArr[i] == this) {
+      console.log('Diyanetified: ', this);
+      return this;
+    }
   }
 
-  if (this == 'Türkiye' || this == 'TURKIYE' || this == 'türkiye') {
+  if (this == 'ISTANBUL') {
+    return 'İSTANBUL';
+  }
+
+  if (this == 'Türkiye' || this == 'TURKIYE' || this == 'türkiye' || this == 'turkiye') {
     return 'TÜRKİYE'
   }
   return this.nonTurkishToUpper();
@@ -386,7 +399,7 @@ function getLocation() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition);
     } else {
-        //console.log("Geolocation is not supported by this browser.");
+        console.log("Geolocation is not supported by this browser.");
         $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tespit edemedik :(';
     }
 }
@@ -394,32 +407,32 @@ function getLocation() {
 function showPosition(position) {
   var lat = position.coords.latitude;
   var lon = position.coords.longitude;
-  //console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
+  console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
 
-  //console.log('Getting address from geocode: ' + lat + ' ' + lon);
+  console.log('Getting address from geocode: ' + lat + ' ' + lon);
   var geocoder = new google.maps.Geocoder;
   var isFound = false;
   geocoder.geocode({'location': {'lat': lat, 'lng': lon}}, function(results, status) {
     if (status === 'OK') {
-      //console.log('results:')
-      //console.log(results)
+      console.log('results:')
+      console.log(results)
       for (var i = 0; i < results.length; i++) {
-        //console.log(results[i].types)
+        console.log(results[i].types)
         if (results[i].types.indexOf('locality') > -1) {
-          //console.log('found: ', results[i].formatted_address)
+          console.log('found: ', results[i].formatted_address)
           var city = results[i].formatted_address.split(',')[0].trim().diyanetify();
           var country = results[i].formatted_address.split(',')[1].trim().diyanetify();
 
           // var city = response.query.results.ResultSet.Result.city.diyanetify();
           // var country = response.query.results.ResultSet.Result.country.diyanetify();
           var state = null;
-          //console.log('city: ' + city);
-          //console.log('country: ' + country);
+          console.log('city: ' + city);
+          console.log('country: ' + country);
           setIftarTitle(country, city, state);
           setWeatherTitle(country, city);
 
           // Overwrite the cookie and local storage.
-          //console.log('Setting the cookies');
+          console.log('Setting the cookies');
           // createCookie('locationId', id, 6000);
           // createCookie('locationName', (state || city), 6000);
           var id = city_names_to_diyanet_ids[(state || city) + ' / ' + country];
@@ -435,9 +448,9 @@ function showPosition(position) {
       }
 
       if (isFound) {
-        //console.log('Address found')
+        console.log('Address found')
       } else {
-        //console.log('No results found');
+        console.log('No results found');
         country = _DEFAULT_COUNTRY
         city = _DEFAULT_CITY
         state = null
@@ -446,7 +459,7 @@ function showPosition(position) {
         getIftarTimeP(country, city, state);
       }
     } else {
-      //console.log('Geocoder failed due to: ' + status);
+      console.log('Geocoder failed due to: ' + status);
     }
   });
   return 1;
@@ -456,18 +469,19 @@ function showPosition(position) {
 
 function getIftarTimeFromId(locationId, locationName) {
   // New id based method.
-  //console.log('getIftarTimeFromId ID: ' + locationId + ' | ');
+  console.log('getIftarTimeFromId ID: ' + locationId + ' | ');
   var url = _FB_ROOT_URL + '/new_iftar/' + locationId + '.json';
-  //console.log('fb url: ' + url);
+  console.log('fb url: ' + url);
   fetch(url)
     .then(function(response) { return response.json(); })
     .then(function(json) {
-      // //console.log('json: ', json);
+      // console.log('json: ', json);
       doStuffWithNamazVakitleri(json, '', locationName, '');
   });  
 }
 
 function getIftarTimeP(country, city, state) {
+  console.log('getIftarTimeP: ', country, city, state);
   var d = new Date();
   var currentMonth = (
       d.getMonth() + 1 >= 10 ? d.getMonth() + 1 : '0' + (d.getMonth() + 1));
@@ -476,23 +490,24 @@ function getIftarTimeP(country, city, state) {
                  + currentDay);
   country = country.diyanetify();
   city = city.diyanetify();
+  if (state) state = state.diyanetify();
 
-  //console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
+  console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   
   // New id based method.
   var cityWithState = city;
   if (state) {
     cityWithState = state + ' / ' + city; 
   }
-  //console.log('cityWithState', cityWithState, country)
+  console.log('cityWithState', cityWithState, country)
   var key = city_names_to_diyanet_ids[cityWithState + ' / ' + country];
-  //console.log('ID: ' + key);
+  console.log('ID: ' + key);
   var url = _FB_ROOT_URL + '/new_iftar/' + key + '.json';
-  //console.log('fb url: ' + url);
+  console.log('fb url: ' + url);
   fetch(url)
     .then(function(response) { return response.json(); })
     .then(function(json) {
-      // //console.log('json: ', json);
+      // console.log('json: ', json);
       doStuffWithNamazVakitleri(json, state, city, country);
   });  
 
@@ -532,8 +547,8 @@ function getIftarTimeP(country, city, state) {
   //     }
   //     doStuffWithNamazVakitleri(response, state, city, country);
   //   } else {
-  //     //console.log("Bir hata oluştu.");
-  //     //console.log("Fallback");
+  //     console.log("Bir hata oluştu.");
+  //     console.log("Fallback");
   //     // Try without state, some cities have states some dont.
   //     // IRELAND vs Turkey.
   //     xhr.open("GET", withoutStateUrl, true);
@@ -551,8 +566,8 @@ function getIftarTimeP(country, city, state) {
   //         }
   //         doStuffWithNamazVakitleri(response, state, city, country);
   //       } else {
-  //         //console.log("Bir hata oluştu.");
-  //         //console.log("Fallback");
+  //         console.log("Bir hata oluştu.");
+  //         console.log("Fallback");
   //       } // End of fallback mechanism
   //     };
   //     xhr.send();
@@ -569,17 +584,17 @@ function getCurrentDay() {
 
 function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   //response = response['results'][0];
-  //console.log('doStuffWithNamazVakitleri response: ');
-  // //console.log(monthlyVakits);
+  console.log('doStuffWithNamazVakitleri response: ');
+  // console.log(monthlyVakits);
 
   var dateobj= new Date() ;
   var month = dateobj.getMonth() + 1;
   var day = dateobj.getDate();
   var year = dateobj.getFullYear();
   var currentFlatDate = year + '' + (month >= 10 ? month : '0' + month) + (day >= 10 ? day : '0' + day);
-  //console.log('currentFlatDate', currentFlatDate);
+  console.log('currentFlatDate', currentFlatDate);
   var todayNamazVakits = monthlyVakits[currentFlatDate];
-  // //console.log(todayNamazVakits);
+  // console.log(todayNamazVakits);
 
   var imsak = todayNamazVakits.imsak;
   var gunes = todayNamazVakits.gunes;
@@ -638,7 +653,7 @@ function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   //   targetTitle = 'İmsak';
   // }
 
-  //console.log('Setting timer now...');
+  console.log('Setting timer now...');
   setTimerForVakit(targetHours, targetMinutes, state, city, country, targetTitle);
   // setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes, state, city, country);
   setNamazVakitleri(imsak, gunes, ogle, ikindi, aksam, yatsi, monthlyVakits);
@@ -719,13 +734,13 @@ function setIftarTitle(country, city, state) {
   document.title = (
       country + ' / ' + city + ' / ' + state + ' için iftar ve namaz vakitleri, '
       + 'ramazana ne kadar kaldı?, Ankara, İstanbul, İzmir, Bursa, Bakü '
-      + 'iftar 2015, ramazan, uluslararası namaz ve iftar zamanları.');
+      + 'iftar 2019, ramazan, uluslararası namaz ve iftar zamanları.');
 
   $('.subtitle')[0].innerHTML = (
       city.capitalize() + ' ' + country.capitalize() +
       ' için kalan süre');
   if (state != null) {
-    $('.subtitle')[0].innerHTML = state + $('.subtitle')[0].innerHTML;
+    $('.subtitle')[0].innerHTML = ' ' + state + ' ' + $('.subtitle')[0].innerHTML;
   }
 }
 
@@ -736,8 +751,8 @@ function setWeatherTitle(country, city) {
 
 function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
                   state, city, country) {
-  //console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
-  //console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
+  console.log("iftar hour: " + iftarHours + " | minute: " + iftarMinutes);
+  console.log("sahur hour: " + sahurHours + " | minute: " + sahurMinutes);
 
   sahurHours = parseInt(sahurHours);
   sahurMinutes = parseInt(sahurMinutes);
@@ -751,7 +766,7 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
   var currentHours = currentdate.getHours();
   var currentMinutes = currentdate.getMinutes();
 
-  //console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
+  console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
 
   var iftarRemainingMs = (
       new Date(new Date).setHours(iftarHours, iftarMinutes, 0) - new Date());
@@ -763,8 +778,8 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
         new Date(new Date).setHours(sahurHours, sahurMinutes, 0) - new Date());
   }
 
-  //console.log("remaining iftar ms: " + iftarRemainingMs);
-  //console.log("remaining sahur ms: " + sahurRemainingMs);
+  console.log("remaining iftar ms: " + iftarRemainingMs);
+  console.log("remaining sahur ms: " + sahurRemainingMs);
 
   if (iftarRemainingMs > 0 && currentHours > sahurHours) {
     clock.setTime(iftarRemainingMs / 1000);
@@ -791,8 +806,8 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
 
 function setTimerForVakit(
     targetHours, targetMinutes, state, city, country, targetTitle) {
-  //console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
-  //console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
+  console.log("targetHours: " + targetHours + " | targetMinutes: " + targetMinutes);
+  console.log("city: " + city + " | country: " + country + " | title: " + targetTitle);
 
   targetHours = parseInt(targetHours);
   targetMinutes = parseInt(targetMinutes);
@@ -806,12 +821,12 @@ function setTimerForVakit(
   var currentHours = currentdate.getHours();
   var currentMinutes = currentdate.getMinutes();
 
-  //console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
+  console.log("current hour: " + currentHours + " | minute: " + currentMinutes);
 
   var targetRemainingMs = (
       new Date(new Date).setHours(targetHours, targetMinutes, 0) - new Date());
 
-  //console.log("remaining target ms: " + targetRemainingMs);
+  console.log("remaining target ms: " + targetRemainingMs);
 
   if (targetRemainingMs > 0 && currentHours < targetRemainingMs) {
     clock.setTime(targetRemainingMs / 1000);
