@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Okundu mu?</title>
-    <description>namaz vakitleri, sehirler, Ankara, İstanbul, İzmir, Bursa, Bakü iftar 2015, ramazan, uluslararası namaz ve iftar zamanları. Ramazana kaç gün kaldı? iftar ne zaman? sahur ne zaman? Şehir ve illerin aylık namaz vakitleri ve hava durumu. ramazanın bitmesine kaç gün kaldı?
+    <description>namaz vakitleri, sehirler, Ankara, İstanbul, İzmir, Bursa, Bakü iftar 2015, ramazan, uluslararası namaz ve iftar zamanları. Ramazana kaç gün kaldı? iftar ne zaman? sahur ne zaman? Şehir ve illerin aylık namaz vakitleri ve hava durumu. ramazanın bitmesine kaç gün kaldı? Yurtdışı namaz vakitleri, yurtdışı iftar vakitleri.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Apr 2020 04:28:45 +0100</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2020 04:28:45 +0100</lastBuildDate>
+    <link>https://iftarvakitleri.org/</link>
+    <atom:link href="https://iftarvakitleri.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Apr 2020 16:28:59 +0100</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2020 16:28:59 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -22,8 +22,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/ŞİLE</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/ŞİLE</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/ŞİLE</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/ŞİLE</guid>
         
         
       </item>
@@ -40,8 +40,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/İSTANBUL</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/İSTANBUL</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/İSTANBUL</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/İSTANBUL</guid>
         
         
       </item>
@@ -58,8 +58,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/ÇEKMEKÖY</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/ÇEKMEKÖY</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/ÇEKMEKÖY</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/ÇEKMEKÖY</guid>
         
         
       </item>
@@ -76,8 +76,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/ÇATALCA</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/ÇATALCA</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/ÇATALCA</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/ÇATALCA</guid>
         
         
       </item>
@@ -94,8 +94,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/TUZLA</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/TUZLA</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/TUZLA</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/TUZLA</guid>
         
         
       </item>
@@ -112,8 +112,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SİLİVRİ</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SİLİVRİ</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SİLİVRİ</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SİLİVRİ</guid>
         
         
       </item>
@@ -130,8 +130,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANGAZİ</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANGAZİ</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SULTANGAZİ</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SULTANGAZİ</guid>
         
         
       </item>
@@ -148,8 +148,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANBEYLİ</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SULTANBEYLİ</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SULTANBEYLİ</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SULTANBEYLİ</guid>
         
         
       </item>
@@ -166,8 +166,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/SANCAKTEPE</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/SANCAKTEPE</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SANCAKTEPE</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/SANCAKTEPE</guid>
         
         
       </item>
@@ -184,8 +184,8 @@
 
 </description>
         <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/TÜRKİYE/İSTANBUL/PENDİK</link>
-        <guid isPermaLink="true">http://localhost:4000/TÜRKİYE/İSTANBUL/PENDİK</guid>
+        <link>https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/PENDİK</link>
+        <guid isPermaLink="true">https://iftarvakitleri.org/TÜRKİYE/İSTANBUL/PENDİK</guid>
         
         
       </item>
