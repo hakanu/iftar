@@ -90,7 +90,7 @@ jQuery( document ).ready(function( $ ) {
      currentUrl.indexOf('/ulkeler.html') == -1 &&
      currentUrl.indexOf('/bilgi/') == -1 &&
      GLOBAL_COUNTRY == null && GLOBAL_CITY == null) {
-    $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor, bitmek üzere...';
+    $('.subtitle')[0].innerHTML = 'Bulunduğun yer tespit ediliyor (yer erişimine izin vermeyi unutmayın), bitmek üzere...';
     $('#today-date')[0].innerHTML = new Date().toJSON().slice(0,10);
 
     // Check if location had been chosen before.
@@ -612,6 +612,11 @@ function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   var currentFlatDate = year + '' + (month >= 10 ? month : '0' + month) + (day >= 10 ? day : '0' + day);
   console.log('currentFlatDate', currentFlatDate);
   var todayNamazVakits = monthlyVakits[currentFlatDate];
+  if (!todayNamazVakits) {
+    console.log('Bir hata var hic namaz vakti gelmemis');
+    $('.subtitle')[0].innerHTML = 'Namaz vakitlerini bulamadım, yukarıdan şehir ismi yazıp tekrar deneyebilirsin';
+    return;
+  }
   // console.log(todayNamazVakits);
 
   var imsak = todayNamazVakits.imsak;
