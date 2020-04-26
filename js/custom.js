@@ -1,5 +1,5 @@
- var console = {};
- console.log = function(){};
+// var console = {};
+// console.log = function(){};
 
 var clock = $('.your-clock').FlipClock({
   countdown: true,
@@ -37,6 +37,10 @@ var _RAMAZAN_DATES = {
     '2020': {
         'start': '2020-04-24',
         'end': '2020-05-23'
+    },
+    '2021': {
+        'start': '2021-04-13',
+        'end': '2021-05-12'
     }
 };
 
@@ -93,6 +97,7 @@ jQuery( document ).ready(function( $ ) {
     var locationId = localStorage.getItem('locationId') || readCookie('locationId');
     var locationName = localStorage.getItem('locationName') || readCookie('locationName');
     console.log('Location from cookies: ', locationId, locationName);
+//    window.location.href = locationName.split('/').reverse().join('/').trim() + '/';
 
     setHicriTarih(hicriTarih);
     showTodayBelirliGun();
@@ -400,11 +405,16 @@ function getLocation() {
         navigator.geolocation.getCurrentPosition(showPosition);
     } else {
         console.log("Geolocation is not supported by this browser.");
-        $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tespit edemedik :(';
+        $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tespit edemedik, tarayici desteklemiyor :(';
     }
 }
 
 function showPosition(position) {
+  if (!(position && position.coords && position.coords.latitude && position.coords.longitude)) {
+    console.log('Lokasyon bulunamadi');
+    $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tespit edemedik, bir hata oluştu :(';
+    return;
+  }
   var lat = position.coords.latitude;
   var lon = position.coords.longitude;
   console.log("Latitude: " + lat + " | " + "Longitude: " + lon);
@@ -448,9 +458,10 @@ function showPosition(position) {
       }
 
       if (isFound) {
-        console.log('Address found')
+        console.log('Address found');
       } else {
         console.log('No results found');
+        $('.subtitle')[0].innerHTML = 'Adres bulunamadı, İstanbulu gösteriyorum :(';
         country = _DEFAULT_COUNTRY
         city = _DEFAULT_CITY
         state = null
@@ -490,7 +501,9 @@ function getIftarTimeP(country, city, state) {
                  + currentDay);
   country = country.diyanetify();
   city = city.diyanetify();
-  if (state) state = state.diyanetify();
+  if (state) {
+    state = state.diyanetify();
+  }
 
   console.log('Getting iftar time for ' + country + ' city: ' + city + ' date: ' + dateStr);
   
@@ -501,6 +514,11 @@ function getIftarTimeP(country, city, state) {
   }
   console.log('cityWithState', cityWithState, country)
   var key = city_names_to_diyanet_ids[cityWithState + ' / ' + country];
+  if (!key)  {
+    console.log('key not found in diyanet ids: ', cityWithState, country);
+    $('.subtitle')[0].innerHTML = 'Adres bulunamadı, İstanbulu gösteriyorum :(';
+    key = "9541";
+  }
   console.log('ID: ' + key);
   var url = _FB_ROOT_URL + '/new_iftar/' + key + '.json';
   console.log('fb url: ' + url);
