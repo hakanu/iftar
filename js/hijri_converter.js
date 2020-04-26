@@ -9,7 +9,7 @@ function kuwaiticalendar(adjust){
 		todaymili = today.getTime()+adjustmili;
 		today = new Date(todaymili);
 	}
-	day = today.getDate();
+	day = today.getDate() - 1;
 	month = today.getMonth();
 	year = today.getFullYear();
 	m = month+1;
