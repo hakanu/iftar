@@ -8,6 +8,8 @@ var clock = $('.your-clock').FlipClock({
 });
 var _DEFAULT_COUNTRY = 'TÜRKİYE';
 var _DEFAULT_CITY = 'İSTANBUL';
+var _DEFAULT_ID = '9541';
+var _DEFAULT_LOCATION_NAME = 'ISTANBUL / ISTANBUL / TÜRKİYE';
 var _PROXY_SERVER_URL = 'https://warm-citadel-93183.herokuapp.com/proxy/{url}';
 
 var _OPEN_WEATHER_API_KEY = 'd0985731af499fa7eab5fa9e2238550e';
@@ -97,6 +99,15 @@ jQuery( document ).ready(function( $ ) {
     var locationId = localStorage.getItem('locationId') || readCookie('locationId');
     var locationName = localStorage.getItem('locationName') || readCookie('locationName');
     console.log('Location from cookies: ', locationId, locationName);
+    // Sometimes one of this comes as undefined.
+    // If we have stale data from cookies.
+    if ((locationId && !locationName) || (!locationId && locationName)) {
+      locationId = _DEFAULT_ID;
+      locationName = _DEFAULT_LOCATION_NAME;
+      localStorage.setItem('locationId', locationId);
+      localStorage.setItem('locationName', locationName);
+      $('.subtitle')[0].innerHTML = 'Bulunduğun yeri tam tespit edemedim, Istanbulu gösteriyorum, yukarıdan doğru şehri seçebilirsin...';
+    }
 //    window.location.href = locationName.split('/').reverse().join('/').trim() + '/';
 
     setHicriTarih(hicriTarih);
