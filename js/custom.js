@@ -250,6 +250,16 @@ String.prototype.diyanetify = function() {
   return this.nonTurkishToUpper();
 }
 
+function getKey(o, value){
+  for(var key in o){
+//    console.log('key: ', key);
+    if(o[key] == value){
+      return key;
+    }
+  }
+  return null;
+};
+
 function getJsonFromUrl() {
   var query = location.search.substr(1);
   var result = {};
@@ -458,12 +468,13 @@ function showPosition(position) {
           // createCookie('locationName', (state || city), 6000);
           var id = city_names_to_diyanet_ids[(state || city) + ' / ' + country];
           localStorage.setItem('locationId', id); 
-          localStorage.setItem('locationName', (state || city));
+          localStorage.setItem('locationName', ((state || city) + ' / ' + country));
 
           isFound = true;
 
           //getIftarTimeP(country, city, state);
           getIftarTimeFromId(id);
+          setIftarTitle(country, city, state);
           break;
         }
       }
@@ -491,7 +502,12 @@ function showPosition(position) {
 
 function getIftarTimeFromId(locationId, locationName) {
   // New id based method.
-  console.log('getIftarTimeFromId ID: ' + locationId + ' | ');
+  console.log('getIftarTimeFromId ID: ' + locationId + ' | ' + locationName);
+  if (!locationName) {
+    console.log('No location name come, setting it');
+    locationName = getKey(city_names_to_diyanet_ids, locationId);
+    console.log('Found location name from reverse mapping by locationid: ', locationName);
+  }
   var url = _FB_ROOT_URL + '/new_iftar/' + locationId + '.json';
   console.log('fb url: ' + url);
   fetch(url)
@@ -613,8 +629,12 @@ function getCurrentDay() {
 
 function doStuffWithNamazVakitleri(monthlyVakits, state, city, country) {
   //response = response['results'][0];
-  console.log('doStuffWithNamazVakitleri response: ');
+  console.log('doStuffWithNamazVakitleri: ', state, city, country);
+//  $('.subtitle')[0].innerHTML = city;
   // console.log(monthlyVakits);
+//  if (!state) {
+//    state = city;
+//  }
 
   var dateobj= new Date() ;
   var month = dateobj.getMonth() + 1;
@@ -812,8 +832,14 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
         new Date(new Date).setHours(sahurHours, sahurMinutes, 0) - new Date());
   }
 
+  // If there is no state, use city.
+//  if (!state) {
+//    state = city;
+//  }
+
   console.log("remaining iftar ms: " + iftarRemainingMs);
   console.log("remaining sahur ms: " + sahurRemainingMs);
+  console.log(state,city,country);
 
   if (iftarRemainingMs > 0 && currentHours > sahurHours) {
     clock.setTime(iftarRemainingMs / 1000);
@@ -830,7 +856,7 @@ function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
     $('#tagline').text($('#tagline').text().replace('iftar', 'sahur'));
     $('.subtitle')[0].innerHTML = (
         city.capitalize() + ' ' + country.capitalize() + ' için sahura kalan süre');
-    if (state != null) {
+    if (state != null && state != city) {
       $('.subtitle')[0].innerHTML = state + ' ' + $('.subtitle')[0].innerHTML;
     }
   }
