@@ -43,6 +43,22 @@ var _RAMAZAN_DATES = {
     '2021': {
         'start': '2021-04-13',
         'end': '2021-05-12'
+    },
+    '2022': {
+        'start': '2022-04-02',
+        'end': '2022-05-01'
+    },
+    '2023': {
+        'start': '2023-03-22',
+        'end': '2023-04-20'
+    },
+    '2024': {
+        'start': '2024-03-10',
+        'end': '2024-04-08'
+    },
+    '2025': {
+        'start': '2025-02-28',
+        'end': '2025-03-29'
     }
 };
 
@@ -153,37 +169,40 @@ jQuery( document ).ready(function( $ ) {
   console.log('Current year: ' + currentYear);
 
   var currentRamazanItem = _RAMAZAN_DATES[currentYear];
+  console.log('ramazan item: ', currentRamazanItem);
   var ramazanStartDaysLeft = parseInt(
         (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
   var ramazanEndDaysLeft = parseInt(
         (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
+  console.log('Ramazan start days left: ' + ramazanStartDaysLeft);
   console.log('Ramazan end days left: ' + ramazanEndDaysLeft);
 
   // If I can show ramazan days left, I show.
 //  if ($('#span-ramazan-days-left').size() > 0) {
   if (ramazanStartDaysLeft > 0) {
+    console.log('not yet started')
     // If ramazan has already started, it will be minus N.
-    ramazanStartDaysLeft = 0;
-    $('#span-ramazan-start-end-text').innerHTML = 'başlamasına';
-    $('#span-ramazan-days-left').innerHTML = ramazanEndDaysLeft;
+    // ramazanStartDaysLeft = 0;
+    $('#span-ramazan-start-end-text').text('başlamasına');
+    $('#sup-ramazan-days-left').text(ramazanStartDaysLeft);
   } else if (ramazanStartDaysLeft < -30) {
     // Show next ramazan.
     currentYear++;
     currentRamazanItem = _RAMAZAN_DATES[currentYear];
     var ramazanStartDaysLeft = parseInt(
-          (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
+        (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
     var ramazanEndDaysLeft = parseInt(
-          (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
+        (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
     console.log('next Ramazan end days left: ' + ramazanEndDaysLeft);
-    $('#span-ramazan-start-end-text').innerHTML = 'başlamasına';
-    $('#span-ramazan-days-left').innerHTML = ramazanEndDaysLeft;
+    $('#span-ramazan-start-end-text').text('başlamasına');
+    $('#sup-ramazan-days-left').text(ramazanEndDaysLeft);
   } else {
     // Ramazan started.
-    $('#span-ramazan-days-remaining')[0].innerHTML = ramazanEndDaysLeft;
-    $('#span-ramazan-start-end-text')[0].innerHTML = 'bitmesine';
+    $('#span-ramazan-days-remaining').text(ramazanEndDaysLeft);
+    $('#span-ramazan-start-end-text').text('bitmesine');
   }
 
-  $('#span-ramazan-bitis')[0].innerHTML = currentRamazanItem.end;
+  $('#span-ramazan-bitis').text(currentRamazanItem.end);
 
   // If it's bilgi page.
   if (currentUrl.indexOf('/bilgi/') != -1) {
@@ -799,8 +818,8 @@ function setIftarTitle(country, city, state) {
 }
 
 function setWeatherTitle(country, city) {
-  $('#span-weather-country').innerHTML = country;
-  $('#span-weather-city').innerHTML = city;
+  $('#span-weather-country').text(country);
+  $('#span-weather-city').text(city);
 }
 
 function setTimer(iftarHours, iftarMinutes, sahurHours, sahurMinutes,
