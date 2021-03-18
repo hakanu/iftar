@@ -1,0 +1,24 @@
+---
+layout: generated_md
+category: oku
+title: Tin suresini meali ve videosu ile takip et, dinle ve oku, Tin dinle, Tin meali, hatim dinle, hatim yap.
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tin suresini oku, dinle, takip et, hatim</h1>
+      <div class="div-youtube-embed">
+        <iframe width="560" height="415" src="https://www.youtube.com/embed/">frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12">
+      <h1>Tin suresinin mealini oku, dinle, takip et</h1>
+      <div><p>TİN SURESİ (Resmi Mushaf : 95 / İniş Sırası : 28)</p><p>Rahman ve Rahim Allah’ın adıyla…</p><p></p><p></p><p>1. Andolsun incire, zeytine,</p><p></p><p></p><p>2. Tur-i Sina’ya,</p><p></p><p></p><p>3. Ve şu güvenli kente ki,</p><p></p><p></p><p>4. Biz insanı, gerçekten en güzel bir biçimde yarattık.</p><p></p><p></p><p>5. Sonra da onu düşüklerin en düşüğüne / aşağıların en aşağısına çevirip attık.</p><p></p><p></p><p>6. İman edip hayra ve barışa yönelik iş üretenler müstesna. Bunlar için kesintisiz bir ödül vardır.</p><p></p><p></p><p>7. Böyle iken dini sana ne yalanlatır?</p><p></p><p></p><p>8. Allah, yargıçların en güzel hüküm vereni değil mi?</p><p></p><p></p><p></p><p></p></div>
+    </div>
+  </div>
+</div>
+<hr />

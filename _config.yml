@@ -3,7 +3,7 @@
 # ----------------------- #
 
 baseurl: ""
-url: "http://iftarvakitleri.org" # the base hostname & protocol for your site
+url: "https://iftarvakitleri.org" # the base hostname & protocol for your site
 title: Okundu mu?
 email: info@iftarvakitleri.org
 author: İftar Vakitleri
@@ -11,7 +11,9 @@ description: > # iftara ne kadar kaldı? Ezan ve namaz vakitleri, iftar vakitler
   namaz vakitleri, sehirler, Ankara, İstanbul, İzmir, Bursa, Bakü iftar 2015,
   ramazan, uluslararası namaz ve iftar zamanları. Ramazana kaç gün kaldı?
   iftar ne zaman? sahur ne zaman?
+  Şehir ve illerin aylık namaz vakitleri ve hava durumu.
   ramazanın bitmesine kaç gün kaldı?
+  Yurtdışı namaz vakitleri, yurtdışı iftar vakitleri.
 
 # ----------------------- #
 #    Jekyll & Plugins     #
