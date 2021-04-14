@@ -79,7 +79,7 @@ jQuery( document ).ready(function( $ ) {
   $( "#location-ids" ).autocomplete({
     source: function(request, response) {
         var filteredArray = $.map(Object.keys(city_names_to_diyanet_ids), function(item) {
-            if( item.startsWith(request.term.toLocalUpperCase('TR'))){
+            if( item.startsWith(request.term.toLocaleUpperCase('TR'))){
                 return item;
             }
             else{

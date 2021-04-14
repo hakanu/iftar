@@ -39,17 +39,6 @@ category: bilgi
 * Bayılanı ayıltmak için veya uyuyanın ağzına su akıtmak,
 * Oruçlunun ağzına giren gözyaşı veya ter, çok olur da, tuzluluğunu ağzının her yerinde duyar ve yutarsa orucu bozulur. Yutmayıp tükürürse bozulmaz.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- iftar ad responsive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3237344784986563"
-     data-ad-slot="6285125774"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 #### Orucu Bozmayan Eylemler
 
 * Unutarak yemek içmek,cinsel ilişkide bulunmak

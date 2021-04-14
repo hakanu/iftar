@@ -18,16 +18,6 @@ category: bilgi
   </div>
 </div> -->
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-3237344784986563"
-     data-ad-slot="6285125774"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 * Ey iman edenler! oruç sizden önce gelip geçmiş ümmetlere farz kılındığı gibi size de farz kılındı. Umulur ki korunursunuz.
 <br /><b>Bakara(2) 183</b>
 

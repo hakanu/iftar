@@ -15,7 +15,6 @@ category: bilgi
 
 # Tesbihatlar Ve Anlamlar
 
-
 * Estağfirullah: Allahtan mağfiret dilerim
 
 * Estağfirullah ve etübü ileyh : Allahtan mağfiret diler ve ona tövbe ederim.

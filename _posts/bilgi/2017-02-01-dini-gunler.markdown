@@ -8,6 +8,7 @@ category: bilgi
 <div class="row"></div>
 <div align="center">
   <h1>2021 yılı resmi tatil günleri</h1>
+
   <table class="table table-striped">
     <thead>
       <tr>
