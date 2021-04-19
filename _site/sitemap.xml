@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://iftarvakitleri.org/bilgi/tesbihatlar-ve-anlamlari</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/bilgi/oruc-ile-ilgili-ayetler</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/bilgi/orucu-bozan-seyler</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/services/services-2</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/services/services-1</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/about/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/iftar</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/bilgi/tesbihatlar-ve-anlamlari/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/bilgi/orucu-bozan-seyler/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/bilgi/oruc-ile-ilgili-ayetler/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/bilgi/dini-gunler/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/ulkeler</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>http://iftarvakitleri.org/login.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>
