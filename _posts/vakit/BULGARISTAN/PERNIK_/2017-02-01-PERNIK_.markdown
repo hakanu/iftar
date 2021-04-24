@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/PERNIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERNIK_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PERNIK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'PERNIK ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'PERNIK ';
+* [ (PERNIK_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PERNIK_/)
 </script>
+<script type="text/javascript">

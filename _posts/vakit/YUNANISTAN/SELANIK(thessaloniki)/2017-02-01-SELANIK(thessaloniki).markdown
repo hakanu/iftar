@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/SELANIK(thessaloniki)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SELANIK(thessaloniki), YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/SELANIK(thessaloniki)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'SELANIK(thessaloniki)';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'SELANIK(thessaloniki)';
+* [ (SELANIK(thessaloniki), YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/SELANIK(thessaloniki)/)
 </script>
+<script type="text/javascript">

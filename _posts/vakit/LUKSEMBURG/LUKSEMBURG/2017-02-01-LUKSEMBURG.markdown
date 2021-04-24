@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/LUKSEMBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUKSEMBURG, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/LUKSEMBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'LUKSEMBURG';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'LUKSEMBURG';
+* [ (LUKSEMBURG, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/LUKSEMBURG/)
 </script>
+<script type="text/javascript">

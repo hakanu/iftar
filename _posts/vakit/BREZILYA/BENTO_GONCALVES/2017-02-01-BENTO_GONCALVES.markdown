@@ -8,10 +8,11 @@ permalink: /BREZILYA/BENTO GONCALVES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENTO_GONCALVES, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BENTO_GONCALVES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BENTO GONCALVES';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BENTO GONCALVES';
+* [ (BENTO_GONCALVES, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BENTO_GONCALVES/)
 </script>
+<script type="text/javascript">

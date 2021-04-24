@@ -8,10 +8,11 @@ permalink: /NORVEC/VIKEDAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIKEDAL, NORVEC) için iftar ve namaz vakitleri](/NORVEC/VIKEDAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'VIKEDAL';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'VIKEDAL';
+* [ (VIKEDAL, NORVEC) için iftar ve namaz vakitleri](/NORVEC/VIKEDAL/)
 </script>
+<script type="text/javascript">

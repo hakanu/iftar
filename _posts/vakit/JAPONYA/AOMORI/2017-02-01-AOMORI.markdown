@@ -8,10 +8,11 @@ permalink: /JAPONYA/AOMORI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AOMORI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AOMORI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'AOMORI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'AOMORI';
+* [ (AOMORI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AOMORI/)
 </script>
+<script type="text/javascript">

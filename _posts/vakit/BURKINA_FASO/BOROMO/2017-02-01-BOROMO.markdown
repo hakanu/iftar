@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/BOROMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOROMO, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/BOROMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'BOROMO';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'BOROMO';
+* [ (BOROMO, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/BOROMO/)
 </script>
+<script type="text/javascript">

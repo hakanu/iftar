@@ -8,8 +8,9 @@ permalink: /GABON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TCHIBANGA (GABON) için iftar ve namaz vakitleri](/GABON/TCHIBANGA)
+
+* [LIBREVILLE (GABON) için iftar ve namaz vakitleri](/GABON/LIBREVILLE)
 * [MAKOKOU (GABON) için iftar ve namaz vakitleri](/GABON/MAKOKOU)
 * [OYEM (GABON) için iftar ve namaz vakitleri](/GABON/OYEM)
-* [LIBREVILLE (GABON) için iftar ve namaz vakitleri](/GABON/LIBREVILLE)
 * [PORT_GENTIL (GABON) için iftar ve namaz vakitleri](/GABON/PORT_GENTIL)
+* [TCHIBANGA (GABON) için iftar ve namaz vakitleri](/GABON/TCHIBANGA)

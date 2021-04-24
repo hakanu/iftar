@@ -8,10 +8,11 @@ permalink: /MOLDAVYA/KOMRAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOMRAT, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KOMRAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOLDAVYA';
+
   var GLOBAL_CITY = 'KOMRAT';
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
   var GLOBAL_STATE = 'KOMRAT';
+* [ (KOMRAT, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KOMRAT/)
 </script>
+<script type="text/javascript">

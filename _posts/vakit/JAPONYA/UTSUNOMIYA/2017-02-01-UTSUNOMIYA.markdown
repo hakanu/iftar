@@ -8,10 +8,11 @@ permalink: /JAPONYA/UTSUNOMIYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UTSUNOMIYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/UTSUNOMIYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'UTSUNOMIYA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'UTSUNOMIYA';
+* [ (UTSUNOMIYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/UTSUNOMIYA/)
 </script>
+<script type="text/javascript">

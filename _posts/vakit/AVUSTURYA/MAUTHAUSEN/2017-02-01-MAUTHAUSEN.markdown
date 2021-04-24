@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MAUTHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAUTHAUSEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MAUTHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MAUTHAUSEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MAUTHAUSEN';
+* [ (MAUTHAUSEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MAUTHAUSEN/)
 </script>
+<script type="text/javascript">

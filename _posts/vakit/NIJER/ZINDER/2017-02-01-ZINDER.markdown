@@ -8,10 +8,11 @@ permalink: /NIJER/ZINDER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZINDER, NIJER) için iftar ve namaz vakitleri](/NIJER/ZINDER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJER';
+
   var GLOBAL_CITY = 'ZINDER';
+  var GLOBAL_COUNTRY = 'NIJER';
   var GLOBAL_STATE = 'ZINDER';
+* [ (ZINDER, NIJER) için iftar ve namaz vakitleri](/NIJER/ZINDER/)
 </script>
+<script type="text/javascript">

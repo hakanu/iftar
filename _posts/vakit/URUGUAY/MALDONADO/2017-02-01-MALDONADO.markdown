@@ -8,10 +8,11 @@ permalink: /URUGUAY/MALDONADO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALDONADO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MALDONADO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'MALDONADO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'MALDONADO';
+* [ (MALDONADO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MALDONADO/)
 </script>
+<script type="text/javascript">

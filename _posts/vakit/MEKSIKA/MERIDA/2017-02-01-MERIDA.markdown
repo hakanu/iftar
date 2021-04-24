@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MERIDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MERIDA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MERIDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MERIDA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MERIDA';
+* [ (MERIDA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MERIDA/)
 </script>
+<script type="text/javascript">

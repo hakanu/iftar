@@ -8,10 +8,11 @@ permalink: /INGILTERE/WINDSOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WINDSOR, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WINDSOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WINDSOR';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WINDSOR';
+* [ (WINDSOR, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WINDSOR/)
 </script>
+<script type="text/javascript">

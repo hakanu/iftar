@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ALKMAAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALKMAAR, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALKMAAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ALKMAAR';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ALKMAAR';
+* [ (ALKMAAR, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALKMAAR/)
 </script>
+<script type="text/javascript">

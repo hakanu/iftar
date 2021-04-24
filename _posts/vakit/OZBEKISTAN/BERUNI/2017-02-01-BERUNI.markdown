@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/BERUNI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERUNI, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/BERUNI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'BERUNI';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'BERUNI';
+* [ (BERUNI, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/BERUNI/)
 </script>
+<script type="text/javascript">

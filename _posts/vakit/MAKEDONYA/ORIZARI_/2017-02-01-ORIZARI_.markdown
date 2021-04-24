@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/ORIZARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORIZARI_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/ORIZARI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'ORIZARI ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'ORIZARI ';
+* [ (ORIZARI_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/ORIZARI_/)
 </script>
+<script type="text/javascript">

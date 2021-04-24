@@ -8,10 +8,11 @@ permalink: /PERU/PUERTO MALDONADO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_MALDONADO, PERU) için iftar ve namaz vakitleri](/PERU/PUERTO_MALDONADO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'PUERTO MALDONADO';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'PUERTO MALDONADO';
+* [ (PUERTO_MALDONADO, PERU) için iftar ve namaz vakitleri](/PERU/PUERTO_MALDONADO/)
 </script>
+<script type="text/javascript">

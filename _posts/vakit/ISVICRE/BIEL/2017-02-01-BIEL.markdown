@@ -8,10 +8,11 @@ permalink: /ISVICRE/BIEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIEL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BIEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BIEL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BIEL';
+* [ (BIEL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BIEL/)
 </script>
+<script type="text/javascript">

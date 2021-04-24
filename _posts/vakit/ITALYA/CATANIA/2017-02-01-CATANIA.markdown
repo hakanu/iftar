@@ -8,10 +8,11 @@ permalink: /ITALYA/CATANIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CATANIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CATANIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CATANIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CATANIA';
+* [ (CATANIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CATANIA/)
 </script>
+<script type="text/javascript">

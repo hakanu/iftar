@@ -8,10 +8,11 @@ permalink: /MEKSIKA/SAN JUAN DEL RIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_JUAN_DEL_RIO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_JUAN_DEL_RIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'SAN JUAN DEL RIO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'SAN JUAN DEL RIO';
+* [ (SAN_JUAN_DEL_RIO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_JUAN_DEL_RIO/)
 </script>
+<script type="text/javascript">

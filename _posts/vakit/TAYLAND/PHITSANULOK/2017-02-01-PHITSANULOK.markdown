@@ -8,10 +8,11 @@ permalink: /TAYLAND/PHITSANULOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PHITSANULOK, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/PHITSANULOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'PHITSANULOK';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'PHITSANULOK';
+* [ (PHITSANULOK, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/PHITSANULOK/)
 </script>
+<script type="text/javascript">

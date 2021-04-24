@@ -8,10 +8,11 @@ permalink: /ALMANYA/WILDBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILDBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILDBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WILDBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WILDBERG';
+* [ (WILDBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILDBERG/)
 </script>
+<script type="text/javascript">

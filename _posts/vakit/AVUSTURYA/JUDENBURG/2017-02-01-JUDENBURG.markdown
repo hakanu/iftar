@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/JUDENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUDENBURG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/JUDENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'JUDENBURG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'JUDENBURG';
+* [ (JUDENBURG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/JUDENBURG/)
 </script>
+<script type="text/javascript">

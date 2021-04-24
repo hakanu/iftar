@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/MODRICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MODRICA_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MODRICA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'MODRICA ';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'MODRICA ';
+* [ (MODRICA_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MODRICA_/)
 </script>
+<script type="text/javascript">

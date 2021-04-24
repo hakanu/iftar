@@ -8,10 +8,11 @@ permalink: /FRANSA/SARREGUEMINES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARREGUEMINES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SARREGUEMINES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SARREGUEMINES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SARREGUEMINES';
+* [ (SARREGUEMINES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SARREGUEMINES/)
 </script>
+<script type="text/javascript">

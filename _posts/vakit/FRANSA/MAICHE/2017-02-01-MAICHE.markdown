@@ -8,10 +8,11 @@ permalink: /FRANSA/MAICHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAICHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAICHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MAICHE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MAICHE';
+* [ (MAICHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAICHE/)
 </script>
+<script type="text/javascript">

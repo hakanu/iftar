@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALZENAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALZENAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALZENAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALZENAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALZENAU';
+* [ (ALZENAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALZENAU/)
 </script>
+<script type="text/javascript">

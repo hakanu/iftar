@@ -8,10 +8,11 @@ permalink: /BELCIKA/WETTEREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WETTEREN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WETTEREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WETTEREN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WETTEREN';
+* [ (WETTEREN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WETTEREN/)
 </script>
+<script type="text/javascript">

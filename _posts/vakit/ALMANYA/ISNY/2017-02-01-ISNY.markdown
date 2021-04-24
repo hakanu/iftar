@@ -8,10 +8,11 @@ permalink: /ALMANYA/ISNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISNY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ISNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ISNY';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ISNY';
+* [ (ISNY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ISNY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SURIYE/HALEP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HALEP, SURIYE) için iftar ve namaz vakitleri](/SURIYE/HALEP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'HALEP';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'HALEP';
+* [ (HALEP, SURIYE) için iftar ve namaz vakitleri](/SURIYE/HALEP/)
 </script>
+<script type="text/javascript">

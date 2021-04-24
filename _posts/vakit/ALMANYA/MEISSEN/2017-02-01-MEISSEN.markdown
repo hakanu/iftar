@@ -8,10 +8,11 @@ permalink: /ALMANYA/MEISSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEISSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MEISSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MEISSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MEISSEN';
+* [ (MEISSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MEISSEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GURCISTAN/OZURGETI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OZURGETI_, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/OZURGETI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'OZURGETI ';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'OZURGETI ';
+* [ (OZURGETI_, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/OZURGETI_/)
 </script>
+<script type="text/javascript">

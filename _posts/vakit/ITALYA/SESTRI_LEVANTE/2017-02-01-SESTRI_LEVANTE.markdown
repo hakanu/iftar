@@ -8,10 +8,11 @@ permalink: /ITALYA/SESTRI LEVANTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SESTRI_LEVANTE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SESTRI_LEVANTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SESTRI LEVANTE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SESTRI LEVANTE';
+* [ (SESTRI_LEVANTE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SESTRI_LEVANTE/)
 </script>
+<script type="text/javascript">

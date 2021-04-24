@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTARGIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTARGIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTARGIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTARGIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTARGIS';
+* [ (MONTARGIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTARGIS/)
 </script>
+<script type="text/javascript">

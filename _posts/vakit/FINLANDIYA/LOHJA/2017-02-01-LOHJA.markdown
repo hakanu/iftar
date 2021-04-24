@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/LOHJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOHJA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LOHJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'LOHJA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'LOHJA';
+* [ (LOHJA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LOHJA/)
 </script>
+<script type="text/javascript">

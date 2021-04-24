@@ -8,10 +8,11 @@ permalink: /CIN/HUIZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUIZHOU, CIN) için iftar ve namaz vakitleri](/CIN/HUIZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HUIZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HUIZHOU';
+* [ (HUIZHOU, CIN) için iftar ve namaz vakitleri](/CIN/HUIZHOU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ERITRE/ASMARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASMARA, ERITRE) için iftar ve namaz vakitleri](/ERITRE/ASMARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ERITRE';
+
   var GLOBAL_CITY = 'ASMARA';
+  var GLOBAL_COUNTRY = 'ERITRE';
   var GLOBAL_STATE = 'ASMARA';
+* [ (ASMARA, ERITRE) için iftar ve namaz vakitleri](/ERITRE/ASMARA/)
 </script>
+<script type="text/javascript">

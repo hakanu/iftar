@@ -8,10 +8,11 @@ permalink: /MISIR/AL FAYYUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_FAYYUM, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_FAYYUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'AL FAYYUM';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'AL FAYYUM';
+* [ (AL_FAYYUM, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_FAYYUM/)
 </script>
+<script type="text/javascript">

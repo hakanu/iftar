@@ -8,10 +8,11 @@ permalink: /BREZILYA/COLOMBO (P)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COLOMBO_(P), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/COLOMBO_(P)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'COLOMBO (P)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'COLOMBO (P)';
+* [ (COLOMBO_(P), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/COLOMBO_(P)/)
 </script>
+<script type="text/javascript">

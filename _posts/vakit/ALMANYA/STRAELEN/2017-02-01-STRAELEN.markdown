@@ -8,10 +8,11 @@ permalink: /ALMANYA/STRAELEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRAELEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STRAELEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STRAELEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STRAELEN';
+* [ (STRAELEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STRAELEN/)
 </script>
+<script type="text/javascript">

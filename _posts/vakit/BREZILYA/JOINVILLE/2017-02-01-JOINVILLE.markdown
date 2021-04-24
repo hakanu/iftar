@@ -8,10 +8,11 @@ permalink: /BREZILYA/JOINVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JOINVILLE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JOINVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'JOINVILLE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'JOINVILLE';
+* [ (JOINVILLE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JOINVILLE/)
 </script>
+<script type="text/javascript">

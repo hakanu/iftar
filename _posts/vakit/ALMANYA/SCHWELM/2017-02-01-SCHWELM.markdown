@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWELM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWELM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWELM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWELM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWELM';
+* [ (SCHWELM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWELM/)
 </script>
+<script type="text/javascript">

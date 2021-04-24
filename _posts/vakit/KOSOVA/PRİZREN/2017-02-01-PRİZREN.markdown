@@ -8,10 +8,11 @@ permalink: /KOSOVA/PRİZREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PRİZREN, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/PRİZREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSOVA';
+
   var GLOBAL_CITY = 'PRİZREN';
+  var GLOBAL_COUNTRY = 'KOSOVA';
   var GLOBAL_STATE = 'PRİZREN';
+* [ (PRİZREN, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/PRİZREN/)
 </script>
+<script type="text/javascript">

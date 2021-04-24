@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/NAHCIVAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAHCIVAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/NAHCIVAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'NAHCIVAN';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'NAHCIVAN';
+* [ (NAHCIVAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/NAHCIVAN/)
 </script>
+<script type="text/javascript">

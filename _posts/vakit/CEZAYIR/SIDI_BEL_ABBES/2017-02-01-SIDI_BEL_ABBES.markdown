@@ -8,10 +8,11 @@ permalink: /CEZAYIR/SIDI BEL ABBES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIDI_BEL_ABBES, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/SIDI_BEL_ABBES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'SIDI BEL ABBES';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'SIDI BEL ABBES';
+* [ (SIDI_BEL_ABBES, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/SIDI_BEL_ABBES/)
 </script>
+<script type="text/javascript">

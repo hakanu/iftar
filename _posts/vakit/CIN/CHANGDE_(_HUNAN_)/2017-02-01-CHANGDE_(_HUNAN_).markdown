@@ -8,10 +8,11 @@ permalink: /CIN/CHANGDE ( HUNAN )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANGDE_(_HUNAN_), CIN) için iftar ve namaz vakitleri](/CIN/CHANGDE_(_HUNAN_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHANGDE ( HUNAN )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHANGDE ( HUNAN )';
+* [ (CHANGDE_(_HUNAN_), CIN) için iftar ve namaz vakitleri](/CIN/CHANGDE_(_HUNAN_)/)
 </script>
+<script type="text/javascript">

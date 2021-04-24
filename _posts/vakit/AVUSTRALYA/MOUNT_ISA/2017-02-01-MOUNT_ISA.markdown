@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOUNT ISA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOUNT_ISA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOUNT_ISA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOUNT ISA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOUNT ISA';
+* [ (MOUNT_ISA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOUNT_ISA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISPANYA/CARTAGENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARTAGENA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CARTAGENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'CARTAGENA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'CARTAGENA';
+* [ (CARTAGENA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CARTAGENA/)
 </script>
+<script type="text/javascript">

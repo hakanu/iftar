@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MEXICO CITY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEXICO_CITY, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MEXICO_CITY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MEXICO CITY';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MEXICO CITY';
+* [ (MEXICO_CITY, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MEXICO_CITY/)
 </script>
+<script type="text/javascript">

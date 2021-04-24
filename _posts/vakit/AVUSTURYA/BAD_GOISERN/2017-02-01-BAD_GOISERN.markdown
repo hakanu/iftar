@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BAD GOISERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_GOISERN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BAD_GOISERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BAD GOISERN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BAD GOISERN';
+* [ (BAD_GOISERN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BAD_GOISERN/)
 </script>
+<script type="text/javascript">

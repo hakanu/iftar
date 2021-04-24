@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEIDENHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEIDENHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEIDENHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEIDENHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEIDENHEIM';
+* [ (HEIDENHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEIDENHEIM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BENIN/KANDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANDI, BENIN) için iftar ve namaz vakitleri](/BENIN/KANDI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'KANDI';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'KANDI';
+* [ (KANDI, BENIN) için iftar ve namaz vakitleri](/BENIN/KANDI/)
 </script>
+<script type="text/javascript">

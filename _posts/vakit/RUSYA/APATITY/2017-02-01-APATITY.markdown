@@ -8,10 +8,11 @@ permalink: /RUSYA/APATITY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APATITY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/APATITY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'APATITY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'APATITY';
+* [ (APATITY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/APATITY/)
 </script>
+<script type="text/javascript">

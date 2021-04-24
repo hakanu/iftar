@@ -8,10 +8,11 @@ permalink: /NORVEC/SYLLING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SYLLING, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SYLLING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SYLLING';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SYLLING';
+* [ (SYLLING, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SYLLING/)
 </script>
+<script type="text/javascript">

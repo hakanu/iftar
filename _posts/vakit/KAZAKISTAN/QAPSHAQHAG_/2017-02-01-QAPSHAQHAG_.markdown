@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/QAPSHAQHAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QAPSHAQHAG_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/QAPSHAQHAG_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'QAPSHAQHAG ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'QAPSHAQHAG ';
+* [ (QAPSHAQHAG_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/QAPSHAQHAG_/)
 </script>
+<script type="text/javascript">

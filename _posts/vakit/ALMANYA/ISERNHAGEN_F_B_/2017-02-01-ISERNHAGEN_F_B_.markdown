@@ -8,10 +8,11 @@ permalink: /ALMANYA/ISERNHAGEN F_B_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISERNHAGEN_F_B_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ISERNHAGEN_F_B_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ISERNHAGEN F_B_';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ISERNHAGEN F_B_';
+* [ (ISERNHAGEN_F_B_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ISERNHAGEN_F_B_/)
 </script>
+<script type="text/javascript">

@@ -8,13 +8,14 @@ permalink: /ABD/IDAHO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'IDAHO';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'IDAHO';
+* [BOISE (IDAHO, ABD) için iftar ve namaz vakitleri](/ABD/IDAHO/BOISE)
 * [MOSCOW (IDAHO, ABD) için iftar ve namaz vakitleri](/ABD/IDAHO/MOSCOW)
 * [SUN_VALLEY (IDAHO, ABD) için iftar ve namaz vakitleri](/ABD/IDAHO/SUN_VALLEY)
 * [TWIN_FALLS (IDAHO, ABD) için iftar ve namaz vakitleri](/ABD/IDAHO/TWIN_FALLS)
-* [BOISE (IDAHO, ABD) için iftar ve namaz vakitleri](/ABD/IDAHO/BOISE)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'IDAHO';
-  var GLOBAL_STATE = 'IDAHO';
 </script>
+<script type="text/javascript">

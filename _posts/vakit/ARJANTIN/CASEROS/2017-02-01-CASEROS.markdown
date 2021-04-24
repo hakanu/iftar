@@ -8,10 +8,11 @@ permalink: /ARJANTIN/CASEROS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CASEROS, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CASEROS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'CASEROS';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'CASEROS';
+* [ (CASEROS, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CASEROS/)
 </script>
+<script type="text/javascript">

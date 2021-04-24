@@ -8,10 +8,11 @@ permalink: /ALMANYA/GEISENFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEISENFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEISENFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GEISENFELD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GEISENFELD';
+* [ (GEISENFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEISENFELD/)
 </script>
+<script type="text/javascript">

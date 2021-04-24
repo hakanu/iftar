@@ -8,10 +8,11 @@ permalink: /POLONYA/ZIELONA GORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZIELONA_GORA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/ZIELONA_GORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'ZIELONA GORA';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'ZIELONA GORA';
+* [ (ZIELONA_GORA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/ZIELONA_GORA/)
 </script>
+<script type="text/javascript">

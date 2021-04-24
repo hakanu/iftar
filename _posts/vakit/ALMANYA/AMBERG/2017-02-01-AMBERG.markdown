@@ -8,10 +8,11 @@ permalink: /ALMANYA/AMBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AMBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AMBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AMBERG';
+* [ (AMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AMBERG/)
 </script>
+<script type="text/javascript">

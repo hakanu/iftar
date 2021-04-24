@@ -8,10 +8,11 @@ permalink: /IRLANDA/CORK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORK, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/CORK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'CORK';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'CORK';
+* [ (CORK, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/CORK/)
 </script>
+<script type="text/javascript">

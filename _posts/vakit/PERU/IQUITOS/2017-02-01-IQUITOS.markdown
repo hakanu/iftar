@@ -8,10 +8,11 @@ permalink: /PERU/IQUITOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IQUITOS, PERU) için iftar ve namaz vakitleri](/PERU/IQUITOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'IQUITOS';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'IQUITOS';
+* [ (IQUITOS, PERU) için iftar ve namaz vakitleri](/PERU/IQUITOS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/SHCHELKOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHCHELKOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHCHELKOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SHCHELKOVO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SHCHELKOVO';
+* [ (SHCHELKOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHCHELKOVO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVEC/SOLLEFTEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOLLEFTEA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SOLLEFTEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'SOLLEFTEA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'SOLLEFTEA';
+* [ (SOLLEFTEA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SOLLEFTEA/)
 </script>
+<script type="text/javascript">

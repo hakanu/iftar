@@ -8,10 +8,11 @@ permalink: /HINDISTAN/HOSHIARPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOSHIARPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/HOSHIARPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'HOSHIARPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'HOSHIARPUR';
+* [ (HOSHIARPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/HOSHIARPUR/)
 </script>
+<script type="text/javascript">

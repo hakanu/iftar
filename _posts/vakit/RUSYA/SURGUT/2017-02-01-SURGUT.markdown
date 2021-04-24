@@ -8,10 +8,11 @@ permalink: /RUSYA/SURGUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SURGUT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SURGUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SURGUT';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SURGUT';
+* [ (SURGUT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SURGUT/)
 </script>
+<script type="text/javascript">

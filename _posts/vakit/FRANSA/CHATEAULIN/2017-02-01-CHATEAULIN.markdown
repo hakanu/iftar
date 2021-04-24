@@ -8,10 +8,11 @@ permalink: /FRANSA/CHATEAULIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHATEAULIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHATEAULIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHATEAULIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHATEAULIN';
+* [ (CHATEAULIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHATEAULIN/)
 </script>
+<script type="text/javascript">

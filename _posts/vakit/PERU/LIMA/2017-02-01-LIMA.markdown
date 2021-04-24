@@ -8,10 +8,11 @@ permalink: /PERU/LIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIMA, PERU) için iftar ve namaz vakitleri](/PERU/LIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'LIMA';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'LIMA';
+* [ (LIMA, PERU) için iftar ve namaz vakitleri](/PERU/LIMA/)
 </script>
+<script type="text/javascript">

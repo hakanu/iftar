@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KUSTANAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUSTANAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KUSTANAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KUSTANAY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KUSTANAY';
+* [ (KUSTANAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KUSTANAY/)
 </script>
+<script type="text/javascript">

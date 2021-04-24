@@ -8,10 +8,11 @@ permalink: /JAPONYA/KURASHIKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURASHIKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KURASHIKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KURASHIKI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KURASHIKI';
+* [ (KURASHIKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KURASHIKI/)
 </script>
+<script type="text/javascript">

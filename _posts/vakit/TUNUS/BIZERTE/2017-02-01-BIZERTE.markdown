@@ -8,10 +8,11 @@ permalink: /TUNUS/BIZERTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIZERTE, TUNUS) için iftar ve namaz vakitleri](/TUNUS/BIZERTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TUNUS';
+
   var GLOBAL_CITY = 'BIZERTE';
+  var GLOBAL_COUNTRY = 'TUNUS';
   var GLOBAL_STATE = 'BIZERTE';
+* [ (BIZERTE, TUNUS) için iftar ve namaz vakitleri](/TUNUS/BIZERTE/)
 </script>
+<script type="text/javascript">

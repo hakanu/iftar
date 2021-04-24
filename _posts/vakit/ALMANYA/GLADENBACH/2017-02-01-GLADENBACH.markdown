@@ -8,10 +8,11 @@ permalink: /ALMANYA/GLADENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLADENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLADENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GLADENBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GLADENBACH';
+* [ (GLADENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLADENBACH/)
 </script>
+<script type="text/javascript">

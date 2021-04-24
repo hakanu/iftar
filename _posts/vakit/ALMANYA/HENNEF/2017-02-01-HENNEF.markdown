@@ -8,10 +8,11 @@ permalink: /ALMANYA/HENNEF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HENNEF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HENNEF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HENNEF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HENNEF';
+* [ (HENNEF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HENNEF/)
 </script>
+<script type="text/javascript">

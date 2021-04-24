@@ -8,10 +8,11 @@ permalink: /URUGUAY/ARTIGAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARTIGAS, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/ARTIGAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'ARTIGAS';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'ARTIGAS';
+* [ (ARTIGAS, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/ARTIGAS/)
 </script>
+<script type="text/javascript">

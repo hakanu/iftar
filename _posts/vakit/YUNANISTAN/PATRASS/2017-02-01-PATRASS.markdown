@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/PATRASS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PATRASS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/PATRASS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'PATRASS';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'PATRASS';
+* [ (PATRASS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/PATRASS/)
 </script>
+<script type="text/javascript">

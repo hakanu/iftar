@@ -8,10 +8,11 @@ permalink: /MEKSIKA/PENJAMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENJAMO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PENJAMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'PENJAMO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'PENJAMO';
+* [ (PENJAMO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PENJAMO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HOENSBROEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOENSBROEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOENSBROEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HOENSBROEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HOENSBROEK';
+* [ (HOENSBROEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOENSBROEK/)
 </script>
+<script type="text/javascript">

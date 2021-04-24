@@ -8,10 +8,11 @@ permalink: /ALMANYA/MOMBRIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOMBRIS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOMBRIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MOMBRIS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MOMBRIS';
+* [ (MOMBRIS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOMBRIS/)
 </script>
+<script type="text/javascript">

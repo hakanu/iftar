@@ -8,10 +8,11 @@ permalink: /HOLLANDA/PANNINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PANNINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/PANNINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'PANNINGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'PANNINGEN';
+* [ (PANNINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/PANNINGEN/)
 </script>
+<script type="text/javascript">

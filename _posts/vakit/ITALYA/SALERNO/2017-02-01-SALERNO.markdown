@@ -8,10 +8,11 @@ permalink: /ITALYA/SALERNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALERNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SALERNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SALERNO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SALERNO';
+* [ (SALERNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SALERNO/)
 </script>
+<script type="text/javascript">

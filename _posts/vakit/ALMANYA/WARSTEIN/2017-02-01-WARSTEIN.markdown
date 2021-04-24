@@ -8,10 +8,11 @@ permalink: /ALMANYA/WARSTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARSTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WARSTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WARSTEIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WARSTEIN';
+* [ (WARSTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WARSTEIN/)
 </script>
+<script type="text/javascript">

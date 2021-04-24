@@ -8,10 +8,11 @@ permalink: /FILIPINLER/ZAMBOANGA CITY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAMBOANGA_CITY, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ZAMBOANGA_CITY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'ZAMBOANGA CITY';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'ZAMBOANGA CITY';
+* [ (ZAMBOANGA_CITY, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ZAMBOANGA_CITY/)
 </script>
+<script type="text/javascript">

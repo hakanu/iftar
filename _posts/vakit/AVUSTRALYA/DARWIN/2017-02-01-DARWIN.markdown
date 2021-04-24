@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/DARWIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DARWIN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DARWIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'DARWIN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'DARWIN';
+* [ (DARWIN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DARWIN/)
 </script>
+<script type="text/javascript">

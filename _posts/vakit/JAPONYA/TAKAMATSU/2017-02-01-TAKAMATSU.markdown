@@ -8,10 +8,11 @@ permalink: /JAPONYA/TAKAMATSU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAKAMATSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAKAMATSU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TAKAMATSU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TAKAMATSU';
+* [ (TAKAMATSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAKAMATSU/)
 </script>
+<script type="text/javascript">

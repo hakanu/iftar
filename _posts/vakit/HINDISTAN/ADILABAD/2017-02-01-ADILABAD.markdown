@@ -8,10 +8,11 @@ permalink: /HINDISTAN/ADILABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ADILABAD, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/ADILABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'ADILABAD';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'ADILABAD';
+* [ (ADILABAD, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/ADILABAD/)
 </script>
+<script type="text/javascript">

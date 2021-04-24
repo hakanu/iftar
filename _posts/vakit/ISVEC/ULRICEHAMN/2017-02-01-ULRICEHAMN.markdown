@@ -8,10 +8,11 @@ permalink: /ISVEC/ULRICEHAMN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULRICEHAMN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/ULRICEHAMN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'ULRICEHAMN';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'ULRICEHAMN';
+* [ (ULRICEHAMN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/ULRICEHAMN/)
 </script>
+<script type="text/javascript">

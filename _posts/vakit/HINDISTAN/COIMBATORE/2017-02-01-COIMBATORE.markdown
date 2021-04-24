@@ -8,10 +8,11 @@ permalink: /HINDISTAN/COIMBATORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COIMBATORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/COIMBATORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'COIMBATORE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'COIMBATORE';
+* [ (COIMBATORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/COIMBATORE/)
 </script>
+<script type="text/javascript">

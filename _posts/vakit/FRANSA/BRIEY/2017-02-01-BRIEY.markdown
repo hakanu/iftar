@@ -8,10 +8,11 @@ permalink: /FRANSA/BRIEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIEY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BRIEY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BRIEY';
+* [ (BRIEY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIEY/)
 </script>
+<script type="text/javascript">

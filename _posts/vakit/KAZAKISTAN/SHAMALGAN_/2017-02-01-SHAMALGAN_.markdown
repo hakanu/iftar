@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/SHAMALGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAMALGAN_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SHAMALGAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'SHAMALGAN ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'SHAMALGAN ';
+* [ (SHAMALGAN_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SHAMALGAN_/)
 </script>
+<script type="text/javascript">

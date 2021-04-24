@@ -8,10 +8,11 @@ permalink: /SOMALI/BULO BURTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BULO_BURTI, SOMALI) için iftar ve namaz vakitleri](/SOMALI/BULO_BURTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SOMALI';
+
   var GLOBAL_CITY = 'BULO BURTI';
+  var GLOBAL_COUNTRY = 'SOMALI';
   var GLOBAL_STATE = 'BULO BURTI';
+* [ (BULO_BURTI, SOMALI) için iftar ve namaz vakitleri](/SOMALI/BULO_BURTI/)
 </script>
+<script type="text/javascript">

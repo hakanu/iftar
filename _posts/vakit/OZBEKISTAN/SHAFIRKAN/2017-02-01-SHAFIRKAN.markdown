@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/SHAFIRKAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAFIRKAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/SHAFIRKAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'SHAFIRKAN';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'SHAFIRKAN';
+* [ (SHAFIRKAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/SHAFIRKAN/)
 </script>
+<script type="text/javascript">

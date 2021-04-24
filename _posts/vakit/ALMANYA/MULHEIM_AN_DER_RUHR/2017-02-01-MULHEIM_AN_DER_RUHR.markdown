@@ -8,10 +8,11 @@ permalink: /ALMANYA/MULHEIM AN DER RUHR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MULHEIM_AN_DER_RUHR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MULHEIM_AN_DER_RUHR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MULHEIM AN DER RUHR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MULHEIM AN DER RUHR';
+* [ (MULHEIM_AN_DER_RUHR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MULHEIM_AN_DER_RUHR/)
 </script>
+<script type="text/javascript">

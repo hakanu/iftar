@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ELIZABETH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELIZABETH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ELIZABETH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ELIZABETH';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ELIZABETH';
+* [ (ELIZABETH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ELIZABETH/)
 </script>
+<script type="text/javascript">

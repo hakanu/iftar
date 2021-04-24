@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/GIMHAE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIMHAE, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GIMHAE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'GIMHAE';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'GIMHAE';
+* [ (GIMHAE, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GIMHAE/)
 </script>
+<script type="text/javascript">

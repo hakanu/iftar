@@ -8,10 +8,11 @@ permalink: /ALMANYA/PINNEBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINNEBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PINNEBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PINNEBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PINNEBERG';
+* [ (PINNEBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PINNEBERG/)
 </script>
+<script type="text/javascript">

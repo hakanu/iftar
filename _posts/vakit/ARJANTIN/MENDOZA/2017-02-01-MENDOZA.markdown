@@ -8,10 +8,11 @@ permalink: /ARJANTIN/MENDOZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MENDOZA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MENDOZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'MENDOZA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'MENDOZA';
+* [ (MENDOZA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MENDOZA/)
 </script>
+<script type="text/javascript">

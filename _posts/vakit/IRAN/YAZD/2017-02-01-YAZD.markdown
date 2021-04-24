@@ -8,10 +8,11 @@ permalink: /IRAN/YAZD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAZD, IRAN) için iftar ve namaz vakitleri](/IRAN/YAZD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'YAZD';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'YAZD';
+* [ (YAZD, IRAN) için iftar ve namaz vakitleri](/IRAN/YAZD/)
 </script>
+<script type="text/javascript">

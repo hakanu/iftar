@@ -8,10 +8,11 @@ permalink: /FRANSA/ISSOIRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISSOIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ISSOIRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ISSOIRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ISSOIRE';
+* [ (ISSOIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ISSOIRE/)
 </script>
+<script type="text/javascript">

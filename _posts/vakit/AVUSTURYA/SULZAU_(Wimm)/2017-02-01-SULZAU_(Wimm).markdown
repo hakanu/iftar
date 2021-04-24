@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SULZAU (Wimm)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SULZAU_(Wimm), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SULZAU_(Wimm)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SULZAU (Wimm)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SULZAU (Wimm)';
+* [ (SULZAU_(Wimm), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SULZAU_(Wimm)/)
 </script>
+<script type="text/javascript">

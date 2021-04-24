@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/BASSEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASSEIN, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/BASSEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'BASSEIN';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'BASSEIN';
+* [ (BASSEIN, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/BASSEIN/)
 </script>
+<script type="text/javascript">

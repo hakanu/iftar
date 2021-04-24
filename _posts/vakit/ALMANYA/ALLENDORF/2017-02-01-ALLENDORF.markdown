@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALLENDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [EDER (ALLENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLENDORF/EDER)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALLENDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALLENDORF';
+* [EDER (ALLENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLENDORF/EDER)
 </script>
+<script type="text/javascript">

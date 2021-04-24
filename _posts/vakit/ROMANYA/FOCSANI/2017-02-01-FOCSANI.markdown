@@ -8,10 +8,11 @@ permalink: /ROMANYA/FOCSANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOCSANI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/FOCSANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'FOCSANI';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'FOCSANI';
+* [ (FOCSANI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/FOCSANI/)
 </script>
+<script type="text/javascript">

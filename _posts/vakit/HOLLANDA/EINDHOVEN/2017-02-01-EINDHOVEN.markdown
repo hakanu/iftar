@@ -8,10 +8,11 @@ permalink: /HOLLANDA/EINDHOVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EINDHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EINDHOVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'EINDHOVEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'EINDHOVEN';
+* [ (EINDHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EINDHOVEN/)
 </script>
+<script type="text/javascript">

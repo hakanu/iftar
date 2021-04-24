@@ -8,10 +8,11 @@ permalink: /ALMANYA/DOBELN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOBELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DOBELN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DOBELN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DOBELN';
+* [ (DOBELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DOBELN/)
 </script>
+<script type="text/javascript">

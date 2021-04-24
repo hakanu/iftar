@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CARNARVON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARNARVON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CARNARVON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CARNARVON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CARNARVON';
+* [ (CARNARVON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CARNARVON/)
 </script>
+<script type="text/javascript">

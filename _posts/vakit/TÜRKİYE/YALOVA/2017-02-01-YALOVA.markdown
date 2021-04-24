@@ -8,14 +8,15 @@ permalink: /TÜRKİYE/YALOVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [YALOVA (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/YALOVA)
-* [ARMUTLU (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ARMUTLU)
-* [ALTINOVA (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ALTINOVA)
-* [ÇINARCIK (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ÇINARCIK)
-* [TERMAL (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/TERMAL)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'YALOVA';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'YALOVA';
+* [ALTINOVA (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ALTINOVA)
+* [ARMUTLU (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ARMUTLU)
+* [TERMAL (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/TERMAL)
+* [YALOVA (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/YALOVA)
+* [ÇINARCIK (YALOVA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YALOVA/ÇINARCIK)
 </script>
+<script type="text/javascript">

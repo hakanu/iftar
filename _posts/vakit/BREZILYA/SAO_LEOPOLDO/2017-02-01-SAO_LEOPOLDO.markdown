@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO LEOPOLDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_LEOPOLDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_LEOPOLDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO LEOPOLDO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO LEOPOLDO';
+* [ (SAO_LEOPOLDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_LEOPOLDO/)
 </script>
+<script type="text/javascript">

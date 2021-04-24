@@ -8,10 +8,11 @@ permalink: /FRANSA/TROUVILLE (H-N)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TROUVILLE_(H-N), FRANSA) için iftar ve namaz vakitleri](/FRANSA/TROUVILLE_(H-N)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TROUVILLE (H-N)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TROUVILLE (H-N)';
+* [ (TROUVILLE_(H-N), FRANSA) için iftar ve namaz vakitleri](/FRANSA/TROUVILLE_(H-N)/)
 </script>
+<script type="text/javascript">

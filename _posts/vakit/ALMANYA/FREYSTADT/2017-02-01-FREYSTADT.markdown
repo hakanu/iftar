@@ -8,10 +8,11 @@ permalink: /ALMANYA/FREYSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREYSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREYSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FREYSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FREYSTADT';
+* [ (FREYSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREYSTADT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VLIJMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VLIJMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VLIJMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VLIJMEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VLIJMEN';
+* [ (VLIJMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VLIJMEN/)
 </script>
+<script type="text/javascript">

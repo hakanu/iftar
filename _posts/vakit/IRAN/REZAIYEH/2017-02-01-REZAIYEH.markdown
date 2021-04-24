@@ -8,10 +8,11 @@ permalink: /IRAN/REZAIYEH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REZAIYEH, IRAN) için iftar ve namaz vakitleri](/IRAN/REZAIYEH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'REZAIYEH';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'REZAIYEH';
+* [ (REZAIYEH, IRAN) için iftar ve namaz vakitleri](/IRAN/REZAIYEH/)
 </script>
+<script type="text/javascript">

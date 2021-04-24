@@ -8,10 +8,11 @@ permalink: /INGILTERE/BRIGHTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIGHTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BRIGHTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BRIGHTON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BRIGHTON';
+* [ (BRIGHTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BRIGHTON/)
 </script>
+<script type="text/javascript">

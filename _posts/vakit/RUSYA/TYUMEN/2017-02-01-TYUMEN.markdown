@@ -8,10 +8,11 @@ permalink: /RUSYA/TYUMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TYUMEN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TYUMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TYUMEN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TYUMEN';
+* [ (TYUMEN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TYUMEN/)
 </script>
+<script type="text/javascript">

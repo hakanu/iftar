@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/JINJU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JINJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/JINJU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'JINJU';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'JINJU';
+* [ (JINJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/JINJU/)
 </script>
+<script type="text/javascript">

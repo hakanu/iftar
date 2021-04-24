@@ -8,10 +8,11 @@ permalink: /ISPANYA/CADIZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CADIZ, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CADIZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'CADIZ';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'CADIZ';
+* [ (CADIZ, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CADIZ/)
 </script>
+<script type="text/javascript">

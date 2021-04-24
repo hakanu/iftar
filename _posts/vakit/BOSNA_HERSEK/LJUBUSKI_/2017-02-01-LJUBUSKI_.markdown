@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/LJUBUSKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LJUBUSKI_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/LJUBUSKI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'LJUBUSKI ';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'LJUBUSKI ';
+* [ (LJUBUSKI_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/LJUBUSKI_/)
 </script>
+<script type="text/javascript">

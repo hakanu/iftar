@@ -8,10 +8,11 @@ permalink: /BELCIKA/FLEURUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLEURUS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FLEURUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'FLEURUS';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'FLEURUS';
+* [ (FLEURUS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FLEURUS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/SMOLENSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SMOLENSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SMOLENSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SMOLENSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SMOLENSK';
+* [ (SMOLENSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SMOLENSK/)
 </script>
+<script type="text/javascript">

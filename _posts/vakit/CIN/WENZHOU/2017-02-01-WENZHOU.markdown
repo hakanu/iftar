@@ -8,10 +8,11 @@ permalink: /CIN/WENZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WENZHOU, CIN) için iftar ve namaz vakitleri](/CIN/WENZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'WENZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'WENZHOU';
+* [ (WENZHOU, CIN) için iftar ve namaz vakitleri](/CIN/WENZHOU/)
 </script>
+<script type="text/javascript">

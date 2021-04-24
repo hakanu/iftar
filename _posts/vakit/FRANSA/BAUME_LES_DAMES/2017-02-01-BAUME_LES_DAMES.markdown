@@ -8,10 +8,11 @@ permalink: /FRANSA/BAUME LES DAMES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAUME_LES_DAMES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAUME_LES_DAMES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BAUME LES DAMES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BAUME LES DAMES';
+* [ (BAUME_LES_DAMES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAUME_LES_DAMES/)
 </script>
+<script type="text/javascript">

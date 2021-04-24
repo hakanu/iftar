@@ -8,10 +8,11 @@ permalink: /FILIPINLER/DAVAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAVAO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/DAVAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'DAVAO';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'DAVAO';
+* [ (DAVAO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/DAVAO/)
 </script>
+<script type="text/javascript">

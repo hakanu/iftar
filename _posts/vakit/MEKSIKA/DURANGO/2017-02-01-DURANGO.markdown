@@ -8,10 +8,11 @@ permalink: /MEKSIKA/DURANGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DURANGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/DURANGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'DURANGO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'DURANGO';
+* [ (DURANGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/DURANGO/)
 </script>
+<script type="text/javascript">

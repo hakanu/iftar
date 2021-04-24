@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUTZBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUTZBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUTZBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUTZBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUTZBACH';
+* [ (BUTZBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUTZBACH/)
 </script>
+<script type="text/javascript">

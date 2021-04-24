@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/GULISTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GULISTAN_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GULISTAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'GULISTAN ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'GULISTAN ';
+* [ (GULISTAN_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GULISTAN_/)
 </script>
+<script type="text/javascript">

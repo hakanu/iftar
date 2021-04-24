@@ -8,10 +8,11 @@ permalink: /MEKSIKA/AGUA PRIETA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGUA_PRIETA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/AGUA_PRIETA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'AGUA PRIETA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'AGUA PRIETA';
+* [ (AGUA_PRIETA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/AGUA_PRIETA/)
 </script>
+<script type="text/javascript">

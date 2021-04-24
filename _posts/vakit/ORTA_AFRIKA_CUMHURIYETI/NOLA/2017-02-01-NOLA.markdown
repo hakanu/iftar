@@ -8,10 +8,11 @@ permalink: /ORTA AFRIKA CUMHURIYETI/NOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOLA, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/NOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
+
   var GLOBAL_CITY = 'NOLA';
+  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
   var GLOBAL_STATE = 'NOLA';
+* [ (NOLA, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/NOLA/)
 </script>
+<script type="text/javascript">

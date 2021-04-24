@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/HOVD (DUND-US)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOVD_(DUND-US), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HOVD_(DUND-US)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'HOVD (DUND-US)';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'HOVD (DUND-US)';
+* [ (HOVD_(DUND-US), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HOVD_(DUND-US)/)
 </script>
+<script type="text/javascript">

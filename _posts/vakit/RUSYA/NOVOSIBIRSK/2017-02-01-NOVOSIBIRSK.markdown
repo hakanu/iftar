@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVOSIBIRSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVOSIBIRSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOSIBIRSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVOSIBIRSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVOSIBIRSK';
+* [ (NOVOSIBIRSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOSIBIRSK/)
 </script>
+<script type="text/javascript">

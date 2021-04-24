@@ -8,10 +8,11 @@ permalink: /RUSYA/RUZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUZA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RUZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'RUZA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'RUZA';
+* [ (RUZA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RUZA/)
 </script>
+<script type="text/javascript">

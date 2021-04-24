@@ -8,10 +8,11 @@ permalink: /FRANSA/OBERNAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERNAI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/OBERNAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'OBERNAI';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'OBERNAI';
+* [ (OBERNAI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/OBERNAI/)
 </script>
+<script type="text/javascript">

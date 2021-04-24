@@ -8,10 +8,11 @@ permalink: /ALMANYA/WALLDURN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALLDURN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALLDURN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WALLDURN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WALLDURN';
+* [ (WALLDURN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALLDURN/)
 </script>
+<script type="text/javascript">

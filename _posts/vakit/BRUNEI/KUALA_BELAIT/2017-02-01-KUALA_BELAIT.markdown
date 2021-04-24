@@ -8,10 +8,11 @@ permalink: /BRUNEI/KUALA BELAIT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUALA_BELAIT, BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/KUALA_BELAIT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BRUNEI';
+
   var GLOBAL_CITY = 'KUALA BELAIT';
+  var GLOBAL_COUNTRY = 'BRUNEI';
   var GLOBAL_STATE = 'KUALA BELAIT';
+* [ (KUALA_BELAIT, BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/KUALA_BELAIT/)
 </script>
+<script type="text/javascript">

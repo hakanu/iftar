@@ -8,10 +8,11 @@ permalink: /INGILTERE/GRANTHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRANTHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GRANTHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'GRANTHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'GRANTHAM';
+* [ (GRANTHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GRANTHAM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/AMSTETTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMSTETTEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/AMSTETTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'AMSTETTEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'AMSTETTEN';
+* [ (AMSTETTEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/AMSTETTEN/)
 </script>
+<script type="text/javascript">

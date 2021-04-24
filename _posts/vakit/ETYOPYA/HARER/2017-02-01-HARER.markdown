@@ -8,10 +8,11 @@ permalink: /ETYOPYA/HARER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARER, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/HARER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ETYOPYA';
+
   var GLOBAL_CITY = 'HARER';
+  var GLOBAL_COUNTRY = 'ETYOPYA';
   var GLOBAL_STATE = 'HARER';
+* [ (HARER, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/HARER/)
 </script>
+<script type="text/javascript">

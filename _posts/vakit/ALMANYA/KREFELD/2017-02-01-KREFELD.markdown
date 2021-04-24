@@ -8,10 +8,11 @@ permalink: /ALMANYA/KREFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KREFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KREFELD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KREFELD';
+* [ (KREFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREFELD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/TERENOZEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERENOZEK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TERENOZEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'TERENOZEK';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'TERENOZEK';
+* [ (TERENOZEK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TERENOZEK/)
 </script>
+<script type="text/javascript">

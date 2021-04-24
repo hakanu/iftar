@@ -8,10 +8,11 @@ permalink: /IRAK/SULEYMANIYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SULEYMANIYE, IRAK) için iftar ve namaz vakitleri](/IRAK/SULEYMANIYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'SULEYMANIYE';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'SULEYMANIYE';
+* [ (SULEYMANIYE, IRAK) için iftar ve namaz vakitleri](/IRAK/SULEYMANIYE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GABON/PORT GENTIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT_GENTIL, GABON) için iftar ve namaz vakitleri](/GABON/PORT_GENTIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GABON';
+
   var GLOBAL_CITY = 'PORT GENTIL';
+  var GLOBAL_COUNTRY = 'GABON';
   var GLOBAL_STATE = 'PORT GENTIL';
+* [ (PORT_GENTIL, GABON) için iftar ve namaz vakitleri](/GABON/PORT_GENTIL/)
 </script>
+<script type="text/javascript">

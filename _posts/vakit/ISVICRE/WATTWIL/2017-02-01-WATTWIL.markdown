@@ -8,10 +8,11 @@ permalink: /ISVICRE/WATTWIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WATTWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WATTWIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'WATTWIL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'WATTWIL';
+* [ (WATTWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WATTWIL/)
 </script>
+<script type="text/javascript">

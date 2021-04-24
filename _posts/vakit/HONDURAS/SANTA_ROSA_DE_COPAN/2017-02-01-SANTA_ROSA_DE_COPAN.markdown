@@ -8,10 +8,11 @@ permalink: /HONDURAS/SANTA ROSA DE COPAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_ROSA_DE_COPAN, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/SANTA_ROSA_DE_COPAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'SANTA ROSA DE COPAN';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'SANTA ROSA DE COPAN';
+* [ (SANTA_ROSA_DE_COPAN, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/SANTA_ROSA_DE_COPAN/)
 </script>
+<script type="text/javascript">

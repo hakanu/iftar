@@ -8,10 +8,11 @@ permalink: /FRANSA/GIROMAGNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIROMAGNY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GIROMAGNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GIROMAGNY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GIROMAGNY';
+* [ (GIROMAGNY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GIROMAGNY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/MUHLACKER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUHLACKER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUHLACKER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MUHLACKER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MUHLACKER';
+* [ (MUHLACKER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUHLACKER/)
 </script>
+<script type="text/javascript">

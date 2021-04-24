@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/WORGL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WORGL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WORGL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'WORGL';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'WORGL';
+* [ (WORGL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WORGL/)
 </script>
+<script type="text/javascript">

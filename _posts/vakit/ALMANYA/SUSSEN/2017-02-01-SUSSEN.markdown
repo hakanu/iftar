@@ -8,10 +8,11 @@ permalink: /ALMANYA/SUSSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUSSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SUSSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SUSSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SUSSEN';
+* [ (SUSSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SUSSEN/)
 </script>
+<script type="text/javascript">

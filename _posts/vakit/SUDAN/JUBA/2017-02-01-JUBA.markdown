@@ -8,10 +8,11 @@ permalink: /SUDAN/JUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUBA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/JUBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SUDAN';
+
   var GLOBAL_CITY = 'JUBA';
+  var GLOBAL_COUNTRY = 'SUDAN';
   var GLOBAL_STATE = 'JUBA';
+* [ (JUBA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/JUBA/)
 </script>
+<script type="text/javascript">

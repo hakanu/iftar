@@ -8,10 +8,11 @@ permalink: /ALMANYA/BURSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BURSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BURSTADT';
+* [ (BURSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURSTADT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/DORDIVES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DORDIVES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DORDIVES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DORDIVES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DORDIVES';
+* [ (DORDIVES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DORDIVES/)
 </script>
+<script type="text/javascript">

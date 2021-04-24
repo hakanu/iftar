@@ -8,10 +8,11 @@ permalink: /FRANSA/CANNES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CANNES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CANNES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CANNES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CANNES';
+* [ (CANNES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CANNES/)
 </script>
+<script type="text/javascript">

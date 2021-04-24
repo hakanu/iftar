@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEUFAHRN (NDB)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUFAHRN_(NDB), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUFAHRN_(NDB)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEUFAHRN (NDB)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEUFAHRN (NDB)';
+* [ (NEUFAHRN_(NDB), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUFAHRN_(NDB)/)
 </script>
+<script type="text/javascript">

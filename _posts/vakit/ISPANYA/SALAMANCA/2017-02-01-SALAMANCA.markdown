@@ -8,10 +8,11 @@ permalink: /ISPANYA/SALAMANCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALAMANCA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SALAMANCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'SALAMANCA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'SALAMANCA';
+* [ (SALAMANCA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SALAMANCA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SAMAXI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAMAXI, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SAMAXI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SAMAXI';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SAMAXI';
+* [ (SAMAXI, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SAMAXI/)
 </script>
+<script type="text/javascript">

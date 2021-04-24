@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WINSCHOTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WINSCHOTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WINSCHOTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WINSCHOTEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WINSCHOTEN';
+* [ (WINSCHOTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WINSCHOTEN/)
 </script>
+<script type="text/javascript">

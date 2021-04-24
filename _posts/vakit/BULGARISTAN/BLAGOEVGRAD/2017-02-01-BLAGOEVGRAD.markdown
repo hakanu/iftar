@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/BLAGOEVGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLAGOEVGRAD, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BLAGOEVGRAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'BLAGOEVGRAD';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'BLAGOEVGRAD';
+* [ (BLAGOEVGRAD, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BLAGOEVGRAD/)
 </script>
+<script type="text/javascript">

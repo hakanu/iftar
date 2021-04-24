@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/KHANABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHANABAD, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/KHANABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'KHANABAD';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'KHANABAD';
+* [ (KHANABAD, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/KHANABAD/)
 </script>
+<script type="text/javascript">

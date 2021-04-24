@@ -8,10 +8,11 @@ permalink: /BELCIKA/DE HAAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DE_HAAN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/DE_HAAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'DE HAAN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'DE HAAN';
+* [ (DE_HAAN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/DE_HAAN/)
 </script>
+<script type="text/javascript">

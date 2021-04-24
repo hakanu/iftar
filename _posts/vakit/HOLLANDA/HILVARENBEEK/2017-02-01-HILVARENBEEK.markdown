@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HILVARENBEEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HILVARENBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HILVARENBEEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HILVARENBEEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HILVARENBEEK';
+* [ (HILVARENBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HILVARENBEEK/)
 </script>
+<script type="text/javascript">

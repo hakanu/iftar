@@ -8,10 +8,11 @@ permalink: /ALMANYA/LOSSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOSSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOSSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LOSSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LOSSBURG';
+* [ (LOSSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOSSBURG/)
 </script>
+<script type="text/javascript">

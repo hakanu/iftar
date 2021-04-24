@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/OULU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OULU, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/OULU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'OULU';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'OULU';
+* [ (OULU, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/OULU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GANA/TEMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEMA, GANA) için iftar ve namaz vakitleri](/GANA/TEMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'TEMA';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'TEMA';
+* [ (TEMA, GANA) için iftar ve namaz vakitleri](/GANA/TEMA/)
 </script>
+<script type="text/javascript">

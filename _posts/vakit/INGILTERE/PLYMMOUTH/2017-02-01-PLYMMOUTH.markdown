@@ -8,10 +8,11 @@ permalink: /INGILTERE/PLYMMOUTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLYMMOUTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PLYMMOUTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'PLYMMOUTH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'PLYMMOUTH';
+* [ (PLYMMOUTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PLYMMOUTH/)
 </script>
+<script type="text/javascript">

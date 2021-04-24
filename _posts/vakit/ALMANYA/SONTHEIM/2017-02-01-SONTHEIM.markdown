@@ -8,10 +8,11 @@ permalink: /ALMANYA/SONTHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SONTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SONTHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SONTHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SONTHEIM';
+* [ (SONTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SONTHEIM/)
 </script>
+<script type="text/javascript">

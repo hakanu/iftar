@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD WALDSEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_WALDSEE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_WALDSEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD WALDSEE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD WALDSEE';
+* [ (BAD_WALDSEE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_WALDSEE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/AARAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AARAU, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/AARAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'AARAU';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'AARAU';
+* [ (AARAU, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/AARAU/)
 </script>
+<script type="text/javascript">

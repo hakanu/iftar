@@ -8,10 +8,11 @@ permalink: /BOTSVANA/LOBATSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOBATSE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/LOBATSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOTSVANA';
+
   var GLOBAL_CITY = 'LOBATSE';
+  var GLOBAL_COUNTRY = 'BOTSVANA';
   var GLOBAL_STATE = 'LOBATSE';
+* [ (LOBATSE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/LOBATSE/)
 </script>
+<script type="text/javascript">

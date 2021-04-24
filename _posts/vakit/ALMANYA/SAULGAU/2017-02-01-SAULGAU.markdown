@@ -8,10 +8,11 @@ permalink: /ALMANYA/SAULGAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAULGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SAULGAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SAULGAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SAULGAU';
+* [ (SAULGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SAULGAU/)
 </script>
+<script type="text/javascript">

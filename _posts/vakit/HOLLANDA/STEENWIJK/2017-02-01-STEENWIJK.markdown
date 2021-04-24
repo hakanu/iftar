@@ -8,10 +8,11 @@ permalink: /HOLLANDA/STEENWIJK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEENWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/STEENWIJK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'STEENWIJK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'STEENWIJK';
+* [ (STEENWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/STEENWIJK/)
 </script>
+<script type="text/javascript">

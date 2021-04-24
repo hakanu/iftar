@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DORDRECHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DORDRECHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DORDRECHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DORDRECHT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DORDRECHT';
+* [ (DORDRECHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DORDRECHT/)
 </script>
+<script type="text/javascript">

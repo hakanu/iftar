@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/KRAGUJEVAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRAGUJEVAC, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/KRAGUJEVAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'KRAGUJEVAC';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'KRAGUJEVAC';
+* [ (KRAGUJEVAC, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/KRAGUJEVAC/)
 </script>
+<script type="text/javascript">

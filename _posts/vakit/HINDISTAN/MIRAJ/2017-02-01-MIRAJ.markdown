@@ -8,10 +8,11 @@ permalink: /HINDISTAN/MIRAJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIRAJ, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MIRAJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'MIRAJ';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'MIRAJ';
+* [ (MIRAJ, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MIRAJ/)
 </script>
+<script type="text/javascript">

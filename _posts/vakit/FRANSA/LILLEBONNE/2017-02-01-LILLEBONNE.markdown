@@ -8,10 +8,11 @@ permalink: /FRANSA/LILLEBONNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LILLEBONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LILLEBONNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LILLEBONNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LILLEBONNE';
+* [ (LILLEBONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LILLEBONNE/)
 </script>
+<script type="text/javascript">

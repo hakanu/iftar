@@ -8,10 +8,11 @@ permalink: /ISVICRE/MUTTENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUTTENZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MUTTENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MUTTENZ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MUTTENZ';
+* [ (MUTTENZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MUTTENZ/)
 </script>
+<script type="text/javascript">

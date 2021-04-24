@@ -8,10 +8,11 @@ permalink: /GURCISTAN/TIFLIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIFLIS, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/TIFLIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'TIFLIS';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'TIFLIS';
+* [ (TIFLIS, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/TIFLIS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/EBERGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EBERGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EBERGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'EBERGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'EBERGEN';
+* [ (EBERGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EBERGEN/)
 </script>
+<script type="text/javascript">

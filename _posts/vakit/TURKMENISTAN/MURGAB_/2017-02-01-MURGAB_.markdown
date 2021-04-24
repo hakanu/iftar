@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/MURGAB
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURGAB_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/MURGAB_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'MURGAB ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'MURGAB ';
+* [ (MURGAB_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/MURGAB_/)
 </script>
+<script type="text/javascript">

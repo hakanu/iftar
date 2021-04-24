@@ -8,10 +8,11 @@ permalink: /IRAN/BABOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BABOL, IRAN) için iftar ve namaz vakitleri](/IRAN/BABOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'BABOL';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'BABOL';
+* [ (BABOL, IRAN) için iftar ve namaz vakitleri](/IRAN/BABOL/)
 </script>
+<script type="text/javascript">

@@ -8,15 +8,16 @@ permalink: /KANADA/ALBERTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ARUBA (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/ARUBA)
-* [EDMONTON (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/EDMONTON)
-* [KALGOORLIE (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/KALGOORLIE)
-* [CALGARY (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/CALGARY)
-* [JASPER (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/JASPER)
-* [BANFF (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/BANFF)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KANADA';
+
   var GLOBAL_CITY = 'ALBERTA';
+  var GLOBAL_COUNTRY = 'KANADA';
   var GLOBAL_STATE = 'ALBERTA';
+* [ARUBA (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/ARUBA)
+* [BANFF (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/BANFF)
+* [CALGARY (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/CALGARY)
+* [EDMONTON (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/EDMONTON)
+* [JASPER (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/JASPER)
+* [KALGOORLIE (ALBERTA, KANADA) için iftar ve namaz vakitleri](/KANADA/ALBERTA/KALGOORLIE)
 </script>
+<script type="text/javascript">

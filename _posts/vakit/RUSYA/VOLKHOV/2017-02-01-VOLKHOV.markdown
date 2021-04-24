@@ -8,10 +8,11 @@ permalink: /RUSYA/VOLKHOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLKHOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLKHOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VOLKHOV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VOLKHOV';
+* [ (VOLKHOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLKHOV/)
 </script>
+<script type="text/javascript">

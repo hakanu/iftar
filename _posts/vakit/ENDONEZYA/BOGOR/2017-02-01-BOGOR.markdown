@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/BOGOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOGOR, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BOGOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'BOGOR';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'BOGOR';
+* [ (BOGOR, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BOGOR/)
 </script>
+<script type="text/javascript">

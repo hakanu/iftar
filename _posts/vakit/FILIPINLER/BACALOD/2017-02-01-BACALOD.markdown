@@ -8,10 +8,11 @@ permalink: /FILIPINLER/BACALOD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BACALOD, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BACALOD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'BACALOD';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'BACALOD';
+* [ (BACALOD, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BACALOD/)
 </script>
+<script type="text/javascript">

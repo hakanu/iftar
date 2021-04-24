@@ -8,10 +8,11 @@ permalink: /INGILTERE/SHREWSBURY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHREWSBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SHREWSBURY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'SHREWSBURY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'SHREWSBURY';
+* [ (SHREWSBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SHREWSBURY/)
 </script>
+<script type="text/javascript">

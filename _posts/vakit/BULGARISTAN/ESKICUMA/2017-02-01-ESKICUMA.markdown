@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/ESKICUMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESKICUMA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ESKICUMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'ESKICUMA';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'ESKICUMA';
+* [ (ESKICUMA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ESKICUMA/)
 </script>
+<script type="text/javascript">

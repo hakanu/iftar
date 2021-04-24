@@ -8,10 +8,11 @@ permalink: /ALMANYA/STADE (LS)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STADE_(LS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADE_(LS)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STADE (LS)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STADE (LS)';
+* [ (STADE_(LS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADE_(LS)/)
 </script>
+<script type="text/javascript">

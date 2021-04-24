@@ -8,10 +8,11 @@ permalink: /ZAMBIYA/CHINGOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHINGOLA, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/CHINGOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZAMBIYA';
+
   var GLOBAL_CITY = 'CHINGOLA';
+  var GLOBAL_COUNTRY = 'ZAMBIYA';
   var GLOBAL_STATE = 'CHINGOLA';
+* [ (CHINGOLA, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/CHINGOLA/)
 </script>
+<script type="text/javascript">

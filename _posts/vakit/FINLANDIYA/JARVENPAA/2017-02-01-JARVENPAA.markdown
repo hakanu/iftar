@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/JARVENPAA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JARVENPAA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/JARVENPAA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'JARVENPAA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'JARVENPAA';
+* [ (JARVENPAA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/JARVENPAA/)
 </script>
+<script type="text/javascript">

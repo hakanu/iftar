@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/VARKAUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VARKAUS, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/VARKAUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'VARKAUS';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'VARKAUS';
+* [ (VARKAUS, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/VARKAUS/)
 </script>
+<script type="text/javascript">

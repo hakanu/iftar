@@ -8,10 +8,11 @@ permalink: /ALMANYA/HUNGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUNGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUNGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HUNGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HUNGEN';
+* [ (HUNGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUNGEN/)
 </script>
+<script type="text/javascript">

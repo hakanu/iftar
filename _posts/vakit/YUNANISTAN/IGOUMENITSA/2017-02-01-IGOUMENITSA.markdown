@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/IGOUMENITSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IGOUMENITSA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/IGOUMENITSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'IGOUMENITSA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'IGOUMENITSA';
+* [ (IGOUMENITSA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/IGOUMENITSA/)
 </script>
+<script type="text/javascript">

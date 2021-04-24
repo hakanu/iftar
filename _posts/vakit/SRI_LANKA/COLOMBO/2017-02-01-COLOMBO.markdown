@@ -8,10 +8,11 @@ permalink: /SRI LANKA/COLOMBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COLOMBO, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/COLOMBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SRI LANKA';
+
   var GLOBAL_CITY = 'COLOMBO';
+  var GLOBAL_COUNTRY = 'SRI LANKA';
   var GLOBAL_STATE = 'COLOMBO';
+* [ (COLOMBO, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/COLOMBO/)
 </script>
+<script type="text/javascript">

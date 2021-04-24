@@ -8,10 +8,11 @@ permalink: /ALMANYA/HAMBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAMBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HAMBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HAMBURG';
+* [ (HAMBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAMBURG/)
 </script>
+<script type="text/javascript">

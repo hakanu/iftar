@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/TURGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURGEN_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TURGEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'TURGEN ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'TURGEN ';
+* [ (TURGEN_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TURGEN_/)
 </script>
+<script type="text/javascript">

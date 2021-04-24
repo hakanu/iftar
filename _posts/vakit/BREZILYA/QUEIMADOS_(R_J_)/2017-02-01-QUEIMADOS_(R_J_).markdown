@@ -8,10 +8,11 @@ permalink: /BREZILYA/QUEIMADOS (R_J_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUEIMADOS_(R_J_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/QUEIMADOS_(R_J_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'QUEIMADOS (R_J_)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'QUEIMADOS (R_J_)';
+* [ (QUEIMADOS_(R_J_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/QUEIMADOS_(R_J_)/)
 </script>
+<script type="text/javascript">

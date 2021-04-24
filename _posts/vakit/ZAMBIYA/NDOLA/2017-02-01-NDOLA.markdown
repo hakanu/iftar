@@ -8,10 +8,11 @@ permalink: /ZAMBIYA/NDOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NDOLA, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/NDOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZAMBIYA';
+
   var GLOBAL_CITY = 'NDOLA';
+  var GLOBAL_COUNTRY = 'ZAMBIYA';
   var GLOBAL_STATE = 'NDOLA';
+* [ (NDOLA, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/NDOLA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /VENEZUELA/CATIA LA MAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CATIA_LA_MAR, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CATIA_LA_MAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'CATIA LA MAR';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'CATIA LA MAR';
+* [ (CATIA_LA_MAR, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CATIA_LA_MAR/)
 </script>
+<script type="text/javascript">

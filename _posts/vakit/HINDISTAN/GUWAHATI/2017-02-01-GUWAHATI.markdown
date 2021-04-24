@@ -8,10 +8,11 @@ permalink: /HINDISTAN/GUWAHATI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUWAHATI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GUWAHATI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'GUWAHATI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'GUWAHATI';
+* [ (GUWAHATI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GUWAHATI/)
 </script>
+<script type="text/javascript">

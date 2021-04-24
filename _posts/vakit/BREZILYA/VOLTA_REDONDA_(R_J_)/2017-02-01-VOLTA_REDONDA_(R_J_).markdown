@@ -8,10 +8,11 @@ permalink: /BREZILYA/VOLTA REDONDA (R_J_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLTA_REDONDA_(R_J_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VOLTA_REDONDA_(R_J_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'VOLTA REDONDA (R_J_)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'VOLTA REDONDA (R_J_)';
+* [ (VOLTA_REDONDA_(R_J_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VOLTA_REDONDA_(R_J_)/)
 </script>
+<script type="text/javascript">

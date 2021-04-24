@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/COCKBURN TOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COCKBURN_TOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/COCKBURN_TOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'COCKBURN TOWN';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'COCKBURN TOWN';
+* [ (COCKBURN_TOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/COCKBURN_TOWN/)
 </script>
+<script type="text/javascript">

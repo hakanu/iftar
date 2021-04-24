@@ -8,10 +8,11 @@ permalink: /RUSYA/KUBINKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUBINKA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KUBINKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KUBINKA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KUBINKA';
+* [ (KUBINKA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KUBINKA/)
 </script>
+<script type="text/javascript">

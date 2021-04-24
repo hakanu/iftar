@@ -8,10 +8,11 @@ permalink: /MEKSIKA/VERACRUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VERACRUZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/VERACRUZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'VERACRUZ';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'VERACRUZ';
+* [ (VERACRUZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/VERACRUZ/)
 </script>
+<script type="text/javascript">

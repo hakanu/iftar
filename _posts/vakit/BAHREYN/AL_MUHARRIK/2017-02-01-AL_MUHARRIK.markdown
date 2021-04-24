@@ -8,10 +8,11 @@ permalink: /BAHREYN/AL MUHARRIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_MUHARRIK, BAHREYN) için iftar ve namaz vakitleri](/BAHREYN/AL_MUHARRIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHREYN';
+
   var GLOBAL_CITY = 'AL MUHARRIK';
+  var GLOBAL_COUNTRY = 'BAHREYN';
   var GLOBAL_STATE = 'AL MUHARRIK';
+* [ (AL_MUHARRIK, BAHREYN) için iftar ve namaz vakitleri](/BAHREYN/AL_MUHARRIK/)
 </script>
+<script type="text/javascript">

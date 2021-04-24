@@ -8,10 +8,11 @@ permalink: /PAPUA YENI GINE/PORT MORESBY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT_MORESBY, PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/PORT_MORESBY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAPUA YENI GINE';
+
   var GLOBAL_CITY = 'PORT MORESBY';
+  var GLOBAL_COUNTRY = 'PAPUA YENI GINE';
   var GLOBAL_STATE = 'PORT MORESBY';
+* [ (PORT_MORESBY, PAPUA_YENI_GINE) için iftar ve namaz vakitleri](/PAPUA_YENI_GINE/PORT_MORESBY/)
 </script>
+<script type="text/javascript">

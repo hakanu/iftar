@@ -8,10 +8,11 @@ permalink: /JAPONYA/WAKAYAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAKAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/WAKAYAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'WAKAYAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'WAKAYAMA';
+* [ (WAKAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/WAKAYAMA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/DIVINOPOLIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIVINOPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/DIVINOPOLIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'DIVINOPOLIS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'DIVINOPOLIS';
+* [ (DIVINOPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/DIVINOPOLIS/)
 </script>
+<script type="text/javascript">

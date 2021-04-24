@@ -8,10 +8,11 @@ permalink: /BREZILYA/NATAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NATAL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/NATAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'NATAL';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'NATAL';
+* [ (NATAL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/NATAL/)
 </script>
+<script type="text/javascript">

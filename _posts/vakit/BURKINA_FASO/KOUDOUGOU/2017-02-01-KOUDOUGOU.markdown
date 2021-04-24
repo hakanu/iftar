@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/KOUDOUGOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOUDOUGOU, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/KOUDOUGOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'KOUDOUGOU';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'KOUDOUGOU';
+* [ (KOUDOUGOU, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/KOUDOUGOU/)
 </script>
+<script type="text/javascript">

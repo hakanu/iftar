@@ -8,10 +8,11 @@ permalink: /ALMANYA/BEERFELDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEERFELDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEERFELDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BEERFELDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BEERFELDEN';
+* [ (BEERFELDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEERFELDEN/)
 </script>
+<script type="text/javascript">

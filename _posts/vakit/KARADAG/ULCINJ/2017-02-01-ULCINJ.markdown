@@ -8,10 +8,11 @@ permalink: /KARADAG/ULCINJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULCINJ, KARADAG) için iftar ve namaz vakitleri](/KARADAG/ULCINJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'ULCINJ';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'ULCINJ';
+* [ (ULCINJ, KARADAG) için iftar ve namaz vakitleri](/KARADAG/ULCINJ/)
 </script>
+<script type="text/javascript">

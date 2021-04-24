@@ -8,10 +8,11 @@ permalink: /ALMANYA/ESSLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESSLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESSLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ESSLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ESSLINGEN';
+* [ (ESSLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESSLINGEN/)
 </script>
+<script type="text/javascript">

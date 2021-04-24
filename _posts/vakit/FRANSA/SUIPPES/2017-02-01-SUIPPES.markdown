@@ -8,10 +8,11 @@ permalink: /FRANSA/SUIPPES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUIPPES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SUIPPES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SUIPPES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SUIPPES';
+* [ (SUIPPES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SUIPPES/)
 </script>
+<script type="text/javascript">

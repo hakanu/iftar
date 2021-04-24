@@ -8,10 +8,11 @@ permalink: /ALMANYA/MARKT SCHWABEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARKT_SCHWABEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKT_SCHWABEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MARKT SCHWABEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MARKT SCHWABEN';
+* [ (MARKT_SCHWABEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKT_SCHWABEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CAMPECHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMPECHE, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CAMPECHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CAMPECHE';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CAMPECHE';
+* [ (CAMPECHE, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CAMPECHE/)
 </script>
+<script type="text/javascript">

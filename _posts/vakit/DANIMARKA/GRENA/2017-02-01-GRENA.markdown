@@ -8,10 +8,11 @@ permalink: /DANIMARKA/GRENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRENA, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/GRENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'GRENA';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'GRENA';
+* [ (GRENA, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/GRENA/)
 </script>
+<script type="text/javascript">

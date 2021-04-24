@@ -8,10 +8,11 @@ permalink: /PANAMA/PACORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PACORA, PANAMA) için iftar ve namaz vakitleri](/PANAMA/PACORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'PACORA';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'PACORA';
+* [ (PACORA, PANAMA) için iftar ve namaz vakitleri](/PANAMA/PACORA/)
 </script>
+<script type="text/javascript">

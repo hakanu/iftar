@@ -8,10 +8,11 @@ permalink: /BELCIKA/ATH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATH, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ATH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ATH';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ATH';
+* [ (ATH, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ATH/)
 </script>
+<script type="text/javascript">

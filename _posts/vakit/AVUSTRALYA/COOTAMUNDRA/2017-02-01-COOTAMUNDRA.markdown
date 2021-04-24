@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/COOTAMUNDRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COOTAMUNDRA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/COOTAMUNDRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'COOTAMUNDRA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'COOTAMUNDRA';
+* [ (COOTAMUNDRA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/COOTAMUNDRA/)
 </script>
+<script type="text/javascript">

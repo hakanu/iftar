@@ -8,10 +8,11 @@ permalink: /INGILTERE/MILTON KEYNES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MILTON_KEYNES, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MILTON_KEYNES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'MILTON KEYNES';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'MILTON KEYNES';
+* [ (MILTON_KEYNES, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MILTON_KEYNES/)
 </script>
+<script type="text/javascript">

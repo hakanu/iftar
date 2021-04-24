@@ -8,10 +8,11 @@ permalink: /ALMANYA/AKEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKEN_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AKEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AKEN ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AKEN ';
+* [ (AKEN_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AKEN_/)
 </script>
+<script type="text/javascript">

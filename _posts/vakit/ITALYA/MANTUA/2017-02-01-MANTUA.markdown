@@ -8,10 +8,11 @@ permalink: /ITALYA/MANTUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANTUA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MANTUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MANTUA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MANTUA';
+* [ (MANTUA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MANTUA/)
 </script>
+<script type="text/javascript">

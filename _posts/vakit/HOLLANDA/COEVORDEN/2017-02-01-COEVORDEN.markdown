@@ -8,10 +8,11 @@ permalink: /HOLLANDA/COEVORDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COEVORDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/COEVORDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'COEVORDEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'COEVORDEN';
+* [ (COEVORDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/COEVORDEN/)
 </script>
+<script type="text/javascript">

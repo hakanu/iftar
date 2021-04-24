@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/KULANAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KULANAK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KULANAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'KULANAK';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'KULANAK';
+* [ (KULANAK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KULANAK/)
 </script>
+<script type="text/javascript">

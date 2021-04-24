@@ -8,10 +8,11 @@ permalink: /FRANSA/CLERMONT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CLERMONT_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CLERMONT_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CLERMONT ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CLERMONT ';
+* [ (CLERMONT_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CLERMONT_/)
 </script>
+<script type="text/javascript">

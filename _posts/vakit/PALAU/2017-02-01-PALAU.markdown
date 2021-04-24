@@ -8,4 +8,5 @@ permalink: /PALAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [KOROR (PALAU) için iftar ve namaz vakitleri](/PALAU/KOROR)

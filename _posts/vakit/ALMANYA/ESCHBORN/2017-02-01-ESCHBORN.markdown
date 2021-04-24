@@ -8,10 +8,11 @@ permalink: /ALMANYA/ESCHBORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESCHBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESCHBORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ESCHBORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ESCHBORN';
+* [ (ESCHBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESCHBORN/)
 </script>
+<script type="text/javascript">

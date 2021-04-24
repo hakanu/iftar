@@ -8,10 +8,11 @@ permalink: /ALMANYA/RUMELN (DUIS_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUMELN_(DUIS_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RUMELN_(DUIS_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RUMELN (DUIS_)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RUMELN (DUIS_)';
+* [ (RUMELN_(DUIS_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RUMELN_(DUIS_)/)
 </script>
+<script type="text/javascript">

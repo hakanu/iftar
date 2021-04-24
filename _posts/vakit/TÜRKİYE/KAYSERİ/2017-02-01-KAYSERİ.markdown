@@ -8,22 +8,23 @@ permalink: /TÜRKİYE/KAYSERİ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [FELAHİYE (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/FELAHİYE)
-* [SARIOĞLAN (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/SARIOĞLAN)
-* [PINARBAŞI (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/PINARBAŞI)
-* [TOMARZA (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/TOMARZA)
-* [İNCESU (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/İNCESU)
-* [ÖZVATAN (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/ÖZVATAN)
-* [SARIZ (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/SARIZ)
-* [YEŞİLHİSAR (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/YEŞİLHİSAR)
+
+
+  var GLOBAL_CITY = 'KAYSERİ';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'KAYSERİ';
 * [AKKIŞLA (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/AKKIŞLA)
 * [BÜNYAN (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/BÜNYAN)
-* [KAYSERİ (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/KAYSERİ)
-* [YAHYALI (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/YAHYALI)
 * [DEVELİ (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/DEVELİ)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'KAYSERİ';
-  var GLOBAL_STATE = 'KAYSERİ';
+* [FELAHİYE (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/FELAHİYE)
+* [KAYSERİ (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/KAYSERİ)
+* [PINARBAŞI (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/PINARBAŞI)
+* [SARIOĞLAN (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/SARIOĞLAN)
+* [SARIZ (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/SARIZ)
+* [TOMARZA (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/TOMARZA)
+* [YAHYALI (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/YAHYALI)
+* [YEŞİLHİSAR (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/YEŞİLHİSAR)
+* [ÖZVATAN (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/ÖZVATAN)
+* [İNCESU (KAYSERİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAYSERİ/İNCESU)
 </script>
+<script type="text/javascript">

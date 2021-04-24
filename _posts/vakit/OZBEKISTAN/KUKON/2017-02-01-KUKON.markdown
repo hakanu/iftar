@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KUKON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUKON, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KUKON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KUKON';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KUKON';
+* [ (KUKON, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KUKON/)
 </script>
+<script type="text/javascript">

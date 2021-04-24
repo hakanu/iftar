@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WEERT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEERT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WEERT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WEERT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WEERT';
+* [ (WEERT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WEERT/)
 </script>
+<script type="text/javascript">

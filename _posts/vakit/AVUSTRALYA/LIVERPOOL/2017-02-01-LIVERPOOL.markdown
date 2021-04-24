@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/LIVERPOOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIVERPOOL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/LIVERPOOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'LIVERPOOL';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'LIVERPOOL';
+* [ (LIVERPOOL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/LIVERPOOL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/LINDAU (LS)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINDAU_(LS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDAU_(LS)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LINDAU (LS)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LINDAU (LS)';
+* [ (LINDAU_(LS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDAU_(LS)/)
 </script>
+<script type="text/javascript">

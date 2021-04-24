@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BUSSUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUSSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BUSSUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BUSSUM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BUSSUM';
+* [ (BUSSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BUSSUM/)
 </script>
+<script type="text/javascript">

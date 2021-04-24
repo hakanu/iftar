@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KARDITSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARDITSA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KARDITSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KARDITSA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KARDITSA';
+* [ (KARDITSA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KARDITSA/)
 </script>
+<script type="text/javascript">

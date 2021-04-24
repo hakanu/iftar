@@ -8,10 +8,11 @@ permalink: /ALMANYA/JUTERBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUTERBORG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/JUTERBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'JUTERBORG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'JUTERBORG';
+* [ (JUTERBORG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/JUTERBORG/)
 </script>
+<script type="text/javascript">

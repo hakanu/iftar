@@ -8,10 +8,11 @@ permalink: /RUSYA/KALUGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALUGA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KALUGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KALUGA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KALUGA';
+* [ (KALUGA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KALUGA/)
 </script>
+<script type="text/javascript">

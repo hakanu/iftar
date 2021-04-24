@@ -8,10 +8,11 @@ permalink: /JAPONYA/KASUGAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASUGAI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KASUGAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KASUGAI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KASUGAI';
+* [ (KASUGAI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KASUGAI/)
 </script>
+<script type="text/javascript">

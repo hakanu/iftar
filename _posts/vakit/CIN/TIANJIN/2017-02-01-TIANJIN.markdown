@@ -8,10 +8,11 @@ permalink: /CIN/TIANJIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIANJIN, CIN) için iftar ve namaz vakitleri](/CIN/TIANJIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'TIANJIN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'TIANJIN';
+* [ (TIANJIN, CIN) için iftar ve namaz vakitleri](/CIN/TIANJIN/)
 </script>
+<script type="text/javascript">

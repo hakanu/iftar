@@ -8,10 +8,11 @@ permalink: /RUSYA/UKHTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UKHTA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UKHTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'UKHTA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'UKHTA';
+* [ (UKHTA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UKHTA/)
 </script>
+<script type="text/javascript">

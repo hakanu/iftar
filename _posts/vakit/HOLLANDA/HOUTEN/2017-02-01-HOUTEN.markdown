@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HOUTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOUTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOUTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HOUTEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HOUTEN';
+* [ (HOUTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOUTEN/)
 </script>
+<script type="text/javascript">

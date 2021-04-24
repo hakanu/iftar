@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAICHINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAICHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAICHINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAICHINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAICHINGEN';
+* [ (LAICHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAICHINGEN/)
 </script>
+<script type="text/javascript">

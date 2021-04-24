@@ -8,10 +8,11 @@ permalink: /ALMANYA/FORST (COTTBUS)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORST_(COTTBUS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FORST_(COTTBUS)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FORST (COTTBUS)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FORST (COTTBUS)';
+* [ (FORST_(COTTBUS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FORST_(COTTBUS)/)
 </script>
+<script type="text/javascript">

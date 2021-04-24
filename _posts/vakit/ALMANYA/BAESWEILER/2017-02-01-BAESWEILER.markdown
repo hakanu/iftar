@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAESWEILER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAESWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAESWEILER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAESWEILER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAESWEILER';
+* [ (BAESWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAESWEILER/)
 </script>
+<script type="text/javascript">

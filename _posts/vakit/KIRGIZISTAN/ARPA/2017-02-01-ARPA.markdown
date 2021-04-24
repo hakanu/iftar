@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/ARPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARPA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/ARPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'ARPA';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'ARPA';
+* [ (ARPA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/ARPA/)
 </script>
+<script type="text/javascript">

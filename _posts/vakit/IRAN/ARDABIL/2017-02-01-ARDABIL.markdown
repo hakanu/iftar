@@ -8,10 +8,11 @@ permalink: /IRAN/ARDABIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARDABIL, IRAN) için iftar ve namaz vakitleri](/IRAN/ARDABIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'ARDABIL';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'ARDABIL';
+* [ (ARDABIL, IRAN) için iftar ve namaz vakitleri](/IRAN/ARDABIL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/M_FAMENNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (M_FAMENNE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/M_FAMENNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'M_FAMENNE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'M_FAMENNE';
+* [ (M_FAMENNE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/M_FAMENNE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/JOEUF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JOEUF, FRANSA) için iftar ve namaz vakitleri](/FRANSA/JOEUF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'JOEUF';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'JOEUF';
+* [ (JOEUF, FRANSA) için iftar ve namaz vakitleri](/FRANSA/JOEUF/)
 </script>
+<script type="text/javascript">

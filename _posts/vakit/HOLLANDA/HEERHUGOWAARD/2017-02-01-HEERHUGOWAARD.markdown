@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HEERHUGOWAARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEERHUGOWAARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEERHUGOWAARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HEERHUGOWAARD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HEERHUGOWAARD';
+* [ (HEERHUGOWAARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEERHUGOWAARD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEU-ISENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEU-ISENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEU-ISENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEU-ISENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEU-ISENBURG';
+* [ (NEU-ISENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEU-ISENBURG/)
 </script>
+<script type="text/javascript">

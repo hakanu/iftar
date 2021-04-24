@@ -8,10 +8,11 @@ permalink: /ALMANYA/OLBERNHAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLBERNHAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLBERNHAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OLBERNHAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OLBERNHAU';
+* [ (OLBERNHAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLBERNHAU/)
 </script>
+<script type="text/javascript">

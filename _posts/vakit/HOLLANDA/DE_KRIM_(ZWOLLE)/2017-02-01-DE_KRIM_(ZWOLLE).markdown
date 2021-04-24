@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DE KRIM (ZWOLLE)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DE_KRIM_(ZWOLLE), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DE_KRIM_(ZWOLLE)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DE KRIM (ZWOLLE)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DE KRIM (ZWOLLE)';
+* [ (DE_KRIM_(ZWOLLE), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DE_KRIM_(ZWOLLE)/)
 </script>
+<script type="text/javascript">

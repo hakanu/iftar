@@ -8,24 +8,25 @@ permalink: /ABD/WEST VIRGINIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [WELSHPOOL (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/WELSHPOOL)
-* [BASSENDEAN (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/BASSENDEAN)
-* [MELVILLE (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/MELVILLE)
-* [WEIRTON (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/WEIRTON)
-* [SOUTH_PERTH (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/SOUTH_PERTH)
-* [GOSNELLS (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/GOSNELLS)
-* [CHARLESTON (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/CHARLESTON)
-* [MORGANTOWN (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/MORGANTOWN)
-* [WANNEROO (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/WANNEROO)
-* [NEDLANDS (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/NEDLANDS)
-* [BAYSWATER_(Perth) (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/BAYSWATER_(Perth))
-* [PERTH (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/PERTH)
-* [O_CONNOR (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/O_CONNOR)
-* [STIRLING_(Perth) (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/STIRLING_(Perth))
-* [CANNINGTON (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/CANNINGTON)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
+
   var GLOBAL_CITY = 'WEST VIRGINIA';
+  var GLOBAL_COUNTRY = 'ABD';
   var GLOBAL_STATE = 'WEST VIRGINIA';
+* [BASSENDEAN (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/BASSENDEAN)
+* [BAYSWATER_(Perth) (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/BAYSWATER_(Perth))
+* [CANNINGTON (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/CANNINGTON)
+* [CHARLESTON (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/CHARLESTON)
+* [GOSNELLS (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/GOSNELLS)
+* [MELVILLE (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/MELVILLE)
+* [MORGANTOWN (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/MORGANTOWN)
+* [NEDLANDS (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/NEDLANDS)
+* [O_CONNOR (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/O_CONNOR)
+* [PERTH (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/PERTH)
+* [SOUTH_PERTH (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/SOUTH_PERTH)
+* [STIRLING_(Perth) (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/STIRLING_(Perth))
+* [WANNEROO (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/WANNEROO)
+* [WEIRTON (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/WEIRTON)
+* [WELSHPOOL (WEST_VIRGINIA, ABD) için iftar ve namaz vakitleri](/ABD/WEST_VIRGINIA/WELSHPOOL)
 </script>
+<script type="text/javascript">

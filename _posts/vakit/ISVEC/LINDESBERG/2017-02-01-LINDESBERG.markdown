@@ -8,10 +8,11 @@ permalink: /ISVEC/LINDESBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINDESBERG, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LINDESBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LINDESBERG';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LINDESBERG';
+* [ (LINDESBERG, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LINDESBERG/)
 </script>
+<script type="text/javascript">

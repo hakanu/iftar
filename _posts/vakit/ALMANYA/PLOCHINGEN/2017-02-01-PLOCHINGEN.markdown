@@ -8,10 +8,11 @@ permalink: /ALMANYA/PLOCHINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLOCHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLOCHINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PLOCHINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PLOCHINGEN';
+* [ (PLOCHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLOCHINGEN/)
 </script>
+<script type="text/javascript">

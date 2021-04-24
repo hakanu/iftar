@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD OEYNHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_OEYNHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_OEYNHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD OEYNHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD OEYNHAUSEN';
+* [ (BAD_OEYNHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_OEYNHAUSEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MARYBOROUGH (V)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARYBOROUGH_(V), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MARYBOROUGH_(V)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MARYBOROUGH (V)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MARYBOROUGH (V)';
+* [ (MARYBOROUGH_(V), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MARYBOROUGH_(V)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ELLWANGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELLWANGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELLWANGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ELLWANGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ELLWANGEN';
+* [ (ELLWANGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELLWANGEN/)
 </script>
+<script type="text/javascript">

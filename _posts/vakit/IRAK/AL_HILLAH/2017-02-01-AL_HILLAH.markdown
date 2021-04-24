@@ -8,10 +8,11 @@ permalink: /IRAK/AL HILLAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_HILLAH, IRAK) için iftar ve namaz vakitleri](/IRAK/AL_HILLAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'AL HILLAH';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'AL HILLAH';
+* [ (AL_HILLAH, IRAK) için iftar ve namaz vakitleri](/IRAK/AL_HILLAH/)
 </script>
+<script type="text/javascript">

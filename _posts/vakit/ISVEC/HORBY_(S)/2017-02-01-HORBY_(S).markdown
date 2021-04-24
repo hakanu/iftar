@@ -8,10 +8,11 @@ permalink: /ISVEC/HORBY (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORBY_(S), ISVEC) için iftar ve namaz vakitleri](/ISVEC/HORBY_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'HORBY (S)';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'HORBY (S)';
+* [ (HORBY_(S), ISVEC) için iftar ve namaz vakitleri](/ISVEC/HORBY_(S)/)
 </script>
+<script type="text/javascript">

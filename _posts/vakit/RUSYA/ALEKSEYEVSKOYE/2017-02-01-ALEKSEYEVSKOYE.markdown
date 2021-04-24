@@ -8,10 +8,11 @@ permalink: /RUSYA/ALEKSEYEVSKOYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALEKSEYEVSKOYE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ALEKSEYEVSKOYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ALEKSEYEVSKOYE';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ALEKSEYEVSKOYE';
+* [ (ALEKSEYEVSKOYE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ALEKSEYEVSKOYE/)
 </script>
+<script type="text/javascript">

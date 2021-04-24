@@ -8,10 +8,11 @@ permalink: /ALMANYA/LINDLAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINDLAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDLAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LINDLAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LINDLAR';
+* [ (LINDLAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDLAR/)
 </script>
+<script type="text/javascript">

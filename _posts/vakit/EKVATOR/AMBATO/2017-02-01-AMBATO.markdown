@@ -8,10 +8,11 @@ permalink: /EKVATOR/AMBATO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMBATO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/AMBATO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'AMBATO';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'AMBATO';
+* [ (AMBATO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/AMBATO/)
 </script>
+<script type="text/javascript">

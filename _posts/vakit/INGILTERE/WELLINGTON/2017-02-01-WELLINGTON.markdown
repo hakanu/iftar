@@ -8,10 +8,11 @@ permalink: /INGILTERE/WELLINGTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WELLINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WELLINGTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WELLINGTON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WELLINGTON';
+* [ (WELLINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WELLINGTON/)
 </script>
+<script type="text/javascript">

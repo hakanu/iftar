@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHOPFHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHOPFHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHOPFHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHOPFHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHOPFHEIM';
+* [ (SCHOPFHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHOPFHEIM/)
 </script>
+<script type="text/javascript">

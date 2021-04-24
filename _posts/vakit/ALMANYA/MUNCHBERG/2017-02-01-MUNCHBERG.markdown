@@ -8,10 +8,11 @@ permalink: /ALMANYA/MUNCHBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUNCHBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNCHBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MUNCHBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MUNCHBERG';
+* [ (MUNCHBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNCHBERG/)
 </script>
+<script type="text/javascript">

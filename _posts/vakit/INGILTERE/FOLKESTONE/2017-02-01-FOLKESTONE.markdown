@@ -8,10 +8,11 @@ permalink: /INGILTERE/FOLKESTONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOLKESTONE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/FOLKESTONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'FOLKESTONE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'FOLKESTONE';
+* [ (FOLKESTONE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/FOLKESTONE/)
 </script>
+<script type="text/javascript">

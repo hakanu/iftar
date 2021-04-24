@@ -8,10 +8,11 @@ permalink: /TAYVAN/HUA-LIEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUA-LIEN, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/HUA-LIEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'HUA-LIEN';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'HUA-LIEN';
+* [ (HUA-LIEN, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/HUA-LIEN/)
 </script>
+<script type="text/javascript">

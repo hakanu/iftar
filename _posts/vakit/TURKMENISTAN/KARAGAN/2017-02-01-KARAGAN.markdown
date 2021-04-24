@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/KARAGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAGAN, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KARAGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'KARAGAN';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'KARAGAN';
+* [ (KARAGAN, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KARAGAN/)
 </script>
+<script type="text/javascript">

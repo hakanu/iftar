@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WOODVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOODVILLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WOODVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WOODVILLE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WOODVILLE';
+* [ (WOODVILLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WOODVILLE/)
 </script>
+<script type="text/javascript">

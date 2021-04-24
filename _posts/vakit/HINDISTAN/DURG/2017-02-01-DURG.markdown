@@ -8,10 +8,11 @@ permalink: /HINDISTAN/DURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DURG, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/DURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'DURG';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'DURG';
+* [ (DURG, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/DURG/)
 </script>
+<script type="text/javascript">

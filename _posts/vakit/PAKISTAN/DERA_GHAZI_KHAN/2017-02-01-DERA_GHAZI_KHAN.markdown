@@ -8,10 +8,11 @@ permalink: /PAKISTAN/DERA GHAZI KHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DERA_GHAZI_KHAN, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/DERA_GHAZI_KHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'DERA GHAZI KHAN';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'DERA GHAZI KHAN';
+* [ (DERA_GHAZI_KHAN, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/DERA_GHAZI_KHAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAUENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAUENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAUENBURG';
+* [ (LAUENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUENBURG/)
 </script>
+<script type="text/javascript">

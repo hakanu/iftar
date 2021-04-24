@@ -8,10 +8,11 @@ permalink: /DANIMARKA/VEJLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VEJLE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VEJLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'VEJLE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'VEJLE';
+* [ (VEJLE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VEJLE/)
 </script>
+<script type="text/javascript">

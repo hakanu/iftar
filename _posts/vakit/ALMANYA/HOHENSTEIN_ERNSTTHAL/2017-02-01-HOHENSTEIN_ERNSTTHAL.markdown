@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOHENSTEIN ERNSTTHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOHENSTEIN_ERNSTTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHENSTEIN_ERNSTTHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOHENSTEIN ERNSTTHAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOHENSTEIN ERNSTTHAL';
+* [ (HOHENSTEIN_ERNSTTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHENSTEIN_ERNSTTHAL/)
 </script>
+<script type="text/javascript">

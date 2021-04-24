@@ -8,10 +8,11 @@ permalink: /ITALYA/LECCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LECCO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LECCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'LECCO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'LECCO';
+* [ (LECCO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LECCO/)
 </script>
+<script type="text/javascript">

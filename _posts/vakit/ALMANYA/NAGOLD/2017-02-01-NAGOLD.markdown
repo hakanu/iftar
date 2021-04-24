@@ -8,10 +8,11 @@ permalink: /ALMANYA/NAGOLD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGOLD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NAGOLD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NAGOLD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NAGOLD';
+* [ (NAGOLD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NAGOLD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/GOYCAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOYCAY, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/GOYCAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'GOYCAY';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'GOYCAY';
+* [ (GOYCAY, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/GOYCAY/)
 </script>
+<script type="text/javascript">

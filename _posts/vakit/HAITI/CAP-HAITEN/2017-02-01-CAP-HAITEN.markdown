@@ -8,10 +8,11 @@ permalink: /HAITI/CAP-HAITEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAP-HAITEN, HAITI) için iftar ve namaz vakitleri](/HAITI/CAP-HAITEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HAITI';
+
   var GLOBAL_CITY = 'CAP-HAITEN';
+  var GLOBAL_COUNTRY = 'HAITI';
   var GLOBAL_STATE = 'CAP-HAITEN';
+* [ (CAP-HAITEN, HAITI) için iftar ve namaz vakitleri](/HAITI/CAP-HAITEN/)
 </script>
+<script type="text/javascript">

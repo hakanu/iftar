@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/RIJEKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIJEKA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/RIJEKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'RIJEKA';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'RIJEKA';
+* [ (RIJEKA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/RIJEKA/)
 </script>
+<script type="text/javascript">

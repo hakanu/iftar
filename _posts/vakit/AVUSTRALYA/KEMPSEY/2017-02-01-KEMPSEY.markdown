@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/KEMPSEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KEMPSEY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KEMPSEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'KEMPSEY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'KEMPSEY';
+* [ (KEMPSEY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KEMPSEY/)
 </script>
+<script type="text/javascript">

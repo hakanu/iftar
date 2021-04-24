@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/STRAZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRAZA_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/STRAZA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'STRAZA ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'STRAZA ';
+* [ (STRAZA_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/STRAZA_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/OVERPELT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OVERPELT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OVERPELT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'OVERPELT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'OVERPELT';
+* [ (OVERPELT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OVERPELT/)
 </script>
+<script type="text/javascript">

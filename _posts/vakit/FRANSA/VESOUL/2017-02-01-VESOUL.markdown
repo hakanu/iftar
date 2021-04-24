@@ -8,10 +8,11 @@ permalink: /FRANSA/VESOUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VESOUL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VESOUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VESOUL';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VESOUL';
+* [ (VESOUL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VESOUL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/PERTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PERTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'PERTH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'PERTH';
+* [ (PERTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PERTH/)
 </script>
+<script type="text/javascript">

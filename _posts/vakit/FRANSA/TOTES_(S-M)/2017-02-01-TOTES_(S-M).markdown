@@ -8,10 +8,11 @@ permalink: /FRANSA/TOTES (S-M)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOTES_(S-M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOTES_(S-M)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TOTES (S-M)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TOTES (S-M)';
+* [ (TOTES_(S-M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOTES_(S-M)/)
 </script>
+<script type="text/javascript">

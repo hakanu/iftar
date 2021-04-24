@@ -8,10 +8,11 @@ permalink: /SILI/LA SERENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_SERENA, SILI) için iftar ve namaz vakitleri](/SILI/LA_SERENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'LA SERENA';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'LA SERENA';
+* [ (LA_SERENA, SILI) için iftar ve namaz vakitleri](/SILI/LA_SERENA/)
 </script>
+<script type="text/javascript">

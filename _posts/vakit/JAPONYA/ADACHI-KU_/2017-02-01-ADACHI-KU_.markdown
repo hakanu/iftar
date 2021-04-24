@@ -8,10 +8,11 @@ permalink: /JAPONYA/ADACHI-KU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ADACHI-KU_, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ADACHI-KU_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ADACHI-KU ';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ADACHI-KU ';
+* [ (ADACHI-KU_, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ADACHI-KU_/)
 </script>
+<script type="text/javascript">

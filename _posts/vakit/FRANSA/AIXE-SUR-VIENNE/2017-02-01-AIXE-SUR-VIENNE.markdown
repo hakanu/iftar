@@ -8,10 +8,11 @@ permalink: /FRANSA/AIXE-SUR-VIENNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AIXE-SUR-VIENNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AIXE-SUR-VIENNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AIXE-SUR-VIENNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AIXE-SUR-VIENNE';
+* [ (AIXE-SUR-VIENNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AIXE-SUR-VIENNE/)
 </script>
+<script type="text/javascript">

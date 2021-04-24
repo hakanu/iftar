@@ -8,10 +8,11 @@ permalink: /VENEZUELA/PUERTO LA CRUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_LA_CRUZ, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PUERTO_LA_CRUZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'PUERTO LA CRUZ';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'PUERTO LA CRUZ';
+* [ (PUERTO_LA_CRUZ, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PUERTO_LA_CRUZ/)
 </script>
+<script type="text/javascript">

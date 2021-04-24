@@ -8,10 +8,11 @@ permalink: /FRANSA/GUILVINEC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUILVINEC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GUILVINEC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GUILVINEC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GUILVINEC';
+* [ (GUILVINEC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GUILVINEC/)
 </script>
+<script type="text/javascript">

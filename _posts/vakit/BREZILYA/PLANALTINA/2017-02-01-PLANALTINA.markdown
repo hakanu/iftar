@@ -8,10 +8,11 @@ permalink: /BREZILYA/PLANALTINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLANALTINA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PLANALTINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PLANALTINA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PLANALTINA';
+* [ (PLANALTINA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PLANALTINA/)
 </script>
+<script type="text/javascript">

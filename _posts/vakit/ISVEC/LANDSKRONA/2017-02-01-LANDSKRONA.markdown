@@ -8,10 +8,11 @@ permalink: /ISVEC/LANDSKRONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANDSKRONA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LANDSKRONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LANDSKRONA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LANDSKRONA';
+* [ (LANDSKRONA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LANDSKRONA/)
 </script>
+<script type="text/javascript">

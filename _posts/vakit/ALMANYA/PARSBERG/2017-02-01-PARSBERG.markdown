@@ -8,10 +8,11 @@ permalink: /ALMANYA/PARSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PARSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PARSBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PARSBERG';
+* [ (PARSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PARSBERG/)
 </script>
+<script type="text/javascript">

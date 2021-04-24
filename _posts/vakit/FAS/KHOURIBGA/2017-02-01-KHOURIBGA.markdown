@@ -8,10 +8,11 @@ permalink: /FAS/KHOURIBGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHOURIBGA, FAS) için iftar ve namaz vakitleri](/FAS/KHOURIBGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'KHOURIBGA';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'KHOURIBGA';
+* [ (KHOURIBGA, FAS) için iftar ve namaz vakitleri](/FAS/KHOURIBGA/)
 </script>
+<script type="text/javascript">

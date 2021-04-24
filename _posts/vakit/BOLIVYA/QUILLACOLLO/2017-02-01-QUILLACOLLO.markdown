@@ -8,10 +8,11 @@ permalink: /BOLIVYA/QUILLACOLLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUILLACOLLO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/QUILLACOLLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'QUILLACOLLO';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'QUILLACOLLO';
+* [ (QUILLACOLLO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/QUILLACOLLO/)
 </script>
+<script type="text/javascript">

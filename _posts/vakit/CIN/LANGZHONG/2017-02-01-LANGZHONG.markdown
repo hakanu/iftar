@@ -8,10 +8,11 @@ permalink: /CIN/LANGZHONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANGZHONG, CIN) için iftar ve namaz vakitleri](/CIN/LANGZHONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LANGZHONG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LANGZHONG';
+* [ (LANGZHONG, CIN) için iftar ve namaz vakitleri](/CIN/LANGZHONG/)
 </script>
+<script type="text/javascript">

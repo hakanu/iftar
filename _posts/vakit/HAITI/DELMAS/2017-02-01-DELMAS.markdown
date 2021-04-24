@@ -8,10 +8,11 @@ permalink: /HAITI/DELMAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DELMAS, HAITI) için iftar ve namaz vakitleri](/HAITI/DELMAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HAITI';
+
   var GLOBAL_CITY = 'DELMAS';
+  var GLOBAL_COUNTRY = 'HAITI';
   var GLOBAL_STATE = 'DELMAS';
+* [ (DELMAS, HAITI) için iftar ve namaz vakitleri](/HAITI/DELMAS/)
 </script>
+<script type="text/javascript">

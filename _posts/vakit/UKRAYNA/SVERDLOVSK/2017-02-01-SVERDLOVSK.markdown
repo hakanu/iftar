@@ -8,10 +8,11 @@ permalink: /UKRAYNA/SVERDLOVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SVERDLOVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SVERDLOVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'SVERDLOVSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'SVERDLOVSK';
+* [ (SVERDLOVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SVERDLOVSK/)
 </script>
+<script type="text/javascript">

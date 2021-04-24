@@ -8,12 +8,13 @@ permalink: /KANADA/NEW BRUNSWICK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MONCTON (NEW_BRUNSWICK, KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK/MONCTON)
-* [FREDERICTON (NEW_BRUNSWICK, KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK/FREDERICTON)
-* [SAINT_JOHN (NEW_BRUNSWICK, KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK/SAINT_JOHN)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KANADA';
+
   var GLOBAL_CITY = 'NEW BRUNSWICK';
+  var GLOBAL_COUNTRY = 'KANADA';
   var GLOBAL_STATE = 'NEW BRUNSWICK';
+* [FREDERICTON (NEW_BRUNSWICK, KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK/FREDERICTON)
+* [MONCTON (NEW_BRUNSWICK, KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK/MONCTON)
+* [SAINT_JOHN (NEW_BRUNSWICK, KANADA) için iftar ve namaz vakitleri](/KANADA/NEW_BRUNSWICK/SAINT_JOHN)
 </script>
+<script type="text/javascript">

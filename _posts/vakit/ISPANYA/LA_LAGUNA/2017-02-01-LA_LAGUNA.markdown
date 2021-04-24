@@ -8,10 +8,11 @@ permalink: /ISPANYA/LA LAGUNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_LAGUNA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/LA_LAGUNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'LA LAGUNA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'LA LAGUNA';
+* [ (LA_LAGUNA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/LA_LAGUNA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PERU/AREQUIPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AREQUIPA, PERU) için iftar ve namaz vakitleri](/PERU/AREQUIPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'AREQUIPA';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'AREQUIPA';
+* [ (AREQUIPA, PERU) için iftar ve namaz vakitleri](/PERU/AREQUIPA/)
 </script>
+<script type="text/javascript">

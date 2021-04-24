@@ -8,10 +8,11 @@ permalink: /FRANSA/MOUZON (A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOUZON_(A), FRANSA) için iftar ve namaz vakitleri](/FRANSA/MOUZON_(A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MOUZON (A)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MOUZON (A)';
+* [ (MOUZON_(A), FRANSA) için iftar ve namaz vakitleri](/FRANSA/MOUZON_(A)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/GLUCKSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLUCKSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLUCKSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GLUCKSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GLUCKSBURG';
+* [ (GLUCKSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLUCKSBURG/)
 </script>
+<script type="text/javascript">

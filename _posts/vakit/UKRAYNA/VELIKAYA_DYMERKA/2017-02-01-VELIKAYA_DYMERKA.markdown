@@ -8,10 +8,11 @@ permalink: /UKRAYNA/VELIKAYA DYMERKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VELIKAYA_DYMERKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VELIKAYA_DYMERKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'VELIKAYA DYMERKA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'VELIKAYA DYMERKA';
+* [ (VELIKAYA_DYMERKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VELIKAYA_DYMERKA/)
 </script>
+<script type="text/javascript">

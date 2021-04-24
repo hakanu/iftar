@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/GIRNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIRNE, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GIRNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'GIRNE';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'GIRNE';
+* [ (GIRNE, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GIRNE/)
 </script>
+<script type="text/javascript">

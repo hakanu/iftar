@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/IVAYLOVGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IVAYLOVGRAD_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/IVAYLOVGRAD_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'IVAYLOVGRAD ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'IVAYLOVGRAD ';
+* [ (IVAYLOVGRAD_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/IVAYLOVGRAD_/)
 </script>
+<script type="text/javascript">

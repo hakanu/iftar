@@ -8,10 +8,11 @@ permalink: /INGILTERE/YEOVIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YEOVIL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/YEOVIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'YEOVIL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'YEOVIL';
+* [ (YEOVIL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/YEOVIL/)
 </script>
+<script type="text/javascript">

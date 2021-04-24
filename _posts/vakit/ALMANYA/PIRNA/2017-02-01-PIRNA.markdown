@@ -8,10 +8,11 @@ permalink: /ALMANYA/PIRNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIRNA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PIRNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PIRNA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PIRNA';
+* [ (PIRNA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PIRNA/)
 </script>
+<script type="text/javascript">

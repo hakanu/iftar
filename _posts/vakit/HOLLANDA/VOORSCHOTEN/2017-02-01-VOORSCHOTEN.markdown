@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VOORSCHOTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOORSCHOTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VOORSCHOTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VOORSCHOTEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VOORSCHOTEN';
+* [ (VOORSCHOTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VOORSCHOTEN/)
 </script>
+<script type="text/javascript">

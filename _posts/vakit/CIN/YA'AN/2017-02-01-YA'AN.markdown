@@ -8,10 +8,11 @@ permalink: /CIN/YA'AN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YA'AN, CIN) için iftar ve namaz vakitleri](/CIN/YA'AN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YA'AN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YA'AN';
+* [ (YA'AN, CIN) için iftar ve namaz vakitleri](/CIN/YA'AN/)
 </script>
+<script type="text/javascript">

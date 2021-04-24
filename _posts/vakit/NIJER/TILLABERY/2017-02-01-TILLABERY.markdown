@@ -8,10 +8,11 @@ permalink: /NIJER/TILLABERY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TILLABERY, NIJER) için iftar ve namaz vakitleri](/NIJER/TILLABERY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJER';
+
   var GLOBAL_CITY = 'TILLABERY';
+  var GLOBAL_COUNTRY = 'NIJER';
   var GLOBAL_STATE = 'TILLABERY';
+* [ (TILLABERY, NIJER) için iftar ve namaz vakitleri](/NIJER/TILLABERY/)
 </script>
+<script type="text/javascript">

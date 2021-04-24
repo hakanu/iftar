@@ -8,10 +8,11 @@ permalink: /BELCIKA/BEVERLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEVERLO, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BEVERLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BEVERLO';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BEVERLO';
+* [ (BEVERLO, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BEVERLO/)
 </script>
+<script type="text/javascript">

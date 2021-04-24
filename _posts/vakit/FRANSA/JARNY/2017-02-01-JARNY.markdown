@@ -8,10 +8,11 @@ permalink: /FRANSA/JARNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JARNY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/JARNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'JARNY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'JARNY';
+* [ (JARNY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/JARNY/)
 </script>
+<script type="text/javascript">

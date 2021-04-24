@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/BAKU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAKU, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/BAKU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'BAKU';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'BAKU';
+* [ (BAKU, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/BAKU/)
 </script>
+<script type="text/javascript">

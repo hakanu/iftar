@@ -8,10 +8,11 @@ permalink: /ZAMBIYA/KABWE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KABWE, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/KABWE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZAMBIYA';
+
   var GLOBAL_CITY = 'KABWE';
+  var GLOBAL_COUNTRY = 'ZAMBIYA';
   var GLOBAL_STATE = 'KABWE';
+* [ (KABWE, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/KABWE/)
 </script>
+<script type="text/javascript">

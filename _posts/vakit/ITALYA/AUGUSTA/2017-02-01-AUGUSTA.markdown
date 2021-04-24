@@ -8,10 +8,11 @@ permalink: /ITALYA/AUGUSTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUGUSTA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AUGUSTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'AUGUSTA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'AUGUSTA';
+* [ (AUGUSTA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AUGUSTA/)
 </script>
+<script type="text/javascript">

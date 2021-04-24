@@ -8,10 +8,11 @@ permalink: /MALEZYA/KULIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KULIM, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KULIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KULIM';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KULIM';
+* [ (KULIM, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KULIM/)
 </script>
+<script type="text/javascript">

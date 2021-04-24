@@ -8,10 +8,11 @@ permalink: /RUSYA/ELEKTROSTAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELEKTROSTAL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ELEKTROSTAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ELEKTROSTAL';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ELEKTROSTAL';
+* [ (ELEKTROSTAL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ELEKTROSTAL/)
 </script>
+<script type="text/javascript">

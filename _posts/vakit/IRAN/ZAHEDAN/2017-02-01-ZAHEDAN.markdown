@@ -8,10 +8,11 @@ permalink: /IRAN/ZAHEDAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAHEDAN, IRAN) için iftar ve namaz vakitleri](/IRAN/ZAHEDAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'ZAHEDAN';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'ZAHEDAN';
+* [ (ZAHEDAN, IRAN) için iftar ve namaz vakitleri](/IRAN/ZAHEDAN/)
 </script>
+<script type="text/javascript">

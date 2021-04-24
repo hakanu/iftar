@@ -8,10 +8,11 @@ permalink: /CIN/QIQIHAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QIQIHAR, CIN) için iftar ve namaz vakitleri](/CIN/QIQIHAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QIQIHAR';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QIQIHAR';
+* [ (QIQIHAR, CIN) için iftar ve namaz vakitleri](/CIN/QIQIHAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/YUSHU ( QINGHAI )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YUSHU_(_QINGHAI_), CIN) için iftar ve namaz vakitleri](/CIN/YUSHU_(_QINGHAI_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YUSHU ( QINGHAI )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YUSHU ( QINGHAI )';
+* [ (YUSHU_(_QINGHAI_), CIN) için iftar ve namaz vakitleri](/CIN/YUSHU_(_QINGHAI_)/)
 </script>
+<script type="text/javascript">

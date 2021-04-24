@@ -8,10 +8,11 @@ permalink: /BREZILYA/MAUES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAUES, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MAUES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'MAUES';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'MAUES';
+* [ (MAUES, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MAUES/)
 </script>
+<script type="text/javascript">

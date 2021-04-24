@@ -8,10 +8,11 @@ permalink: /FRANSA/TARARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARARE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TARARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TARARE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TARARE';
+* [ (TARARE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TARARE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/AYTOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AYTOS_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/AYTOS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'AYTOS ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'AYTOS ';
+* [ (AYTOS_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/AYTOS_/)
 </script>
+<script type="text/javascript">

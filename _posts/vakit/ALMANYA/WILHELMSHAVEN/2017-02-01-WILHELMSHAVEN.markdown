@@ -8,10 +8,11 @@ permalink: /ALMANYA/WILHELMSHAVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILHELMSHAVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILHELMSHAVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WILHELMSHAVEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WILHELMSHAVEN';
+* [ (WILHELMSHAVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILHELMSHAVEN/)
 </script>
+<script type="text/javascript">

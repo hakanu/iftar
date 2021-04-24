@@ -8,10 +8,11 @@ permalink: /KUDUS/KUDUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUDUS, KUDUS) için iftar ve namaz vakitleri](/KUDUS/KUDUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUDUS';
+
   var GLOBAL_CITY = 'KUDUS';
+  var GLOBAL_COUNTRY = 'KUDUS';
   var GLOBAL_STATE = 'KUDUS';
+* [ (KUDUS, KUDUS) için iftar ve namaz vakitleri](/KUDUS/KUDUS/)
 </script>
+<script type="text/javascript">

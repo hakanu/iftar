@@ -8,10 +8,11 @@ permalink: /IRAK/ERBIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERBIL, IRAK) için iftar ve namaz vakitleri](/IRAK/ERBIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'ERBIL';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'ERBIL';
+* [ (ERBIL, IRAK) için iftar ve namaz vakitleri](/IRAK/ERBIL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/ALTAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALTAY, CIN) için iftar ve namaz vakitleri](/CIN/ALTAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ALTAY';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ALTAY';
+* [ (ALTAY, CIN) için iftar ve namaz vakitleri](/CIN/ALTAY/)
 </script>
+<script type="text/javascript">

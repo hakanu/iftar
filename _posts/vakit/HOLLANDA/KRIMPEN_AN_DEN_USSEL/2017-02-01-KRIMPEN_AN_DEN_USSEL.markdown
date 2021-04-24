@@ -8,10 +8,11 @@ permalink: /HOLLANDA/KRIMPEN AN DEN USSEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRIMPEN_AN_DEN_USSEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KRIMPEN_AN_DEN_USSEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'KRIMPEN AN DEN USSEL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'KRIMPEN AN DEN USSEL';
+* [ (KRIMPEN_AN_DEN_USSEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KRIMPEN_AN_DEN_USSEL/)
 </script>
+<script type="text/javascript">

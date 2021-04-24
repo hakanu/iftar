@@ -8,10 +8,11 @@ permalink: /ISPANYA/MADRID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MADRID, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/MADRID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'MADRID';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'MADRID';
+* [ (MADRID, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/MADRID/)
 </script>
+<script type="text/javascript">

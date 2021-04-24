@@ -8,10 +8,11 @@ permalink: /INGILTERE/KIRKCALDY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRKCALDY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/KIRKCALDY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'KIRKCALDY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'KIRKCALDY';
+* [ (KIRKCALDY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/KIRKCALDY/)
 </script>
+<script type="text/javascript">

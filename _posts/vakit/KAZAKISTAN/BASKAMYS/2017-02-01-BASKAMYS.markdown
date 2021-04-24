@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/BASKAMYS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASKAMYS, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BASKAMYS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'BASKAMYS';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'BASKAMYS';
+* [ (BASKAMYS, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BASKAMYS/)
 </script>
+<script type="text/javascript">

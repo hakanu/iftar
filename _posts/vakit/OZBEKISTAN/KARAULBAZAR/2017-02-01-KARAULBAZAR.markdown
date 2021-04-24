@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KARAULBAZAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAULBAZAR, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARAULBAZAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KARAULBAZAR';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KARAULBAZAR';
+* [ (KARAULBAZAR, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARAULBAZAR/)
 </script>
+<script type="text/javascript">

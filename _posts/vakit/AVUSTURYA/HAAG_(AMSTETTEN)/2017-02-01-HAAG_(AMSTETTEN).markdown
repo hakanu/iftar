@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HAAG (AMSTETTEN)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAAG_(AMSTETTEN), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HAAG_(AMSTETTEN)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HAAG (AMSTETTEN)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HAAG (AMSTETTEN)';
+* [ (HAAG_(AMSTETTEN), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HAAG_(AMSTETTEN)/)
 </script>
+<script type="text/javascript">

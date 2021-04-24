@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/PORTKEMBLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORTKEMBLA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PORTKEMBLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'PORTKEMBLA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'PORTKEMBLA';
+* [ (PORTKEMBLA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PORTKEMBLA/)
 </script>
+<script type="text/javascript">

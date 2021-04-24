@@ -8,10 +8,11 @@ permalink: /ITALYA/AOSTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AOSTA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AOSTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'AOSTA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'AOSTA';
+* [ (AOSTA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AOSTA/)
 </script>
+<script type="text/javascript">

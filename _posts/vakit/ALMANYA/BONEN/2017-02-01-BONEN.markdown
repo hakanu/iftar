@@ -8,10 +8,11 @@ permalink: /ALMANYA/BONEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BONEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BONEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BONEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BONEN';
+* [ (BONEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BONEN/)
 </script>
+<script type="text/javascript">

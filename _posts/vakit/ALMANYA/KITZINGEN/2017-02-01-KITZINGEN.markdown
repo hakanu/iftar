@@ -8,10 +8,11 @@ permalink: /ALMANYA/KITZINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KITZINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KITZINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KITZINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KITZINGEN';
+* [ (KITZINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KITZINGEN/)
 </script>
+<script type="text/javascript">

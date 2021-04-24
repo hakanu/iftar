@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/OCOTOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OCOTOL, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/OCOTOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'OCOTOL';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'OCOTOL';
+* [ (OCOTOL, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/OCOTOL/)
 </script>
+<script type="text/javascript">

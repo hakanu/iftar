@@ -8,10 +8,11 @@ permalink: /ARJANTIN/PASO DE LOS LIBRES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PASO_DE_LOS_LIBRES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PASO_DE_LOS_LIBRES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'PASO DE LOS LIBRES';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'PASO DE LOS LIBRES';
+* [ (PASO_DE_LOS_LIBRES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PASO_DE_LOS_LIBRES/)
 </script>
+<script type="text/javascript">

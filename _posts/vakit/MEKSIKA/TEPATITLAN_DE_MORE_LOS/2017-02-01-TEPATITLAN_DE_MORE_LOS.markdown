@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TEPATITLAN DE MORE LOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEPATITLAN_DE_MORE_LOS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TEPATITLAN_DE_MORE_LOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TEPATITLAN DE MORE LOS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TEPATITLAN DE MORE LOS';
+* [ (TEPATITLAN_DE_MORE_LOS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TEPATITLAN_DE_MORE_LOS/)
 </script>
+<script type="text/javascript">

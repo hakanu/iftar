@@ -8,10 +8,11 @@ permalink: /DANIMARKA/FREDERIKSSUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREDERIKSSUND, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/FREDERIKSSUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'FREDERIKSSUND';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'FREDERIKSSUND';
+* [ (FREDERIKSSUND, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/FREDERIKSSUND/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/TEBERDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEBERDA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TEBERDA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TEBERDA ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TEBERDA ';
+* [ (TEBERDA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TEBERDA_/)
 </script>
+<script type="text/javascript">

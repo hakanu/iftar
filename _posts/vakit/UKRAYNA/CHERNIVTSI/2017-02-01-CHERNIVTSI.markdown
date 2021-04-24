@@ -8,10 +8,11 @@ permalink: /UKRAYNA/CHERNIVTSI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHERNIVTSI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/CHERNIVTSI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'CHERNIVTSI';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'CHERNIVTSI';
+* [ (CHERNIVTSI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/CHERNIVTSI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/YORK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YORK, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/YORK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'YORK';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'YORK';
+* [ (YORK, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/YORK/)
 </script>
+<script type="text/javascript">

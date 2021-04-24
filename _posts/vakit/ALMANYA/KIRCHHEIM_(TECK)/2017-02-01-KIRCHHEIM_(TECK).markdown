@@ -8,10 +8,11 @@ permalink: /ALMANYA/KIRCHHEIM (TECK)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRCHHEIM_(TECK), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIRCHHEIM_(TECK)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KIRCHHEIM (TECK)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KIRCHHEIM (TECK)';
+* [ (KIRCHHEIM_(TECK), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIRCHHEIM_(TECK)/)
 </script>
+<script type="text/javascript">

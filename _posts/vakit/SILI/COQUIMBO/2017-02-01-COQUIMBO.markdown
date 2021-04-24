@@ -8,10 +8,11 @@ permalink: /SILI/COQUIMBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COQUIMBO, SILI) için iftar ve namaz vakitleri](/SILI/COQUIMBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'COQUIMBO';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'COQUIMBO';
+* [ (COQUIMBO, SILI) için iftar ve namaz vakitleri](/SILI/COQUIMBO/)
 </script>
+<script type="text/javascript">

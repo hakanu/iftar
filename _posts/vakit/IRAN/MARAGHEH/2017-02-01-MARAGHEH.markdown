@@ -8,10 +8,11 @@ permalink: /IRAN/MARAGHEH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARAGHEH, IRAN) için iftar ve namaz vakitleri](/IRAN/MARAGHEH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'MARAGHEH';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'MARAGHEH';
+* [ (MARAGHEH, IRAN) için iftar ve namaz vakitleri](/IRAN/MARAGHEH/)
 </script>
+<script type="text/javascript">

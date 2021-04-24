@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/AKKOL (Ekibastuz)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKKOL_(Ekibastuz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKKOL_(Ekibastuz)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'AKKOL (Ekibastuz)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'AKKOL (Ekibastuz)';
+* [ (AKKOL_(Ekibastuz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKKOL_(Ekibastuz)/)
 </script>
+<script type="text/javascript">

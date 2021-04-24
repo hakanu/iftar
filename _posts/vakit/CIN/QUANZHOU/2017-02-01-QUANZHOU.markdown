@@ -8,10 +8,11 @@ permalink: /CIN/QUANZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUANZHOU, CIN) için iftar ve namaz vakitleri](/CIN/QUANZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QUANZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QUANZHOU';
+* [ (QUANZHOU, CIN) için iftar ve namaz vakitleri](/CIN/QUANZHOU/)
 </script>
+<script type="text/javascript">

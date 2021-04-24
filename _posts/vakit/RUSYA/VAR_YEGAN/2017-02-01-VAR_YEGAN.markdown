@@ -8,10 +8,11 @@ permalink: /RUSYA/VAR YEGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VAR_YEGAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VAR_YEGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VAR YEGAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VAR YEGAN';
+* [ (VAR_YEGAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VAR_YEGAN/)
 </script>
+<script type="text/javascript">

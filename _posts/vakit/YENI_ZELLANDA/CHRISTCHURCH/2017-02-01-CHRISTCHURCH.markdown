@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/CHRISTCHURCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHRISTCHURCH, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/CHRISTCHURCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'CHRISTCHURCH';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'CHRISTCHURCH';
+* [ (CHRISTCHURCH, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/CHRISTCHURCH/)
 </script>
+<script type="text/javascript">

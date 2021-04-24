@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD SCHWARTAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_SCHWARTAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_SCHWARTAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD SCHWARTAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD SCHWARTAU';
+* [ (BAD_SCHWARTAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_SCHWARTAU/)
 </script>
+<script type="text/javascript">

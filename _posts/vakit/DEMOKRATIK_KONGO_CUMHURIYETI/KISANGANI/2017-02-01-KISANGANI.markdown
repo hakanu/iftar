@@ -8,10 +8,11 @@ permalink: /DEMOKRATIK KONGO CUMHURIYETI/KISANGANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KISANGANI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/KISANGANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
+
   var GLOBAL_CITY = 'KISANGANI';
+  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
   var GLOBAL_STATE = 'KISANGANI';
+* [ (KISANGANI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/KISANGANI/)
 </script>
+<script type="text/javascript">

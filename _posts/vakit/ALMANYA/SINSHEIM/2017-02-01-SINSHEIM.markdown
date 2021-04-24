@@ -8,10 +8,11 @@ permalink: /ALMANYA/SINSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SINSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SINSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SINSHEIM';
+* [ (SINSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SINSHEIM/)
 </script>
+<script type="text/javascript">

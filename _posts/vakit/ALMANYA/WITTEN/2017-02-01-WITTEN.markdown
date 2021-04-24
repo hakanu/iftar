@@ -8,10 +8,11 @@ permalink: /ALMANYA/WITTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WITTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WITTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WITTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WITTEN';
+* [ (WITTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WITTEN/)
 </script>
+<script type="text/javascript">

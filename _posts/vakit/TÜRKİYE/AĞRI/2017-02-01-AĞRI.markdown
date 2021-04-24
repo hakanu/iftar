@@ -8,16 +8,17 @@ permalink: /TÜRKİYE/AĞRI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [PATNOS (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/PATNOS)
+
+
+  var GLOBAL_CITY = 'AĞRI';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'AĞRI';
+* [AĞRI (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/AĞRI)
+* [DOĞUBEYAZIT (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/DOĞUBEYAZIT)
 * [DİYADİN (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/DİYADİN)
+* [ELEŞKİRT (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/ELEŞKİRT)
+* [PATNOS (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/PATNOS)
 * [TAŞLIÇAY (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/TAŞLIÇAY)
 * [TUTAK (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/TUTAK)
-* [AĞRI (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/AĞRI)
-* [ELEŞKİRT (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/ELEŞKİRT)
-* [DOĞUBEYAZIT (AĞRI, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/AĞRI/DOĞUBEYAZIT)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'AĞRI';
-  var GLOBAL_STATE = 'AĞRI';
 </script>
+<script type="text/javascript">

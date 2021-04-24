@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/GIMJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIMJE, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GIMJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'GIMJE';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'GIMJE';
+* [ (GIMJE, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GIMJE/)
 </script>
+<script type="text/javascript">

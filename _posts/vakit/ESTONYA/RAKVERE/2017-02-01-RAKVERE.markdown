@@ -8,10 +8,11 @@ permalink: /ESTONYA/RAKVERE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAKVERE, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/RAKVERE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'RAKVERE';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'RAKVERE';
+* [ (RAKVERE, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/RAKVERE/)
 </script>
+<script type="text/javascript">

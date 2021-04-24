@@ -8,10 +8,11 @@ permalink: /ITALYA/ROVIGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROVIGO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ROVIGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ROVIGO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ROVIGO';
+* [ (ROVIGO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ROVIGO/)
 </script>
+<script type="text/javascript">

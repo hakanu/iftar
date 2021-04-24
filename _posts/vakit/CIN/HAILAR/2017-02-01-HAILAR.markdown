@@ -8,10 +8,11 @@ permalink: /CIN/HAILAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAILAR, CIN) için iftar ve namaz vakitleri](/CIN/HAILAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HAILAR';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HAILAR';
+* [ (HAILAR, CIN) için iftar ve namaz vakitleri](/CIN/HAILAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/SAINT BRIEUC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT_BRIEUC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT_BRIEUC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SAINT BRIEUC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SAINT BRIEUC';
+* [ (SAINT_BRIEUC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT_BRIEUC/)
 </script>
+<script type="text/javascript">

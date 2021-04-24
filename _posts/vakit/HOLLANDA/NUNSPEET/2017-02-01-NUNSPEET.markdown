@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NUNSPEET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUNSPEET, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NUNSPEET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NUNSPEET';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NUNSPEET';
+* [ (NUNSPEET, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NUNSPEET/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/STOCKACH (Konstanz)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STOCKACH_(Konstanz), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STOCKACH_(Konstanz)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STOCKACH (Konstanz)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STOCKACH (Konstanz)';
+* [ (STOCKACH_(Konstanz), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STOCKACH_(Konstanz)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/COOPER'S TOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COOPER'S_TOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/COOPER'S_TOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'COOPER'S TOWN';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'COOPER'S TOWN';
+* [ (COOPER'S_TOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/COOPER'S_TOWN/)
 </script>
+<script type="text/javascript">

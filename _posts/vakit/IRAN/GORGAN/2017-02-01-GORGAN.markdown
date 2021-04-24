@@ -8,10 +8,11 @@ permalink: /IRAN/GORGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GORGAN, IRAN) için iftar ve namaz vakitleri](/IRAN/GORGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'GORGAN';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'GORGAN';
+* [ (GORGAN, IRAN) için iftar ve namaz vakitleri](/IRAN/GORGAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/PASSO FUNDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PASSO_FUNDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PASSO_FUNDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PASSO FUNDO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PASSO FUNDO';
+* [ (PASSO_FUNDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PASSO_FUNDO/)
 </script>
+<script type="text/javascript">

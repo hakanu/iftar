@@ -8,10 +8,11 @@ permalink: /ALMANYA/OSCHERSLEBEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSCHERSLEBEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSCHERSLEBEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OSCHERSLEBEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OSCHERSLEBEN';
+* [ (OSCHERSLEBEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSCHERSLEBEN/)
 </script>
+<script type="text/javascript">

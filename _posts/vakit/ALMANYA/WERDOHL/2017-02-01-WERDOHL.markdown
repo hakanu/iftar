@@ -8,10 +8,11 @@ permalink: /ALMANYA/WERDOHL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WERDOHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERDOHL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WERDOHL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WERDOHL';
+* [ (WERDOHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERDOHL/)
 </script>
+<script type="text/javascript">

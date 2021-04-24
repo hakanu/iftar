@@ -8,10 +8,11 @@ permalink: /FRANSA/NANCY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NANCY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NANCY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NANCY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NANCY';
+* [ (NANCY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NANCY/)
 </script>
+<script type="text/javascript">

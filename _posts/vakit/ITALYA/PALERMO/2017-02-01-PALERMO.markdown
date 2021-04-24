@@ -8,10 +8,11 @@ permalink: /ITALYA/PALERMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PALERMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PALERMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PALERMO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PALERMO';
+* [ (PALERMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PALERMO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ESLOHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESLOHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESLOHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ESLOHE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ESLOHE';
+* [ (ESLOHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESLOHE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/TOTTORI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOTTORI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOTTORI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TOTTORI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TOTTORI';
+* [ (TOTTORI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOTTORI/)
 </script>
+<script type="text/javascript">

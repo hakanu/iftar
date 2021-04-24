@@ -8,10 +8,11 @@ permalink: /BELIZE/ORANGE WALK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORANGE_WALK, BELIZE) için iftar ve namaz vakitleri](/BELIZE/ORANGE_WALK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELIZE';
+
   var GLOBAL_CITY = 'ORANGE WALK';
+  var GLOBAL_COUNTRY = 'BELIZE';
   var GLOBAL_STATE = 'ORANGE WALK';
+* [ (ORANGE_WALK, BELIZE) için iftar ve namaz vakitleri](/BELIZE/ORANGE_WALK/)
 </script>
+<script type="text/javascript">

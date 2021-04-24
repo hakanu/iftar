@@ -8,10 +8,11 @@ permalink: /BELCIKA/BORNEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORNEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BORNEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BORNEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BORNEM';
+* [ (BORNEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BORNEM/)
 </script>
+<script type="text/javascript">

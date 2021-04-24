@@ -8,10 +8,11 @@ permalink: /ALMANYA/TITISEE-NEUSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TITISEE-NEUSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TITISEE-NEUSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TITISEE-NEUSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TITISEE-NEUSTADT';
+* [ (TITISEE-NEUSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TITISEE-NEUSTADT/)
 </script>
+<script type="text/javascript">

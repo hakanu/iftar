@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/SIDOARJO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIDOARJO, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SIDOARJO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'SIDOARJO';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'SIDOARJO';
+* [ (SIDOARJO, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SIDOARJO/)
 </script>
+<script type="text/javascript">

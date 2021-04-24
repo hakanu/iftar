@@ -8,10 +8,11 @@ permalink: /ALMANYA/TROSSINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TROSSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TROSSINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TROSSINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TROSSINGEN';
+* [ (TROSSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TROSSINGEN/)
 </script>
+<script type="text/javascript">

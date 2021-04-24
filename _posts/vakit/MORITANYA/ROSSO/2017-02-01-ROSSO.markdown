@@ -8,10 +8,11 @@ permalink: /MORITANYA/ROSSO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSSO, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ROSSO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'ROSSO';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'ROSSO';
+* [ (ROSSO, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ROSSO/)
 </script>
+<script type="text/javascript">

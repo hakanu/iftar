@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HOOFDDORP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOOFDDORP, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOFDDORP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HOOFDDORP';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HOOFDDORP';
+* [ (HOOFDDORP, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOFDDORP/)
 </script>
+<script type="text/javascript">

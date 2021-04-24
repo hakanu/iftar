@@ -8,10 +8,11 @@ permalink: /VENEZUELA/CUMANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUMANA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CUMANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'CUMANA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'CUMANA';
+* [ (CUMANA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CUMANA/)
 </script>
+<script type="text/javascript">

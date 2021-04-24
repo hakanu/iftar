@@ -8,10 +8,11 @@ permalink: /ALMANYA/BENSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BENSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BENSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BENSHEIM';
+* [ (BENSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BENSHEIM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HINDISTAN/JABALPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JABALPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JABALPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'JABALPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'JABALPUR';
+* [ (JABALPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JABALPUR/)
 </script>
+<script type="text/javascript">

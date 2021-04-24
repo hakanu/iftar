@@ -8,10 +8,11 @@ permalink: /ALMANYA/WUPPERTAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WUPPERTAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WUPPERTAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WUPPERTAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WUPPERTAL';
+* [ (WUPPERTAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WUPPERTAL/)
 </script>
+<script type="text/javascript">

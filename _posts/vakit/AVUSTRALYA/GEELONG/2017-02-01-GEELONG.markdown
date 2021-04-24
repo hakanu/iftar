@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/GEELONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEELONG, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GEELONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'GEELONG';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'GEELONG';
+* [ (GEELONG, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GEELONG/)
 </script>
+<script type="text/javascript">

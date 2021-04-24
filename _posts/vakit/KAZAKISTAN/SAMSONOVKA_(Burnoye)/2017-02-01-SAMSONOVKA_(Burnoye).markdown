@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/SAMSONOVKA (Burnoye)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAMSONOVKA_(Burnoye), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SAMSONOVKA_(Burnoye)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'SAMSONOVKA (Burnoye)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'SAMSONOVKA (Burnoye)';
+* [ (SAMSONOVKA_(Burnoye), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SAMSONOVKA_(Burnoye)/)
 </script>
+<script type="text/javascript">

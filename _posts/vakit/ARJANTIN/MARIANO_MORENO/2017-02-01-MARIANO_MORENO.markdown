@@ -8,10 +8,11 @@ permalink: /ARJANTIN/MARIANO MORENO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARIANO_MORENO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MARIANO_MORENO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'MARIANO MORENO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'MARIANO MORENO';
+* [ (MARIANO_MORENO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MARIANO_MORENO/)
 </script>
+<script type="text/javascript">

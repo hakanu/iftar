@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/SHAKHRISABZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAKHRISABZ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/SHAKHRISABZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'SHAKHRISABZ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'SHAKHRISABZ';
+* [ (SHAKHRISABZ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/SHAKHRISABZ/)
 </script>
+<script type="text/javascript">

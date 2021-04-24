@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/KRASNYY OKTYABR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRASNYY_OKTYABR_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KRASNYY_OKTYABR_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'KRASNYY OKTYABR ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'KRASNYY OKTYABR ';
+* [ (KRASNYY_OKTYABR_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KRASNYY_OKTYABR_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /TAYLAND/NAKHON RATCHASIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAKHON_RATCHASIMA, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/NAKHON_RATCHASIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'NAKHON RATCHASIMA';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'NAKHON RATCHASIMA';
+* [ (NAKHON_RATCHASIMA, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/NAKHON_RATCHASIMA/)
 </script>
+<script type="text/javascript">

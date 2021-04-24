@@ -8,10 +8,11 @@ permalink: /FRANSA/NARBONNE PLAGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NARBONNE_PLAGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NARBONNE_PLAGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NARBONNE PLAGE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NARBONNE PLAGE';
+* [ (NARBONNE_PLAGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NARBONNE_PLAGE/)
 </script>
+<script type="text/javascript">

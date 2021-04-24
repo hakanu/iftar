@@ -8,10 +8,11 @@ permalink: /HINDISTAN/AMBALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMBALA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AMBALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'AMBALA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'AMBALA';
+* [ (AMBALA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AMBALA/)
 </script>
+<script type="text/javascript">

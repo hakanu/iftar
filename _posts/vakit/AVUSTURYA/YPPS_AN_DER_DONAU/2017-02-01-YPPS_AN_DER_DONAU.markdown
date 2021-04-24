@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/YPPS AN DER DONAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YPPS_AN_DER_DONAU, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/YPPS_AN_DER_DONAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'YPPS AN DER DONAU';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'YPPS AN DER DONAU';
+* [ (YPPS_AN_DER_DONAU, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/YPPS_AN_DER_DONAU/)
 </script>
+<script type="text/javascript">

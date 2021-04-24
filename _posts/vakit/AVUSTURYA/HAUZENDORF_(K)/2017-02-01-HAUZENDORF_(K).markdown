@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HAUZENDORF (K)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAUZENDORF_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HAUZENDORF_(K)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HAUZENDORF (K)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HAUZENDORF (K)';
+* [ (HAUZENDORF_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HAUZENDORF_(K)/)
 </script>
+<script type="text/javascript">

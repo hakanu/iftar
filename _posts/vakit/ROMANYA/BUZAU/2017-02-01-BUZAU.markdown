@@ -8,10 +8,11 @@ permalink: /ROMANYA/BUZAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUZAU, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BUZAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'BUZAU';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'BUZAU';
+* [ (BUZAU, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BUZAU/)
 </script>
+<script type="text/javascript">

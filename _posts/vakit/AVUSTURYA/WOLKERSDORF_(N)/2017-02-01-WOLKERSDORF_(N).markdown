@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/WOLKERSDORF (N)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOLKERSDORF_(N), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WOLKERSDORF_(N)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'WOLKERSDORF (N)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'WOLKERSDORF (N)';
+* [ (WOLKERSDORF_(N), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WOLKERSDORF_(N)/)
 </script>
+<script type="text/javascript">

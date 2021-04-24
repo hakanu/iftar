@@ -8,10 +8,11 @@ permalink: /BELCIKA/ENSIVAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENSIVAL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ENSIVAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ENSIVAL';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ENSIVAL';
+* [ (ENSIVAL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ENSIVAL/)
 </script>
+<script type="text/javascript">

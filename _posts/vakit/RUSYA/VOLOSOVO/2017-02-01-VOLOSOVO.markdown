@@ -8,10 +8,11 @@ permalink: /RUSYA/VOLOSOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLOSOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLOSOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VOLOSOVO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VOLOSOVO';
+* [ (VOLOSOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLOSOVO/)
 </script>
+<script type="text/javascript">

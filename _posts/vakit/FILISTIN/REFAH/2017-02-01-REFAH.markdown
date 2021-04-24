@@ -8,10 +8,11 @@ permalink: /FILISTIN/REFAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REFAH, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/REFAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'REFAH';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'REFAH';
+* [ (REFAH, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/REFAH/)
 </script>
+<script type="text/javascript">

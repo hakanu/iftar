@@ -8,10 +8,11 @@ permalink: /ISVICRE/BIBERIST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIBERIST_, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BIBERIST_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BIBERIST ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BIBERIST ';
+* [ (BIBERIST_, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BIBERIST_/)
 </script>
+<script type="text/javascript">

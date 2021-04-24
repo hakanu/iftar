@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TOLUCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOLUCA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TOLUCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TOLUCA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TOLUCA';
+* [ (TOLUCA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TOLUCA/)
 </script>
+<script type="text/javascript">

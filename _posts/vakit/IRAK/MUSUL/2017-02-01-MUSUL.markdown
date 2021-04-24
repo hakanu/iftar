@@ -8,10 +8,11 @@ permalink: /IRAK/MUSUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUSUL, IRAK) için iftar ve namaz vakitleri](/IRAK/MUSUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'MUSUL';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'MUSUL';
+* [ (MUSUL, IRAK) için iftar ve namaz vakitleri](/IRAK/MUSUL/)
 </script>
+<script type="text/javascript">

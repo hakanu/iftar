@@ -8,10 +8,11 @@ permalink: /ALMANYA/SPREMBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPREMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPREMBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SPREMBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SPREMBERG';
+* [ (SPREMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPREMBERG/)
 </script>
+<script type="text/javascript">

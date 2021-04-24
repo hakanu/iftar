@@ -8,10 +8,11 @@ permalink: /ISPANYA/SAN SEBASTIAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_SEBASTIAN, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SAN_SEBASTIAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'SAN SEBASTIAN';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'SAN SEBASTIAN';
+* [ (SAN_SEBASTIAN, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SAN_SEBASTIAN/)
 </script>
+<script type="text/javascript">

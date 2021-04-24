@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/BETEMBOURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BETEMBOURG, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/BETEMBOURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'BETEMBOURG';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'BETEMBOURG';
+* [ (BETEMBOURG, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/BETEMBOURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELARUS/ZHODINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHODINO, BELARUS) için iftar ve namaz vakitleri](/BELARUS/ZHODINO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'ZHODINO';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'ZHODINO';
+* [ (ZHODINO, BELARUS) için iftar ve namaz vakitleri](/BELARUS/ZHODINO/)
 </script>
+<script type="text/javascript">

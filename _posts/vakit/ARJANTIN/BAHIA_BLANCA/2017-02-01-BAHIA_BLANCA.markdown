@@ -8,10 +8,11 @@ permalink: /ARJANTIN/BAHIA BLANCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAHIA_BLANCA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/BAHIA_BLANCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'BAHIA BLANCA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'BAHIA BLANCA';
+* [ (BAHIA_BLANCA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/BAHIA_BLANCA/)
 </script>
+<script type="text/javascript">

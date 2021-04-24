@@ -8,10 +8,11 @@ permalink: /RUSYA/KRASNOYARSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRASNOYARSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRASNOYARSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KRASNOYARSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KRASNOYARSK';
+* [ (KRASNOYARSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRASNOYARSK/)
 </script>
+<script type="text/javascript">

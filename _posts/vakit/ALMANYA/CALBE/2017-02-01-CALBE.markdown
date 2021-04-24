@@ -8,10 +8,11 @@ permalink: /ALMANYA/CALBE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALBE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CALBE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'CALBE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'CALBE';
+* [ (CALBE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CALBE/)
 </script>
+<script type="text/javascript">

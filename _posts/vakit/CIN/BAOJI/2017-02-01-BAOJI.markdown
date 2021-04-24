@@ -8,10 +8,11 @@ permalink: /CIN/BAOJI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAOJI, CIN) için iftar ve namaz vakitleri](/CIN/BAOJI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'BAOJI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'BAOJI';
+* [ (BAOJI, CIN) için iftar ve namaz vakitleri](/CIN/BAOJI/)
 </script>
+<script type="text/javascript">

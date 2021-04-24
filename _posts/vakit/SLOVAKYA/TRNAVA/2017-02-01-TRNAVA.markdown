@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/TRNAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRNAVA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/TRNAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'TRNAVA';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'TRNAVA';
+* [ (TRNAVA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/TRNAVA/)
 </script>
+<script type="text/javascript">

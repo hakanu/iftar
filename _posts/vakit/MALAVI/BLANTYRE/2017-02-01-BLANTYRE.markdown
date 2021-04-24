@@ -8,10 +8,11 @@ permalink: /MALAVI/BLANTYRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLANTYRE, MALAVI) için iftar ve namaz vakitleri](/MALAVI/BLANTYRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALAVI';
+
   var GLOBAL_CITY = 'BLANTYRE';
+  var GLOBAL_COUNTRY = 'MALAVI';
   var GLOBAL_STATE = 'BLANTYRE';
+* [ (BLANTYRE, MALAVI) için iftar ve namaz vakitleri](/MALAVI/BLANTYRE/)
 </script>
+<script type="text/javascript">

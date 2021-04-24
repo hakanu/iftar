@@ -8,10 +8,11 @@ permalink: /BREZILYA/CORURIPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORURIPE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CORURIPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CORURIPE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CORURIPE';
+* [ (CORURIPE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CORURIPE/)
 </script>
+<script type="text/javascript">

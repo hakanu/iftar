@@ -8,10 +8,11 @@ permalink: /ALMANYA/OYTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OYTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OYTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OYTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OYTEN';
+* [ (OYTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OYTEN/)
 </script>
+<script type="text/javascript">

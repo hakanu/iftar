@@ -8,10 +8,11 @@ permalink: /NORVEC/SARPSBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARPSBORG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SARPSBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SARPSBORG';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SARPSBORG';
+* [ (SARPSBORG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SARPSBORG/)
 </script>
+<script type="text/javascript">

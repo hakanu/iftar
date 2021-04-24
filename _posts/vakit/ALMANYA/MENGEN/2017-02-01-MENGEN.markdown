@@ -8,10 +8,11 @@ permalink: /ALMANYA/MENGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MENGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MENGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MENGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MENGEN';
+* [ (MENGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MENGEN/)
 </script>
+<script type="text/javascript">

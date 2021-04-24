@@ -8,10 +8,11 @@ permalink: /MORITANYA/TİDJİKDJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TİDJİKDJA, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/TİDJİKDJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'TİDJİKDJA';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'TİDJİKDJA';
+* [ (TİDJİKDJA, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/TİDJİKDJA/)
 </script>
+<script type="text/javascript">

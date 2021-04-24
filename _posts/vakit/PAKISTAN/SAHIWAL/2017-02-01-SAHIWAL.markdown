@@ -8,10 +8,11 @@ permalink: /PAKISTAN/SAHIWAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAHIWAL, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SAHIWAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'SAHIWAL';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'SAHIWAL';
+* [ (SAHIWAL, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SAHIWAL/)
 </script>
+<script type="text/javascript">

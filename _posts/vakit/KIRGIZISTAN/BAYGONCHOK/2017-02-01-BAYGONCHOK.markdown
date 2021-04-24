@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/BAYGONCHOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYGONCHOK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BAYGONCHOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'BAYGONCHOK';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'BAYGONCHOK';
+* [ (BAYGONCHOK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BAYGONCHOK/)
 </script>
+<script type="text/javascript">

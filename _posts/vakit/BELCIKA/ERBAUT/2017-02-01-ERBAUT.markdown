@@ -8,10 +8,11 @@ permalink: /BELCIKA/ERBAUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERBAUT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ERBAUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ERBAUT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ERBAUT';
+* [ (ERBAUT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ERBAUT/)
 </script>
+<script type="text/javascript">

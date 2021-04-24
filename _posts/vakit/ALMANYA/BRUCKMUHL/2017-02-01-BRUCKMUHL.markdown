@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRUCKMUHL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUCKMUHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUCKMUHL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRUCKMUHL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRUCKMUHL';
+* [ (BRUCKMUHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUCKMUHL/)
 </script>
+<script type="text/javascript">

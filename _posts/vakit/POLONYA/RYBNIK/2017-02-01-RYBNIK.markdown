@@ -8,10 +8,11 @@ permalink: /POLONYA/RYBNIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RYBNIK, POLONYA) için iftar ve namaz vakitleri](/POLONYA/RYBNIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'RYBNIK';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'RYBNIK';
+* [ (RYBNIK, POLONYA) için iftar ve namaz vakitleri](/POLONYA/RYBNIK/)
 </script>
+<script type="text/javascript">

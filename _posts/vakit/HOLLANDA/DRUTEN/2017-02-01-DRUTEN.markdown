@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DRUTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DRUTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DRUTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DRUTEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DRUTEN';
+* [ (DRUTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DRUTEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/BATANGAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATANGAS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BATANGAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'BATANGAS';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'BATANGAS';
+* [ (BATANGAS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BATANGAS/)
 </script>
+<script type="text/javascript">

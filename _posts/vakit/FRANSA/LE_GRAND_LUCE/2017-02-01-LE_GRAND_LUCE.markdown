@@ -8,10 +8,11 @@ permalink: /FRANSA/LE GRAND LUCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_GRAND_LUCE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_GRAND_LUCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE GRAND LUCE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE GRAND LUCE';
+* [ (LE_GRAND_LUCE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_GRAND_LUCE/)
 </script>
+<script type="text/javascript">

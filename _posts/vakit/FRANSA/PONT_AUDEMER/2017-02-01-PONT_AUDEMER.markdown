@@ -8,10 +8,11 @@ permalink: /FRANSA/PONT AUDEMER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONT_AUDEMER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT_AUDEMER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PONT AUDEMER';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PONT AUDEMER';
+* [ (PONT_AUDEMER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT_AUDEMER/)
 </script>
+<script type="text/javascript">

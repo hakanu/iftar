@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/JAJCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JAJCE, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/JAJCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'JAJCE';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'JAJCE';
+* [ (JAJCE, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/JAJCE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/ANSFELDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANSFELDEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ANSFELDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'ANSFELDEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'ANSFELDEN';
+* [ (ANSFELDEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ANSFELDEN/)
 </script>
+<script type="text/javascript">

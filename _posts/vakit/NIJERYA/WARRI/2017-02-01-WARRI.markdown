@@ -8,10 +8,11 @@ permalink: /NIJERYA/WARRI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARRI, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/WARRI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'WARRI';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'WARRI';
+* [ (WARRI, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/WARRI/)
 </script>
+<script type="text/javascript">

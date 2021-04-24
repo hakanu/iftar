@@ -8,10 +8,11 @@ permalink: /FRANSA/NICE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NICE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NICE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NICE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NICE';
+* [ (NICE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NICE/)
 </script>
+<script type="text/javascript">

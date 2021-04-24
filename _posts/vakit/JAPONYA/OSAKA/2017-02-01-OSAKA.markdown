@@ -8,10 +8,11 @@ permalink: /JAPONYA/OSAKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSAKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OSAKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OSAKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OSAKA';
+* [ (OSAKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OSAKA/)
 </script>
+<script type="text/javascript">

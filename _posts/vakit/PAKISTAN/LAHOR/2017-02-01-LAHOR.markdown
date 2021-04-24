@@ -8,10 +8,11 @@ permalink: /PAKISTAN/LAHOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAHOR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/LAHOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'LAHOR';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'LAHOR';
+* [ (LAHOR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/LAHOR/)
 </script>
+<script type="text/javascript">

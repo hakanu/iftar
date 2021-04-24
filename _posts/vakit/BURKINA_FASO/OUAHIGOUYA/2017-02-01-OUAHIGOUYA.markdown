@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/OUAHIGOUYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUAHIGOUYA, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/OUAHIGOUYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'OUAHIGOUYA';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'OUAHIGOUYA';
+* [ (OUAHIGOUYA, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/OUAHIGOUYA/)
 </script>
+<script type="text/javascript">

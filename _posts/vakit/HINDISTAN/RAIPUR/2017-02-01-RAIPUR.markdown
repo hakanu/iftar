@@ -8,10 +8,11 @@ permalink: /HINDISTAN/RAIPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAIPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAIPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'RAIPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'RAIPUR';
+* [ (RAIPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAIPUR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOSS VALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSS_VALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOSS_VALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOSS VALE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOSS VALE';
+* [ (MOSS_VALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOSS_VALE/)
 </script>
+<script type="text/javascript">

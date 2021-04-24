@@ -8,10 +8,11 @@ permalink: /ALMANYA/FURTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURTH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FURTH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FURTH';
+* [ (FURTH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURTH/)
 </script>
+<script type="text/javascript">

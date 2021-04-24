@@ -8,10 +8,11 @@ permalink: /BOTSVANA/SHAKAWE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAKAWE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SHAKAWE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOTSVANA';
+
   var GLOBAL_CITY = 'SHAKAWE';
+  var GLOBAL_COUNTRY = 'BOTSVANA';
   var GLOBAL_STATE = 'SHAKAWE';
+* [ (SHAKAWE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SHAKAWE/)
 </script>
+<script type="text/javascript">

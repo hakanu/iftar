@@ -8,10 +8,11 @@ permalink: /BREZILYA/SANTA BARBARA D OESTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_BARBARA_D_OESTE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTA_BARBARA_D_OESTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SANTA BARBARA D OESTE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SANTA BARBARA D OESTE';
+* [ (SANTA_BARBARA_D_OESTE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTA_BARBARA_D_OESTE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/DE-KASTRI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DE-KASTRI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DE-KASTRI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'DE-KASTRI';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'DE-KASTRI';
+* [ (DE-KASTRI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DE-KASTRI/)
 </script>
+<script type="text/javascript">

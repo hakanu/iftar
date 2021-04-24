@@ -8,10 +8,11 @@ permalink: /ISRAIL/NETANYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NETANYA, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NETANYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISRAIL';
+
   var GLOBAL_CITY = 'NETANYA';
+  var GLOBAL_COUNTRY = 'ISRAIL';
   var GLOBAL_STATE = 'NETANYA';
+* [ (NETANYA, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NETANYA/)
 </script>
+<script type="text/javascript">

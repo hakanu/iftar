@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/AK-MUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AK-MUZ, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AK-MUZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'AK-MUZ';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'AK-MUZ';
+* [ (AK-MUZ, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AK-MUZ/)
 </script>
+<script type="text/javascript">

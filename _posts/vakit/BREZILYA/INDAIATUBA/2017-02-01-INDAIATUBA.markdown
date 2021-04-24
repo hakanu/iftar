@@ -8,10 +8,11 @@ permalink: /BREZILYA/INDAIATUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INDAIATUBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/INDAIATUBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'INDAIATUBA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'INDAIATUBA';
+* [ (INDAIATUBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/INDAIATUBA/)
 </script>
+<script type="text/javascript">

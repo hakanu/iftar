@@ -8,10 +8,11 @@ permalink: /CIN/SUZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUZHOU, CIN) için iftar ve namaz vakitleri](/CIN/SUZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SUZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SUZHOU';
+* [ (SUZHOU, CIN) için iftar ve namaz vakitleri](/CIN/SUZHOU/)
 </script>
+<script type="text/javascript">

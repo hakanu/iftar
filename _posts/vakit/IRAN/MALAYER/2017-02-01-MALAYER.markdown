@@ -8,10 +8,11 @@ permalink: /IRAN/MALAYER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALAYER, IRAN) için iftar ve namaz vakitleri](/IRAN/MALAYER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'MALAYER';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'MALAYER';
+* [ (MALAYER, IRAN) için iftar ve namaz vakitleri](/IRAN/MALAYER/)
 </script>
+<script type="text/javascript">

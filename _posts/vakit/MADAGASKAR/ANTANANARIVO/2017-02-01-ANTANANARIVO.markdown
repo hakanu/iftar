@@ -8,10 +8,11 @@ permalink: /MADAGASKAR/ANTANANARIVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANTANANARIVO, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/ANTANANARIVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MADAGASKAR';
+
   var GLOBAL_CITY = 'ANTANANARIVO';
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
   var GLOBAL_STATE = 'ANTANANARIVO';
+* [ (ANTANANARIVO, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/ANTANANARIVO/)
 </script>
+<script type="text/javascript">

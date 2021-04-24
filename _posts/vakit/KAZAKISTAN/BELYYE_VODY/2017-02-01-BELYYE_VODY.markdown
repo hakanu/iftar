@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/BELYYE VODY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELYYE_VODY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BELYYE_VODY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'BELYYE VODY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'BELYYE VODY';
+* [ (BELYYE_VODY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BELYYE_VODY/)
 </script>
+<script type="text/javascript">

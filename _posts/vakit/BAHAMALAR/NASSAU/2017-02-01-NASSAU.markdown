@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/NASSAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NASSAU, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/NASSAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'NASSAU';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'NASSAU';
+* [ (NASSAU, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/NASSAU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUSTADT';
+* [ (LUSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUSTADT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GAISBERG (K)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAISBERG_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GAISBERG_(K)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GAISBERG (K)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GAISBERG (K)';
+* [ (GAISBERG_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GAISBERG_(K)/)
 </script>
+<script type="text/javascript">

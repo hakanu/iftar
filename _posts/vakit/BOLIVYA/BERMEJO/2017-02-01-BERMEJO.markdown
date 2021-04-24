@@ -8,10 +8,11 @@ permalink: /BOLIVYA/BERMEJO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERMEJO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/BERMEJO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'BERMEJO';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'BERMEJO';
+* [ (BERMEJO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/BERMEJO/)
 </script>
+<script type="text/javascript">

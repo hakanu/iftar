@@ -8,10 +8,11 @@ permalink: /RUSYA/BELGOROD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELGOROD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BELGOROD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BELGOROD';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BELGOROD';
+* [ (BELGOROD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BELGOROD/)
 </script>
+<script type="text/javascript">

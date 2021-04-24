@@ -8,10 +8,11 @@ permalink: /JAPONYA/YOKOHOMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YOKOHOMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YOKOHOMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'YOKOHOMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'YOKOHOMA';
+* [ (YOKOHOMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YOKOHOMA/)
 </script>
+<script type="text/javascript">

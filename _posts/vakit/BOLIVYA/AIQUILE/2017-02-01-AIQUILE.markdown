@@ -8,10 +8,11 @@ permalink: /BOLIVYA/AIQUILE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AIQUILE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/AIQUILE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'AIQUILE';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'AIQUILE';
+* [ (AIQUILE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/AIQUILE/)
 </script>
+<script type="text/javascript">

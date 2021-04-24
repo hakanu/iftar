@@ -8,10 +8,11 @@ permalink: /SILI/SANTIAGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTIAGO, SILI) için iftar ve namaz vakitleri](/SILI/SANTIAGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'SANTIAGO';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'SANTIAGO';
+* [ (SANTIAGO, SILI) için iftar ve namaz vakitleri](/SILI/SANTIAGO/)
 </script>
+<script type="text/javascript">

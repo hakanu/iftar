@@ -8,10 +8,11 @@ permalink: /UKRAYNA/MEREFA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEREFA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MEREFA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'MEREFA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'MEREFA';
+* [ (MEREFA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MEREFA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/HORST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HORST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HORST';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HORST';
+* [ (HORST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HORST/)
 </script>
+<script type="text/javascript">

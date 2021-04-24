@@ -8,10 +8,11 @@ permalink: /ANGOLA/SUMBE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUMBE, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/SUMBE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'SUMBE';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'SUMBE';
+* [ (SUMBE, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/SUMBE/)
 </script>
+<script type="text/javascript">

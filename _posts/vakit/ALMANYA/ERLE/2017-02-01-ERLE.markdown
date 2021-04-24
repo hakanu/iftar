@@ -8,10 +8,11 @@ permalink: /ALMANYA/ERLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ERLE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ERLE';
+* [ (ERLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERLE/)
 </script>
+<script type="text/javascript">

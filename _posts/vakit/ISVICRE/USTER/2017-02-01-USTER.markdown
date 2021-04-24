@@ -8,10 +8,11 @@ permalink: /ISVICRE/USTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (USTER, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/USTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'USTER';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'USTER';
+* [ (USTER, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/USTER/)
 </script>
+<script type="text/javascript">

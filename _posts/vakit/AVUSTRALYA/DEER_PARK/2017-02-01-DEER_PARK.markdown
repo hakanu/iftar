@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/DEER PARK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEER_PARK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DEER_PARK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'DEER PARK';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'DEER PARK';
+* [ (DEER_PARK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DEER_PARK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/PSKOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PSKOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PSKOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PSKOV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PSKOV';
+* [ (PSKOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PSKOV/)
 </script>
+<script type="text/javascript">

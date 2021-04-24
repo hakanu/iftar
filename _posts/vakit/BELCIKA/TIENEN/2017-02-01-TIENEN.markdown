@@ -8,10 +8,11 @@ permalink: /BELCIKA/TIENEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIENEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TIENEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'TIENEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'TIENEN';
+* [ (TIENEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TIENEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHORNDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHORNDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHORNDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHORNDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHORNDORF';
+* [ (SCHORNDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHORNDORF/)
 </script>
+<script type="text/javascript">

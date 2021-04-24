@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DEN HAAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEN_HAAG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEN_HAAG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DEN HAAG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DEN HAAG';
+* [ (DEN_HAAG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEN_HAAG/)
 </script>
+<script type="text/javascript">

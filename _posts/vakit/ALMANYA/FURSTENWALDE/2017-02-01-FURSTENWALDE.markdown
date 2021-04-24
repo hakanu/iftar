@@ -8,10 +8,11 @@ permalink: /ALMANYA/FURSTENWALDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURSTENWALDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURSTENWALDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FURSTENWALDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FURSTENWALDE';
+* [ (FURSTENWALDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURSTENWALDE/)
 </script>
+<script type="text/javascript">

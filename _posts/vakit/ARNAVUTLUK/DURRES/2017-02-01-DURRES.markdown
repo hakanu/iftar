@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/DURRES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DURRES, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/DURRES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'DURRES';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'DURRES';
+* [ (DURRES, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/DURRES/)
 </script>
+<script type="text/javascript">

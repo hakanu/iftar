@@ -8,10 +8,11 @@ permalink: /BELCIKA/WATERSCHEI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WATERSCHEI, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WATERSCHEI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WATERSCHEI';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WATERSCHEI';
+* [ (WATERSCHEI, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WATERSCHEI/)
 </script>
+<script type="text/javascript">

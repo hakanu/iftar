@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/OGULIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OGULIN, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/OGULIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'OGULIN';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'OGULIN';
+* [ (OGULIN, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/OGULIN/)
 </script>
+<script type="text/javascript">

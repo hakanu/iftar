@@ -8,10 +8,11 @@ permalink: /HOLLANDA/KERKRADE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERKRADE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KERKRADE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'KERKRADE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'KERKRADE';
+* [ (KERKRADE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KERKRADE/)
 </script>
+<script type="text/javascript">

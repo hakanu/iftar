@@ -8,10 +8,11 @@ permalink: /KATAR/AR RAYYAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AR_RAYYAN, KATAR) için iftar ve namaz vakitleri](/KATAR/AR_RAYYAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KATAR';
+
   var GLOBAL_CITY = 'AR RAYYAN';
+  var GLOBAL_COUNTRY = 'KATAR';
   var GLOBAL_STATE = 'AR RAYYAN';
+* [ (AR_RAYYAN, KATAR) için iftar ve namaz vakitleri](/KATAR/AR_RAYYAN/)
 </script>
+<script type="text/javascript">

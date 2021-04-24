@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/TABUK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TABUK, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/TABUK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'TABUK';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'TABUK';
+* [ (TABUK, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/TABUK/)
 </script>
+<script type="text/javascript">

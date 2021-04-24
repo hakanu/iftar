@@ -8,10 +8,11 @@ permalink: /ITALYA/MILAZZO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MILAZZO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MILAZZO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MILAZZO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MILAZZO';
+* [ (MILAZZO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MILAZZO/)
 </script>
+<script type="text/javascript">

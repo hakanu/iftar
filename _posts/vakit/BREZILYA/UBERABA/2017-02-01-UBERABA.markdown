@@ -8,10 +8,11 @@ permalink: /BREZILYA/UBERABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UBERABA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/UBERABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'UBERABA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'UBERABA';
+* [ (UBERABA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/UBERABA/)
 </script>
+<script type="text/javascript">

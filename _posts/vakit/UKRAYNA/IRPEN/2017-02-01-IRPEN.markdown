@@ -8,10 +8,11 @@ permalink: /UKRAYNA/IRPEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IRPEN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/IRPEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'IRPEN';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'IRPEN';
+* [ (IRPEN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/IRPEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/GIFHORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIFHORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GIFHORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GIFHORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GIFHORN';
+* [ (GIFHORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GIFHORN/)
 </script>
+<script type="text/javascript">

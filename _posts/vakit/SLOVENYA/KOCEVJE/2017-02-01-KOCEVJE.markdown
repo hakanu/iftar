@@ -8,10 +8,11 @@ permalink: /SLOVENYA/KOCEVJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOCEVJE, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KOCEVJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'KOCEVJE';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'KOCEVJE';
+* [ (KOCEVJE, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KOCEVJE/)
 </script>
+<script type="text/javascript">

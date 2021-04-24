@@ -8,10 +8,11 @@ permalink: /GANA/KUMASI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUMASI, GANA) için iftar ve namaz vakitleri](/GANA/KUMASI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'KUMASI';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'KUMASI';
+* [ (KUMASI, GANA) için iftar ve namaz vakitleri](/GANA/KUMASI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/SOGAMOSO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOGAMOSO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SOGAMOSO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'SOGAMOSO';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'SOGAMOSO';
+* [ (SOGAMOSO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SOGAMOSO/)
 </script>
+<script type="text/javascript">

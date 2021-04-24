@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTBELIARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTBELIARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTBELIARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTBELIARD';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTBELIARD';
+* [ (MONTBELIARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTBELIARD/)
 </script>
+<script type="text/javascript">

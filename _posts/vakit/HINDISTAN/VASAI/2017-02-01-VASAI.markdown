@@ -8,10 +8,11 @@ permalink: /HINDISTAN/VASAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VASAI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/VASAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'VASAI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'VASAI';
+* [ (VASAI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/VASAI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVIY URENGOY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVIY_URENGOY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVIY_URENGOY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVIY URENGOY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVIY URENGOY';
+* [ (NOVIY_URENGOY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVIY_URENGOY/)
 </script>
+<script type="text/javascript">

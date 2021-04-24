@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/PULA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PULA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/PULA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'PULA';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'PULA';
+* [ (PULA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/PULA/)
 </script>
+<script type="text/javascript">

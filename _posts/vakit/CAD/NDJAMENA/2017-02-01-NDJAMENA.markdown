@@ -8,10 +8,11 @@ permalink: /CAD/NDJAMENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NDJAMENA, CAD) için iftar ve namaz vakitleri](/CAD/NDJAMENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'NDJAMENA';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'NDJAMENA';
+* [ (NDJAMENA, CAD) için iftar ve namaz vakitleri](/CAD/NDJAMENA/)
 </script>
+<script type="text/javascript">

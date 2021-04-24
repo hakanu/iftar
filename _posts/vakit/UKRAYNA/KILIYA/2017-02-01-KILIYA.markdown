@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KILIYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KILIYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KILIYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KILIYA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KILIYA';
+* [ (KILIYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KILIYA/)
 </script>
+<script type="text/javascript">

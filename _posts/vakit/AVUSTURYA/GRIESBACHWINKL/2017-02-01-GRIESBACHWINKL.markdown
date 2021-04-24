@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GRIESBACHWINKL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRIESBACHWINKL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GRIESBACHWINKL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GRIESBACHWINKL';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GRIESBACHWINKL';
+* [ (GRIESBACHWINKL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GRIESBACHWINKL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NEEDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEEDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NEEDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NEEDE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NEEDE';
+* [ (NEEDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NEEDE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PANAMA/CHANGUINOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANGUINOLA, PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHANGUINOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'CHANGUINOLA';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'CHANGUINOLA';
+* [ (CHANGUINOLA, PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHANGUINOLA/)
 </script>
+<script type="text/javascript">

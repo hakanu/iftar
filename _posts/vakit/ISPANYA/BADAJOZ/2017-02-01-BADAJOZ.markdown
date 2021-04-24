@@ -8,10 +8,11 @@ permalink: /ISPANYA/BADAJOZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BADAJOZ, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/BADAJOZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'BADAJOZ';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'BADAJOZ';
+* [ (BADAJOZ, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/BADAJOZ/)
 </script>
+<script type="text/javascript">

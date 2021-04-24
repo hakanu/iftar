@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HALLEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HALLEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HALLEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HALLEIN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HALLEIN';
+* [ (HALLEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HALLEIN/)
 </script>
+<script type="text/javascript">

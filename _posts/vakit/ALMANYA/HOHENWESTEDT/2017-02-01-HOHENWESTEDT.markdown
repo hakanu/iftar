@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOHENWESTEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOHENWESTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHENWESTEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOHENWESTEDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOHENWESTEDT';
+* [ (HOHENWESTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHENWESTEDT/)
 </script>
+<script type="text/javascript">

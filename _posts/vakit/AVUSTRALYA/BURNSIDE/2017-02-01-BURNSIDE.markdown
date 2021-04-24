@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BURNSIDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURNSIDE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BURNSIDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BURNSIDE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BURNSIDE';
+* [ (BURNSIDE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BURNSIDE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/ISTRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISTRA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ISTRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ISTRA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ISTRA';
+* [ (ISTRA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ISTRA/)
 </script>
+<script type="text/javascript">

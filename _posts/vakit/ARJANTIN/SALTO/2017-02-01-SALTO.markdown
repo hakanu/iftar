@@ -8,10 +8,11 @@ permalink: /ARJANTIN/SALTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SALTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'SALTO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'SALTO';
+* [ (SALTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SALTO/)
 </script>
+<script type="text/javascript">

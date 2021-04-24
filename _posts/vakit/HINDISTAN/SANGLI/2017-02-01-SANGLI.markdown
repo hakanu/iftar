@@ -8,10 +8,11 @@ permalink: /HINDISTAN/SANGLI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANGLI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SANGLI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'SANGLI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'SANGLI';
+* [ (SANGLI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SANGLI/)
 </script>
+<script type="text/javascript">

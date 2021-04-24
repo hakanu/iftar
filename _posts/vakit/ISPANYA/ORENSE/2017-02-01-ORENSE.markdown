@@ -8,10 +8,11 @@ permalink: /ISPANYA/ORENSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORENSE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ORENSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'ORENSE';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'ORENSE';
+* [ (ORENSE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ORENSE/)
 </script>
+<script type="text/javascript">

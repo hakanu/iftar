@@ -8,10 +8,11 @@ permalink: /ALMANYA/GEROLSTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEROLSTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEROLSTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GEROLSTEIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GEROLSTEIN';
+* [ (GEROLSTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEROLSTEIN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KOSTARIKA/HEREDIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEREDIA, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/HEREDIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSTARIKA';
+
   var GLOBAL_CITY = 'HEREDIA';
+  var GLOBAL_COUNTRY = 'KOSTARIKA';
   var GLOBAL_STATE = 'HEREDIA';
+* [ (HEREDIA, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/HEREDIA/)
 </script>
+<script type="text/javascript">

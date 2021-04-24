@@ -8,10 +8,11 @@ permalink: /BOLIVYA/PUNATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUNATA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/PUNATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'PUNATA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'PUNATA';
+* [ (PUNATA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/PUNATA/)
 </script>
+<script type="text/javascript">

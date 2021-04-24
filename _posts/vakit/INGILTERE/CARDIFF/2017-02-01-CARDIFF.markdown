@@ -8,10 +8,11 @@ permalink: /INGILTERE/CARDIFF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARDIFF, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CARDIFF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CARDIFF';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CARDIFF';
+* [ (CARDIFF, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CARDIFF/)
 </script>
+<script type="text/javascript">

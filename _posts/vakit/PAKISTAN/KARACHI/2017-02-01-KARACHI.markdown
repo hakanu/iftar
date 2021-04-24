@@ -8,10 +8,11 @@ permalink: /PAKISTAN/KARACHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARACHI, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/KARACHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'KARACHI';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'KARACHI';
+* [ (KARACHI, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/KARACHI/)
 </script>
+<script type="text/javascript">

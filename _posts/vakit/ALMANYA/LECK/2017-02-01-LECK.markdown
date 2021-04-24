@@ -8,10 +8,11 @@ permalink: /ALMANYA/LECK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LECK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LECK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LECK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LECK';
+* [ (LECK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LECK/)
 </script>
+<script type="text/javascript">

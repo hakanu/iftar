@@ -8,10 +8,11 @@ permalink: /CIN/SHAOGUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAOGUAN, CIN) için iftar ve namaz vakitleri](/CIN/SHAOGUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHAOGUAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHAOGUAN';
+* [ (SHAOGUAN, CIN) için iftar ve namaz vakitleri](/CIN/SHAOGUAN/)
 </script>
+<script type="text/javascript">

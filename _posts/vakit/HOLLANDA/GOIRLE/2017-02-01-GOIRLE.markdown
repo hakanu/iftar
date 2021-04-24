@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GOIRLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOIRLE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GOIRLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GOIRLE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GOIRLE';
+* [ (GOIRLE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GOIRLE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /VIETNAM/DA NANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DA_NANG, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/DA_NANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'DA NANG';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'DA NANG';
+* [ (DA_NANG, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/DA_NANG/)
 </script>
+<script type="text/javascript">

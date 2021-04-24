@@ -8,10 +8,11 @@ permalink: /FRANSA/TOURS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOURS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOURS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TOURS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TOURS';
+* [ (TOURS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOURS/)
 </script>
+<script type="text/javascript">

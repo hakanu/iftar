@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/FOGELEVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOGELEVO_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/FOGELEVO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'FOGELEVO ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'FOGELEVO ';
+* [ (FOGELEVO_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/FOGELEVO_/)
 </script>
+<script type="text/javascript">

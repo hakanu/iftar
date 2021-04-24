@@ -8,10 +8,11 @@ permalink: /NORVEC/SANDNES  ( R )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANDNES__(_R_), NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDNES__(_R_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SANDNES  ( R )';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SANDNES  ( R )';
+* [ (SANDNES__(_R_), NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDNES__(_R_)/)
 </script>
+<script type="text/javascript">

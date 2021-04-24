@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KATTAQURGHON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KATTAQURGHON, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KATTAQURGHON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KATTAQURGHON';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KATTAQURGHON';
+* [ (KATTAQURGHON, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KATTAQURGHON/)
 </script>
+<script type="text/javascript">

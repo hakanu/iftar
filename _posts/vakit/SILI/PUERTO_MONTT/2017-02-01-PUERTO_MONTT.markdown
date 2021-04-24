@@ -8,10 +8,11 @@ permalink: /SILI/PUERTO MONTT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_MONTT, SILI) için iftar ve namaz vakitleri](/SILI/PUERTO_MONTT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'PUERTO MONTT';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'PUERTO MONTT';
+* [ (PUERTO_MONTT, SILI) için iftar ve namaz vakitleri](/SILI/PUERTO_MONTT/)
 </script>
+<script type="text/javascript">

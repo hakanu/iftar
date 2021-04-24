@@ -8,10 +8,11 @@ permalink: /ROMANYA/BABADAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BABADAG, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BABADAG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'BABADAG';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'BABADAG';
+* [ (BABADAG, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BABADAG/)
 </script>
+<script type="text/javascript">

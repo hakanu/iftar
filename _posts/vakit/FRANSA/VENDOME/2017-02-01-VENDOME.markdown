@@ -8,10 +8,11 @@ permalink: /FRANSA/VENDOME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VENDOME, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VENDOME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VENDOME';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VENDOME';
+* [ (VENDOME, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VENDOME/)
 </script>
+<script type="text/javascript">

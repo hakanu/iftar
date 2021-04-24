@@ -8,10 +8,11 @@ permalink: /ISVICRE/LUGANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUGANO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LUGANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LUGANO';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LUGANO';
+* [ (LUGANO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LUGANO/)
 </script>
+<script type="text/javascript">

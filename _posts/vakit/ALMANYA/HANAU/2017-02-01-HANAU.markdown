@@ -8,10 +8,11 @@ permalink: /ALMANYA/HANAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HANAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HANAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HANAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HANAU';
+* [ (HANAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HANAU/)
 </script>
+<script type="text/javascript">

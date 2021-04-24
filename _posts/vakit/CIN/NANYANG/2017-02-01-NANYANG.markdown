@@ -8,10 +8,11 @@ permalink: /CIN/NANYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NANYANG, CIN) için iftar ve namaz vakitleri](/CIN/NANYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'NANYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'NANYANG';
+* [ (NANYANG, CIN) için iftar ve namaz vakitleri](/CIN/NANYANG/)
 </script>
+<script type="text/javascript">

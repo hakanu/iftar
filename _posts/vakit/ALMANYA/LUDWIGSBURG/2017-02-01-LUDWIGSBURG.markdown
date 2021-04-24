@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUDWIGSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUDWIGSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUDWIGSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUDWIGSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUDWIGSBURG';
+* [ (LUDWIGSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUDWIGSBURG/)
 </script>
+<script type="text/javascript">

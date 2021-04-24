@@ -8,10 +8,11 @@ permalink: /ISRAIL/TEL AVIV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEL_AVIV, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/TEL_AVIV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISRAIL';
+
   var GLOBAL_CITY = 'TEL AVIV';
+  var GLOBAL_COUNTRY = 'ISRAIL';
   var GLOBAL_STATE = 'TEL AVIV';
+* [ (TEL_AVIV, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/TEL_AVIV/)
 </script>
+<script type="text/javascript">

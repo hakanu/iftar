@@ -8,10 +8,11 @@ permalink: /NORVEC/VEDAVAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VEDAVAGEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/VEDAVAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'VEDAVAGEN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'VEDAVAGEN';
+* [ (VEDAVAGEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/VEDAVAGEN/)
 </script>
+<script type="text/javascript">

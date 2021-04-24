@@ -8,10 +8,11 @@ permalink: /ALMANYA/WANGEN IM ALLGAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WANGEN_IM_ALLGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WANGEN_IM_ALLGAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WANGEN IM ALLGAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WANGEN IM ALLGAU';
+* [ (WANGEN_IM_ALLGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WANGEN_IM_ALLGAU/)
 </script>
+<script type="text/javascript">

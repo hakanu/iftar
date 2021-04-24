@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/VOLS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOLS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'VOLS';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'VOLS';
+* [ (VOLS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOLS/)
 </script>
+<script type="text/javascript">

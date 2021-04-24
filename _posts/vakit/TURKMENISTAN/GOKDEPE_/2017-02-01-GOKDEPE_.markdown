@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/GOKDEPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOKDEPE_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/GOKDEPE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'GOKDEPE ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'GOKDEPE ';
+* [ (GOKDEPE_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/GOKDEPE_/)
 </script>
+<script type="text/javascript">

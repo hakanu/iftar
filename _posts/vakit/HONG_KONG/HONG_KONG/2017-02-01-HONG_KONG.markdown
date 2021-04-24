@@ -8,10 +8,11 @@ permalink: /HONG KONG/HONG KONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HONG_KONG, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/HONG_KONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONG KONG';
+
   var GLOBAL_CITY = 'HONG KONG';
+  var GLOBAL_COUNTRY = 'HONG KONG';
   var GLOBAL_STATE = 'HONG KONG';
+* [ (HONG_KONG, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/HONG_KONG/)
 </script>
+<script type="text/javascript">

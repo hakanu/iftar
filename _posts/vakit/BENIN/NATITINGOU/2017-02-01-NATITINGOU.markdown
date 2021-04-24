@@ -8,10 +8,11 @@ permalink: /BENIN/NATITINGOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NATITINGOU, BENIN) için iftar ve namaz vakitleri](/BENIN/NATITINGOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'NATITINGOU';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'NATITINGOU';
+* [ (NATITINGOU, BENIN) için iftar ve namaz vakitleri](/BENIN/NATITINGOU/)
 </script>
+<script type="text/javascript">

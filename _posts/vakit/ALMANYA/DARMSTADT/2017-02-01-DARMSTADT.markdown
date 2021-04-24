@@ -8,10 +8,11 @@ permalink: /ALMANYA/DARMSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DARMSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DARMSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DARMSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DARMSTADT';
+* [ (DARMSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DARMSTADT/)
 </script>
+<script type="text/javascript">

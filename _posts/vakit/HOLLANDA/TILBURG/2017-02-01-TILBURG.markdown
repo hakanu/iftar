@@ -8,10 +8,11 @@ permalink: /HOLLANDA/TILBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TILBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TILBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'TILBURG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'TILBURG';
+* [ (TILBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TILBURG/)
 </script>
+<script type="text/javascript">

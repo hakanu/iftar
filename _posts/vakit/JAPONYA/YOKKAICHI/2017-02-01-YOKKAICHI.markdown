@@ -8,10 +8,11 @@ permalink: /JAPONYA/YOKKAICHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YOKKAICHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YOKKAICHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'YOKKAICHI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'YOKKAICHI';
+* [ (YOKKAICHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YOKKAICHI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BOTSVANA/MAUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAUN, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/MAUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOTSVANA';
+
   var GLOBAL_CITY = 'MAUN';
+  var GLOBAL_COUNTRY = 'BOTSVANA';
   var GLOBAL_STATE = 'MAUN';
+* [ (MAUN, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/MAUN/)
 </script>
+<script type="text/javascript">

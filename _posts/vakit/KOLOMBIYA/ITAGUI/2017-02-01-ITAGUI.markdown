@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/ITAGUI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ITAGUI, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/ITAGUI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'ITAGUI';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'ITAGUI';
+* [ (ITAGUI, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/ITAGUI/)
 </script>
+<script type="text/javascript">

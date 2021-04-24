@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CAMDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMDEN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CAMDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CAMDEN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CAMDEN';
+* [ (CAMDEN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CAMDEN/)
 </script>
+<script type="text/javascript">

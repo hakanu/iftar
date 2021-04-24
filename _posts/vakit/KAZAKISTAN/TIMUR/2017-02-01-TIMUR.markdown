@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/TIMUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIMUR, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TIMUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'TIMUR';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'TIMUR';
+* [ (TIMUR, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TIMUR/)
 </script>
+<script type="text/javascript">

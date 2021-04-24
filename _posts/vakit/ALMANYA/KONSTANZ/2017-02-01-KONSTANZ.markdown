@@ -8,10 +8,11 @@ permalink: /ALMANYA/KONSTANZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONSTANZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONSTANZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KONSTANZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KONSTANZ';
+* [ (KONSTANZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONSTANZ/)
 </script>
+<script type="text/javascript">

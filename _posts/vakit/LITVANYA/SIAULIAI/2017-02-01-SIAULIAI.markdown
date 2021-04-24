@@ -8,10 +8,11 @@ permalink: /LITVANYA/SIAULIAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIAULIAI, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/SIAULIAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'SIAULIAI';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'SIAULIAI';
+* [ (SIAULIAI, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/SIAULIAI/)
 </script>
+<script type="text/javascript">

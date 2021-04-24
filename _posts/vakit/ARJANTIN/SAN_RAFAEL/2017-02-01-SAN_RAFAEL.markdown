@@ -8,10 +8,11 @@ permalink: /ARJANTIN/SAN RAFAEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_RAFAEL, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_RAFAEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'SAN RAFAEL';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'SAN RAFAEL';
+* [ (SAN_RAFAEL, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_RAFAEL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ETYOPYA/DESE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DESE, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/DESE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ETYOPYA';
+
   var GLOBAL_CITY = 'DESE';
+  var GLOBAL_COUNTRY = 'ETYOPYA';
   var GLOBAL_STATE = 'DESE';
+* [ (DESE, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/DESE/)
 </script>
+<script type="text/javascript">

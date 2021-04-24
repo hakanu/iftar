@@ -8,10 +8,11 @@ permalink: /ALMANYA/INGELHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INGELHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/INGELHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'INGELHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'INGELHEIM';
+* [ (INGELHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/INGELHEIM/)
 </script>
+<script type="text/javascript">

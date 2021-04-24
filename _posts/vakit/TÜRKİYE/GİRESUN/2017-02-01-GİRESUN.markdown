@@ -8,25 +8,26 @@ permalink: /TÜRKİYE/GİRESUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'GİRESUN';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'GİRESUN';
+* [ALUCRA (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/ALUCRA)
+* [BULANCAK (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/BULANCAK)
 * [DERELİ (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/DERELİ)
+* [DOĞANKENT (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/DOĞANKENT)
+* [ESPİYE (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/ESPİYE)
+* [EYNESİL (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/EYNESİL)
+* [GÖRELE (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/GÖRELE)
+* [GÜCE (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/GÜCE)
+* [GİRESUN (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/GİRESUN)
+* [KEŞAP (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/KEŞAP)
+* [PİRAZİZ (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/PİRAZİZ)
+* [TİREBOLU (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/TİREBOLU)
 * [YAĞLIDERE (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/YAĞLIDERE)
 * [ÇAMOLUK (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/ÇAMOLUK)
-* [PİRAZİZ (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/PİRAZİZ)
-* [GÜCE (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/GÜCE)
-* [KEŞAP (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/KEŞAP)
 * [ÇANAKÇI (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/ÇANAKÇI)
 * [ŞEBİNKARAHİSAR (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/ŞEBİNKARAHİSAR)
-* [ALUCRA (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/ALUCRA)
-* [EYNESİL (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/EYNESİL)
-* [ESPİYE (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/ESPİYE)
-* [BULANCAK (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/BULANCAK)
-* [GİRESUN (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/GİRESUN)
-* [TİREBOLU (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/TİREBOLU)
-* [DOĞANKENT (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/DOĞANKENT)
-* [GÖRELE (GİRESUN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GİRESUN/GÖRELE)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'GİRESUN';
-  var GLOBAL_STATE = 'GİRESUN';
 </script>
+<script type="text/javascript">

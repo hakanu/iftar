@@ -8,10 +8,11 @@ permalink: /ALMANYA/BURGDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURGDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURGDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BURGDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BURGDORF';
+* [ (BURGDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURGDORF/)
 </script>
+<script type="text/javascript">

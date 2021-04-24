@@ -8,10 +8,11 @@ permalink: /NIJERYA/IWO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IWO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IWO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'IWO';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'IWO';
+* [ (IWO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IWO/)
 </script>
+<script type="text/javascript">

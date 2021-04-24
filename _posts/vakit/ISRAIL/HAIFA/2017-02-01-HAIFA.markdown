@@ -8,10 +8,11 @@ permalink: /ISRAIL/HAIFA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAIFA, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/HAIFA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISRAIL';
+
   var GLOBAL_CITY = 'HAIFA';
+  var GLOBAL_COUNTRY = 'ISRAIL';
   var GLOBAL_STATE = 'HAIFA';
+* [ (HAIFA, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/HAIFA/)
 </script>
+<script type="text/javascript">

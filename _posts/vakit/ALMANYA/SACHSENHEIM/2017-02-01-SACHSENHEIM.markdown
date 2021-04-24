@@ -8,10 +8,11 @@ permalink: /ALMANYA/SACHSENHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SACHSENHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SACHSENHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SACHSENHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SACHSENHEIM';
+* [ (SACHSENHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SACHSENHEIM/)
 </script>
+<script type="text/javascript">

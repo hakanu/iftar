@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEUSTADT A_D_ WEINST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUSTADT_A_D__WEINST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUSTADT_A_D__WEINST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEUSTADT A_D_ WEINST';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEUSTADT A_D_ WEINST';
+* [ (NEUSTADT_A_D__WEINST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUSTADT_A_D__WEINST/)
 </script>
+<script type="text/javascript">

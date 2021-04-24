@@ -8,10 +8,11 @@ permalink: /ALMANYA/MAINBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAINBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAINBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MAINBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MAINBURG';
+* [ (MAINBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAINBURG/)
 </script>
+<script type="text/javascript">

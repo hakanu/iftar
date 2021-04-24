@@ -8,10 +8,11 @@ permalink: /ALMANYA/DIETZENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIETZENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DIETZENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DIETZENBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DIETZENBACH';
+* [ (DIETZENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DIETZENBACH/)
 </script>
+<script type="text/javascript">

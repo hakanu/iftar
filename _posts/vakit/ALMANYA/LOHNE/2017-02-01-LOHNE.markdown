@@ -8,10 +8,11 @@ permalink: /ALMANYA/LOHNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOHNE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOHNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LOHNE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LOHNE';
+* [ (LOHNE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOHNE/)
 </script>
+<script type="text/javascript">

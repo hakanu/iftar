@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/NEVESINJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEVESINJE_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/NEVESINJE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'NEVESINJE ';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'NEVESINJE ';
+* [ (NEVESINJE_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/NEVESINJE_/)
 </script>
+<script type="text/javascript">

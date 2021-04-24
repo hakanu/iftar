@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/TEARCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEARCE, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/TEARCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'TEARCE';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'TEARCE';
+* [ (TEARCE, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/TEARCE/)
 </script>
+<script type="text/javascript">

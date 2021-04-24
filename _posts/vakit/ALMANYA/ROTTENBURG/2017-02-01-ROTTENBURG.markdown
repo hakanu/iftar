@@ -8,10 +8,11 @@ permalink: /ALMANYA/ROTTENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROTTENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROTTENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ROTTENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ROTTENBURG';
+* [ (ROTTENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROTTENBURG/)
 </script>
+<script type="text/javascript">

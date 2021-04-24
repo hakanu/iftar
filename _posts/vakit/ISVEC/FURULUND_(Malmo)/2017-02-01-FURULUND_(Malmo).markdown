@@ -8,10 +8,11 @@ permalink: /ISVEC/FURULUND (Malmo)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURULUND_(Malmo), ISVEC) için iftar ve namaz vakitleri](/ISVEC/FURULUND_(Malmo)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'FURULUND (Malmo)';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'FURULUND (Malmo)';
+* [ (FURULUND_(Malmo), ISVEC) için iftar ve namaz vakitleri](/ISVEC/FURULUND_(Malmo)/)
 </script>
+<script type="text/javascript">

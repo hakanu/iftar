@@ -8,10 +8,11 @@ permalink: /ALMANYA/CUXHAVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUXHAVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CUXHAVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'CUXHAVEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'CUXHAVEN';
+* [ (CUXHAVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CUXHAVEN/)
 </script>
+<script type="text/javascript">

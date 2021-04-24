@@ -8,10 +8,11 @@ permalink: /BREZILYA/MANAUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANAUS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MANAUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'MANAUS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'MANAUS';
+* [ (MANAUS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MANAUS/)
 </script>
+<script type="text/javascript">

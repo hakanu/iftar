@@ -8,10 +8,11 @@ permalink: /ARJANTIN/NEUQUEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUQUEN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/NEUQUEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'NEUQUEN';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'NEUQUEN';
+* [ (NEUQUEN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/NEUQUEN/)
 </script>
+<script type="text/javascript">

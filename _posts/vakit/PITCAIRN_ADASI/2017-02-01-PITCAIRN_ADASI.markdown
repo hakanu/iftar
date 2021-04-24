@@ -8,4 +8,5 @@ permalink: /PITCAIRN_ADASI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [ADAMSTOWN (PITCAIRN_ADASI) için iftar ve namaz vakitleri](/PITCAIRN_ADASI/ADAMSTOWN)

@@ -8,10 +8,11 @@ permalink: /ITALYA/RIETI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIETI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RIETI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'RIETI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'RIETI';
+* [ (RIETI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RIETI/)
 </script>
+<script type="text/javascript">

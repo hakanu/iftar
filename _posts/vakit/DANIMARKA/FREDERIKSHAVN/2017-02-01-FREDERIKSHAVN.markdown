@@ -8,10 +8,11 @@ permalink: /DANIMARKA/FREDERIKSHAVN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREDERIKSHAVN, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/FREDERIKSHAVN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'FREDERIKSHAVN';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'FREDERIKSHAVN';
+* [ (FREDERIKSHAVN, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/FREDERIKSHAVN/)
 </script>
+<script type="text/javascript">

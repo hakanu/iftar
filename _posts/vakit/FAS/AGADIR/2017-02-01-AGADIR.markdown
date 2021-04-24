@@ -8,10 +8,11 @@ permalink: /FAS/AGADIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGADIR, FAS) için iftar ve namaz vakitleri](/FAS/AGADIR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'AGADIR';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'AGADIR';
+* [ (AGADIR, FAS) için iftar ve namaz vakitleri](/FAS/AGADIR/)
 </script>
+<script type="text/javascript">

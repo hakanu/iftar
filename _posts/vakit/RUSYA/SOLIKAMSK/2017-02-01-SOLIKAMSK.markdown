@@ -8,10 +8,11 @@ permalink: /RUSYA/SOLIKAMSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOLIKAMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SOLIKAMSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SOLIKAMSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SOLIKAMSK';
+* [ (SOLIKAMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SOLIKAMSK/)
 </script>
+<script type="text/javascript">

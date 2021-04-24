@@ -8,10 +8,11 @@ permalink: /KUBA/PINAR DEL RIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINAR_DEL_RIO, KUBA) için iftar ve namaz vakitleri](/KUBA/PINAR_DEL_RIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'PINAR DEL RIO';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'PINAR DEL RIO';
+* [ (PINAR_DEL_RIO, KUBA) için iftar ve namaz vakitleri](/KUBA/PINAR_DEL_RIO/)
 </script>
+<script type="text/javascript">

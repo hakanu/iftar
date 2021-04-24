@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/GANGNEUNG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GANGNEUNG, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GANGNEUNG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'GANGNEUNG';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'GANGNEUNG';
+* [ (GANGNEUNG, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GANGNEUNG/)
 </script>
+<script type="text/javascript">

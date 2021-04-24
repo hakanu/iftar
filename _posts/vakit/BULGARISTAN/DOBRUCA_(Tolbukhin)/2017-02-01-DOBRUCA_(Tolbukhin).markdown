@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/DOBRUCA (Tolbukhin)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOBRUCA_(Tolbukhin), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/DOBRUCA_(Tolbukhin)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'DOBRUCA (Tolbukhin)';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'DOBRUCA (Tolbukhin)';
+* [ (DOBRUCA_(Tolbukhin), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/DOBRUCA_(Tolbukhin)/)
 </script>
+<script type="text/javascript">

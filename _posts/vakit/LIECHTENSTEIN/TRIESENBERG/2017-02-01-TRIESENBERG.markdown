@@ -8,10 +8,11 @@ permalink: /LIECHTENSTEIN/TRIESENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRIESENBERG, LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/TRIESENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIECHTENSTEIN';
+
   var GLOBAL_CITY = 'TRIESENBERG';
+  var GLOBAL_COUNTRY = 'LIECHTENSTEIN';
   var GLOBAL_STATE = 'TRIESENBERG';
+* [ (TRIESENBERG, LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/TRIESENBERG/)
 </script>
+<script type="text/javascript">

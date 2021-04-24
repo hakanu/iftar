@@ -8,10 +8,11 @@ permalink: /UKRAYNA/HMELNİTSKİ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HMELNİTSKİ, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/HMELNİTSKİ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'HMELNİTSKİ';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'HMELNİTSKİ';
+* [ (HMELNİTSKİ, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/HMELNİTSKİ/)
 </script>
+<script type="text/javascript">

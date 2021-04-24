@@ -8,10 +8,11 @@ permalink: /VENEZUELA/MATURIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATURIN, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MATURIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'MATURIN';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'MATURIN';
+* [ (MATURIN, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MATURIN/)
 </script>
+<script type="text/javascript">

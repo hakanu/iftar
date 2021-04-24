@@ -8,10 +8,11 @@ permalink: /CIN/QUZHOU ( HEBEI )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUZHOU_(_HEBEI_), CIN) için iftar ve namaz vakitleri](/CIN/QUZHOU_(_HEBEI_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QUZHOU ( HEBEI )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QUZHOU ( HEBEI )';
+* [ (QUZHOU_(_HEBEI_), CIN) için iftar ve namaz vakitleri](/CIN/QUZHOU_(_HEBEI_)/)
 </script>
+<script type="text/javascript">

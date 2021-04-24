@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ALMELO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALMELO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALMELO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ALMELO';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ALMELO';
+* [ (ALMELO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALMELO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/MAASBREE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAASBREE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MAASBREE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'MAASBREE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'MAASBREE';
+* [ (MAASBREE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MAASBREE/)
 </script>
+<script type="text/javascript">

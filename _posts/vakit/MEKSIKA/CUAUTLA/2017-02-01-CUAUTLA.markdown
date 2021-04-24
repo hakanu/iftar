@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CUAUTLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUAUTLA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CUAUTLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CUAUTLA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CUAUTLA';
+* [ (CUAUTLA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CUAUTLA/)
 </script>
+<script type="text/javascript">

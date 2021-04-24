@@ -8,10 +8,11 @@ permalink: /BERMUDA/SOMERSET VILLAGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOMERSET_VILLAGE, BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/SOMERSET_VILLAGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BERMUDA';
+
   var GLOBAL_CITY = 'SOMERSET VILLAGE';
+  var GLOBAL_COUNTRY = 'BERMUDA';
   var GLOBAL_STATE = 'SOMERSET VILLAGE';
+* [ (SOMERSET_VILLAGE, BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/SOMERSET_VILLAGE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/WAGHAUSEL (WIESS_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAGHAUSEL_(WIESS_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAGHAUSEL_(WIESS_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WAGHAUSEL (WIESS_)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WAGHAUSEL (WIESS_)';
+* [ (WAGHAUSEL_(WIESS_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAGHAUSEL_(WIESS_)/)
 </script>
+<script type="text/javascript">

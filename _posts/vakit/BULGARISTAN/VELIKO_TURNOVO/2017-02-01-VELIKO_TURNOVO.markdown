@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/VELIKO TURNOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VELIKO_TURNOVO, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/VELIKO_TURNOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'VELIKO TURNOVO';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'VELIKO TURNOVO';
+* [ (VELIKO_TURNOVO, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/VELIKO_TURNOVO/)
 </script>
+<script type="text/javascript">

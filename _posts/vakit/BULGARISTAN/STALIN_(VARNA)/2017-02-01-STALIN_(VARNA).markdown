@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/STALIN (VARNA)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STALIN_(VARNA), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/STALIN_(VARNA)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'STALIN (VARNA)';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'STALIN (VARNA)';
+* [ (STALIN_(VARNA), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/STALIN_(VARNA)/)
 </script>
+<script type="text/javascript">

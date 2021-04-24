@@ -8,10 +8,11 @@ permalink: /FRANSA/LE PONT-DE-BEAUVOISIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_PONT-DE-BEAUVOISIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PONT-DE-BEAUVOISIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE PONT-DE-BEAUVOISIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE PONT-DE-BEAUVOISIN';
+* [ (LE_PONT-DE-BEAUVOISIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PONT-DE-BEAUVOISIN/)
 </script>
+<script type="text/javascript">

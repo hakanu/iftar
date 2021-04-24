@@ -8,10 +8,11 @@ permalink: /BARBADOS/SPEIGHTSTOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPEIGHTSTOWN, BARBADOS) için iftar ve namaz vakitleri](/BARBADOS/SPEIGHTSTOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BARBADOS';
+
   var GLOBAL_CITY = 'SPEIGHTSTOWN';
+  var GLOBAL_COUNTRY = 'BARBADOS';
   var GLOBAL_STATE = 'SPEIGHTSTOWN';
+* [ (SPEIGHTSTOWN, BARBADOS) için iftar ve namaz vakitleri](/BARBADOS/SPEIGHTSTOWN/)
 </script>
+<script type="text/javascript">

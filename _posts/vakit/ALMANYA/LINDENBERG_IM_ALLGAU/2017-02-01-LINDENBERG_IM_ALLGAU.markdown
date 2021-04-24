@@ -8,10 +8,11 @@ permalink: /ALMANYA/LINDENBERG IM ALLGAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINDENBERG_IM_ALLGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDENBERG_IM_ALLGAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LINDENBERG IM ALLGAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LINDENBERG IM ALLGAU';
+* [ (LINDENBERG_IM_ALLGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDENBERG_IM_ALLGAU/)
 </script>
+<script type="text/javascript">

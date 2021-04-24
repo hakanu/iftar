@@ -8,10 +8,11 @@ permalink: /TRINIDAT VE TOBAGO/SAN FERNANDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_FERNANDO, TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/SAN_FERNANDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TRINIDAT VE TOBAGO';
+
   var GLOBAL_CITY = 'SAN FERNANDO';
+  var GLOBAL_COUNTRY = 'TRINIDAT VE TOBAGO';
   var GLOBAL_STATE = 'SAN FERNANDO';
+* [ (SAN_FERNANDO, TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/SAN_FERNANDO/)
 </script>
+<script type="text/javascript">

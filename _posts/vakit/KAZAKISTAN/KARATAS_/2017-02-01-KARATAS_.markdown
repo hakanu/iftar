@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KARATAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARATAS_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARATAS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KARATAS ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KARATAS ';
+* [ (KARATAS_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARATAS_/)
 </script>
+<script type="text/javascript">

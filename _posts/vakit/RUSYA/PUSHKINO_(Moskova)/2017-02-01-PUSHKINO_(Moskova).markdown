@@ -8,10 +8,11 @@ permalink: /RUSYA/PUSHKINO (Moskova)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUSHKINO_(Moskova), RUSYA) için iftar ve namaz vakitleri](/RUSYA/PUSHKINO_(Moskova)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PUSHKINO (Moskova)';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PUSHKINO (Moskova)';
+* [ (PUSHKINO_(Moskova), RUSYA) için iftar ve namaz vakitleri](/RUSYA/PUSHKINO_(Moskova)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NIJERYA/ENUGU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENUGU, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/ENUGU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'ENUGU';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'ENUGU';
+* [ (ENUGU, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/ENUGU/)
 </script>
+<script type="text/javascript">

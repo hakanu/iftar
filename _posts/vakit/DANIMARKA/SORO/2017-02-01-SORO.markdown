@@ -8,10 +8,11 @@ permalink: /DANIMARKA/SORO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SORO, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SORO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'SORO';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'SORO';
+* [ (SORO, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SORO/)
 </script>
+<script type="text/javascript">

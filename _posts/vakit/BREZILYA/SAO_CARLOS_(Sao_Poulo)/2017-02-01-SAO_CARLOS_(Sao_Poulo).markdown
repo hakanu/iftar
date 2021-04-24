@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO CARLOS (Sao Poulo)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_CARLOS_(Sao_Poulo), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_CARLOS_(Sao_Poulo)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO CARLOS (Sao Poulo)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO CARLOS (Sao Poulo)';
+* [ (SAO_CARLOS_(Sao_Poulo), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_CARLOS_(Sao_Poulo)/)
 </script>
+<script type="text/javascript">

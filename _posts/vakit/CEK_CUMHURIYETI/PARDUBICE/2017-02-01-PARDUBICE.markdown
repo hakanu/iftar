@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/PARDUBICE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARDUBICE, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/PARDUBICE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'PARDUBICE';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'PARDUBICE';
+* [ (PARDUBICE, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/PARDUBICE/)
 </script>
+<script type="text/javascript">

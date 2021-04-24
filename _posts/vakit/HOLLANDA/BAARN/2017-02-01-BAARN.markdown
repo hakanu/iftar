@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BAARN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAARN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BAARN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BAARN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BAARN';
+* [ (BAARN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BAARN/)
 </script>
+<script type="text/javascript">

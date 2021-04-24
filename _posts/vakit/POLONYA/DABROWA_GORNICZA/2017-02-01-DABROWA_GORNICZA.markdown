@@ -8,10 +8,11 @@ permalink: /POLONYA/DABROWA GORNICZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DABROWA_GORNICZA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/DABROWA_GORNICZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'DABROWA GORNICZA';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'DABROWA GORNICZA';
+* [ (DABROWA_GORNICZA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/DABROWA_GORNICZA/)
 </script>
+<script type="text/javascript">

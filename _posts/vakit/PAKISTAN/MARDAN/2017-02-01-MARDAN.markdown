@@ -8,10 +8,11 @@ permalink: /PAKISTAN/MARDAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARDAN, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/MARDAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'MARDAN';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'MARDAN';
+* [ (MARDAN, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/MARDAN/)
 </script>
+<script type="text/javascript">

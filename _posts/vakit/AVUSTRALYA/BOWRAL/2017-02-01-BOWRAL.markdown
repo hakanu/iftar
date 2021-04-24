@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BOWRAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOWRAL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BOWRAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BOWRAL';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BOWRAL';
+* [ (BOWRAL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BOWRAL/)
 </script>
+<script type="text/javascript">

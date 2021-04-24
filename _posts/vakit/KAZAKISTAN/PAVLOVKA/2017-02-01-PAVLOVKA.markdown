@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/PAVLOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAVLOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/PAVLOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'PAVLOVKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'PAVLOVKA';
+* [ (PAVLOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/PAVLOVKA/)
 </script>
+<script type="text/javascript">

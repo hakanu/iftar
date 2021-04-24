@@ -8,10 +8,11 @@ permalink: /ALMANYA/HAUSHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MIESBACH (HAUSHAM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAUSHAM/MIESBACH)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HAUSHAM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HAUSHAM';
+* [MIESBACH (HAUSHAM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAUSHAM/MIESBACH)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KOKSARAY(Turkistan)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOKSARAY(Turkistan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOKSARAY(Turkistan)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KOKSARAY(Turkistan)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KOKSARAY(Turkistan)';
+* [ (KOKSARAY(Turkistan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOKSARAY(Turkistan)/)
 </script>
+<script type="text/javascript">

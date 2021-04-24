@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/FOHNSDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOHNSDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FOHNSDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'FOHNSDORF';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'FOHNSDORF';
+* [ (FOHNSDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FOHNSDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/IHSUUJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IHSUUJ, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/IHSUUJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'IHSUUJ';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'IHSUUJ';
+* [ (IHSUUJ, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/IHSUUJ/)
 </script>
+<script type="text/javascript">

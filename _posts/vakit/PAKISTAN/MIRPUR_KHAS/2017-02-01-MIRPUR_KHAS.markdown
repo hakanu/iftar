@@ -8,10 +8,11 @@ permalink: /PAKISTAN/MIRPUR KHAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIRPUR_KHAS, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/MIRPUR_KHAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'MIRPUR KHAS';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'MIRPUR KHAS';
+* [ (MIRPUR_KHAS, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/MIRPUR_KHAS/)
 </script>
+<script type="text/javascript">

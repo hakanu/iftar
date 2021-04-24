@@ -8,10 +8,11 @@ permalink: /ITALYA/VERBANIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VERBANIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VERBANIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VERBANIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VERBANIA';
+* [ (VERBANIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VERBANIA/)
 </script>
+<script type="text/javascript">

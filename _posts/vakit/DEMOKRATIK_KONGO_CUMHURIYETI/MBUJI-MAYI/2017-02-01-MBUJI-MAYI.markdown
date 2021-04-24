@@ -8,10 +8,11 @@ permalink: /DEMOKRATIK KONGO CUMHURIYETI/MBUJI-MAYI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MBUJI-MAYI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/MBUJI-MAYI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
+
   var GLOBAL_CITY = 'MBUJI-MAYI';
+  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
   var GLOBAL_STATE = 'MBUJI-MAYI';
+* [ (MBUJI-MAYI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/MBUJI-MAYI/)
 </script>
+<script type="text/javascript">

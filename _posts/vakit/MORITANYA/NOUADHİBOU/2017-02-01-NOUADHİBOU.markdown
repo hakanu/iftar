@@ -8,10 +8,11 @@ permalink: /MORITANYA/NOUADHİBOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOUADHİBOU, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/NOUADHİBOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'NOUADHİBOU';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'NOUADHİBOU';
+* [ (NOUADHİBOU, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/NOUADHİBOU/)
 </script>
+<script type="text/javascript">

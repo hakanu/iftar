@@ -8,10 +8,11 @@ permalink: /BREZILYA/SOBRAL (Cearal)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOBRAL_(Cearal), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SOBRAL_(Cearal)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SOBRAL (Cearal)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SOBRAL (Cearal)';
+* [ (SOBRAL_(Cearal), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SOBRAL_(Cearal)/)
 </script>
+<script type="text/javascript">

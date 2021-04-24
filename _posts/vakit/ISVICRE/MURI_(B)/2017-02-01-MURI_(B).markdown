@@ -8,10 +8,11 @@ permalink: /ISVICRE/MURI (B)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURI_(B), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MURI_(B)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MURI (B)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MURI (B)';
+* [ (MURI_(B), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MURI_(B)/)
 </script>
+<script type="text/javascript">

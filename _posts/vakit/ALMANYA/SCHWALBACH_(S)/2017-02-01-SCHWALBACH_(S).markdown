@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWALBACH (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWALBACH_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWALBACH_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWALBACH (S)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWALBACH (S)';
+* [ (SCHWALBACH_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWALBACH_(S)/)
 </script>
+<script type="text/javascript">

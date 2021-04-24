@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/BOSANSKA GRADISKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOSANSKA_GRADISKA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BOSANSKA_GRADISKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'BOSANSKA GRADISKA';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'BOSANSKA GRADISKA';
+* [ (BOSANSKA_GRADISKA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BOSANSKA_GRADISKA/)
 </script>
+<script type="text/javascript">

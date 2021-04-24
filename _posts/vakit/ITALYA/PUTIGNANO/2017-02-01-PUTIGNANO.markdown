@@ -8,10 +8,11 @@ permalink: /ITALYA/PUTIGNANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUTIGNANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PUTIGNANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PUTIGNANO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PUTIGNANO';
+* [ (PUTIGNANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PUTIGNANO/)
 </script>
+<script type="text/javascript">

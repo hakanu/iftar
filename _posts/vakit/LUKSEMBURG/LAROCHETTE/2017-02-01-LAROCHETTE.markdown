@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/LAROCHETTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAROCHETTE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/LAROCHETTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'LAROCHETTE';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'LAROCHETTE';
+* [ (LAROCHETTE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/LAROCHETTE/)
 </script>
+<script type="text/javascript">

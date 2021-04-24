@@ -8,10 +8,11 @@ permalink: /JAPONYA/KUSATSU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUSATSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KUSATSU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KUSATSU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KUSATSU';
+* [ (KUSATSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KUSATSU/)
 </script>
+<script type="text/javascript">

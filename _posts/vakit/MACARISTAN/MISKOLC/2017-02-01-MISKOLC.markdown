@@ -8,10 +8,11 @@ permalink: /MACARISTAN/MISKOLC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MISKOLC, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/MISKOLC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'MISKOLC';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'MISKOLC';
+* [ (MISKOLC, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/MISKOLC/)
 </script>
+<script type="text/javascript">

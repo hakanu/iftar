@@ -8,10 +8,11 @@ permalink: /INGILTERE/TROWBRIDGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TROWBRIDGE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/TROWBRIDGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'TROWBRIDGE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'TROWBRIDGE';
+* [ (TROWBRIDGE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/TROWBRIDGE/)
 </script>
+<script type="text/javascript">

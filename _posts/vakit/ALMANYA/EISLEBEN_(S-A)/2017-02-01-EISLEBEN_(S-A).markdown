@@ -8,10 +8,11 @@ permalink: /ALMANYA/EISLEBEN (S-A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EISLEBEN_(S-A), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EISLEBEN_(S-A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EISLEBEN (S-A)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EISLEBEN (S-A)';
+* [ (EISLEBEN_(S-A), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EISLEBEN_(S-A)/)
 </script>
+<script type="text/javascript">

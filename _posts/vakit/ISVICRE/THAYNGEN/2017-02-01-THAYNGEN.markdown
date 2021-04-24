@@ -8,10 +8,11 @@ permalink: /ISVICRE/THAYNGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THAYNGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/THAYNGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'THAYNGEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'THAYNGEN';
+* [ (THAYNGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/THAYNGEN/)
 </script>
+<script type="text/javascript">

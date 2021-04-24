@@ -8,10 +8,11 @@ permalink: /NORVEC/ULSTEINVIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULSTEINVIK, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ULSTEINVIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'ULSTEINVIK';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'ULSTEINVIK';
+* [ (ULSTEINVIK, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ULSTEINVIK/)
 </script>
+<script type="text/javascript">

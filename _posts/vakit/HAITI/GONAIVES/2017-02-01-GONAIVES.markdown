@@ -8,10 +8,11 @@ permalink: /HAITI/GONAIVES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GONAIVES, HAITI) için iftar ve namaz vakitleri](/HAITI/GONAIVES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HAITI';
+
   var GLOBAL_CITY = 'GONAIVES';
+  var GLOBAL_COUNTRY = 'HAITI';
   var GLOBAL_STATE = 'GONAIVES';
+* [ (GONAIVES, HAITI) için iftar ve namaz vakitleri](/HAITI/GONAIVES/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/AUTUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUTUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUTUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AUTUN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AUTUN';
+* [ (AUTUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUTUN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ZEVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZEVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZEVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ZEVEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ZEVEN';
+* [ (ZEVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZEVEN/)
 </script>
+<script type="text/javascript">

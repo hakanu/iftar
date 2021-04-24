@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/COIMBRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COIMBRA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/COIMBRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'COIMBRA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'COIMBRA';
+* [ (COIMBRA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/COIMBRA/)
 </script>
+<script type="text/javascript">

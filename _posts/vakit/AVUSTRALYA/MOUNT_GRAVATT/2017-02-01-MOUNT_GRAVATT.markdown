@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOUNT GRAVATT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOUNT_GRAVATT, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOUNT_GRAVATT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOUNT GRAVATT';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOUNT GRAVATT';
+* [ (MOUNT_GRAVATT, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOUNT_GRAVATT/)
 </script>
+<script type="text/javascript">

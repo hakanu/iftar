@@ -8,10 +8,11 @@ permalink: /JAPONYA/HIKONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIKONE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIKONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HIKONE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HIKONE';
+* [ (HIKONE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIKONE/)
 </script>
+<script type="text/javascript">

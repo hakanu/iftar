@@ -8,10 +8,11 @@ permalink: /ALMANYA/FORCHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORCHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FORCHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FORCHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FORCHEIM';
+* [ (FORCHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FORCHEIM/)
 </script>
+<script type="text/javascript">

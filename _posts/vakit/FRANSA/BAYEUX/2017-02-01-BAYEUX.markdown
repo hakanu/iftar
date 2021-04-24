@@ -8,10 +8,11 @@ permalink: /FRANSA/BAYEUX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYEUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAYEUX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BAYEUX';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BAYEUX';
+* [ (BAYEUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAYEUX/)
 </script>
+<script type="text/javascript">

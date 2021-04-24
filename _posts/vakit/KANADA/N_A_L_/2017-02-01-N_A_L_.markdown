@@ -8,10 +8,11 @@ permalink: /KANADA/N_A_L_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [HEBRON (N_A_L_, KANADA) için iftar ve namaz vakitleri](/KANADA/N_A_L_/HEBRON)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KANADA';
+
   var GLOBAL_CITY = 'N_A_L_';
+  var GLOBAL_COUNTRY = 'KANADA';
   var GLOBAL_STATE = 'N_A_L_';
+* [HEBRON (N_A_L_, KANADA) için iftar ve namaz vakitleri](/KANADA/N_A_L_/HEBRON)
 </script>
+<script type="text/javascript">

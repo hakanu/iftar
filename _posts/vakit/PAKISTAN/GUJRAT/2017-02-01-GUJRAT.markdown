@@ -8,10 +8,11 @@ permalink: /PAKISTAN/GUJRAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUJRAT, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/GUJRAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'GUJRAT';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'GUJRAT';
+* [ (GUJRAT, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/GUJRAT/)
 </script>
+<script type="text/javascript">

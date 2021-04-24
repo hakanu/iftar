@@ -8,10 +8,11 @@ permalink: /PAKISTAN/LARKANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LARKANA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/LARKANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'LARKANA';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'LARKANA';
+* [ (LARKANA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/LARKANA/)
 </script>
+<script type="text/javascript">

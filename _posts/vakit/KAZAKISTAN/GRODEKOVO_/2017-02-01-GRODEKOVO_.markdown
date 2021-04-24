@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/GRODEKOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRODEKOVO_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/GRODEKOVO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'GRODEKOVO ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'GRODEKOVO ';
+* [ (GRODEKOVO_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/GRODEKOVO_/)
 </script>
+<script type="text/javascript">

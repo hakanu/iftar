@@ -8,10 +8,11 @@ permalink: /HINDISTAN/ERODE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERODE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/ERODE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'ERODE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'ERODE';
+* [ (ERODE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/ERODE/)
 </script>
+<script type="text/javascript">

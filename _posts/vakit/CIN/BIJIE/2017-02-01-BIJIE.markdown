@@ -8,10 +8,11 @@ permalink: /CIN/BIJIE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIJIE, CIN) için iftar ve namaz vakitleri](/CIN/BIJIE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'BIJIE';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'BIJIE';
+* [ (BIJIE, CIN) için iftar ve namaz vakitleri](/CIN/BIJIE/)
 </script>
+<script type="text/javascript">

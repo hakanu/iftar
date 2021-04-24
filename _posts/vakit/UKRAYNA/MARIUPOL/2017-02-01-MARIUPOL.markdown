@@ -8,10 +8,11 @@ permalink: /UKRAYNA/MARIUPOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARIUPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MARIUPOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'MARIUPOL';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'MARIUPOL';
+* [ (MARIUPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MARIUPOL/)
 </script>
+<script type="text/javascript">

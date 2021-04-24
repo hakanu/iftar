@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/KRYMSKAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRYMSKAYA_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/KRYMSKAYA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'KRYMSKAYA ';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'KRYMSKAYA ';
+* [ (KRYMSKAYA_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/KRYMSKAYA_/)
 </script>
+<script type="text/javascript">

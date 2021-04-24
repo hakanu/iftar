@@ -8,10 +8,11 @@ permalink: /KARADAG/IVANGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IVANGRAD_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/IVANGRAD_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'IVANGRAD ';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'IVANGRAD ';
+* [ (IVANGRAD_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/IVANGRAD_/)
 </script>
+<script type="text/javascript">

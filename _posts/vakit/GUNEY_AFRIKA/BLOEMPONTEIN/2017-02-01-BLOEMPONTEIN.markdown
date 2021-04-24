@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/BLOEMPONTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLOEMPONTEIN, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/BLOEMPONTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'BLOEMPONTEIN';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'BLOEMPONTEIN';
+* [ (BLOEMPONTEIN, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/BLOEMPONTEIN/)
 </script>
+<script type="text/javascript">

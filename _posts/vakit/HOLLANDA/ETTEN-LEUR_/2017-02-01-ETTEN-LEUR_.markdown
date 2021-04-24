@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ETTEN-LEUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ETTEN-LEUR_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ETTEN-LEUR_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ETTEN-LEUR ';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ETTEN-LEUR ';
+* [ (ETTEN-LEUR_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ETTEN-LEUR_/)
 </script>
+<script type="text/javascript">

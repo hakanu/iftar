@@ -8,10 +8,11 @@ permalink: /ISPANYA/MARBELLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARBELLA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/MARBELLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'MARBELLA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'MARBELLA';
+* [ (MARBELLA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/MARBELLA/)
 </script>
+<script type="text/javascript">

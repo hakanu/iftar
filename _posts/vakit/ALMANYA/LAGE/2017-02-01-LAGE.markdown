@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAGE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAGE';
+* [ (LAGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAGE/)
 </script>
+<script type="text/javascript">

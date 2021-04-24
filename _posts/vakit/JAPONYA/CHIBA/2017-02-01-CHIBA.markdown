@@ -8,10 +8,11 @@ permalink: /JAPONYA/CHIBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIBA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/CHIBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'CHIBA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'CHIBA';
+* [ (CHIBA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/CHIBA/)
 </script>
+<script type="text/javascript">

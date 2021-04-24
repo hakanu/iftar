@@ -8,10 +8,11 @@ permalink: /CIN/YANGJIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YANGJIANG, CIN) için iftar ve namaz vakitleri](/CIN/YANGJIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YANGJIANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YANGJIANG';
+* [ (YANGJIANG, CIN) için iftar ve namaz vakitleri](/CIN/YANGJIANG/)
 </script>
+<script type="text/javascript">

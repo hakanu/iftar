@@ -8,10 +8,11 @@ permalink: /SOMALI/BANDARBEYLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANDARBEYLA, SOMALI) için iftar ve namaz vakitleri](/SOMALI/BANDARBEYLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SOMALI';
+
   var GLOBAL_CITY = 'BANDARBEYLA';
+  var GLOBAL_COUNTRY = 'SOMALI';
   var GLOBAL_STATE = 'BANDARBEYLA';
+* [ (BANDARBEYLA, SOMALI) için iftar ve namaz vakitleri](/SOMALI/BANDARBEYLA/)
 </script>
+<script type="text/javascript">

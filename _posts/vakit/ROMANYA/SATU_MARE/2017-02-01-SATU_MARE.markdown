@@ -8,10 +8,11 @@ permalink: /ROMANYA/SATU MARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SATU_MARE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SATU_MARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'SATU MARE';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'SATU MARE';
+* [ (SATU_MARE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SATU_MARE/)
 </script>
+<script type="text/javascript">

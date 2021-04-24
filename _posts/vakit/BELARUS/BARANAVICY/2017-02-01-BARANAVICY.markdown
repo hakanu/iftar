@@ -8,10 +8,11 @@ permalink: /BELARUS/BARANAVICY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARANAVICY, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BARANAVICY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'BARANAVICY';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'BARANAVICY';
+* [ (BARANAVICY, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BARANAVICY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LITVANYA/DRUSKININKAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DRUSKININKAI, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/DRUSKININKAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'DRUSKININKAI';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'DRUSKININKAI';
+* [ (DRUSKININKAI, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/DRUSKININKAI/)
 </script>
+<script type="text/javascript">

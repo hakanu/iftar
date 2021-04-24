@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/KAARINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAARINA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KAARINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'KAARINA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'KAARINA';
+* [ (KAARINA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KAARINA/)
 </script>
+<script type="text/javascript">

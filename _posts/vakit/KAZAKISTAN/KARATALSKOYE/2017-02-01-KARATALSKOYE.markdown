@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KARATALSKOYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARATALSKOYE, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARATALSKOYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KARATALSKOYE';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KARATALSKOYE';
+* [ (KARATALSKOYE, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARATALSKOYE/)
 </script>
+<script type="text/javascript">

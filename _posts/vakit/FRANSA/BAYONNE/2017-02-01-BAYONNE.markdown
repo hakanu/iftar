@@ -8,10 +8,11 @@ permalink: /FRANSA/BAYONNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAYONNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BAYONNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BAYONNE';
+* [ (BAYONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAYONNE/)
 </script>
+<script type="text/javascript">

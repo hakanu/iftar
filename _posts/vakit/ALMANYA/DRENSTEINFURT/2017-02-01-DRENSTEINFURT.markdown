@@ -8,10 +8,11 @@ permalink: /ALMANYA/DRENSTEINFURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DRENSTEINFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DRENSTEINFURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DRENSTEINFURT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DRENSTEINFURT';
+* [ (DRENSTEINFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DRENSTEINFURT/)
 </script>
+<script type="text/javascript">

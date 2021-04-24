@@ -8,10 +8,11 @@ permalink: /SOMALI/CALUULA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALUULA, SOMALI) için iftar ve namaz vakitleri](/SOMALI/CALUULA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SOMALI';
+
   var GLOBAL_CITY = 'CALUULA';
+  var GLOBAL_COUNTRY = 'SOMALI';
   var GLOBAL_STATE = 'CALUULA';
+* [ (CALUULA, SOMALI) için iftar ve namaz vakitleri](/SOMALI/CALUULA/)
 </script>
+<script type="text/javascript">

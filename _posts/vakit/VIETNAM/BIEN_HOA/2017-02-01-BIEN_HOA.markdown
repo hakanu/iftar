@@ -8,10 +8,11 @@ permalink: /VIETNAM/BIEN HOA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIEN_HOA, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/BIEN_HOA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'BIEN HOA';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'BIEN HOA';
+* [ (BIEN_HOA, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/BIEN_HOA/)
 </script>
+<script type="text/javascript">

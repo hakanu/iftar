@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/DAEJEON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAEJEON, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/DAEJEON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'DAEJEON';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'DAEJEON';
+* [ (DAEJEON, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/DAEJEON/)
 </script>
+<script type="text/javascript">

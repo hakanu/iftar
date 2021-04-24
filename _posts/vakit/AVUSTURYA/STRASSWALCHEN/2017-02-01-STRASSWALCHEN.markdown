@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/STRASSWALCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRASSWALCHEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/STRASSWALCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'STRASSWALCHEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'STRASSWALCHEN';
+* [ (STRASSWALCHEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/STRASSWALCHEN/)
 </script>
+<script type="text/javascript">

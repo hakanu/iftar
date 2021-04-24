@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/BUCHEON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCHEON, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/BUCHEON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'BUCHEON';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'BUCHEON';
+* [ (BUCHEON, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/BUCHEON/)
 </script>
+<script type="text/javascript">

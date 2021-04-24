@@ -8,10 +8,11 @@ permalink: /RUSYA/BRYANSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRYANSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BRYANSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BRYANSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BRYANSK';
+* [ (BRYANSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BRYANSK/)
 </script>
+<script type="text/javascript">

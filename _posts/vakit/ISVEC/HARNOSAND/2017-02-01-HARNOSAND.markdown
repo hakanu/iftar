@@ -8,10 +8,11 @@ permalink: /ISVEC/HARNOSAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARNOSAND, ISVEC) için iftar ve namaz vakitleri](/ISVEC/HARNOSAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'HARNOSAND';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'HARNOSAND';
+* [ (HARNOSAND, ISVEC) için iftar ve namaz vakitleri](/ISVEC/HARNOSAND/)
 </script>
+<script type="text/javascript">

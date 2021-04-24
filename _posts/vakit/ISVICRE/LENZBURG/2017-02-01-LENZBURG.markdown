@@ -8,10 +8,11 @@ permalink: /ISVICRE/LENZBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENZBURG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LENZBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LENZBURG';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LENZBURG';
+* [ (LENZBURG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LENZBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/NANPING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NANPING, CIN) için iftar ve namaz vakitleri](/CIN/NANPING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'NANPING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'NANPING';
+* [ (NANPING, CIN) için iftar ve namaz vakitleri](/CIN/NANPING/)
 </script>
+<script type="text/javascript">

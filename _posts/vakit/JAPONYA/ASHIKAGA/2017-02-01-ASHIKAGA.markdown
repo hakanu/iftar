@@ -8,10 +8,11 @@ permalink: /JAPONYA/ASHIKAGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASHIKAGA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ASHIKAGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ASHIKAGA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ASHIKAGA';
+* [ (ASHIKAGA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ASHIKAGA/)
 </script>
+<script type="text/javascript">

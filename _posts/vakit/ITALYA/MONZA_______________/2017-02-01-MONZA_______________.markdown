@@ -8,10 +8,11 @@ permalink: /ITALYA/MONZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONZA_______________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MONZA_______________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MONZA               ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MONZA               ';
+* [ (MONZA_______________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MONZA_______________/)
 </script>
+<script type="text/javascript">

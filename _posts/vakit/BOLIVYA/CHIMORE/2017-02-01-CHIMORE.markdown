@@ -8,10 +8,11 @@ permalink: /BOLIVYA/CHIMORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIMORE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CHIMORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'CHIMORE';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'CHIMORE';
+* [ (CHIMORE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CHIMORE/)
 </script>
+<script type="text/javascript">

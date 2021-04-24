@@ -8,10 +8,11 @@ permalink: /MALEZYA/MELAKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELAKA, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/MELAKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'MELAKA';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'MELAKA';
+* [ (MELAKA, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/MELAKA/)
 </script>
+<script type="text/javascript">

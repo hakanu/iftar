@@ -8,10 +8,11 @@ permalink: /HOLLANDA/MAARSSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAARSSEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MAARSSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'MAARSSEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'MAARSSEN';
+* [ (MAARSSEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MAARSSEN/)
 </script>
+<script type="text/javascript">

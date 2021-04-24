@@ -8,10 +8,11 @@ permalink: /ALMANYA/HALLE (NRW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HALLE_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HALLE_(NRW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HALLE (NRW)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HALLE (NRW)';
+* [ (HALLE_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HALLE_(NRW)/)
 </script>
+<script type="text/javascript">

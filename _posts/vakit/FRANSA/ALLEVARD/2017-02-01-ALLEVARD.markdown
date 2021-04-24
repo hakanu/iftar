@@ -8,10 +8,11 @@ permalink: /FRANSA/ALLEVARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALLEVARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALLEVARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ALLEVARD';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ALLEVARD';
+* [ (ALLEVARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALLEVARD/)
 </script>
+<script type="text/javascript">

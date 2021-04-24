@@ -8,10 +8,11 @@ permalink: /LITVANYA/ALYTAUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALYTAUS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/ALYTAUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'ALYTAUS';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'ALYTAUS';
+* [ (ALYTAUS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/ALYTAUS/)
 </script>
+<script type="text/javascript">

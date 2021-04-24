@@ -8,10 +8,11 @@ permalink: /ALMANYA/KREUZTAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KREUZTAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREUZTAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KREUZTAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KREUZTAL';
+* [ (KREUZTAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREUZTAL/)
 </script>
+<script type="text/javascript">

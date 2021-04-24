@@ -8,10 +8,11 @@ permalink: /HOLLANDA/EERBEEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EERBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EERBEEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'EERBEEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'EERBEEK';
+* [ (EERBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EERBEEK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/ELISTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELISTA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ELISTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ELISTA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ELISTA';
+* [ (ELISTA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ELISTA/)
 </script>
+<script type="text/javascript">

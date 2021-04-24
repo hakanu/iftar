@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/TOUNGOO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOUNGOO, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/TOUNGOO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'TOUNGOO';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'TOUNGOO';
+* [ (TOUNGOO, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/TOUNGOO/)
 </script>
+<script type="text/javascript">

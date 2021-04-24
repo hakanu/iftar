@@ -8,10 +8,11 @@ permalink: /FILIPINLER/SAN CARLOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_CARLOS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_CARLOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'SAN CARLOS';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'SAN CARLOS';
+* [ (SAN_CARLOS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_CARLOS/)
 </script>
+<script type="text/javascript">

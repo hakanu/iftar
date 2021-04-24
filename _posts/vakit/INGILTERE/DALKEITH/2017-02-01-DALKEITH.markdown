@@ -8,10 +8,11 @@ permalink: /INGILTERE/DALKEITH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DALKEITH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DALKEITH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'DALKEITH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'DALKEITH';
+* [ (DALKEITH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DALKEITH/)
 </script>
+<script type="text/javascript">

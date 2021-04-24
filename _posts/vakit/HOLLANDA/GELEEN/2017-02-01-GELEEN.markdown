@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GELEEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GELEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GELEEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GELEEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GELEEN';
+* [ (GELEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GELEEN/)
 </script>
+<script type="text/javascript">

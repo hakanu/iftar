@@ -8,10 +8,11 @@ permalink: /GUATEMALA/COBAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COBAN, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/COBAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUATEMALA';
+
   var GLOBAL_CITY = 'COBAN';
+  var GLOBAL_COUNTRY = 'GUATEMALA';
   var GLOBAL_STATE = 'COBAN';
+* [ (COBAN, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/COBAN/)
 </script>
+<script type="text/javascript">

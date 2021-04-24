@@ -8,10 +8,11 @@ permalink: /ALMANYA/TELGTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TELGTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TELGTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TELGTE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TELGTE';
+* [ (TELGTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TELGTE/)
 </script>
+<script type="text/javascript">

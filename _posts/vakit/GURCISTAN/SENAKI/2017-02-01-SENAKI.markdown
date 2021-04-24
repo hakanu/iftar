@@ -8,10 +8,11 @@ permalink: /GURCISTAN/SENAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SENAKI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/SENAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'SENAKI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'SENAKI';
+* [ (SENAKI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/SENAKI/)
 </script>
+<script type="text/javascript">

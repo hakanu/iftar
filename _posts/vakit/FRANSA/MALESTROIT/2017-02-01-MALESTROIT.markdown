@@ -8,10 +8,11 @@ permalink: /FRANSA/MALESTROIT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALESTROIT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MALESTROIT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MALESTROIT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MALESTROIT';
+* [ (MALESTROIT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MALESTROIT/)
 </script>
+<script type="text/javascript">

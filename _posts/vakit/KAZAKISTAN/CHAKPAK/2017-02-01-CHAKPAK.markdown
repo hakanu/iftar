@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/CHAKPAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHAKPAK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CHAKPAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'CHAKPAK';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'CHAKPAK';
+* [ (CHAKPAK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CHAKPAK/)
 </script>
+<script type="text/javascript">

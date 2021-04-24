@@ -8,10 +8,11 @@ permalink: /FRANSA/MAROMME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAROMME, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAROMME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MAROMME';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MAROMME';
+* [ (MAROMME, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAROMME/)
 </script>
+<script type="text/javascript">

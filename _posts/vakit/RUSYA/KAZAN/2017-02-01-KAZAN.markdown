@@ -8,10 +8,11 @@ permalink: /RUSYA/KAZAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAZAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KAZAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KAZAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KAZAN';
+* [ (KAZAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KAZAN/)
 </script>
+<script type="text/javascript">

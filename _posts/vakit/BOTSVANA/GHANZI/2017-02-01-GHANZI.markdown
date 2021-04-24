@@ -8,10 +8,11 @@ permalink: /BOTSVANA/GHANZI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GHANZI, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/GHANZI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOTSVANA';
+
   var GLOBAL_CITY = 'GHANZI';
+  var GLOBAL_COUNTRY = 'BOTSVANA';
   var GLOBAL_STATE = 'GHANZI';
+* [ (GHANZI, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/GHANZI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/BEPPU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEPPU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/BEPPU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'BEPPU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'BEPPU';
+* [ (BEPPU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/BEPPU/)
 </script>
+<script type="text/javascript">

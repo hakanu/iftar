@@ -8,10 +8,11 @@ permalink: /ALMANYA/UBACH-PALENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UBACH-PALENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UBACH-PALENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UBACH-PALENBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UBACH-PALENBERG';
+* [ (UBACH-PALENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UBACH-PALENBERG/)
 </script>
+<script type="text/javascript">

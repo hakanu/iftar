@@ -8,10 +8,11 @@ permalink: /JAPONYA/OYAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OYAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OYAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OYAMA';
+* [ (OYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OYAMA/)
 </script>
+<script type="text/javascript">

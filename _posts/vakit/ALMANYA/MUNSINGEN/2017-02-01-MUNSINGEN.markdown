@@ -8,10 +8,11 @@ permalink: /ALMANYA/MUNSINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUNSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNSINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MUNSINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MUNSINGEN';
+* [ (MUNSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNSINGEN/)
 </script>
+<script type="text/javascript">

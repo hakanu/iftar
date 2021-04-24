@@ -8,10 +8,11 @@ permalink: /BELCIKA/AALST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AALST, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/AALST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'AALST';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'AALST';
+* [ (AALST, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/AALST/)
 </script>
+<script type="text/javascript">

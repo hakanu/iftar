@@ -8,10 +8,11 @@ permalink: /VIETNAM/QUI NHON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUI_NHON, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/QUI_NHON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'QUI NHON';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'QUI NHON';
+* [ (QUI_NHON, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/QUI_NHON/)
 </script>
+<script type="text/javascript">

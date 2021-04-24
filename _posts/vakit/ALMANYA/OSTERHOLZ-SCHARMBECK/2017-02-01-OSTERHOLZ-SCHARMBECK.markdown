@@ -8,10 +8,11 @@ permalink: /ALMANYA/OSTERHOLZ-SCHARMBECK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSTERHOLZ-SCHARMBECK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTERHOLZ-SCHARMBECK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OSTERHOLZ-SCHARMBECK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OSTERHOLZ-SCHARMBECK';
+* [ (OSTERHOLZ-SCHARMBECK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTERHOLZ-SCHARMBECK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/BAOSHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAOSHAN, CIN) için iftar ve namaz vakitleri](/CIN/BAOSHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'BAOSHAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'BAOSHAN';
+* [ (BAOSHAN, CIN) için iftar ve namaz vakitleri](/CIN/BAOSHAN/)
 </script>
+<script type="text/javascript">

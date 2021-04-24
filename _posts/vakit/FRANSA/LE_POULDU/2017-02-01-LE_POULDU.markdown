@@ -8,10 +8,11 @@ permalink: /FRANSA/LE POULDU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_POULDU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_POULDU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE POULDU';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE POULDU';
+* [ (LE_POULDU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_POULDU/)
 </script>
+<script type="text/javascript">

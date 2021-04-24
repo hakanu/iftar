@@ -8,10 +8,11 @@ permalink: /MACARISTAN/TATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TATA, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/TATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'TATA';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'TATA';
+* [ (TATA, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/TATA/)
 </script>
+<script type="text/javascript">

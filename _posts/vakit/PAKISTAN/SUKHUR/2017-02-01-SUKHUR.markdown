@@ -8,10 +8,11 @@ permalink: /PAKISTAN/SUKHUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUKHUR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SUKHUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'SUKHUR';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'SUKHUR';
+* [ (SUKHUR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SUKHUR/)
 </script>
+<script type="text/javascript">

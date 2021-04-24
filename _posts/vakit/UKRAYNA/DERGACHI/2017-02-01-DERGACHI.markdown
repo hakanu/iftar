@@ -8,10 +8,11 @@ permalink: /UKRAYNA/DERGACHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DERGACHI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DERGACHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'DERGACHI';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'DERGACHI';
+* [ (DERGACHI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DERGACHI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/MONTE GRANDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTE_GRANDE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MONTE_GRANDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'MONTE GRANDE';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'MONTE GRANDE';
+* [ (MONTE_GRANDE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MONTE_GRANDE/)
 </script>
+<script type="text/javascript">

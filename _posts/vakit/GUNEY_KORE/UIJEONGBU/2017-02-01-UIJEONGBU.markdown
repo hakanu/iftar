@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/UIJEONGBU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UIJEONGBU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/UIJEONGBU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'UIJEONGBU';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'UIJEONGBU';
+* [ (UIJEONGBU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/UIJEONGBU/)
 </script>
+<script type="text/javascript">

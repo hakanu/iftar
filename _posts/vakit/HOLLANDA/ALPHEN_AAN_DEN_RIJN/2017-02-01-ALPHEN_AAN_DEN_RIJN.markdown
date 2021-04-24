@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ALPHEN AAN DEN RIJN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALPHEN_AAN_DEN_RIJN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALPHEN_AAN_DEN_RIJN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ALPHEN AAN DEN RIJN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ALPHEN AAN DEN RIJN';
+* [ (ALPHEN_AAN_DEN_RIJN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALPHEN_AAN_DEN_RIJN/)
 </script>
+<script type="text/javascript">

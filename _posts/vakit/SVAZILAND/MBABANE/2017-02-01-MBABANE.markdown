@@ -8,10 +8,11 @@ permalink: /SVAZILAND/MBABANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MBABANE, SVAZILAND) için iftar ve namaz vakitleri](/SVAZILAND/MBABANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SVAZILAND';
+
   var GLOBAL_CITY = 'MBABANE';
+  var GLOBAL_COUNTRY = 'SVAZILAND';
   var GLOBAL_STATE = 'MBABANE';
+* [ (MBABANE, SVAZILAND) için iftar ve namaz vakitleri](/SVAZILAND/MBABANE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PEKANBARU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PEKANBARU, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PEKANBARU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PEKANBARU';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PEKANBARU';
+* [ (PEKANBARU, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PEKANBARU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/BARNSLEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARNSLEY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BARNSLEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BARNSLEY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BARNSLEY';
+* [ (BARNSLEY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BARNSLEY/)
 </script>
+<script type="text/javascript">

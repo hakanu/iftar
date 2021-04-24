@@ -8,10 +8,11 @@ permalink: /ETYOPYA/ADIS ABABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ADIS_ABABA, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/ADIS_ABABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ETYOPYA';
+
   var GLOBAL_CITY = 'ADIS ABABA';
+  var GLOBAL_COUNTRY = 'ETYOPYA';
   var GLOBAL_STATE = 'ADIS ABABA';
+* [ (ADIS_ABABA, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/ADIS_ABABA/)
 </script>
+<script type="text/javascript">

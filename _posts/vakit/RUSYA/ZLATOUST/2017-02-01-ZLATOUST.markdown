@@ -8,10 +8,11 @@ permalink: /RUSYA/ZLATOUST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZLATOUST, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ZLATOUST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ZLATOUST';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ZLATOUST';
+* [ (ZLATOUST, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ZLATOUST/)
 </script>
+<script type="text/javascript">

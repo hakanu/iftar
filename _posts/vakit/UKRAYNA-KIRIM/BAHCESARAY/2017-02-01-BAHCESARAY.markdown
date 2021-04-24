@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/BAHCESARAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAHCESARAY, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/BAHCESARAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'BAHCESARAY';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'BAHCESARAY';
+* [ (BAHCESARAY, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/BAHCESARAY/)
 </script>
+<script type="text/javascript">

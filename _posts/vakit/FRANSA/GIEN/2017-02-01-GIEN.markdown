@@ -8,10 +8,11 @@ permalink: /FRANSA/GIEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIEN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GIEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GIEN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GIEN';
+* [ (GIEN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GIEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/WEISSENHORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEISSENHORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEISSENHORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WEISSENHORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WEISSENHORN';
+* [ (WEISSENHORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEISSENHORN/)
 </script>
+<script type="text/javascript">

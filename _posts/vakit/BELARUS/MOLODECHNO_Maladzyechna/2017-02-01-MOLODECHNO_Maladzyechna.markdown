@@ -8,10 +8,11 @@ permalink: /BELARUS/MOLODECHNO Maladzyechna
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOLODECHNO_Maladzyechna, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MOLODECHNO_Maladzyechna/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'MOLODECHNO Maladzyechna';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'MOLODECHNO Maladzyechna';
+* [ (MOLODECHNO_Maladzyechna, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MOLODECHNO_Maladzyechna/)
 </script>
+<script type="text/javascript">

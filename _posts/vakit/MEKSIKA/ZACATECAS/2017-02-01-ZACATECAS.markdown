@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ZACATECAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZACATECAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ZACATECAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ZACATECAS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ZACATECAS';
+* [ (ZACATECAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ZACATECAS/)
 </script>
+<script type="text/javascript">

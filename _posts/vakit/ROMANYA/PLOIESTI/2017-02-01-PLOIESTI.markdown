@@ -8,10 +8,11 @@ permalink: /ROMANYA/PLOIESTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLOIESTI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PLOIESTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'PLOIESTI';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'PLOIESTI';
+* [ (PLOIESTI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PLOIESTI/)
 </script>
+<script type="text/javascript">

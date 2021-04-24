@@ -8,10 +8,11 @@ permalink: /MISIR/PORT SAID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT_SAID, MISIR) için iftar ve namaz vakitleri](/MISIR/PORT_SAID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'PORT SAID';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'PORT SAID';
+* [ (PORT_SAID, MISIR) için iftar ve namaz vakitleri](/MISIR/PORT_SAID/)
 </script>
+<script type="text/javascript">

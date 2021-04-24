@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/RENMARK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RENMARK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/RENMARK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'RENMARK';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'RENMARK';
+* [ (RENMARK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/RENMARK/)
 </script>
+<script type="text/javascript">

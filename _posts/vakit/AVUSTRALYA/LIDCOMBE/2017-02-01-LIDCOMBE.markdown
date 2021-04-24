@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/LIDCOMBE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIDCOMBE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/LIDCOMBE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'LIDCOMBE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'LIDCOMBE';
+* [ (LIDCOMBE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/LIDCOMBE/)
 </script>
+<script type="text/javascript">

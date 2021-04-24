@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/MUBAREK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUBAREK, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/MUBAREK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'MUBAREK';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'MUBAREK';
+* [ (MUBAREK, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/MUBAREK/)
 </script>
+<script type="text/javascript">

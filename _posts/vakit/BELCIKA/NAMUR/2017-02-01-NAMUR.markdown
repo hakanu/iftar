@@ -8,10 +8,11 @@ permalink: /BELCIKA/NAMUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAMUR, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/NAMUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'NAMUR';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'NAMUR';
+* [ (NAMUR, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/NAMUR/)
 </script>
+<script type="text/javascript">

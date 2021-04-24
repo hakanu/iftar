@@ -8,10 +8,11 @@ permalink: /FRANSA/AUBOUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUBOUE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUBOUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AUBOUE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AUBOUE';
+* [ (AUBOUE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUBOUE/)
 </script>
+<script type="text/javascript">

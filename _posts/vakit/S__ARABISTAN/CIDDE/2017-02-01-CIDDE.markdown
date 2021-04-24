@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/CIDDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIDDE, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/CIDDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'CIDDE';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'CIDDE';
+* [ (CIDDE, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/CIDDE/)
 </script>
+<script type="text/javascript">

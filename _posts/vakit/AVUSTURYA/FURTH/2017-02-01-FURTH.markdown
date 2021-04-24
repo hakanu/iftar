@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/FURTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURTH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FURTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'FURTH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'FURTH';
+* [ (FURTH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FURTH/)
 </script>
+<script type="text/javascript">

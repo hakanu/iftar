@@ -8,10 +8,11 @@ permalink: /ROMANYA/TIRGU MURES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIRGU_MURES, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TIRGU_MURES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'TIRGU MURES';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'TIRGU MURES';
+* [ (TIRGU_MURES, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TIRGU_MURES/)
 </script>
+<script type="text/javascript">

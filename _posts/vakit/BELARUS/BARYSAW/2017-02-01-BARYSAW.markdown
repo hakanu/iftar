@@ -8,10 +8,11 @@ permalink: /BELARUS/BARYSAW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARYSAW, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BARYSAW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'BARYSAW';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'BARYSAW';
+* [ (BARYSAW, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BARYSAW/)
 </script>
+<script type="text/javascript">

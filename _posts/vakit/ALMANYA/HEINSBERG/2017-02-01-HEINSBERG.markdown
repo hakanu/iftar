@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEINSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEINSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEINSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEINSBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEINSBERG';
+* [ (HEINSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEINSBERG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/GINNINDERRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GINNINDERRA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GINNINDERRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'GINNINDERRA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'GINNINDERRA';
+* [ (GINNINDERRA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GINNINDERRA/)
 </script>
+<script type="text/javascript">

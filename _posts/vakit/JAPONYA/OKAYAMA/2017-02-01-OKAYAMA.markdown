@@ -8,10 +8,11 @@ permalink: /JAPONYA/OKAYAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OKAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OKAYAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OKAYAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OKAYAMA';
+* [ (OKAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OKAYAMA/)
 </script>
+<script type="text/javascript">

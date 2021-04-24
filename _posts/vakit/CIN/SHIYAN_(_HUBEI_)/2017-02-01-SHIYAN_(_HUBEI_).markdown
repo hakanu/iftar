@@ -8,10 +8,11 @@ permalink: /CIN/SHIYAN ( HUBEI )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHIYAN_(_HUBEI_), CIN) için iftar ve namaz vakitleri](/CIN/SHIYAN_(_HUBEI_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHIYAN ( HUBEI )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHIYAN ( HUBEI )';
+* [ (SHIYAN_(_HUBEI_), CIN) için iftar ve namaz vakitleri](/CIN/SHIYAN_(_HUBEI_)/)
 </script>
+<script type="text/javascript">

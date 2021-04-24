@@ -8,10 +8,11 @@ permalink: /ITALYA/ANCONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANCONA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ANCONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ANCONA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ANCONA';
+* [ (ANCONA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ANCONA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HONDURAS/SAN PEDRO SULA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_PEDRO_SULA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/SAN_PEDRO_SULA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'SAN PEDRO SULA';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'SAN PEDRO SULA';
+* [ (SAN_PEDRO_SULA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/SAN_PEDRO_SULA/)
 </script>
+<script type="text/javascript">

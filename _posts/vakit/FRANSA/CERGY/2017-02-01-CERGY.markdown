@@ -8,10 +8,11 @@ permalink: /FRANSA/CERGY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CERGY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CERGY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CERGY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CERGY';
+* [ (CERGY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CERGY/)
 </script>
+<script type="text/javascript">

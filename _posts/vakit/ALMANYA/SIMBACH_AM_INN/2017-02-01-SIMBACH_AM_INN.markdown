@@ -8,10 +8,11 @@ permalink: /ALMANYA/SIMBACH AM INN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIMBACH_AM_INN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIMBACH_AM_INN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SIMBACH AM INN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SIMBACH AM INN';
+* [ (SIMBACH_AM_INN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIMBACH_AM_INN/)
 </script>
+<script type="text/javascript">

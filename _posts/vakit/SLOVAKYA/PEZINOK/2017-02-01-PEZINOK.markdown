@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/PEZINOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PEZINOK, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/PEZINOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'PEZINOK';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'PEZINOK';
+* [ (PEZINOK, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/PEZINOK/)
 </script>
+<script type="text/javascript">

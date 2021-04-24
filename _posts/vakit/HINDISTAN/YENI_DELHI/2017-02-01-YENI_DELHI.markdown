@@ -8,10 +8,11 @@ permalink: /HINDISTAN/YENI DELHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YENI_DELHI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/YENI_DELHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'YENI DELHI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'YENI DELHI';
+* [ (YENI_DELHI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/YENI_DELHI/)
 </script>
+<script type="text/javascript">

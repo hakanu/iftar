@@ -8,10 +8,11 @@ permalink: /ISVEC/SALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'SALA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'SALA';
+* [ (SALA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SALA/)
 </script>
+<script type="text/javascript">

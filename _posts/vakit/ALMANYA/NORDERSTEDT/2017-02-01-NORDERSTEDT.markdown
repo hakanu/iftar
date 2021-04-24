@@ -8,10 +8,11 @@ permalink: /ALMANYA/NORDERSTEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORDERSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NORDERSTEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NORDERSTEDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NORDERSTEDT';
+* [ (NORDERSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NORDERSTEDT/)
 </script>
+<script type="text/javascript">

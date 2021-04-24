@@ -8,10 +8,11 @@ permalink: /KANADA/SASKATCHEWAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [REGINA (SASKATCHEWAN, KANADA) için iftar ve namaz vakitleri](/KANADA/SASKATCHEWAN/REGINA)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KANADA';
+
   var GLOBAL_CITY = 'SASKATCHEWAN';
+  var GLOBAL_COUNTRY = 'KANADA';
   var GLOBAL_STATE = 'SASKATCHEWAN';
+* [REGINA (SASKATCHEWAN, KANADA) için iftar ve namaz vakitleri](/KANADA/SASKATCHEWAN/REGINA)
 </script>
+<script type="text/javascript">

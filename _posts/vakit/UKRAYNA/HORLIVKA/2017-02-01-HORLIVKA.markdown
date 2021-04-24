@@ -8,10 +8,11 @@ permalink: /UKRAYNA/HORLIVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORLIVKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/HORLIVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'HORLIVKA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'HORLIVKA';
+* [ (HORLIVKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/HORLIVKA/)
 </script>
+<script type="text/javascript">

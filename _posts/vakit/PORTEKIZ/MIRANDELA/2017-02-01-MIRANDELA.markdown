@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/MIRANDELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIRANDELA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/MIRANDELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'MIRANDELA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'MIRANDELA';
+* [ (MIRANDELA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/MIRANDELA/)
 </script>
+<script type="text/javascript">

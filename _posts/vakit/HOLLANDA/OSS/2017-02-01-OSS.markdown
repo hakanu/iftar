@@ -8,10 +8,11 @@ permalink: /HOLLANDA/OSS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSS, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OSS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'OSS';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'OSS';
+* [ (OSS, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OSS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BUTAN/THIMPHU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THIMPHU, BUTAN) için iftar ve namaz vakitleri](/BUTAN/THIMPHU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BUTAN';
+
   var GLOBAL_CITY = 'THIMPHU';
+  var GLOBAL_COUNTRY = 'BUTAN';
   var GLOBAL_STATE = 'THIMPHU';
+* [ (THIMPHU, BUTAN) için iftar ve namaz vakitleri](/BUTAN/THIMPHU/)
 </script>
+<script type="text/javascript">

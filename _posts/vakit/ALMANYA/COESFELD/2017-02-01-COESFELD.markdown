@@ -8,10 +8,11 @@ permalink: /ALMANYA/COESFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COESFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/COESFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'COESFELD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'COESFELD';
+* [ (COESFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/COESFELD/)
 </script>
+<script type="text/javascript">

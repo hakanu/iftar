@@ -8,10 +8,11 @@ permalink: /FILIPINLER/OLONGAPO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLONGAPO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/OLONGAPO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'OLONGAPO';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'OLONGAPO';
+* [ (OLONGAPO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/OLONGAPO/)
 </script>
+<script type="text/javascript">

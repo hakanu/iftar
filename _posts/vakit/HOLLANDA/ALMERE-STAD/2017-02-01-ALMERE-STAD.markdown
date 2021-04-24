@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ALMERE-STAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALMERE-STAD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALMERE-STAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ALMERE-STAD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ALMERE-STAD';
+* [ (ALMERE-STAD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALMERE-STAD/)
 </script>
+<script type="text/javascript">

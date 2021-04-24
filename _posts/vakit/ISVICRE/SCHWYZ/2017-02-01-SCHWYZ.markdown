@@ -8,10 +8,11 @@ permalink: /ISVICRE/SCHWYZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWYZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SCHWYZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SCHWYZ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SCHWYZ';
+* [ (SCHWYZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SCHWYZ/)
 </script>
+<script type="text/javascript">

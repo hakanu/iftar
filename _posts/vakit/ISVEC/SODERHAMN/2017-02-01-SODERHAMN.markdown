@@ -8,10 +8,11 @@ permalink: /ISVEC/SODERHAMN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SODERHAMN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SODERHAMN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'SODERHAMN';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'SODERHAMN';
+* [ (SODERHAMN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SODERHAMN/)
 </script>
+<script type="text/javascript">

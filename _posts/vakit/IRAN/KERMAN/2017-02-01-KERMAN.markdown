@@ -8,10 +8,11 @@ permalink: /IRAN/KERMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERMAN, IRAN) için iftar ve namaz vakitleri](/IRAN/KERMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'KERMAN';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'KERMAN';
+* [ (KERMAN, IRAN) için iftar ve namaz vakitleri](/IRAN/KERMAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/DUISBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUISBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DUISBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DUISBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DUISBURG';
+* [ (DUISBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DUISBURG/)
 </script>
+<script type="text/javascript">

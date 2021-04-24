@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/ARDINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARDINO_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ARDINO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'ARDINO ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'ARDINO ';
+* [ (ARDINO_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ARDINO_/)
 </script>
+<script type="text/javascript">

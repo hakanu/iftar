@@ -8,10 +8,11 @@ permalink: /ALMANYA/OBERKIRCH (BW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERKIRCH_(BW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERKIRCH_(BW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OBERKIRCH (BW)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OBERKIRCH (BW)';
+* [ (OBERKIRCH_(BW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERKIRCH_(BW)/)
 </script>
+<script type="text/javascript">

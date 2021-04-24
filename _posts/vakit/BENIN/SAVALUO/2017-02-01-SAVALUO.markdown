@@ -8,10 +8,11 @@ permalink: /BENIN/SAVALUO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAVALUO, BENIN) için iftar ve namaz vakitleri](/BENIN/SAVALUO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'SAVALUO';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'SAVALUO';
+* [ (SAVALUO, BENIN) için iftar ve namaz vakitleri](/BENIN/SAVALUO/)
 </script>
+<script type="text/javascript">

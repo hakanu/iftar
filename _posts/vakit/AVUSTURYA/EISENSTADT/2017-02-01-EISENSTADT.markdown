@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/EISENSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EISENSTADT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/EISENSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'EISENSTADT';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'EISENSTADT';
+* [ (EISENSTADT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/EISENSTADT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /IRAK/SAMARRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAMARRA, IRAK) için iftar ve namaz vakitleri](/IRAK/SAMARRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'SAMARRA';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'SAMARRA';
+* [ (SAMARRA, IRAK) için iftar ve namaz vakitleri](/IRAK/SAMARRA/)
 </script>
+<script type="text/javascript">

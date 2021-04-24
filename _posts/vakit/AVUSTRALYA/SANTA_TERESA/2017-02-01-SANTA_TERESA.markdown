@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/SANTA TERESA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_TERESA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SANTA_TERESA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'SANTA TERESA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'SANTA TERESA';
+* [ (SANTA_TERESA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SANTA_TERESA/)
 </script>
+<script type="text/javascript">

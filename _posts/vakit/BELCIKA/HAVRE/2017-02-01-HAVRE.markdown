@@ -8,10 +8,11 @@ permalink: /BELCIKA/HAVRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAVRE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HAVRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HAVRE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HAVRE';
+* [ (HAVRE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HAVRE/)
 </script>
+<script type="text/javascript">

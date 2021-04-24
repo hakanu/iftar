@@ -8,10 +8,11 @@ permalink: /HOLLANDA/OOSTZAAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OOSTZAAN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OOSTZAAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'OOSTZAAN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'OOSTZAAN';
+* [ (OOSTZAAN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OOSTZAAN/)
 </script>
+<script type="text/javascript">

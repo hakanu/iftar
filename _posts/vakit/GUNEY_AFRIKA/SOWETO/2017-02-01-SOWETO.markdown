@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/SOWETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOWETO, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/SOWETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'SOWETO';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'SOWETO';
+* [ (SOWETO, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/SOWETO/)
 </script>
+<script type="text/javascript">

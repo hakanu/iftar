@@ -8,10 +8,11 @@ permalink: /HOLLANDA/RIDDERKERK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIDDERKERK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIDDERKERK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'RIDDERKERK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'RIDDERKERK';
+* [ (RIDDERKERK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIDDERKERK/)
 </script>
+<script type="text/javascript">

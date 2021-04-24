@@ -8,10 +8,11 @@ permalink: /CIN/FUJIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUJIN, CIN) için iftar ve namaz vakitleri](/CIN/FUJIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FUJIN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FUJIN';
+* [ (FUJIN, CIN) için iftar ve namaz vakitleri](/CIN/FUJIN/)
 </script>
+<script type="text/javascript">

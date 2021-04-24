@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/HOUTSKAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOUTSKAR, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HOUTSKAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'HOUTSKAR';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'HOUTSKAR';
+* [ (HOUTSKAR, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HOUTSKAR/)
 </script>
+<script type="text/javascript">

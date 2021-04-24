@@ -8,10 +8,11 @@ permalink: /FRANSA/QUEVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUEVEN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/QUEVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'QUEVEN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'QUEVEN';
+* [ (QUEVEN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/QUEVEN/)
 </script>
+<script type="text/javascript">

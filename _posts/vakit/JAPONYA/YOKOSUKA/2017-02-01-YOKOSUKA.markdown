@@ -8,10 +8,11 @@ permalink: /JAPONYA/YOKOSUKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YOKOSUKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YOKOSUKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'YOKOSUKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'YOKOSUKA';
+* [ (YOKOSUKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YOKOSUKA/)
 </script>
+<script type="text/javascript">

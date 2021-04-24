@@ -8,10 +8,11 @@ permalink: /MALI/GAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAO, MALI) için iftar ve namaz vakitleri](/MALI/GAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALI';
+
   var GLOBAL_CITY = 'GAO';
+  var GLOBAL_COUNTRY = 'MALI';
   var GLOBAL_STATE = 'GAO';
+* [ (GAO, MALI) için iftar ve namaz vakitleri](/MALI/GAO/)
 </script>
+<script type="text/javascript">

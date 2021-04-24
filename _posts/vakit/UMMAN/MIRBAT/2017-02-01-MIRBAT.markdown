@@ -8,10 +8,11 @@ permalink: /UMMAN/MIRBAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIRBAT, UMMAN) için iftar ve namaz vakitleri](/UMMAN/MIRBAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UMMAN';
+
   var GLOBAL_CITY = 'MIRBAT';
+  var GLOBAL_COUNTRY = 'UMMAN';
   var GLOBAL_STATE = 'MIRBAT';
+* [ (MIRBAT, UMMAN) için iftar ve namaz vakitleri](/UMMAN/MIRBAT/)
 </script>
+<script type="text/javascript">

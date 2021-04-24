@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/SAMOKOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAMOKOV, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SAMOKOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'SAMOKOV';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'SAMOKOV';
+* [ (SAMOKOV, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SAMOKOV/)
 </script>
+<script type="text/javascript">

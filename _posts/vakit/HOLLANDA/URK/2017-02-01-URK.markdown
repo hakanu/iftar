@@ -8,10 +8,11 @@ permalink: /HOLLANDA/URK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/URK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'URK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'URK';
+* [ (URK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/URK/)
 </script>
+<script type="text/javascript">

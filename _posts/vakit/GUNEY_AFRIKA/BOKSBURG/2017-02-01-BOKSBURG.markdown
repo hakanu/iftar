@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/BOKSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOKSBURG, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/BOKSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'BOKSBURG';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'BOKSBURG';
+* [ (BOKSBURG, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/BOKSBURG/)
 </script>
+<script type="text/javascript">

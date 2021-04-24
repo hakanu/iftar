@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/GRACAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRACAC, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/GRACAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'GRACAC';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'GRACAC';
+* [ (GRACAC, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/GRACAC/)
 </script>
+<script type="text/javascript">

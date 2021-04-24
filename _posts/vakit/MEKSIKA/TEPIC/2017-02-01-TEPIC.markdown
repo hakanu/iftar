@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TEPIC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEPIC, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TEPIC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TEPIC';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TEPIC';
+* [ (TEPIC, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TEPIC/)
 </script>
+<script type="text/javascript">

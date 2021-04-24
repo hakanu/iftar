@@ -8,10 +8,11 @@ permalink: /KUBA/LAS TUNAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAS_TUNAS, KUBA) için iftar ve namaz vakitleri](/KUBA/LAS_TUNAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'LAS TUNAS';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'LAS TUNAS';
+* [ (LAS_TUNAS, KUBA) için iftar ve namaz vakitleri](/KUBA/LAS_TUNAS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LITVANYA/KLAIPEDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLAIPEDA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/KLAIPEDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'KLAIPEDA';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'KLAIPEDA';
+* [ (KLAIPEDA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/KLAIPEDA/)
 </script>
+<script type="text/javascript">

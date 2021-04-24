@@ -8,10 +8,11 @@ permalink: /INGILTERE/LEEDS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEEDS, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LEEDS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LEEDS';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LEEDS';
+* [ (LEEDS, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LEEDS/)
 </script>
+<script type="text/javascript">

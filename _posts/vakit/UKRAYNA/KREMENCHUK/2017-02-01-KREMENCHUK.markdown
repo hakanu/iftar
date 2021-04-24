@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KREMENCHUK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KREMENCHUK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KREMENCHUK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KREMENCHUK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KREMENCHUK';
+* [ (KREMENCHUK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KREMENCHUK/)
 </script>
+<script type="text/javascript">

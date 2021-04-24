@@ -8,10 +8,11 @@ permalink: /RUSYA/VOLGOGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLGOGRAD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLGOGRAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VOLGOGRAD';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VOLGOGRAD';
+* [ (VOLGOGRAD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLGOGRAD/)
 </script>
+<script type="text/javascript">

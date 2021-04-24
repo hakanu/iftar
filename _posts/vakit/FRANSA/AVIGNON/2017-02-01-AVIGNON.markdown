@@ -8,10 +8,11 @@ permalink: /FRANSA/AVIGNON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AVIGNON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AVIGNON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AVIGNON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AVIGNON';
+* [ (AVIGNON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AVIGNON/)
 </script>
+<script type="text/javascript">

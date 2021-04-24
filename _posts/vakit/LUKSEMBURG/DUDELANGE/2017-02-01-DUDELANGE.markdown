@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/DUDELANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUDELANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/DUDELANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'DUDELANGE';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'DUDELANGE';
+* [ (DUDELANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/DUDELANGE/)
 </script>
+<script type="text/javascript">

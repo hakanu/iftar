@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VENRAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VENRAY, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VENRAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VENRAY';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VENRAY';
+* [ (VENRAY, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VENRAY/)
 </script>
+<script type="text/javascript">

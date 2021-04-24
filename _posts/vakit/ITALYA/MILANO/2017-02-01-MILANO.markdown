@@ -8,10 +8,11 @@ permalink: /ITALYA/MILANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MILANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MILANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MILANO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MILANO';
+* [ (MILANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MILANO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/EMMELSHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMMELSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMMELSHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EMMELSHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EMMELSHAUSEN';
+* [ (EMMELSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMMELSHAUSEN/)
 </script>
+<script type="text/javascript">

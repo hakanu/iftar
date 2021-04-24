@@ -8,10 +8,11 @@ permalink: /ALMANYA/RINTELN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RINTELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RINTELN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RINTELN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RINTELN';
+* [ (RINTELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RINTELN/)
 </script>
+<script type="text/javascript">

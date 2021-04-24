@@ -8,10 +8,11 @@ permalink: /INGILTERE/MANGOTSFIELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANGOTSFIELD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MANGOTSFIELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'MANGOTSFIELD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'MANGOTSFIELD';
+* [ (MANGOTSFIELD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MANGOTSFIELD/)
 </script>
+<script type="text/javascript">

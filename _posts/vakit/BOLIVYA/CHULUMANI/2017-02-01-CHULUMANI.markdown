@@ -8,10 +8,11 @@ permalink: /BOLIVYA/CHULUMANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHULUMANI, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CHULUMANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'CHULUMANI';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'CHULUMANI';
+* [ (CHULUMANI, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CHULUMANI/)
 </script>
+<script type="text/javascript">

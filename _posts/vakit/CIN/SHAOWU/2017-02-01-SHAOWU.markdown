@@ -8,10 +8,11 @@ permalink: /CIN/SHAOWU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAOWU, CIN) için iftar ve namaz vakitleri](/CIN/SHAOWU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHAOWU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHAOWU';
+* [ (SHAOWU, CIN) için iftar ve namaz vakitleri](/CIN/SHAOWU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/LEEUWARDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEEUWARDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LEEUWARDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'LEEUWARDEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'LEEUWARDEN';
+* [ (LEEUWARDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LEEUWARDEN/)
 </script>
+<script type="text/javascript">

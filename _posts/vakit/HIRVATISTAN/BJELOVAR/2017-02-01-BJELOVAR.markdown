@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/BJELOVAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BJELOVAR, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/BJELOVAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'BJELOVAR';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'BJELOVAR';
+* [ (BJELOVAR, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/BJELOVAR/)
 </script>
+<script type="text/javascript">

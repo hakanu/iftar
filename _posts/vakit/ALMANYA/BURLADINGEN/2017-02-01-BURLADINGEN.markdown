@@ -8,10 +8,11 @@ permalink: /ALMANYA/BURLADINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURLADINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURLADINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BURLADINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BURLADINGEN';
+* [ (BURLADINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURLADINGEN/)
 </script>
+<script type="text/javascript">

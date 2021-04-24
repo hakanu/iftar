@@ -8,10 +8,11 @@ permalink: /HOLLANDA/UTRECHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UTRECHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UTRECHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'UTRECHT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'UTRECHT';
+* [ (UTRECHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UTRECHT/)
 </script>
+<script type="text/javascript">

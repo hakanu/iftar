@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/LUN(Ulan Batur)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUN(Ulan_Batur), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/LUN(Ulan_Batur)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'LUN(Ulan Batur)';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'LUN(Ulan Batur)';
+* [ (LUN(Ulan_Batur), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/LUN(Ulan_Batur)/)
 </script>
+<script type="text/javascript">

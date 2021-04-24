@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/WHAKATANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WHAKATANE, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WHAKATANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'WHAKATANE';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'WHAKATANE';
+* [ (WHAKATANE, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WHAKATANE/)
 </script>
+<script type="text/javascript">

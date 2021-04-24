@@ -8,10 +8,11 @@ permalink: /BREZILYA/GARANHUNS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GARANHUNS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GARANHUNS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'GARANHUNS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'GARANHUNS';
+* [ (GARANHUNS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GARANHUNS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/BERINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERINGEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BERINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BERINGEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BERINGEN';
+* [ (BERINGEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BERINGEN/)
 </script>
+<script type="text/javascript">

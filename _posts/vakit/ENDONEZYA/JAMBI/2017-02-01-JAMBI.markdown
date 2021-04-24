@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/JAMBI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JAMBI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/JAMBI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'JAMBI';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'JAMBI';
+* [ (JAMBI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/JAMBI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CEZAYIR/SETIF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SETIF, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/SETIF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'SETIF';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'SETIF';
+* [ (SETIF, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/SETIF/)
 </script>
+<script type="text/javascript">

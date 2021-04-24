@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/ALTMUNSTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALTMUNSTER, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ALTMUNSTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'ALTMUNSTER';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'ALTMUNSTER';
+* [ (ALTMUNSTER, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ALTMUNSTER/)
 </script>
+<script type="text/javascript">

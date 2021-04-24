@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/DENPASAR (BALI)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DENPASAR_(BALI), ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/DENPASAR_(BALI)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'DENPASAR (BALI)';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'DENPASAR (BALI)';
+* [ (DENPASAR_(BALI), ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/DENPASAR_(BALI)/)
 </script>
+<script type="text/javascript">

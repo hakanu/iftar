@@ -8,10 +8,11 @@ permalink: /BELCIKA/WELKENRAEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WELKENRAEDT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WELKENRAEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WELKENRAEDT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WELKENRAEDT';
+* [ (WELKENRAEDT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WELKENRAEDT/)
 </script>
+<script type="text/javascript">

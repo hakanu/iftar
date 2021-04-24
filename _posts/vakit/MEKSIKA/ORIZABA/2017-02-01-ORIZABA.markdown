@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ORIZABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORIZABA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ORIZABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ORIZABA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ORIZABA';
+* [ (ORIZABA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ORIZABA/)
 </script>
+<script type="text/javascript">

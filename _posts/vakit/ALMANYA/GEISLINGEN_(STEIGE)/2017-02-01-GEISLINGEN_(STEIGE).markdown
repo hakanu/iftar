@@ -8,10 +8,11 @@ permalink: /ALMANYA/GEISLINGEN (STEIGE)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEISLINGEN_(STEIGE), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEISLINGEN_(STEIGE)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GEISLINGEN (STEIGE)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GEISLINGEN (STEIGE)';
+* [ (GEISLINGEN_(STEIGE), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEISLINGEN_(STEIGE)/)
 </script>
+<script type="text/javascript">

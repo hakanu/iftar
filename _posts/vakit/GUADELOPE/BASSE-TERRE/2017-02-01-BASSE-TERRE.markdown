@@ -8,10 +8,11 @@ permalink: /GUADELOPE/BASSE-TERRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASSE-TERRE, GUADELOPE) için iftar ve namaz vakitleri](/GUADELOPE/BASSE-TERRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUADELOPE';
+
   var GLOBAL_CITY = 'BASSE-TERRE';
+  var GLOBAL_COUNTRY = 'GUADELOPE';
   var GLOBAL_STATE = 'BASSE-TERRE';
+* [ (BASSE-TERRE, GUADELOPE) için iftar ve namaz vakitleri](/GUADELOPE/BASSE-TERRE/)
 </script>
+<script type="text/javascript">

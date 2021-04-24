@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KUMBAKANOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUMBAKANOM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KUMBAKANOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KUMBAKANOM';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KUMBAKANOM';
+* [ (KUMBAKANOM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KUMBAKANOM/)
 </script>
+<script type="text/javascript">

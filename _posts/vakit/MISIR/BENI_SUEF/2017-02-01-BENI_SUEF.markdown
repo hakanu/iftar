@@ -8,10 +8,11 @@ permalink: /MISIR/BENI SUEF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENI_SUEF, MISIR) için iftar ve namaz vakitleri](/MISIR/BENI_SUEF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'BENI SUEF';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'BENI SUEF';
+* [ (BENI_SUEF, MISIR) için iftar ve namaz vakitleri](/MISIR/BENI_SUEF/)
 </script>
+<script type="text/javascript">

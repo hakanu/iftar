@@ -8,10 +8,11 @@ permalink: /FILISTIN/ERIHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERIHA, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/ERIHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'ERIHA';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'ERIHA';
+* [ (ERIHA, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/ERIHA/)
 </script>
+<script type="text/javascript">

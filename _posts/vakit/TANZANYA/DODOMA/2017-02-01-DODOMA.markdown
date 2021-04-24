@@ -8,10 +8,11 @@ permalink: /TANZANYA/DODOMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DODOMA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DODOMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'DODOMA';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'DODOMA';
+* [ (DODOMA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DODOMA/)
 </script>
+<script type="text/javascript">

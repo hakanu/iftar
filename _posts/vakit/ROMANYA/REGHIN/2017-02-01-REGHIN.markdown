@@ -8,10 +8,11 @@ permalink: /ROMANYA/REGHIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REGHIN, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/REGHIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'REGHIN';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'REGHIN';
+* [ (REGHIN, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/REGHIN/)
 </script>
+<script type="text/javascript">

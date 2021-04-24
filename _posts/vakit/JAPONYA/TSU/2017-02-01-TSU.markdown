@@ -8,10 +8,11 @@ permalink: /JAPONYA/TSU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TSU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TSU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TSU';
+* [ (TSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TSU/)
 </script>
+<script type="text/javascript">

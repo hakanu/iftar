@@ -8,10 +8,11 @@ permalink: /ISVEC/AVESTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AVESTA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/AVESTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'AVESTA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'AVESTA';
+* [ (AVESTA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/AVESTA/)
 </script>
+<script type="text/javascript">

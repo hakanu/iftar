@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/KANDAHAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANDAHAR, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/KANDAHAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'KANDAHAR';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'KANDAHAR';
+* [ (KANDAHAR, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/KANDAHAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/RAZUMOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAZUMOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/RAZUMOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'RAZUMOVKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'RAZUMOVKA';
+* [ (RAZUMOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/RAZUMOVKA/)
 </script>
+<script type="text/javascript">

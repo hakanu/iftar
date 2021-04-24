@@ -8,10 +8,11 @@ permalink: /TAYLAND/NAKHON SAWAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAKHON_SAWAN, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/NAKHON_SAWAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'NAKHON SAWAN';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'NAKHON SAWAN';
+* [ (NAKHON_SAWAN, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/NAKHON_SAWAN/)
 </script>
+<script type="text/javascript">

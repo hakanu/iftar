@@ -8,10 +8,11 @@ permalink: /JAPONYA/IWAKUNI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IWAKUNI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/IWAKUNI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'IWAKUNI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'IWAKUNI';
+* [ (IWAKUNI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/IWAKUNI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MADAGASKAR/TOAMASINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOAMASINA, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/TOAMASINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MADAGASKAR';
+
   var GLOBAL_CITY = 'TOAMASINA';
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
   var GLOBAL_STATE = 'TOAMASINA';
+* [ (TOAMASINA, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/TOAMASINA/)
 </script>
+<script type="text/javascript">

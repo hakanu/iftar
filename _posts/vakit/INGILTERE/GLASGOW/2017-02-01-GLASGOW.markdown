@@ -8,10 +8,11 @@ permalink: /INGILTERE/GLASGOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLASGOW, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GLASGOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'GLASGOW';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'GLASGOW';
+* [ (GLASGOW, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GLASGOW/)
 </script>
+<script type="text/javascript">

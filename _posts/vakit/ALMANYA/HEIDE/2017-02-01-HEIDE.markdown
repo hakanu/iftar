@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEIDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEIDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEIDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEIDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEIDE';
+* [ (HEIDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEIDE/)
 </script>
+<script type="text/javascript">

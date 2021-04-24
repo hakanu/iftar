@@ -8,10 +8,11 @@ permalink: /LAOS/SARAVAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARAVAN, LAOS) için iftar ve namaz vakitleri](/LAOS/SARAVAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LAOS';
+
   var GLOBAL_CITY = 'SARAVAN';
+  var GLOBAL_COUNTRY = 'LAOS';
   var GLOBAL_STATE = 'SARAVAN';
+* [ (SARAVAN, LAOS) için iftar ve namaz vakitleri](/LAOS/SARAVAN/)
 </script>
+<script type="text/javascript">

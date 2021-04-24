@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/IMST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IMST, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/IMST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'IMST';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'IMST';
+* [ (IMST, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/IMST/)
 </script>
+<script type="text/javascript">

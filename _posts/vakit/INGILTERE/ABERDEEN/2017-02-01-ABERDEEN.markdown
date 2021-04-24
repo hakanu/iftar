@@ -8,10 +8,11 @@ permalink: /INGILTERE/ABERDEEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABERDEEN, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ABERDEEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'ABERDEEN';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'ABERDEEN';
+* [ (ABERDEEN, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ABERDEEN/)
 </script>
+<script type="text/javascript">

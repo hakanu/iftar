@@ -8,10 +8,11 @@ permalink: /NORVEC/LILLEHAMMER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LILLEHAMMER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/LILLEHAMMER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'LILLEHAMMER';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'LILLEHAMMER';
+* [ (LILLEHAMMER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/LILLEHAMMER/)
 </script>
+<script type="text/javascript">

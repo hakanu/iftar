@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/SAPAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAPAI_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/SAPAI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'SAPAI ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'SAPAI ';
+* [ (SAPAI_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/SAPAI_/)
 </script>
+<script type="text/javascript">

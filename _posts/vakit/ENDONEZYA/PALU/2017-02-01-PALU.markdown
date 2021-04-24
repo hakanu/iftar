@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PALU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PALU, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PALU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PALU';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PALU';
+* [ (PALU, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PALU/)
 </script>
+<script type="text/javascript">

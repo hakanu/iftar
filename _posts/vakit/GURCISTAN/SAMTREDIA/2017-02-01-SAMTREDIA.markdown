@@ -8,10 +8,11 @@ permalink: /GURCISTAN/SAMTREDIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAMTREDIA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/SAMTREDIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'SAMTREDIA';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'SAMTREDIA';
+* [ (SAMTREDIA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/SAMTREDIA/)
 </script>
+<script type="text/javascript">

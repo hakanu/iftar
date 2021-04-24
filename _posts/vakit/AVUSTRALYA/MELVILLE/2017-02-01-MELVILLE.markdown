@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MELVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELVILLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MELVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MELVILLE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MELVILLE';
+* [ (MELVILLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MELVILLE/)
 </script>
+<script type="text/javascript">

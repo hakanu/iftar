@@ -8,10 +8,11 @@ permalink: /MALEZYA/KUALA LUMPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUALA_LUMPUR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUALA_LUMPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KUALA LUMPUR';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KUALA LUMPUR';
+* [ (KUALA_LUMPUR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUALA_LUMPUR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/GAILDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAILDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GAILDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GAILDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GAILDORF';
+* [ (GAILDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GAILDORF/)
 </script>
+<script type="text/javascript">

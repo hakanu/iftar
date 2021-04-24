@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/KHORUGH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHORUGH, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KHORUGH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'KHORUGH';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'KHORUGH';
+* [ (KHORUGH, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KHORUGH/)
 </script>
+<script type="text/javascript">

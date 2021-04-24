@@ -8,10 +8,11 @@ permalink: /ISVICRE/BOUDRY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOUDRY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BOUDRY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BOUDRY';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BOUDRY';
+* [ (BOUDRY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BOUDRY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/ESTELI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESTELI, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/ESTELI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'ESTELI';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'ESTELI';
+* [ (ESTELI, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/ESTELI/)
 </script>
+<script type="text/javascript">

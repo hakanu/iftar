@@ -8,10 +8,11 @@ permalink: /JAMAIKA/MANDEVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANDEVILLE, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/MANDEVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAMAIKA';
+
   var GLOBAL_CITY = 'MANDEVILLE';
+  var GLOBAL_COUNTRY = 'JAMAIKA';
   var GLOBAL_STATE = 'MANDEVILLE';
+* [ (MANDEVILLE, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/MANDEVILLE/)
 </script>
+<script type="text/javascript">

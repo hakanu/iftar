@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEUDORF (Germersheim)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUDORF_(Germersheim), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUDORF_(Germersheim)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEUDORF (Germersheim)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEUDORF (Germersheim)';
+* [ (NEUDORF_(Germersheim), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUDORF_(Germersheim)/)
 </script>
+<script type="text/javascript">

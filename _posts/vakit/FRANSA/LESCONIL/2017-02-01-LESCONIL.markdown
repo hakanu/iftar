@@ -8,10 +8,11 @@ permalink: /FRANSA/LESCONIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LESCONIL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LESCONIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LESCONIL';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LESCONIL';
+* [ (LESCONIL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LESCONIL/)
 </script>
+<script type="text/javascript">

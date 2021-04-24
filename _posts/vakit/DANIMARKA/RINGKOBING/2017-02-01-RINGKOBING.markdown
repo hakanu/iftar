@@ -8,10 +8,11 @@ permalink: /DANIMARKA/RINGKOBING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RINGKOBING, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/RINGKOBING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'RINGKOBING';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'RINGKOBING';
+* [ (RINGKOBING, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/RINGKOBING/)
 </script>
+<script type="text/javascript">

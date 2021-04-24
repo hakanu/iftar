@@ -8,10 +8,11 @@ permalink: /ISVICRE/HUTTWIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUTTWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HUTTWIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'HUTTWIL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'HUTTWIL';
+* [ (HUTTWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HUTTWIL/)
 </script>
+<script type="text/javascript">

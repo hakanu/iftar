@@ -8,10 +8,11 @@ permalink: /ISVEC/SOLVESBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOLVESBORG, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SOLVESBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'SOLVESBORG';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'SOLVESBORG';
+* [ (SOLVESBORG, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SOLVESBORG/)
 </script>
+<script type="text/javascript">

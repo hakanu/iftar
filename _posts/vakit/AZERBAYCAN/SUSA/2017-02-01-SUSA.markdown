@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SUSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUSA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SUSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SUSA';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SUSA';
+* [ (SUSA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SUSA/)
 </script>
+<script type="text/javascript">

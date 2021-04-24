@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/GJIROKASTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GJIROKASTER, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/GJIROKASTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'GJIROKASTER';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'GJIROKASTER';
+* [ (GJIROKASTER, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/GJIROKASTER/)
 </script>
+<script type="text/javascript">

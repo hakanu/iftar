@@ -8,10 +8,11 @@ permalink: /MEKSIKA/HERQUICA ZITACUARO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERQUICA_ZITACUARO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/HERQUICA_ZITACUARO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'HERQUICA ZITACUARO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'HERQUICA ZITACUARO';
+* [ (HERQUICA_ZITACUARO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/HERQUICA_ZITACUARO/)
 </script>
+<script type="text/javascript">

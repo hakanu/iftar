@@ -8,10 +8,11 @@ permalink: /POLONYA/OPOLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OPOLE, POLONYA) için iftar ve namaz vakitleri](/POLONYA/OPOLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'OPOLE';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'OPOLE';
+* [ (OPOLE, POLONYA) için iftar ve namaz vakitleri](/POLONYA/OPOLE/)
 </script>
+<script type="text/javascript">

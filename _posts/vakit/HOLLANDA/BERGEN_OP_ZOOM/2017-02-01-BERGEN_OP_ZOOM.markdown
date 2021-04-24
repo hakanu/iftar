@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BERGEN OP ZOOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERGEN_OP_ZOOM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BERGEN_OP_ZOOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BERGEN OP ZOOM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BERGEN OP ZOOM';
+* [ (BERGEN_OP_ZOOM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BERGEN_OP_ZOOM/)
 </script>
+<script type="text/javascript">

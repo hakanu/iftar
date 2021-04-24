@@ -8,10 +8,11 @@ permalink: /HINDISTAN/MALAPPURAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALAPPURAM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MALAPPURAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'MALAPPURAM';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'MALAPPURAM';
+* [ (MALAPPURAM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MALAPPURAM/)
 </script>
+<script type="text/javascript">

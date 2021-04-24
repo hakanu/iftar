@@ -8,10 +8,11 @@ permalink: /INGILTERE/NOTTINGHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOTTINGHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NOTTINGHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'NOTTINGHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'NOTTINGHAM';
+* [ (NOTTINGHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NOTTINGHAM/)
 </script>
+<script type="text/javascript">

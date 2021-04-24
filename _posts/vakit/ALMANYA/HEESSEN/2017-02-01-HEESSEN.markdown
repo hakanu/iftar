@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEESSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEESSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEESSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEESSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEESSEN';
+* [ (HEESSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEESSEN/)
 </script>
+<script type="text/javascript">

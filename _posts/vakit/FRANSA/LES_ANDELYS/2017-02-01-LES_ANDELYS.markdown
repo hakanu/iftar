@@ -8,10 +8,11 @@ permalink: /FRANSA/LES ANDELYS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LES_ANDELYS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LES_ANDELYS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LES ANDELYS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LES ANDELYS';
+* [ (LES_ANDELYS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LES_ANDELYS/)
 </script>
+<script type="text/javascript">

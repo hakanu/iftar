@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/BASKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASKA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/BASKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'BASKA';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'BASKA';
+* [ (BASKA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/BASKA/)
 </script>
+<script type="text/javascript">

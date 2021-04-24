@@ -8,10 +8,11 @@ permalink: /HOLLANDA/UITHOORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UITHOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UITHOORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'UITHOORN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'UITHOORN';
+* [ (UITHOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UITHOORN/)
 </script>
+<script type="text/javascript">

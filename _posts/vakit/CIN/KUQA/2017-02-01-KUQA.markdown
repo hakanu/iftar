@@ -8,10 +8,11 @@ permalink: /CIN/KUQA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUQA, CIN) için iftar ve namaz vakitleri](/CIN/KUQA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KUQA';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KUQA';
+* [ (KUQA, CIN) için iftar ve namaz vakitleri](/CIN/KUQA/)
 </script>
+<script type="text/javascript">

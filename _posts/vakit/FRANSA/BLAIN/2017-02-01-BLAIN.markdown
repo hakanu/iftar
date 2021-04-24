@@ -8,10 +8,11 @@ permalink: /FRANSA/BLAIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLAIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BLAIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BLAIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BLAIN';
+* [ (BLAIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BLAIN/)
 </script>
+<script type="text/javascript">

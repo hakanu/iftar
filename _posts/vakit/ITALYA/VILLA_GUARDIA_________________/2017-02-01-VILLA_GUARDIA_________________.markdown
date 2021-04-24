@@ -8,10 +8,11 @@ permalink: /ITALYA/VILLA GUARDIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLA_GUARDIA_________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VILLA_GUARDIA_________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VILLA GUARDIA                 ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VILLA GUARDIA                 ';
+* [ (VILLA_GUARDIA_________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VILLA_GUARDIA_________________/)
 </script>
+<script type="text/javascript">

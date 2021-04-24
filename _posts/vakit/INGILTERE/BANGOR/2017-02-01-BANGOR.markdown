@@ -8,10 +8,11 @@ permalink: /INGILTERE/BANGOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANGOR, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BANGOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BANGOR';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BANGOR';
+* [ (BANGOR, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BANGOR/)
 </script>
+<script type="text/javascript">

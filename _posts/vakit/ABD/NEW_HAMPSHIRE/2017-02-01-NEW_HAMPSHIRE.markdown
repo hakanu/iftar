@@ -8,12 +8,13 @@ permalink: /ABD/NEW HAMPSHIRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'NEW HAMPSHIRE';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'NEW HAMPSHIRE';
 * [EXETER (NEW_HAMPSHIRE, ABD) için iftar ve namaz vakitleri](/ABD/NEW_HAMPSHIRE/EXETER)
 * [MANCHESTER (NEW_HAMPSHIRE, ABD) için iftar ve namaz vakitleri](/ABD/NEW_HAMPSHIRE/MANCHESTER)
 * [NASHUA_ (NEW_HAMPSHIRE, ABD) için iftar ve namaz vakitleri](/ABD/NEW_HAMPSHIRE/NASHUA_)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'NEW HAMPSHIRE';
-  var GLOBAL_STATE = 'NEW HAMPSHIRE';
 </script>
+<script type="text/javascript">

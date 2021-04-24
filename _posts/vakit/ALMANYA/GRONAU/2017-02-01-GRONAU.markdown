@@ -8,10 +8,11 @@ permalink: /ALMANYA/GRONAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRONAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GRONAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GRONAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GRONAU';
+* [ (GRONAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GRONAU/)
 </script>
+<script type="text/javascript">

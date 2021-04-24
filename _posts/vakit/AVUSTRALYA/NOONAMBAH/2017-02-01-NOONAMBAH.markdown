@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/NOONAMBAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOONAMBAH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NOONAMBAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'NOONAMBAH';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'NOONAMBAH';
+* [ (NOONAMBAH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NOONAMBAH/)
 </script>
+<script type="text/javascript">

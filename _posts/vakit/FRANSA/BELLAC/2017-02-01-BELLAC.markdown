@@ -8,10 +8,11 @@ permalink: /FRANSA/BELLAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELLAC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BELLAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BELLAC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BELLAC';
+* [ (BELLAC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BELLAC/)
 </script>
+<script type="text/javascript">

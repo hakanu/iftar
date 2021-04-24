@@ -8,10 +8,11 @@ permalink: /BELCIKA/FLORENNES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORENNES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FLORENNES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'FLORENNES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'FLORENNES';
+* [ (FLORENNES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FLORENNES/)
 </script>
+<script type="text/javascript">

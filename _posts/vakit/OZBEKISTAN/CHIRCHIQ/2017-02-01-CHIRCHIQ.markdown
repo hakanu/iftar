@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/CHIRCHIQ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIRCHIQ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/CHIRCHIQ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'CHIRCHIQ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'CHIRCHIQ';
+* [ (CHIRCHIQ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/CHIRCHIQ/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HOOGVLIET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOOGVLIET, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOGVLIET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HOOGVLIET';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HOOGVLIET';
+* [ (HOOGVLIET, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOGVLIET/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/ALTYNAMACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALTYNAMACH, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/ALTYNAMACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'ALTYNAMACH';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'ALTYNAMACH';
+* [ (ALTYNAMACH, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/ALTYNAMACH/)
 </script>
+<script type="text/javascript">

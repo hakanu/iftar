@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTREAL LA CLUSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTREAL_LA_CLUSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTREAL_LA_CLUSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTREAL LA CLUSE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTREAL LA CLUSE';
+* [ (MONTREAL_LA_CLUSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTREAL_LA_CLUSE/)
 </script>
+<script type="text/javascript">

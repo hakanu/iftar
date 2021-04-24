@@ -8,10 +8,11 @@ permalink: /BELCIKA/RUMST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUMST, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/RUMST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'RUMST';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'RUMST';
+* [ (RUMST, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/RUMST/)
 </script>
+<script type="text/javascript">

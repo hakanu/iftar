@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/MARIEHAMN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARIEHAMN, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/MARIEHAMN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'MARIEHAMN';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'MARIEHAMN';
+* [ (MARIEHAMN, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/MARIEHAMN/)
 </script>
+<script type="text/javascript">

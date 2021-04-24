@@ -8,10 +8,11 @@ permalink: /ALMANYA/BELZIG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELZIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BELZIG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BELZIG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BELZIG';
+* [ (BELZIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BELZIG/)
 </script>
+<script type="text/javascript">

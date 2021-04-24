@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/SILISTRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SILISTRA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SILISTRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'SILISTRA';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'SILISTRA';
+* [ (SILISTRA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SILISTRA/)
 </script>
+<script type="text/javascript">

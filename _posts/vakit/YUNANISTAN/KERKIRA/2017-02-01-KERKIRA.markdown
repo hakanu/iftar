@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KERKIRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERKIRA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KERKIRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KERKIRA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KERKIRA';
+* [ (KERKIRA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KERKIRA/)
 </script>
+<script type="text/javascript">

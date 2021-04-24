@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HUNDESTED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUNDESTED, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HUNDESTED/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HUNDESTED';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HUNDESTED';
+* [ (HUNDESTED, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HUNDESTED/)
 </script>
+<script type="text/javascript">

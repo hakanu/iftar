@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SALYAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALYAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SALYAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SALYAN';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SALYAN';
+* [ (SALYAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SALYAN/)
 </script>
+<script type="text/javascript">

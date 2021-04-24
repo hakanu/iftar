@@ -8,10 +8,11 @@ permalink: /RUSYA/SHARYPOVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHARYPOVA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHARYPOVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SHARYPOVA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SHARYPOVA';
+* [ (SHARYPOVA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHARYPOVA/)
 </script>
+<script type="text/javascript">

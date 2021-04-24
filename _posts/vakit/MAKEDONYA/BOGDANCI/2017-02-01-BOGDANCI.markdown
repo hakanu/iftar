@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/BOGDANCI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOGDANCI, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/BOGDANCI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'BOGDANCI';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'BOGDANCI';
+* [ (BOGDANCI, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/BOGDANCI/)
 </script>
+<script type="text/javascript">

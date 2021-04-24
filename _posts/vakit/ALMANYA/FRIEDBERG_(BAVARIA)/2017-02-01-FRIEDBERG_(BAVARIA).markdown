@@ -8,10 +8,11 @@ permalink: /ALMANYA/FRIEDBERG (BAVARIA)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRIEDBERG_(BAVARIA), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRIEDBERG_(BAVARIA)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FRIEDBERG (BAVARIA)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FRIEDBERG (BAVARIA)';
+* [ (FRIEDBERG_(BAVARIA), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRIEDBERG_(BAVARIA)/)
 </script>
+<script type="text/javascript">

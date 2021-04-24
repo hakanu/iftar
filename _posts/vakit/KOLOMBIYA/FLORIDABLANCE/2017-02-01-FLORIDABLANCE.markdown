@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/FLORIDABLANCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORIDABLANCE, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/FLORIDABLANCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'FLORIDABLANCE';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'FLORIDABLANCE';
+* [ (FLORIDABLANCE, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/FLORIDABLANCE/)
 </script>
+<script type="text/javascript">

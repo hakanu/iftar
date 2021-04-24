@@ -8,10 +8,11 @@ permalink: /ALMANYA/SALZGITTER BAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALZGITTER_BAD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALZGITTER_BAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SALZGITTER BAD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SALZGITTER BAD';
+* [ (SALZGITTER_BAD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALZGITTER_BAD/)
 </script>
+<script type="text/javascript">

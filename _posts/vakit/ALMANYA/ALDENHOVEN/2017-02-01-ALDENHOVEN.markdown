@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALDENHOVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALDENHOVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALDENHOVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALDENHOVEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALDENHOVEN';
+* [ (ALDENHOVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALDENHOVEN/)
 </script>
+<script type="text/javascript">

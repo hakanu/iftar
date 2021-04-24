@@ -8,10 +8,11 @@ permalink: /NORVEC/TONSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TONSBERG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/TONSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'TONSBERG';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'TONSBERG';
+* [ (TONSBERG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/TONSBERG/)
 </script>
+<script type="text/javascript">

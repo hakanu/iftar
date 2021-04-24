@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/HAMILTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMILTON, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/HAMILTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'HAMILTON';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'HAMILTON';
+* [ (HAMILTON, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/HAMILTON/)
 </script>
+<script type="text/javascript">

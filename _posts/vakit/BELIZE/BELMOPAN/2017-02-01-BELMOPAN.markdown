@@ -8,10 +8,11 @@ permalink: /BELIZE/BELMOPAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELMOPAN, BELIZE) için iftar ve namaz vakitleri](/BELIZE/BELMOPAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELIZE';
+
   var GLOBAL_CITY = 'BELMOPAN';
+  var GLOBAL_COUNTRY = 'BELIZE';
   var GLOBAL_STATE = 'BELMOPAN';
+* [ (BELMOPAN, BELIZE) için iftar ve namaz vakitleri](/BELIZE/BELMOPAN/)
 </script>
+<script type="text/javascript">

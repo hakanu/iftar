@@ -8,10 +8,11 @@ permalink: /ITALYA/IMPERIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IMPERIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/IMPERIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'IMPERIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'IMPERIA';
+* [ (IMPERIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/IMPERIA/)
 </script>
+<script type="text/javascript">

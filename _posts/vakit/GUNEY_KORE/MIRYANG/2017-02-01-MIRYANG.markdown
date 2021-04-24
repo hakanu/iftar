@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/MIRYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIRYANG, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/MIRYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'MIRYANG';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'MIRYANG';
+* [ (MIRYANG, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/MIRYANG/)
 </script>
+<script type="text/javascript">

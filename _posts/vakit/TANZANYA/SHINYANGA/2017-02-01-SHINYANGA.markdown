@@ -8,10 +8,11 @@ permalink: /TANZANYA/SHINYANGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHINYANGA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/SHINYANGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'SHINYANGA';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'SHINYANGA';
+* [ (SHINYANGA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/SHINYANGA/)
 </script>
+<script type="text/javascript">

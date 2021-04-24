@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/GORNJI VAKUF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GORNJI_VAKUF, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/GORNJI_VAKUF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'GORNJI VAKUF';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'GORNJI VAKUF';
+* [ (GORNJI_VAKUF, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/GORNJI_VAKUF/)
 </script>
+<script type="text/javascript">

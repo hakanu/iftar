@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/LARNAKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LARNAKA, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LARNAKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'LARNAKA';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'LARNAKA';
+* [ (LARNAKA, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LARNAKA/)
 </script>
+<script type="text/javascript">

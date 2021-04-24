@@ -8,10 +8,11 @@ permalink: /HINDISTAN/WARDHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARDHA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/WARDHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'WARDHA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'WARDHA';
+* [ (WARDHA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/WARDHA/)
 </script>
+<script type="text/javascript">

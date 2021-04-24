@@ -8,10 +8,11 @@ permalink: /ISVICRE/CHIASSO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIASSO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/CHIASSO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'CHIASSO';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'CHIASSO';
+* [ (CHIASSO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/CHIASSO/)
 </script>
+<script type="text/javascript">

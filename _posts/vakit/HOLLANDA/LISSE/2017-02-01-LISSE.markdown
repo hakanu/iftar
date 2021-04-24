@@ -8,10 +8,11 @@ permalink: /HOLLANDA/LISSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LISSE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LISSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'LISSE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'LISSE';
+* [ (LISSE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LISSE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/GELENDZHIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GELENDZHIK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/GELENDZHIK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'GELENDZHIK ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'GELENDZHIK ';
+* [ (GELENDZHIK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/GELENDZHIK_/)
 </script>
+<script type="text/javascript">

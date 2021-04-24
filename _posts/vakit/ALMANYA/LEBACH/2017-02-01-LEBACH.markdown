@@ -8,10 +8,11 @@ permalink: /ALMANYA/LEBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LEBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LEBACH';
+* [ (LEBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEBACH/)
 </script>
+<script type="text/javascript">

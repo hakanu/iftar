@@ -8,10 +8,11 @@ permalink: /ALMANYA/TETTAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TETTAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TETTAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TETTAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TETTAU';
+* [ (TETTAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TETTAU/)
 </script>
+<script type="text/javascript">

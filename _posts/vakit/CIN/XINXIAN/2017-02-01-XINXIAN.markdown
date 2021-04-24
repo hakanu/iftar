@@ -8,10 +8,11 @@ permalink: /CIN/XINXIAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (XINXIAN, CIN) için iftar ve namaz vakitleri](/CIN/XINXIAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'XINXIAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'XINXIAN';
+* [ (XINXIAN, CIN) için iftar ve namaz vakitleri](/CIN/XINXIAN/)
 </script>
+<script type="text/javascript">

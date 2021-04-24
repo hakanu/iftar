@@ -8,10 +8,11 @@ permalink: /CIN/DULAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DULAN, CIN) için iftar ve namaz vakitleri](/CIN/DULAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DULAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DULAN';
+* [ (DULAN, CIN) için iftar ve namaz vakitleri](/CIN/DULAN/)
 </script>
+<script type="text/javascript">

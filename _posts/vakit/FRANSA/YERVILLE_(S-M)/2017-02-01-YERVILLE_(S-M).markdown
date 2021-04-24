@@ -8,10 +8,11 @@ permalink: /FRANSA/YERVILLE (S-M)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YERVILLE_(S-M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/YERVILLE_(S-M)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'YERVILLE (S-M)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'YERVILLE (S-M)';
+* [ (YERVILLE_(S-M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/YERVILLE_(S-M)/)
 </script>
+<script type="text/javascript">

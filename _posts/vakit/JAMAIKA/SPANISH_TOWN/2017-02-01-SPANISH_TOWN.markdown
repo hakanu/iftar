@@ -8,10 +8,11 @@ permalink: /JAMAIKA/SPANISH TOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPANISH_TOWN, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/SPANISH_TOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAMAIKA';
+
   var GLOBAL_CITY = 'SPANISH TOWN';
+  var GLOBAL_COUNTRY = 'JAMAIKA';
   var GLOBAL_STATE = 'SPANISH TOWN';
+* [ (SPANISH_TOWN, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/SPANISH_TOWN/)
 </script>
+<script type="text/javascript">

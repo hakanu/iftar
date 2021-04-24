@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/SEMARANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEMARANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SEMARANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'SEMARANG';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'SEMARANG';
+* [ (SEMARANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SEMARANG/)
 </script>
+<script type="text/javascript">

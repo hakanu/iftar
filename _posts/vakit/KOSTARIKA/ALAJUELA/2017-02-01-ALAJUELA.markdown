@@ -8,10 +8,11 @@ permalink: /KOSTARIKA/ALAJUELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALAJUELA, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/ALAJUELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSTARIKA';
+
   var GLOBAL_CITY = 'ALAJUELA';
+  var GLOBAL_COUNTRY = 'KOSTARIKA';
   var GLOBAL_STATE = 'ALAJUELA';
+* [ (ALAJUELA, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/ALAJUELA/)
 </script>
+<script type="text/javascript">

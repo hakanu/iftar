@@ -8,10 +8,11 @@ permalink: /MORITANYA/FDERIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FDERIK, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/FDERIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'FDERIK';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'FDERIK';
+* [ (FDERIK, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/FDERIK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/LIZBON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIZBON, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/LIZBON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'LIZBON';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'LIZBON';
+* [ (LIZBON, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/LIZBON/)
 </script>
+<script type="text/javascript">

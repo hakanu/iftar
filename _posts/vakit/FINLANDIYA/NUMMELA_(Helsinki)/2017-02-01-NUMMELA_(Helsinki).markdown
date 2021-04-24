@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/NUMMELA (Helsinki)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUMMELA_(Helsinki), FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NUMMELA_(Helsinki)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'NUMMELA (Helsinki)';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'NUMMELA (Helsinki)';
+* [ (NUMMELA_(Helsinki), FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NUMMELA_(Helsinki)/)
 </script>
+<script type="text/javascript">

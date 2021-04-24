@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ASSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASSEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ASSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ASSEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ASSEN';
+* [ (ASSEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ASSEN/)
 </script>
+<script type="text/javascript">

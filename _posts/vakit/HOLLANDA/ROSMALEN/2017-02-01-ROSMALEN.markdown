@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ROSMALEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSMALEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROSMALEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ROSMALEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ROSMALEN';
+* [ (ROSMALEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROSMALEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISPANYA/TOLEDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOLEDO, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/TOLEDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'TOLEDO';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'TOLEDO';
+* [ (TOLEDO, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/TOLEDO/)
 </script>
+<script type="text/javascript">

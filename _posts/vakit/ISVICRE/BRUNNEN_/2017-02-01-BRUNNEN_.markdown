@@ -8,10 +8,11 @@ permalink: /ISVICRE/BRUNNEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUNNEN_, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BRUNNEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BRUNNEN ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BRUNNEN ';
+* [ (BRUNNEN_, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BRUNNEN_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILISTIN/CEBALIYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CEBALIYE, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CEBALIYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'CEBALIYE';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'CEBALIYE';
+* [ (CEBALIYE, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CEBALIYE/)
 </script>
+<script type="text/javascript">

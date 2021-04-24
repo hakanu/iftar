@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/NALAYH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NALAYH, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/NALAYH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'NALAYH';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'NALAYH';
+* [ (NALAYH, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/NALAYH/)
 </script>
+<script type="text/javascript">

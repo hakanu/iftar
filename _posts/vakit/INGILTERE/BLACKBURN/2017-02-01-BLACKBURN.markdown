@@ -8,10 +8,11 @@ permalink: /INGILTERE/BLACKBURN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLACKBURN, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BLACKBURN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BLACKBURN';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BLACKBURN';
+* [ (BLACKBURN, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BLACKBURN/)
 </script>
+<script type="text/javascript">

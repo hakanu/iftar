@@ -8,10 +8,11 @@ permalink: /UKRAYNA/LUGANS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUGANS, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LUGANS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'LUGANS';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'LUGANS';
+* [ (LUGANS, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LUGANS/)
 </script>
+<script type="text/javascript">

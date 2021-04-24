@@ -8,10 +8,11 @@ permalink: /INGILTERE/ASHFORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASHFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ASHFORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'ASHFORD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'ASHFORD';
+* [ (ASHFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ASHFORD/)
 </script>
+<script type="text/javascript">

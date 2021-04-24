@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GOUDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOUDA, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GOUDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GOUDA';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GOUDA';
+* [ (GOUDA, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GOUDA/)
 </script>
+<script type="text/javascript">

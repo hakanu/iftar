@@ -8,10 +8,11 @@ permalink: /RUSYA/VYRITSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VYRITSA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VYRITSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VYRITSA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VYRITSA';
+* [ (VYRITSA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VYRITSA/)
 </script>
+<script type="text/javascript">

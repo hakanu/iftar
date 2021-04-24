@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/GOSFORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOSFORD, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GOSFORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'GOSFORD';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'GOSFORD';
+* [ (GOSFORD, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GOSFORD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BOLIVYA/YACUIBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YACUIBA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/YACUIBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'YACUIBA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'YACUIBA';
+* [ (YACUIBA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/YACUIBA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MALEZYA/IPOH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IPOH, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/IPOH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'IPOH';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'IPOH';
+* [ (IPOH, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/IPOH/)
 </script>
+<script type="text/javascript">

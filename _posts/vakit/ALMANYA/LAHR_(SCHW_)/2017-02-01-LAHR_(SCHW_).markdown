@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAHR (SCHW_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAHR_(SCHW_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAHR_(SCHW_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAHR (SCHW_)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAHR (SCHW_)';
+* [ (LAHR_(SCHW_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAHR_(SCHW_)/)
 </script>
+<script type="text/javascript">

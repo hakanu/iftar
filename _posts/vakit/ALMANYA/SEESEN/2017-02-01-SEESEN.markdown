@@ -8,10 +8,11 @@ permalink: /ALMANYA/SEESEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEESEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEESEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SEESEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SEESEN';
+* [ (SEESEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEESEN/)
 </script>
+<script type="text/javascript">

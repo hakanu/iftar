@@ -8,10 +8,11 @@ permalink: /ROMANYA/PITESTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PITESTI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PITESTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'PITESTI';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'PITESTI';
+* [ (PITESTI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PITESTI/)
 </script>
+<script type="text/javascript">

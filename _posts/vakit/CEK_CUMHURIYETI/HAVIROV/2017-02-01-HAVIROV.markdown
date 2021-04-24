@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/HAVIROV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAVIROV, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/HAVIROV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'HAVIROV';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'HAVIROV';
+* [ (HAVIROV, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/HAVIROV/)
 </script>
+<script type="text/javascript">

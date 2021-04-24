@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/MADAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MADAN_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/MADAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'MADAN ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'MADAN ';
+* [ (MADAN_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/MADAN_/)
 </script>
+<script type="text/javascript">

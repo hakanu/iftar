@@ -8,10 +8,11 @@ permalink: /ISVICRE/WOHLEN (B)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOHLEN_(B), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WOHLEN_(B)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'WOHLEN (B)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'WOHLEN (B)';
+* [ (WOHLEN_(B), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WOHLEN_(B)/)
 </script>
+<script type="text/javascript">

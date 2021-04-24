@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/EVORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EVORA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/EVORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'EVORA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'EVORA';
+* [ (EVORA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/EVORA/)
 </script>
+<script type="text/javascript">

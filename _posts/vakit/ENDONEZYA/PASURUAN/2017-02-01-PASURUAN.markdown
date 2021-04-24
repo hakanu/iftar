@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PASURUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PASURUAN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PASURUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PASURUAN';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PASURUAN';
+* [ (PASURUAN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PASURUAN/)
 </script>
+<script type="text/javascript">

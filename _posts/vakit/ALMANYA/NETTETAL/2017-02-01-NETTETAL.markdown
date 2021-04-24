@@ -8,10 +8,11 @@ permalink: /ALMANYA/NETTETAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NETTETAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NETTETAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NETTETAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NETTETAL';
+* [ (NETTETAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NETTETAL/)
 </script>
+<script type="text/javascript">

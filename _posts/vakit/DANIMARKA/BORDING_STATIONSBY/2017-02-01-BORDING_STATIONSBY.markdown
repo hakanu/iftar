@@ -8,10 +8,11 @@ permalink: /DANIMARKA/BORDING STATIONSBY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORDING_STATIONSBY, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/BORDING_STATIONSBY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'BORDING STATIONSBY';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'BORDING STATIONSBY';
+* [ (BORDING_STATIONSBY, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/BORDING_STATIONSBY/)
 </script>
+<script type="text/javascript">

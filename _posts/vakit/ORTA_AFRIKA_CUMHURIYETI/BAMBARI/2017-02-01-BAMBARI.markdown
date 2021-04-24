@@ -8,10 +8,11 @@ permalink: /ORTA AFRIKA CUMHURIYETI/BAMBARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAMBARI, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/BAMBARI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
+
   var GLOBAL_CITY = 'BAMBARI';
+  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
   var GLOBAL_STATE = 'BAMBARI';
+* [ (BAMBARI, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/BAMBARI/)
 </script>
+<script type="text/javascript">

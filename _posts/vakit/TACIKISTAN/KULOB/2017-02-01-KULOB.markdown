@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/KULOB
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KULOB, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KULOB/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'KULOB';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'KULOB';
+* [ (KULOB, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KULOB/)
 </script>
+<script type="text/javascript">

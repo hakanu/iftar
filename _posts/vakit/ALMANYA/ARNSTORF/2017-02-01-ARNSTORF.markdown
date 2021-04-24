@@ -8,10 +8,11 @@ permalink: /ALMANYA/ARNSTORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARNSTORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ARNSTORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ARNSTORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ARNSTORF';
+* [ (ARNSTORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ARNSTORF/)
 </script>
+<script type="text/javascript">

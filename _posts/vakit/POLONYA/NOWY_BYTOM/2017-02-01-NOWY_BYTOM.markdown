@@ -8,10 +8,11 @@ permalink: /POLONYA/NOWY BYTOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOWY_BYTOM, POLONYA) için iftar ve namaz vakitleri](/POLONYA/NOWY_BYTOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'NOWY BYTOM';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'NOWY BYTOM';
+* [ (NOWY_BYTOM, POLONYA) için iftar ve namaz vakitleri](/POLONYA/NOWY_BYTOM/)
 </script>
+<script type="text/javascript">

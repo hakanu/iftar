@@ -8,10 +8,11 @@ permalink: /ALMANYA/HURTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HURTH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HURTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HURTH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HURTH';
+* [ (HURTH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HURTH/)
 </script>
+<script type="text/javascript">

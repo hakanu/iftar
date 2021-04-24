@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/RESEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RESEN_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/RESEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'RESEN ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'RESEN ';
+* [ (RESEN_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/RESEN_/)
 </script>
+<script type="text/javascript">

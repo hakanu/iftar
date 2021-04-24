@@ -8,10 +8,11 @@ permalink: /EL SALVADOR/SOYAPANGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOYAPANGO, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SOYAPANGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EL SALVADOR';
+
   var GLOBAL_CITY = 'SOYAPANGO';
+  var GLOBAL_COUNTRY = 'EL SALVADOR';
   var GLOBAL_STATE = 'SOYAPANGO';
+* [ (SOYAPANGO, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SOYAPANGO/)
 </script>
+<script type="text/javascript">

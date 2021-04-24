@@ -8,10 +8,11 @@ permalink: /NAMBIYA/LUDERITZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUDERITZ, NAMBIYA) için iftar ve namaz vakitleri](/NAMBIYA/LUDERITZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NAMBIYA';
+
   var GLOBAL_CITY = 'LUDERITZ';
+  var GLOBAL_COUNTRY = 'NAMBIYA';
   var GLOBAL_STATE = 'LUDERITZ';
+* [ (LUDERITZ, NAMBIYA) için iftar ve namaz vakitleri](/NAMBIYA/LUDERITZ/)
 </script>
+<script type="text/javascript">

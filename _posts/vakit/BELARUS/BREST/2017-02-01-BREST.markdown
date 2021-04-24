@@ -8,10 +8,11 @@ permalink: /BELARUS/BREST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREST, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BREST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'BREST';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'BREST';
+* [ (BREST, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BREST/)
 </script>
+<script type="text/javascript">

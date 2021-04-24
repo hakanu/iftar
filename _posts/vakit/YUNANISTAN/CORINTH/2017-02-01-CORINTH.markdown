@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/CORINTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORINTH, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/CORINTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'CORINTH';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'CORINTH';
+* [ (CORINTH, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/CORINTH/)
 </script>
+<script type="text/javascript">

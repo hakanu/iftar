@@ -8,10 +8,11 @@ permalink: /INGILTERE/TWICKENHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TWICKENHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/TWICKENHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'TWICKENHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'TWICKENHAM';
+* [ (TWICKENHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/TWICKENHAM/)
 </script>
+<script type="text/javascript">

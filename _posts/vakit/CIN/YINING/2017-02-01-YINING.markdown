@@ -8,10 +8,11 @@ permalink: /CIN/YINING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YINING, CIN) için iftar ve namaz vakitleri](/CIN/YINING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YINING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YINING';
+* [ (YINING, CIN) için iftar ve namaz vakitleri](/CIN/YINING/)
 </script>
+<script type="text/javascript">

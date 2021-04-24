@@ -8,10 +8,11 @@ permalink: /HINDISTAN/RAJAPALAIYAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAJAPALAIYAM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAJAPALAIYAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'RAJAPALAIYAM';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'RAJAPALAIYAM';
+* [ (RAJAPALAIYAM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAJAPALAIYAM/)
 </script>
+<script type="text/javascript">

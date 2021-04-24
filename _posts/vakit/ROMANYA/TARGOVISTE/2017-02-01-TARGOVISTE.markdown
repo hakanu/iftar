@@ -8,10 +8,11 @@ permalink: /ROMANYA/TARGOVISTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARGOVISTE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TARGOVISTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'TARGOVISTE';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'TARGOVISTE';
+* [ (TARGOVISTE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TARGOVISTE/)
 </script>
+<script type="text/javascript">

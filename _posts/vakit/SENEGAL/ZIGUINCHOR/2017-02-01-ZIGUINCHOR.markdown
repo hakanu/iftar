@@ -8,10 +8,11 @@ permalink: /SENEGAL/ZIGUINCHOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZIGUINCHOR, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/ZIGUINCHOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SENEGAL';
+
   var GLOBAL_CITY = 'ZIGUINCHOR';
+  var GLOBAL_COUNTRY = 'SENEGAL';
   var GLOBAL_STATE = 'ZIGUINCHOR';
+* [ (ZIGUINCHOR, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/ZIGUINCHOR/)
 </script>
+<script type="text/javascript">

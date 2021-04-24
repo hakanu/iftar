@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/BRATISLAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRATISLAVA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BRATISLAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'BRATISLAVA';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'BRATISLAVA';
+* [ (BRATISLAVA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BRATISLAVA/)
 </script>
+<script type="text/javascript">

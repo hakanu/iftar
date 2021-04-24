@@ -8,10 +8,11 @@ permalink: /FRANSA/CHALONS-EN-CHAMPAGNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHALONS-EN-CHAMPAGNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHALONS-EN-CHAMPAGNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHALONS-EN-CHAMPAGNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHALONS-EN-CHAMPAGNE';
+* [ (CHALONS-EN-CHAMPAGNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHALONS-EN-CHAMPAGNE/)
 </script>
+<script type="text/javascript">

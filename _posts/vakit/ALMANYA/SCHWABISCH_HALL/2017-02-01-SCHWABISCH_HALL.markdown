@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWABISCH HALL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWABISCH_HALL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWABISCH_HALL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWABISCH HALL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWABISCH HALL';
+* [ (SCHWABISCH_HALL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWABISCH_HALL/)
 </script>
+<script type="text/javascript">

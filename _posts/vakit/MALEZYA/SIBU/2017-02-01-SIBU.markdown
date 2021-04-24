@@ -8,10 +8,11 @@ permalink: /MALEZYA/SIBU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIBU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/SIBU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'SIBU';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'SIBU';
+* [ (SIBU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/SIBU/)
 </script>
+<script type="text/javascript">

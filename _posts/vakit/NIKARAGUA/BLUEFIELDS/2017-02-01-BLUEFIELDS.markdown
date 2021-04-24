@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/BLUEFIELDS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLUEFIELDS, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/BLUEFIELDS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'BLUEFIELDS';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'BLUEFIELDS';
+* [ (BLUEFIELDS, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/BLUEFIELDS/)
 </script>
+<script type="text/javascript">

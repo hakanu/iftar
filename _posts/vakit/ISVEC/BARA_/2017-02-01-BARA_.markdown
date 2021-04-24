@@ -8,10 +8,11 @@ permalink: /ISVEC/BARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARA_, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BARA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'BARA ';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'BARA ';
+* [ (BARA_, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BARA_/)
 </script>
+<script type="text/javascript">

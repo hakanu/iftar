@@ -8,4 +8,5 @@ permalink: /IZLANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [REYKJAVIK (IZLANDA) için iftar ve namaz vakitleri](/IZLANDA/REYKJAVIK)

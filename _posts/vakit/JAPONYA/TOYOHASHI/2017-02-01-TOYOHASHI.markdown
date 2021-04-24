@@ -8,10 +8,11 @@ permalink: /JAPONYA/TOYOHASHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOYOHASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOYOHASHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TOYOHASHI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TOYOHASHI';
+* [ (TOYOHASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOYOHASHI/)
 </script>
+<script type="text/javascript">

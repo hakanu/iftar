@@ -8,10 +8,11 @@ permalink: /VENEZUELA/CIUDAD GUAYANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_GUAYANA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CIUDAD_GUAYANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'CIUDAD GUAYANA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'CIUDAD GUAYANA';
+* [ (CIUDAD_GUAYANA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CIUDAD_GUAYANA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/OBERUZWIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERUZWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/OBERUZWIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'OBERUZWIL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'OBERUZWIL';
+* [ (OBERUZWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/OBERUZWIL/)
 </script>
+<script type="text/javascript">

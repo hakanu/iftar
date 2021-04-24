@@ -8,10 +8,11 @@ permalink: /FRANSA/ANGOULEME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANGOULEME, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANGOULEME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ANGOULEME';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ANGOULEME';
+* [ (ANGOULEME, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANGOULEME/)
 </script>
+<script type="text/javascript">

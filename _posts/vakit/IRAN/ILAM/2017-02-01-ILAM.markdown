@@ -8,10 +8,11 @@ permalink: /IRAN/ILAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ILAM, IRAN) için iftar ve namaz vakitleri](/IRAN/ILAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'ILAM';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'ILAM';
+* [ (ILAM, IRAN) için iftar ve namaz vakitleri](/IRAN/ILAM/)
 </script>
+<script type="text/javascript">

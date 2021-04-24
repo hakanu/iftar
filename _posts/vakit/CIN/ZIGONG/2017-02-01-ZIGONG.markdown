@@ -8,10 +8,11 @@ permalink: /CIN/ZIGONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZIGONG, CIN) için iftar ve namaz vakitleri](/CIN/ZIGONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZIGONG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZIGONG';
+* [ (ZIGONG, CIN) için iftar ve namaz vakitleri](/CIN/ZIGONG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/NURTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NURTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NURTINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NURTINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NURTINGEN';
+* [ (NURTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NURTINGEN/)
 </script>
+<script type="text/javascript">

@@ -8,11 +8,12 @@ permalink: /ABD/HAVAI ADALARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'HAVAI ADALARI';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'HAVAI ADALARI';
 * [HILO (HAVAI_ADALARI, ABD) için iftar ve namaz vakitleri](/ABD/HAVAI_ADALARI/HILO)
 * [HONOLULU (HAVAI_ADALARI, ABD) için iftar ve namaz vakitleri](/ABD/HAVAI_ADALARI/HONOLULU)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'HAVAI ADALARI';
-  var GLOBAL_STATE = 'HAVAI ADALARI';
 </script>
+<script type="text/javascript">

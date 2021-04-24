@@ -8,10 +8,11 @@ permalink: /ALMANYA/OELDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OELDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OELDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OELDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OELDE';
+* [ (OELDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OELDE/)
 </script>
+<script type="text/javascript">

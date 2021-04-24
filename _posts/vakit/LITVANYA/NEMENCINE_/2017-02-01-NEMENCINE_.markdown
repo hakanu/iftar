@@ -8,10 +8,11 @@ permalink: /LITVANYA/NEMENCINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEMENCINE_, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/NEMENCINE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'NEMENCINE ';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'NEMENCINE ';
+* [ (NEMENCINE_, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/NEMENCINE_/)
 </script>
+<script type="text/javascript">

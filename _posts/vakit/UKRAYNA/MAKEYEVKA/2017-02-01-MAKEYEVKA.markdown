@@ -8,10 +8,11 @@ permalink: /UKRAYNA/MAKEYEVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAKEYEVKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MAKEYEVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'MAKEYEVKA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'MAKEYEVKA';
+* [ (MAKEYEVKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MAKEYEVKA/)
 </script>
+<script type="text/javascript">

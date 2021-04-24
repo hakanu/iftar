@@ -8,10 +8,11 @@ permalink: /ALMANYA/OBERADEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERADEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERADEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OBERADEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OBERADEN';
+* [ (OBERADEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERADEN/)
 </script>
+<script type="text/javascript">

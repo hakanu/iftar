@@ -8,4 +8,5 @@ permalink: /KUZEY_KORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [PYONGYANG (KUZEY_KORE) için iftar ve namaz vakitleri](/KUZEY_KORE/PYONGYANG)

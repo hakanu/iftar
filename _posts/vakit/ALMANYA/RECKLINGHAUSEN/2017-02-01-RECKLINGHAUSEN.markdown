@@ -8,10 +8,11 @@ permalink: /ALMANYA/RECKLINGHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RECKLINGHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RECKLINGHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RECKLINGHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RECKLINGHAUSEN';
+* [ (RECKLINGHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RECKLINGHAUSEN/)
 </script>
+<script type="text/javascript">

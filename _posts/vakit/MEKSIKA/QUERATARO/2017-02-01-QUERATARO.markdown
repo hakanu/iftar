@@ -8,10 +8,11 @@ permalink: /MEKSIKA/QUERATARO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUERATARO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/QUERATARO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'QUERATARO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'QUERATARO';
+* [ (QUERATARO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/QUERATARO/)
 </script>
+<script type="text/javascript">

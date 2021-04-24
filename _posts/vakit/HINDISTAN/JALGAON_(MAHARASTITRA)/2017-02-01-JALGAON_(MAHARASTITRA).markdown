@@ -8,10 +8,11 @@ permalink: /HINDISTAN/JALGAON (MAHARASTITRA)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JALGAON_(MAHARASTITRA), HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JALGAON_(MAHARASTITRA)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'JALGAON (MAHARASTITRA)';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'JALGAON (MAHARASTITRA)';
+* [ (JALGAON_(MAHARASTITRA), HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JALGAON_(MAHARASTITRA)/)
 </script>
+<script type="text/javascript">

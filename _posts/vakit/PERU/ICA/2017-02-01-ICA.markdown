@@ -8,10 +8,11 @@ permalink: /PERU/ICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ICA, PERU) için iftar ve namaz vakitleri](/PERU/ICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'ICA';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'ICA';
+* [ (ICA, PERU) için iftar ve namaz vakitleri](/PERU/ICA/)
 </script>
+<script type="text/javascript">

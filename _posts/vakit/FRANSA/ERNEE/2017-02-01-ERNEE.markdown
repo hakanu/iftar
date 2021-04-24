@@ -8,10 +8,11 @@ permalink: /FRANSA/ERNEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERNEE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ERNEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ERNEE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ERNEE';
+* [ (ERNEE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ERNEE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/LAGOS DE MORENO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAGOS_DE_MORENO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LAGOS_DE_MORENO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'LAGOS DE MORENO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'LAGOS DE MORENO';
+* [ (LAGOS_DE_MORENO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LAGOS_DE_MORENO/)
 </script>
+<script type="text/javascript">

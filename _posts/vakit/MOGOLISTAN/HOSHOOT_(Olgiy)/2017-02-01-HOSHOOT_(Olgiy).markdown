@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/HOSHOOT (Olgiy)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOSHOOT_(Olgiy), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HOSHOOT_(Olgiy)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'HOSHOOT (Olgiy)';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'HOSHOOT (Olgiy)';
+* [ (HOSHOOT_(Olgiy), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HOSHOOT_(Olgiy)/)
 </script>
+<script type="text/javascript">

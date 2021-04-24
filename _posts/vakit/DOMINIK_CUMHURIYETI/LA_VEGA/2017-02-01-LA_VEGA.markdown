@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/LA VEGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_VEGA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/LA_VEGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'LA VEGA';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'LA VEGA';
+* [ (LA_VEGA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/LA_VEGA/)
 </script>
+<script type="text/javascript">

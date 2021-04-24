@@ -8,10 +8,11 @@ permalink: /ZAMBIYA/LIVINGSTONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIVINGSTONE, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/LIVINGSTONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZAMBIYA';
+
   var GLOBAL_CITY = 'LIVINGSTONE';
+  var GLOBAL_COUNTRY = 'ZAMBIYA';
   var GLOBAL_STATE = 'LIVINGSTONE';
+* [ (LIVINGSTONE, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/LIVINGSTONE/)
 </script>
+<script type="text/javascript">

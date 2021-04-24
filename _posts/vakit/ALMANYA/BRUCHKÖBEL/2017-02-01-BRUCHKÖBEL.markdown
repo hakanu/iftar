@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRUCHKÖBEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUCHKÖBEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUCHKÖBEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRUCHKÖBEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRUCHKÖBEL';
+* [ (BRUCHKÖBEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUCHKÖBEL/)
 </script>
+<script type="text/javascript">

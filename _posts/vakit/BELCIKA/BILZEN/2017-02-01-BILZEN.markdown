@@ -8,10 +8,11 @@ permalink: /BELCIKA/BILZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BILZEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BILZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BILZEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BILZEN';
+* [ (BILZEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BILZEN/)
 </script>
+<script type="text/javascript">

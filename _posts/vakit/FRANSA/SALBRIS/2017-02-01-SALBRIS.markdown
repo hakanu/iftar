@@ -8,10 +8,11 @@ permalink: /FRANSA/SALBRIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALBRIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SALBRIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SALBRIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SALBRIS';
+* [ (SALBRIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SALBRIS/)
 </script>
+<script type="text/javascript">

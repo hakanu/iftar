@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ELST (Nijmegen)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELST_(Nijmegen), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ELST_(Nijmegen)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ELST (Nijmegen)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ELST (Nijmegen)';
+* [ (ELST_(Nijmegen), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ELST_(Nijmegen)/)
 </script>
+<script type="text/javascript">

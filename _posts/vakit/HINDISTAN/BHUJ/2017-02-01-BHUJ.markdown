@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BHUJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BHUJ, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHUJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BHUJ';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BHUJ';
+* [ (BHUJ, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHUJ/)
 </script>
+<script type="text/javascript">

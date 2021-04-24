@@ -8,10 +8,11 @@ permalink: /BOLIVYA/CORIPATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORIPATA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CORIPATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'CORIPATA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'CORIPATA';
+* [ (CORIPATA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CORIPATA/)
 </script>
+<script type="text/javascript">

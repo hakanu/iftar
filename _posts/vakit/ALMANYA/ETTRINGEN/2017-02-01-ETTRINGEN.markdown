@@ -8,10 +8,11 @@ permalink: /ALMANYA/ETTRINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ETTRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ETTRINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ETTRINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ETTRINGEN';
+* [ (ETTRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ETTRINGEN/)
 </script>
+<script type="text/javascript">

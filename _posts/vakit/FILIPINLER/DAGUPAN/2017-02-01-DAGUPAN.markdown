@@ -8,10 +8,11 @@ permalink: /FILIPINLER/DAGUPAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAGUPAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/DAGUPAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'DAGUPAN';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'DAGUPAN';
+* [ (DAGUPAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/DAGUPAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HINDISTAN/AMRITSAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMRITSAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AMRITSAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'AMRITSAR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'AMRITSAR';
+* [ (AMRITSAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AMRITSAR/)
 </script>
+<script type="text/javascript">

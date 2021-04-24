@@ -8,10 +8,11 @@ permalink: /FRANSA/LEZIGNAN-CORBIERES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEZIGNAN-CORBIERES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LEZIGNAN-CORBIERES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LEZIGNAN-CORBIERES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LEZIGNAN-CORBIERES';
+* [ (LEZIGNAN-CORBIERES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LEZIGNAN-CORBIERES/)
 </script>
+<script type="text/javascript">

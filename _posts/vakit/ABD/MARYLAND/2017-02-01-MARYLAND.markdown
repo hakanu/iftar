@@ -8,15 +8,16 @@ permalink: /ABD/MARYLAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'MARYLAND';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'MARYLAND';
 * [ANNAPOLIS (MARYLAND, ABD) için iftar ve namaz vakitleri](/ABD/MARYLAND/ANNAPOLIS)
-* [FREDERICK_ (MARYLAND, ABD) için iftar ve namaz vakitleri](/ABD/MARYLAND/FREDERICK_)
 * [ARNOLD (MARYLAND, ABD) için iftar ve namaz vakitleri](/ABD/MARYLAND/ARNOLD)
 * [BALTIMORE (MARYLAND, ABD) için iftar ve namaz vakitleri](/ABD/MARYLAND/BALTIMORE)
 * [BETHESDA (MARYLAND, ABD) için iftar ve namaz vakitleri](/ABD/MARYLAND/BETHESDA)
+* [FREDERICK_ (MARYLAND, ABD) için iftar ve namaz vakitleri](/ABD/MARYLAND/FREDERICK_)
 * [OCEAN_CITY (MARYLAND, ABD) için iftar ve namaz vakitleri](/ABD/MARYLAND/OCEAN_CITY)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'MARYLAND';
-  var GLOBAL_STATE = 'MARYLAND';
 </script>
+<script type="text/javascript">

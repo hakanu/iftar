@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/KHUJAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHUJAND, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KHUJAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'KHUJAND';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'KHUJAND';
+* [ (KHUJAND, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KHUJAND/)
 </script>
+<script type="text/javascript">

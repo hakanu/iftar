@@ -8,10 +8,11 @@ permalink: /ISPANYA/SAN CRISTOBAL DE LA LAGUNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_CRISTOBAL_DE_LA_LAGUNA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SAN_CRISTOBAL_DE_LA_LAGUNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'SAN CRISTOBAL DE LA LAGUNA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'SAN CRISTOBAL DE LA LAGUNA';
+* [ (SAN_CRISTOBAL_DE_LA_LAGUNA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SAN_CRISTOBAL_DE_LA_LAGUNA/)
 </script>
+<script type="text/javascript">

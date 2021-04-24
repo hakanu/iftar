@@ -8,10 +8,11 @@ permalink: /FRANSA/GUERET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUERET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GUERET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GUERET';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GUERET';
+* [ (GUERET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GUERET/)
 </script>
+<script type="text/javascript">

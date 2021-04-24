@@ -8,10 +8,11 @@ permalink: /ITALYA/GROSSETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GROSSETO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GROSSETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'GROSSETO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'GROSSETO';
+* [ (GROSSETO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GROSSETO/)
 </script>
+<script type="text/javascript">

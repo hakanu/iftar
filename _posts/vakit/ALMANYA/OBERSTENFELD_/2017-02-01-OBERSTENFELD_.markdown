@@ -8,10 +8,11 @@ permalink: /ALMANYA/OBERSTENFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [_WURTT (OBERSTENFELD_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERSTENFELD_/_WURTT)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OBERSTENFELD ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OBERSTENFELD ';
+* [_WURTT (OBERSTENFELD_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERSTENFELD_/_WURTT)
 </script>
+<script type="text/javascript">

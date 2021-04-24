@@ -8,10 +8,11 @@ permalink: /FRANSA/CHATEAUDUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHATEAUDUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHATEAUDUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHATEAUDUN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHATEAUDUN';
+* [ (CHATEAUDUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHATEAUDUN/)
 </script>
+<script type="text/javascript">

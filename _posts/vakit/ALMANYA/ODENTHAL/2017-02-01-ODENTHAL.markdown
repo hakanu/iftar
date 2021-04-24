@@ -8,10 +8,11 @@ permalink: /ALMANYA/ODENTHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ODENTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ODENTHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ODENTHAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ODENTHAL';
+* [ (ODENTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ODENTHAL/)
 </script>
+<script type="text/javascript">

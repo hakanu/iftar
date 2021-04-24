@@ -8,10 +8,11 @@ permalink: /GINE/CONAKRY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONAKRY, GINE) için iftar ve namaz vakitleri](/GINE/CONAKRY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GINE';
+
   var GLOBAL_CITY = 'CONAKRY';
+  var GLOBAL_COUNTRY = 'GINE';
   var GLOBAL_STATE = 'CONAKRY';
+* [ (CONAKRY, GINE) için iftar ve namaz vakitleri](/GINE/CONAKRY/)
 </script>
+<script type="text/javascript">

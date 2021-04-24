@@ -8,10 +8,11 @@ permalink: /UKRAYNA/YENAKIYEVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YENAKIYEVO, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/YENAKIYEVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'YENAKIYEVO';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'YENAKIYEVO';
+* [ (YENAKIYEVO, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/YENAKIYEVO/)
 </script>
+<script type="text/javascript">

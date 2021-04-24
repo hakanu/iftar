@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HOLTE (K)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLTE_(K), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOLTE_(K)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HOLTE (K)';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HOLTE (K)';
+* [ (HOLTE_(K), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOLTE_(K)/)
 </script>
+<script type="text/javascript">

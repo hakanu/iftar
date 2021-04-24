@@ -8,10 +8,11 @@ permalink: /ISVICRE/SCHLATTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHLATTINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SCHLATTINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SCHLATTINGEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SCHLATTINGEN';
+* [ (SCHLATTINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SCHLATTINGEN/)
 </script>
+<script type="text/javascript">

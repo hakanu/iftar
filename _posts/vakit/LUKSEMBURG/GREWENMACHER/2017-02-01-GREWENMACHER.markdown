@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/GREWENMACHER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GREWENMACHER, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/GREWENMACHER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'GREWENMACHER';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'GREWENMACHER';
+* [ (GREWENMACHER, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/GREWENMACHER/)
 </script>
+<script type="text/javascript">

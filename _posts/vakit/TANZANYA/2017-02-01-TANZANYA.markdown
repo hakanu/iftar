@@ -8,14 +8,15 @@ permalink: /TANZANYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TANGA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TANGA)
-* [MWANZA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MWANZA)
+
 * [ARUSHA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ARUSHA)
-* [MOROGORO (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MOROGORO)
-* [TABORA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TABORA)
-* [SHINYANGA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/SHINYANGA)
 * [DAR_ES_SALAAM (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DAR_ES_SALAAM)
-* [MBEYA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MBEYA)
 * [DODOMA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DODOMA)
+* [MBEYA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MBEYA)
+* [MOROGORO (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MOROGORO)
+* [MWANZA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MWANZA)
+* [SHINYANGA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/SHINYANGA)
+* [TABORA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TABORA)
+* [TANGA (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TANGA)
 * [WETE (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/WETE)
 * [ZANZIBAR (TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ZANZIBAR)

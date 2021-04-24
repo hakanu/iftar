@@ -8,10 +8,11 @@ permalink: /SURIYE/IDLIB
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IDLIB, SURIYE) için iftar ve namaz vakitleri](/SURIYE/IDLIB/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'IDLIB';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'IDLIB';
+* [ (IDLIB, SURIYE) için iftar ve namaz vakitleri](/SURIYE/IDLIB/)
 </script>
+<script type="text/javascript">

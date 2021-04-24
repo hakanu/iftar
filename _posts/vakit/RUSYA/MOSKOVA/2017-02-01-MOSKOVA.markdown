@@ -8,10 +8,11 @@ permalink: /RUSYA/MOSKOVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSKOVA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MOSKOVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MOSKOVA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MOSKOVA';
+* [ (MOSKOVA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MOSKOVA/)
 </script>
+<script type="text/javascript">

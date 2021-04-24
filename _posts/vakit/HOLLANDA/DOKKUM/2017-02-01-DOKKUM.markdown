@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DOKKUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOKKUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DOKKUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DOKKUM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DOKKUM';
+* [ (DOKKUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DOKKUM/)
 </script>
+<script type="text/javascript">

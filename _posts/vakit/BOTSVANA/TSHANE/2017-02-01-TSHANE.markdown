@@ -8,10 +8,11 @@ permalink: /BOTSVANA/TSHANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TSHANE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/TSHANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOTSVANA';
+
   var GLOBAL_CITY = 'TSHANE';
+  var GLOBAL_COUNTRY = 'BOTSVANA';
   var GLOBAL_STATE = 'TSHANE';
+* [ (TSHANE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/TSHANE/)
 </script>
+<script type="text/javascript">

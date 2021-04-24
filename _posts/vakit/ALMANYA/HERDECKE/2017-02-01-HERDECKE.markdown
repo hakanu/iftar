@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERDECKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERDECKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERDECKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERDECKE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERDECKE';
+* [ (HERDECKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERDECKE/)
 </script>
+<script type="text/javascript">

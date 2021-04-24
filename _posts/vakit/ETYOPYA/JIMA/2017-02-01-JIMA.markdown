@@ -8,10 +8,11 @@ permalink: /ETYOPYA/JIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JIMA, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/JIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ETYOPYA';
+
   var GLOBAL_CITY = 'JIMA';
+  var GLOBAL_COUNTRY = 'ETYOPYA';
   var GLOBAL_STATE = 'JIMA';
+* [ (JIMA, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/JIMA/)
 </script>
+<script type="text/javascript">

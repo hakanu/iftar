@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/SJENICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SJENICA_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/SJENICA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'SJENICA ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'SJENICA ';
+* [ (SJENICA_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/SJENICA_/)
 </script>
+<script type="text/javascript">

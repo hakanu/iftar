@@ -8,10 +8,11 @@ permalink: /IRAN/ARAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARAK, IRAN) için iftar ve namaz vakitleri](/IRAN/ARAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'ARAK';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'ARAK';
+* [ (ARAK, IRAN) için iftar ve namaz vakitleri](/IRAN/ARAK/)
 </script>
+<script type="text/javascript">

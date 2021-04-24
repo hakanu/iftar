@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOHENLIMBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOHENLIMBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHENLIMBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOHENLIMBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOHENLIMBURG';
+* [ (HOHENLIMBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHENLIMBURG/)
 </script>
+<script type="text/javascript">

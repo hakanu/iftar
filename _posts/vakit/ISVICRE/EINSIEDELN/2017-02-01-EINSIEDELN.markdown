@@ -8,10 +8,11 @@ permalink: /ISVICRE/EINSIEDELN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EINSIEDELN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/EINSIEDELN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'EINSIEDELN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'EINSIEDELN';
+* [ (EINSIEDELN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/EINSIEDELN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/BALSTHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALSTHAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BALSTHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BALSTHAL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BALSTHAL';
+* [ (BALSTHAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BALSTHAL/)
 </script>
+<script type="text/javascript">

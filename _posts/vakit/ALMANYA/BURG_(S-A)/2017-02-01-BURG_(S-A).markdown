@@ -8,10 +8,11 @@ permalink: /ALMANYA/BURG (S-A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURG_(S-A), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURG_(S-A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BURG (S-A)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BURG (S-A)';
+* [ (BURG_(S-A), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURG_(S-A)/)
 </script>
+<script type="text/javascript">

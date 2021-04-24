@@ -8,10 +8,11 @@ permalink: /FRANSA/VITRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VITRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VITRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VITRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VITRE';
+* [ (VITRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VITRE/)
 </script>
+<script type="text/javascript">

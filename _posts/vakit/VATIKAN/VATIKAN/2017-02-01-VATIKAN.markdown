@@ -8,10 +8,11 @@ permalink: /VATIKAN/VATIKAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VATIKAN, VATIKAN) için iftar ve namaz vakitleri](/VATIKAN/VATIKAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VATIKAN';
+
   var GLOBAL_CITY = 'VATIKAN';
+  var GLOBAL_COUNTRY = 'VATIKAN';
   var GLOBAL_STATE = 'VATIKAN';
+* [ (VATIKAN, VATIKAN) için iftar ve namaz vakitleri](/VATIKAN/VATIKAN/)
 </script>
+<script type="text/javascript">

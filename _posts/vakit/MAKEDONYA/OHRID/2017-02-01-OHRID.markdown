@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/OHRID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OHRID, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/OHRID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'OHRID';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'OHRID';
+* [ (OHRID, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/OHRID/)
 </script>
+<script type="text/javascript">

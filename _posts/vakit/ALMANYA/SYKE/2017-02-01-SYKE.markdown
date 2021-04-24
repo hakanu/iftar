@@ -8,10 +8,11 @@ permalink: /ALMANYA/SYKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SYKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SYKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SYKE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SYKE';
+* [ (SYKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SYKE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LETONYA/VALDEMARPILS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALDEMARPILS, LETONYA) için iftar ve namaz vakitleri](/LETONYA/VALDEMARPILS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'VALDEMARPILS';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'VALDEMARPILS';
+* [ (VALDEMARPILS, LETONYA) için iftar ve namaz vakitleri](/LETONYA/VALDEMARPILS/)
 </script>
+<script type="text/javascript">

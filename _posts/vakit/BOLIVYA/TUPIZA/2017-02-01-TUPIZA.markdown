@@ -8,10 +8,11 @@ permalink: /BOLIVYA/TUPIZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TUPIZA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/TUPIZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'TUPIZA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'TUPIZA';
+* [ (TUPIZA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/TUPIZA/)
 </script>
+<script type="text/javascript">

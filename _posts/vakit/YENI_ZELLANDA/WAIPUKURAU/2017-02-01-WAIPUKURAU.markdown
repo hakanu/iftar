@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/WAIPUKURAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAIPUKURAU, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WAIPUKURAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'WAIPUKURAU';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'WAIPUKURAU';
+* [ (WAIPUKURAU, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WAIPUKURAU/)
 </script>
+<script type="text/javascript">

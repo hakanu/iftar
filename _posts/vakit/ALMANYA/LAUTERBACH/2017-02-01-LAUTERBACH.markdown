@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAUTERBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUTERBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUTERBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAUTERBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAUTERBACH';
+* [ (LAUTERBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUTERBACH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/PLEVNE (Pleven)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLEVNE_(Pleven), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PLEVNE_(Pleven)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'PLEVNE (Pleven)';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'PLEVNE (Pleven)';
+* [ (PLEVNE_(Pleven), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PLEVNE_(Pleven)/)
 </script>
+<script type="text/javascript">

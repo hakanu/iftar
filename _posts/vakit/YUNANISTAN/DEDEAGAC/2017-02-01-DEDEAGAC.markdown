@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/DEDEAGAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEDEAGAC, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/DEDEAGAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'DEDEAGAC';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'DEDEAGAC';
+* [ (DEDEAGAC, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/DEDEAGAC/)
 </script>
+<script type="text/javascript">

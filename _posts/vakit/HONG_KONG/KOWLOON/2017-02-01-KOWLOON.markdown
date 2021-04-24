@@ -8,10 +8,11 @@ permalink: /HONG KONG/KOWLOON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOWLOON, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/KOWLOON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONG KONG';
+
   var GLOBAL_CITY = 'KOWLOON';
+  var GLOBAL_COUNTRY = 'HONG KONG';
   var GLOBAL_STATE = 'KOWLOON';
+* [ (KOWLOON, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/KOWLOON/)
 </script>
+<script type="text/javascript">

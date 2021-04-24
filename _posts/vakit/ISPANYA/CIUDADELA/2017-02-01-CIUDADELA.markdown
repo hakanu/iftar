@@ -8,10 +8,11 @@ permalink: /ISPANYA/CIUDADELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDADELA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CIUDADELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'CIUDADELA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'CIUDADELA';
+* [ (CIUDADELA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CIUDADELA/)
 </script>
+<script type="text/javascript">

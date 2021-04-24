@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/VOCKLABRUCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOCKLABRUCK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOCKLABRUCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'VOCKLABRUCK';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'VOCKLABRUCK';
+* [ (VOCKLABRUCK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOCKLABRUCK/)
 </script>
+<script type="text/javascript">

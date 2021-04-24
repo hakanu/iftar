@@ -8,10 +8,11 @@ permalink: /HINDISTAN/DIBRUGARH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIBRUGARH, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/DIBRUGARH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'DIBRUGARH';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'DIBRUGARH';
+* [ (DIBRUGARH, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/DIBRUGARH/)
 </script>
+<script type="text/javascript">

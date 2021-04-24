@@ -8,10 +8,11 @@ permalink: /TAYVAN/TAIPEI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAIPEI, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAIPEI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'TAIPEI';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'TAIPEI';
+* [ (TAIPEI, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAIPEI/)
 </script>
+<script type="text/javascript">

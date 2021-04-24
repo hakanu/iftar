@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/LETICIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LETICIA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/LETICIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'LETICIA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'LETICIA';
+* [ (LETICIA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/LETICIA/)
 </script>
+<script type="text/javascript">

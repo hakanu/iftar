@@ -8,10 +8,11 @@ permalink: /BELCIKA/HEMIKSEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEMIKSEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HEMIKSEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HEMIKSEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HEMIKSEM';
+* [ (HEMIKSEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HEMIKSEM/)
 </script>
+<script type="text/javascript">

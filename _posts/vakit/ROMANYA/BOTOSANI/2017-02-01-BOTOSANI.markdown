@@ -8,10 +8,11 @@ permalink: /ROMANYA/BOTOSANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOTOSANI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BOTOSANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'BOTOSANI';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'BOTOSANI';
+* [ (BOTOSANI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BOTOSANI/)
 </script>
+<script type="text/javascript">

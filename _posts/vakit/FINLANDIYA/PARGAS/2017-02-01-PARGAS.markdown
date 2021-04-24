@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/PARGAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARGAS, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/PARGAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'PARGAS';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'PARGAS';
+* [ (PARGAS, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/PARGAS/)
 </script>
+<script type="text/javascript">

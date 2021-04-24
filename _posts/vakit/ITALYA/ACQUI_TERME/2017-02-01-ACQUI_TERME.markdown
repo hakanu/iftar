@@ -8,10 +8,11 @@ permalink: /ITALYA/ACQUI TERME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ACQUI_TERME, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ACQUI_TERME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ACQUI TERME';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ACQUI TERME';
+* [ (ACQUI_TERME, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ACQUI_TERME/)
 </script>
+<script type="text/javascript">

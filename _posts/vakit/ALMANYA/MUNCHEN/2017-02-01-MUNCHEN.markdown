@@ -8,10 +8,11 @@ permalink: /ALMANYA/MUNCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUNCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MUNCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MUNCHEN';
+* [ (MUNCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNCHEN/)
 </script>
+<script type="text/javascript">

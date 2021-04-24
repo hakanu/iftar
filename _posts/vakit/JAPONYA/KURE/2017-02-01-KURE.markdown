@@ -8,10 +8,11 @@ permalink: /JAPONYA/KURE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KURE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KURE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KURE';
+* [ (KURE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KURE/)
 </script>
+<script type="text/javascript">

@@ -8,12 +8,13 @@ permalink: /SURIYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [DAYR_AZ_ZAWR (SURIYE) için iftar ve namaz vakitleri](/SURIYE/DAYR_AZ_ZAWR)
-* [SAM (SURIYE) için iftar ve namaz vakitleri](/SURIYE/SAM)
+
 * [AL_LADHIQIYAH (SURIYE) için iftar ve namaz vakitleri](/SURIYE/AL_LADHIQIYAH)
-* [IDLIB (SURIYE) için iftar ve namaz vakitleri](/SURIYE/IDLIB)
 * [AL_QAMISHLI (SURIYE) için iftar ve namaz vakitleri](/SURIYE/AL_QAMISHLI)
-* [HIMS (SURIYE) için iftar ve namaz vakitleri](/SURIYE/HIMS)
-* [HAMAH (SURIYE) için iftar ve namaz vakitleri](/SURIYE/HAMAH)
 * [AR_RAQQAH (SURIYE) için iftar ve namaz vakitleri](/SURIYE/AR_RAQQAH)
+* [DAYR_AZ_ZAWR (SURIYE) için iftar ve namaz vakitleri](/SURIYE/DAYR_AZ_ZAWR)
 * [HALEP (SURIYE) için iftar ve namaz vakitleri](/SURIYE/HALEP)
+* [HAMAH (SURIYE) için iftar ve namaz vakitleri](/SURIYE/HAMAH)
+* [HIMS (SURIYE) için iftar ve namaz vakitleri](/SURIYE/HIMS)
+* [IDLIB (SURIYE) için iftar ve namaz vakitleri](/SURIYE/IDLIB)
+* [SAM (SURIYE) için iftar ve namaz vakitleri](/SURIYE/SAM)

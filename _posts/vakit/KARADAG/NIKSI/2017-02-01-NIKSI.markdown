@@ -8,10 +8,11 @@ permalink: /KARADAG/NIKSI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIKSI, KARADAG) için iftar ve namaz vakitleri](/KARADAG/NIKSI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'NIKSI';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'NIKSI';
+* [ (NIKSI, KARADAG) için iftar ve namaz vakitleri](/KARADAG/NIKSI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/BREZNIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREZNIK_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BREZNIK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'BREZNIK ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'BREZNIK ';
+* [ (BREZNIK_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BREZNIK_/)
 </script>
+<script type="text/javascript">

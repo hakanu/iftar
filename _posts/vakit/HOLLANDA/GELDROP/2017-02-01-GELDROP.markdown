@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GELDROP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GELDROP, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GELDROP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GELDROP';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GELDROP';
+* [ (GELDROP, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GELDROP/)
 </script>
+<script type="text/javascript">

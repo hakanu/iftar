@@ -8,10 +8,11 @@ permalink: /PAKISTAN/OKARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OKARA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/OKARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'OKARA';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'OKARA';
+* [ (OKARA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/OKARA/)
 </script>
+<script type="text/javascript">

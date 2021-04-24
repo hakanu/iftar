@@ -8,10 +8,11 @@ permalink: /ROMANYA/PIATRA NEAMT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIATRA_NEAMT, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PIATRA_NEAMT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'PIATRA NEAMT';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'PIATRA NEAMT';
+* [ (PIATRA_NEAMT, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PIATRA_NEAMT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SPRATZERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPRATZERN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SPRATZERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SPRATZERN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SPRATZERN';
+* [ (SPRATZERN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SPRATZERN/)
 </script>
+<script type="text/javascript">

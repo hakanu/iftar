@@ -8,10 +8,11 @@ permalink: /BREZILYA/TARAUACA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARAUACA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TARAUACA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'TARAUACA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'TARAUACA';
+* [ (TARAUACA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TARAUACA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISPANYA/ALGECIRAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALGECIRAS, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ALGECIRAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'ALGECIRAS';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'ALGECIRAS';
+* [ (ALGECIRAS, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ALGECIRAS/)
 </script>
+<script type="text/javascript">

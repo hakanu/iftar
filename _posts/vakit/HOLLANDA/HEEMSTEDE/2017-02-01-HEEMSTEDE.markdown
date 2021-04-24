@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HEEMSTEDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEEMSTEDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEEMSTEDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HEEMSTEDE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HEEMSTEDE';
+* [ (HEEMSTEDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEEMSTEDE/)
 </script>
+<script type="text/javascript">

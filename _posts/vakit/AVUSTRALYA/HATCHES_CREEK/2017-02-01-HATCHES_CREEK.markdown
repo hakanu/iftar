@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/HATCHES CREEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HATCHES_CREEK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/HATCHES_CREEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'HATCHES CREEK';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'HATCHES CREEK';
+* [ (HATCHES_CREEK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/HATCHES_CREEK/)
 </script>
+<script type="text/javascript">

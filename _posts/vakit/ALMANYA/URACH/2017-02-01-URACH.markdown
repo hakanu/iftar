@@ -8,10 +8,11 @@ permalink: /ALMANYA/URACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/URACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'URACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'URACH';
+* [ (URACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/URACH/)
 </script>
+<script type="text/javascript">

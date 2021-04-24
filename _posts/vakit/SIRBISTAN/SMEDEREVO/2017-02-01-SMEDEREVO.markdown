@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/SMEDEREVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SMEDEREVO, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/SMEDEREVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'SMEDEREVO';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'SMEDEREVO';
+* [ (SMEDEREVO, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/SMEDEREVO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NORVEC/BAERUMS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAERUMS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/BAERUMS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'BAERUMS';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'BAERUMS';
+* [ (BAERUMS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/BAERUMS/)
 </script>
+<script type="text/javascript">

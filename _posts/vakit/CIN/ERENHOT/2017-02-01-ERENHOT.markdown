@@ -8,10 +8,11 @@ permalink: /CIN/ERENHOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERENHOT, CIN) için iftar ve namaz vakitleri](/CIN/ERENHOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ERENHOT';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ERENHOT';
+* [ (ERENHOT, CIN) için iftar ve namaz vakitleri](/CIN/ERENHOT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/KICEVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KICEVO, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/KICEVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'KICEVO';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'KICEVO';
+* [ (KICEVO, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/KICEVO/)
 </script>
+<script type="text/javascript">

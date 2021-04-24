@@ -8,10 +8,11 @@ permalink: /ALMANYA/KAISERSESCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAISERSESCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KAISERSESCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KAISERSESCH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KAISERSESCH';
+* [ (KAISERSESCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KAISERSESCH/)
 </script>
+<script type="text/javascript">

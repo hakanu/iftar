@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/NEGOTINO (Kavadarci)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEGOTINO_(Kavadarci), MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/NEGOTINO_(Kavadarci)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'NEGOTINO (Kavadarci)';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'NEGOTINO (Kavadarci)';
+* [ (NEGOTINO_(Kavadarci), MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/NEGOTINO_(Kavadarci)/)
 </script>
+<script type="text/javascript">

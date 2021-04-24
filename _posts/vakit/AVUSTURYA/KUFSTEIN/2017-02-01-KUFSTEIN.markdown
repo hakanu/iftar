@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/KUFSTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUFSTEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KUFSTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'KUFSTEIN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'KUFSTEIN';
+* [ (KUFSTEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KUFSTEIN/)
 </script>
+<script type="text/javascript">

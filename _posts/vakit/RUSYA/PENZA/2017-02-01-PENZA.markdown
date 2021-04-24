@@ -8,10 +8,11 @@ permalink: /RUSYA/PENZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENZA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PENZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PENZA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PENZA';
+* [ (PENZA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PENZA/)
 </script>
+<script type="text/javascript">

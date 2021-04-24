@@ -8,10 +8,11 @@ permalink: /ALMANYA/TROISDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TROISDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TROISDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TROISDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TROISDORF';
+* [ (TROISDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TROISDORF/)
 </script>
+<script type="text/javascript">

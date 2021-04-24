@@ -8,10 +8,11 @@ permalink: /ALMANYA/ZERBST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZERBST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZERBST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ZERBST';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ZERBST';
+* [ (ZERBST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZERBST/)
 </script>
+<script type="text/javascript">

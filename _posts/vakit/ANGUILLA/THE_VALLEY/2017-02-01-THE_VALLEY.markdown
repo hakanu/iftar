@@ -8,10 +8,11 @@ permalink: /ANGUILLA/THE VALLEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THE_VALLEY, ANGUILLA) için iftar ve namaz vakitleri](/ANGUILLA/THE_VALLEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGUILLA';
+
   var GLOBAL_CITY = 'THE VALLEY';
+  var GLOBAL_COUNTRY = 'ANGUILLA';
   var GLOBAL_STATE = 'THE VALLEY';
+* [ (THE_VALLEY, ANGUILLA) için iftar ve namaz vakitleri](/ANGUILLA/THE_VALLEY/)
 </script>
+<script type="text/javascript">

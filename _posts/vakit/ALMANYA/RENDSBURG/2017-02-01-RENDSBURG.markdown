@@ -8,10 +8,11 @@ permalink: /ALMANYA/RENDSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RENDSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RENDSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RENDSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RENDSBURG';
+* [ (RENDSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RENDSBURG/)
 </script>
+<script type="text/javascript">

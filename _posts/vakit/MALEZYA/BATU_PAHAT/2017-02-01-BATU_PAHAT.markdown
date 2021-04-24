@@ -8,10 +8,11 @@ permalink: /MALEZYA/BATU PAHAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATU_PAHAT, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/BATU_PAHAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'BATU PAHAT';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'BATU PAHAT';
+* [ (BATU_PAHAT, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/BATU_PAHAT/)
 </script>
+<script type="text/javascript">

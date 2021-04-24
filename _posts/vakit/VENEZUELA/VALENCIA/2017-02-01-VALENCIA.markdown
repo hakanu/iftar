@@ -8,10 +8,11 @@ permalink: /VENEZUELA/VALENCIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALENCIA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/VALENCIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'VALENCIA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'VALENCIA';
+* [ (VALENCIA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/VALENCIA/)
 </script>
+<script type="text/javascript">

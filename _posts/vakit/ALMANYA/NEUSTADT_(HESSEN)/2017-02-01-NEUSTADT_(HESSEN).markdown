@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEUSTADT (HESSEN)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUSTADT_(HESSEN), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUSTADT_(HESSEN)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEUSTADT (HESSEN)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEUSTADT (HESSEN)';
+* [ (NEUSTADT_(HESSEN), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUSTADT_(HESSEN)/)
 </script>
+<script type="text/javascript">

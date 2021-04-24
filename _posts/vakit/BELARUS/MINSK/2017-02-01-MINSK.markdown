@@ -8,10 +8,11 @@ permalink: /BELARUS/MINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MINSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'MINSK';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'MINSK';
+* [ (MINSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MINSK/)
 </script>
+<script type="text/javascript">

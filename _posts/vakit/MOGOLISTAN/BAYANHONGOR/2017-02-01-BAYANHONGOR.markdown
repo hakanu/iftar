@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/BAYANHONGOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYANHONGOR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BAYANHONGOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'BAYANHONGOR';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'BAYANHONGOR';
+* [ (BAYANHONGOR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BAYANHONGOR/)
 </script>
+<script type="text/javascript">

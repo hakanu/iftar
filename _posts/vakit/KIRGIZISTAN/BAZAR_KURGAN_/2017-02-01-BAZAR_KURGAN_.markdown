@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/BAZAR KURGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAZAR_KURGAN_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BAZAR_KURGAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'BAZAR KURGAN ';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'BAZAR KURGAN ';
+* [ (BAZAR_KURGAN_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BAZAR_KURGAN_/)
 </script>
+<script type="text/javascript">

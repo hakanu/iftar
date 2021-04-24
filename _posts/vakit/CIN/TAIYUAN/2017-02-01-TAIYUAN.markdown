@@ -8,10 +8,11 @@ permalink: /CIN/TAIYUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAIYUAN, CIN) için iftar ve namaz vakitleri](/CIN/TAIYUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'TAIYUAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'TAIYUAN';
+* [ (TAIYUAN, CIN) için iftar ve namaz vakitleri](/CIN/TAIYUAN/)
 </script>
+<script type="text/javascript">

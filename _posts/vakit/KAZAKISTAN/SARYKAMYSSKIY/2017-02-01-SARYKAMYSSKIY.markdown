@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/SARYKAMYSSKIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARYKAMYSSKIY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SARYKAMYSSKIY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'SARYKAMYSSKIY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'SARYKAMYSSKIY';
+* [ (SARYKAMYSSKIY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SARYKAMYSSKIY/)
 </script>
+<script type="text/javascript">

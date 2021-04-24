@@ -8,10 +8,11 @@ permalink: /LETONYA/TUKUMS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TUKUMS, LETONYA) için iftar ve namaz vakitleri](/LETONYA/TUKUMS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'TUKUMS';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'TUKUMS';
+* [ (TUKUMS, LETONYA) için iftar ve namaz vakitleri](/LETONYA/TUKUMS/)
 </script>
+<script type="text/javascript">

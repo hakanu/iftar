@@ -8,10 +8,11 @@ permalink: /LITVANYA/BIRSTONAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIRSTONAS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/BIRSTONAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'BIRSTONAS';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'BIRSTONAS';
+* [ (BIRSTONAS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/BIRSTONAS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEUKIRCHEN (NRW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUKIRCHEN_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUKIRCHEN_(NRW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEUKIRCHEN (NRW)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEUKIRCHEN (NRW)';
+* [ (NEUKIRCHEN_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUKIRCHEN_(NRW)/)
 </script>
+<script type="text/javascript">

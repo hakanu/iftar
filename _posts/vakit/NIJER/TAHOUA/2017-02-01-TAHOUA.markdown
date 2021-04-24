@@ -8,10 +8,11 @@ permalink: /NIJER/TAHOUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAHOUA, NIJER) için iftar ve namaz vakitleri](/NIJER/TAHOUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJER';
+
   var GLOBAL_CITY = 'TAHOUA';
+  var GLOBAL_COUNTRY = 'NIJER';
   var GLOBAL_STATE = 'TAHOUA';
+* [ (TAHOUA, NIJER) için iftar ve namaz vakitleri](/NIJER/TAHOUA/)
 </script>
+<script type="text/javascript">

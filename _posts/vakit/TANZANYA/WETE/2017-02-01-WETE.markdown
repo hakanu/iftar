@@ -8,10 +8,11 @@ permalink: /TANZANYA/WETE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WETE, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/WETE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'WETE';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'WETE';
+* [ (WETE, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/WETE/)
 </script>
+<script type="text/javascript">

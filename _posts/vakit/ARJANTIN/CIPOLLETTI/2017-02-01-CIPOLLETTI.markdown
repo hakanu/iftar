@@ -8,10 +8,11 @@ permalink: /ARJANTIN/CIPOLLETTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIPOLLETTI, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CIPOLLETTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'CIPOLLETTI';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'CIPOLLETTI';
+* [ (CIPOLLETTI, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CIPOLLETTI/)
 </script>
+<script type="text/javascript">

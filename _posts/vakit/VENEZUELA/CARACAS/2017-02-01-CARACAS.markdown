@@ -8,10 +8,11 @@ permalink: /VENEZUELA/CARACAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARACAS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CARACAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'CARACAS';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'CARACAS';
+* [ (CARACAS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CARACAS/)
 </script>
+<script type="text/javascript">

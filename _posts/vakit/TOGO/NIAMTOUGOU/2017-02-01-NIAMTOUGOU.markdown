@@ -8,10 +8,11 @@ permalink: /TOGO/NIAMTOUGOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIAMTOUGOU, TOGO) için iftar ve namaz vakitleri](/TOGO/NIAMTOUGOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TOGO';
+
   var GLOBAL_CITY = 'NIAMTOUGOU';
+  var GLOBAL_COUNTRY = 'TOGO';
   var GLOBAL_STATE = 'NIAMTOUGOU';
+* [ (NIAMTOUGOU, TOGO) için iftar ve namaz vakitleri](/TOGO/NIAMTOUGOU/)
 </script>
+<script type="text/javascript">

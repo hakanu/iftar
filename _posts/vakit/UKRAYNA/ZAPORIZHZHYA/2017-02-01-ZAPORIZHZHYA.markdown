@@ -8,10 +8,11 @@ permalink: /UKRAYNA/ZAPORIZHZHYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAPORIZHZHYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZAPORIZHZHYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'ZAPORIZHZHYA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'ZAPORIZHZHYA';
+* [ (ZAPORIZHZHYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZAPORIZHZHYA/)
 </script>
+<script type="text/javascript">

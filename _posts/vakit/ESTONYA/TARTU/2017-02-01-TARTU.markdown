@@ -8,10 +8,11 @@ permalink: /ESTONYA/TARTU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARTU, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TARTU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'TARTU';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'TARTU';
+* [ (TARTU, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TARTU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/PETROZAVODSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETROZAVODSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PETROZAVODSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PETROZAVODSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PETROZAVODSK';
+* [ (PETROZAVODSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PETROZAVODSK/)
 </script>
+<script type="text/javascript">

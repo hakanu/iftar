@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/YANGIYUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YANGIYUL_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/YANGIYUL_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'YANGIYUL ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'YANGIYUL ';
+* [ (YANGIYUL_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/YANGIYUL_/)
 </script>
+<script type="text/javascript">

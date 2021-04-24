@@ -8,10 +8,11 @@ permalink: /JAPONYA/KAWAGOE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAWAGOE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KAWAGOE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KAWAGOE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KAWAGOE';
+* [ (KAWAGOE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KAWAGOE/)
 </script>
+<script type="text/javascript">

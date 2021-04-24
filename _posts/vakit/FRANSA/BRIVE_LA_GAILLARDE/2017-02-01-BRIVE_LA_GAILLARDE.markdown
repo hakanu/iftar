@@ -8,10 +8,11 @@ permalink: /FRANSA/BRIVE LA GAILLARDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIVE_LA_GAILLARDE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIVE_LA_GAILLARDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BRIVE LA GAILLARDE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BRIVE LA GAILLARDE';
+* [ (BRIVE_LA_GAILLARDE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIVE_LA_GAILLARDE/)
 </script>
+<script type="text/javascript">

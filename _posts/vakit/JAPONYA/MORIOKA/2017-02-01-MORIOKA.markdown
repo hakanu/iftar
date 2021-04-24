@@ -8,10 +8,11 @@ permalink: /JAPONYA/MORIOKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORIOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MORIOKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'MORIOKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'MORIOKA';
+* [ (MORIOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MORIOKA/)
 </script>
+<script type="text/javascript">

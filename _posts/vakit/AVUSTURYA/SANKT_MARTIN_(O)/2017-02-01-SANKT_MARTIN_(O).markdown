@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SANKT MARTIN (O)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANKT_MARTIN_(O), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SANKT_MARTIN_(O)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SANKT MARTIN (O)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SANKT MARTIN (O)';
+* [ (SANKT_MARTIN_(O), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SANKT_MARTIN_(O)/)
 </script>
+<script type="text/javascript">

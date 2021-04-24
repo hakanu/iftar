@@ -8,10 +8,11 @@ permalink: /ESTONYA/KURESSAARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURESSAARE, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/KURESSAARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'KURESSAARE';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'KURESSAARE';
+* [ (KURESSAARE, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/KURESSAARE/)
 </script>
+<script type="text/javascript">

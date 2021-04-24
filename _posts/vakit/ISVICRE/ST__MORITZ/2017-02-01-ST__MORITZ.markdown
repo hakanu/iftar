@@ -8,10 +8,11 @@ permalink: /ISVICRE/ST_ MORITZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__MORITZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ST__MORITZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ST_ MORITZ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ST_ MORITZ';
+* [ (ST__MORITZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ST__MORITZ/)
 </script>
+<script type="text/javascript">

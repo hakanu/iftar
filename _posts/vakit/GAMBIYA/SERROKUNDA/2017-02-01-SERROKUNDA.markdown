@@ -8,10 +8,11 @@ permalink: /GAMBIYA/SERROKUNDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SERROKUNDA, GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/SERROKUNDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GAMBIYA';
+
   var GLOBAL_CITY = 'SERROKUNDA';
+  var GLOBAL_COUNTRY = 'GAMBIYA';
   var GLOBAL_STATE = 'SERROKUNDA';
+* [ (SERROKUNDA, GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/SERROKUNDA/)
 </script>
+<script type="text/javascript">

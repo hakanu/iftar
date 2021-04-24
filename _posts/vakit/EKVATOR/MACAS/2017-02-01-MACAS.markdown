@@ -8,10 +8,11 @@ permalink: /EKVATOR/MACAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MACAS, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/MACAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'MACAS';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'MACAS';
+* [ (MACAS, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/MACAS/)
 </script>
+<script type="text/javascript">

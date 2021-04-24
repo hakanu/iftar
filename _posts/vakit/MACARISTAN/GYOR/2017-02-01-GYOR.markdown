@@ -8,10 +8,11 @@ permalink: /MACARISTAN/GYOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GYOR, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/GYOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'GYOR';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'GYOR';
+* [ (GYOR, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/GYOR/)
 </script>
+<script type="text/javascript">

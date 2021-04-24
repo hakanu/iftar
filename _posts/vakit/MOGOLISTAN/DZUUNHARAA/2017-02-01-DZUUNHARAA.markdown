@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/DZUUNHARAA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DZUUNHARAA, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/DZUUNHARAA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'DZUUNHARAA';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'DZUUNHARAA';
+* [ (DZUUNHARAA, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/DZUUNHARAA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/CZESTOCHOWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CZESTOCHOWA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/CZESTOCHOWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'CZESTOCHOWA';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'CZESTOCHOWA';
+* [ (CZESTOCHOWA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/CZESTOCHOWA/)
 </script>
+<script type="text/javascript">

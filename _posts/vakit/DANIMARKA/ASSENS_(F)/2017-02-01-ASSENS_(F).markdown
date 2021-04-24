@@ -8,10 +8,11 @@ permalink: /DANIMARKA/ASSENS (F)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASSENS_(F), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ASSENS_(F)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'ASSENS (F)';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'ASSENS (F)';
+* [ (ASSENS_(F), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ASSENS_(F)/)
 </script>
+<script type="text/javascript">

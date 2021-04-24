@@ -8,10 +8,11 @@ permalink: /RUSYA/KARACHAYEVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARACHAYEVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KARACHAYEVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KARACHAYEVSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KARACHAYEVSK';
+* [ (KARACHAYEVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KARACHAYEVSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/SIMMERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIMMERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIMMERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SIMMERN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SIMMERN';
+* [ (SIMMERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIMMERN/)
 </script>
+<script type="text/javascript">

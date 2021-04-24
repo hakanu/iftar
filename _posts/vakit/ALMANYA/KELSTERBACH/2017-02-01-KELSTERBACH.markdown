@@ -8,10 +8,11 @@ permalink: /ALMANYA/KELSTERBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KELSTERBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KELSTERBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KELSTERBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KELSTERBACH';
+* [ (KELSTERBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KELSTERBACH/)
 </script>
+<script type="text/javascript">

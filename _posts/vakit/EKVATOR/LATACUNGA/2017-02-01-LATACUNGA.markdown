@@ -8,10 +8,11 @@ permalink: /EKVATOR/LATACUNGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LATACUNGA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/LATACUNGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'LATACUNGA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'LATACUNGA';
+* [ (LATACUNGA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/LATACUNGA/)
 </script>
+<script type="text/javascript">

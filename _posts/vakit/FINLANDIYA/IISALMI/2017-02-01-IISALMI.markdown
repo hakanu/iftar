@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/IISALMI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IISALMI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/IISALMI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'IISALMI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'IISALMI';
+* [ (IISALMI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/IISALMI/)
 </script>
+<script type="text/javascript">

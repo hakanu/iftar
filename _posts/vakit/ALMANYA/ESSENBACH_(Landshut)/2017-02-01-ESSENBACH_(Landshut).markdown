@@ -8,10 +8,11 @@ permalink: /ALMANYA/ESSENBACH (Landshut)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESSENBACH_(Landshut), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESSENBACH_(Landshut)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ESSENBACH (Landshut)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ESSENBACH (Landshut)';
+* [ (ESSENBACH_(Landshut), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESSENBACH_(Landshut)/)
 </script>
+<script type="text/javascript">

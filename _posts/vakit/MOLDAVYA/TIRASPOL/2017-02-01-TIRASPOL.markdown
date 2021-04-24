@@ -8,10 +8,11 @@ permalink: /MOLDAVYA/TIRASPOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIRASPOL, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIRASPOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOLDAVYA';
+
   var GLOBAL_CITY = 'TIRASPOL';
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
   var GLOBAL_STATE = 'TIRASPOL';
+* [ (TIRASPOL, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIRASPOL/)
 </script>
+<script type="text/javascript">

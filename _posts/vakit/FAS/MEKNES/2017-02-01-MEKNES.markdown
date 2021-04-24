@@ -8,10 +8,11 @@ permalink: /FAS/MEKNES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEKNES, FAS) için iftar ve namaz vakitleri](/FAS/MEKNES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'MEKNES';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'MEKNES';
+* [ (MEKNES, FAS) için iftar ve namaz vakitleri](/FAS/MEKNES/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/CABANATUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CABANATUAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/CABANATUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'CABANATUAN';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'CABANATUAN';
+* [ (CABANATUAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/CABANATUAN/)
 </script>
+<script type="text/javascript">

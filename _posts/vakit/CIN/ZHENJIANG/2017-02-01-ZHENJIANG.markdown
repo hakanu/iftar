@@ -8,10 +8,11 @@ permalink: /CIN/ZHENJIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHENJIANG, CIN) için iftar ve namaz vakitleri](/CIN/ZHENJIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZHENJIANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZHENJIANG';
+* [ (ZHENJIANG, CIN) için iftar ve namaz vakitleri](/CIN/ZHENJIANG/)
 </script>
+<script type="text/javascript">

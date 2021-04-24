@@ -8,10 +8,11 @@ permalink: /ALMANYA/BERGISH-GLADBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERGISH-GLADBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERGISH-GLADBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BERGISH-GLADBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BERGISH-GLADBACH';
+* [ (BERGISH-GLADBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERGISH-GLADBACH/)
 </script>
+<script type="text/javascript">

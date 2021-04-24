@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VLAARDINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VLAARDINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VLAARDINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VLAARDINGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VLAARDINGEN';
+* [ (VLAARDINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VLAARDINGEN/)
 </script>
+<script type="text/javascript">

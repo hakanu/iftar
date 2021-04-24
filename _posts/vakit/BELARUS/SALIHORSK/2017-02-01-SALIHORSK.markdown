@@ -8,10 +8,11 @@ permalink: /BELARUS/SALIHORSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALIHORSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/SALIHORSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'SALIHORSK';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'SALIHORSK';
+* [ (SALIHORSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/SALIHORSK/)
 </script>
+<script type="text/javascript">

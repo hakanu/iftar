@@ -8,10 +8,11 @@ permalink: /TAYLAND/CHIANG MAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIANG_MAI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/CHIANG_MAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'CHIANG MAI';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'CHIANG MAI';
+* [ (CHIANG_MAI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/CHIANG_MAI/)
 </script>
+<script type="text/javascript">

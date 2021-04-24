@@ -8,10 +8,11 @@ permalink: /JAPONYA/NAZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAZE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAZE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NAZE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NAZE';
+* [ (NAZE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAZE/)
 </script>
+<script type="text/javascript">

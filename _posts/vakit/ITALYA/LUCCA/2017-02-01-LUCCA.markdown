@@ -8,10 +8,11 @@ permalink: /ITALYA/LUCCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUCCA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LUCCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'LUCCA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'LUCCA';
+* [ (LUCCA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LUCCA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/VANDFLOD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VANDFLOD, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VANDFLOD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'VANDFLOD';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'VANDFLOD';
+* [ (VANDFLOD, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VANDFLOD/)
 </script>
+<script type="text/javascript">

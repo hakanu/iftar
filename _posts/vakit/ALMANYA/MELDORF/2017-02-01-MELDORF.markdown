@@ -8,10 +8,11 @@ permalink: /ALMANYA/MELDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MELDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MELDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MELDORF';
+* [ (MELDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MELDORF/)
 </script>
+<script type="text/javascript">

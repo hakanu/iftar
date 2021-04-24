@@ -8,15 +8,16 @@ permalink: /TÜRKİYE/KARAMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KARAMAN (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/KARAMAN)
-* [AYRANCI (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/AYRANCI)
-* [KAZIMKARABEKİR (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/KAZIMKARABEKİR)
-* [BAŞYAYLA (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/BAŞYAYLA)
-* [SARIVELİLER (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/SARIVELİLER)
-* [ERMENEK (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/ERMENEK)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'KARAMAN';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'KARAMAN';
+* [AYRANCI (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/AYRANCI)
+* [BAŞYAYLA (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/BAŞYAYLA)
+* [ERMENEK (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/ERMENEK)
+* [KARAMAN (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/KARAMAN)
+* [KAZIMKARABEKİR (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/KAZIMKARABEKİR)
+* [SARIVELİLER (KARAMAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KARAMAN/SARIVELİLER)
 </script>
+<script type="text/javascript">

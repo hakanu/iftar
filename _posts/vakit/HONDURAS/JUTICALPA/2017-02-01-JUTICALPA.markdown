@@ -8,10 +8,11 @@ permalink: /HONDURAS/JUTICALPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUTICALPA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/JUTICALPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'JUTICALPA';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'JUTICALPA';
+* [ (JUTICALPA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/JUTICALPA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LITVANYA/SIRVINTOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIRVINTOS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/SIRVINTOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'SIRVINTOS';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'SIRVINTOS';
+* [ (SIRVINTOS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/SIRVINTOS/)
 </script>
+<script type="text/javascript">

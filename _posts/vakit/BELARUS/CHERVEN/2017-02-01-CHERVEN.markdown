@@ -8,10 +8,11 @@ permalink: /BELARUS/CHERVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHERVEN, BELARUS) için iftar ve namaz vakitleri](/BELARUS/CHERVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'CHERVEN';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'CHERVEN';
+* [ (CHERVEN, BELARUS) için iftar ve namaz vakitleri](/BELARUS/CHERVEN/)
 </script>
+<script type="text/javascript">

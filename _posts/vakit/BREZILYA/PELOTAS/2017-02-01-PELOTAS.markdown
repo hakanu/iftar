@@ -8,10 +8,11 @@ permalink: /BREZILYA/PELOTAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PELOTAS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PELOTAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PELOTAS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PELOTAS';
+* [ (PELOTAS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PELOTAS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NORVEC/SKIEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SKIEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SKIEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SKIEN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SKIEN';
+* [ (SKIEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SKIEN/)
 </script>
+<script type="text/javascript">

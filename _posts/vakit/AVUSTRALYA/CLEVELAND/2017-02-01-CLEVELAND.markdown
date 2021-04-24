@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CLEVELAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CLEVELAND, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CLEVELAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CLEVELAND';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CLEVELAND';
+* [ (CLEVELAND, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CLEVELAND/)
 </script>
+<script type="text/javascript">

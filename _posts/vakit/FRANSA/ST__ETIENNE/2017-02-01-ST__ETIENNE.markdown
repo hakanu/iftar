@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_ ETIENNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__ETIENNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__ETIENNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_ ETIENNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_ ETIENNE';
+* [ (ST__ETIENNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__ETIENNE/)
 </script>
+<script type="text/javascript">

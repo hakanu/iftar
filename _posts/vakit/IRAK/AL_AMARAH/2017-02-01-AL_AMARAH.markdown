@@ -8,10 +8,11 @@ permalink: /IRAK/AL AMARAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_AMARAH, IRAK) için iftar ve namaz vakitleri](/IRAK/AL_AMARAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'AL AMARAH';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'AL AMARAH';
+* [ (AL_AMARAH, IRAK) için iftar ve namaz vakitleri](/IRAK/AL_AMARAH/)
 </script>
+<script type="text/javascript">

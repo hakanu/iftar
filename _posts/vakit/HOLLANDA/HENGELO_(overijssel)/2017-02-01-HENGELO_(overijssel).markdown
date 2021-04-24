@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HENGELO (overijssel)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HENGELO_(overijssel), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HENGELO_(overijssel)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HENGELO (overijssel)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HENGELO (overijssel)';
+* [ (HENGELO_(overijssel), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HENGELO_(overijssel)/)
 </script>
+<script type="text/javascript">

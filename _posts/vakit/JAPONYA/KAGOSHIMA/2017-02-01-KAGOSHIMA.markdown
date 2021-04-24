@@ -8,10 +8,11 @@ permalink: /JAPONYA/KAGOSHIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAGOSHIMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KAGOSHIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KAGOSHIMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KAGOSHIMA';
+* [ (KAGOSHIMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KAGOSHIMA/)
 </script>
+<script type="text/javascript">

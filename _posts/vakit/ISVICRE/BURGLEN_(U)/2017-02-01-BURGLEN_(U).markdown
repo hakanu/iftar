@@ -8,10 +8,11 @@ permalink: /ISVICRE/BURGLEN (U)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURGLEN_(U), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BURGLEN_(U)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BURGLEN (U)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BURGLEN (U)';
+* [ (BURGLEN_(U), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BURGLEN_(U)/)
 </script>
+<script type="text/javascript">

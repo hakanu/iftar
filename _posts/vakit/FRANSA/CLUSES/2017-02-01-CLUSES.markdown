@@ -8,10 +8,11 @@ permalink: /FRANSA/CLUSES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CLUSES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CLUSES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CLUSES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CLUSES';
+* [ (CLUSES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CLUSES/)
 </script>
+<script type="text/javascript">

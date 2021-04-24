@@ -8,10 +8,11 @@ permalink: /ISVICRE/BUCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BUCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BUCH';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BUCH';
+* [ (BUCH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BUCH/)
 </script>
+<script type="text/javascript">

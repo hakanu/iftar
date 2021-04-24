@@ -8,10 +8,11 @@ permalink: /EKVATOR/MACHALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MACHALA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/MACHALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'MACHALA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'MACHALA';
+* [ (MACHALA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/MACHALA/)
 </script>
+<script type="text/javascript">

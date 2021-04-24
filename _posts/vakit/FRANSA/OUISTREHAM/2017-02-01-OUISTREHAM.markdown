@@ -8,10 +8,11 @@ permalink: /FRANSA/OUISTREHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUISTREHAM, FRANSA) için iftar ve namaz vakitleri](/FRANSA/OUISTREHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'OUISTREHAM';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'OUISTREHAM';
+* [ (OUISTREHAM, FRANSA) için iftar ve namaz vakitleri](/FRANSA/OUISTREHAM/)
 </script>
+<script type="text/javascript">

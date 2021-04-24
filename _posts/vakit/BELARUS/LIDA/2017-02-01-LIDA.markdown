@@ -8,10 +8,11 @@ permalink: /BELARUS/LIDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIDA, BELARUS) için iftar ve namaz vakitleri](/BELARUS/LIDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'LIDA';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'LIDA';
+* [ (LIDA, BELARUS) için iftar ve namaz vakitleri](/BELARUS/LIDA/)
 </script>
+<script type="text/javascript">

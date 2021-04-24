@@ -8,10 +8,11 @@ permalink: /EKVATOR/TULCAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULCAN, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/TULCAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'TULCAN';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'TULCAN';
+* [ (TULCAN, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/TULCAN/)
 </script>
+<script type="text/javascript">

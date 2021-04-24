@@ -8,10 +8,11 @@ permalink: /VENEZUELA/GUACARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUACARA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/GUACARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'GUACARA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'GUACARA';
+* [ (GUACARA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/GUACARA/)
 </script>
+<script type="text/javascript">

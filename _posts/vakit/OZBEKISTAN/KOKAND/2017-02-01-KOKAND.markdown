@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KOKAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOKAND, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KOKAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KOKAND';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KOKAND';
+* [ (KOKAND, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KOKAND/)
 </script>
+<script type="text/javascript">

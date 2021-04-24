@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/BANSKA BYSTRICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANSKA_BYSTRICA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BANSKA_BYSTRICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'BANSKA BYSTRICA';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'BANSKA BYSTRICA';
+* [ (BANSKA_BYSTRICA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BANSKA_BYSTRICA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/ROCHEFORT (P)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROCHEFORT_(P), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROCHEFORT_(P)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ROCHEFORT (P)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ROCHEFORT (P)';
+* [ (ROCHEFORT_(P), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROCHEFORT_(P)/)
 </script>
+<script type="text/javascript">

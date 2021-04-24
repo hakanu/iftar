@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/ELBASAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELBASAN, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/ELBASAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'ELBASAN';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'ELBASAN';
+* [ (ELBASAN, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/ELBASAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/MONYWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONYWA, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/MONYWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'MONYWA';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'MONYWA';
+* [ (MONYWA, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/MONYWA/)
 </script>
+<script type="text/javascript">

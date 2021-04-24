@@ -8,10 +8,11 @@ permalink: /ALMANYA/WERMELSKIRCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WERMELSKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERMELSKIRCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WERMELSKIRCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WERMELSKIRCHEN';
+* [ (WERMELSKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERMELSKIRCHEN/)
 </script>
+<script type="text/javascript">

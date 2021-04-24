@@ -8,10 +8,11 @@ permalink: /UKRAYNA/ALCHEVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALCHEVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ALCHEVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'ALCHEVSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'ALCHEVSK';
+* [ (ALCHEVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ALCHEVSK/)
 </script>
+<script type="text/javascript">

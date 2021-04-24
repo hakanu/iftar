@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD KREUZNACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_KREUZNACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_KREUZNACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD KREUZNACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD KREUZNACH';
+* [ (BAD_KREUZNACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_KREUZNACH/)
 </script>
+<script type="text/javascript">

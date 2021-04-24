@@ -8,10 +8,11 @@ permalink: /ITALYA/REGGIO DI CALABRIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REGGIO_DI_CALABRIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/REGGIO_DI_CALABRIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'REGGIO DI CALABRIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'REGGIO DI CALABRIA';
+* [ (REGGIO_DI_CALABRIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/REGGIO_DI_CALABRIA/)
 </script>
+<script type="text/javascript">

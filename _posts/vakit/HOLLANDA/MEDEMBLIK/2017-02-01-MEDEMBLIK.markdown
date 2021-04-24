@@ -8,10 +8,11 @@ permalink: /HOLLANDA/MEDEMBLIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEDEMBLIK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MEDEMBLIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'MEDEMBLIK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'MEDEMBLIK';
+* [ (MEDEMBLIK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MEDEMBLIK/)
 </script>
+<script type="text/javascript">

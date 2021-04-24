@@ -8,10 +8,11 @@ permalink: /ISVICRE/BASEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASEL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BASEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BASEL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BASEL';
+* [ (BASEL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BASEL/)
 </script>
+<script type="text/javascript">

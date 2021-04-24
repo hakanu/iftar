@@ -8,10 +8,11 @@ permalink: /BOLIVYA/VINTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VINTO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/VINTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'VINTO';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'VINTO';
+* [ (VINTO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/VINTO/)
 </script>
+<script type="text/javascript">

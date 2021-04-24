@@ -8,10 +8,11 @@ permalink: /ALMANYA/IMMENSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IMMENSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IMMENSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'IMMENSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'IMMENSTADT';
+* [ (IMMENSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IMMENSTADT/)
 </script>
+<script type="text/javascript">

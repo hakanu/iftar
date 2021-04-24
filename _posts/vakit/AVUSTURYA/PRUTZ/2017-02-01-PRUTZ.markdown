@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/PRUTZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PRUTZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/PRUTZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'PRUTZ';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'PRUTZ';
+* [ (PRUTZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/PRUTZ/)
 </script>
+<script type="text/javascript">

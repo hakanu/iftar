@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/DIMITROVORAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIMITROVORAD, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/DIMITROVORAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'DIMITROVORAD';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'DIMITROVORAD';
+* [ (DIMITROVORAD, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/DIMITROVORAD/)
 </script>
+<script type="text/javascript">

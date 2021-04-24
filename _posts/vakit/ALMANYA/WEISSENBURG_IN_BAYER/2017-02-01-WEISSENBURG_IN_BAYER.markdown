@@ -8,10 +8,11 @@ permalink: /ALMANYA/WEISSENBURG IN BAYER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEISSENBURG_IN_BAYER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEISSENBURG_IN_BAYER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WEISSENBURG IN BAYER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WEISSENBURG IN BAYER';
+* [ (WEISSENBURG_IN_BAYER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEISSENBURG_IN_BAYER/)
 </script>
+<script type="text/javascript">

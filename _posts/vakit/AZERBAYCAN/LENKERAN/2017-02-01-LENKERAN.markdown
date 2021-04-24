@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/LENKERAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENKERAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/LENKERAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'LENKERAN';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'LENKERAN';
+* [ (LENKERAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/LENKERAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ACHERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ACHERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ACHERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ACHERN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ACHERN';
+* [ (ACHERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ACHERN/)
 </script>
+<script type="text/javascript">

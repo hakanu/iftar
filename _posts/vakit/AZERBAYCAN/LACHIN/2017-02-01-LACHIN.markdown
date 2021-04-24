@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/LACHIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LACHIN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/LACHIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'LACHIN';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'LACHIN';
+* [ (LACHIN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/LACHIN/)
 </script>
+<script type="text/javascript">

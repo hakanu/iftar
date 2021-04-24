@@ -8,10 +8,11 @@ permalink: /BELCIKA/GEEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/GEEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'GEEL';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'GEEL';
+* [ (GEEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/GEEL/)
 </script>
+<script type="text/javascript">

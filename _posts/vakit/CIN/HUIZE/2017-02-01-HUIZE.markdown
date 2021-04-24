@@ -8,10 +8,11 @@ permalink: /CIN/HUIZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUIZE, CIN) için iftar ve namaz vakitleri](/CIN/HUIZE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HUIZE';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HUIZE';
+* [ (HUIZE, CIN) için iftar ve namaz vakitleri](/CIN/HUIZE/)
 </script>
+<script type="text/javascript">

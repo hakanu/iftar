@@ -8,10 +8,11 @@ permalink: /FRANSA/METZERVISSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (METZERVISSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/METZERVISSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'METZERVISSE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'METZERVISSE';
+* [ (METZERVISSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/METZERVISSE/)
 </script>
+<script type="text/javascript">

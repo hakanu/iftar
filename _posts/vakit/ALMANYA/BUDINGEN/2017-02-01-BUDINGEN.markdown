@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUDINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUDINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUDINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUDINGEN';
+* [ (BUDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUDINGEN/)
 </script>
+<script type="text/javascript">

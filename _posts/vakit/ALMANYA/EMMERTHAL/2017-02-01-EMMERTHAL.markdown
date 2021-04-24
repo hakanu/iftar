@@ -8,10 +8,11 @@ permalink: /ALMANYA/EMMERTHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMMERTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMMERTHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EMMERTHAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EMMERTHAL';
+* [ (EMMERTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMMERTHAL/)
 </script>
+<script type="text/javascript">

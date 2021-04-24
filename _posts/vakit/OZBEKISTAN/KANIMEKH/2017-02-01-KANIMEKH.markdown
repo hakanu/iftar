@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KANIMEKH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANIMEKH, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KANIMEKH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KANIMEKH';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KANIMEKH';
+* [ (KANIMEKH, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KANIMEKH/)
 </script>
+<script type="text/javascript">

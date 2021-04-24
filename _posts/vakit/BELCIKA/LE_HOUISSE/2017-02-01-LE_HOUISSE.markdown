@@ -8,10 +8,11 @@ permalink: /BELCIKA/LE HOUISSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_HOUISSE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LE_HOUISSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LE HOUISSE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LE HOUISSE';
+* [ (LE_HOUISSE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LE_HOUISSE/)
 </script>
+<script type="text/javascript">

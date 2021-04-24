@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BAYSWATER (Perth)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYSWATER_(Perth), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BAYSWATER_(Perth)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BAYSWATER (Perth)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BAYSWATER (Perth)';
+* [ (BAYSWATER_(Perth), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BAYSWATER_(Perth)/)
 </script>
+<script type="text/javascript">

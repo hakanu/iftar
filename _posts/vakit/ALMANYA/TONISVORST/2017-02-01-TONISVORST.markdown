@@ -8,10 +8,11 @@ permalink: /ALMANYA/TONISVORST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TONISVORST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TONISVORST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TONISVORST';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TONISVORST';
+* [ (TONISVORST, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TONISVORST/)
 </script>
+<script type="text/javascript">

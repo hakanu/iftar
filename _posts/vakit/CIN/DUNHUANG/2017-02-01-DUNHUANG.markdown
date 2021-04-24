@@ -8,10 +8,11 @@ permalink: /CIN/DUNHUANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUNHUANG, CIN) için iftar ve namaz vakitleri](/CIN/DUNHUANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DUNHUANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DUNHUANG';
+* [ (DUNHUANG, CIN) için iftar ve namaz vakitleri](/CIN/DUNHUANG/)
 </script>
+<script type="text/javascript">

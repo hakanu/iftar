@@ -8,10 +8,11 @@ permalink: /MACARISTAN/HODMEZOVASARHELY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HODMEZOVASARHELY, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/HODMEZOVASARHELY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'HODMEZOVASARHELY';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'HODMEZOVASARHELY';
+* [ (HODMEZOVASARHELY, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/HODMEZOVASARHELY/)
 </script>
+<script type="text/javascript">

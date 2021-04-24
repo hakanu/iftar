@@ -8,10 +8,11 @@ permalink: /INGILTERE/LEWES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEWES, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LEWES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LEWES';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LEWES';
+* [ (LEWES, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LEWES/)
 </script>
+<script type="text/javascript">

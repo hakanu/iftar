@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHLUCHTERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHLUCHTERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHLUCHTERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHLUCHTERN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHLUCHTERN';
+* [ (SCHLUCHTERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHLUCHTERN/)
 </script>
+<script type="text/javascript">

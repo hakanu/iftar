@@ -8,10 +8,11 @@ permalink: /HINDISTAN/RAURKELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAURKELA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAURKELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'RAURKELA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'RAURKELA';
+* [ (RAURKELA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAURKELA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NORVEC/SANDEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANDEID, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SANDEID';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SANDEID';
+* [ (SANDEID, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDEID/)
 </script>
+<script type="text/javascript">

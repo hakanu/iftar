@@ -8,21 +8,22 @@ permalink: /ABD/MISSOURI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MARYVILLE (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/MARYVILLE)
-* [BELTON_____________ (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/BELTON_____________)
+
+
+  var GLOBAL_CITY = 'MISSOURI';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'MISSOURI';
 * [ANDERSON (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/ANDERSON)
-* [ROLLA (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/ROLLA)
+* [BELTON_____________ (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/BELTON_____________)
 * [COLUMBIA (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/COLUMBIA)
+* [COLUMBUS (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/COLUMBUS)
 * [JEFFERSON_CITY (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/JEFFERSON_CITY)
-* [ST__LOUIS (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/ST__LOUIS)
+* [KANSAS_CITY (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/KANSAS_CITY)
+* [LIBERTY_ (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/LIBERTY_)
+* [MARYVILLE (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/MARYVILLE)
+* [ROLLA (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/ROLLA)
 * [SPRINGFIELD (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/SPRINGFIELD)
 * [ST__JOSEPH (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/ST__JOSEPH)
-* [COLUMBUS (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/COLUMBUS)
-* [LIBERTY_ (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/LIBERTY_)
-* [KANSAS_CITY (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/KANSAS_CITY)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'MISSOURI';
-  var GLOBAL_STATE = 'MISSOURI';
+* [ST__LOUIS (MISSOURI, ABD) için iftar ve namaz vakitleri](/ABD/MISSOURI/ST__LOUIS)
 </script>
+<script type="text/javascript">

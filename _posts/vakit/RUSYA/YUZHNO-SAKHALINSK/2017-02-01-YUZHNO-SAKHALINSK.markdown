@@ -8,10 +8,11 @@ permalink: /RUSYA/YUZHNO-SAKHALINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YUZHNO-SAKHALINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YUZHNO-SAKHALINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'YUZHNO-SAKHALINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'YUZHNO-SAKHALINSK';
+* [ (YUZHNO-SAKHALINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YUZHNO-SAKHALINSK/)
 </script>
+<script type="text/javascript">

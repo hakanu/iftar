@@ -8,10 +8,11 @@ permalink: /MEKSIKA/PACHUCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PACHUCA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PACHUCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'PACHUCA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'PACHUCA';
+* [ (PACHUCA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PACHUCA/)
 </script>
+<script type="text/javascript">

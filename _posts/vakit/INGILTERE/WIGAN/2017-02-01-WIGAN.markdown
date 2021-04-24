@@ -8,10 +8,11 @@ permalink: /INGILTERE/WIGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WIGAN, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WIGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WIGAN';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WIGAN';
+* [ (WIGAN, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WIGAN/)
 </script>
+<script type="text/javascript">

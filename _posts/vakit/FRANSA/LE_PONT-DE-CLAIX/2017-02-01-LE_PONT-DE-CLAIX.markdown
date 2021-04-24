@@ -8,10 +8,11 @@ permalink: /FRANSA/LE PONT-DE-CLAIX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_PONT-DE-CLAIX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PONT-DE-CLAIX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE PONT-DE-CLAIX';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE PONT-DE-CLAIX';
+* [ (LE_PONT-DE-CLAIX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PONT-DE-CLAIX/)
 </script>
+<script type="text/javascript">

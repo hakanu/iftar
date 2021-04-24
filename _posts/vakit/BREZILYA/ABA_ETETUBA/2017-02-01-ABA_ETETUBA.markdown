@@ -8,10 +8,11 @@ permalink: /BREZILYA/ABA ETETUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABA_ETETUBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ABA_ETETUBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ABA ETETUBA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ABA ETETUBA';
+* [ (ABA_ETETUBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ABA_ETETUBA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PONTIANAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONTIANAK, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PONTIANAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PONTIANAK';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PONTIANAK';
+* [ (PONTIANAK, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PONTIANAK/)
 </script>
+<script type="text/javascript">

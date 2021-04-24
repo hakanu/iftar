@@ -8,10 +8,11 @@ permalink: /LAOS/VIENTIANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIENTIANE, LAOS) için iftar ve namaz vakitleri](/LAOS/VIENTIANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LAOS';
+
   var GLOBAL_CITY = 'VIENTIANE';
+  var GLOBAL_COUNTRY = 'LAOS';
   var GLOBAL_STATE = 'VIENTIANE';
+* [ (VIENTIANE, LAOS) için iftar ve namaz vakitleri](/LAOS/VIENTIANE/)
 </script>
+<script type="text/javascript">

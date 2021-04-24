@@ -8,10 +8,11 @@ permalink: /ALMANYA/HAIBACH (Aschafenburg)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAIBACH_(Aschafenburg), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAIBACH_(Aschafenburg)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HAIBACH (Aschafenburg)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HAIBACH (Aschafenburg)';
+* [ (HAIBACH_(Aschafenburg), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAIBACH_(Aschafenburg)/)
 </script>
+<script type="text/javascript">

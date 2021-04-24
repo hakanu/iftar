@@ -8,10 +8,11 @@ permalink: /BREZILYA/BARRA MANSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARRA_MANSA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BARRA_MANSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BARRA MANSA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BARRA MANSA';
+* [ (BARRA_MANSA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BARRA_MANSA/)
 </script>
+<script type="text/javascript">

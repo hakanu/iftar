@@ -8,10 +8,11 @@ permalink: /MALEZYA/TELUK INTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TELUK_INTAN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/TELUK_INTAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'TELUK INTAN';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'TELUK INTAN';
+* [ (TELUK_INTAN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/TELUK_INTAN/)
 </script>
+<script type="text/javascript">

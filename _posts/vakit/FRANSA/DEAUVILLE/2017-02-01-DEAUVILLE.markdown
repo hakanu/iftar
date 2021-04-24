@@ -8,10 +8,11 @@ permalink: /FRANSA/DEAUVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEAUVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DEAUVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DEAUVILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DEAUVILLE';
+* [ (DEAUVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DEAUVILLE/)
 </script>
+<script type="text/javascript">

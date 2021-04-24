@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/PONTA DELGADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONTA_DELGADA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/PONTA_DELGADA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'PONTA DELGADA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'PONTA DELGADA';
+* [ (PONTA_DELGADA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/PONTA_DELGADA/)
 </script>
+<script type="text/javascript">

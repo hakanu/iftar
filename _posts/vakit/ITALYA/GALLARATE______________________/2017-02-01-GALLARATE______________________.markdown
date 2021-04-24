@@ -8,10 +8,11 @@ permalink: /ITALYA/GALLARATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GALLARATE______________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GALLARATE______________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'GALLARATE                      ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'GALLARATE                      ';
+* [ (GALLARATE______________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GALLARATE______________________/)
 </script>
+<script type="text/javascript">

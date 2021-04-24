@@ -8,10 +8,11 @@ permalink: /HINDISTAN/CUTTACK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUTTACK, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CUTTACK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'CUTTACK';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'CUTTACK';
+* [ (CUTTACK, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CUTTACK/)
 </script>
+<script type="text/javascript">

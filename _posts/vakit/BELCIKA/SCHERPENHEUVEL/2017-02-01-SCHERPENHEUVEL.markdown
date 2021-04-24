@@ -8,10 +8,11 @@ permalink: /BELCIKA/SCHERPENHEUVEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHERPENHEUVEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SCHERPENHEUVEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'SCHERPENHEUVEL';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'SCHERPENHEUVEL';
+* [ (SCHERPENHEUVEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SCHERPENHEUVEL/)
 </script>
+<script type="text/javascript">

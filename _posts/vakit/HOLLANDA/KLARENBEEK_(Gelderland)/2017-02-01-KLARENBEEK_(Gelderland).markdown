@@ -8,10 +8,11 @@ permalink: /HOLLANDA/KLARENBEEK (Gelderland)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLARENBEEK_(Gelderland), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KLARENBEEK_(Gelderland)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'KLARENBEEK (Gelderland)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'KLARENBEEK (Gelderland)';
+* [ (KLARENBEEK_(Gelderland), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KLARENBEEK_(Gelderland)/)
 </script>
+<script type="text/javascript">

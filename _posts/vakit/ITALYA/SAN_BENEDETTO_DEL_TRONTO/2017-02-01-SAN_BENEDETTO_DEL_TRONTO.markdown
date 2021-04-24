@@ -8,10 +8,11 @@ permalink: /ITALYA/SAN BENEDETTO DEL TRONTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_BENEDETTO_DEL_TRONTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SAN_BENEDETTO_DEL_TRONTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SAN BENEDETTO DEL TRONTO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SAN BENEDETTO DEL TRONTO';
+* [ (SAN_BENEDETTO_DEL_TRONTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SAN_BENEDETTO_DEL_TRONTO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BETTENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BETTENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BETTENHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BETTENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BETTENHAUSEN';
+* [ (BETTENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BETTENHAUSEN/)
 </script>
+<script type="text/javascript">

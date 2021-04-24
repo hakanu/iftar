@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUCKEBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCKEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCKEBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUCKEBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUCKEBURG';
+* [ (BUCKEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCKEBURG/)
 </script>
+<script type="text/javascript">

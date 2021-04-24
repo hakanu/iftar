@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BUNNIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUNNIK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BUNNIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BUNNIK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BUNNIK';
+* [ (BUNNIK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BUNNIK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /VENEZUELA/BARCELONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARCELONA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARCELONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'BARCELONA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'BARCELONA';
+* [ (BARCELONA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARCELONA/)
 </script>
+<script type="text/javascript">

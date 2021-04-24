@@ -8,10 +8,11 @@ permalink: /BREZILYA/ATIBAIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATIBAIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ATIBAIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ATIBAIA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ATIBAIA';
+* [ (ATIBAIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ATIBAIA/)
 </script>
+<script type="text/javascript">

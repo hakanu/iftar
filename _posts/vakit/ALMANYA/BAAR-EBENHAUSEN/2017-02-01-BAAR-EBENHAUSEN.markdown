@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAAR-EBENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAAR-EBENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAAR-EBENHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAAR-EBENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAAR-EBENHAUSEN';
+* [ (BAAR-EBENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAAR-EBENHAUSEN/)
 </script>
+<script type="text/javascript">

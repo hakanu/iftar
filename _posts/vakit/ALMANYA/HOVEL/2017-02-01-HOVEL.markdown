@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOVEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOVEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOVEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOVEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOVEL';
+* [ (HOVEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOVEL/)
 </script>
+<script type="text/javascript">

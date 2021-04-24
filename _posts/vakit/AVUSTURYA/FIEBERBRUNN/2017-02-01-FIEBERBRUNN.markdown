@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/FIEBERBRUNN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FIEBERBRUNN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FIEBERBRUNN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'FIEBERBRUNN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'FIEBERBRUNN';
+* [ (FIEBERBRUNN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FIEBERBRUNN/)
 </script>
+<script type="text/javascript">

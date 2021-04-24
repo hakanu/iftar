@@ -8,10 +8,11 @@ permalink: /NORVEC/MOSS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/MOSS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'MOSS';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'MOSS';
+* [ (MOSS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/MOSS/)
 </script>
+<script type="text/javascript">

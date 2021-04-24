@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MATTIGHOFEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATTIGHOFEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MATTIGHOFEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MATTIGHOFEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MATTIGHOFEN';
+* [ (MATTIGHOFEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MATTIGHOFEN/)
 </script>
+<script type="text/javascript">

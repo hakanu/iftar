@@ -8,10 +8,11 @@ permalink: /BOLIVYA/SIPE SIPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIPE_SIPE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SIPE_SIPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'SIPE SIPE';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'SIPE SIPE';
+* [ (SIPE_SIPE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SIPE_SIPE/)
 </script>
+<script type="text/javascript">

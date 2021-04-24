@@ -8,10 +8,11 @@ permalink: /GURCISTAN/KHASHURI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHASHURI_, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KHASHURI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'KHASHURI ';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'KHASHURI ';
+* [ (KHASHURI_, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KHASHURI_/)
 </script>
+<script type="text/javascript">

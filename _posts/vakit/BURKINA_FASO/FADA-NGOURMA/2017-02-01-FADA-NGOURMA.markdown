@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/FADA-NGOURMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FADA-NGOURMA, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/FADA-NGOURMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'FADA-NGOURMA';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'FADA-NGOURMA';
+* [ (FADA-NGOURMA, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/FADA-NGOURMA/)
 </script>
+<script type="text/javascript">

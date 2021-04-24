@@ -8,10 +8,11 @@ permalink: /ISVICRE/ARCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARCH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ARCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ARCH';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ARCH';
+* [ (ARCH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ARCH/)
 </script>
+<script type="text/javascript">

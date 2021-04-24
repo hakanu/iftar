@@ -8,10 +8,11 @@ permalink: /ITALYA/LATINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LATINA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LATINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'LATINA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'LATINA';
+* [ (LATINA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LATINA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BAD VOSLAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_VOSLAU, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BAD_VOSLAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BAD VOSLAU';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BAD VOSLAU';
+* [ (BAD_VOSLAU, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BAD_VOSLAU/)
 </script>
+<script type="text/javascript">

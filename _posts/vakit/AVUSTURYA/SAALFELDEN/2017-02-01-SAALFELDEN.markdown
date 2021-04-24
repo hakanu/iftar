@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SAALFELDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAALFELDEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SAALFELDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SAALFELDEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SAALFELDEN';
+* [ (SAALFELDEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SAALFELDEN/)
 </script>
+<script type="text/javascript">

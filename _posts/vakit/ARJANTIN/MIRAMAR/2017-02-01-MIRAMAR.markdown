@@ -8,10 +8,11 @@ permalink: /ARJANTIN/MIRAMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIRAMAR, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MIRAMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'MIRAMAR';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'MIRAMAR';
+* [ (MIRAMAR, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MIRAMAR/)
 </script>
+<script type="text/javascript">

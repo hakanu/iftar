@@ -8,10 +8,11 @@ permalink: /BELCIKA/TESSENDERLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TESSENDERLO, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TESSENDERLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'TESSENDERLO';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'TESSENDERLO';
+* [ (TESSENDERLO, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TESSENDERLO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PURWOKERTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PURWOKERTO, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PURWOKERTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PURWOKERTO';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PURWOKERTO';
+* [ (PURWOKERTO, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PURWOKERTO/)
 </script>
+<script type="text/javascript">

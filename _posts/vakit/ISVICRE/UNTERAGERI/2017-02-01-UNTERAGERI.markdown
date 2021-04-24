@@ -8,10 +8,11 @@ permalink: /ISVICRE/UNTERAGERI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UNTERAGERI, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/UNTERAGERI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'UNTERAGERI';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'UNTERAGERI';
+* [ (UNTERAGERI, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/UNTERAGERI/)
 </script>
+<script type="text/javascript">

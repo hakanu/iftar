@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WASSENAAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WASSENAAR, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WASSENAAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WASSENAAR';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WASSENAAR';
+* [ (WASSENAAR, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WASSENAAR/)
 </script>
+<script type="text/javascript">

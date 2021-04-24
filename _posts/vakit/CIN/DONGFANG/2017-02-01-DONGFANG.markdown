@@ -8,10 +8,11 @@ permalink: /CIN/DONGFANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DONGFANG, CIN) için iftar ve namaz vakitleri](/CIN/DONGFANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DONGFANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DONGFANG';
+* [ (DONGFANG, CIN) için iftar ve namaz vakitleri](/CIN/DONGFANG/)
 </script>
+<script type="text/javascript">

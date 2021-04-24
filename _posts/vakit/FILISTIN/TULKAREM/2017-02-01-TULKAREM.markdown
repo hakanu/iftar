@@ -8,10 +8,11 @@ permalink: /FILISTIN/TULKAREM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULKAREM, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/TULKAREM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'TULKAREM';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'TULKAREM';
+* [ (TULKAREM, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/TULKAREM/)
 </script>
+<script type="text/javascript">

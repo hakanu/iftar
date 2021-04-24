@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TORREON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TORREON, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TORREON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TORREON';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TORREON';
+* [ (TORREON, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TORREON/)
 </script>
+<script type="text/javascript">

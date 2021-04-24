@@ -8,10 +8,11 @@ permalink: /NORVEC/BERGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERGEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/BERGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'BERGEN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'BERGEN';
+* [ (BERGEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/BERGEN/)
 </script>
+<script type="text/javascript">

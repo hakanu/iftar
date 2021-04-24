@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/OBERPINSWANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERPINSWANG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/OBERPINSWANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'OBERPINSWANG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'OBERPINSWANG';
+* [ (OBERPINSWANG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/OBERPINSWANG/)
 </script>
+<script type="text/javascript">

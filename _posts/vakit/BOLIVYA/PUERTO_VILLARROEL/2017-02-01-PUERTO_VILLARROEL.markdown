@@ -8,10 +8,11 @@ permalink: /BOLIVYA/PUERTO VILLARROEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_VILLARROEL, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/PUERTO_VILLARROEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'PUERTO VILLARROEL';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'PUERTO VILLARROEL';
+* [ (PUERTO_VILLARROEL, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/PUERTO_VILLARROEL/)
 </script>
+<script type="text/javascript">

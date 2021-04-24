@@ -8,10 +8,11 @@ permalink: /INGILTERE/EDINBURGH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EDINBURGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/EDINBURGH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'EDINBURGH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'EDINBURGH';
+* [ (EDINBURGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/EDINBURGH/)
 </script>
+<script type="text/javascript">

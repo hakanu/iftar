@@ -8,10 +8,11 @@ permalink: /ERITRE/MERSA FATMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MERSA_FATMA, ERITRE) için iftar ve namaz vakitleri](/ERITRE/MERSA_FATMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ERITRE';
+
   var GLOBAL_CITY = 'MERSA FATMA';
+  var GLOBAL_COUNTRY = 'ERITRE';
   var GLOBAL_STATE = 'MERSA FATMA';
+* [ (MERSA_FATMA, ERITRE) için iftar ve namaz vakitleri](/ERITRE/MERSA_FATMA/)
 </script>
+<script type="text/javascript">

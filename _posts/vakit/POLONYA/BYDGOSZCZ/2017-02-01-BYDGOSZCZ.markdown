@@ -8,10 +8,11 @@ permalink: /POLONYA/BYDGOSZCZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BYDGOSZCZ, POLONYA) için iftar ve namaz vakitleri](/POLONYA/BYDGOSZCZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'BYDGOSZCZ';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'BYDGOSZCZ';
+* [ (BYDGOSZCZ, POLONYA) için iftar ve namaz vakitleri](/POLONYA/BYDGOSZCZ/)
 </script>
+<script type="text/javascript">

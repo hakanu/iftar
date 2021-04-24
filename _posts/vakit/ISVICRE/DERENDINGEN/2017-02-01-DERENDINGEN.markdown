@@ -8,10 +8,11 @@ permalink: /ISVICRE/DERENDINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DERENDINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/DERENDINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'DERENDINGEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'DERENDINGEN';
+* [ (DERENDINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/DERENDINGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/ORBE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORBE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ORBE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ORBE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ORBE';
+* [ (ORBE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ORBE/)
 </script>
+<script type="text/javascript">

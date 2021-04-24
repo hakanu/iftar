@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KAMENKA(Astana)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAMENKA(Astana), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KAMENKA(Astana)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KAMENKA(Astana)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KAMENKA(Astana)';
+* [ (KAMENKA(Astana), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KAMENKA(Astana)/)
 </script>
+<script type="text/javascript">

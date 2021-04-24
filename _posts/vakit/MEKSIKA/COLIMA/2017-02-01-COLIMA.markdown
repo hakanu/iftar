@@ -8,10 +8,11 @@ permalink: /MEKSIKA/COLIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COLIMA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/COLIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'COLIMA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'COLIMA';
+* [ (COLIMA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/COLIMA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ACHIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ACHIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ACHIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ACHIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ACHIM';
+* [ (ACHIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ACHIM/)
 </script>
+<script type="text/javascript">

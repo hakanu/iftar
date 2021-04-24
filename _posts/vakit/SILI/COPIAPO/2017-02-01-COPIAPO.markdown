@@ -8,10 +8,11 @@ permalink: /SILI/COPIAPO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COPIAPO, SILI) için iftar ve namaz vakitleri](/SILI/COPIAPO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'COPIAPO';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'COPIAPO';
+* [ (COPIAPO, SILI) için iftar ve namaz vakitleri](/SILI/COPIAPO/)
 </script>
+<script type="text/javascript">

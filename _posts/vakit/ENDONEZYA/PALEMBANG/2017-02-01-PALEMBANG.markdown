@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PALEMBANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PALEMBANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PALEMBANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PALEMBANG';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PALEMBANG';
+* [ (PALEMBANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PALEMBANG/)
 </script>
+<script type="text/javascript">

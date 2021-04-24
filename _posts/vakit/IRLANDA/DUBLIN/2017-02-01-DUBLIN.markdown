@@ -8,10 +8,11 @@ permalink: /IRLANDA/DUBLIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUBLIN, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/DUBLIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'DUBLIN';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'DUBLIN';
+* [ (DUBLIN, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/DUBLIN/)
 </script>
+<script type="text/javascript">

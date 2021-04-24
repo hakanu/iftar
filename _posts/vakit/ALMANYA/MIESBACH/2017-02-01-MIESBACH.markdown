@@ -8,10 +8,11 @@ permalink: /ALMANYA/MIESBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIESBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MIESBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MIESBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MIESBACH';
+* [ (MIESBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MIESBACH/)
 </script>
+<script type="text/javascript">

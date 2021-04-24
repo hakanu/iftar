@@ -8,10 +8,11 @@ permalink: /ISVICRE/AMRISWIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMRISWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/AMRISWIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'AMRISWIL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'AMRISWIL';
+* [ (AMRISWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/AMRISWIL/)
 </script>
+<script type="text/javascript">

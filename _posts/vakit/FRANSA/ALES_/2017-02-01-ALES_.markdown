@@ -8,10 +8,11 @@ permalink: /FRANSA/ALES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALES_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALES_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ALES ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ALES ';
+* [ (ALES_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALES_/)
 </script>
+<script type="text/javascript">

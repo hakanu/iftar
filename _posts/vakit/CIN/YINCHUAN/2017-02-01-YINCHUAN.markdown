@@ -8,10 +8,11 @@ permalink: /CIN/YINCHUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YINCHUAN, CIN) için iftar ve namaz vakitleri](/CIN/YINCHUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YINCHUAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YINCHUAN';
+* [ (YINCHUAN, CIN) için iftar ve namaz vakitleri](/CIN/YINCHUAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/MARGATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MARGATE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'MARGATE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'MARGATE';
+* [ (MARGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MARGATE/)
 </script>
+<script type="text/javascript">

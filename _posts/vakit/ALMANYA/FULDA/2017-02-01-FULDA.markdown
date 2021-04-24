@@ -8,10 +8,11 @@ permalink: /ALMANYA/FULDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FULDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FULDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FULDA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FULDA';
+* [ (FULDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FULDA/)
 </script>
+<script type="text/javascript">

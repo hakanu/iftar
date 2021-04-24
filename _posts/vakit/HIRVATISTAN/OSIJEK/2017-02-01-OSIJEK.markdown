@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/OSIJEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSIJEK, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/OSIJEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'OSIJEK';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'OSIJEK';
+* [ (OSIJEK, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/OSIJEK/)
 </script>
+<script type="text/javascript">

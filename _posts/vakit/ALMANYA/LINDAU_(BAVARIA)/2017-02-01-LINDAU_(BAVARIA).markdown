@@ -8,10 +8,11 @@ permalink: /ALMANYA/LINDAU (BAVARIA)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINDAU_(BAVARIA), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDAU_(BAVARIA)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LINDAU (BAVARIA)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LINDAU (BAVARIA)';
+* [ (LINDAU_(BAVARIA), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LINDAU_(BAVARIA)/)
 </script>
+<script type="text/javascript">

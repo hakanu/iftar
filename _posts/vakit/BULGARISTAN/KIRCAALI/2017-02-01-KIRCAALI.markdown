@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/KIRCAALI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRCAALI, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/KIRCAALI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'KIRCAALI';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'KIRCAALI';
+* [ (KIRCAALI, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/KIRCAALI/)
 </script>
+<script type="text/javascript">

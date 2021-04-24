@@ -8,10 +8,11 @@ permalink: /ISVICRE/MONTHEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTHEY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MONTHEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MONTHEY';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MONTHEY';
+* [ (MONTHEY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MONTHEY/)
 </script>
+<script type="text/javascript">

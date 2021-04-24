@@ -8,10 +8,11 @@ permalink: /RUSYA/KYZYL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KYZYL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KYZYL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KYZYL';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KYZYL';
+* [ (KYZYL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KYZYL/)
 </script>
+<script type="text/javascript">

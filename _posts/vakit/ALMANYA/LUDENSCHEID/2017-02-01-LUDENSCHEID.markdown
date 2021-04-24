@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUDENSCHEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUDENSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUDENSCHEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUDENSCHEID';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUDENSCHEID';
+* [ (LUDENSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUDENSCHEID/)
 </script>
+<script type="text/javascript">

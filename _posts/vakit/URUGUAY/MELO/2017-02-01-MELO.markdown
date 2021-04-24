@@ -8,10 +8,11 @@ permalink: /URUGUAY/MELO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MELO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'MELO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'MELO';
+* [ (MELO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MELO/)
 </script>
+<script type="text/javascript">

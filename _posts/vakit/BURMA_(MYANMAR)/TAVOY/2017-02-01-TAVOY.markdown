@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/TAVOY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAVOY, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/TAVOY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'TAVOY';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'TAVOY';
+* [ (TAVOY, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/TAVOY/)
 </script>
+<script type="text/javascript">

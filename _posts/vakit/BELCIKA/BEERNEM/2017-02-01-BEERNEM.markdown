@@ -8,10 +8,11 @@ permalink: /BELCIKA/BEERNEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEERNEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BEERNEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BEERNEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BEERNEM';
+* [ (BEERNEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BEERNEM/)
 </script>
+<script type="text/javascript">

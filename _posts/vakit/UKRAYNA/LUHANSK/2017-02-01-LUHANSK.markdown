@@ -8,10 +8,11 @@ permalink: /UKRAYNA/LUHANSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUHANSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LUHANSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'LUHANSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'LUHANSK';
+* [ (LUHANSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LUHANSK/)
 </script>
+<script type="text/javascript">

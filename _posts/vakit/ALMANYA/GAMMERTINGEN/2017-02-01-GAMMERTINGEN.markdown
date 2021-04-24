@@ -8,10 +8,11 @@ permalink: /ALMANYA/GAMMERTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAMMERTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GAMMERTINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GAMMERTINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GAMMERTINGEN';
+* [ (GAMMERTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GAMMERTINGEN/)
 </script>
+<script type="text/javascript">

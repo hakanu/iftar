@@ -8,10 +8,11 @@ permalink: /FRANSA/ETREPAGNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ETREPAGNY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ETREPAGNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ETREPAGNY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ETREPAGNY';
+* [ (ETREPAGNY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ETREPAGNY/)
 </script>
+<script type="text/javascript">

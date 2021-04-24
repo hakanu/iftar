@@ -8,10 +8,11 @@ permalink: /ISPANYA/VIGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIGO, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VIGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'VIGO';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'VIGO';
+* [ (VIGO, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VIGO/)
 </script>
+<script type="text/javascript">

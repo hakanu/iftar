@@ -8,10 +8,11 @@ permalink: /ALMANYA/BILLSTEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BILLSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BILLSTEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BILLSTEDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BILLSTEDT';
+* [ (BILLSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BILLSTEDT/)
 </script>
+<script type="text/javascript">

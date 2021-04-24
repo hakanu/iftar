@@ -8,10 +8,11 @@ permalink: /RUSYA/OMSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/OMSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'OMSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'OMSK';
+* [ (OMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/OMSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/GLINDE (HAMBURG)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLINDE_(HAMBURG), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLINDE_(HAMBURG)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GLINDE (HAMBURG)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GLINDE (HAMBURG)';
+* [ (GLINDE_(HAMBURG), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLINDE_(HAMBURG)/)
 </script>
+<script type="text/javascript">

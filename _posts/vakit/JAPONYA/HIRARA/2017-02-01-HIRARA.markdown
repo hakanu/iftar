@@ -8,10 +8,11 @@ permalink: /JAPONYA/HIRARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIRARA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIRARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HIRARA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HIRARA';
+* [ (HIRARA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIRARA/)
 </script>
+<script type="text/javascript">

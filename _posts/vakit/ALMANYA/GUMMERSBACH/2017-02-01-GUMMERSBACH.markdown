@@ -8,10 +8,11 @@ permalink: /ALMANYA/GUMMERSBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUMMERSBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GUMMERSBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GUMMERSBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GUMMERSBACH';
+* [ (GUMMERSBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GUMMERSBACH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/STEINFURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEINFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEINFURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STEINFURT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STEINFURT';
+* [ (STEINFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEINFURT/)
 </script>
+<script type="text/javascript">

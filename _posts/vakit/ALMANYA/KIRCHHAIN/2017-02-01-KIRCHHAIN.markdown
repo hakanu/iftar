@@ -8,10 +8,11 @@ permalink: /ALMANYA/KIRCHHAIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRCHHAIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIRCHHAIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KIRCHHAIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KIRCHHAIN';
+* [ (KIRCHHAIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIRCHHAIN/)
 </script>
+<script type="text/javascript">

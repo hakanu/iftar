@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BELGAUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELGAUM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BELGAUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BELGAUM';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BELGAUM';
+* [ (BELGAUM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BELGAUM/)
 </script>
+<script type="text/javascript">

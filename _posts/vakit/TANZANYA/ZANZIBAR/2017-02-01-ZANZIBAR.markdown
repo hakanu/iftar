@@ -8,10 +8,11 @@ permalink: /TANZANYA/ZANZIBAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZANZIBAR, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ZANZIBAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'ZANZIBAR';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'ZANZIBAR';
+* [ (ZANZIBAR, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ZANZIBAR/)
 </script>
+<script type="text/javascript">

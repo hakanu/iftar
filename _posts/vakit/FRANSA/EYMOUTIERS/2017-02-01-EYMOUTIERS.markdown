@@ -8,10 +8,11 @@ permalink: /FRANSA/EYMOUTIERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EYMOUTIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EYMOUTIERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'EYMOUTIERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'EYMOUTIERS';
+* [ (EYMOUTIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EYMOUTIERS/)
 </script>
+<script type="text/javascript">

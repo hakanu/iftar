@@ -8,10 +8,11 @@ permalink: /FRANSA/NOZAY (L-A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOZAY_(L-A), FRANSA) için iftar ve namaz vakitleri](/FRANSA/NOZAY_(L-A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NOZAY (L-A)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NOZAY (L-A)';
+* [ (NOZAY_(L-A), FRANSA) için iftar ve namaz vakitleri](/FRANSA/NOZAY_(L-A)/)
 </script>
+<script type="text/javascript">

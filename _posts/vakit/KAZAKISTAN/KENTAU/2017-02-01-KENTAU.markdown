@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KENTAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KENTAU, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KENTAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KENTAU';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KENTAU';
+* [ (KENTAU, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KENTAU/)
 </script>
+<script type="text/javascript">

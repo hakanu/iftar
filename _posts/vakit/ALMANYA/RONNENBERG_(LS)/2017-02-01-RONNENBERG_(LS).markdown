@@ -8,10 +8,11 @@ permalink: /ALMANYA/RONNENBERG (LS)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RONNENBERG_(LS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RONNENBERG_(LS)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RONNENBERG (LS)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RONNENBERG (LS)';
+* [ (RONNENBERG_(LS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RONNENBERG_(LS)/)
 </script>
+<script type="text/javascript">

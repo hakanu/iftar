@@ -8,10 +8,11 @@ permalink: /MEKSIKA/NUEVO LAREDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUEVO_LAREDO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/NUEVO_LAREDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'NUEVO LAREDO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'NUEVO LAREDO';
+* [ (NUEVO_LAREDO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/NUEVO_LAREDO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BADEN-BADEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BADEN-BADEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BADEN-BADEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BADEN-BADEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BADEN-BADEN';
+* [ (BADEN-BADEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BADEN-BADEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CHERMSIDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHERMSIDE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CHERMSIDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CHERMSIDE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CHERMSIDE';
+* [ (CHERMSIDE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CHERMSIDE/)
 </script>
+<script type="text/javascript">

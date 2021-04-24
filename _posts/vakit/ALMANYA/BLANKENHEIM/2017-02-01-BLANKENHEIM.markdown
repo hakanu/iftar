@@ -8,10 +8,11 @@ permalink: /ALMANYA/BLANKENHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLANKENHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLANKENHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BLANKENHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BLANKENHEIM';
+* [ (BLANKENHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLANKENHEIM/)
 </script>
+<script type="text/javascript">

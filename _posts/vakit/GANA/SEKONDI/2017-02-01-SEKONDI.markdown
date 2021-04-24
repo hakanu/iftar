@@ -8,10 +8,11 @@ permalink: /GANA/SEKONDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEKONDI, GANA) için iftar ve namaz vakitleri](/GANA/SEKONDI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'SEKONDI';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'SEKONDI';
+* [ (SEKONDI, GANA) için iftar ve namaz vakitleri](/GANA/SEKONDI/)
 </script>
+<script type="text/javascript">

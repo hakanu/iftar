@@ -8,10 +8,11 @@ permalink: /ZIMBABVE/MUTARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUTARE, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/MUTARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZIMBABVE';
+
   var GLOBAL_CITY = 'MUTARE';
+  var GLOBAL_COUNTRY = 'ZIMBABVE';
   var GLOBAL_STATE = 'MUTARE';
+* [ (MUTARE, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/MUTARE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/DALI ( SHANXI )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DALI_(_SHANXI_), CIN) için iftar ve namaz vakitleri](/CIN/DALI_(_SHANXI_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DALI ( SHANXI )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DALI ( SHANXI )';
+* [ (DALI_(_SHANXI_), CIN) için iftar ve namaz vakitleri](/CIN/DALI_(_SHANXI_)/)
 </script>
+<script type="text/javascript">

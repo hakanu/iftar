@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BRISBANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRISBANE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BRISBANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BRISBANE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BRISBANE';
+* [ (BRISBANE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BRISBANE/)
 </script>
+<script type="text/javascript">

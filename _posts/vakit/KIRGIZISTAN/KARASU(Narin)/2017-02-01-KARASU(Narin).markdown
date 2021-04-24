@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/KARASU(Narin)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARASU(Narin), KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KARASU(Narin)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'KARASU(Narin)';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'KARASU(Narin)';
+* [ (KARASU(Narin), KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KARASU(Narin)/)
 </script>
+<script type="text/javascript">

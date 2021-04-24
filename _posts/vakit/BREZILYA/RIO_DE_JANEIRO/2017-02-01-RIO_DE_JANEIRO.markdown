@@ -8,10 +8,11 @@ permalink: /BREZILYA/RIO DE JANEIRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIO_DE_JANEIRO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RIO_DE_JANEIRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'RIO DE JANEIRO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'RIO DE JANEIRO';
+* [ (RIO_DE_JANEIRO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RIO_DE_JANEIRO/)
 </script>
+<script type="text/javascript">

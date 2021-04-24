@@ -8,10 +8,11 @@ permalink: /ALMANYA/UNTERHAUSEN (BW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UNTERHAUSEN_(BW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UNTERHAUSEN_(BW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UNTERHAUSEN (BW)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UNTERHAUSEN (BW)';
+* [ (UNTERHAUSEN_(BW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UNTERHAUSEN_(BW)/)
 </script>
+<script type="text/javascript">

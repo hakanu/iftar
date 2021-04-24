@@ -8,10 +8,11 @@ permalink: /IRAN/KARAJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAJ, IRAN) için iftar ve namaz vakitleri](/IRAN/KARAJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'KARAJ';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'KARAJ';
+* [ (KARAJ, IRAN) için iftar ve namaz vakitleri](/IRAN/KARAJ/)
 </script>
+<script type="text/javascript">

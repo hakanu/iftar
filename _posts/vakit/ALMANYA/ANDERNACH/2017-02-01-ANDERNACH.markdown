@@ -8,10 +8,11 @@ permalink: /ALMANYA/ANDERNACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANDERNACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ANDERNACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ANDERNACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ANDERNACH';
+* [ (ANDERNACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ANDERNACH/)
 </script>
+<script type="text/javascript">

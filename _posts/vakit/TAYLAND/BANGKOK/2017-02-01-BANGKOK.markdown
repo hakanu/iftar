@@ -8,10 +8,11 @@ permalink: /TAYLAND/BANGKOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANGKOK, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/BANGKOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'BANGKOK';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'BANGKOK';
+* [ (BANGKOK, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/BANGKOK/)
 </script>
+<script type="text/javascript">

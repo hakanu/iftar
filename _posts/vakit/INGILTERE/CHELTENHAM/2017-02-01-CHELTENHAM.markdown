@@ -8,10 +8,11 @@ permalink: /INGILTERE/CHELTENHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHELTENHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHELTENHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CHELTENHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CHELTENHAM';
+* [ (CHELTENHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHELTENHAM/)
 </script>
+<script type="text/javascript">

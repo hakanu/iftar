@@ -8,10 +8,11 @@ permalink: /ALMANYA/GEILENKIRCHEN (NRW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEILENKIRCHEN_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEILENKIRCHEN_(NRW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GEILENKIRCHEN (NRW)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GEILENKIRCHEN (NRW)';
+* [ (GEILENKIRCHEN_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEILENKIRCHEN_(NRW)/)
 </script>
+<script type="text/javascript">

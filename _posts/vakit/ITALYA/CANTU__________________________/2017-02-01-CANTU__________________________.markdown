@@ -8,10 +8,11 @@ permalink: /ITALYA/CANTU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CANTU__________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CANTU__________________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CANTU                          ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CANTU                          ';
+* [ (CANTU__________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CANTU__________________________/)
 </script>
+<script type="text/javascript">

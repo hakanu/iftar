@@ -8,10 +8,11 @@ permalink: /ALMANYA/EMMERICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMMERICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMMERICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EMMERICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EMMERICH';
+* [ (EMMERICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMMERICH/)
 </script>
+<script type="text/javascript">

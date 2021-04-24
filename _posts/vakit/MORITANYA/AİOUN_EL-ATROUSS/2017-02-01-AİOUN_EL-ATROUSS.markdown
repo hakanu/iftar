@@ -8,10 +8,11 @@ permalink: /MORITANYA/AİOUN EL-ATROUSS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AİOUN_EL-ATROUSS, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/AİOUN_EL-ATROUSS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'AİOUN EL-ATROUSS';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'AİOUN EL-ATROUSS';
+* [ (AİOUN_EL-ATROUSS, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/AİOUN_EL-ATROUSS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/VERZENAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VERZENAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VERZENAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VERZENAY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VERZENAY';
+* [ (VERZENAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VERZENAY/)
 </script>
+<script type="text/javascript">

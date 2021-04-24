@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERFORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERFORD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERFORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERFORD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERFORD';
+* [ (HERFORD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERFORD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/BIRKEROD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIRKEROD, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/BIRKEROD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'BIRKEROD';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'BIRKEROD';
+* [ (BIRKEROD, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/BIRKEROD/)
 </script>
+<script type="text/javascript">

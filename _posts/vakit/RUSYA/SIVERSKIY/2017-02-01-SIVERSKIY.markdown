@@ -8,10 +8,11 @@ permalink: /RUSYA/SIVERSKIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIVERSKIY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SIVERSKIY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SIVERSKIY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SIVERSKIY';
+* [ (SIVERSKIY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SIVERSKIY/)
 </script>
+<script type="text/javascript">

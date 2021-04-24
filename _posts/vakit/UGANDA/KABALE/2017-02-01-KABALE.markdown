@@ -8,10 +8,11 @@ permalink: /UGANDA/KABALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KABALE, UGANDA) için iftar ve namaz vakitleri](/UGANDA/KABALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UGANDA';
+
   var GLOBAL_CITY = 'KABALE';
+  var GLOBAL_COUNTRY = 'UGANDA';
   var GLOBAL_STATE = 'KABALE';
+* [ (KABALE, UGANDA) için iftar ve namaz vakitleri](/UGANDA/KABALE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GURCISTAN/GALI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GALI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/GALI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'GALI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'GALI';
+* [ (GALI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/GALI/)
 </script>
+<script type="text/javascript">

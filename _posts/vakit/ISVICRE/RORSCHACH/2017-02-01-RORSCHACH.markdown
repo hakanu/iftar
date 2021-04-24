@@ -8,10 +8,11 @@ permalink: /ISVICRE/RORSCHACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RORSCHACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RORSCHACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'RORSCHACH';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'RORSCHACH';
+* [ (RORSCHACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RORSCHACH/)
 </script>
+<script type="text/javascript">

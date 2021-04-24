@@ -8,10 +8,11 @@ permalink: /ALMANYA/WILLICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILLICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILLICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WILLICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WILLICH';
+* [ (WILLICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILLICH/)
 </script>
+<script type="text/javascript">

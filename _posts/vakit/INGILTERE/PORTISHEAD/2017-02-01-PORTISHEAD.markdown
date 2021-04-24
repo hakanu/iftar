@@ -8,10 +8,11 @@ permalink: /INGILTERE/PORTISHEAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORTISHEAD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PORTISHEAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'PORTISHEAD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'PORTISHEAD';
+* [ (PORTISHEAD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PORTISHEAD/)
 </script>
+<script type="text/javascript">

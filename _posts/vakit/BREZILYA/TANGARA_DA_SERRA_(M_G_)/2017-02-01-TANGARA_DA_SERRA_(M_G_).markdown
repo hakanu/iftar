@@ -8,10 +8,11 @@ permalink: /BREZILYA/TANGARA DA SERRA (M_G_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TANGARA_DA_SERRA_(M_G_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TANGARA_DA_SERRA_(M_G_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'TANGARA DA SERRA (M_G_)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'TANGARA DA SERRA (M_G_)';
+* [ (TANGARA_DA_SERRA_(M_G_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TANGARA_DA_SERRA_(M_G_)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CECENISTAN/GROZNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GROZNY, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/GROZNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CECENISTAN';
+
   var GLOBAL_CITY = 'GROZNY';
+  var GLOBAL_COUNTRY = 'CECENISTAN';
   var GLOBAL_STATE = 'GROZNY';
+* [ (GROZNY, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/GROZNY/)
 </script>
+<script type="text/javascript">

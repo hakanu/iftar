@@ -8,10 +8,11 @@ permalink: /CIN/BOSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOSE, CIN) için iftar ve namaz vakitleri](/CIN/BOSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'BOSE';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'BOSE';
+* [ (BOSE, CIN) için iftar ve namaz vakitleri](/CIN/BOSE/)
 </script>
+<script type="text/javascript">

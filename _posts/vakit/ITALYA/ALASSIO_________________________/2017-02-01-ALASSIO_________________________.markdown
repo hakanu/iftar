@@ -8,10 +8,11 @@ permalink: /ITALYA/ALASSIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALASSIO_________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALASSIO_________________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ALASSIO                         ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ALASSIO                         ';
+* [ (ALASSIO_________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALASSIO_________________________/)
 </script>
+<script type="text/javascript">

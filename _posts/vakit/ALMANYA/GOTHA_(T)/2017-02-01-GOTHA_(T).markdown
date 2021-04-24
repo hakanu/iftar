@@ -8,10 +8,11 @@ permalink: /ALMANYA/GOTHA (T)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOTHA_(T), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOTHA_(T)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GOTHA (T)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GOTHA (T)';
+* [ (GOTHA_(T), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOTHA_(T)/)
 </script>
+<script type="text/javascript">

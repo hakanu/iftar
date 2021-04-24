@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/CHINAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHINAZ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/CHINAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'CHINAZ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'CHINAZ';
+* [ (CHINAZ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/CHINAZ/)
 </script>
+<script type="text/javascript">

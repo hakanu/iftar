@@ -8,10 +8,11 @@ permalink: /BELCIKA/HECHTEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HECHTEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HECHTEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HECHTEL';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HECHTEL';
+* [ (HECHTEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HECHTEL/)
 </script>
+<script type="text/javascript">

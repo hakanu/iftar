@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ZHIDKOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHIDKOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ZHIDKOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ZHIDKOVKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ZHIDKOVKA';
+* [ (ZHIDKOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ZHIDKOVKA/)
 </script>
+<script type="text/javascript">

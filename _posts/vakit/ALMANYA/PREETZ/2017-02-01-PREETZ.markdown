@@ -8,10 +8,11 @@ permalink: /ALMANYA/PREETZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PREETZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PREETZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PREETZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PREETZ';
+* [ (PREETZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PREETZ/)
 </script>
+<script type="text/javascript">

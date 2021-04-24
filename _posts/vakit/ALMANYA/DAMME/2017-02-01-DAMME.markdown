@@ -8,10 +8,11 @@ permalink: /ALMANYA/DAMME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAMME, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DAMME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DAMME';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DAMME';
+* [ (DAMME, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DAMME/)
 </script>
+<script type="text/javascript">

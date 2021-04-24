@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/KLOSTERNEUBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLOSTERNEUBURG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KLOSTERNEUBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'KLOSTERNEUBURG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'KLOSTERNEUBURG';
+* [ (KLOSTERNEUBURG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KLOSTERNEUBURG/)
 </script>
+<script type="text/javascript">

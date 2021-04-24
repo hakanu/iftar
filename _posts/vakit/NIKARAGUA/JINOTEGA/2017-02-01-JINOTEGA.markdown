@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/JINOTEGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JINOTEGA, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/JINOTEGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'JINOTEGA';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'JINOTEGA';
+* [ (JINOTEGA, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/JINOTEGA/)
 </script>
+<script type="text/javascript">

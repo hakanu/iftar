@@ -8,10 +8,11 @@ permalink: /SLOVENYA/MURSKA SOBOTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURSKA_SOBOTA, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/MURSKA_SOBOTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'MURSKA SOBOTA';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'MURSKA SOBOTA';
+* [ (MURSKA_SOBOTA, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/MURSKA_SOBOTA/)
 </script>
+<script type="text/javascript">

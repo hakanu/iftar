@@ -8,10 +8,11 @@ permalink: /FRANSA/ABBEVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABBEVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ABBEVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ABBEVILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ABBEVILLE';
+* [ (ABBEVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ABBEVILLE/)
 </script>
+<script type="text/javascript">

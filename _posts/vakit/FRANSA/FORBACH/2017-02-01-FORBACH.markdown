@@ -8,10 +8,11 @@ permalink: /FRANSA/FORBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORBACH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FORBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FORBACH';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FORBACH';
+* [ (FORBACH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FORBACH/)
 </script>
+<script type="text/javascript">

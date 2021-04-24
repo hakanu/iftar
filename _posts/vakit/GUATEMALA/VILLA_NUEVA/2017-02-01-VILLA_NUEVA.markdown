@@ -8,10 +8,11 @@ permalink: /GUATEMALA/VILLA NUEVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLA_NUEVA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/VILLA_NUEVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUATEMALA';
+
   var GLOBAL_CITY = 'VILLA NUEVA';
+  var GLOBAL_COUNTRY = 'GUATEMALA';
   var GLOBAL_STATE = 'VILLA NUEVA';
+* [ (VILLA_NUEVA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/VILLA_NUEVA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/EMMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EMMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'EMMEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'EMMEN';
+* [ (EMMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EMMEN/)
 </script>
+<script type="text/javascript">

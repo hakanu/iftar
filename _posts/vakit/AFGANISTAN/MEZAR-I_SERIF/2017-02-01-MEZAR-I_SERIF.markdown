@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/MEZAR-I SERIF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEZAR-I_SERIF, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/MEZAR-I_SERIF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'MEZAR-I SERIF';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'MEZAR-I SERIF';
+* [ (MEZAR-I_SERIF, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/MEZAR-I_SERIF/)
 </script>
+<script type="text/javascript">

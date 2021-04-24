@@ -8,10 +8,11 @@ permalink: /KARADAG/KOTOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOTOR, KARADAG) için iftar ve namaz vakitleri](/KARADAG/KOTOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'KOTOR';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'KOTOR';
+* [ (KOTOR, KARADAG) için iftar ve namaz vakitleri](/KARADAG/KOTOR/)
 </script>
+<script type="text/javascript">

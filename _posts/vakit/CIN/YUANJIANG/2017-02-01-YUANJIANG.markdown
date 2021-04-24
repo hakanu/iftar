@@ -8,10 +8,11 @@ permalink: /CIN/YUANJIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YUANJIANG, CIN) için iftar ve namaz vakitleri](/CIN/YUANJIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YUANJIANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YUANJIANG';
+* [ (YUANJIANG, CIN) için iftar ve namaz vakitleri](/CIN/YUANJIANG/)
 </script>
+<script type="text/javascript">

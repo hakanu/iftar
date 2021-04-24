@@ -8,10 +8,11 @@ permalink: /FRANSA/POULDREUZIC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POULDREUZIC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/POULDREUZIC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'POULDREUZIC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'POULDREUZIC';
+* [ (POULDREUZIC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/POULDREUZIC/)
 </script>
+<script type="text/javascript">

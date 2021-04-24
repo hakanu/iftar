@@ -8,10 +8,11 @@ permalink: /ALMANYA/KIRN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIRN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KIRN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KIRN';
+* [ (KIRN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIRN/)
 </script>
+<script type="text/javascript">

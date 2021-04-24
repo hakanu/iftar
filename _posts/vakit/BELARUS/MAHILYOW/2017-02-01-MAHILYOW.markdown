@@ -8,10 +8,11 @@ permalink: /BELARUS/MAHILYOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAHILYOW, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MAHILYOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'MAHILYOW';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'MAHILYOW';
+* [ (MAHILYOW, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MAHILYOW/)
 </script>
+<script type="text/javascript">

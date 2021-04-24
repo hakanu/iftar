@@ -8,10 +8,11 @@ permalink: /BELCIKA/STAVELOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STAVELOT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/STAVELOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'STAVELOT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'STAVELOT';
+* [ (STAVELOT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/STAVELOT/)
 </script>
+<script type="text/javascript">

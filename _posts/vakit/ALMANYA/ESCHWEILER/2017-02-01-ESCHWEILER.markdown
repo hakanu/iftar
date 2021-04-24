@@ -8,10 +8,11 @@ permalink: /ALMANYA/ESCHWEILER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESCHWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESCHWEILER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ESCHWEILER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ESCHWEILER';
+* [ (ESCHWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESCHWEILER/)
 </script>
+<script type="text/javascript">

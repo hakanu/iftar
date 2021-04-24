@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/NAJU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/NAJU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'NAJU';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'NAJU';
+* [ (NAJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/NAJU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ROMANYA/PETROSANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETROSANI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PETROSANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'PETROSANI';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'PETROSANI';
+* [ (PETROSANI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/PETROSANI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/GENERAL SANTOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENERAL_SANTOS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/GENERAL_SANTOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'GENERAL SANTOS';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'GENERAL SANTOS';
+* [ (GENERAL_SANTOS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/GENERAL_SANTOS/)
 </script>
+<script type="text/javascript">

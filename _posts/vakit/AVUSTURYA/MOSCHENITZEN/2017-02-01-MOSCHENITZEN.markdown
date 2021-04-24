@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MOSCHENITZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSCHENITZEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MOSCHENITZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MOSCHENITZEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MOSCHENITZEN';
+* [ (MOSCHENITZEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MOSCHENITZEN/)
 </script>
+<script type="text/javascript">

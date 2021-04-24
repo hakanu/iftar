@@ -8,10 +8,11 @@ permalink: /ISVICRE/LA BREVINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_BREVINE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LA_BREVINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LA BREVINE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LA BREVINE';
+* [ (LA_BREVINE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LA_BREVINE/)
 </script>
+<script type="text/javascript">

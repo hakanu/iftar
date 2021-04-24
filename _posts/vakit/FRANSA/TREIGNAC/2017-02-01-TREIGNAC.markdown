@@ -8,10 +8,11 @@ permalink: /FRANSA/TREIGNAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TREIGNAC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TREIGNAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TREIGNAC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TREIGNAC';
+* [ (TREIGNAC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TREIGNAC/)
 </script>
+<script type="text/javascript">

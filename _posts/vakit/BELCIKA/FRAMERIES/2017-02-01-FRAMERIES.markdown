@@ -8,10 +8,11 @@ permalink: /BELCIKA/FRAMERIES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRAMERIES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FRAMERIES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'FRAMERIES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'FRAMERIES';
+* [ (FRAMERIES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FRAMERIES/)
 </script>
+<script type="text/javascript">

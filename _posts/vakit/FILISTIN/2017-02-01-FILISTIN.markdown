@@ -8,13 +8,14 @@ permalink: /FILISTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [AL-HALIL_(W_B_) (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/AL-HALIL_(W_B_))
-* [YUNUS (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/YUNUS)
-* [CENIN (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CENIN)
-* [TULKAREM (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/TULKAREM)
-* [ERIHA (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/ERIHA)
-* [NABLUS_(W_B_) (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/NABLUS_(W_B_))
-* [GAZZE (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/GAZZE)
-* [REFAH (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/REFAH)
 * [CEBALIYE (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CEBALIYE)
+* [CENIN (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CENIN)
+* [ERIHA (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/ERIHA)
+* [GAZZE (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/GAZZE)
+* [NABLUS_(W_B_) (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/NABLUS_(W_B_))
 * [RAMALLAH (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/RAMALLAH)
+* [REFAH (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/REFAH)
+* [TULKAREM (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/TULKAREM)
+* [YUNUS (FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/YUNUS)

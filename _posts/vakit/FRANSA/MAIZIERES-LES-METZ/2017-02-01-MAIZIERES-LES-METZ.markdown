@@ -8,10 +8,11 @@ permalink: /FRANSA/MAIZIERES-LES-METZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAIZIERES-LES-METZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAIZIERES-LES-METZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MAIZIERES-LES-METZ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MAIZIERES-LES-METZ';
+* [ (MAIZIERES-LES-METZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAIZIERES-LES-METZ/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/XIGAZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (XIGAZE, CIN) için iftar ve namaz vakitleri](/CIN/XIGAZE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'XIGAZE';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'XIGAZE';
+* [ (XIGAZE, CIN) için iftar ve namaz vakitleri](/CIN/XIGAZE/)
 </script>
+<script type="text/javascript">

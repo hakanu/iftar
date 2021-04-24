@@ -8,10 +8,11 @@ permalink: /FRANSA/LILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LILLE';
+* [ (LILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LILLE/)
 </script>
+<script type="text/javascript">

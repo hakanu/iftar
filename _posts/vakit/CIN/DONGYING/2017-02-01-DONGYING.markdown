@@ -8,10 +8,11 @@ permalink: /CIN/DONGYING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DONGYING, CIN) için iftar ve namaz vakitleri](/CIN/DONGYING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DONGYING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DONGYING';
+* [ (DONGYING, CIN) için iftar ve namaz vakitleri](/CIN/DONGYING/)
 </script>
+<script type="text/javascript">

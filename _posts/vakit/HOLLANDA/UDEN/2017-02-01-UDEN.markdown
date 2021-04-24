@@ -8,10 +8,11 @@ permalink: /HOLLANDA/UDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'UDEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'UDEN';
+* [ (UDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UDEN/)
 </script>
+<script type="text/javascript">

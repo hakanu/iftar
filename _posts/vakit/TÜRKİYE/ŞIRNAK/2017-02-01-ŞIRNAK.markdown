@@ -8,16 +8,17 @@ permalink: /TÜRKİYE/ŞIRNAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'ŞIRNAK';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'ŞIRNAK';
+* [BEYTÜŞŞEBAP (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/BEYTÜŞŞEBAP)
+* [CİZRE (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/CİZRE)
+* [GÜÇLÜKONAK (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/GÜÇLÜKONAK)
+* [SİLOPİ (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/SİLOPİ)
 * [ULUDERE (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/ULUDERE)
 * [İDİL (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/İDİL)
 * [ŞIRNAK (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/ŞIRNAK)
-* [SİLOPİ (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/SİLOPİ)
-* [GÜÇLÜKONAK (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/GÜÇLÜKONAK)
-* [CİZRE (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/CİZRE)
-* [BEYTÜŞŞEBAP (ŞIRNAK, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞIRNAK/BEYTÜŞŞEBAP)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ŞIRNAK';
-  var GLOBAL_STATE = 'ŞIRNAK';
 </script>
+<script type="text/javascript">

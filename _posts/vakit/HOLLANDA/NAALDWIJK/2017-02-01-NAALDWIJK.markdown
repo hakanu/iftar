@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NAALDWIJK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAALDWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NAALDWIJK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NAALDWIJK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NAALDWIJK';
+* [ (NAALDWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NAALDWIJK/)
 </script>
+<script type="text/javascript">

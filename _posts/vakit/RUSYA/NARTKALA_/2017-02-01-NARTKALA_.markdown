@@ -8,10 +8,11 @@ permalink: /RUSYA/NARTKALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NARTKALA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NARTKALA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NARTKALA ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NARTKALA ';
+* [ (NARTKALA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NARTKALA_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/DAEGU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAEGU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/DAEGU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'DAEGU';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'DAEGU';
+* [ (DAEGU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/DAEGU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/PILAR (A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PILAR_(A), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PILAR_(A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PILAR (A)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PILAR (A)';
+* [ (PILAR_(A), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PILAR_(A)/)
 </script>
+<script type="text/javascript">

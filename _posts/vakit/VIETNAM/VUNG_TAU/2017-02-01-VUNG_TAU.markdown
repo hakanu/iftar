@@ -8,10 +8,11 @@ permalink: /VIETNAM/VUNG TAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VUNG_TAU, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/VUNG_TAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'VUNG TAU';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'VUNG TAU';
+* [ (VUNG_TAU, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/VUNG_TAU/)
 </script>
+<script type="text/javascript">

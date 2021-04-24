@@ -8,10 +8,11 @@ permalink: /BENIN/BATIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATIA, BENIN) için iftar ve namaz vakitleri](/BENIN/BATIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'BATIA';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'BATIA';
+* [ (BATIA, BENIN) için iftar ve namaz vakitleri](/BENIN/BATIA/)
 </script>
+<script type="text/javascript">

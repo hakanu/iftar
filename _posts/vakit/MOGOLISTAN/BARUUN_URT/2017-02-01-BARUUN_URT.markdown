@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/BARUUN URT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARUUN_URT, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BARUUN_URT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'BARUUN URT';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'BARUUN URT';
+* [ (BARUUN_URT, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BARUUN_URT/)
 </script>
+<script type="text/javascript">

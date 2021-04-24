@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/VARNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VARNA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/VARNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'VARNA';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'VARNA';
+* [ (VARNA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/VARNA/)
 </script>
+<script type="text/javascript">

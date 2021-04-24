@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ERMELO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERMELO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ERMELO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ERMELO';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ERMELO';
+* [ (ERMELO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ERMELO/)
 </script>
+<script type="text/javascript">

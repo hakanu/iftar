@@ -8,10 +8,11 @@ permalink: /MAKAO/MAKAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAKAO, MAKAO) için iftar ve namaz vakitleri](/MAKAO/MAKAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKAO';
+
   var GLOBAL_CITY = 'MAKAO';
+  var GLOBAL_COUNTRY = 'MAKAO';
   var GLOBAL_STATE = 'MAKAO';
+* [ (MAKAO, MAKAO) için iftar ve namaz vakitleri](/MAKAO/MAKAO/)
 </script>
+<script type="text/javascript">

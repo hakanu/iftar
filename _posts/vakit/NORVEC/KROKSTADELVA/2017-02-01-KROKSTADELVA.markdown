@@ -8,10 +8,11 @@ permalink: /NORVEC/KROKSTADELVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KROKSTADELVA, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KROKSTADELVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'KROKSTADELVA';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'KROKSTADELVA';
+* [ (KROKSTADELVA, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KROKSTADELVA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VUGHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VUGHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VUGHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VUGHT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VUGHT';
+* [ (VUGHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VUGHT/)
 </script>
+<script type="text/javascript">

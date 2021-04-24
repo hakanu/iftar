@@ -8,10 +8,11 @@ permalink: /ITALYA/JESI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JESI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/JESI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'JESI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'JESI';
+* [ (JESI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/JESI/)
 </script>
+<script type="text/javascript">

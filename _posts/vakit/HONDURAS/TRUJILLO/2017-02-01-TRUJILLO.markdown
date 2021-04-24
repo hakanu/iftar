@@ -8,10 +8,11 @@ permalink: /HONDURAS/TRUJILLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRUJILLO, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/TRUJILLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'TRUJILLO';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'TRUJILLO';
+* [ (TRUJILLO, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/TRUJILLO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/TSENGEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TSENGEL, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TSENGEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'TSENGEL';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'TSENGEL';
+* [ (TSENGEL, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TSENGEL/)
 </script>
+<script type="text/javascript">

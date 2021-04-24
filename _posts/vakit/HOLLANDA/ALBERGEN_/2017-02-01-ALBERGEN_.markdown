@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ALBERGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALBERGEN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALBERGEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ALBERGEN ';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ALBERGEN ';
+* [ (ALBERGEN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALBERGEN_/)
 </script>
+<script type="text/javascript">

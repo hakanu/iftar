@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LILIENFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LILIENFELD, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LILIENFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LILIENFELD';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LILIENFELD';
+* [ (LILIENFELD, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LILIENFELD/)
 </script>
+<script type="text/javascript">

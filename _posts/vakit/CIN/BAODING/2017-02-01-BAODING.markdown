@@ -8,10 +8,11 @@ permalink: /CIN/BAODING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAODING, CIN) için iftar ve namaz vakitleri](/CIN/BAODING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'BAODING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'BAODING';
+* [ (BAODING, CIN) için iftar ve namaz vakitleri](/CIN/BAODING/)
 </script>
+<script type="text/javascript">

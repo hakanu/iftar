@@ -8,10 +8,11 @@ permalink: /CIN/WUGANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WUGANG, CIN) için iftar ve namaz vakitleri](/CIN/WUGANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'WUGANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'WUGANG';
+* [ (WUGANG, CIN) için iftar ve namaz vakitleri](/CIN/WUGANG/)
 </script>
+<script type="text/javascript">

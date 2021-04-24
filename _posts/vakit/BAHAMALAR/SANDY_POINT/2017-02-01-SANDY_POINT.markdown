@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/SANDY POINT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANDY_POINT, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/SANDY_POINT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'SANDY POINT';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'SANDY POINT';
+* [ (SANDY_POINT, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/SANDY_POINT/)
 </script>
+<script type="text/javascript">

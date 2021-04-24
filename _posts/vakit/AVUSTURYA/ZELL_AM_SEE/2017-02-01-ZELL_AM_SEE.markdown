@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/ZELL AM SEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZELL_AM_SEE, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ZELL_AM_SEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'ZELL AM SEE';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'ZELL AM SEE';
+* [ (ZELL_AM_SEE, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ZELL_AM_SEE/)
 </script>
+<script type="text/javascript">

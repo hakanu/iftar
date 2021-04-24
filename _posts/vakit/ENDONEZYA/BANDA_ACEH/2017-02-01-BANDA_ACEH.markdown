@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/BANDA ACEH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANDA_ACEH, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BANDA_ACEH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'BANDA ACEH';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'BANDA ACEH';
+* [ (BANDA_ACEH, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BANDA_ACEH/)
 </script>
+<script type="text/javascript">

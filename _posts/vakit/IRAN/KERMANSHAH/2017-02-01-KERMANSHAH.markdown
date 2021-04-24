@@ -8,10 +8,11 @@ permalink: /IRAN/KERMANSHAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERMANSHAH, IRAN) için iftar ve namaz vakitleri](/IRAN/KERMANSHAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'KERMANSHAH';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'KERMANSHAH';
+* [ (KERMANSHAH, IRAN) için iftar ve namaz vakitleri](/IRAN/KERMANSHAH/)
 </script>
+<script type="text/javascript">

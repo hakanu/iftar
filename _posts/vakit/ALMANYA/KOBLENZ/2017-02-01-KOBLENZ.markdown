@@ -8,10 +8,11 @@ permalink: /ALMANYA/KOBLENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOBLENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOBLENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KOBLENZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KOBLENZ';
+* [ (KOBLENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOBLENZ/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HORSENS (Vejle)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORSENS_(Vejle), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HORSENS_(Vejle)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HORSENS (Vejle)';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HORSENS (Vejle)';
+* [ (HORSENS_(Vejle), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HORSENS_(Vejle)/)
 </script>
+<script type="text/javascript">

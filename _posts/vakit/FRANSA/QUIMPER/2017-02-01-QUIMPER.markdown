@@ -8,10 +8,11 @@ permalink: /FRANSA/QUIMPER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUIMPER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/QUIMPER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'QUIMPER';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'QUIMPER';
+* [ (QUIMPER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/QUIMPER/)
 </script>
+<script type="text/javascript">

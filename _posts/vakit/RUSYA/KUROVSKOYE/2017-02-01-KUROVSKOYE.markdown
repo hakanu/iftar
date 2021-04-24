@@ -8,10 +8,11 @@ permalink: /RUSYA/KUROVSKOYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUROVSKOYE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KUROVSKOYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KUROVSKOYE';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KUROVSKOYE';
+* [ (KUROVSKOYE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KUROVSKOYE/)
 </script>
+<script type="text/javascript">

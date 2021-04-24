@@ -8,10 +8,11 @@ permalink: /KOMORLAR/MORONI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORONI, KOMORLAR) için iftar ve namaz vakitleri](/KOMORLAR/MORONI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOMORLAR';
+
   var GLOBAL_CITY = 'MORONI';
+  var GLOBAL_COUNTRY = 'KOMORLAR';
   var GLOBAL_STATE = 'MORONI';
+* [ (MORONI, KOMORLAR) için iftar ve namaz vakitleri](/KOMORLAR/MORONI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NIJERYA/DEBA HABE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEBA_HABE, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/DEBA_HABE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'DEBA HABE';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'DEBA HABE';
+* [ (DEBA_HABE, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/DEBA_HABE/)
 </script>
+<script type="text/javascript">

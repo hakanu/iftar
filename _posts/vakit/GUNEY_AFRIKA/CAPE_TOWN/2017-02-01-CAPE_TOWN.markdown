@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/CAPE TOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAPE_TOWN, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/CAPE_TOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'CAPE TOWN';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'CAPE TOWN';
+* [ (CAPE_TOWN, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/CAPE_TOWN/)
 </script>
+<script type="text/javascript">

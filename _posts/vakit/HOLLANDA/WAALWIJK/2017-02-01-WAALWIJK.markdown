@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WAALWIJK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAALWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WAALWIJK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WAALWIJK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WAALWIJK';
+* [ (WAALWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WAALWIJK/)
 </script>
+<script type="text/javascript">

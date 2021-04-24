@@ -8,10 +8,11 @@ permalink: /LUBNAN/SUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUR, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUBNAN';
+
   var GLOBAL_CITY = 'SUR';
+  var GLOBAL_COUNTRY = 'LUBNAN';
   var GLOBAL_STATE = 'SUR';
+* [ (SUR, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SUR/)
 </script>
+<script type="text/javascript">

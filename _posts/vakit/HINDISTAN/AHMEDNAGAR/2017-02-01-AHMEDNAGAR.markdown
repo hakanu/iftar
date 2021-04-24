@@ -8,10 +8,11 @@ permalink: /HINDISTAN/AHMEDNAGAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AHMEDNAGAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AHMEDNAGAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'AHMEDNAGAR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'AHMEDNAGAR';
+* [ (AHMEDNAGAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AHMEDNAGAR/)
 </script>
+<script type="text/javascript">

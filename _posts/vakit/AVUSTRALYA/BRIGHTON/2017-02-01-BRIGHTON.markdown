@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BRIGHTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIGHTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BRIGHTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BRIGHTON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BRIGHTON';
+* [ (BRIGHTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BRIGHTON/)
 </script>
+<script type="text/javascript">

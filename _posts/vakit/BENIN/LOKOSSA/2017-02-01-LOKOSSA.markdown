@@ -8,10 +8,11 @@ permalink: /BENIN/LOKOSSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOKOSSA, BENIN) için iftar ve namaz vakitleri](/BENIN/LOKOSSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'LOKOSSA';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'LOKOSSA';
+* [ (LOKOSSA, BENIN) için iftar ve namaz vakitleri](/BENIN/LOKOSSA/)
 </script>
+<script type="text/javascript">

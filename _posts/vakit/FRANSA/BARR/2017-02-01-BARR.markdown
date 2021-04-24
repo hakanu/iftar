@@ -8,10 +8,11 @@ permalink: /FRANSA/BARR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARR, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BARR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BARR';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BARR';
+* [ (BARR, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BARR/)
 </script>
+<script type="text/javascript">

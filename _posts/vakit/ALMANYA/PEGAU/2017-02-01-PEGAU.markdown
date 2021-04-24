@@ -8,10 +8,11 @@ permalink: /ALMANYA/PEGAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PEGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PEGAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PEGAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PEGAU';
+* [ (PEGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PEGAU/)
 </script>
+<script type="text/javascript">

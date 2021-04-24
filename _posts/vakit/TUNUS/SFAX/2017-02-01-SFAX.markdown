@@ -8,10 +8,11 @@ permalink: /TUNUS/SFAX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SFAX, TUNUS) için iftar ve namaz vakitleri](/TUNUS/SFAX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TUNUS';
+
   var GLOBAL_CITY = 'SFAX';
+  var GLOBAL_COUNTRY = 'TUNUS';
   var GLOBAL_STATE = 'SFAX';
+* [ (SFAX, TUNUS) için iftar ve namaz vakitleri](/TUNUS/SFAX/)
 </script>
+<script type="text/javascript">

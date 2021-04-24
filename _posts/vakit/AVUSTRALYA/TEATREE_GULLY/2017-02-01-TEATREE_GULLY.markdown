@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/TEATREE GULLY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEATREE_GULLY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TEATREE_GULLY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'TEATREE GULLY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'TEATREE GULLY';
+* [ (TEATREE_GULLY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TEATREE_GULLY/)
 </script>
+<script type="text/javascript">

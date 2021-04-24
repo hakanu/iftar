@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/DUBBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUBBO, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DUBBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'DUBBO';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'DUBBO';
+* [ (DUBBO, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DUBBO/)
 </script>
+<script type="text/javascript">

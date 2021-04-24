@@ -8,10 +8,11 @@ permalink: /INGILTERE/SHEFFIELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHEFFIELD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SHEFFIELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'SHEFFIELD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'SHEFFIELD';
+* [ (SHEFFIELD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SHEFFIELD/)
 </script>
+<script type="text/javascript">

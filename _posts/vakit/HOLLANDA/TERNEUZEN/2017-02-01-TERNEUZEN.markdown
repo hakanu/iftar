@@ -8,10 +8,11 @@ permalink: /HOLLANDA/TERNEUZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERNEUZEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TERNEUZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'TERNEUZEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'TERNEUZEN';
+* [ (TERNEUZEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TERNEUZEN/)
 </script>
+<script type="text/javascript">

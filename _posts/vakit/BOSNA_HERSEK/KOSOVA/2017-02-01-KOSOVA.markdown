@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/KOSOVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOSOVA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/KOSOVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'KOSOVA';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'KOSOVA';
+* [ (KOSOVA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/KOSOVA/)
 </script>
+<script type="text/javascript">

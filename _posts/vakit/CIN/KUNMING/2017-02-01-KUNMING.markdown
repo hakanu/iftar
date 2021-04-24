@@ -8,10 +8,11 @@ permalink: /CIN/KUNMING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUNMING, CIN) için iftar ve namaz vakitleri](/CIN/KUNMING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KUNMING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KUNMING';
+* [ (KUNMING, CIN) için iftar ve namaz vakitleri](/CIN/KUNMING/)
 </script>
+<script type="text/javascript">

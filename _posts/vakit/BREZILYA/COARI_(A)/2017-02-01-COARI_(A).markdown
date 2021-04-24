@@ -8,10 +8,11 @@ permalink: /BREZILYA/COARI (A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COARI_(A), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/COARI_(A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'COARI (A)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'COARI (A)';
+* [ (COARI_(A), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/COARI_(A)/)
 </script>
+<script type="text/javascript">

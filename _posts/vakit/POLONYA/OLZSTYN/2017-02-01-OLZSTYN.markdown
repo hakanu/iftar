@@ -8,10 +8,11 @@ permalink: /POLONYA/OLZSTYN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLZSTYN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/OLZSTYN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'OLZSTYN';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'OLZSTYN';
+* [ (OLZSTYN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/OLZSTYN/)
 </script>
+<script type="text/javascript">

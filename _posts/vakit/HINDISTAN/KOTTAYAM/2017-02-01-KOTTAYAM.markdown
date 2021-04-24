@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KOTTAYAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOTTAYAM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KOTTAYAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KOTTAYAM';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KOTTAYAM';
+* [ (KOTTAYAM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KOTTAYAM/)
 </script>
+<script type="text/javascript">

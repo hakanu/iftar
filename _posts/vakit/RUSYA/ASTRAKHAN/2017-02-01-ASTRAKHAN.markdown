@@ -8,10 +8,11 @@ permalink: /RUSYA/ASTRAKHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASTRAKHAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ASTRAKHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ASTRAKHAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ASTRAKHAN';
+* [ (ASTRAKHAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ASTRAKHAN/)
 </script>
+<script type="text/javascript">

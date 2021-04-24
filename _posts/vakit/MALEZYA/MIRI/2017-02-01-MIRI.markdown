@@ -8,10 +8,11 @@ permalink: /MALEZYA/MIRI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIRI, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/MIRI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'MIRI';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'MIRI';
+* [ (MIRI, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/MIRI/)
 </script>
+<script type="text/javascript">

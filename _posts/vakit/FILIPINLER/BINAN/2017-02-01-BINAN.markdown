@@ -8,10 +8,11 @@ permalink: /FILIPINLER/BINAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BINAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BINAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'BINAN';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'BINAN';
+* [ (BINAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BINAN/)
 </script>
+<script type="text/javascript">

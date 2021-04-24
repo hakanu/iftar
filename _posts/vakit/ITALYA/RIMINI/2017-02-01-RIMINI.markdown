@@ -8,10 +8,11 @@ permalink: /ITALYA/RIMINI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIMINI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RIMINI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'RIMINI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'RIMINI';
+* [ (RIMINI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RIMINI/)
 </script>
+<script type="text/javascript">

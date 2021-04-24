@@ -8,10 +8,11 @@ permalink: /JAPONYA/NUMAZU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUMAZU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NUMAZU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NUMAZU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NUMAZU';
+* [ (NUMAZU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NUMAZU/)
 </script>
+<script type="text/javascript">

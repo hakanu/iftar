@@ -8,10 +8,11 @@ permalink: /ALMANYA/BORKEN (HESSEN)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORKEN_(HESSEN), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BORKEN_(HESSEN)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BORKEN (HESSEN)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BORKEN (HESSEN)';
+* [ (BORKEN_(HESSEN), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BORKEN_(HESSEN)/)
 </script>
+<script type="text/javascript">

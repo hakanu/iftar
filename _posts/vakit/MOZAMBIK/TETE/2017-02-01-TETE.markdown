@@ -8,10 +8,11 @@ permalink: /MOZAMBIK/TETE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TETE, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/TETE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOZAMBIK';
+
   var GLOBAL_CITY = 'TETE';
+  var GLOBAL_COUNTRY = 'MOZAMBIK';
   var GLOBAL_STATE = 'TETE';
+* [ (TETE, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/TETE/)
 </script>
+<script type="text/javascript">

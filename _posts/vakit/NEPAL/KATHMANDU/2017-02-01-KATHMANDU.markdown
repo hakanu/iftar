@@ -8,10 +8,11 @@ permalink: /NEPAL/KATHMANDU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KATHMANDU, NEPAL) için iftar ve namaz vakitleri](/NEPAL/KATHMANDU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NEPAL';
+
   var GLOBAL_CITY = 'KATHMANDU';
+  var GLOBAL_COUNTRY = 'NEPAL';
   var GLOBAL_STATE = 'KATHMANDU';
+* [ (KATHMANDU, NEPAL) için iftar ve namaz vakitleri](/NEPAL/KATHMANDU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HEESCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEESCH, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEESCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HEESCH';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HEESCH';
+* [ (HEESCH, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEESCH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/CIMKENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIMKENT, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CIMKENT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'CIMKENT';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'CIMKENT';
+* [ (CIMKENT, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CIMKENT/)
 </script>
+<script type="text/javascript">

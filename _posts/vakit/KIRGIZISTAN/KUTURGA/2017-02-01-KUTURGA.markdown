@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/KUTURGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUTURGA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KUTURGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'KUTURGA';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'KUTURGA';
+* [ (KUTURGA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KUTURGA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/MOZDOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOZDOK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MOZDOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MOZDOK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MOZDOK';
+* [ (MOZDOK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MOZDOK/)
 </script>
+<script type="text/javascript">

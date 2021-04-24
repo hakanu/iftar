@@ -8,10 +8,11 @@ permalink: /ALMANYA/NIENHAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIENHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NIENHAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NIENHAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NIENHAGEN';
+* [ (NIENHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NIENHAGEN/)
 </script>
+<script type="text/javascript">

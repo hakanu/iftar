@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KOZANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOZANI, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KOZANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KOZANI';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KOZANI';
+* [ (KOZANI, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KOZANI/)
 </script>
+<script type="text/javascript">

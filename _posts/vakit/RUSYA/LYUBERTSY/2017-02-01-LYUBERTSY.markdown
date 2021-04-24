@@ -8,10 +8,11 @@ permalink: /RUSYA/LYUBERTSY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LYUBERTSY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LYUBERTSY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'LYUBERTSY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'LYUBERTSY';
+* [ (LYUBERTSY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LYUBERTSY/)
 </script>
+<script type="text/javascript">

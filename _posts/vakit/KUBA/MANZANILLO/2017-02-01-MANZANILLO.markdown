@@ -8,10 +8,11 @@ permalink: /KUBA/MANZANILLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANZANILLO, KUBA) için iftar ve namaz vakitleri](/KUBA/MANZANILLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'MANZANILLO';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'MANZANILLO';
+* [ (MANZANILLO, KUBA) için iftar ve namaz vakitleri](/KUBA/MANZANILLO/)
 </script>
+<script type="text/javascript">

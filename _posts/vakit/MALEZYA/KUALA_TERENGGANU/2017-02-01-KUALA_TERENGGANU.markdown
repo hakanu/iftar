@@ -8,10 +8,11 @@ permalink: /MALEZYA/KUALA TERENGGANU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUALA_TERENGGANU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUALA_TERENGGANU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KUALA TERENGGANU';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KUALA TERENGGANU';
+* [ (KUALA_TERENGGANU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUALA_TERENGGANU/)
 </script>
+<script type="text/javascript">

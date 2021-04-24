@@ -8,12 +8,13 @@ permalink: /TÜRKİYE/BARTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'BARTIN';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'BARTIN';
+* [BARTIN (BARTIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BARTIN/BARTIN)
 * [KURUCAŞİLE (BARTIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BARTIN/KURUCAŞİLE)
 * [ULUS (BARTIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BARTIN/ULUS)
-* [BARTIN (BARTIN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BARTIN/BARTIN)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'BARTIN';
-  var GLOBAL_STATE = 'BARTIN';
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SURIYE/AL LADHIQIYAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_LADHIQIYAH, SURIYE) için iftar ve namaz vakitleri](/SURIYE/AL_LADHIQIYAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'AL LADHIQIYAH';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'AL LADHIQIYAH';
+* [ (AL_LADHIQIYAH, SURIYE) için iftar ve namaz vakitleri](/SURIYE/AL_LADHIQIYAH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/WUHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WUHAN, CIN) için iftar ve namaz vakitleri](/CIN/WUHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'WUHAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'WUHAN';
+* [ (WUHAN, CIN) için iftar ve namaz vakitleri](/CIN/WUHAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CHIHUAHUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIHUAHUA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CHIHUAHUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CHIHUAHUA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CHIHUAHUA';
+* [ (CHIHUAHUA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CHIHUAHUA/)
 </script>
+<script type="text/javascript">

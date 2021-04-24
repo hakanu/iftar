@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/NEWCASTLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEWCASTLE, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/NEWCASTLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'NEWCASTLE';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'NEWCASTLE';
+* [ (NEWCASTLE, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/NEWCASTLE/)
 </script>
+<script type="text/javascript">

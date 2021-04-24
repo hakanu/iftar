@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KOLHAPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOLHAPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KOLHAPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KOLHAPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KOLHAPUR';
+* [ (KOLHAPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KOLHAPUR/)
 </script>
+<script type="text/javascript">

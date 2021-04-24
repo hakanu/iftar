@@ -8,10 +8,11 @@ permalink: /FRANSA/TULLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULLE_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TULLE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TULLE ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TULLE ';
+* [ (TULLE_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TULLE_/)
 </script>
+<script type="text/javascript">

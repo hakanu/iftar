@@ -8,10 +8,11 @@ permalink: /INGILTERE/WATFORD (LONDRA)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WATFORD_(LONDRA), INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WATFORD_(LONDRA)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WATFORD (LONDRA)';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WATFORD (LONDRA)';
+* [ (WATFORD_(LONDRA), INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WATFORD_(LONDRA)/)
 </script>
+<script type="text/javascript">

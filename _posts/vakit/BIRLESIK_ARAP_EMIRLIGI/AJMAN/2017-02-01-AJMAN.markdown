@@ -8,10 +8,11 @@ permalink: /BIRLESIK ARAP EMIRLIGI/AJMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AJMAN, BIRLESIK_ARAP_EMIRLIGI) için iftar ve namaz vakitleri](/BIRLESIK_ARAP_EMIRLIGI/AJMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BIRLESIK ARAP EMIRLIGI';
+
   var GLOBAL_CITY = 'AJMAN';
+  var GLOBAL_COUNTRY = 'BIRLESIK ARAP EMIRLIGI';
   var GLOBAL_STATE = 'AJMAN';
+* [ (AJMAN, BIRLESIK_ARAP_EMIRLIGI) için iftar ve namaz vakitleri](/BIRLESIK_ARAP_EMIRLIGI/AJMAN/)
 </script>
+<script type="text/javascript">

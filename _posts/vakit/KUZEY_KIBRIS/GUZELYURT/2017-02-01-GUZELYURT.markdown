@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/GUZELYURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUZELYURT, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GUZELYURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'GUZELYURT';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'GUZELYURT';
+* [ (GUZELYURT, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GUZELYURT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/BEAUNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEAUNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEAUNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BEAUNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BEAUNE';
+* [ (BEAUNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEAUNE/)
 </script>
+<script type="text/javascript">

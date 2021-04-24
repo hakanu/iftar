@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KARAOBA(Pavlodar)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAOBA(Pavlodar), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARAOBA(Pavlodar)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KARAOBA(Pavlodar)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KARAOBA(Pavlodar)';
+* [ (KARAOBA(Pavlodar), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARAOBA(Pavlodar)/)
 </script>
+<script type="text/javascript">

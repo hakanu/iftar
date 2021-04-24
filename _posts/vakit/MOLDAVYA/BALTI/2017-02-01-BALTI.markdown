@@ -8,10 +8,11 @@ permalink: /MOLDAVYA/BALTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALTI, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/BALTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOLDAVYA';
+
   var GLOBAL_CITY = 'BALTI';
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
   var GLOBAL_STATE = 'BALTI';
+* [ (BALTI, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/BALTI/)
 </script>
+<script type="text/javascript">

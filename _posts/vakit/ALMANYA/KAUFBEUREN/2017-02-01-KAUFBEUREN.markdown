@@ -8,10 +8,11 @@ permalink: /ALMANYA/KAUFBEUREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAUFBEUREN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KAUFBEUREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KAUFBEUREN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KAUFBEUREN';
+* [ (KAUFBEUREN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KAUFBEUREN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/WARWICK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARWICK, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WARWICK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WARWICK';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WARWICK';
+* [ (WARWICK, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WARWICK/)
 </script>
+<script type="text/javascript">

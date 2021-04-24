@@ -8,10 +8,11 @@ permalink: /IRLANDA/DUNDALK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUNDALK, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/DUNDALK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'DUNDALK';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'DUNDALK';
+* [ (DUNDALK, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/DUNDALK/)
 </script>
+<script type="text/javascript">

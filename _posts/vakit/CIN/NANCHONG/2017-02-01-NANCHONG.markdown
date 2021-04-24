@@ -8,10 +8,11 @@ permalink: /CIN/NANCHONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NANCHONG, CIN) için iftar ve namaz vakitleri](/CIN/NANCHONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'NANCHONG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'NANCHONG';
+* [ (NANCHONG, CIN) için iftar ve namaz vakitleri](/CIN/NANCHONG/)
 </script>
+<script type="text/javascript">

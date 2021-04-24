@@ -8,10 +8,11 @@ permalink: /CIN/YICHUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YICHUN, CIN) için iftar ve namaz vakitleri](/CIN/YICHUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YICHUN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YICHUN';
+* [ (YICHUN, CIN) için iftar ve namaz vakitleri](/CIN/YICHUN/)
 </script>
+<script type="text/javascript">

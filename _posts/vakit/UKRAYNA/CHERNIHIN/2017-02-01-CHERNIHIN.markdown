@@ -8,10 +8,11 @@ permalink: /UKRAYNA/CHERNIHIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHERNIHIN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/CHERNIHIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'CHERNIHIN';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'CHERNIHIN';
+* [ (CHERNIHIN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/CHERNIHIN/)
 </script>
+<script type="text/javascript">

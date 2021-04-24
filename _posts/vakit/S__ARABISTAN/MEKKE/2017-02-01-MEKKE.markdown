@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/MEKKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEKKE, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/MEKKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'MEKKE';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'MEKKE';
+* [ (MEKKE, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/MEKKE/)
 </script>
+<script type="text/javascript">

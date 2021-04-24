@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/ASKABAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASKABAT, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/ASKABAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'ASKABAT';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'ASKABAT';
+* [ (ASKABAT, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/ASKABAT/)
 </script>
+<script type="text/javascript">

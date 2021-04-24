@@ -8,10 +8,11 @@ permalink: /NORVEC/SUNNDALSORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUNNDALSORA, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SUNNDALSORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SUNNDALSORA';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SUNNDALSORA';
+* [ (SUNNDALSORA, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SUNNDALSORA/)
 </script>
+<script type="text/javascript">

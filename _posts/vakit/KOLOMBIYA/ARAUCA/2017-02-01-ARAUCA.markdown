@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/ARAUCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARAUCA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/ARAUCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'ARAUCA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'ARAUCA';
+* [ (ARAUCA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/ARAUCA/)
 </script>
+<script type="text/javascript">

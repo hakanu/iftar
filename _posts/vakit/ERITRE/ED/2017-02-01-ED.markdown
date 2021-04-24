@@ -8,10 +8,11 @@ permalink: /ERITRE/ED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ED, ERITRE) için iftar ve namaz vakitleri](/ERITRE/ED/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ERITRE';
+
   var GLOBAL_CITY = 'ED';
+  var GLOBAL_COUNTRY = 'ERITRE';
   var GLOBAL_STATE = 'ED';
+* [ (ED, ERITRE) için iftar ve namaz vakitleri](/ERITRE/ED/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HJORRING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HJORRING, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HJORRING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HJORRING';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HJORRING';
+* [ (HJORRING, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HJORRING/)
 </script>
+<script type="text/javascript">

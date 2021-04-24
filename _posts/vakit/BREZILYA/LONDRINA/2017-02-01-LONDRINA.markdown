@@ -8,10 +8,11 @@ permalink: /BREZILYA/LONDRINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LONDRINA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/LONDRINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'LONDRINA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'LONDRINA';
+* [ (LONDRINA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/LONDRINA/)
 </script>
+<script type="text/javascript">

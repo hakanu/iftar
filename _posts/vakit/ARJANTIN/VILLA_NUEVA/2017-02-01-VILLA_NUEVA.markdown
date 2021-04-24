@@ -8,10 +8,11 @@ permalink: /ARJANTIN/VILLA NUEVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLA_NUEVA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/VILLA_NUEVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'VILLA NUEVA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'VILLA NUEVA';
+* [ (VILLA_NUEVA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/VILLA_NUEVA/)
 </script>
+<script type="text/javascript">

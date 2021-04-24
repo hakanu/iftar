@@ -8,10 +8,11 @@ permalink: /NEPAL/DHARAN BAZAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DHARAN_BAZAR, NEPAL) için iftar ve namaz vakitleri](/NEPAL/DHARAN_BAZAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NEPAL';
+
   var GLOBAL_CITY = 'DHARAN BAZAR';
+  var GLOBAL_COUNTRY = 'NEPAL';
   var GLOBAL_STATE = 'DHARAN BAZAR';
+* [ (DHARAN_BAZAR, NEPAL) için iftar ve namaz vakitleri](/NEPAL/DHARAN_BAZAR/)
 </script>
+<script type="text/javascript">

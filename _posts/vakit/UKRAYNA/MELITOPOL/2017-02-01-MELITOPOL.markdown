@@ -8,10 +8,11 @@ permalink: /UKRAYNA/MELITOPOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELITOPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MELITOPOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'MELITOPOL';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'MELITOPOL';
+* [ (MELITOPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MELITOPOL/)
 </script>
+<script type="text/javascript">

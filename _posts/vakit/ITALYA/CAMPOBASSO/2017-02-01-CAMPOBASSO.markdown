@@ -8,10 +8,11 @@ permalink: /ITALYA/CAMPOBASSO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMPOBASSO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CAMPOBASSO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CAMPOBASSO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CAMPOBASSO';
+* [ (CAMPOBASSO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CAMPOBASSO/)
 </script>
+<script type="text/javascript">

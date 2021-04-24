@@ -8,10 +8,11 @@ permalink: /BELIZE/BELIZE CITY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELIZE_CITY, BELIZE) için iftar ve namaz vakitleri](/BELIZE/BELIZE_CITY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELIZE';
+
   var GLOBAL_CITY = 'BELIZE CITY';
+  var GLOBAL_COUNTRY = 'BELIZE';
   var GLOBAL_STATE = 'BELIZE CITY';
+* [ (BELIZE_CITY, BELIZE) için iftar ve namaz vakitleri](/BELIZE/BELIZE_CITY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DELFZIJL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DELFZIJL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DELFZIJL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DELFZIJL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DELFZIJL';
+* [ (DELFZIJL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DELFZIJL/)
 </script>
+<script type="text/javascript">

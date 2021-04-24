@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOMBURG-SAAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOMBURG-SAAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOMBURG-SAAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOMBURG-SAAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOMBURG-SAAR';
+* [ (HOMBURG-SAAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOMBURG-SAAR/)
 </script>
+<script type="text/javascript">

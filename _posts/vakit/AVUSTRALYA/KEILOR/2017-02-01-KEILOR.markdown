@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/KEILOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KEILOR, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KEILOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'KEILOR';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'KEILOR';
+* [ (KEILOR, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KEILOR/)
 </script>
+<script type="text/javascript">

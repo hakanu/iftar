@@ -8,10 +8,11 @@ permalink: /ROMANYA/NICULITEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NICULITEL, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/NICULITEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'NICULITEL';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'NICULITEL';
+* [ (NICULITEL, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/NICULITEL/)
 </script>
+<script type="text/javascript">

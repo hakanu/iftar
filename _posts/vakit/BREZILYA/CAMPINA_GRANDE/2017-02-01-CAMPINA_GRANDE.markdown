@@ -8,10 +8,11 @@ permalink: /BREZILYA/CAMPINA GRANDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMPINA_GRANDE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CAMPINA_GRANDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CAMPINA GRANDE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CAMPINA GRANDE';
+* [ (CAMPINA_GRANDE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CAMPINA_GRANDE/)
 </script>
+<script type="text/javascript">

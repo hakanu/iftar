@@ -8,10 +8,11 @@ permalink: /TAYVAN/TAICHUNG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAICHUNG, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAICHUNG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'TAICHUNG';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'TAICHUNG';
+* [ (TAICHUNG, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAICHUNG/)
 </script>
+<script type="text/javascript">

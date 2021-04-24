@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO JOSE DO RIO PRETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_JOSE_DO_RIO_PRETO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE_DO_RIO_PRETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO JOSE DO RIO PRETO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO JOSE DO RIO PRETO';
+* [ (SAO_JOSE_DO_RIO_PRETO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE_DO_RIO_PRETO/)
 </script>
+<script type="text/javascript">

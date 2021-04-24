@@ -8,25 +8,26 @@ permalink: /TÜRKİYE/DENİZLİ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ACIPAYAM (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ACIPAYAM)
-* [ÇARDAK (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇARDAK)
-* [BABADAĞ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BABADAĞ)
-* [ÇAL (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇAL)
-* [BULDAN (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BULDAN)
-* [SARAYKÖY (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/SARAYKÖY)
-* [BAKLAN (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BAKLAN)
-* [BOZKURT (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BOZKURT)
-* [HONAZ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/HONAZ)
-* [DENİZLİ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/DENİZLİ)
-* [BEKİLLİ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BEKİLLİ)
-* [SERİNHİSAR (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/SERİNHİSAR)
-* [ÇAMELİ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇAMELİ)
-* [BEYAĞAÇ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BEYAĞAÇ)
-* [KALE (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/KALE)
-* [ÇİVRİL (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇİVRİL)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'DENİZLİ';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'DENİZLİ';
+* [ACIPAYAM (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ACIPAYAM)
+* [BABADAĞ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BABADAĞ)
+* [BAKLAN (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BAKLAN)
+* [BEKİLLİ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BEKİLLİ)
+* [BEYAĞAÇ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BEYAĞAÇ)
+* [BOZKURT (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BOZKURT)
+* [BULDAN (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/BULDAN)
+* [DENİZLİ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/DENİZLİ)
+* [HONAZ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/HONAZ)
+* [KALE (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/KALE)
+* [SARAYKÖY (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/SARAYKÖY)
+* [SERİNHİSAR (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/SERİNHİSAR)
+* [ÇAL (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇAL)
+* [ÇAMELİ (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇAMELİ)
+* [ÇARDAK (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇARDAK)
+* [ÇİVRİL (DENİZLİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DENİZLİ/ÇİVRİL)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/WACHTEBEKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WACHTEBEKE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WACHTEBEKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WACHTEBEKE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WACHTEBEKE';
+* [ (WACHTEBEKE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WACHTEBEKE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PAKISTAN/RAWALPINDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAWALPINDI, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/RAWALPINDI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'RAWALPINDI';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'RAWALPINDI';
+* [ (RAWALPINDI, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/RAWALPINDI/)
 </script>
+<script type="text/javascript">

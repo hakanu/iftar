@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVOSHAKHTINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVOSHAKHTINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOSHAKHTINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVOSHAKHTINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVOSHAKHTINSK';
+* [ (NOVOSHAKHTINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOSHAKHTINSK/)
 </script>
+<script type="text/javascript">

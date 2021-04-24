@@ -8,10 +8,11 @@ permalink: /FRANSA/GUIDEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUIDEL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GUIDEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GUIDEL';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GUIDEL';
+* [ (GUIDEL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GUIDEL/)
 </script>
+<script type="text/javascript">

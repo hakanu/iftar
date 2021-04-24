@@ -8,10 +8,11 @@ permalink: /CIN/ZHANGJIAKOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHANGJIAKOU, CIN) için iftar ve namaz vakitleri](/CIN/ZHANGJIAKOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZHANGJIAKOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZHANGJIAKOU';
+* [ (ZHANGJIAKOU, CIN) için iftar ve namaz vakitleri](/CIN/ZHANGJIAKOU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SURINAM/PARAMARIBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARAMARIBO, SURINAM) için iftar ve namaz vakitleri](/SURINAM/PARAMARIBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURINAM';
+
   var GLOBAL_CITY = 'PARAMARIBO';
+  var GLOBAL_COUNTRY = 'SURINAM';
   var GLOBAL_STATE = 'PARAMARIBO';
+* [ (PARAMARIBO, SURINAM) için iftar ve namaz vakitleri](/SURINAM/PARAMARIBO/)
 </script>
+<script type="text/javascript">

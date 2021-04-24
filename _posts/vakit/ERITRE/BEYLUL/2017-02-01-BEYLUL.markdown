@@ -8,10 +8,11 @@ permalink: /ERITRE/BEYLUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEYLUL, ERITRE) için iftar ve namaz vakitleri](/ERITRE/BEYLUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ERITRE';
+
   var GLOBAL_CITY = 'BEYLUL';
+  var GLOBAL_COUNTRY = 'ERITRE';
   var GLOBAL_STATE = 'BEYLUL';
+* [ (BEYLUL, ERITRE) için iftar ve namaz vakitleri](/ERITRE/BEYLUL/)
 </script>
+<script type="text/javascript">

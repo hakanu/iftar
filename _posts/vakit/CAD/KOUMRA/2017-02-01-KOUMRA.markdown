@@ -8,10 +8,11 @@ permalink: /CAD/KOUMRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOUMRA, CAD) için iftar ve namaz vakitleri](/CAD/KOUMRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'KOUMRA';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'KOUMRA';
+* [ (KOUMRA, CAD) için iftar ve namaz vakitleri](/CAD/KOUMRA/)
 </script>
+<script type="text/javascript">

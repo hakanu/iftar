@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/KUSTAVI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUSTAVI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KUSTAVI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'KUSTAVI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'KUSTAVI';
+* [ (KUSTAVI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KUSTAVI/)
 </script>
+<script type="text/javascript">

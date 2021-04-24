@@ -8,10 +8,11 @@ permalink: /VENEZUELA/BARUTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARUTA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARUTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'BARUTA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'BARUTA';
+* [ (BARUTA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARUTA/)
 </script>
+<script type="text/javascript">

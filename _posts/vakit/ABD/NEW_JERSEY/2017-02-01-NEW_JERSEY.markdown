@@ -8,31 +8,32 @@ permalink: /ABD/NEW JERSEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [NORTH_PLAINFIELD (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/NORTH_PLAINFIELD)
-* [JERSEY_CITY (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/JERSEY_CITY)
-* [VINELAND (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/VINELAND)
-* [NEW_BRUNSWICK (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/NEW_BRUNSWICK)
-* [BURLINGTON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/BURLINGTON)
-* [TRENTON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/TRENTON)
-* [EWING (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/EWING)
-* [EANTONTOWN (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/EANTONTOWN)
-* [NEWARK (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/NEWARK)
-* [WESTFIELD (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/WESTFIELD)
-* [WILLINGBORO_ (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/WILLINGBORO_)
-* [UNION_CITY (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/UNION_CITY)
+
+
+  var GLOBAL_CITY = 'NEW JERSEY';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'NEW JERSEY';
+* [ATLANTIC_CITY_ (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/ATLANTIC_CITY_)
 * [BLOOMFIELD (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/BLOOMFIELD)
+* [BURLINGTON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/BURLINGTON)
+* [CLIFTON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/CLIFTON)
+* [EANTONTOWN (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/EANTONTOWN)
 * [ELIZABETH (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/ELIZABETH)
+* [EWING (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/EWING)
+* [JERSEY_CITY (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/JERSEY_CITY)
+* [NEWARK (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/NEWARK)
+* [NEW_BRUNSWICK (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/NEW_BRUNSWICK)
+* [NORTH_PLAINFIELD (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/NORTH_PLAINFIELD)
+* [PATERSON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/PATERSON)
 * [PISCATAWAY (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/PISCATAWAY)
+* [PRINCETON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/PRINCETON)
 * [SALEM (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/SALEM)
 * [SCOTCH_PLAINS (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/SCOTCH_PLAINS)
-* [PRINCETON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/PRINCETON)
 * [SOMERSET (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/SOMERSET)
-* [PATERSON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/PATERSON)
-* [CLIFTON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/CLIFTON)
-* [ATLANTIC_CITY_ (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/ATLANTIC_CITY_)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'NEW JERSEY';
-  var GLOBAL_STATE = 'NEW JERSEY';
+* [TRENTON (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/TRENTON)
+* [UNION_CITY (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/UNION_CITY)
+* [VINELAND (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/VINELAND)
+* [WESTFIELD (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/WESTFIELD)
+* [WILLINGBORO_ (NEW_JERSEY, ABD) için iftar ve namaz vakitleri](/ABD/NEW_JERSEY/WILLINGBORO_)
 </script>
+<script type="text/javascript">

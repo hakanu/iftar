@@ -8,10 +8,11 @@ permalink: /CEZAYIR/BEJAIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEJAIA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BEJAIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'BEJAIA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'BEJAIA';
+* [ (BEJAIA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BEJAIA/)
 </script>
+<script type="text/javascript">

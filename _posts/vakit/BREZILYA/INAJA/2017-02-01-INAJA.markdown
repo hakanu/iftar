@@ -8,10 +8,11 @@ permalink: /BREZILYA/INAJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INAJA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/INAJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'INAJA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'INAJA';
+* [ (INAJA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/INAJA/)
 </script>
+<script type="text/javascript">

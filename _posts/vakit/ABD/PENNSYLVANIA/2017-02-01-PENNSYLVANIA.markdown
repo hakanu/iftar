@@ -8,28 +8,29 @@ permalink: /ABD/PENNSYLVANIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [PHILADELPHIA (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/PHILADELPHIA)
-* [BETHLEHEN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/BETHLEHEN)
-* [POTTSTOWN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/POTTSTOWN)
+
+
+  var GLOBAL_CITY = 'PENNSYLVANIA';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'PENNSYLVANIA';
 * [ALLENTOWN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/ALLENTOWN)
 * [BENSALEM (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/BENSALEM)
-* [UNIONTOWN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/UNIONTOWN)
-* [NEW_CASTLE (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/NEW_CASTLE)
-* [MCKEESPORT (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/MCKEESPORT)
-* [TAMAQUA (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/TAMAQUA)
-* [HARRISBURG (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/HARRISBURG)
-* [READING (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/READING)
-* [PITTSBURGH (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/PITTSBURGH)
-* [CHESTER__ (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/CHESTER__)
-* [NORRISTOWN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/NORRISTOWN)
-* [PHOENIXVILLE (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/PHOENIXVILLE)
-* [STATE_COLLEGE (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/STATE_COLLEGE)
-* [INDIANA (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/INDIANA)
+* [BETHLEHEN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/BETHLEHEN)
 * [BRISTOL (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/BRISTOL)
+* [CHESTER__ (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/CHESTER__)
 * [ERIE (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/ERIE)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'PENNSYLVANIA';
-  var GLOBAL_STATE = 'PENNSYLVANIA';
+* [HARRISBURG (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/HARRISBURG)
+* [INDIANA (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/INDIANA)
+* [MCKEESPORT (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/MCKEESPORT)
+* [NEW_CASTLE (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/NEW_CASTLE)
+* [NORRISTOWN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/NORRISTOWN)
+* [PHILADELPHIA (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/PHILADELPHIA)
+* [PHOENIXVILLE (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/PHOENIXVILLE)
+* [PITTSBURGH (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/PITTSBURGH)
+* [POTTSTOWN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/POTTSTOWN)
+* [READING (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/READING)
+* [STATE_COLLEGE (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/STATE_COLLEGE)
+* [TAMAQUA (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/TAMAQUA)
+* [UNIONTOWN (PENNSYLVANIA, ABD) için iftar ve namaz vakitleri](/ABD/PENNSYLVANIA/UNIONTOWN)
 </script>
+<script type="text/javascript">

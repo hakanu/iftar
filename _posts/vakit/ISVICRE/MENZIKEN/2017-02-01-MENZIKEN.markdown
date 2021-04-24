@@ -8,10 +8,11 @@ permalink: /ISVICRE/MENZIKEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MENZIKEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MENZIKEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MENZIKEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MENZIKEN';
+* [ (MENZIKEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MENZIKEN/)
 </script>
+<script type="text/javascript">

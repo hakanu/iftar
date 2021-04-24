@@ -8,10 +8,11 @@ permalink: /MALEZYA/PENANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENANG, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/PENANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'PENANG';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'PENANG';
+* [ (PENANG, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/PENANG/)
 </script>
+<script type="text/javascript">

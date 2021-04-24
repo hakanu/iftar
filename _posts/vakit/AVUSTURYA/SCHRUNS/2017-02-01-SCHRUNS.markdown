@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SCHRUNS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHRUNS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SCHRUNS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SCHRUNS';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SCHRUNS';
+* [ (SCHRUNS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SCHRUNS/)
 </script>
+<script type="text/javascript">

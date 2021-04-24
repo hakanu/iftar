@@ -8,10 +8,11 @@ permalink: /KUBA/HAVANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAVANA, KUBA) için iftar ve namaz vakitleri](/KUBA/HAVANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'HAVANA';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'HAVANA';
+* [ (HAVANA, KUBA) için iftar ve namaz vakitleri](/KUBA/HAVANA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BLERICK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLERICK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BLERICK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BLERICK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BLERICK';
+* [ (BLERICK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BLERICK/)
 </script>
+<script type="text/javascript">

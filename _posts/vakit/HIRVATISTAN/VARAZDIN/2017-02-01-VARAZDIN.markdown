@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/VARAZDIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VARAZDIN, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/VARAZDIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'VARAZDIN';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'VARAZDIN';
+* [ (VARAZDIN, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/VARAZDIN/)
 </script>
+<script type="text/javascript">

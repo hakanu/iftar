@@ -8,10 +8,11 @@ permalink: /PAKISTAN/SIALKOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIALKOT, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SIALKOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'SIALKOT';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'SIALKOT';
+* [ (SIALKOT, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SIALKOT/)
 </script>
+<script type="text/javascript">

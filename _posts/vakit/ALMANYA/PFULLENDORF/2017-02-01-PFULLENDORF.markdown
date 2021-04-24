@@ -8,10 +8,11 @@ permalink: /ALMANYA/PFULLENDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PFULLENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PFULLENDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PFULLENDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PFULLENDORF';
+* [ (PFULLENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PFULLENDORF/)
 </script>
+<script type="text/javascript">

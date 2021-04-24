@@ -8,10 +8,11 @@ permalink: /FRANSA/DIJON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIJON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIJON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DIJON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DIJON';
+* [ (DIJON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIJON/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TIJUANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIJUANA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TIJUANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TIJUANA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TIJUANA';
+* [ (TIJUANA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TIJUANA/)
 </script>
+<script type="text/javascript">

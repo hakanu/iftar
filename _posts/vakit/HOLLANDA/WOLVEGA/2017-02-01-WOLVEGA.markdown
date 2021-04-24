@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WOLVEGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOLVEGA, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WOLVEGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WOLVEGA';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WOLVEGA';
+* [ (WOLVEGA, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WOLVEGA/)
 </script>
+<script type="text/javascript">

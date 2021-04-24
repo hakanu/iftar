@@ -8,10 +8,11 @@ permalink: /HINDISTAN/GWALIOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GWALIOR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GWALIOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'GWALIOR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'GWALIOR';
+* [ (GWALIOR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GWALIOR/)
 </script>
+<script type="text/javascript">

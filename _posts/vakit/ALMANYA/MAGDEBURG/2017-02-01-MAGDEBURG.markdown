@@ -8,10 +8,11 @@ permalink: /ALMANYA/MAGDEBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAGDEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAGDEBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MAGDEBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MAGDEBURG';
+* [ (MAGDEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAGDEBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/RAUBAIX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAUBAIX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RAUBAIX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RAUBAIX';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RAUBAIX';
+* [ (RAUBAIX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RAUBAIX/)
 </script>
+<script type="text/javascript">

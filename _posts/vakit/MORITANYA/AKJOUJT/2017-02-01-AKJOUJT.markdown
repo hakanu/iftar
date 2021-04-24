@@ -8,10 +8,11 @@ permalink: /MORITANYA/AKJOUJT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKJOUJT, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/AKJOUJT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'AKJOUJT';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'AKJOUJT';
+* [ (AKJOUJT, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/AKJOUJT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HINDISTAN/CHANDIGARH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANDIGARH, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CHANDIGARH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'CHANDIGARH';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'CHANDIGARH';
+* [ (CHANDIGARH, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CHANDIGARH/)
 </script>
+<script type="text/javascript">

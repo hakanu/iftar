@@ -8,10 +8,11 @@ permalink: /JAPONYA/NARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NARA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NARA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NARA';
+* [ (NARA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NARA/)
 </script>
+<script type="text/javascript">

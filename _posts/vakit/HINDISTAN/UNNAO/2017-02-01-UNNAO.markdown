@@ -8,10 +8,11 @@ permalink: /HINDISTAN/UNNAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UNNAO, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/UNNAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'UNNAO';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'UNNAO';
+* [ (UNNAO, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/UNNAO/)
 </script>
+<script type="text/javascript">

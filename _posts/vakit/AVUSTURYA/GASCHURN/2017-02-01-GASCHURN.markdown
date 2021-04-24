@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GASCHURN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GASCHURN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GASCHURN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GASCHURN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GASCHURN';
+* [ (GASCHURN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GASCHURN/)
 </script>
+<script type="text/javascript">

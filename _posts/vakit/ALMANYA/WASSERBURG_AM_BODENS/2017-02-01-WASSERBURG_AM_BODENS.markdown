@@ -8,10 +8,11 @@ permalink: /ALMANYA/WASSERBURG AM BODENS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WASSERBURG_AM_BODENS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WASSERBURG_AM_BODENS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WASSERBURG AM BODENS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WASSERBURG AM BODENS';
+* [ (WASSERBURG_AM_BODENS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WASSERBURG_AM_BODENS/)
 </script>
+<script type="text/javascript">

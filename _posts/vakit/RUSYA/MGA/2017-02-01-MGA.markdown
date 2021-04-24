@@ -8,10 +8,11 @@ permalink: /RUSYA/MGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MGA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MGA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MGA';
+* [ (MGA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MGA/)
 </script>
+<script type="text/javascript">

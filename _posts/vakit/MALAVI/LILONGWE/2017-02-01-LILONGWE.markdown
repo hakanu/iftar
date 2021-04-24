@@ -8,10 +8,11 @@ permalink: /MALAVI/LILONGWE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LILONGWE, MALAVI) için iftar ve namaz vakitleri](/MALAVI/LILONGWE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALAVI';
+
   var GLOBAL_CITY = 'LILONGWE';
+  var GLOBAL_COUNTRY = 'MALAVI';
   var GLOBAL_STATE = 'LILONGWE';
+* [ (LILONGWE, MALAVI) için iftar ve namaz vakitleri](/MALAVI/LILONGWE/)
 </script>
+<script type="text/javascript">

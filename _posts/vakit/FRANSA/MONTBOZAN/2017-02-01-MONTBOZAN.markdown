@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTBOZAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTBOZAN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTBOZAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTBOZAN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTBOZAN';
+* [ (MONTBOZAN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTBOZAN/)
 </script>
+<script type="text/javascript">

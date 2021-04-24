@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/FIER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FIER, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/FIER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'FIER';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'FIER';
+* [ (FIER, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/FIER/)
 </script>
+<script type="text/javascript">

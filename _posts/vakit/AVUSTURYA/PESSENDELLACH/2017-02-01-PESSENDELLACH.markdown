@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/PESSENDELLACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PESSENDELLACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/PESSENDELLACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'PESSENDELLACH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'PESSENDELLACH';
+* [ (PESSENDELLACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/PESSENDELLACH/)
 </script>
+<script type="text/javascript">

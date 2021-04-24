@@ -8,10 +8,11 @@ permalink: /FRANSA/PROVINS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PROVINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PROVINS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PROVINS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PROVINS';
+* [ (PROVINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PROVINS/)
 </script>
+<script type="text/javascript">

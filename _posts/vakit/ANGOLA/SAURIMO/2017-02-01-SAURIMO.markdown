@@ -8,10 +8,11 @@ permalink: /ANGOLA/SAURIMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAURIMO, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/SAURIMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'SAURIMO';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'SAURIMO';
+* [ (SAURIMO, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/SAURIMO/)
 </script>
+<script type="text/javascript">

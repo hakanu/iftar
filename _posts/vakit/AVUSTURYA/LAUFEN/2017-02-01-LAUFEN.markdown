@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LAUFEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUFEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LAUFEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LAUFEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LAUFEN';
+* [ (LAUFEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LAUFEN/)
 </script>
+<script type="text/javascript">

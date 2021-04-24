@@ -8,10 +8,11 @@ permalink: /FRANSA/PENMARCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENMARCH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PENMARCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PENMARCH';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PENMARCH';
+* [ (PENMARCH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PENMARCH/)
 </script>
+<script type="text/javascript">

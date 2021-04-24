@@ -8,10 +8,11 @@ permalink: /BELCIKA/MANAGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANAGE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MANAGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'MANAGE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'MANAGE';
+* [ (MANAGE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MANAGE/)
 </script>
+<script type="text/javascript">

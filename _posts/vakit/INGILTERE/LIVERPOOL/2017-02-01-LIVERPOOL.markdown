@@ -8,10 +8,11 @@ permalink: /INGILTERE/LIVERPOOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIVERPOOL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LIVERPOOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LIVERPOOL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LIVERPOOL';
+* [ (LIVERPOOL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LIVERPOOL/)
 </script>
+<script type="text/javascript">

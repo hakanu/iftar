@@ -8,10 +8,11 @@ permalink: /FRANSA/L HOPITAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (L_HOPITAL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/L_HOPITAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'L HOPITAL';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'L HOPITAL';
+* [ (L_HOPITAL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/L_HOPITAL/)
 </script>
+<script type="text/javascript">

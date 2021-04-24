@@ -8,10 +8,11 @@ permalink: /FRANSA/LE HAVRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_HAVRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_HAVRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE HAVRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE HAVRE';
+* [ (LE_HAVRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_HAVRE/)
 </script>
+<script type="text/javascript">

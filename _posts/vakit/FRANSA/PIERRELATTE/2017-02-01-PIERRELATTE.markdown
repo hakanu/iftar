@@ -8,10 +8,11 @@ permalink: /FRANSA/PIERRELATTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIERRELATTE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PIERRELATTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PIERRELATTE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PIERRELATTE';
+* [ (PIERRELATTE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PIERRELATTE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/SHEKER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHEKER, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/SHEKER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'SHEKER';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'SHEKER';
+* [ (SHEKER, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/SHEKER/)
 </script>
+<script type="text/javascript">

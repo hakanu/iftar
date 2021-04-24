@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/FAIRFIELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FAIRFIELD, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/FAIRFIELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'FAIRFIELD';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'FAIRFIELD';
+* [ (FAIRFIELD, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/FAIRFIELD/)
 </script>
+<script type="text/javascript">

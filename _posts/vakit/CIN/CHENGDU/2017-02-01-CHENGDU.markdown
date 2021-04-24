@@ -8,10 +8,11 @@ permalink: /CIN/CHENGDU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHENGDU, CIN) için iftar ve namaz vakitleri](/CIN/CHENGDU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHENGDU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHENGDU';
+* [ (CHENGDU, CIN) için iftar ve namaz vakitleri](/CIN/CHENGDU/)
 </script>
+<script type="text/javascript">

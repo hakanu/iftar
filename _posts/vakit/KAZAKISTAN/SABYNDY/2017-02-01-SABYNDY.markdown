@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/SABYNDY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SABYNDY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SABYNDY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'SABYNDY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'SABYNDY';
+* [ (SABYNDY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SABYNDY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/TOURNAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOURNAI, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TOURNAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'TOURNAI';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'TOURNAI';
+* [ (TOURNAI, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TOURNAI/)
 </script>
+<script type="text/javascript">

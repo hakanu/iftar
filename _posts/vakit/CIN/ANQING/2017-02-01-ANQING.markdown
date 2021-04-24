@@ -8,10 +8,11 @@ permalink: /CIN/ANQING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANQING, CIN) için iftar ve namaz vakitleri](/CIN/ANQING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ANQING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ANQING';
+* [ (ANQING, CIN) için iftar ve namaz vakitleri](/CIN/ANQING/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALSENBORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALSENBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALSENBORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALSENBORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALSENBORN';
+* [ (ALSENBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALSENBORN/)
 </script>
+<script type="text/javascript">

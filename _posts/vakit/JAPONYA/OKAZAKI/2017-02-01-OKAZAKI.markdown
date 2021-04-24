@@ -8,10 +8,11 @@ permalink: /JAPONYA/OKAZAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OKAZAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OKAZAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OKAZAKI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OKAZAKI';
+* [ (OKAZAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OKAZAKI/)
 </script>
+<script type="text/javascript">

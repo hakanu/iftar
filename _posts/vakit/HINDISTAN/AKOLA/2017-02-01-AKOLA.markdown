@@ -8,10 +8,11 @@ permalink: /HINDISTAN/AKOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKOLA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AKOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'AKOLA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'AKOLA';
+* [ (AKOLA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AKOLA/)
 </script>
+<script type="text/javascript">

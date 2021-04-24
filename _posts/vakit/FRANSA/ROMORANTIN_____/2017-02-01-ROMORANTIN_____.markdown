@@ -8,10 +8,11 @@ permalink: /FRANSA/ROMORANTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROMORANTIN_____, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROMORANTIN_____/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ROMORANTIN     ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ROMORANTIN     ';
+* [ (ROMORANTIN_____, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROMORANTIN_____/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/NIIGATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIIGATA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NIIGATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NIIGATA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NIIGATA';
+* [ (NIIGATA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NIIGATA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/VALANDOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALANDOVO_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/VALANDOVO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'VALANDOVO ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'VALANDOVO ';
+* [ (VALANDOVO_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/VALANDOVO_/)
 </script>
+<script type="text/javascript">

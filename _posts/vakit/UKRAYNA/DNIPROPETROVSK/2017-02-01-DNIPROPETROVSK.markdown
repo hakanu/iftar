@@ -8,10 +8,11 @@ permalink: /UKRAYNA/DNIPROPETROVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DNIPROPETROVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DNIPROPETROVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'DNIPROPETROVSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'DNIPROPETROVSK';
+* [ (DNIPROPETROVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DNIPROPETROVSK/)
 </script>
+<script type="text/javascript">

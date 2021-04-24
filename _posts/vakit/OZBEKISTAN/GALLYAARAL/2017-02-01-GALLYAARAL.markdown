@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/GALLYAARAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GALLYAARAL, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GALLYAARAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'GALLYAARAL';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'GALLYAARAL';
+* [ (GALLYAARAL, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GALLYAARAL/)
 </script>
+<script type="text/javascript">

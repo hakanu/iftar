@@ -8,10 +8,11 @@ permalink: /EKVATOR GINESI/CIUDAD DE LUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_DE_LUBA, EKVATOR_GINESI) için iftar ve namaz vakitleri](/EKVATOR_GINESI/CIUDAD_DE_LUBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR GINESI';
+
   var GLOBAL_CITY = 'CIUDAD DE LUBA';
+  var GLOBAL_COUNTRY = 'EKVATOR GINESI';
   var GLOBAL_STATE = 'CIUDAD DE LUBA';
+* [ (CIUDAD_DE_LUBA, EKVATOR_GINESI) için iftar ve namaz vakitleri](/EKVATOR_GINESI/CIUDAD_DE_LUBA/)
 </script>
+<script type="text/javascript">

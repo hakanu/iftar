@@ -8,10 +8,11 @@ permalink: /FRANSA/COURSAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COURSAN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COURSAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'COURSAN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'COURSAN';
+* [ (COURSAN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COURSAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/NELSON BAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NELSON_BAY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NELSON_BAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'NELSON BAY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'NELSON BAY';
+* [ (NELSON_BAY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NELSON_BAY/)
 </script>
+<script type="text/javascript">

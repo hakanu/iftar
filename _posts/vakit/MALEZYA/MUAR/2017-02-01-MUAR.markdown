@@ -8,10 +8,11 @@ permalink: /MALEZYA/MUAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUAR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/MUAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'MUAR';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'MUAR';
+* [ (MUAR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/MUAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/SALZWEDEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALZWEDEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALZWEDEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SALZWEDEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SALZWEDEL';
+* [ (SALZWEDEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALZWEDEL/)
 </script>
+<script type="text/javascript">

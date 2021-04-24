@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/HAIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAIL, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/HAIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'HAIL';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'HAIL';
+* [ (HAIL, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/HAIL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/RAISIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAISIO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/RAISIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'RAISIO';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'RAISIO';
+* [ (RAISIO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/RAISIO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/HERISAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERISAU, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HERISAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'HERISAU';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'HERISAU';
+* [ (HERISAU, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HERISAU/)
 </script>
+<script type="text/javascript">

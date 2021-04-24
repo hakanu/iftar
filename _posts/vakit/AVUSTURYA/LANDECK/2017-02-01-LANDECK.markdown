@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LANDECK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANDECK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LANDECK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LANDECK';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LANDECK';
+* [ (LANDECK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LANDECK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/FABRIANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FABRIANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FABRIANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FABRIANO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FABRIANO';
+* [ (FABRIANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FABRIANO/)
 </script>
+<script type="text/javascript">

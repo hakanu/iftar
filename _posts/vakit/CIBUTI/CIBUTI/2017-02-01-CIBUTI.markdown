@@ -8,10 +8,11 @@ permalink: /CIBUTI/CIBUTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIBUTI, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/CIBUTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIBUTI';
+
   var GLOBAL_CITY = 'CIBUTI';
+  var GLOBAL_COUNTRY = 'CIBUTI';
   var GLOBAL_STATE = 'CIBUTI';
+* [ (CIBUTI, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/CIBUTI/)
 </script>
+<script type="text/javascript">

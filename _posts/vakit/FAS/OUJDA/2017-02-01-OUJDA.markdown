@@ -8,10 +8,11 @@ permalink: /FAS/OUJDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUJDA, FAS) için iftar ve namaz vakitleri](/FAS/OUJDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'OUJDA';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'OUJDA';
+* [ (OUJDA, FAS) için iftar ve namaz vakitleri](/FAS/OUJDA/)
 </script>
+<script type="text/javascript">

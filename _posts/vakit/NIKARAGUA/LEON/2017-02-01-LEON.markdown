@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/LEON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEON, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/LEON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'LEON';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'LEON';
+* [ (LEON, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/LEON/)
 </script>
+<script type="text/javascript">

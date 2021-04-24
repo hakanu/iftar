@@ -8,10 +8,11 @@ permalink: /RUSYA/NOGLIKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOGLIKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOGLIKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOGLIKI';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOGLIKI';
+* [ (NOGLIKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOGLIKI/)
 </script>
+<script type="text/javascript">

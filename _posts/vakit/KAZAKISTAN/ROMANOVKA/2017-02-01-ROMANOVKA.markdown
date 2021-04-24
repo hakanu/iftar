@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ROMANOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROMANOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ROMANOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ROMANOVKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ROMANOVKA';
+* [ (ROMANOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ROMANOVKA/)
 </script>
+<script type="text/javascript">

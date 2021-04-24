@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/GRAFTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRAFTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GRAFTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'GRAFTON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'GRAFTON';
+* [ (GRAFTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GRAFTON/)
 </script>
+<script type="text/javascript">

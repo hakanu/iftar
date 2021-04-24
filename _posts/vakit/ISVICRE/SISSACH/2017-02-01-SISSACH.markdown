@@ -8,10 +8,11 @@ permalink: /ISVICRE/SISSACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SISSACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SISSACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SISSACH';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SISSACH';
+* [ (SISSACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SISSACH/)
 </script>
+<script type="text/javascript">

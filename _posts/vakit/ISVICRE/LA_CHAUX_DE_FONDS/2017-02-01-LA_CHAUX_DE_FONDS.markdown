@@ -8,10 +8,11 @@ permalink: /ISVICRE/LA CHAUX DE FONDS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_CHAUX_DE_FONDS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LA_CHAUX_DE_FONDS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LA CHAUX DE FONDS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LA CHAUX DE FONDS';
+* [ (LA_CHAUX_DE_FONDS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LA_CHAUX_DE_FONDS/)
 </script>
+<script type="text/javascript">

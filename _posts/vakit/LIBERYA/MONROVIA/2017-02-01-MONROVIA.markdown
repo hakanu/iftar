@@ -8,10 +8,11 @@ permalink: /LIBERYA/MONROVIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONROVIA, LIBERYA) için iftar ve namaz vakitleri](/LIBERYA/MONROVIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBERYA';
+
   var GLOBAL_CITY = 'MONROVIA';
+  var GLOBAL_COUNTRY = 'LIBERYA';
   var GLOBAL_STATE = 'MONROVIA';
+* [ (MONROVIA, LIBERYA) için iftar ve namaz vakitleri](/LIBERYA/MONROVIA/)
 </script>
+<script type="text/javascript">

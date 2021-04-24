@@ -8,10 +8,11 @@ permalink: /FRANSA/DIGOIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIGOIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIGOIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DIGOIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DIGOIN';
+* [ (DIGOIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIGOIN/)
 </script>
+<script type="text/javascript">

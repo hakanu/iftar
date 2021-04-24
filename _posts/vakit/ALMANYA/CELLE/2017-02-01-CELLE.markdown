@@ -8,10 +8,11 @@ permalink: /ALMANYA/CELLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CELLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CELLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'CELLE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'CELLE';
+* [ (CELLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CELLE/)
 </script>
+<script type="text/javascript">

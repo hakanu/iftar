@@ -8,10 +8,11 @@ permalink: /FRANSA/ORNANS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORNANS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ORNANS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ORNANS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ORNANS';
+* [ (ORNANS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ORNANS/)
 </script>
+<script type="text/javascript">

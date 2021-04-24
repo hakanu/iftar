@@ -8,10 +8,11 @@ permalink: /RUSYA/NOGINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOGINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOGINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOGINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOGINSK';
+* [ (NOGINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOGINSK/)
 </script>
+<script type="text/javascript">

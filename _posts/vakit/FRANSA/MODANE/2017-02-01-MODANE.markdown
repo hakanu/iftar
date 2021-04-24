@@ -8,10 +8,11 @@ permalink: /FRANSA/MODANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MODANE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MODANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MODANE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MODANE';
+* [ (MODANE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MODANE/)
 </script>
+<script type="text/javascript">

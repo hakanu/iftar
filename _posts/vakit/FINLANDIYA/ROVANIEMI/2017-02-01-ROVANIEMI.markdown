@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/ROVANIEMI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROVANIEMI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/ROVANIEMI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'ROVANIEMI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'ROVANIEMI';
+* [ (ROVANIEMI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/ROVANIEMI/)
 </script>
+<script type="text/javascript">

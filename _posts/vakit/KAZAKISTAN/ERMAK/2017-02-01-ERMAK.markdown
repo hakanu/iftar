@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ERMAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERMAK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ERMAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ERMAK';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ERMAK';
+* [ (ERMAK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ERMAK/)
 </script>
+<script type="text/javascript">

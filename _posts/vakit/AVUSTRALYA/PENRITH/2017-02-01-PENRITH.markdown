@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/PENRITH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENRITH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PENRITH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'PENRITH';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'PENRITH';
+* [ (PENRITH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PENRITH/)
 </script>
+<script type="text/javascript">

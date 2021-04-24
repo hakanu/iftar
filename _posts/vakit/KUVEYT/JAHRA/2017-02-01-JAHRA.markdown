@@ -8,10 +8,11 @@ permalink: /KUVEYT/JAHRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JAHRA, KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/JAHRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUVEYT';
+
   var GLOBAL_CITY = 'JAHRA';
+  var GLOBAL_COUNTRY = 'KUVEYT';
   var GLOBAL_STATE = 'JAHRA';
+* [ (JAHRA, KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/JAHRA/)
 </script>
+<script type="text/javascript">

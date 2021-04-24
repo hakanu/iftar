@@ -8,10 +8,11 @@ permalink: /FRANSA/PONTLEVOY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONTLEVOY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONTLEVOY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PONTLEVOY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PONTLEVOY';
+* [ (PONTLEVOY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONTLEVOY/)
 </script>
+<script type="text/javascript">

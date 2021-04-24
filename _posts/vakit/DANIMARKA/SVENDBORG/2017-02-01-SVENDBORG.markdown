@@ -8,10 +8,11 @@ permalink: /DANIMARKA/SVENDBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SVENDBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SVENDBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'SVENDBORG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'SVENDBORG';
+* [ (SVENDBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SVENDBORG/)
 </script>
+<script type="text/javascript">

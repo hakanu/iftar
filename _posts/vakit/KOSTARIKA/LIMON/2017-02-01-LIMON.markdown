@@ -8,10 +8,11 @@ permalink: /KOSTARIKA/LIMON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIMON, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/LIMON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSTARIKA';
+
   var GLOBAL_CITY = 'LIMON';
+  var GLOBAL_COUNTRY = 'KOSTARIKA';
   var GLOBAL_STATE = 'LIMON';
+* [ (LIMON, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/LIMON/)
 </script>
+<script type="text/javascript">

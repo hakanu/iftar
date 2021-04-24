@@ -8,10 +8,11 @@ permalink: /HINDISTAN/TRIVANDRUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRIVANDRUM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/TRIVANDRUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'TRIVANDRUM';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'TRIVANDRUM';
+* [ (TRIVANDRUM, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/TRIVANDRUM/)
 </script>
+<script type="text/javascript">

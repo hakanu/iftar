@@ -8,10 +8,11 @@ permalink: /ALMANYA/GIESSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIESSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GIESSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GIESSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GIESSEN';
+* [ (GIESSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GIESSEN/)
 </script>
+<script type="text/javascript">

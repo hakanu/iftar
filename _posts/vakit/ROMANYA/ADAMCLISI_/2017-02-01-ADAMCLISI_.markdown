@@ -8,10 +8,11 @@ permalink: /ROMANYA/ADAMCLISI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ADAMCLISI_, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/ADAMCLISI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'ADAMCLISI ';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'ADAMCLISI ';
+* [ (ADAMCLISI_, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/ADAMCLISI_/)
 </script>
+<script type="text/javascript">

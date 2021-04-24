@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NIEUWEGEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIEUWEGEIN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NIEUWEGEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NIEUWEGEIN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NIEUWEGEIN';
+* [ (NIEUWEGEIN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NIEUWEGEIN/)
 </script>
+<script type="text/javascript">

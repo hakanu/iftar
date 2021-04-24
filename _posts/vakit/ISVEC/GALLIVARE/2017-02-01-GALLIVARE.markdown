@@ -8,10 +8,11 @@ permalink: /ISVEC/GALLIVARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GALLIVARE, ISVEC) için iftar ve namaz vakitleri](/ISVEC/GALLIVARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'GALLIVARE';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'GALLIVARE';
+* [ (GALLIVARE, ISVEC) için iftar ve namaz vakitleri](/ISVEC/GALLIVARE/)
 </script>
+<script type="text/javascript">

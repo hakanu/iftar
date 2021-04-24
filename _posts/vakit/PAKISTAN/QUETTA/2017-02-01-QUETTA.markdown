@@ -8,10 +8,11 @@ permalink: /PAKISTAN/QUETTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUETTA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/QUETTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'QUETTA';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'QUETTA';
+* [ (QUETTA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/QUETTA/)
 </script>
+<script type="text/javascript">

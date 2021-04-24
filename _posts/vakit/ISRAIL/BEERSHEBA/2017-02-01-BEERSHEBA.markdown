@@ -8,10 +8,11 @@ permalink: /ISRAIL/BEERSHEBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEERSHEBA, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/BEERSHEBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISRAIL';
+
   var GLOBAL_CITY = 'BEERSHEBA';
+  var GLOBAL_COUNTRY = 'ISRAIL';
   var GLOBAL_STATE = 'BEERSHEBA';
+* [ (BEERSHEBA, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/BEERSHEBA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/SOISSONS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOISSONS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SOISSONS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SOISSONS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SOISSONS';
+* [ (SOISSONS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SOISSONS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/DUDLEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUDLEY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DUDLEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'DUDLEY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'DUDLEY';
+* [ (DUDLEY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DUDLEY/)
 </script>
+<script type="text/javascript">

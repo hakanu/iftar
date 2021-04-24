@@ -8,10 +8,11 @@ permalink: /POLONYA/BYTOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BYTOM, POLONYA) için iftar ve namaz vakitleri](/POLONYA/BYTOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'BYTOM';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'BYTOM';
+* [ (BYTOM, POLONYA) için iftar ve namaz vakitleri](/POLONYA/BYTOM/)
 </script>
+<script type="text/javascript">

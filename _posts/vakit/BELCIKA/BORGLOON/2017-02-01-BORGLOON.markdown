@@ -8,10 +8,11 @@ permalink: /BELCIKA/BORGLOON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORGLOON, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BORGLOON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BORGLOON';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BORGLOON';
+* [ (BORGLOON, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BORGLOON/)
 </script>
+<script type="text/javascript">

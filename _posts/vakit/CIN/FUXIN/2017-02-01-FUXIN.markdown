@@ -8,10 +8,11 @@ permalink: /CIN/FUXIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUXIN, CIN) için iftar ve namaz vakitleri](/CIN/FUXIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FUXIN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FUXIN';
+* [ (FUXIN, CIN) için iftar ve namaz vakitleri](/CIN/FUXIN/)
 </script>
+<script type="text/javascript">

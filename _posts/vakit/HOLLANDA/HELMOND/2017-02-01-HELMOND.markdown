@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HELMOND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HELMOND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HELMOND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HELMOND';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HELMOND';
+* [ (HELMOND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HELMOND/)
 </script>
+<script type="text/javascript">

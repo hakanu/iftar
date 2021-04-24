@@ -8,10 +8,11 @@ permalink: /NORVEC/EVENSKJAER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EVENSKJAER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/EVENSKJAER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'EVENSKJAER';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'EVENSKJAER';
+* [ (EVENSKJAER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/EVENSKJAER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/AUXERRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUXERRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUXERRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AUXERRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AUXERRE';
+* [ (AUXERRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUXERRE/)
 </script>
+<script type="text/javascript">

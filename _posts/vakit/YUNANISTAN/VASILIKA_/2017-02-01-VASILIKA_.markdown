@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/VASILIKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VASILIKA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/VASILIKA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'VASILIKA ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'VASILIKA ';
+* [ (VASILIKA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/VASILIKA_/)
 </script>
+<script type="text/javascript">

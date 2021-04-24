@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/FOCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOCA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/FOCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'FOCA';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'FOCA';
+* [ (FOCA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/FOCA/)
 </script>
+<script type="text/javascript">

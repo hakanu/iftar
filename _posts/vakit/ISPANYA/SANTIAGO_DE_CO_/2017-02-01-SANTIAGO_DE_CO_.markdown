@@ -8,10 +8,11 @@ permalink: /ISPANYA/SANTIAGO DE CO_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTIAGO_DE_CO_, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SANTIAGO_DE_CO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'SANTIAGO DE CO_';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'SANTIAGO DE CO_';
+* [ (SANTIAGO_DE_CO_, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SANTIAGO_DE_CO_/)
 </script>
+<script type="text/javascript">

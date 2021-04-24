@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/ZAMIIN UUD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAMIIN_UUD, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ZAMIIN_UUD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'ZAMIIN UUD';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'ZAMIIN UUD';
+* [ (ZAMIIN_UUD, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ZAMIIN_UUD/)
 </script>
+<script type="text/javascript">

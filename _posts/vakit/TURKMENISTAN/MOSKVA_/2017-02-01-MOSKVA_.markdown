@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/MOSKVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSKVA_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/MOSKVA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'MOSKVA ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'MOSKVA ';
+* [ (MOSKVA_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/MOSKVA_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/FREIENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREIENBACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FREIENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'FREIENBACH';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'FREIENBACH';
+* [ (FREIENBACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FREIENBACH/)
 </script>
+<script type="text/javascript">

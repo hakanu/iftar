@@ -8,10 +8,11 @@ permalink: /BANGLADES/COMILLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COMILLA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/COMILLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BANGLADES';
+
   var GLOBAL_CITY = 'COMILLA';
+  var GLOBAL_COUNTRY = 'BANGLADES';
   var GLOBAL_STATE = 'COMILLA';
+* [ (COMILLA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/COMILLA/)
 </script>
+<script type="text/javascript">

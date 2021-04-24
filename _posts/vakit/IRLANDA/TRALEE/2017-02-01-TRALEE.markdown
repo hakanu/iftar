@@ -8,10 +8,11 @@ permalink: /IRLANDA/TRALEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRALEE, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/TRALEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'TRALEE';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'TRALEE';
+* [ (TRALEE, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/TRALEE/)
 </script>
+<script type="text/javascript">

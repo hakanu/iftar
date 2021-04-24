@@ -8,10 +8,11 @@ permalink: /BURUNDI/RUTANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUTANA, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUTANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURUNDI';
+
   var GLOBAL_CITY = 'RUTANA';
+  var GLOBAL_COUNTRY = 'BURUNDI';
   var GLOBAL_STATE = 'RUTANA';
+* [ (RUTANA, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUTANA/)
 </script>
+<script type="text/javascript">

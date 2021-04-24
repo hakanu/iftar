@@ -8,10 +8,11 @@ permalink: /FRANSA/AMIENS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMIENS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AMIENS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AMIENS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AMIENS';
+* [ (AMIENS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AMIENS/)
 </script>
+<script type="text/javascript">

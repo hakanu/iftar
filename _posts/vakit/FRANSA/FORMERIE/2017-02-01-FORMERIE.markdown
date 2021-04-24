@@ -8,10 +8,11 @@ permalink: /FRANSA/FORMERIE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORMERIE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FORMERIE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FORMERIE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FORMERIE';
+* [ (FORMERIE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FORMERIE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/LEGASPI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEGASPI, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LEGASPI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'LEGASPI';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'LEGASPI';
+* [ (LEGASPI, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LEGASPI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELARUS/GRODNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRODNO, BELARUS) için iftar ve namaz vakitleri](/BELARUS/GRODNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'GRODNO';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'GRODNO';
+* [ (GRODNO, BELARUS) için iftar ve namaz vakitleri](/BELARUS/GRODNO/)
 </script>
+<script type="text/javascript">

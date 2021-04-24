@@ -8,20 +8,21 @@ permalink: /TÜRKİYE/VAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [VAN (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/VAN)
-* [MURADİYE (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/MURADİYE)
-* [SARAY_(V) (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/SARAY_(V))
-* [ÖZALP (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ÖZALP)
-* [ERCİŞ (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ERCİŞ)
-* [ÇALDIRAN (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ÇALDIRAN)
-* [ÇATAK (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ÇATAK)
-* [GEVAŞ (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/GEVAŞ)
+
+
+  var GLOBAL_CITY = 'VAN';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'VAN';
+* [BAHÇESARAY (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/BAHÇESARAY)
 * [BAŞKALE (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/BAŞKALE)
 * [EDREMİT_(V) (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/EDREMİT_(V))
-* [BAHÇESARAY (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/BAHÇESARAY)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'VAN';
-  var GLOBAL_STATE = 'VAN';
+* [ERCİŞ (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ERCİŞ)
+* [GEVAŞ (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/GEVAŞ)
+* [MURADİYE (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/MURADİYE)
+* [SARAY_(V) (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/SARAY_(V))
+* [VAN (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/VAN)
+* [ÇALDIRAN (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ÇALDIRAN)
+* [ÇATAK (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ÇATAK)
+* [ÖZALP (VAN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/VAN/ÖZALP)
 </script>
+<script type="text/javascript">

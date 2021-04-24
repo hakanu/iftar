@@ -8,10 +8,11 @@ permalink: /GINE/KINDIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINDIA, GINE) için iftar ve namaz vakitleri](/GINE/KINDIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GINE';
+
   var GLOBAL_CITY = 'KINDIA';
+  var GLOBAL_COUNTRY = 'GINE';
   var GLOBAL_STATE = 'KINDIA';
+* [ (KINDIA, GINE) için iftar ve namaz vakitleri](/GINE/KINDIA/)
 </script>
+<script type="text/javascript">

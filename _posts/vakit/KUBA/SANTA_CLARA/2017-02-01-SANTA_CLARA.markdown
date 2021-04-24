@@ -8,10 +8,11 @@ permalink: /KUBA/SANTA CLARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_CLARA, KUBA) için iftar ve namaz vakitleri](/KUBA/SANTA_CLARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'SANTA CLARA';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'SANTA CLARA';
+* [ (SANTA_CLARA, KUBA) için iftar ve namaz vakitleri](/KUBA/SANTA_CLARA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/NAESTVED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAESTVED, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NAESTVED/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'NAESTVED';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'NAESTVED';
+* [ (NAESTVED, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NAESTVED/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CAD/ABECHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABECHE, CAD) için iftar ve namaz vakitleri](/CAD/ABECHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'ABECHE';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'ABECHE';
+* [ (ABECHE, CAD) için iftar ve namaz vakitleri](/CAD/ABECHE/)
 </script>
+<script type="text/javascript">

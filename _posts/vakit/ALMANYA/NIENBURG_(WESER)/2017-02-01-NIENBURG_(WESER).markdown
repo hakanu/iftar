@@ -8,10 +8,11 @@ permalink: /ALMANYA/NIENBURG (WESER)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIENBURG_(WESER), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NIENBURG_(WESER)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NIENBURG (WESER)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NIENBURG (WESER)';
+* [ (NIENBURG_(WESER), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NIENBURG_(WESER)/)
 </script>
+<script type="text/javascript">

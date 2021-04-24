@@ -8,10 +8,11 @@ permalink: /POLONYA/GRUDZIADZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRUDZIADZ, POLONYA) için iftar ve namaz vakitleri](/POLONYA/GRUDZIADZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'GRUDZIADZ';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'GRUDZIADZ';
+* [ (GRUDZIADZ, POLONYA) için iftar ve namaz vakitleri](/POLONYA/GRUDZIADZ/)
 </script>
+<script type="text/javascript">

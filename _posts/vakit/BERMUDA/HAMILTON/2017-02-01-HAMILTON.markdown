@@ -8,10 +8,11 @@ permalink: /BERMUDA/HAMILTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMILTON, BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/HAMILTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BERMUDA';
+
   var GLOBAL_CITY = 'HAMILTON';
+  var GLOBAL_COUNTRY = 'BERMUDA';
   var GLOBAL_STATE = 'HAMILTON';
+* [ (HAMILTON, BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/HAMILTON/)
 </script>
+<script type="text/javascript">

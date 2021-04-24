@@ -8,10 +8,11 @@ permalink: /ISVEC/HONO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HONO, ISVEC) için iftar ve namaz vakitleri](/ISVEC/HONO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'HONO';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'HONO';
+* [ (HONO, ISVEC) için iftar ve namaz vakitleri](/ISVEC/HONO/)
 </script>
+<script type="text/javascript">

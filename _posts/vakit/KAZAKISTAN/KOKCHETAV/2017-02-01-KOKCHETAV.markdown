@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KOKCHETAV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOKCHETAV, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOKCHETAV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KOKCHETAV';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KOKCHETAV';
+* [ (KOKCHETAV, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOKCHETAV/)
 </script>
+<script type="text/javascript">

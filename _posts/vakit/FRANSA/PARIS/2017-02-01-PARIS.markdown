@@ -8,10 +8,11 @@ permalink: /FRANSA/PARIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PARIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PARIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PARIS';
+* [ (PARIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PARIS/)
 </script>
+<script type="text/javascript">

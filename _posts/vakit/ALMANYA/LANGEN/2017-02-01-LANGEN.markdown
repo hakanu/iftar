@@ -8,10 +8,11 @@ permalink: /ALMANYA/LANGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LANGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LANGEN';
+* [ (LANGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANGEN/)
 </script>
+<script type="text/javascript">

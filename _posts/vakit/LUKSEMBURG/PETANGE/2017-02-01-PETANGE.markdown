@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/PETANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/PETANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'PETANGE';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'PETANGE';
+* [ (PETANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/PETANGE/)
 </script>
+<script type="text/javascript">

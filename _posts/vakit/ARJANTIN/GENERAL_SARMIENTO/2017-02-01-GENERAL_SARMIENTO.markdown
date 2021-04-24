@@ -8,10 +8,11 @@ permalink: /ARJANTIN/GENERAL SARMIENTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENERAL_SARMIENTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GENERAL_SARMIENTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'GENERAL SARMIENTO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'GENERAL SARMIENTO';
+* [ (GENERAL_SARMIENTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GENERAL_SARMIENTO/)
 </script>
+<script type="text/javascript">

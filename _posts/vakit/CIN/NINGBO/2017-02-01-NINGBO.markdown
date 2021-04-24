@@ -8,10 +8,11 @@ permalink: /CIN/NINGBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NINGBO, CIN) için iftar ve namaz vakitleri](/CIN/NINGBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'NINGBO';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'NINGBO';
+* [ (NINGBO, CIN) için iftar ve namaz vakitleri](/CIN/NINGBO/)
 </script>
+<script type="text/javascript">

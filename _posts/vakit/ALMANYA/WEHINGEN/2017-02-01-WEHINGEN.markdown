@@ -8,10 +8,11 @@ permalink: /ALMANYA/WEHINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEHINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WEHINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WEHINGEN';
+* [ (WEHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEHINGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/BAGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAGE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BAGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BAGE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BAGE';
+* [ (BAGE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BAGE/)
 </script>
+<script type="text/javascript">

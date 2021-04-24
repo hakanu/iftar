@@ -8,10 +8,11 @@ permalink: /BELCIKA/KONTICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONTICH, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/KONTICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'KONTICH';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'KONTICH';
+* [ (KONTICH, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/KONTICH/)
 </script>
+<script type="text/javascript">

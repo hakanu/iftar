@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/DZHEZKAZGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DZHEZKAZGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/DZHEZKAZGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'DZHEZKAZGAN';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'DZHEZKAZGAN';
+* [ (DZHEZKAZGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/DZHEZKAZGAN/)
 </script>
+<script type="text/javascript">

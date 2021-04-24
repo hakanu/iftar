@@ -8,10 +8,11 @@ permalink: /RUSYA/SAZONOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAZONOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SAZONOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SAZONOVO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SAZONOVO';
+* [ (SAZONOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SAZONOVO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /UKRAYNA/TERNOPIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERNOPIL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/TERNOPIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'TERNOPIL';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'TERNOPIL';
+* [ (TERNOPIL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/TERNOPIL/)
 </script>
+<script type="text/javascript">

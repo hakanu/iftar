@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD DURKHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_DURKHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_DURKHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD DURKHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD DURKHEIM';
+* [ (BAD_DURKHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_DURKHEIM/)
 </script>
+<script type="text/javascript">

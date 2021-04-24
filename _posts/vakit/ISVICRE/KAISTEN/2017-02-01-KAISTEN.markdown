@@ -8,10 +8,11 @@ permalink: /ISVICRE/KAISTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAISTEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/KAISTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'KAISTEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'KAISTEN';
+* [ (KAISTEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/KAISTEN/)
 </script>
+<script type="text/javascript">

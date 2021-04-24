@@ -8,10 +8,11 @@ permalink: /NIJERYA/IKIRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IKIRE, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IKIRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'IKIRE';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'IKIRE';
+* [ (IKIRE, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IKIRE/)
 </script>
+<script type="text/javascript">

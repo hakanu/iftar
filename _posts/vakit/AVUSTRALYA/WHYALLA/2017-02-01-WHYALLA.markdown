@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WHYALLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WHYALLA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WHYALLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WHYALLA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WHYALLA';
+* [ (WHYALLA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WHYALLA/)
 </script>
+<script type="text/javascript">

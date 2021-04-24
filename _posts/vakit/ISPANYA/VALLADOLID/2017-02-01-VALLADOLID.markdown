@@ -8,10 +8,11 @@ permalink: /ISPANYA/VALLADOLID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALLADOLID, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VALLADOLID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'VALLADOLID';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'VALLADOLID';
+* [ (VALLADOLID, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VALLADOLID/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/JIXI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JIXI, CIN) için iftar ve namaz vakitleri](/CIN/JIXI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'JIXI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'JIXI';
+* [ (JIXI, CIN) için iftar ve namaz vakitleri](/CIN/JIXI/)
 </script>
+<script type="text/javascript">

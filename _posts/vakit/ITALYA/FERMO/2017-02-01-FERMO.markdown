@@ -8,10 +8,11 @@ permalink: /ITALYA/FERMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FERMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FERMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FERMO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FERMO';
+* [ (FERMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FERMO/)
 </script>
+<script type="text/javascript">

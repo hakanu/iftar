@@ -8,10 +8,11 @@ permalink: /BELARUS/PINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/PINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'PINSK';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'PINSK';
+* [ (PINSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/PINSK/)
 </script>
+<script type="text/javascript">

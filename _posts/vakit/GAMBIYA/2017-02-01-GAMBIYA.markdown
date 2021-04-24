@@ -8,5 +8,6 @@ permalink: /GAMBIYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SERROKUNDA (GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/SERROKUNDA)
+
 * [BANJUL (GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/BANJUL)
+* [SERROKUNDA (GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/SERROKUNDA)

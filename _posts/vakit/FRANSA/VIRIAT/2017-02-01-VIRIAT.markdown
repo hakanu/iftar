@@ -8,10 +8,11 @@ permalink: /FRANSA/VIRIAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIRIAT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIRIAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VIRIAT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VIRIAT';
+* [ (VIRIAT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIRIAT/)
 </script>
+<script type="text/javascript">

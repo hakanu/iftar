@@ -8,10 +8,11 @@ permalink: /MALEZYA/SEGAMAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEGAMAT, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/SEGAMAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'SEGAMAT';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'SEGAMAT';
+* [ (SEGAMAT, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/SEGAMAT/)
 </script>
+<script type="text/javascript">

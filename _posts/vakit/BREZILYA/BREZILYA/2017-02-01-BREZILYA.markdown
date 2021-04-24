@@ -8,10 +8,11 @@ permalink: /BREZILYA/BREZILYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREZILYA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BREZILYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BREZILYA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BREZILYA';
+* [ (BREZILYA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BREZILYA/)
 </script>
+<script type="text/javascript">

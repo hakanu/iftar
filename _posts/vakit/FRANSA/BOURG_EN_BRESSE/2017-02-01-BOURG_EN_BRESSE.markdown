@@ -8,10 +8,11 @@ permalink: /FRANSA/BOURG EN BRESSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOURG_EN_BRESSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURG_EN_BRESSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BOURG EN BRESSE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BOURG EN BRESSE';
+* [ (BOURG_EN_BRESSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURG_EN_BRESSE/)
 </script>
+<script type="text/javascript">

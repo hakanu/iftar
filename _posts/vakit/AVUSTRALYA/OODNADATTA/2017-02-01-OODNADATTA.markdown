@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/OODNADATTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OODNADATTA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/OODNADATTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'OODNADATTA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'OODNADATTA';
+* [ (OODNADATTA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/OODNADATTA/)
 </script>
+<script type="text/javascript">

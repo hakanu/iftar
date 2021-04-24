@@ -8,10 +8,11 @@ permalink: /JAPONYA/SUZUKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUZUKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SUZUKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SUZUKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SUZUKA';
+* [ (SUZUKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SUZUKA/)
 </script>
+<script type="text/javascript">

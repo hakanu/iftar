@@ -8,10 +8,11 @@ permalink: /HOLLANDA/LEERSUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEERSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LEERSUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'LEERSUM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'LEERSUM';
+* [ (LEERSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LEERSUM/)
 </script>
+<script type="text/javascript">

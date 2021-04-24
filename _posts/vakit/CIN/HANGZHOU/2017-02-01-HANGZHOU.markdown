@@ -8,10 +8,11 @@ permalink: /CIN/HANGZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HANGZHOU, CIN) için iftar ve namaz vakitleri](/CIN/HANGZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HANGZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HANGZHOU';
+* [ (HANGZHOU, CIN) için iftar ve namaz vakitleri](/CIN/HANGZHOU/)
 </script>
+<script type="text/javascript">

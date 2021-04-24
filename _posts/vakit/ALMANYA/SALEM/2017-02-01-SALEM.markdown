@@ -8,10 +8,11 @@ permalink: /ALMANYA/SALEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALEM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SALEM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SALEM';
+* [ (SALEM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALEM/)
 </script>
+<script type="text/javascript">

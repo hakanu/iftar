@@ -8,10 +8,11 @@ permalink: /JAPONYA/KYOTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KYOTO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KYOTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KYOTO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KYOTO';
+* [ (KYOTO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KYOTO/)
 </script>
+<script type="text/javascript">

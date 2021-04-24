@@ -8,10 +8,11 @@ permalink: /FRANSA/ARBOIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARBOIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARBOIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ARBOIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ARBOIS';
+* [ (ARBOIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARBOIS/)
 </script>
+<script type="text/javascript">

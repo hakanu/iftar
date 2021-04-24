@@ -8,10 +8,11 @@ permalink: /MISIR/BANHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANHA, MISIR) için iftar ve namaz vakitleri](/MISIR/BANHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'BANHA';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'BANHA';
+* [ (BANHA, MISIR) için iftar ve namaz vakitleri](/MISIR/BANHA/)
 </script>
+<script type="text/javascript">

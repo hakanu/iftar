@@ -8,10 +8,11 @@ permalink: /POLONYA/RADOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RADOM, POLONYA) için iftar ve namaz vakitleri](/POLONYA/RADOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'RADOM';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'RADOM';
+* [ (RADOM, POLONYA) için iftar ve namaz vakitleri](/POLONYA/RADOM/)
 </script>
+<script type="text/javascript">

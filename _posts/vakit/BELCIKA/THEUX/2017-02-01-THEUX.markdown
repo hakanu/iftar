@@ -8,10 +8,11 @@ permalink: /BELCIKA/THEUX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THEUX, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/THEUX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'THEUX';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'THEUX';
+* [ (THEUX, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/THEUX/)
 </script>
+<script type="text/javascript">

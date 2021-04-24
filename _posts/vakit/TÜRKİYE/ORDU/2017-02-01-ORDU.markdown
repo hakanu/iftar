@@ -8,25 +8,26 @@ permalink: /TÜRKİYE/ORDU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'ORDU';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'ORDU';
 * [AKKUŞ (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/AKKUŞ)
-* [ÇATALPINAR (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÇATALPINAR)
 * [AYBASTI (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/AYBASTI)
-* [KUMRU (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/KUMRU)
-* [GÜRGENTEPE (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/GÜRGENTEPE)
-* [ÇAMAŞ (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÇAMAŞ)
 * [FATSA (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/FATSA)
-* [İKİZCE (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/İKİZCE)
-* [KABATAŞ (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/KABATAŞ)
-* [ÇAYBAŞI (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÇAYBAŞI)
 * [GÖLKÖY (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/GÖLKÖY)
-* [ÜNYE (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÜNYE)
+* [GÜLYALI (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/GÜLYALI)
+* [GÜRGENTEPE (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/GÜRGENTEPE)
+* [KABATAŞ (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/KABATAŞ)
+* [KORGAN (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/KORGAN)
+* [KUMRU (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/KUMRU)
 * [MESUDİYE (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/MESUDİYE)
 * [ORDU (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ORDU)
-* [GÜLYALI (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/GÜLYALI)
-* [KORGAN (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/KORGAN)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ORDU';
-  var GLOBAL_STATE = 'ORDU';
+* [ÇAMAŞ (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÇAMAŞ)
+* [ÇATALPINAR (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÇATALPINAR)
+* [ÇAYBAŞI (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÇAYBAŞI)
+* [ÜNYE (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/ÜNYE)
+* [İKİZCE (ORDU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ORDU/İKİZCE)
 </script>
+<script type="text/javascript">

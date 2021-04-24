@@ -8,10 +8,11 @@ permalink: /ALMANYA/LORCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LORCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LORCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LORCH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LORCH';
+* [ (LORCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LORCH/)
 </script>
+<script type="text/javascript">

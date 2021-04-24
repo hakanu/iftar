@@ -8,10 +8,11 @@ permalink: /RUSYA/MURMANSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURMANSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MURMANSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MURMANSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MURMANSK';
+* [ (MURMANSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MURMANSK/)
 </script>
+<script type="text/javascript">

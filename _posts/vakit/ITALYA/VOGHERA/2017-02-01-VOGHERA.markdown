@@ -8,10 +8,11 @@ permalink: /ITALYA/VOGHERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOGHERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VOGHERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VOGHERA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VOGHERA';
+* [ (VOGHERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VOGHERA/)
 </script>
+<script type="text/javascript">

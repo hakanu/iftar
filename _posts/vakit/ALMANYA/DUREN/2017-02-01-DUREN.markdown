@@ -8,10 +8,11 @@ permalink: /ALMANYA/DUREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUREN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DUREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DUREN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DUREN';
+* [ (DUREN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DUREN/)
 </script>
+<script type="text/javascript">

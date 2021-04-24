@@ -8,10 +8,11 @@ permalink: /ALMANYA/MEINERZHAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEINERZHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MEINERZHAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MEINERZHAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MEINERZHAGEN';
+* [ (MEINERZHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MEINERZHAGEN/)
 </script>
+<script type="text/javascript">

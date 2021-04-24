@@ -8,10 +8,11 @@ permalink: /FRANSA/CHOLET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHOLET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHOLET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHOLET';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHOLET';
+* [ (CHOLET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHOLET/)
 </script>
+<script type="text/javascript">

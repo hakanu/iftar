@@ -8,10 +8,11 @@ permalink: /BOLIVYA/COTOCA (Santa Cruz)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COTOCA_(Santa_Cruz), BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/COTOCA_(Santa_Cruz)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'COTOCA (Santa Cruz)';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'COTOCA (Santa Cruz)';
+* [ (COTOCA_(Santa_Cruz), BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/COTOCA_(Santa_Cruz)/)
 </script>
+<script type="text/javascript">

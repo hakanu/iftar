@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KATAKOLON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KATAKOLON, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KATAKOLON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KATAKOLON';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KATAKOLON';
+* [ (KATAKOLON, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KATAKOLON/)
 </script>
+<script type="text/javascript">

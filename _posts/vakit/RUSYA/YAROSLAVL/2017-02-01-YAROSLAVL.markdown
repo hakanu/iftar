@@ -8,10 +8,11 @@ permalink: /RUSYA/YAROSLAVL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAROSLAVL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YAROSLAVL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'YAROSLAVL';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'YAROSLAVL';
+* [ (YAROSLAVL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YAROSLAVL/)
 </script>
+<script type="text/javascript">

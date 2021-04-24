@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SIYAZAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIYAZAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SIYAZAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SIYAZAN';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SIYAZAN';
+* [ (SIYAZAN, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SIYAZAN/)
 </script>
+<script type="text/javascript">

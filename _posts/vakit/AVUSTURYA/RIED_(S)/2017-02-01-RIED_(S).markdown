@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/RIED (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIED_(S), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/RIED_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'RIED (S)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'RIED (S)';
+* [ (RIED_(S), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/RIED_(S)/)
 </script>
+<script type="text/javascript">

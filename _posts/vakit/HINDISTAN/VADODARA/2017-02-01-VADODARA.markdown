@@ -8,10 +8,11 @@ permalink: /HINDISTAN/VADODARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VADODARA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/VADODARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'VADODARA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'VADODARA';
+* [ (VADODARA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/VADODARA/)
 </script>
+<script type="text/javascript">

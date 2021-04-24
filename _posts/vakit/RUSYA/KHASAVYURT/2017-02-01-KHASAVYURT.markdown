@@ -8,10 +8,11 @@ permalink: /RUSYA/KHASAVYURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHASAVYURT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHASAVYURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KHASAVYURT';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KHASAVYURT';
+* [ (KHASAVYURT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHASAVYURT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/CHIPPENHAM (Bristol)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIPPENHAM_(Bristol), INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHIPPENHAM_(Bristol)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CHIPPENHAM (Bristol)';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CHIPPENHAM (Bristol)';
+* [ (CHIPPENHAM_(Bristol), INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHIPPENHAM_(Bristol)/)
 </script>
+<script type="text/javascript">

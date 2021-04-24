@@ -8,10 +8,11 @@ permalink: /HINDISTAN/GULBARGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GULBARGA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GULBARGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'GULBARGA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'GULBARGA';
+* [ (GULBARGA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GULBARGA/)
 </script>
+<script type="text/javascript">

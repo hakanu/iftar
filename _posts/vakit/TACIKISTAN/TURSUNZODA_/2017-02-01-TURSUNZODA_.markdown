@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/TURSUNZODA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURSUNZODA_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/TURSUNZODA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'TURSUNZODA ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'TURSUNZODA ';
+* [ (TURSUNZODA_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/TURSUNZODA_/)
 </script>
+<script type="text/javascript">

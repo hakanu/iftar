@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/RYBACH YE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RYBACH_YE, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/RYBACH_YE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'RYBACH YE';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'RYBACH YE';
+* [ (RYBACH_YE, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/RYBACH_YE/)
 </script>
+<script type="text/javascript">

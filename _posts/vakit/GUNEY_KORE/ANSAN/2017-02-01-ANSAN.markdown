@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/ANSAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANSAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/ANSAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'ANSAN';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'ANSAN';
+* [ (ANSAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/ANSAN/)
 </script>
+<script type="text/javascript">

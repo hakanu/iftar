@@ -8,10 +8,11 @@ permalink: /RUSYA/ULYANOVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULYANOVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ULYANOVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ULYANOVSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ULYANOVSK';
+* [ (ULYANOVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ULYANOVSK/)
 </script>
+<script type="text/javascript">

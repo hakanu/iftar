@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BHUBANESHWAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BHUBANESHWAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHUBANESHWAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BHUBANESHWAR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BHUBANESHWAR';
+* [ (BHUBANESHWAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHUBANESHWAR/)
 </script>
+<script type="text/javascript">

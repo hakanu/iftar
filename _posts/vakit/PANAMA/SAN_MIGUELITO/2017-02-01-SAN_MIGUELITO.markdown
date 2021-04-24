@@ -8,10 +8,11 @@ permalink: /PANAMA/SAN MIGUELITO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_MIGUELITO, PANAMA) için iftar ve namaz vakitleri](/PANAMA/SAN_MIGUELITO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'SAN MIGUELITO';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'SAN MIGUELITO';
+* [ (SAN_MIGUELITO, PANAMA) için iftar ve namaz vakitleri](/PANAMA/SAN_MIGUELITO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MISIR/KAFR ASH SHAYKH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAFR_ASH_SHAYKH, MISIR) için iftar ve namaz vakitleri](/MISIR/KAFR_ASH_SHAYKH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'KAFR ASH SHAYKH';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'KAFR ASH SHAYKH';
+* [ (KAFR_ASH_SHAYKH, MISIR) için iftar ve namaz vakitleri](/MISIR/KAFR_ASH_SHAYKH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/BAR-LE-DUC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAR-LE-DUC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAR-LE-DUC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BAR-LE-DUC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BAR-LE-DUC';
+* [ (BAR-LE-DUC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BAR-LE-DUC/)
 </script>
+<script type="text/javascript">

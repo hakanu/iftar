@@ -8,10 +8,11 @@ permalink: /JAPONYA/AKASHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AKASHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'AKASHI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'AKASHI';
+* [ (AKASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AKASHI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/URASOE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URASOE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/URASOE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'URASOE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'URASOE';
+* [ (URASOE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/URASOE/)
 </script>
+<script type="text/javascript">

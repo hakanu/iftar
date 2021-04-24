@@ -8,10 +8,11 @@ permalink: /INGILTERE/BATHGATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATHGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BATHGATE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BATHGATE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BATHGATE';
+* [ (BATHGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BATHGATE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ASSELN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASSELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ASSELN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ASSELN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ASSELN';
+* [ (ASSELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ASSELN/)
 </script>
+<script type="text/javascript">

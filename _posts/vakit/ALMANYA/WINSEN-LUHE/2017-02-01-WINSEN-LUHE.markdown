@@ -8,10 +8,11 @@ permalink: /ALMANYA/WINSEN-LUHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WINSEN-LUHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WINSEN-LUHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WINSEN-LUHE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WINSEN-LUHE';
+* [ (WINSEN-LUHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WINSEN-LUHE/)
 </script>
+<script type="text/javascript">

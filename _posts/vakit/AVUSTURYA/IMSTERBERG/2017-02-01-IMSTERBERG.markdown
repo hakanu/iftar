@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/IMSTERBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IMSTERBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/IMSTERBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'IMSTERBERG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'IMSTERBERG';
+* [ (IMSTERBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/IMSTERBERG/)
 </script>
+<script type="text/javascript">

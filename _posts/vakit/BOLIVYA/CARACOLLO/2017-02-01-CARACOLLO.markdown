@@ -8,10 +8,11 @@ permalink: /BOLIVYA/CARACOLLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARACOLLO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CARACOLLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'CARACOLLO';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'CARACOLLO';
+* [ (CARACOLLO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CARACOLLO/)
 </script>
+<script type="text/javascript">

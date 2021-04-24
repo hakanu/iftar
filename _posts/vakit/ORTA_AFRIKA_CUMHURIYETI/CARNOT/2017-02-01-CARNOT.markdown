@@ -8,10 +8,11 @@ permalink: /ORTA AFRIKA CUMHURIYETI/CARNOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARNOT, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/CARNOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
+
   var GLOBAL_CITY = 'CARNOT';
+  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
   var GLOBAL_STATE = 'CARNOT';
+* [ (CARNOT, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/CARNOT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MARTINIK/FORT-DE-FRANCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORT-DE-FRANCE, MARTINIK) için iftar ve namaz vakitleri](/MARTINIK/FORT-DE-FRANCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MARTINIK';
+
   var GLOBAL_CITY = 'FORT-DE-FRANCE';
+  var GLOBAL_COUNTRY = 'MARTINIK';
   var GLOBAL_STATE = 'FORT-DE-FRANCE';
+* [ (FORT-DE-FRANCE, MARTINIK) için iftar ve namaz vakitleri](/MARTINIK/FORT-DE-FRANCE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/ESPOO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESPOO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/ESPOO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'ESPOO';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'ESPOO';
+* [ (ESPOO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/ESPOO/)
 </script>
+<script type="text/javascript">

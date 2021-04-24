@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HOLBAEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLBAEK, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOLBAEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HOLBAEK';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HOLBAEK';
+* [ (HOLBAEK, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOLBAEK/)
 </script>
+<script type="text/javascript">

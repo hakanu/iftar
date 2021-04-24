@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/NAANTALI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAANTALI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NAANTALI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'NAANTALI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'NAANTALI';
+* [ (NAANTALI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NAANTALI/)
 </script>
+<script type="text/javascript">

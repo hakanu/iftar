@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/ORMILIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORMILIA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/ORMILIA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'ORMILIA ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'ORMILIA ';
+* [ (ORMILIA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/ORMILIA_/)
 </script>
+<script type="text/javascript">

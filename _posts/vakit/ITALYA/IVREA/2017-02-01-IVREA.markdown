@@ -8,10 +8,11 @@ permalink: /ITALYA/IVREA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IVREA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/IVREA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'IVREA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'IVREA';
+* [ (IVREA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/IVREA/)
 </script>
+<script type="text/javascript">

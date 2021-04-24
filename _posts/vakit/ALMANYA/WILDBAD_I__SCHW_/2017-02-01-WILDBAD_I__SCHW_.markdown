@@ -8,10 +8,11 @@ permalink: /ALMANYA/WILDBAD I_ SCHW_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILDBAD_I__SCHW_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILDBAD_I__SCHW_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WILDBAD I_ SCHW_';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WILDBAD I_ SCHW_';
+* [ (WILDBAD_I__SCHW_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILDBAD_I__SCHW_/)
 </script>
+<script type="text/javascript">

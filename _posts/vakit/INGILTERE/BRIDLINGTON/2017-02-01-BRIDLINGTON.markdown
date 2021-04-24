@@ -8,10 +8,11 @@ permalink: /INGILTERE/BRIDLINGTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIDLINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BRIDLINGTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BRIDLINGTON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BRIDLINGTON';
+* [ (BRIDLINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BRIDLINGTON/)
 </script>
+<script type="text/javascript">

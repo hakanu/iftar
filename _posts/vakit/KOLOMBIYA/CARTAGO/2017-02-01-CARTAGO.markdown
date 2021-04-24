@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/CARTAGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARTAGO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/CARTAGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'CARTAGO';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'CARTAGO';
+* [ (CARTAGO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/CARTAGO/)
 </script>
+<script type="text/javascript">

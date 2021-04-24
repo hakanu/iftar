@@ -8,10 +8,11 @@ permalink: /FILIPINLER/LAOAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAOAG, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LAOAG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'LAOAG';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'LAOAG';
+* [ (LAOAG, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LAOAG/)
 </script>
+<script type="text/javascript">

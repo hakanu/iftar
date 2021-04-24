@@ -8,10 +8,11 @@ permalink: /FRANSA/HERRLISHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERRLISHEIM, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HERRLISHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'HERRLISHEIM';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'HERRLISHEIM';
+* [ (HERRLISHEIM, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HERRLISHEIM/)
 </script>
+<script type="text/javascript">

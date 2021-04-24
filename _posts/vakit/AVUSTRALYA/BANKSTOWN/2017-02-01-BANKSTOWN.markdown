@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BANKSTOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANKSTOWN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BANKSTOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BANKSTOWN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BANKSTOWN';
+* [ (BANKSTOWN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BANKSTOWN/)
 </script>
+<script type="text/javascript">

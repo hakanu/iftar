@@ -8,10 +8,11 @@ permalink: /UMMAN/SUHAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUHAR, UMMAN) için iftar ve namaz vakitleri](/UMMAN/SUHAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UMMAN';
+
   var GLOBAL_CITY = 'SUHAR';
+  var GLOBAL_COUNTRY = 'UMMAN';
   var GLOBAL_STATE = 'SUHAR';
+* [ (SUHAR, UMMAN) için iftar ve namaz vakitleri](/UMMAN/SUHAR/)
 </script>
+<script type="text/javascript">

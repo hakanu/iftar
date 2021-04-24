@@ -8,10 +8,11 @@ permalink: /VIETNAM/VINH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VINH, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/VINH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'VINH';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'VINH';
+* [ (VINH, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/VINH/)
 </script>
+<script type="text/javascript">

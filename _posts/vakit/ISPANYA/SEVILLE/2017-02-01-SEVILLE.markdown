@@ -8,10 +8,11 @@ permalink: /ISPANYA/SEVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEVILLE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SEVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'SEVILLE';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'SEVILLE';
+* [ (SEVILLE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/SEVILLE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BERNAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERNAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERNAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BERNAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BERNAU';
+* [ (BERNAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERNAU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/MOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'MOL';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'MOL';
+* [ (MOL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MOL/)
 </script>
+<script type="text/javascript">

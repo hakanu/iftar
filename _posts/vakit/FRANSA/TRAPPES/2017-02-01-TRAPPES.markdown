@@ -8,10 +8,11 @@ permalink: /FRANSA/TRAPPES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRAPPES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TRAPPES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TRAPPES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TRAPPES';
+* [ (TRAPPES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TRAPPES/)
 </script>
+<script type="text/javascript">

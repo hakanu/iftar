@@ -8,10 +8,11 @@ permalink: /SRI LANKA/MATARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATARA, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MATARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SRI LANKA';
+
   var GLOBAL_CITY = 'MATARA';
+  var GLOBAL_COUNTRY = 'SRI LANKA';
   var GLOBAL_STATE = 'MATARA';
+* [ (MATARA, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MATARA/)
 </script>
+<script type="text/javascript">

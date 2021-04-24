@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/URGENC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URGENC, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/URGENC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'URGENC';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'URGENC';
+* [ (URGENC, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/URGENC/)
 </script>
+<script type="text/javascript">

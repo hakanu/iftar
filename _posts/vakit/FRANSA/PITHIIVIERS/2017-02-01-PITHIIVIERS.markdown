@@ -8,10 +8,11 @@ permalink: /FRANSA/PITHIIVIERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PITHIIVIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PITHIIVIERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PITHIIVIERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PITHIIVIERS';
+* [ (PITHIIVIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PITHIIVIERS/)
 </script>
+<script type="text/javascript">

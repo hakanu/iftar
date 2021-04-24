@@ -8,10 +8,11 @@ permalink: /JAPONYA/SASEBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SASEBO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SASEBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SASEBO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SASEBO';
+* [ (SASEBO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SASEBO/)
 </script>
+<script type="text/javascript">

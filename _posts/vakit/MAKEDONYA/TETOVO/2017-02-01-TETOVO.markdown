@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/TETOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TETOVO, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/TETOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'TETOVO';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'TETOVO';
+* [ (TETOVO, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/TETOVO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERZOGENRATH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERZOGENRATH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERZOGENRATH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERZOGENRATH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERZOGENRATH';
+* [ (HERZOGENRATH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERZOGENRATH/)
 </script>
+<script type="text/javascript">

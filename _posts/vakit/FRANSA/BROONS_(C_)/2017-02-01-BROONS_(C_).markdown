@@ -8,10 +8,11 @@ permalink: /FRANSA/BROONS (C )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BROONS_(C_), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BROONS_(C_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BROONS (C )';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BROONS (C )';
+* [ (BROONS_(C_), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BROONS_(C_)/)
 </script>
+<script type="text/javascript">

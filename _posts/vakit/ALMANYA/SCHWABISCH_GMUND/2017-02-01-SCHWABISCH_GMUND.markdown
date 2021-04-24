@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWABISCH GMUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWABISCH_GMUND, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWABISCH_GMUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWABISCH GMUND';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWABISCH GMUND';
+* [ (SCHWABISCH_GMUND, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWABISCH_GMUND/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELARUS/VITEBSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VITEBSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/VITEBSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'VITEBSK';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'VITEBSK';
+* [ (VITEBSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/VITEBSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/SAN JUSTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_JUSTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_JUSTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'SAN JUSTO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'SAN JUSTO';
+* [ (SAN_JUSTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_JUSTO/)
 </script>
+<script type="text/javascript">

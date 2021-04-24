@@ -8,10 +8,11 @@ permalink: /CIN/NEIJANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEIJANG, CIN) için iftar ve namaz vakitleri](/CIN/NEIJANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'NEIJANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'NEIJANG';
+* [ (NEIJANG, CIN) için iftar ve namaz vakitleri](/CIN/NEIJANG/)
 </script>
+<script type="text/javascript">

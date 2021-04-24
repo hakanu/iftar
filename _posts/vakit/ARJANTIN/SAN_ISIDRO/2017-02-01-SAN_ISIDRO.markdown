@@ -8,10 +8,11 @@ permalink: /ARJANTIN/SAN ISIDRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_ISIDRO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_ISIDRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'SAN ISIDRO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'SAN ISIDRO';
+* [ (SAN_ISIDRO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_ISIDRO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/NORTHAMPTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORTHAMPTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NORTHAMPTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'NORTHAMPTON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'NORTHAMPTON';
+* [ (NORTHAMPTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NORTHAMPTON/)
 </script>
+<script type="text/javascript">

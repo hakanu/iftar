@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/ERSEKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERSEKE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/ERSEKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'ERSEKE';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'ERSEKE';
+* [ (ERSEKE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/ERSEKE/)
 </script>
+<script type="text/javascript">

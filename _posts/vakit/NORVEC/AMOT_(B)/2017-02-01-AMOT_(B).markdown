@@ -8,10 +8,11 @@ permalink: /NORVEC/AMOT (B)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMOT_(B), NORVEC) için iftar ve namaz vakitleri](/NORVEC/AMOT_(B)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'AMOT (B)';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'AMOT (B)';
+* [ (AMOT_(B), NORVEC) için iftar ve namaz vakitleri](/NORVEC/AMOT_(B)/)
 </script>
+<script type="text/javascript">

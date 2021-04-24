@@ -8,10 +8,11 @@ permalink: /VIETNAM/CAN THO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAN_THO, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/CAN_THO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'CAN THO';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'CAN THO';
+* [ (CAN_THO, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/CAN_THO/)
 </script>
+<script type="text/javascript">

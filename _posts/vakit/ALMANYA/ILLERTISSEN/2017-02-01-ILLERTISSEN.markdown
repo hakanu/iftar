@@ -8,10 +8,11 @@ permalink: /ALMANYA/ILLERTISSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ILLERTISSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ILLERTISSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ILLERTISSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ILLERTISSEN';
+* [ (ILLERTISSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ILLERTISSEN/)
 </script>
+<script type="text/javascript">

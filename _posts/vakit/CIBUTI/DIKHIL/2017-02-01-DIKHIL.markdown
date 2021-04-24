@@ -8,10 +8,11 @@ permalink: /CIBUTI/DIKHIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIKHIL, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/DIKHIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIBUTI';
+
   var GLOBAL_CITY = 'DIKHIL';
+  var GLOBAL_COUNTRY = 'CIBUTI';
   var GLOBAL_STATE = 'DIKHIL';
+* [ (DIKHIL, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/DIKHIL/)
 </script>
+<script type="text/javascript">

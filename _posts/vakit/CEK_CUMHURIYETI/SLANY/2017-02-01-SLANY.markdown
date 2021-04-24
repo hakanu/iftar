@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/SLANY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SLANY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/SLANY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'SLANY';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'SLANY';
+* [ (SLANY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/SLANY/)
 </script>
+<script type="text/javascript">

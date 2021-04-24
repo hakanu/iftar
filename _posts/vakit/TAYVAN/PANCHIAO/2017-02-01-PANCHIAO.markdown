@@ -8,10 +8,11 @@ permalink: /TAYVAN/PANCHIAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PANCHIAO, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PANCHIAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'PANCHIAO';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'PANCHIAO';
+* [ (PANCHIAO, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PANCHIAO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/STEINHAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEINHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEINHAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STEINHAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STEINHAGEN';
+* [ (STEINHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEINHAGEN/)
 </script>
+<script type="text/javascript">

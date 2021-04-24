@@ -8,10 +8,11 @@ permalink: /INGILTERE/SCARBOROUGH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCARBOROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SCARBOROUGH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'SCARBOROUGH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'SCARBOROUGH';
+* [ (SCARBOROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SCARBOROUGH/)
 </script>
+<script type="text/javascript">

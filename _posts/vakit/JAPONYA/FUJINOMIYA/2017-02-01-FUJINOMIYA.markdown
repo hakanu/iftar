@@ -8,10 +8,11 @@ permalink: /JAPONYA/FUJINOMIYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUJINOMIYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUJINOMIYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'FUJINOMIYA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'FUJINOMIYA';
+* [ (FUJINOMIYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUJINOMIYA/)
 </script>
+<script type="text/javascript">

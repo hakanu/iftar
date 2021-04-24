@@ -8,10 +8,11 @@ permalink: /ALMANYA/VOHRINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOHRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VOHRINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VOHRINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VOHRINGEN';
+* [ (VOHRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VOHRINGEN/)
 </script>
+<script type="text/javascript">

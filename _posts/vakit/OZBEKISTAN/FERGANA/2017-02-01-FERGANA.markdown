@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/FERGANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FERGANA, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/FERGANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'FERGANA';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'FERGANA';
+* [ (FERGANA, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/FERGANA/)
 </script>
+<script type="text/javascript">

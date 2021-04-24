@@ -8,10 +8,11 @@ permalink: /CIN/CHONGQING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHONGQING, CIN) için iftar ve namaz vakitleri](/CIN/CHONGQING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHONGQING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHONGQING';
+* [ (CHONGQING, CIN) için iftar ve namaz vakitleri](/CIN/CHONGQING/)
 </script>
+<script type="text/javascript">

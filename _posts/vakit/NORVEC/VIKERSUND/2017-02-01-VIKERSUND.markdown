@@ -8,10 +8,11 @@ permalink: /NORVEC/VIKERSUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIKERSUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/VIKERSUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'VIKERSUND';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'VIKERSUND';
+* [ (VIKERSUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/VIKERSUND/)
 </script>
+<script type="text/javascript">

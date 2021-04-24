@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/MASAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MASAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/MASAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'MASAN';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'MASAN';
+* [ (MASAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/MASAN/)
 </script>
+<script type="text/javascript">

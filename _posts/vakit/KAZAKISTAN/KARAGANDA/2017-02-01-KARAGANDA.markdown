@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KARAGANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAGANDA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARAGANDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KARAGANDA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KARAGANDA';
+* [ (KARAGANDA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARAGANDA/)
 </script>
+<script type="text/javascript">

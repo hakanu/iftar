@@ -8,10 +8,11 @@ permalink: /ALMANYA/GOMMERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOMMERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOMMERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GOMMERN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GOMMERN';
+* [ (GOMMERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOMMERN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ROMANYA/DROBETA-TURNU SEVERIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DROBETA-TURNU_SEVERIN, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/DROBETA-TURNU_SEVERIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'DROBETA-TURNU SEVERIN';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'DROBETA-TURNU SEVERIN';
+* [ (DROBETA-TURNU_SEVERIN, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/DROBETA-TURNU_SEVERIN/)
 </script>
+<script type="text/javascript">

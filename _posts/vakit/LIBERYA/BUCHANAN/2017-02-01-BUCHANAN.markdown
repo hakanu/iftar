@@ -8,10 +8,11 @@ permalink: /LIBERYA/BUCHANAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCHANAN, LIBERYA) için iftar ve namaz vakitleri](/LIBERYA/BUCHANAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBERYA';
+
   var GLOBAL_CITY = 'BUCHANAN';
+  var GLOBAL_COUNTRY = 'LIBERYA';
   var GLOBAL_STATE = 'BUCHANAN';
+* [ (BUCHANAN, LIBERYA) için iftar ve namaz vakitleri](/LIBERYA/BUCHANAN/)
 </script>
+<script type="text/javascript">

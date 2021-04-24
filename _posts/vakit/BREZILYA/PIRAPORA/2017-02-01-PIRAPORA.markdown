@@ -8,10 +8,11 @@ permalink: /BREZILYA/PIRAPORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIRAPORA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PIRAPORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PIRAPORA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PIRAPORA';
+* [ (PIRAPORA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PIRAPORA/)
 </script>
+<script type="text/javascript">

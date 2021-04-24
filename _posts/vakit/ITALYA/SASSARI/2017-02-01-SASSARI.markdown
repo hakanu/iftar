@@ -8,10 +8,11 @@ permalink: /ITALYA/SASSARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SASSARI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SASSARI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SASSARI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SASSARI';
+* [ (SASSARI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SASSARI/)
 </script>
+<script type="text/javascript">

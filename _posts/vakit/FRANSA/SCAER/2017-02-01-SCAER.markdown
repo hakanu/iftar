@@ -8,10 +8,11 @@ permalink: /FRANSA/SCAER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCAER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SCAER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SCAER';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SCAER';
+* [ (SCAER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SCAER/)
 </script>
+<script type="text/javascript">

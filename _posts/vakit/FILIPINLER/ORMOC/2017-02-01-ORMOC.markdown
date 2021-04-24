@@ -8,10 +8,11 @@ permalink: /FILIPINLER/ORMOC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORMOC, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ORMOC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'ORMOC';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'ORMOC';
+* [ (ORMOC, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ORMOC/)
 </script>
+<script type="text/javascript">

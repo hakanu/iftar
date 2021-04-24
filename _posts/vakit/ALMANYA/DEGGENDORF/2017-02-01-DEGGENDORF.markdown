@@ -8,10 +8,11 @@ permalink: /ALMANYA/DEGGENDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEGGENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DEGGENDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DEGGENDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DEGGENDORF';
+* [ (DEGGENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DEGGENDORF/)
 </script>
+<script type="text/javascript">

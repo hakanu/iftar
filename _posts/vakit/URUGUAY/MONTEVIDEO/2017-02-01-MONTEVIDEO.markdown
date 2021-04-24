@@ -8,10 +8,11 @@ permalink: /URUGUAY/MONTEVIDEO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTEVIDEO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MONTEVIDEO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'MONTEVIDEO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'MONTEVIDEO';
+* [ (MONTEVIDEO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MONTEVIDEO/)
 </script>
+<script type="text/javascript">

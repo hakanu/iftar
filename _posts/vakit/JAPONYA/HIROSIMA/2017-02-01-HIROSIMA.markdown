@@ -8,10 +8,11 @@ permalink: /JAPONYA/HIROSIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIROSIMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIROSIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HIROSIMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HIROSIMA';
+* [ (HIROSIMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIROSIMA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/PEKIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PEKIN, CIN) için iftar ve namaz vakitleri](/CIN/PEKIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'PEKIN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'PEKIN';
+* [ (PEKIN, CIN) için iftar ve namaz vakitleri](/CIN/PEKIN/)
 </script>
+<script type="text/javascript">

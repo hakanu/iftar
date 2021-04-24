@@ -8,10 +8,11 @@ permalink: /VENEZUELA/PUERTO CABELLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_CABELLO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PUERTO_CABELLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'PUERTO CABELLO';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'PUERTO CABELLO';
+* [ (PUERTO_CABELLO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PUERTO_CABELLO/)
 </script>
+<script type="text/javascript">

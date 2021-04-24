@@ -8,10 +8,11 @@ permalink: /POLONYA/JASTRZEBIE ZBROS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JASTRZEBIE_ZBROS, POLONYA) için iftar ve namaz vakitleri](/POLONYA/JASTRZEBIE_ZBROS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'JASTRZEBIE ZBROS';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'JASTRZEBIE ZBROS';
+* [ (JASTRZEBIE_ZBROS, POLONYA) için iftar ve namaz vakitleri](/POLONYA/JASTRZEBIE_ZBROS/)
 </script>
+<script type="text/javascript">

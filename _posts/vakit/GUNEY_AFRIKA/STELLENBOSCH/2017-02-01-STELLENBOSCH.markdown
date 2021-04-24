@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/STELLENBOSCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STELLENBOSCH, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/STELLENBOSCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'STELLENBOSCH';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'STELLENBOSCH';
+* [ (STELLENBOSCH, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/STELLENBOSCH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/KOPRIVNICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOPRIVNICA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/KOPRIVNICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'KOPRIVNICA';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'KOPRIVNICA';
+* [ (KOPRIVNICA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/KOPRIVNICA/)
 </script>
+<script type="text/javascript">

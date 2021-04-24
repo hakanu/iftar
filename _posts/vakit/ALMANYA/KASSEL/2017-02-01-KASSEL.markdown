@@ -8,10 +8,11 @@ permalink: /ALMANYA/KASSEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASSEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KASSEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KASSEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KASSEL';
+* [ (KASSEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KASSEL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/TREVISO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TREVISO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TREVISO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'TREVISO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'TREVISO';
+* [ (TREVISO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TREVISO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/TRES ARROYOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRES_ARROYOS, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/TRES_ARROYOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'TRES ARROYOS';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'TRES ARROYOS';
+* [ (TRES_ARROYOS, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/TRES_ARROYOS/)
 </script>
+<script type="text/javascript">

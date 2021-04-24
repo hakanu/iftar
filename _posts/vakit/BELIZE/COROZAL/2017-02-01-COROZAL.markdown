@@ -8,10 +8,11 @@ permalink: /BELIZE/COROZAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COROZAL, BELIZE) için iftar ve namaz vakitleri](/BELIZE/COROZAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELIZE';
+
   var GLOBAL_CITY = 'COROZAL';
+  var GLOBAL_COUNTRY = 'BELIZE';
   var GLOBAL_STATE = 'COROZAL';
+* [ (COROZAL, BELIZE) için iftar ve namaz vakitleri](/BELIZE/COROZAL/)
 </script>
+<script type="text/javascript">

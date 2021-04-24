@@ -8,10 +8,11 @@ permalink: /BOLIVYA/ORURO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORURO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/ORURO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'ORURO';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'ORURO';
+* [ (ORURO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/ORURO/)
 </script>
+<script type="text/javascript">

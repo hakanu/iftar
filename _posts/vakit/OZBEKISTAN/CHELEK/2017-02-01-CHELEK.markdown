@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/CHELEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHELEK, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/CHELEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'CHELEK';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'CHELEK';
+* [ (CHELEK, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/CHELEK/)
 </script>
+<script type="text/javascript">

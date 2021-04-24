@@ -8,10 +8,11 @@ permalink: /LIBYA/MURZUQ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURZUQ, LIBYA) için iftar ve namaz vakitleri](/LIBYA/MURZUQ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBYA';
+
   var GLOBAL_CITY = 'MURZUQ';
+  var GLOBAL_COUNTRY = 'LIBYA';
   var GLOBAL_STATE = 'MURZUQ';
+* [ (MURZUQ, LIBYA) için iftar ve namaz vakitleri](/LIBYA/MURZUQ/)
 </script>
+<script type="text/javascript">

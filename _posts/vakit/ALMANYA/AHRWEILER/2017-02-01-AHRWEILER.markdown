@@ -8,10 +8,11 @@ permalink: /ALMANYA/AHRWEILER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AHRWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHRWEILER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AHRWEILER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AHRWEILER';
+* [ (AHRWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHRWEILER/)
 </script>
+<script type="text/javascript">

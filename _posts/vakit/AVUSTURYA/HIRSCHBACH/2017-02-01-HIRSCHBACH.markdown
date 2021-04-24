@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HIRSCHBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIRSCHBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HIRSCHBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HIRSCHBACH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HIRSCHBACH';
+* [ (HIRSCHBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HIRSCHBACH/)
 </script>
+<script type="text/javascript">

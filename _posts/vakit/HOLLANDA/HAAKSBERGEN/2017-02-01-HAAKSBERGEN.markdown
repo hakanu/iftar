@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HAAKSBERGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAAKSBERGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HAAKSBERGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HAAKSBERGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HAAKSBERGEN';
+* [ (HAAKSBERGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HAAKSBERGEN/)
 </script>
+<script type="text/javascript">

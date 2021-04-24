@@ -8,10 +8,11 @@ permalink: /ITALYA/MONOPOLI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONOPOLI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MONOPOLI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MONOPOLI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MONOPOLI';
+* [ (MONOPOLI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MONOPOLI/)
 </script>
+<script type="text/javascript">

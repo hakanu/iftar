@@ -8,10 +8,11 @@ permalink: /ALMANYA/BLUMENTHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLUMENTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLUMENTHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BLUMENTHAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BLUMENTHAL';
+* [ (BLUMENTHAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLUMENTHAL/)
 </script>
+<script type="text/javascript">

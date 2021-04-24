@@ -8,10 +8,11 @@ permalink: /ALMANYA/BEESKOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEESKOW, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEESKOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BEESKOW';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BEESKOW';
+* [ (BEESKOW, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEESKOW/)
 </script>
+<script type="text/javascript">

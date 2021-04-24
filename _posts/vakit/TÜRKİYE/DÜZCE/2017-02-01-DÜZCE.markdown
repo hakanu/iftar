@@ -8,17 +8,18 @@ permalink: /TÜRKİYE/DÜZCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [GÜMÜŞOVA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/GÜMÜŞOVA)
-* [CUMAYERİ (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/CUMAYERİ)
-* [GÖLYAKA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/GÖLYAKA)
-* [YIĞILCA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/YIĞILCA)
-* [DÜZCE (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/DÜZCE)
-* [ÇİLİMLİ (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/ÇİLİMLİ)
-* [AKÇAKOCA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/AKÇAKOCA)
-* [KAYNAŞLI (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/KAYNAŞLI)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'DÜZCE';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'DÜZCE';
+* [AKÇAKOCA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/AKÇAKOCA)
+* [CUMAYERİ (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/CUMAYERİ)
+* [DÜZCE (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/DÜZCE)
+* [GÖLYAKA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/GÖLYAKA)
+* [GÜMÜŞOVA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/GÜMÜŞOVA)
+* [KAYNAŞLI (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/KAYNAŞLI)
+* [YIĞILCA (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/YIĞILCA)
+* [ÇİLİMLİ (DÜZCE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/DÜZCE/ÇİLİMLİ)
 </script>
+<script type="text/javascript">

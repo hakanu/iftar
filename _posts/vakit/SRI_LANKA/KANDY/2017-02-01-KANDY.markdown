@@ -8,10 +8,11 @@ permalink: /SRI LANKA/KANDY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANDY, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/KANDY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SRI LANKA';
+
   var GLOBAL_CITY = 'KANDY';
+  var GLOBAL_COUNTRY = 'SRI LANKA';
   var GLOBAL_STATE = 'KANDY';
+* [ (KANDY, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/KANDY/)
 </script>
+<script type="text/javascript">

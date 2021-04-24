@@ -8,10 +8,11 @@ permalink: /ITALYA/TERNI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERNI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TERNI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'TERNI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'TERNI';
+* [ (TERNI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TERNI/)
 </script>
+<script type="text/javascript">

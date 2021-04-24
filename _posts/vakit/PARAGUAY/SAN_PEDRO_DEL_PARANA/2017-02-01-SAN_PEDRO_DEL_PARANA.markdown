@@ -8,10 +8,11 @@ permalink: /PARAGUAY/SAN PEDRO DEL PARANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_PEDRO_DEL_PARANA, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/SAN_PEDRO_DEL_PARANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PARAGUAY';
+
   var GLOBAL_CITY = 'SAN PEDRO DEL PARANA';
+  var GLOBAL_COUNTRY = 'PARAGUAY';
   var GLOBAL_STATE = 'SAN PEDRO DEL PARANA';
+* [ (SAN_PEDRO_DEL_PARANA, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/SAN_PEDRO_DEL_PARANA/)
 </script>
+<script type="text/javascript">

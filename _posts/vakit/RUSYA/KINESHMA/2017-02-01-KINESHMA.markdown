@@ -8,10 +8,11 @@ permalink: /RUSYA/KINESHMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINESHMA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KINESHMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KINESHMA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KINESHMA';
+* [ (KINESHMA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KINESHMA/)
 </script>
+<script type="text/javascript">

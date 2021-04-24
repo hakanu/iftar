@@ -8,10 +8,11 @@ permalink: /KUBA/CIENFUEGOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIENFUEGOS, KUBA) için iftar ve namaz vakitleri](/KUBA/CIENFUEGOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'CIENFUEGOS';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'CIENFUEGOS';
+* [ (CIENFUEGOS, KUBA) için iftar ve namaz vakitleri](/KUBA/CIENFUEGOS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HINDISTAN/LUDHIANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUDHIANA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/LUDHIANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'LUDHIANA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'LUDHIANA';
+* [ (LUDHIANA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/LUDHIANA/)
 </script>
+<script type="text/javascript">

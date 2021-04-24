@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/BOBO-DIOULASSO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOBO-DIOULASSO, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/BOBO-DIOULASSO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'BOBO-DIOULASSO';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'BOBO-DIOULASSO';
+* [ (BOBO-DIOULASSO, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/BOBO-DIOULASSO/)
 </script>
+<script type="text/javascript">

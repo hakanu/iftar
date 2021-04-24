@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SITTARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SITTARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SITTARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SITTARD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SITTARD';
+* [ (SITTARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SITTARD/)
 </script>
+<script type="text/javascript">

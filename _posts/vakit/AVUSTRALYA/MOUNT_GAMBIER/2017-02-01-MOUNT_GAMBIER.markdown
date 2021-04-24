@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOUNT GAMBIER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOUNT_GAMBIER, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOUNT_GAMBIER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOUNT GAMBIER';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOUNT GAMBIER';
+* [ (MOUNT_GAMBIER, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOUNT_GAMBIER/)
 </script>
+<script type="text/javascript">

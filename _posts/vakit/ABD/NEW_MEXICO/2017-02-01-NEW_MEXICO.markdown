@@ -8,11 +8,12 @@ permalink: /ABD/NEW MEXICO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SANTA_FE (NEW_MEXICO, ABD) için iftar ve namaz vakitleri](/ABD/NEW_MEXICO/SANTA_FE)
-* [ALBUQUERQUE (NEW_MEXICO, ABD) için iftar ve namaz vakitleri](/ABD/NEW_MEXICO/ALBUQUERQUE)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
+
   var GLOBAL_CITY = 'NEW MEXICO';
+  var GLOBAL_COUNTRY = 'ABD';
   var GLOBAL_STATE = 'NEW MEXICO';
+* [ALBUQUERQUE (NEW_MEXICO, ABD) için iftar ve namaz vakitleri](/ABD/NEW_MEXICO/ALBUQUERQUE)
+* [SANTA_FE (NEW_MEXICO, ABD) için iftar ve namaz vakitleri](/ABD/NEW_MEXICO/SANTA_FE)
 </script>
+<script type="text/javascript">

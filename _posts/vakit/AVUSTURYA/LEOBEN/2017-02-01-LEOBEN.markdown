@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LEOBEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEOBEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEOBEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LEOBEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LEOBEN';
+* [ (LEOBEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEOBEN/)
 </script>
+<script type="text/javascript">

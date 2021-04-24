@@ -8,10 +8,11 @@ permalink: /ISVICRE/LIGORNETTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIGORNETTO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LIGORNETTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LIGORNETTO';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LIGORNETTO';
+* [ (LIGORNETTO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LIGORNETTO/)
 </script>
+<script type="text/javascript">

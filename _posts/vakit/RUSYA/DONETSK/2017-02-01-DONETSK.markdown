@@ -8,10 +8,11 @@ permalink: /RUSYA/DONETSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DONETSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DONETSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'DONETSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'DONETSK';
+* [ (DONETSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DONETSK/)
 </script>
+<script type="text/javascript">

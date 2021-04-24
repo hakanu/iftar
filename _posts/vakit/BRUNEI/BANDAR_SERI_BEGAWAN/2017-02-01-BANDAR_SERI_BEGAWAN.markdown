@@ -8,10 +8,11 @@ permalink: /BRUNEI/BANDAR SERI BEGAWAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANDAR_SERI_BEGAWAN, BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/BANDAR_SERI_BEGAWAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BRUNEI';
+
   var GLOBAL_CITY = 'BANDAR SERI BEGAWAN';
+  var GLOBAL_COUNTRY = 'BRUNEI';
   var GLOBAL_STATE = 'BANDAR SERI BEGAWAN';
+* [ (BANDAR_SERI_BEGAWAN, BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/BANDAR_SERI_BEGAWAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/LES NEYROLLES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LES_NEYROLLES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LES_NEYROLLES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LES NEYROLLES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LES NEYROLLES';
+* [ (LES_NEYROLLES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LES_NEYROLLES/)
 </script>
+<script type="text/javascript">

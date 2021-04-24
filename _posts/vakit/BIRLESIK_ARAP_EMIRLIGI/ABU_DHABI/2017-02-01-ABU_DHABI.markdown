@@ -8,10 +8,11 @@ permalink: /BIRLESIK ARAP EMIRLIGI/ABU DHABI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABU_DHABI, BIRLESIK_ARAP_EMIRLIGI) için iftar ve namaz vakitleri](/BIRLESIK_ARAP_EMIRLIGI/ABU_DHABI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BIRLESIK ARAP EMIRLIGI';
+
   var GLOBAL_CITY = 'ABU DHABI';
+  var GLOBAL_COUNTRY = 'BIRLESIK ARAP EMIRLIGI';
   var GLOBAL_STATE = 'ABU DHABI';
+* [ (ABU_DHABI, BIRLESIK_ARAP_EMIRLIGI) için iftar ve namaz vakitleri](/BIRLESIK_ARAP_EMIRLIGI/ABU_DHABI/)
 </script>
+<script type="text/javascript">

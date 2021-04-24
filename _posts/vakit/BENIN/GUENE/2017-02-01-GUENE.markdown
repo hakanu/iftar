@@ -8,10 +8,11 @@ permalink: /BENIN/GUENE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUENE, BENIN) için iftar ve namaz vakitleri](/BENIN/GUENE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'GUENE';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'GUENE';
+* [ (GUENE, BENIN) için iftar ve namaz vakitleri](/BENIN/GUENE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/NYBORG (F)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NYBORG_(F), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NYBORG_(F)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'NYBORG (F)';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'NYBORG (F)';
+* [ (NYBORG_(F), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NYBORG_(F)/)
 </script>
+<script type="text/javascript">

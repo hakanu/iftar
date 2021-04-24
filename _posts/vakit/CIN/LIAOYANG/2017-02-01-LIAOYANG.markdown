@@ -8,10 +8,11 @@ permalink: /CIN/LIAOYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIAOYANG, CIN) için iftar ve namaz vakitleri](/CIN/LIAOYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LIAOYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LIAOYANG';
+* [ (LIAOYANG, CIN) için iftar ve namaz vakitleri](/CIN/LIAOYANG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/MAOCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAOCA_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MAOCA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'MAOCA ';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'MAOCA ';
+* [ (MAOCA_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MAOCA_/)
 </script>
+<script type="text/javascript">

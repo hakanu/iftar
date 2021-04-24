@@ -8,10 +8,11 @@ permalink: /PERU/PIURA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIURA, PERU) için iftar ve namaz vakitleri](/PERU/PIURA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'PIURA';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'PIURA';
+* [ (PIURA, PERU) için iftar ve namaz vakitleri](/PERU/PIURA/)
 </script>
+<script type="text/javascript">

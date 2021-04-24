@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/SUKABUMI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUKABUMI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SUKABUMI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'SUKABUMI';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'SUKABUMI';
+* [ (SUKABUMI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SUKABUMI/)
 </script>
+<script type="text/javascript">

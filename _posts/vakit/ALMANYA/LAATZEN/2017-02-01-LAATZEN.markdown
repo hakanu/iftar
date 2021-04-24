@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAATZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAATZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAATZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAATZEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAATZEN';
+* [ (LAATZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAATZEN/)
 </script>
+<script type="text/javascript">

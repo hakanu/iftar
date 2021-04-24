@@ -8,10 +8,11 @@ permalink: /FILISTIN/RAMALLAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAMALLAH, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/RAMALLAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'RAMALLAH';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'RAMALLAH';
+* [ (RAMALLAH, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/RAMALLAH/)
 </script>
+<script type="text/javascript">

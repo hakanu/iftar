@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/JIZZAKH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JIZZAKH, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/JIZZAKH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'JIZZAKH';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'JIZZAKH';
+* [ (JIZZAKH, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/JIZZAKH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/MATERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MATERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MATERA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MATERA';
+* [ (MATERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MATERA/)
 </script>
+<script type="text/javascript">

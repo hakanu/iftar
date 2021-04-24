@@ -8,10 +8,11 @@ permalink: /MALTA/VALLETTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALLETTA, MALTA) için iftar ve namaz vakitleri](/MALTA/VALLETTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALTA';
+
   var GLOBAL_CITY = 'VALLETTA';
+  var GLOBAL_COUNTRY = 'MALTA';
   var GLOBAL_STATE = 'VALLETTA';
+* [ (VALLETTA, MALTA) için iftar ve namaz vakitleri](/MALTA/VALLETTA/)
 </script>
+<script type="text/javascript">

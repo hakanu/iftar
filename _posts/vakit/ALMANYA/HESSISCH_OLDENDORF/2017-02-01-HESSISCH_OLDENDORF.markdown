@@ -8,10 +8,11 @@ permalink: /ALMANYA/HESSISCH OLDENDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HESSISCH_OLDENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HESSISCH_OLDENDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HESSISCH OLDENDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HESSISCH OLDENDORF';
+* [ (HESSISCH_OLDENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HESSISCH_OLDENDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/REIMS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REIMS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/REIMS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'REIMS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'REIMS';
+* [ (REIMS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/REIMS/)
 </script>
+<script type="text/javascript">

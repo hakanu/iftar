@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TUXTLA GUTIERREZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TUXTLA_GUTIERREZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TUXTLA_GUTIERREZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TUXTLA GUTIERREZ';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TUXTLA GUTIERREZ';
+* [ (TUXTLA_GUTIERREZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TUXTLA_GUTIERREZ/)
 </script>
+<script type="text/javascript">

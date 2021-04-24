@@ -8,10 +8,11 @@ permalink: /ALMANYA/RIESA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIESA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RIESA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RIESA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RIESA';
+* [ (RIESA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RIESA/)
 </script>
+<script type="text/javascript">

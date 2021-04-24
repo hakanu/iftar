@@ -8,10 +8,11 @@ permalink: /HOLLANDA/OLDEBROEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLDEBROEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OLDEBROEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'OLDEBROEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'OLDEBROEK';
+* [ (OLDEBROEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OLDEBROEK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAUFACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUFACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUFACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAUFACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAUFACH';
+* [ (LAUFACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUFACH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/GURDORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GURDORA_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/GURDORA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'GURDORA ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'GURDORA ';
+* [ (GURDORA_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/GURDORA_/)
 </script>
+<script type="text/javascript">

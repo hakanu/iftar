@@ -8,10 +8,11 @@ permalink: /CEZAYIR/BECHAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BECHAR, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BECHAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'BECHAR';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'BECHAR';
+* [ (BECHAR, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BECHAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/SIGMARINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIGMARINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIGMARINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SIGMARINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SIGMARINGEN';
+* [ (SIGMARINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIGMARINGEN/)
 </script>
+<script type="text/javascript">

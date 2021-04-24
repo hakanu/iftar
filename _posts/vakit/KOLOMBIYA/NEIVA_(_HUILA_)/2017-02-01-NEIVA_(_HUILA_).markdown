@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/NEIVA ( HUILA )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEIVA_(_HUILA_), KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/NEIVA_(_HUILA_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'NEIVA ( HUILA )';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'NEIVA ( HUILA )';
+* [ (NEIVA_(_HUILA_), KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/NEIVA_(_HUILA_)/)
 </script>
+<script type="text/javascript">

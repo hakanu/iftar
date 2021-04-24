@@ -8,10 +8,11 @@ permalink: /JAPONYA/HAKODATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAKODATE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HAKODATE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HAKODATE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HAKODATE';
+* [ (HAKODATE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HAKODATE/)
 </script>
+<script type="text/javascript">

@@ -8,19 +8,20 @@ permalink: /TÜRKİYE/MERSİN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ANAMUR (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/ANAMUR)
-* [TARSUS (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/TARSUS)
-* [GÜLNAR (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/GÜLNAR)
-* [BOZYAZI (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/BOZYAZI)
-* [ÇAMLIYAYLA (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/ÇAMLIYAYLA)
-* [AYDINCIK (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/AYDINCIK)
-* [ERDEMLİ (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/ERDEMLİ)
-* [MUT (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/MUT)
-* [MERSİN (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/MERSİN)
-* [SİLİFKE (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/SİLİFKE)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'MERSİN';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'MERSİN';
+* [ANAMUR (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/ANAMUR)
+* [AYDINCIK (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/AYDINCIK)
+* [BOZYAZI (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/BOZYAZI)
+* [ERDEMLİ (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/ERDEMLİ)
+* [GÜLNAR (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/GÜLNAR)
+* [MERSİN (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/MERSİN)
+* [MUT (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/MUT)
+* [SİLİFKE (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/SİLİFKE)
+* [TARSUS (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/TARSUS)
+* [ÇAMLIYAYLA (MERSİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MERSİN/ÇAMLIYAYLA)
 </script>
+<script type="text/javascript">

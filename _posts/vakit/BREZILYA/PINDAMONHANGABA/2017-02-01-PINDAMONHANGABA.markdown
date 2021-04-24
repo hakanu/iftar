@@ -8,10 +8,11 @@ permalink: /BREZILYA/PINDAMONHANGABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINDAMONHANGABA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PINDAMONHANGABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PINDAMONHANGABA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PINDAMONHANGABA';
+* [ (PINDAMONHANGABA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PINDAMONHANGABA/)
 </script>
+<script type="text/javascript">

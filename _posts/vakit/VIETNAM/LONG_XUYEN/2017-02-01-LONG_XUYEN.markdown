@@ -8,10 +8,11 @@ permalink: /VIETNAM/LONG XUYEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LONG_XUYEN, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/LONG_XUYEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'LONG XUYEN';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'LONG XUYEN';
+* [ (LONG_XUYEN, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/LONG_XUYEN/)
 </script>
+<script type="text/javascript">

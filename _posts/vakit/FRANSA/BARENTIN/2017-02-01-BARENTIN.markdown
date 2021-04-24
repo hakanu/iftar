@@ -8,10 +8,11 @@ permalink: /FRANSA/BARENTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARENTIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BARENTIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BARENTIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BARENTIN';
+* [ (BARENTIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BARENTIN/)
 </script>
+<script type="text/javascript">

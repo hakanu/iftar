@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/BUGUN(Turkistan)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUGUN(Turkistan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BUGUN(Turkistan)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'BUGUN(Turkistan)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'BUGUN(Turkistan)';
+* [ (BUGUN(Turkistan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BUGUN(Turkistan)/)
 </script>
+<script type="text/javascript">

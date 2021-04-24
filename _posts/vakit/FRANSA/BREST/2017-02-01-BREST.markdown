@@ -8,10 +8,11 @@ permalink: /FRANSA/BREST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREST, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BREST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BREST';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BREST';
+* [ (BREST, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BREST/)
 </script>
+<script type="text/javascript">

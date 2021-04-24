@@ -8,10 +8,11 @@ permalink: /BREZILYA/NILOPOLIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NILOPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/NILOPOLIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'NILOPOLIS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'NILOPOLIS';
+* [ (NILOPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/NILOPOLIS/)
 </script>
+<script type="text/javascript">

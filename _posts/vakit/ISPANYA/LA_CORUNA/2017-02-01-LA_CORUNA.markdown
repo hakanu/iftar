@@ -8,10 +8,11 @@ permalink: /ISPANYA/LA CORUNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_CORUNA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/LA_CORUNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'LA CORUNA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'LA CORUNA';
+* [ (LA_CORUNA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/LA_CORUNA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/LEVIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEVIN, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/LEVIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'LEVIN';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'LEVIN';
+* [ (LEVIN, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/LEVIN/)
 </script>
+<script type="text/javascript">

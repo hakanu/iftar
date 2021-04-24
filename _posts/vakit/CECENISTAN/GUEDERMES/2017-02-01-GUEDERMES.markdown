@@ -8,10 +8,11 @@ permalink: /CECENISTAN/GUEDERMES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUEDERMES, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/GUEDERMES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CECENISTAN';
+
   var GLOBAL_CITY = 'GUEDERMES';
+  var GLOBAL_COUNTRY = 'CECENISTAN';
   var GLOBAL_STATE = 'GUEDERMES';
+* [ (GUEDERMES, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/GUEDERMES/)
 </script>
+<script type="text/javascript">

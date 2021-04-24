@@ -8,10 +8,11 @@ permalink: /FRANSA/RODEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RODEZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RODEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RODEZ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RODEZ';
+* [ (RODEZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RODEZ/)
 </script>
+<script type="text/javascript">

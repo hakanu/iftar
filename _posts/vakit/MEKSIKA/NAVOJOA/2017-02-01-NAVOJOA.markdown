@@ -8,10 +8,11 @@ permalink: /MEKSIKA/NAVOJOA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAVOJOA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/NAVOJOA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'NAVOJOA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'NAVOJOA';
+* [ (NAVOJOA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/NAVOJOA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/HEULE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEULE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HEULE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HEULE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HEULE';
+* [ (HEULE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HEULE/)
 </script>
+<script type="text/javascript">

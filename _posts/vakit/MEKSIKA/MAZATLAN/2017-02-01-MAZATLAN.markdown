@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MAZATLAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAZATLAN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MAZATLAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MAZATLAN';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MAZATLAN';
+* [ (MAZATLAN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MAZATLAN/)
 </script>
+<script type="text/javascript">

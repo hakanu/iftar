@@ -8,10 +8,11 @@ permalink: /FRANSA/PONT DU CHATEAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONT_DU_CHATEAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT_DU_CHATEAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PONT DU CHATEAU';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PONT DU CHATEAU';
+* [ (PONT_DU_CHATEAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT_DU_CHATEAU/)
 </script>
+<script type="text/javascript">

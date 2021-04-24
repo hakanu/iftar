@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/PYANDZH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PYANDZH, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/PYANDZH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'PYANDZH';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'PYANDZH';
+* [ (PYANDZH, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/PYANDZH/)
 </script>
+<script type="text/javascript">

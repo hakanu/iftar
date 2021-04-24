@@ -8,10 +8,11 @@ permalink: /INGILTERE/SWINDON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SWINDON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SWINDON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'SWINDON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'SWINDON';
+* [ (SWINDON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SWINDON/)
 </script>
+<script type="text/javascript">

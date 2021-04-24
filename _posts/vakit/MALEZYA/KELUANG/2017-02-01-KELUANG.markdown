@@ -8,10 +8,11 @@ permalink: /MALEZYA/KELUANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KELUANG, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KELUANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KELUANG';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KELUANG';
+* [ (KELUANG, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KELUANG/)
 </script>
+<script type="text/javascript">

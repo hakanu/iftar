@@ -8,10 +8,11 @@ permalink: /ALMANYA/ANSBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANSBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ANSBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ANSBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ANSBACH';
+* [ (ANSBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ANSBACH/)
 </script>
+<script type="text/javascript">

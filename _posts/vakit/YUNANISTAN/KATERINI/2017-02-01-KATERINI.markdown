@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KATERINI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KATERINI, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KATERINI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KATERINI';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KATERINI';
+* [ (KATERINI, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KATERINI/)
 </script>
+<script type="text/javascript">

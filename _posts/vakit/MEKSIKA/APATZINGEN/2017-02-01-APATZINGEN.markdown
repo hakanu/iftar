@@ -8,10 +8,11 @@ permalink: /MEKSIKA/APATZINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APATZINGEN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/APATZINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'APATZINGEN';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'APATZINGEN';
+* [ (APATZINGEN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/APATZINGEN/)
 </script>
+<script type="text/javascript">

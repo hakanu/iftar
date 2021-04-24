@@ -8,10 +8,11 @@ permalink: /FRANSA/THANN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THANN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/THANN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'THANN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'THANN';
+* [ (THANN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/THANN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BISCHOFSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BISCHOFSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BISCHOFSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BISCHOFSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BISCHOFSHEIM';
+* [ (BISCHOFSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BISCHOFSHEIM/)
 </script>
+<script type="text/javascript">

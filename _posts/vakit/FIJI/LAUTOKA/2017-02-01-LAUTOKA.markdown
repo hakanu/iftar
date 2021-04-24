@@ -8,10 +8,11 @@ permalink: /FIJI/LAUTOKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUTOKA, FIJI) için iftar ve namaz vakitleri](/FIJI/LAUTOKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FIJI';
+
   var GLOBAL_CITY = 'LAUTOKA';
+  var GLOBAL_COUNTRY = 'FIJI';
   var GLOBAL_STATE = 'LAUTOKA';
+* [ (LAUTOKA, FIJI) için iftar ve namaz vakitleri](/FIJI/LAUTOKA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/FRESH CREEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRESH_CREEK, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/FRESH_CREEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'FRESH CREEK';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'FRESH CREEK';
+* [ (FRESH_CREEK, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/FRESH_CREEK/)
 </script>
+<script type="text/javascript">

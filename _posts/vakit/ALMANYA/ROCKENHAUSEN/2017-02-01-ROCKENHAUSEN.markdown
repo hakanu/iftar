@@ -8,10 +8,11 @@ permalink: /ALMANYA/ROCKENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROCKENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROCKENHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ROCKENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ROCKENHAUSEN';
+* [ (ROCKENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROCKENHAUSEN/)
 </script>
+<script type="text/javascript">

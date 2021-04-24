@@ -8,10 +8,11 @@ permalink: /FRANSA/LOCMARIAQUER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOCMARIAQUER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LOCMARIAQUER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LOCMARIAQUER';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LOCMARIAQUER';
+* [ (LOCMARIAQUER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LOCMARIAQUER/)
 </script>
+<script type="text/javascript">

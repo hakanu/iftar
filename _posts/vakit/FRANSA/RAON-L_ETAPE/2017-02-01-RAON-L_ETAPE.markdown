@@ -8,10 +8,11 @@ permalink: /FRANSA/RAON-L ETAPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAON-L_ETAPE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RAON-L_ETAPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RAON-L ETAPE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RAON-L ETAPE';
+* [ (RAON-L_ETAPE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RAON-L_ETAPE/)
 </script>
+<script type="text/javascript">

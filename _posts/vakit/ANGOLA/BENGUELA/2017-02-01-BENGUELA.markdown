@@ -8,10 +8,11 @@ permalink: /ANGOLA/BENGUELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENGUELA, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/BENGUELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'BENGUELA';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'BENGUELA';
+* [ (BENGUELA, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/BENGUELA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/WENDUINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WENDUINE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WENDUINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WENDUINE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WENDUINE';
+* [ (WENDUINE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WENDUINE/)
 </script>
+<script type="text/javascript">

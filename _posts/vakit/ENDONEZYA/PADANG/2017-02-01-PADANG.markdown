@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PADANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PADANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PADANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PADANG';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PADANG';
+* [ (PADANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PADANG/)
 </script>
+<script type="text/javascript">

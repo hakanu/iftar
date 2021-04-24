@@ -8,10 +8,11 @@ permalink: /ALMANYA/WELVER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WELVER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WELVER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WELVER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WELVER';
+* [ (WELVER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WELVER/)
 </script>
+<script type="text/javascript">

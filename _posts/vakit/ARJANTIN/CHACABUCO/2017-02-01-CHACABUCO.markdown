@@ -8,10 +8,11 @@ permalink: /ARJANTIN/CHACABUCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHACABUCO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CHACABUCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'CHACABUCO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'CHACABUCO';
+* [ (CHACABUCO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CHACABUCO/)
 </script>
+<script type="text/javascript">

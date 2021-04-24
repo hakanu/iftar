@@ -8,10 +8,11 @@ permalink: /ANGOLA/HUAMBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUAMBO, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/HUAMBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'HUAMBO';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'HUAMBO';
+* [ (HUAMBO, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/HUAMBO/)
 </script>
+<script type="text/javascript">

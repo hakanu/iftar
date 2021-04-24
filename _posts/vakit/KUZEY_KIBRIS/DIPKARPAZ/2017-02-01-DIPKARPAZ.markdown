@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/DIPKARPAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIPKARPAZ, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/DIPKARPAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'DIPKARPAZ';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'DIPKARPAZ';
+* [ (DIPKARPAZ, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/DIPKARPAZ/)
 </script>
+<script type="text/javascript">

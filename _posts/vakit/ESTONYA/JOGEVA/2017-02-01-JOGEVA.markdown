@@ -8,10 +8,11 @@ permalink: /ESTONYA/JOGEVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JOGEVA, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/JOGEVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'JOGEVA';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'JOGEVA';
+* [ (JOGEVA, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/JOGEVA/)
 </script>
+<script type="text/javascript">

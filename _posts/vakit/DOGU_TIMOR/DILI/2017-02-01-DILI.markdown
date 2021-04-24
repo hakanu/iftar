@@ -8,10 +8,11 @@ permalink: /DOGU TIMOR/DILI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DILI, DOGU_TIMOR) için iftar ve namaz vakitleri](/DOGU_TIMOR/DILI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOGU TIMOR';
+
   var GLOBAL_CITY = 'DILI';
+  var GLOBAL_COUNTRY = 'DOGU TIMOR';
   var GLOBAL_STATE = 'DILI';
+* [ (DILI, DOGU_TIMOR) için iftar ve namaz vakitleri](/DOGU_TIMOR/DILI/)
 </script>
+<script type="text/javascript">

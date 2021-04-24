@@ -8,10 +8,11 @@ permalink: /HINDISTAN/THANJAVUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THANJAVUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/THANJAVUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'THANJAVUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'THANJAVUR';
+* [ (THANJAVUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/THANJAVUR/)
 </script>
+<script type="text/javascript">

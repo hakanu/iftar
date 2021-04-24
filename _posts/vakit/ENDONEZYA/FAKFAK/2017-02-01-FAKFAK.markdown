@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/FAKFAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FAKFAK, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/FAKFAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'FAKFAK';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'FAKFAK';
+* [ (FAKFAK, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/FAKFAK/)
 </script>
+<script type="text/javascript">

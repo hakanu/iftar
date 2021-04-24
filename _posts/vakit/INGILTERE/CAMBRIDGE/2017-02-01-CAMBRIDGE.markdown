@@ -8,10 +8,11 @@ permalink: /INGILTERE/CAMBRIDGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMBRIDGE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CAMBRIDGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CAMBRIDGE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CAMBRIDGE';
+* [ (CAMBRIDGE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CAMBRIDGE/)
 </script>
+<script type="text/javascript">

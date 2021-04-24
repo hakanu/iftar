@@ -8,10 +8,11 @@ permalink: /ISVEC/BJARRED (Malmo)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BJARRED_(Malmo), ISVEC) için iftar ve namaz vakitleri](/ISVEC/BJARRED_(Malmo)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'BJARRED (Malmo)';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'BJARRED (Malmo)';
+* [ (BJARRED_(Malmo), ISVEC) için iftar ve namaz vakitleri](/ISVEC/BJARRED_(Malmo)/)
 </script>
+<script type="text/javascript">

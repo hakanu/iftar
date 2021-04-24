@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BARNEVELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARNEVELD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BARNEVELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BARNEVELD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BARNEVELD';
+* [ (BARNEVELD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BARNEVELD/)
 </script>
+<script type="text/javascript">

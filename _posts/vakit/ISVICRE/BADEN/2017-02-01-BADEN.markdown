@@ -8,10 +8,11 @@ permalink: /ISVICRE/BADEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BADEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BADEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BADEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BADEN';
+* [ (BADEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BADEN/)
 </script>
+<script type="text/javascript">

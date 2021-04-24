@@ -8,10 +8,11 @@ permalink: /PAKISTAN/FAISALABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FAISALABAD, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/FAISALABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'FAISALABAD';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'FAISALABAD';
+* [ (FAISALABAD, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/FAISALABAD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/CHIFENG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIFENG, CIN) için iftar ve namaz vakitleri](/CIN/CHIFENG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHIFENG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHIFENG';
+* [ (CHIFENG, CIN) için iftar ve namaz vakitleri](/CIN/CHIFENG/)
 </script>
+<script type="text/javascript">

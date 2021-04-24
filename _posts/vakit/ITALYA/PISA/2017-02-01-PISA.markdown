@@ -8,10 +8,11 @@ permalink: /ITALYA/PISA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PISA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PISA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PISA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PISA';
+* [ (PISA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PISA/)
 </script>
+<script type="text/javascript">

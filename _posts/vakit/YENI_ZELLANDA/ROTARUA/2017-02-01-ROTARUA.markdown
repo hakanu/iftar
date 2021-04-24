@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/ROTARUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROTARUA, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/ROTARUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'ROTARUA';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'ROTARUA';
+* [ (ROTARUA, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/ROTARUA/)
 </script>
+<script type="text/javascript">

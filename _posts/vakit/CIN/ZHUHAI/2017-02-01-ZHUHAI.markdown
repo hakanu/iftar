@@ -8,10 +8,11 @@ permalink: /CIN/ZHUHAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHUHAI, CIN) için iftar ve namaz vakitleri](/CIN/ZHUHAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZHUHAI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZHUHAI';
+* [ (ZHUHAI, CIN) için iftar ve namaz vakitleri](/CIN/ZHUHAI/)
 </script>
+<script type="text/javascript">

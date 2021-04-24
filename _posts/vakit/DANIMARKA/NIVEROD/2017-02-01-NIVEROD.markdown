@@ -8,10 +8,11 @@ permalink: /DANIMARKA/NIVEROD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIVEROD, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NIVEROD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'NIVEROD';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'NIVEROD';
+* [ (NIVEROD, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NIVEROD/)
 </script>
+<script type="text/javascript">

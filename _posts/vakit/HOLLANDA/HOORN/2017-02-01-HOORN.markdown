@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HOORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HOORN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HOORN';
+* [ (HOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOORN/)
 </script>
+<script type="text/javascript">

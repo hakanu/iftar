@@ -8,10 +8,11 @@ permalink: /ALMANYA/HASSEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HASSEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HASSEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HASSEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HASSEL';
+* [ (HASSEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HASSEL/)
 </script>
+<script type="text/javascript">

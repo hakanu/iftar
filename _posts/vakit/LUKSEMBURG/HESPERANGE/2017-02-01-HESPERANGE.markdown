@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/HESPERANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HESPERANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/HESPERANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'HESPERANGE';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'HESPERANGE';
+* [ (HESPERANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/HESPERANGE/)
 </script>
+<script type="text/javascript">

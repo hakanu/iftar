@@ -8,10 +8,11 @@ permalink: /ALMANYA/GAUTING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAUTING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GAUTING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GAUTING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GAUTING';
+* [ (GAUTING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GAUTING/)
 </script>
+<script type="text/javascript">

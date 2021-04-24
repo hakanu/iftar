@@ -8,10 +8,11 @@ permalink: /MALEZYA/ALUR SETAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALUR_SETAR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/ALUR_SETAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'ALUR SETAR';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'ALUR SETAR';
+* [ (ALUR_SETAR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/ALUR_SETAR/)
 </script>
+<script type="text/javascript">

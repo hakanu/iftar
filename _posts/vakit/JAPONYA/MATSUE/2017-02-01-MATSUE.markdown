@@ -8,10 +8,11 @@ permalink: /JAPONYA/MATSUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATSUE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MATSUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'MATSUE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'MATSUE';
+* [ (MATSUE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MATSUE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/ZUG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZUG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ZUG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ZUG';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ZUG';
+* [ (ZUG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ZUG/)
 </script>
+<script type="text/javascript">

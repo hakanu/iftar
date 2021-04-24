@@ -8,10 +8,11 @@ permalink: /RUSYA/SKHODNYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SKHODNYA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SKHODNYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SKHODNYA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SKHODNYA';
+* [ (SKHODNYA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SKHODNYA/)
 </script>
+<script type="text/javascript">

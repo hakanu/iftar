@@ -8,8 +8,9 @@ permalink: /NEPAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KATHMANDU (NEPAL) için iftar ve namaz vakitleri](/NEPAL/KATHMANDU)
+
 * [BHAKTABUR (NEPAL) için iftar ve namaz vakitleri](/NEPAL/BHAKTABUR)
-* [BUTWAI (NEPAL) için iftar ve namaz vakitleri](/NEPAL/BUTWAI)
 * [BRATNAGAR (NEPAL) için iftar ve namaz vakitleri](/NEPAL/BRATNAGAR)
+* [BUTWAI (NEPAL) için iftar ve namaz vakitleri](/NEPAL/BUTWAI)
 * [DHARAN_BAZAR (NEPAL) için iftar ve namaz vakitleri](/NEPAL/DHARAN_BAZAR)
+* [KATHMANDU (NEPAL) için iftar ve namaz vakitleri](/NEPAL/KATHMANDU)

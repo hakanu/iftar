@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/SALO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/SALO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'SALO';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'SALO';
+* [ (SALO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/SALO/)
 </script>
+<script type="text/javascript">

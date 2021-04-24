@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/HRADEC KRALOVE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HRADEC_KRALOVE, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/HRADEC_KRALOVE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'HRADEC KRALOVE';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'HRADEC KRALOVE';
+* [ (HRADEC_KRALOVE, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/HRADEC_KRALOVE/)
 </script>
+<script type="text/javascript">

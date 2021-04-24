@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WODEN VALLEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WODEN_VALLEY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WODEN_VALLEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WODEN VALLEY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WODEN VALLEY';
+* [ (WODEN_VALLEY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WODEN_VALLEY/)
 </script>
+<script type="text/javascript">

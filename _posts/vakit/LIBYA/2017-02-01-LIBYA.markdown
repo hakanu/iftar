@@ -8,14 +8,15 @@ permalink: /LIBYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+* [AL_BAYDA (LIBYA) için iftar ve namaz vakitleri](/LIBYA/AL_BAYDA)
 * [AL_KHUMS (LIBYA) için iftar ve namaz vakitleri](/LIBYA/AL_KHUMS)
 * [AWBARI (LIBYA) için iftar ve namaz vakitleri](/LIBYA/AWBARI)
-* [SABHA (LIBYA) için iftar ve namaz vakitleri](/LIBYA/SABHA)
+* [BINGAZI (LIBYA) için iftar ve namaz vakitleri](/LIBYA/BINGAZI)
+* [GHAT (LIBYA) için iftar ve namaz vakitleri](/LIBYA/GHAT)
+* [MISRATAH (LIBYA) için iftar ve namaz vakitleri](/LIBYA/MISRATAH)
 * [MURZUQ (LIBYA) için iftar ve namaz vakitleri](/LIBYA/MURZUQ)
+* [SABHA (LIBYA) için iftar ve namaz vakitleri](/LIBYA/SABHA)
+* [TOBRUK (LIBYA) için iftar ve namaz vakitleri](/LIBYA/TOBRUK)
 * [TRIPOLI (LIBYA) için iftar ve namaz vakitleri](/LIBYA/TRIPOLI)
 * [ZUWARAH (LIBYA) için iftar ve namaz vakitleri](/LIBYA/ZUWARAH)
-* [GHAT (LIBYA) için iftar ve namaz vakitleri](/LIBYA/GHAT)
-* [TOBRUK (LIBYA) için iftar ve namaz vakitleri](/LIBYA/TOBRUK)
-* [MISRATAH (LIBYA) için iftar ve namaz vakitleri](/LIBYA/MISRATAH)
-* [AL_BAYDA (LIBYA) için iftar ve namaz vakitleri](/LIBYA/AL_BAYDA)
-* [BINGAZI (LIBYA) için iftar ve namaz vakitleri](/LIBYA/BINGAZI)

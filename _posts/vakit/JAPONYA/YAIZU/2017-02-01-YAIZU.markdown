@@ -8,10 +8,11 @@ permalink: /JAPONYA/YAIZU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAIZU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YAIZU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'YAIZU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'YAIZU';
+* [ (YAIZU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YAIZU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/BRISTOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRISTOL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BRISTOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BRISTOL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BRISTOL';
+* [ (BRISTOL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BRISTOL/)
 </script>
+<script type="text/javascript">

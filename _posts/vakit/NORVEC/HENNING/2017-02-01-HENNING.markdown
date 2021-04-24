@@ -8,10 +8,11 @@ permalink: /NORVEC/HENNING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HENNING, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HENNING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'HENNING';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'HENNING';
+* [ (HENNING, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HENNING/)
 </script>
+<script type="text/javascript">

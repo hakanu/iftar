@@ -8,10 +8,11 @@ permalink: /ALMANYA/WILDESHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILDESHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILDESHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WILDESHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WILDESHAUSEN';
+* [ (WILDESHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILDESHAUSEN/)
 </script>
+<script type="text/javascript">

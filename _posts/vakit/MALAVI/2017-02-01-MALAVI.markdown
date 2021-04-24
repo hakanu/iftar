@@ -8,6 +8,7 @@ permalink: /MALAVI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [CHITIPA (MALAVI) için iftar ve namaz vakitleri](/MALAVI/CHITIPA)
+
 * [BLANTYRE (MALAVI) için iftar ve namaz vakitleri](/MALAVI/BLANTYRE)
+* [CHITIPA (MALAVI) için iftar ve namaz vakitleri](/MALAVI/CHITIPA)
 * [LILONGWE (MALAVI) için iftar ve namaz vakitleri](/MALAVI/LILONGWE)

@@ -8,10 +8,11 @@ permalink: /BOLIVYA/SAN BORJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_BORJA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SAN_BORJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'SAN BORJA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'SAN BORJA';
+* [ (SAN_BORJA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SAN_BORJA/)
 </script>
+<script type="text/javascript">

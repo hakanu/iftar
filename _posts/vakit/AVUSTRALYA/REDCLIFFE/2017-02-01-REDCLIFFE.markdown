@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/REDCLIFFE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REDCLIFFE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/REDCLIFFE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'REDCLIFFE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'REDCLIFFE';
+* [ (REDCLIFFE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/REDCLIFFE/)
 </script>
+<script type="text/javascript">

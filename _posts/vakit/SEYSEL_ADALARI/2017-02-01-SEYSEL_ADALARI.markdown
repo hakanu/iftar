@@ -8,4 +8,5 @@ permalink: /SEYSEL_ADALARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [VICTORIA (SEYSEL_ADALARI) için iftar ve namaz vakitleri](/SEYSEL_ADALARI/VICTORIA)

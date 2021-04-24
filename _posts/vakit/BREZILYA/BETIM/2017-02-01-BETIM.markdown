@@ -8,10 +8,11 @@ permalink: /BREZILYA/BETIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BETIM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BETIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BETIM';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BETIM';
+* [ (BETIM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BETIM/)
 </script>
+<script type="text/javascript">

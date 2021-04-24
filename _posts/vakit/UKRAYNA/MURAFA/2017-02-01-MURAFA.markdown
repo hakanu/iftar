@@ -8,10 +8,11 @@ permalink: /UKRAYNA/MURAFA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURAFA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MURAFA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'MURAFA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'MURAFA';
+* [ (MURAFA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MURAFA/)
 </script>
+<script type="text/javascript">

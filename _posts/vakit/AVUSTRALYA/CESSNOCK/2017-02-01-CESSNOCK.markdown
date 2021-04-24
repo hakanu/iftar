@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CESSNOCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CESSNOCK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CESSNOCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CESSNOCK';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CESSNOCK';
+* [ (CESSNOCK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CESSNOCK/)
 </script>
+<script type="text/javascript">

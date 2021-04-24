@@ -8,10 +8,11 @@ permalink: /PARAGUAY/VILLARRICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLARRICA, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/VILLARRICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PARAGUAY';
+
   var GLOBAL_CITY = 'VILLARRICA';
+  var GLOBAL_COUNTRY = 'PARAGUAY';
   var GLOBAL_STATE = 'VILLARRICA';
+* [ (VILLARRICA, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/VILLARRICA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/NAHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAHA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NAHA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NAHA';
+* [ (NAHA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAHA/)
 </script>
+<script type="text/javascript">

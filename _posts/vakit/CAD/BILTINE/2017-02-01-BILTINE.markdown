@@ -8,10 +8,11 @@ permalink: /CAD/BILTINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BILTINE, CAD) için iftar ve namaz vakitleri](/CAD/BILTINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'BILTINE';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'BILTINE';
+* [ (BILTINE, CAD) için iftar ve namaz vakitleri](/CAD/BILTINE/)
 </script>
+<script type="text/javascript">

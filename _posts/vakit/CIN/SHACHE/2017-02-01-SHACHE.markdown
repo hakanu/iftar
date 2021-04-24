@@ -8,10 +8,11 @@ permalink: /CIN/SHACHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHACHE, CIN) için iftar ve namaz vakitleri](/CIN/SHACHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHACHE';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHACHE';
+* [ (SHACHE, CIN) için iftar ve namaz vakitleri](/CIN/SHACHE/)
 </script>
+<script type="text/javascript">

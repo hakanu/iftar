@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TLAJOMULCO DE ZUNIGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TLAJOMULCO_DE_ZUNIGA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TLAJOMULCO_DE_ZUNIGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TLAJOMULCO DE ZUNIGA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TLAJOMULCO DE ZUNIGA';
+* [ (TLAJOMULCO_DE_ZUNIGA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TLAJOMULCO_DE_ZUNIGA/)
 </script>
+<script type="text/javascript">

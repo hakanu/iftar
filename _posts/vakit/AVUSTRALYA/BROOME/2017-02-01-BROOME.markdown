@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BROOME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BROOME, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BROOME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BROOME';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BROOME';
+* [ (BROOME, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BROOME/)
 </script>
+<script type="text/javascript">

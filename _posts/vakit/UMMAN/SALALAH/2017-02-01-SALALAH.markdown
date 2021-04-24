@@ -8,10 +8,11 @@ permalink: /UMMAN/SALALAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALALAH, UMMAN) için iftar ve namaz vakitleri](/UMMAN/SALALAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UMMAN';
+
   var GLOBAL_CITY = 'SALALAH';
+  var GLOBAL_COUNTRY = 'UMMAN';
   var GLOBAL_STATE = 'SALALAH';
+* [ (SALALAH, UMMAN) için iftar ve namaz vakitleri](/UMMAN/SALALAH/)
 </script>
+<script type="text/javascript">

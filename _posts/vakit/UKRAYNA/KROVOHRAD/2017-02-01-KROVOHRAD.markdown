@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KROVOHRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KROVOHRAD, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KROVOHRAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KROVOHRAD';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KROVOHRAD';
+* [ (KROVOHRAD, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KROVOHRAD/)
 </script>
+<script type="text/javascript">

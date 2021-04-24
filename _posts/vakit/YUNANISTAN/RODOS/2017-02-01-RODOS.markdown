@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/RODOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RODOS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/RODOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'RODOS';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'RODOS';
+* [ (RODOS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/RODOS/)
 </script>
+<script type="text/javascript">

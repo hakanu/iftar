@@ -8,10 +8,11 @@ permalink: /UGANDA/GULU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GULU, UGANDA) için iftar ve namaz vakitleri](/UGANDA/GULU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UGANDA';
+
   var GLOBAL_CITY = 'GULU';
+  var GLOBAL_COUNTRY = 'UGANDA';
   var GLOBAL_STATE = 'GULU';
+* [ (GULU, UGANDA) için iftar ve namaz vakitleri](/UGANDA/GULU/)
 </script>
+<script type="text/javascript">

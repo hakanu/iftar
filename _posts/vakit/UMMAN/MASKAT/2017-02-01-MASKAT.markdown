@@ -8,10 +8,11 @@ permalink: /UMMAN/MASKAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MASKAT, UMMAN) için iftar ve namaz vakitleri](/UMMAN/MASKAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UMMAN';
+
   var GLOBAL_CITY = 'MASKAT';
+  var GLOBAL_COUNTRY = 'UMMAN';
   var GLOBAL_STATE = 'MASKAT';
+* [ (MASKAT, UMMAN) için iftar ve namaz vakitleri](/UMMAN/MASKAT/)
 </script>
+<script type="text/javascript">

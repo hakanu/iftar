@@ -8,10 +8,11 @@ permalink: /ALMANYA/DATTELN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DATTELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DATTELN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DATTELN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DATTELN';
+* [ (DATTELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DATTELN/)
 </script>
+<script type="text/javascript">

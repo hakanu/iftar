@@ -8,10 +8,11 @@ permalink: /BELCIKA/BOOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOOM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BOOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BOOM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BOOM';
+* [ (BOOM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BOOM/)
 </script>
+<script type="text/javascript">

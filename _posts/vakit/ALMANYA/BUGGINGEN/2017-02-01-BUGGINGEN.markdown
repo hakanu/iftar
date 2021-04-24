@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUGGINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUGGINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUGGINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUGGINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUGGINGEN';
+* [ (BUGGINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUGGINGEN/)
 </script>
+<script type="text/javascript">

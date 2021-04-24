@@ -8,10 +8,11 @@ permalink: /ITALYA/COMERIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COMERIO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/COMERIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'COMERIO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'COMERIO';
+* [ (COMERIO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/COMERIO/)
 </script>
+<script type="text/javascript">

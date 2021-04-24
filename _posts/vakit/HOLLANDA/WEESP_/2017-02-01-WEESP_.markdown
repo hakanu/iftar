@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WEESP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEESP_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WEESP_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WEESP ';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WEESP ';
+* [ (WEESP_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WEESP_/)
 </script>
+<script type="text/javascript">

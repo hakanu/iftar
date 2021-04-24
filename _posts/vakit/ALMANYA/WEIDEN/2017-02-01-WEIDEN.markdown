@@ -8,10 +8,11 @@ permalink: /ALMANYA/WEIDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEIDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEIDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WEIDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WEIDEN';
+* [ (WEIDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEIDEN/)
 </script>
+<script type="text/javascript">

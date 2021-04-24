@@ -8,10 +8,11 @@ permalink: /IRLANDA/LIMERIC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIMERIC, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/LIMERIC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'LIMERIC';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'LIMERIC';
+* [ (LIMERIC, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/LIMERIC/)
 </script>
+<script type="text/javascript">

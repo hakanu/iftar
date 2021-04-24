@@ -8,10 +8,11 @@ permalink: /BREZILYA/GRAVATAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRAVATAI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GRAVATAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'GRAVATAI';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'GRAVATAI';
+* [ (GRAVATAI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GRAVATAI/)
 </script>
+<script type="text/javascript">

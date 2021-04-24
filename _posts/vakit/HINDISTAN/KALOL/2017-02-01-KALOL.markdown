@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KALOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALOL, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KALOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KALOL';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KALOL';
+* [ (KALOL, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KALOL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALLERSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALLERSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLERSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALLERSBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALLERSBERG';
+* [ (ALLERSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLERSBERG/)
 </script>
+<script type="text/javascript">

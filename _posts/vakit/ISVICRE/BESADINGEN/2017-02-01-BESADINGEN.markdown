@@ -8,10 +8,11 @@ permalink: /ISVICRE/BESADINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BESADINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BESADINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BESADINGEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BESADINGEN';
+* [ (BESADINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BESADINGEN/)
 </script>
+<script type="text/javascript">

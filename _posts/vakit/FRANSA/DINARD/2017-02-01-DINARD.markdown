@@ -8,10 +8,11 @@ permalink: /FRANSA/DINARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DINARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DINARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DINARD';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DINARD';
+* [ (DINARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DINARD/)
 </script>
+<script type="text/javascript">

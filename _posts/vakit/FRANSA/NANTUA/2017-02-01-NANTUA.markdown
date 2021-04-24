@@ -8,10 +8,11 @@ permalink: /FRANSA/NANTUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NANTUA, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NANTUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NANTUA';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NANTUA';
+* [ (NANTUA, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NANTUA/)
 </script>
+<script type="text/javascript">

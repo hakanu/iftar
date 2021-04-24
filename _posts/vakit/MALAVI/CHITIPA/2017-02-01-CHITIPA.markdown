@@ -8,10 +8,11 @@ permalink: /MALAVI/CHITIPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHITIPA, MALAVI) için iftar ve namaz vakitleri](/MALAVI/CHITIPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALAVI';
+
   var GLOBAL_CITY = 'CHITIPA';
+  var GLOBAL_COUNTRY = 'MALAVI';
   var GLOBAL_STATE = 'CHITIPA';
+* [ (CHITIPA, MALAVI) için iftar ve namaz vakitleri](/MALAVI/CHITIPA/)
 </script>
+<script type="text/javascript">

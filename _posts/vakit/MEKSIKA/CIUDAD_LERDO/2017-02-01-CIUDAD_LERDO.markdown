@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CIUDAD LERDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_LERDO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_LERDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CIUDAD LERDO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CIUDAD LERDO';
+* [ (CIUDAD_LERDO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_LERDO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/KHABAROVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHABAROVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHABAROVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KHABAROVSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KHABAROVSK';
+* [ (KHABAROVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHABAROVSK/)
 </script>
+<script type="text/javascript">

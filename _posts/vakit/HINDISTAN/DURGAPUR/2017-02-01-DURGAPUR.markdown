@@ -8,10 +8,11 @@ permalink: /HINDISTAN/DURGAPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DURGAPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/DURGAPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'DURGAPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'DURGAPUR';
+* [ (DURGAPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/DURGAPUR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/OUAGADOUGOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUAGADOUGOU, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/OUAGADOUGOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'OUAGADOUGOU';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'OUAGADOUGOU';
+* [ (OUAGADOUGOU, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/OUAGADOUGOU/)
 </script>
+<script type="text/javascript">

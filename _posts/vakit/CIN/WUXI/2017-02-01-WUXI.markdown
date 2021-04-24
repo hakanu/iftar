@@ -8,10 +8,11 @@ permalink: /CIN/WUXI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WUXI, CIN) için iftar ve namaz vakitleri](/CIN/WUXI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'WUXI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'WUXI';
+* [ (WUXI, CIN) için iftar ve namaz vakitleri](/CIN/WUXI/)
 </script>
+<script type="text/javascript">

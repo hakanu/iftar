@@ -8,10 +8,11 @@ permalink: /ISPANYA/ELCHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELCHE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ELCHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'ELCHE';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'ELCHE';
+* [ (ELCHE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ELCHE/)
 </script>
+<script type="text/javascript">

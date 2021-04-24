@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/BALIKPAPAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALIKPAPAN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BALIKPAPAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'BALIKPAPAN';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'BALIKPAPAN';
+* [ (BALIKPAPAN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BALIKPAPAN/)
 </script>
+<script type="text/javascript">

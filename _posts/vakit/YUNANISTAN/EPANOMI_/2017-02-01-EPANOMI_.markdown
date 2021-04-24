@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/EPANOMI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EPANOMI_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/EPANOMI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'EPANOMI ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'EPANOMI ';
+* [ (EPANOMI_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/EPANOMI_/)
 </script>
+<script type="text/javascript">

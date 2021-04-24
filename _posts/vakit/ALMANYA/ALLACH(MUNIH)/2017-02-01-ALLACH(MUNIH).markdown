@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALLACH(MUNIH)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALLACH(MUNIH), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLACH(MUNIH)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALLACH(MUNIH)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALLACH(MUNIH)';
+* [ (ALLACH(MUNIH), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLACH(MUNIH)/)
 </script>
+<script type="text/javascript">

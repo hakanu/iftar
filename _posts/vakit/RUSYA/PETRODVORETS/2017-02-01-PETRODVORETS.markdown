@@ -8,10 +8,11 @@ permalink: /RUSYA/PETRODVORETS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETRODVORETS, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PETRODVORETS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PETRODVORETS';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PETRODVORETS';
+* [ (PETRODVORETS, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PETRODVORETS/)
 </script>
+<script type="text/javascript">

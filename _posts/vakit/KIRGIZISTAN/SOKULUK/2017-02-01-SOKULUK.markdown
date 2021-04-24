@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/SOKULUK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOKULUK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/SOKULUK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'SOKULUK';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'SOKULUK';
+* [ (SOKULUK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/SOKULUK/)
 </script>
+<script type="text/javascript">

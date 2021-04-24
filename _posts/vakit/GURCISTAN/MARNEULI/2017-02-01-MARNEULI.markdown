@@ -8,10 +8,11 @@ permalink: /GURCISTAN/MARNEULI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARNEULI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/MARNEULI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'MARNEULI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'MARNEULI';
+* [ (MARNEULI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/MARNEULI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/VILLIGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLIGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/VILLIGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'VILLIGEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'VILLIGEN';
+* [ (VILLIGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/VILLIGEN/)
 </script>
+<script type="text/javascript">

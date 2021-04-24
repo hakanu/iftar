@@ -8,10 +8,11 @@ permalink: /CIN/DINGHAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DINGHAI, CIN) için iftar ve namaz vakitleri](/CIN/DINGHAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DINGHAI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DINGHAI';
+* [ (DINGHAI, CIN) için iftar ve namaz vakitleri](/CIN/DINGHAI/)
 </script>
+<script type="text/javascript">

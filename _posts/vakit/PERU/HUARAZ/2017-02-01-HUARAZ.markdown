@@ -8,10 +8,11 @@ permalink: /PERU/HUARAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUARAZ, PERU) için iftar ve namaz vakitleri](/PERU/HUARAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'HUARAZ';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'HUARAZ';
+* [ (HUARAZ, PERU) için iftar ve namaz vakitleri](/PERU/HUARAZ/)
 </script>
+<script type="text/javascript">

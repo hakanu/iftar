@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ARMIDALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARMIDALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ARMIDALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ARMIDALE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ARMIDALE';
+* [ (ARMIDALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ARMIDALE/)
 </script>
+<script type="text/javascript">

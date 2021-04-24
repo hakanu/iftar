@@ -8,10 +8,11 @@ permalink: /DANIMARKA/AALBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AALBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/AALBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'AALBORG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'AALBORG';
+* [ (AALBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/AALBORG/)
 </script>
+<script type="text/javascript">

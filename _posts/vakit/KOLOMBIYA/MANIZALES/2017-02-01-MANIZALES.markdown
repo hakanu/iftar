@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/MANIZALES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANIZALES, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/MANIZALES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'MANIZALES';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'MANIZALES';
+* [ (MANIZALES, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/MANIZALES/)
 </script>
+<script type="text/javascript">

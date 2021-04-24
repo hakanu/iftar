@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KILKIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KILKIS_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KILKIS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KILKIS ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KILKIS ';
+* [ (KILKIS_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KILKIS_/)
 </script>
+<script type="text/javascript">

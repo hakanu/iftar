@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO JOSE DA LAJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_JOSE_DA_LAJE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE_DA_LAJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO JOSE DA LAJE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO JOSE DA LAJE';
+* [ (SAO_JOSE_DA_LAJE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE_DA_LAJE/)
 </script>
+<script type="text/javascript">

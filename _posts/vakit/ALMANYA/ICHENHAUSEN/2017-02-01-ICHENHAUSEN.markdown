@@ -8,10 +8,11 @@ permalink: /ALMANYA/ICHENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ICHENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ICHENHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ICHENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ICHENHAUSEN';
+* [ (ICHENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ICHENHAUSEN/)
 </script>
+<script type="text/javascript">

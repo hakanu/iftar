@@ -8,10 +8,11 @@ permalink: /CIN/PINGLIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINGLIANG, CIN) için iftar ve namaz vakitleri](/CIN/PINGLIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'PINGLIANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'PINGLIANG';
+* [ (PINGLIANG, CIN) için iftar ve namaz vakitleri](/CIN/PINGLIANG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/TAGANROG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAGANROG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TAGANROG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TAGANROG';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TAGANROG';
+* [ (TAGANROG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TAGANROG/)
 </script>
+<script type="text/javascript">

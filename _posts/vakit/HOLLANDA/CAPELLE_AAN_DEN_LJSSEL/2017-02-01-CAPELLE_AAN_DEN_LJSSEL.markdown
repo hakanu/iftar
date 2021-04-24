@@ -8,10 +8,11 @@ permalink: /HOLLANDA/CAPELLE AAN DEN LJSSEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAPELLE_AAN_DEN_LJSSEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CAPELLE_AAN_DEN_LJSSEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'CAPELLE AAN DEN LJSSEL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'CAPELLE AAN DEN LJSSEL';
+* [ (CAPELLE_AAN_DEN_LJSSEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CAPELLE_AAN_DEN_LJSSEL/)
 </script>
+<script type="text/javascript">

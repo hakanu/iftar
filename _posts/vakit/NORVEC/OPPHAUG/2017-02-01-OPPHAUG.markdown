@@ -8,10 +8,11 @@ permalink: /NORVEC/OPPHAUG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OPPHAUG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/OPPHAUG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'OPPHAUG';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'OPPHAUG';
+* [ (OPPHAUG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/OPPHAUG/)
 </script>
+<script type="text/javascript">

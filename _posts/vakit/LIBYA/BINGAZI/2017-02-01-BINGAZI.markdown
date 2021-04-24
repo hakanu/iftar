@@ -8,10 +8,11 @@ permalink: /LIBYA/BINGAZI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BINGAZI, LIBYA) için iftar ve namaz vakitleri](/LIBYA/BINGAZI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBYA';
+
   var GLOBAL_CITY = 'BINGAZI';
+  var GLOBAL_COUNTRY = 'LIBYA';
   var GLOBAL_STATE = 'BINGAZI';
+* [ (BINGAZI, LIBYA) için iftar ve namaz vakitleri](/LIBYA/BINGAZI/)
 </script>
+<script type="text/javascript">

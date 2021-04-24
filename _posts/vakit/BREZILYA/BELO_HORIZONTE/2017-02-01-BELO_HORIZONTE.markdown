@@ -8,10 +8,11 @@ permalink: /BREZILYA/BELO HORIZONTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELO_HORIZONTE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BELO_HORIZONTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BELO HORIZONTE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BELO HORIZONTE';
+* [ (BELO_HORIZONTE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BELO_HORIZONTE/)
 </script>
+<script type="text/javascript">

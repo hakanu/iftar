@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/VALKEALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALKEALA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/VALKEALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'VALKEALA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'VALKEALA';
+* [ (VALKEALA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/VALKEALA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GURCISTAN/POTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POTI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/POTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'POTI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'POTI';
+* [ (POTI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/POTI/)
 </script>
+<script type="text/javascript">

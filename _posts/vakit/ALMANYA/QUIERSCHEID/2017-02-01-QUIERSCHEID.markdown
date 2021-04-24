@@ -8,10 +8,11 @@ permalink: /ALMANYA/QUIERSCHEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUIERSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/QUIERSCHEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'QUIERSCHEID';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'QUIERSCHEID';
+* [ (QUIERSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/QUIERSCHEID/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/DERBENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DERBENT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DERBENT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'DERBENT';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'DERBENT';
+* [ (DERBENT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DERBENT/)
 </script>
+<script type="text/javascript">

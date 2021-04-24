@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/AMPHISSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMPHISSA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/AMPHISSA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'AMPHISSA ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'AMPHISSA ';
+* [ (AMPHISSA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/AMPHISSA_/)
 </script>
+<script type="text/javascript">

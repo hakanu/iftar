@@ -8,10 +8,11 @@ permalink: /CEZAYIR/MASCARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MASCARA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/MASCARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'MASCARA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'MASCARA';
+* [ (MASCARA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/MASCARA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/WIMBLEDON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WIMBLEDON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WIMBLEDON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WIMBLEDON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WIMBLEDON';
+* [ (WIMBLEDON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WIMBLEDON/)
 </script>
+<script type="text/javascript">

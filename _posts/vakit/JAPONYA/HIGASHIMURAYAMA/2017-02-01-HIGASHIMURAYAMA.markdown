@@ -8,10 +8,11 @@ permalink: /JAPONYA/HIGASHIMURAYAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIGASHIMURAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIGASHIMURAYAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HIGASHIMURAYAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HIGASHIMURAYAMA';
+* [ (HIGASHIMURAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIGASHIMURAYAMA/)
 </script>
+<script type="text/javascript">

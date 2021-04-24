@@ -8,10 +8,11 @@ permalink: /ZIMBABVE/GWERU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GWERU, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/GWERU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZIMBABVE';
+
   var GLOBAL_CITY = 'GWERU';
+  var GLOBAL_COUNTRY = 'ZIMBABVE';
   var GLOBAL_STATE = 'GWERU';
+* [ (GWERU, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/GWERU/)
 </script>
+<script type="text/javascript">

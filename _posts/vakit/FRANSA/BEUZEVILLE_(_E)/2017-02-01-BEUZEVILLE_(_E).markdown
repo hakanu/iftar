@@ -8,10 +8,11 @@ permalink: /FRANSA/BEUZEVILLE ( E)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEUZEVILLE_(_E), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEUZEVILLE_(_E)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BEUZEVILLE ( E)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BEUZEVILLE ( E)';
+* [ (BEUZEVILLE_(_E), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEUZEVILLE_(_E)/)
 </script>
+<script type="text/javascript">

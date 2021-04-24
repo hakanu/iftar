@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/KLAGENFURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLAGENFURT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KLAGENFURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'KLAGENFURT';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'KLAGENFURT';
+* [ (KLAGENFURT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KLAGENFURT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VEGHEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VEGHEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VEGHEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VEGHEL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VEGHEL';
+* [ (VEGHEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VEGHEL/)
 </script>
+<script type="text/javascript">

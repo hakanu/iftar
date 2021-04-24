@@ -8,10 +8,11 @@ permalink: /CIN/LONGKOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LONGKOU, CIN) için iftar ve namaz vakitleri](/CIN/LONGKOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LONGKOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LONGKOU';
+* [ (LONGKOU, CIN) için iftar ve namaz vakitleri](/CIN/LONGKOU/)
 </script>
+<script type="text/javascript">

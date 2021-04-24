@@ -8,10 +8,11 @@ permalink: /ALMANYA/MARSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MARSBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MARSBERG';
+* [ (MARSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARSBERG/)
 </script>
+<script type="text/javascript">

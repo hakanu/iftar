@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/AMANGELDY (Taldy Kurgan)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMANGELDY_(Taldy_Kurgan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AMANGELDY_(Taldy_Kurgan)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'AMANGELDY (Taldy Kurgan)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'AMANGELDY (Taldy Kurgan)';
+* [ (AMANGELDY_(Taldy_Kurgan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AMANGELDY_(Taldy_Kurgan)/)
 </script>
+<script type="text/javascript">

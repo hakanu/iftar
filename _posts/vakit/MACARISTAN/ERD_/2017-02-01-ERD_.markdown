@@ -8,10 +8,11 @@ permalink: /MACARISTAN/ERD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERD_, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ERD_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'ERD ';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'ERD ';
+* [ (ERD_, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ERD_/)
 </script>
+<script type="text/javascript">

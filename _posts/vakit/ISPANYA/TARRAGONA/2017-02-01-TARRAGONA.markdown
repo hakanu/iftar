@@ -8,10 +8,11 @@ permalink: /ISPANYA/TARRAGONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARRAGONA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/TARRAGONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'TARRAGONA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'TARRAGONA';
+* [ (TARRAGONA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/TARRAGONA/)
 </script>
+<script type="text/javascript">

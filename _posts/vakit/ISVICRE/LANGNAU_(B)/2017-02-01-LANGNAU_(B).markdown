@@ -8,10 +8,11 @@ permalink: /ISVICRE/LANGNAU (B)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANGNAU_(B), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LANGNAU_(B)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LANGNAU (B)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LANGNAU (B)';
+* [ (LANGNAU_(B), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LANGNAU_(B)/)
 </script>
+<script type="text/javascript">

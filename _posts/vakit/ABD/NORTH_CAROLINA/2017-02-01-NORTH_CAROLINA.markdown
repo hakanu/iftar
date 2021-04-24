@@ -8,16 +8,17 @@ permalink: /ABD/NORTH CAROLINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SHELBY (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/SHELBY)
+
+
+  var GLOBAL_CITY = 'NORTH CAROLINA';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'NORTH CAROLINA';
+* [BANNER_ELK (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/BANNER_ELK)
 * [CHARLOTTE (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/CHARLOTTE)
-* [GREENSBORO (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/GREENSBORO)
 * [DURHAM (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/DURHAM)
+* [GREENSBORO (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/GREENSBORO)
 * [RALEIGH (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/RALEIGH)
 * [RODANTHE (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/RODANTHE)
-* [BANNER_ELK (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/BANNER_ELK)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'NORTH CAROLINA';
-  var GLOBAL_STATE = 'NORTH CAROLINA';
+* [SHELBY (NORTH_CAROLINA, ABD) için iftar ve namaz vakitleri](/ABD/NORTH_CAROLINA/SHELBY)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/HUADIAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUADIAN, CIN) için iftar ve namaz vakitleri](/CIN/HUADIAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HUADIAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HUADIAN';
+* [ (HUADIAN, CIN) için iftar ve namaz vakitleri](/CIN/HUADIAN/)
 </script>
+<script type="text/javascript">

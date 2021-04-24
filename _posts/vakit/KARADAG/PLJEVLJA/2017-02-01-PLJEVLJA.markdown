@@ -8,10 +8,11 @@ permalink: /KARADAG/PLJEVLJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLJEVLJA, KARADAG) için iftar ve namaz vakitleri](/KARADAG/PLJEVLJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'PLJEVLJA';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'PLJEVLJA';
+* [ (PLJEVLJA, KARADAG) için iftar ve namaz vakitleri](/KARADAG/PLJEVLJA/)
 </script>
+<script type="text/javascript">

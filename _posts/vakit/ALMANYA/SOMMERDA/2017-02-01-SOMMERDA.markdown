@@ -8,10 +8,11 @@ permalink: /ALMANYA/SOMMERDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOMMERDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SOMMERDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SOMMERDA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SOMMERDA';
+* [ (SOMMERDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SOMMERDA/)
 </script>
+<script type="text/javascript">

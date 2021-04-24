@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DODEWAARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DODEWAARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DODEWAARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DODEWAARD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DODEWAARD';
+* [ (DODEWAARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DODEWAARD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KOSTARIKA/SAN JOSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_JOSE, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/SAN_JOSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSTARIKA';
+
   var GLOBAL_CITY = 'SAN JOSE';
+  var GLOBAL_COUNTRY = 'KOSTARIKA';
   var GLOBAL_STATE = 'SAN JOSE';
+* [ (SAN_JOSE, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/SAN_JOSE/)
 </script>
+<script type="text/javascript">

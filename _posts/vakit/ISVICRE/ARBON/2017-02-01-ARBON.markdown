@@ -8,10 +8,11 @@ permalink: /ISVICRE/ARBON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARBON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ARBON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ARBON';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ARBON';
+* [ (ARBON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ARBON/)
 </script>
+<script type="text/javascript">

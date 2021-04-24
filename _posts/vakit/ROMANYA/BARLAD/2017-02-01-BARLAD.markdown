@@ -8,10 +8,11 @@ permalink: /ROMANYA/BARLAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARLAD, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BARLAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'BARLAD';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'BARLAD';
+* [ (BARLAD, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BARLAD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MONAKO/MONTE KARLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTE_KARLO, MONAKO) için iftar ve namaz vakitleri](/MONAKO/MONTE_KARLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MONAKO';
+
   var GLOBAL_CITY = 'MONTE KARLO';
+  var GLOBAL_COUNTRY = 'MONAKO';
   var GLOBAL_STATE = 'MONTE KARLO';
+* [ (MONTE_KARLO, MONAKO) için iftar ve namaz vakitleri](/MONAKO/MONTE_KARLO/)
 </script>
+<script type="text/javascript">

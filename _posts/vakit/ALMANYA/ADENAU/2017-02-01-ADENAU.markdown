@@ -8,10 +8,11 @@ permalink: /ALMANYA/ADENAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ADENAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ADENAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ADENAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ADENAU';
+* [ (ADENAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ADENAU/)
 </script>
+<script type="text/javascript">

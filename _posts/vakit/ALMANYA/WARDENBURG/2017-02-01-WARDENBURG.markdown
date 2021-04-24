@@ -8,10 +8,11 @@ permalink: /ALMANYA/WARDENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARDENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WARDENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WARDENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WARDENBURG';
+* [ (WARDENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WARDENBURG/)
 </script>
+<script type="text/javascript">

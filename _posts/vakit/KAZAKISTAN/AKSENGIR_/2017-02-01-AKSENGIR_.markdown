@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/AKSENGIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKSENGIR_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKSENGIR_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'AKSENGIR ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'AKSENGIR ';
+* [ (AKSENGIR_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKSENGIR_/)
 </script>
+<script type="text/javascript">

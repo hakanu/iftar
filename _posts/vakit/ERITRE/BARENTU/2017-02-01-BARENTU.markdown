@@ -8,10 +8,11 @@ permalink: /ERITRE/BARENTU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARENTU, ERITRE) için iftar ve namaz vakitleri](/ERITRE/BARENTU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ERITRE';
+
   var GLOBAL_CITY = 'BARENTU';
+  var GLOBAL_COUNTRY = 'ERITRE';
   var GLOBAL_STATE = 'BARENTU';
+* [ (BARENTU, ERITRE) için iftar ve namaz vakitleri](/ERITRE/BARENTU/)
 </script>
+<script type="text/javascript">

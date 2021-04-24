@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVGOROD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVGOROD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVGOROD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVGOROD';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVGOROD';
+* [ (NOVGOROD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVGOROD/)
 </script>
+<script type="text/javascript">

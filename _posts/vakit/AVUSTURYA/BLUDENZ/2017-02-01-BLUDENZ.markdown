@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BLUDENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLUDENZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BLUDENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BLUDENZ';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BLUDENZ';
+* [ (BLUDENZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BLUDENZ/)
 </script>
+<script type="text/javascript">

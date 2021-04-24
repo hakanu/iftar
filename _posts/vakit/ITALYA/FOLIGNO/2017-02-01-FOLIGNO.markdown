@@ -8,10 +8,11 @@ permalink: /ITALYA/FOLIGNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOLIGNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FOLIGNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FOLIGNO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FOLIGNO';
+* [ (FOLIGNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FOLIGNO/)
 </script>
+<script type="text/javascript">

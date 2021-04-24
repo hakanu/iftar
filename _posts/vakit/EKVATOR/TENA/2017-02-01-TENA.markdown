@@ -8,10 +8,11 @@ permalink: /EKVATOR/TENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TENA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/TENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'TENA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'TENA';
+* [ (TENA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/TENA/)
 </script>
+<script type="text/javascript">

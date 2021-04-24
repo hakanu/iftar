@@ -8,10 +8,11 @@ permalink: /INGILTERE/COVENTRY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COVENTRY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/COVENTRY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'COVENTRY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'COVENTRY';
+* [ (COVENTRY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/COVENTRY/)
 </script>
+<script type="text/javascript">

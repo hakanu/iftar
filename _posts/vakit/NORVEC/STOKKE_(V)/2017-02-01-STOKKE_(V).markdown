@@ -8,10 +8,11 @@ permalink: /NORVEC/STOKKE (V)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STOKKE_(V), NORVEC) için iftar ve namaz vakitleri](/NORVEC/STOKKE_(V)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'STOKKE (V)';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'STOKKE (V)';
+* [ (STOKKE_(V), NORVEC) için iftar ve namaz vakitleri](/NORVEC/STOKKE_(V)/)
 </script>
+<script type="text/javascript">

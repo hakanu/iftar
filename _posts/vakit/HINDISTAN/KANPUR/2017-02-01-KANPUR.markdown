@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KANPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KANPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KANPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KANPUR';
+* [ (KANPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KANPUR/)
 </script>
+<script type="text/javascript">

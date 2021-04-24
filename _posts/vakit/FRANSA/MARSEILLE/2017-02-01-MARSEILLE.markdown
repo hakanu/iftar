@@ -8,10 +8,11 @@ permalink: /FRANSA/MARSEILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARSEILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MARSEILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MARSEILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MARSEILLE';
+* [ (MARSEILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MARSEILLE/)
 </script>
+<script type="text/javascript">

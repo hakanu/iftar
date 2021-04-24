@@ -8,10 +8,11 @@ permalink: /ISVICRE/MARTIGNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARTIGNY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MARTIGNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MARTIGNY';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MARTIGNY';
+* [ (MARTIGNY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MARTIGNY/)
 </script>
+<script type="text/javascript">

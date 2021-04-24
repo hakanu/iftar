@@ -8,10 +8,11 @@ permalink: /BOLIVYA/COCHABAMBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COCHABAMBA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/COCHABAMBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'COCHABAMBA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'COCHABAMBA';
+* [ (COCHABAMBA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/COCHABAMBA/)
 </script>
+<script type="text/javascript">

@@ -8,15 +8,16 @@ permalink: /PANAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [CHEPIGANA (PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHEPIGANA)
-* [SANTIAGO (PANAMA) için iftar ve namaz vakitleri](/PANAMA/SANTIAGO)
-* [CHANGUINOLA (PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHANGUINOLA)
-* [SAN_MIGUELITO (PANAMA) için iftar ve namaz vakitleri](/PANAMA/SAN_MIGUELITO)
-* [PENONOME (PANAMA) için iftar ve namaz vakitleri](/PANAMA/PENONOME)
-* [PACORA (PANAMA) için iftar ve namaz vakitleri](/PANAMA/PACORA)
-* [CHITRE (PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHITRE)
-* [DAVID (PANAMA) için iftar ve namaz vakitleri](/PANAMA/DAVID)
+
 * [BOCAS_DEL_TORO (PANAMA) için iftar ve namaz vakitleri](/PANAMA/BOCAS_DEL_TORO)
+* [CHANGUINOLA (PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHANGUINOLA)
+* [CHEPIGANA (PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHEPIGANA)
+* [CHITRE (PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHITRE)
 * [COLON (PANAMA) için iftar ve namaz vakitleri](/PANAMA/COLON)
+* [DAVID (PANAMA) için iftar ve namaz vakitleri](/PANAMA/DAVID)
 * [LAS_TABLAS (PANAMA) için iftar ve namaz vakitleri](/PANAMA/LAS_TABLAS)
+* [PACORA (PANAMA) için iftar ve namaz vakitleri](/PANAMA/PACORA)
 * [PANAMA_CITY (PANAMA) için iftar ve namaz vakitleri](/PANAMA/PANAMA_CITY)
+* [PENONOME (PANAMA) için iftar ve namaz vakitleri](/PANAMA/PENONOME)
+* [SANTIAGO (PANAMA) için iftar ve namaz vakitleri](/PANAMA/SANTIAGO)
+* [SAN_MIGUELITO (PANAMA) için iftar ve namaz vakitleri](/PANAMA/SAN_MIGUELITO)

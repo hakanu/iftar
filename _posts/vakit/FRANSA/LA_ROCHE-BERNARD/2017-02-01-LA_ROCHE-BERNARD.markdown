@@ -8,10 +8,11 @@ permalink: /FRANSA/LA ROCHE-BERNARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_ROCHE-BERNARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LA_ROCHE-BERNARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LA ROCHE-BERNARD';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LA ROCHE-BERNARD';
+* [ (LA_ROCHE-BERNARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LA_ROCHE-BERNARD/)
 </script>
+<script type="text/javascript">

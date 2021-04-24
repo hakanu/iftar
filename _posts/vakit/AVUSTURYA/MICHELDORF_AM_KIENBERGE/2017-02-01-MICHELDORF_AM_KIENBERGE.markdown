@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MICHELDORF AM KIENBERGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MICHELDORF_AM_KIENBERGE, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MICHELDORF_AM_KIENBERGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MICHELDORF AM KIENBERGE';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MICHELDORF AM KIENBERGE';
+* [ (MICHELDORF_AM_KIENBERGE, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MICHELDORF_AM_KIENBERGE/)
 </script>
+<script type="text/javascript">

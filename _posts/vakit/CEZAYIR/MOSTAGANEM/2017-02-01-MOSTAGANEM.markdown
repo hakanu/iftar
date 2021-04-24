@@ -8,10 +8,11 @@ permalink: /CEZAYIR/MOSTAGANEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSTAGANEM, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/MOSTAGANEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'MOSTAGANEM';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'MOSTAGANEM';
+* [ (MOSTAGANEM, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/MOSTAGANEM/)
 </script>
+<script type="text/javascript">

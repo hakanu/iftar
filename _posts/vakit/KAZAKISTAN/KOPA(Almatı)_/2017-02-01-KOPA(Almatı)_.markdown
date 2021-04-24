@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KOPA(Almatı)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOPA(Almatı)_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOPA(Almatı)_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KOPA(Almatı) ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KOPA(Almatı) ';
+* [ (KOPA(Almatı)_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOPA(Almatı)_/)
 </script>
+<script type="text/javascript">

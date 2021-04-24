@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KHROMKAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHROMKAU, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KHROMKAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KHROMKAU';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KHROMKAU';
+* [ (KHROMKAU, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KHROMKAU/)
 </script>
+<script type="text/javascript">

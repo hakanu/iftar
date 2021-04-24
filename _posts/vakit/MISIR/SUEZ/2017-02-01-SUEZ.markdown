@@ -8,10 +8,11 @@ permalink: /MISIR/SUEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUEZ, MISIR) için iftar ve namaz vakitleri](/MISIR/SUEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'SUEZ';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'SUEZ';
+* [ (SUEZ, MISIR) için iftar ve namaz vakitleri](/MISIR/SUEZ/)
 </script>
+<script type="text/javascript">

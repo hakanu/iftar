@@ -8,10 +8,11 @@ permalink: /IRAN/AMOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMOL, IRAN) için iftar ve namaz vakitleri](/IRAN/AMOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'AMOL';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'AMOL';
+* [ (AMOL, IRAN) için iftar ve namaz vakitleri](/IRAN/AMOL/)
 </script>
+<script type="text/javascript">

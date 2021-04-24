@@ -8,4 +8,5 @@ permalink: /MALDIVLER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [MALE (MALDIVLER) için iftar ve namaz vakitleri](/MALDIVLER/MALE)

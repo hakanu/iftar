@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALTENERDING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALTENERDING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALTENERDING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALTENERDING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALTENERDING';
+* [ (ALTENERDING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALTENERDING/)
 </script>
+<script type="text/javascript">

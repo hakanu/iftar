@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VENLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VENLO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VENLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VENLO';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VENLO';
+* [ (VENLO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VENLO/)
 </script>
+<script type="text/javascript">

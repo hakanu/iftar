@@ -8,10 +8,11 @@ permalink: /ITALYA/BRESCIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRESCIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BRESCIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'BRESCIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'BRESCIA';
+* [ (BRESCIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BRESCIA/)
 </script>
+<script type="text/javascript">

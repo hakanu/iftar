@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOPPARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOPPARD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOPPARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOPPARD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOPPARD';
+* [ (BOPPARD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOPPARD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/COLCHESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COLCHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/COLCHESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'COLCHESTER';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'COLCHESTER';
+* [ (COLCHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/COLCHESTER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/XIAMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (XIAMEN, CIN) için iftar ve namaz vakitleri](/CIN/XIAMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'XIAMEN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'XIAMEN';
+* [ (XIAMEN, CIN) için iftar ve namaz vakitleri](/CIN/XIAMEN/)
 </script>
+<script type="text/javascript">

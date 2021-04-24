@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/WORCESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WORCESTER, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/WORCESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'WORCESTER';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'WORCESTER';
+* [ (WORCESTER, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/WORCESTER/)
 </script>
+<script type="text/javascript">

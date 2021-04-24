@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GLEISDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLEISDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GLEISDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GLEISDORF';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GLEISDORF';
+* [ (GLEISDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GLEISDORF/)
 </script>
+<script type="text/javascript">

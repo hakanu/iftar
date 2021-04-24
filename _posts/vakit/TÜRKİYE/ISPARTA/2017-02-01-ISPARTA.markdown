@@ -8,19 +8,20 @@ permalink: /TÜRKİYE/ISPARTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [YENİSAR_BADEMLİ (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/YENİSAR_BADEMLİ)
-* [AKSU_(I) (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/AKSU_(I))
-* [KEÇİBORLU (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/KEÇİBORLU)
-* [ULUBORLU (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/ULUBORLU)
-* [ISPARTA (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/ISPARTA)
-* [GELENDOST (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/GELENDOST)
-* [SÜTCÜLER (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/SÜTCÜLER)
-* [ŞARKİ_KARAAĞAÇ (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/ŞARKİ_KARAAĞAÇ)
-* [EĞİRDİR (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/EĞİRDİR)
-* [YALVAÇ (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/YALVAÇ)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'ISPARTA';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'ISPARTA';
+* [AKSU_(I) (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/AKSU_(I))
+* [EĞİRDİR (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/EĞİRDİR)
+* [GELENDOST (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/GELENDOST)
+* [ISPARTA (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/ISPARTA)
+* [KEÇİBORLU (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/KEÇİBORLU)
+* [SÜTCÜLER (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/SÜTCÜLER)
+* [ULUBORLU (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/ULUBORLU)
+* [YALVAÇ (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/YALVAÇ)
+* [YENİSAR_BADEMLİ (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/YENİSAR_BADEMLİ)
+* [ŞARKİ_KARAAĞAÇ (ISPARTA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ISPARTA/ŞARKİ_KARAAĞAÇ)
 </script>
+<script type="text/javascript">

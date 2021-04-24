@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SCHOONHOVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHOONHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SCHOONHOVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SCHOONHOVEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SCHOONHOVEN';
+* [ (SCHOONHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SCHOONHOVEN/)
 </script>
+<script type="text/javascript">

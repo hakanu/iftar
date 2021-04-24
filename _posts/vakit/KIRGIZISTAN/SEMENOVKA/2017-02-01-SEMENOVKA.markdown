@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/SEMENOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEMENOVKA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/SEMENOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'SEMENOVKA';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'SEMENOVKA';
+* [ (SEMENOVKA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/SEMENOVKA/)
 </script>
+<script type="text/javascript">

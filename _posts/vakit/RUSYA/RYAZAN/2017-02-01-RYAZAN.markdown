@@ -8,10 +8,11 @@ permalink: /RUSYA/RYAZAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RYAZAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RYAZAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'RYAZAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'RYAZAN';
+* [ (RYAZAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RYAZAN/)
 </script>
+<script type="text/javascript">

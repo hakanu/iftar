@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/BEKASI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEKASI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BEKASI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'BEKASI';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'BEKASI';
+* [ (BEKASI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BEKASI/)
 </script>
+<script type="text/javascript">

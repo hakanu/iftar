@@ -8,10 +8,11 @@ permalink: /JAPONYA/SETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SETO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SETO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SETO';
+* [ (SETO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SETO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HONDURAS/LA CEIBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_CEIBA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/LA_CEIBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'LA CEIBA';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'LA CEIBA';
+* [ (LA_CEIBA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/LA_CEIBA/)
 </script>
+<script type="text/javascript">

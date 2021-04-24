@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/TOLGAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOLGAR, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TOLGAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'TOLGAR';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'TOLGAR';
+* [ (TOLGAR, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TOLGAR/)
 </script>
+<script type="text/javascript">

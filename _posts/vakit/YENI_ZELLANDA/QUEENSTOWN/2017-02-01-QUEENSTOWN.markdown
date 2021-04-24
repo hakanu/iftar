@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/QUEENSTOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUEENSTOWN, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/QUEENSTOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'QUEENSTOWN';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'QUEENSTOWN';
+* [ (QUEENSTOWN, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/QUEENSTOWN/)
 </script>
+<script type="text/javascript">

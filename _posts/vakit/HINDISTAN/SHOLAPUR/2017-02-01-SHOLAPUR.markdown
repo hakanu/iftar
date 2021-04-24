@@ -8,10 +8,11 @@ permalink: /HINDISTAN/SHOLAPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHOLAPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SHOLAPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'SHOLAPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'SHOLAPUR';
+* [ (SHOLAPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SHOLAPUR/)
 </script>
+<script type="text/javascript">

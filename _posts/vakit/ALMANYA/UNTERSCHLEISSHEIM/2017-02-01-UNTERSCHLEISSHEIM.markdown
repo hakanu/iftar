@@ -8,10 +8,11 @@ permalink: /ALMANYA/UNTERSCHLEISSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UNTERSCHLEISSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UNTERSCHLEISSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UNTERSCHLEISSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UNTERSCHLEISSHEIM';
+* [ (UNTERSCHLEISSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UNTERSCHLEISSHEIM/)
 </script>
+<script type="text/javascript">

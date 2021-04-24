@@ -8,10 +8,11 @@ permalink: /ALMANYA/DUDENHOFEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUDENHOFEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DUDENHOFEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DUDENHOFEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DUDENHOFEN';
+* [ (DUDENHOFEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DUDENHOFEN/)
 </script>
+<script type="text/javascript">

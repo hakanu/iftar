@@ -8,10 +8,11 @@ permalink: /ORTA AFRIKA CUMHURIYETI/YALINGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YALINGA, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/YALINGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
+
   var GLOBAL_CITY = 'YALINGA';
+  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
   var GLOBAL_STATE = 'YALINGA';
+* [ (YALINGA, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/YALINGA/)
 </script>
+<script type="text/javascript">

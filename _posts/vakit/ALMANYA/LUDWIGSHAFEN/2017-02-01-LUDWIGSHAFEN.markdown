@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUDWIGSHAFEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUDWIGSHAFEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUDWIGSHAFEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUDWIGSHAFEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUDWIGSHAFEN';
+* [ (LUDWIGSHAFEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUDWIGSHAFEN/)
 </script>
+<script type="text/javascript">

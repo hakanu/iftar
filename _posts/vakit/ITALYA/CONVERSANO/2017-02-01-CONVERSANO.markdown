@@ -8,10 +8,11 @@ permalink: /ITALYA/CONVERSANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONVERSANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CONVERSANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CONVERSANO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CONVERSANO';
+* [ (CONVERSANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CONVERSANO/)
 </script>
+<script type="text/javascript">

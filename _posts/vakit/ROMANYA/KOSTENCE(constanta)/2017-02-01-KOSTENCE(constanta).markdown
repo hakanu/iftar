@@ -8,10 +8,11 @@ permalink: /ROMANYA/KOSTENCE(constanta)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOSTENCE(constanta), ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/KOSTENCE(constanta)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'KOSTENCE(constanta)';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'KOSTENCE(constanta)';
+* [ (KOSTENCE(constanta), ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/KOSTENCE(constanta)/)
 </script>
+<script type="text/javascript">

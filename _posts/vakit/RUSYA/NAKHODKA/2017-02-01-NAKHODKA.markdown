@@ -8,10 +8,11 @@ permalink: /RUSYA/NAKHODKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAKHODKA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NAKHODKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NAKHODKA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NAKHODKA';
+* [ (NAKHODKA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NAKHODKA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/CHAYKOVSKY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHAYKOVSKY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHAYKOVSKY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'CHAYKOVSKY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'CHAYKOVSKY';
+* [ (CHAYKOVSKY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHAYKOVSKY/)
 </script>
+<script type="text/javascript">

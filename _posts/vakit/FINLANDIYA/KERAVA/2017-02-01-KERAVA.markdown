@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/KERAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERAVA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KERAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'KERAVA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'KERAVA';
+* [ (KERAVA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KERAVA/)
 </script>
+<script type="text/javascript">

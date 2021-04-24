@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/HVARDIYSKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HVARDIYSKE_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/HVARDIYSKE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'HVARDIYSKE ';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'HVARDIYSKE ';
+* [ (HVARDIYSKE_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/HVARDIYSKE_/)
 </script>
+<script type="text/javascript">

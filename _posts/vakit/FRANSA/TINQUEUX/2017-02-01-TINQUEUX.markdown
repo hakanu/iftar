@@ -8,10 +8,11 @@ permalink: /FRANSA/TINQUEUX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TINQUEUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TINQUEUX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TINQUEUX';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TINQUEUX';
+* [ (TINQUEUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TINQUEUX/)
 </script>
+<script type="text/javascript">

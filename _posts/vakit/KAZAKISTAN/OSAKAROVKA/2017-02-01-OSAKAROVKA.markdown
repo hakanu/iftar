@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/OSAKAROVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSAKAROVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/OSAKAROVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'OSAKAROVKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'OSAKAROVKA';
+* [ (OSAKAROVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/OSAKAROVKA/)
 </script>
+<script type="text/javascript">

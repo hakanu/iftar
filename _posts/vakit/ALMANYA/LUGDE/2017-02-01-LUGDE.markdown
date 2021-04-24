@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUGDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUGDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUGDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUGDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUGDE';
+* [ (LUGDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUGDE/)
 </script>
+<script type="text/javascript">

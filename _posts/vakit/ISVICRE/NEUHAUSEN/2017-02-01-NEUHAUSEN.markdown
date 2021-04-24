@@ -8,10 +8,11 @@ permalink: /ISVICRE/NEUHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUHAUSEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/NEUHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'NEUHAUSEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'NEUHAUSEN';
+* [ (NEUHAUSEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/NEUHAUSEN/)
 </script>
+<script type="text/javascript">

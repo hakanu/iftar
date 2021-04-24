@@ -8,10 +8,11 @@ permalink: /ARJANTIN/LA PLATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_PLATA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/LA_PLATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'LA PLATA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'LA PLATA';
+* [ (LA_PLATA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/LA_PLATA/)
 </script>
+<script type="text/javascript">

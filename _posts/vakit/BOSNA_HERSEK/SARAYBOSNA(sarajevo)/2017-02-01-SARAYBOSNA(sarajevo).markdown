@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/SARAYBOSNA(sarajevo)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARAYBOSNA(sarajevo), BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/SARAYBOSNA(sarajevo)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'SARAYBOSNA(sarajevo)';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'SARAYBOSNA(sarajevo)';
+* [ (SARAYBOSNA(sarajevo), BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/SARAYBOSNA(sarajevo)/)
 </script>
+<script type="text/javascript">

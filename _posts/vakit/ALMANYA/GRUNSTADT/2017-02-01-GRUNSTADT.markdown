@@ -8,10 +8,11 @@ permalink: /ALMANYA/GRUNSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRUNSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GRUNSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GRUNSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GRUNSTADT';
+* [ (GRUNSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GRUNSTADT/)
 </script>
+<script type="text/javascript">

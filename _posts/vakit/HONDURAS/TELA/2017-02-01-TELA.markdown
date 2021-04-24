@@ -8,10 +8,11 @@ permalink: /HONDURAS/TELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TELA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/TELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'TELA';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'TELA';
+* [ (TELA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/TELA/)
 </script>
+<script type="text/javascript">

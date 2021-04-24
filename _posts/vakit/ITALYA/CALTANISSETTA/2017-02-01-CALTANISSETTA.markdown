@@ -8,10 +8,11 @@ permalink: /ITALYA/CALTANISSETTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALTANISSETTA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CALTANISSETTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CALTANISSETTA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CALTANISSETTA';
+* [ (CALTANISSETTA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CALTANISSETTA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/KARLOVAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARLOVAC, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/KARLOVAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'KARLOVAC';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'KARLOVAC';
+* [ (KARLOVAC, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/KARLOVAC/)
 </script>
+<script type="text/javascript">

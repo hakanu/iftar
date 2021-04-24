@@ -8,10 +8,11 @@ permalink: /SENEGAL/KAOLACK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAOLACK, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/KAOLACK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SENEGAL';
+
   var GLOBAL_CITY = 'KAOLACK';
+  var GLOBAL_COUNTRY = 'SENEGAL';
   var GLOBAL_STATE = 'KAOLACK';
+* [ (KAOLACK, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/KAOLACK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/OBERURSEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERURSEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERURSEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OBERURSEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OBERURSEL';
+* [ (OBERURSEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERURSEL/)
 </script>
+<script type="text/javascript">

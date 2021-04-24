@@ -8,10 +8,11 @@ permalink: /RUSYA/MORKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MORKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MORKI';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MORKI';
+* [ (MORKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MORKI/)
 </script>
+<script type="text/javascript">

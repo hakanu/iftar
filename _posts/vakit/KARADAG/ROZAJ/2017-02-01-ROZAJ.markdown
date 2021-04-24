@@ -8,10 +8,11 @@ permalink: /KARADAG/ROZAJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROZAJ, KARADAG) için iftar ve namaz vakitleri](/KARADAG/ROZAJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'ROZAJ';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'ROZAJ';
+* [ (ROZAJ, KARADAG) için iftar ve namaz vakitleri](/KARADAG/ROZAJ/)
 </script>
+<script type="text/javascript">

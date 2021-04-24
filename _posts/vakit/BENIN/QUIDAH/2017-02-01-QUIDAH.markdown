@@ -8,10 +8,11 @@ permalink: /BENIN/QUIDAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUIDAH, BENIN) için iftar ve namaz vakitleri](/BENIN/QUIDAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'QUIDAH';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'QUIDAH';
+* [ (QUIDAH, BENIN) için iftar ve namaz vakitleri](/BENIN/QUIDAH/)
 </script>
+<script type="text/javascript">

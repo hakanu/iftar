@@ -8,10 +8,11 @@ permalink: /ISVICRE/ITTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ITTINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ITTINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ITTINGEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ITTINGEN';
+* [ (ITTINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ITTINGEN/)
 </script>
+<script type="text/javascript">

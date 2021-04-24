@@ -8,10 +8,11 @@ permalink: /INGILTERE/STROUD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STROUD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STROUD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'STROUD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'STROUD';
+* [ (STROUD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STROUD/)
 </script>
+<script type="text/javascript">

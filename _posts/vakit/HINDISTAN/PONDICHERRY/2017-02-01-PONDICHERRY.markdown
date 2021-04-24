@@ -8,10 +8,11 @@ permalink: /HINDISTAN/PONDICHERRY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONDICHERRY, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/PONDICHERRY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'PONDICHERRY';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'PONDICHERRY';
+* [ (PONDICHERRY, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/PONDICHERRY/)
 </script>
+<script type="text/javascript">

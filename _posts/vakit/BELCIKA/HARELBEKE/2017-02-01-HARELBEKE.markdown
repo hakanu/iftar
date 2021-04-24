@@ -8,10 +8,11 @@ permalink: /BELCIKA/HARELBEKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARELBEKE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HARELBEKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HARELBEKE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HARELBEKE';
+* [ (HARELBEKE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HARELBEKE/)
 </script>
+<script type="text/javascript">

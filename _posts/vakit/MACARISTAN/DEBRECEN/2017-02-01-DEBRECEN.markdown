@@ -8,10 +8,11 @@ permalink: /MACARISTAN/DEBRECEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEBRECEN, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/DEBRECEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'DEBRECEN';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'DEBRECEN';
+* [ (DEBRECEN, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/DEBRECEN/)
 </script>
+<script type="text/javascript">

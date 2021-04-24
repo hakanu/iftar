@@ -8,10 +8,11 @@ permalink: /NIJERYA/IBADAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IBADAN, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IBADAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'IBADAN';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'IBADAN';
+* [ (IBADAN, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IBADAN/)
 </script>
+<script type="text/javascript">

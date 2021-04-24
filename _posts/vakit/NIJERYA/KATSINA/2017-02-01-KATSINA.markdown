@@ -8,10 +8,11 @@ permalink: /NIJERYA/KATSINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KATSINA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/KATSINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'KATSINA';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'KATSINA';
+* [ (KATSINA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/KATSINA/)
 </script>
+<script type="text/javascript">

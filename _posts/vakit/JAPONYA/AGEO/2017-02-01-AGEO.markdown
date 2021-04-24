@@ -8,10 +8,11 @@ permalink: /JAPONYA/AGEO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGEO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AGEO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'AGEO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'AGEO';
+* [ (AGEO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AGEO/)
 </script>
+<script type="text/javascript">

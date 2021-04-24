@@ -8,10 +8,11 @@ permalink: /VENEZUELA/LOS TEQUES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOS_TEQUES, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/LOS_TEQUES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'LOS TEQUES';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'LOS TEQUES';
+* [ (LOS_TEQUES, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/LOS_TEQUES/)
 </script>
+<script type="text/javascript">

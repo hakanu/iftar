@@ -8,10 +8,11 @@ permalink: /INGILTERE/LARBERT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LARBERT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LARBERT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LARBERT';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LARBERT';
+* [ (LARBERT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LARBERT/)
 </script>
+<script type="text/javascript">

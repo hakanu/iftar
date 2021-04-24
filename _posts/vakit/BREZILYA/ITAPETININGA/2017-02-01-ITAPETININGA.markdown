@@ -8,10 +8,11 @@ permalink: /BREZILYA/ITAPETININGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ITAPETININGA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITAPETININGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ITAPETININGA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ITAPETININGA';
+* [ (ITAPETININGA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITAPETININGA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/TENGCHONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TENGCHONG, CIN) için iftar ve namaz vakitleri](/CIN/TENGCHONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'TENGCHONG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'TENGCHONG';
+* [ (TENGCHONG, CIN) için iftar ve namaz vakitleri](/CIN/TENGCHONG/)
 </script>
+<script type="text/javascript">

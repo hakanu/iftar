@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/GISSAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GISSAR_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/GISSAR_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'GISSAR ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'GISSAR ';
+* [ (GISSAR_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/GISSAR_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD PYRMONT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_PYRMONT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_PYRMONT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD PYRMONT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD PYRMONT';
+* [ (BAD_PYRMONT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_PYRMONT/)
 </script>
+<script type="text/javascript">

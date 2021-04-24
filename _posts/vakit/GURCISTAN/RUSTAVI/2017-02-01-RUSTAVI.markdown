@@ -8,10 +8,11 @@ permalink: /GURCISTAN/RUSTAVI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUSTAVI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/RUSTAVI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'RUSTAVI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'RUSTAVI';
+* [ (RUSTAVI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/RUSTAVI/)
 </script>
+<script type="text/javascript">

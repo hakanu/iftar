@@ -8,10 +8,11 @@ permalink: /BELARUS/KRYCHAW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRYCHAW, BELARUS) için iftar ve namaz vakitleri](/BELARUS/KRYCHAW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'KRYCHAW';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'KRYCHAW';
+* [ (KRYCHAW, BELARUS) için iftar ve namaz vakitleri](/BELARUS/KRYCHAW/)
 </script>
+<script type="text/javascript">

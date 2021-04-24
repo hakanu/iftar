@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/ABSAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABSAM, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ABSAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'ABSAM';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'ABSAM';
+* [ (ABSAM, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ABSAM/)
 </script>
+<script type="text/javascript">

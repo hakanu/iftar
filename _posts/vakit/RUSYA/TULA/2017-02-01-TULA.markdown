@@ -8,10 +8,11 @@ permalink: /RUSYA/TULA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TULA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TULA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TULA';
+* [ (TULA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TULA/)
 </script>
+<script type="text/javascript">

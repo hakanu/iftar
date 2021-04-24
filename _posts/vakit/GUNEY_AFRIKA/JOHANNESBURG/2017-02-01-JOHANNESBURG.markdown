@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/JOHANNESBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JOHANNESBURG, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/JOHANNESBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'JOHANNESBURG';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'JOHANNESBURG';
+* [ (JOHANNESBURG, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/JOHANNESBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SIMPELVELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIMPELVELD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SIMPELVELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SIMPELVELD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SIMPELVELD';
+* [ (SIMPELVELD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SIMPELVELD/)
 </script>
+<script type="text/javascript">

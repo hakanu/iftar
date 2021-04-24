@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/HERAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERAT, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/HERAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'HERAT';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'HERAT';
+* [ (HERAT, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/HERAT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/MAIDSTONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAIDSTONE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MAIDSTONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'MAIDSTONE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'MAIDSTONE';
+* [ (MAIDSTONE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MAIDSTONE/)
 </script>
+<script type="text/javascript">

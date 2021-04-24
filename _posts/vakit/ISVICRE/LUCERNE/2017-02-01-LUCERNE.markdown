@@ -8,10 +8,11 @@ permalink: /ISVICRE/LUCERNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUCERNE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LUCERNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LUCERNE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LUCERNE';
+* [ (LUCERNE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LUCERNE/)
 </script>
+<script type="text/javascript">

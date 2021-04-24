@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ORANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORANGE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ORANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ORANGE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ORANGE';
+* [ (ORANGE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ORANGE/)
 </script>
+<script type="text/javascript">

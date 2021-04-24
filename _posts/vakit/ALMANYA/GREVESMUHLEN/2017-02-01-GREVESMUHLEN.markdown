@@ -8,10 +8,11 @@ permalink: /ALMANYA/GREVESMUHLEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GREVESMUHLEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREVESMUHLEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GREVESMUHLEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GREVESMUHLEN';
+* [ (GREVESMUHLEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREVESMUHLEN/)
 </script>
+<script type="text/javascript">

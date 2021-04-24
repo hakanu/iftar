@@ -8,10 +8,11 @@ permalink: /MACARISTAN/ZALAEGERSZEG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZALAEGERSZEG, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ZALAEGERSZEG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'ZALAEGERSZEG';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'ZALAEGERSZEG';
+* [ (ZALAEGERSZEG, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ZALAEGERSZEG/)
 </script>
+<script type="text/javascript">

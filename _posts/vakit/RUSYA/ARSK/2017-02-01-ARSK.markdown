@@ -8,10 +8,11 @@ permalink: /RUSYA/ARSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ARSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ARSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ARSK';
+* [ (ARSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ARSK/)
 </script>
+<script type="text/javascript">

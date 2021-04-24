@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HOCHEGG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOCHEGG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HOCHEGG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HOCHEGG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HOCHEGG';
+* [ (HOCHEGG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HOCHEGG/)
 </script>
+<script type="text/javascript">

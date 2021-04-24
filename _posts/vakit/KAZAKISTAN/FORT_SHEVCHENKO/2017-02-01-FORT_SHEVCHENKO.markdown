@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/FORT SHEVCHENKO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORT_SHEVCHENKO, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/FORT_SHEVCHENKO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'FORT SHEVCHENKO';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'FORT SHEVCHENKO';
+* [ (FORT_SHEVCHENKO, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/FORT_SHEVCHENKO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALTDORF B_ NURNBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALTDORF_B__NURNBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALTDORF_B__NURNBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALTDORF B_ NURNBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALTDORF B_ NURNBERG';
+* [ (ALTDORF_B__NURNBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALTDORF_B__NURNBERG/)
 </script>
+<script type="text/javascript">

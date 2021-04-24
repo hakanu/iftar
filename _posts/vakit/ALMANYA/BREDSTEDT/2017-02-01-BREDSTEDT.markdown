@@ -8,10 +8,11 @@ permalink: /ALMANYA/BREDSTEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREDSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREDSTEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BREDSTEDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BREDSTEDT';
+* [ (BREDSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREDSTEDT/)
 </script>
+<script type="text/javascript">

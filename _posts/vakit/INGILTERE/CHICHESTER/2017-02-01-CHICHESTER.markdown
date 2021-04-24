@@ -8,10 +8,11 @@ permalink: /INGILTERE/CHICHESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHICHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHICHESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CHICHESTER';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CHICHESTER';
+* [ (CHICHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHICHESTER/)
 </script>
+<script type="text/javascript">

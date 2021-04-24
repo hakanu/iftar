@@ -8,10 +8,11 @@ permalink: /ALMANYA/LOHR A_M_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOHR_A_M_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOHR_A_M_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LOHR A_M_';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LOHR A_M_';
+* [ (LOHR_A_M_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOHR_A_M_/)
 </script>
+<script type="text/javascript">

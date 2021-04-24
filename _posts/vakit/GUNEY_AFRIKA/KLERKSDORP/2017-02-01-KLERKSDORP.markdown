@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/KLERKSDORP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLERKSDORP, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/KLERKSDORP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'KLERKSDORP';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'KLERKSDORP';
+* [ (KLERKSDORP, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/KLERKSDORP/)
 </script>
+<script type="text/javascript">

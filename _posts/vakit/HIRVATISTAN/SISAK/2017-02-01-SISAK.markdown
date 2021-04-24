@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/SISAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SISAK, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SISAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'SISAK';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'SISAK';
+* [ (SISAK, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SISAK/)
 </script>
+<script type="text/javascript">

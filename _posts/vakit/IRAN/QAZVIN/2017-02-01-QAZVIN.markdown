@@ -8,10 +8,11 @@ permalink: /IRAN/QAZVIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QAZVIN, IRAN) için iftar ve namaz vakitleri](/IRAN/QAZVIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'QAZVIN';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'QAZVIN';
+* [ (QAZVIN, IRAN) için iftar ve namaz vakitleri](/IRAN/QAZVIN/)
 </script>
+<script type="text/javascript">

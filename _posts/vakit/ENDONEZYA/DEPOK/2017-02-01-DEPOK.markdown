@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/DEPOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEPOK, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/DEPOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'DEPOK';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'DEPOK';
+* [ (DEPOK, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/DEPOK/)
 </script>
+<script type="text/javascript">

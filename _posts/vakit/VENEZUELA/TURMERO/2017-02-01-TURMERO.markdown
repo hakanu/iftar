@@ -8,10 +8,11 @@ permalink: /VENEZUELA/TURMERO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURMERO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/TURMERO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'TURMERO';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'TURMERO';
+* [ (TURMERO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/TURMERO/)
 </script>
+<script type="text/javascript">

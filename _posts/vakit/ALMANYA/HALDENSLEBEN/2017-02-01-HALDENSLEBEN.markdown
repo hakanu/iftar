@@ -8,10 +8,11 @@ permalink: /ALMANYA/HALDENSLEBEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HALDENSLEBEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HALDENSLEBEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HALDENSLEBEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HALDENSLEBEN';
+* [ (HALDENSLEBEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HALDENSLEBEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DEMOKRATIK KONGO CUMHURIYETI/MATADI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATADI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/MATADI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
+
   var GLOBAL_CITY = 'MATADI';
+  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
   var GLOBAL_STATE = 'MATADI';
+* [ (MATADI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/MATADI/)
 </script>
+<script type="text/javascript">

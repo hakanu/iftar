@@ -8,10 +8,11 @@ permalink: /JAPONYA/MITO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MITO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MITO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'MITO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'MITO';
+* [ (MITO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MITO/)
 </script>
+<script type="text/javascript">

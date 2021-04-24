@@ -8,10 +8,11 @@ permalink: /ALMANYA/RASTEDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RASTEDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RASTEDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RASTEDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RASTEDE';
+* [ (RASTEDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RASTEDE/)
 </script>
+<script type="text/javascript">

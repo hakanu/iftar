@@ -8,10 +8,11 @@ permalink: /MOZAMBIK/NACALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NACALA, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/NACALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOZAMBIK';
+
   var GLOBAL_CITY = 'NACALA';
+  var GLOBAL_COUNTRY = 'MOZAMBIK';
   var GLOBAL_STATE = 'NACALA';
+* [ (NACALA, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/NACALA/)
 </script>
+<script type="text/javascript">

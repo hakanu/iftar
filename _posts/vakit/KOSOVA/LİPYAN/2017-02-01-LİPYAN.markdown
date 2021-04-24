@@ -8,10 +8,11 @@ permalink: /KOSOVA/LİPYAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LİPYAN, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/LİPYAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSOVA';
+
   var GLOBAL_CITY = 'LİPYAN';
+  var GLOBAL_COUNTRY = 'KOSOVA';
   var GLOBAL_STATE = 'LİPYAN';
+* [ (LİPYAN, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/LİPYAN/)
 </script>
+<script type="text/javascript">

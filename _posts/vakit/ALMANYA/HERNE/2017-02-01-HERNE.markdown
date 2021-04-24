@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERNE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERNE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERNE';
+* [ (HERNE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERNE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BEMMEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEMMEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEMMEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BEMMEL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BEMMEL';
+* [ (BEMMEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEMMEL/)
 </script>
+<script type="text/javascript">

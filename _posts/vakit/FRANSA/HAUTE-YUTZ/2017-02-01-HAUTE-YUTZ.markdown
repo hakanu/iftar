@@ -8,10 +8,11 @@ permalink: /FRANSA/HAUTE-YUTZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAUTE-YUTZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HAUTE-YUTZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'HAUTE-YUTZ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'HAUTE-YUTZ';
+* [ (HAUTE-YUTZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HAUTE-YUTZ/)
 </script>
+<script type="text/javascript">

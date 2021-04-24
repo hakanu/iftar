@@ -8,10 +8,11 @@ permalink: /BELCIKA/HAMME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMME, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HAMME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HAMME';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HAMME';
+* [ (HAMME, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HAMME/)
 </script>
+<script type="text/javascript">

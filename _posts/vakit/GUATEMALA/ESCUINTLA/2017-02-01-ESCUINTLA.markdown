@@ -8,10 +8,11 @@ permalink: /GUATEMALA/ESCUINTLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESCUINTLA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/ESCUINTLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUATEMALA';
+
   var GLOBAL_CITY = 'ESCUINTLA';
+  var GLOBAL_COUNTRY = 'GUATEMALA';
   var GLOBAL_STATE = 'ESCUINTLA';
+* [ (ESCUINTLA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/ESCUINTLA/)
 </script>
+<script type="text/javascript">

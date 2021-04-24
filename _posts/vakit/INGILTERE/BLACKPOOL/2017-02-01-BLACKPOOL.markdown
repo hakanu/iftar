@@ -8,10 +8,11 @@ permalink: /INGILTERE/BLACKPOOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLACKPOOL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BLACKPOOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BLACKPOOL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BLACKPOOL';
+* [ (BLACKPOOL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BLACKPOOL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/WILMSLOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILMSLOW, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WILMSLOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WILMSLOW';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WILMSLOW';
+* [ (WILMSLOW, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WILMSLOW/)
 </script>
+<script type="text/javascript">

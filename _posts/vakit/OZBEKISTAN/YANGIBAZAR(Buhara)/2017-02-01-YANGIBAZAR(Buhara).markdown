@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/YANGIBAZAR(Buhara)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YANGIBAZAR(Buhara), OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/YANGIBAZAR(Buhara)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'YANGIBAZAR(Buhara)';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'YANGIBAZAR(Buhara)';
+* [ (YANGIBAZAR(Buhara), OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/YANGIBAZAR(Buhara)/)
 </script>
+<script type="text/javascript">

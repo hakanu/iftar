@@ -8,10 +8,11 @@ permalink: /BENIN/PARAKOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARAKOU, BENIN) için iftar ve namaz vakitleri](/BENIN/PARAKOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'PARAKOU';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'PARAKOU';
+* [ (PARAKOU, BENIN) için iftar ve namaz vakitleri](/BENIN/PARAKOU/)
 </script>
+<script type="text/javascript">

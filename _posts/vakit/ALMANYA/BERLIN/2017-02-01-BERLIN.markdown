@@ -8,10 +8,11 @@ permalink: /ALMANYA/BERLIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERLIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERLIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BERLIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BERLIN';
+* [ (BERLIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERLIN/)
 </script>
+<script type="text/javascript">

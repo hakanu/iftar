@@ -8,10 +8,11 @@ permalink: /PAKISTAN/SARGODHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARGODHA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SARGODHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'SARGODHA';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'SARGODHA';
+* [ (SARGODHA, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/SARGODHA/)
 </script>
+<script type="text/javascript">

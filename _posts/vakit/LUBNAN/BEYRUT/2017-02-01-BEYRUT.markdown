@@ -8,10 +8,11 @@ permalink: /LUBNAN/BEYRUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEYRUT, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/BEYRUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUBNAN';
+
   var GLOBAL_CITY = 'BEYRUT';
+  var GLOBAL_COUNTRY = 'LUBNAN';
   var GLOBAL_STATE = 'BEYRUT';
+* [ (BEYRUT, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/BEYRUT/)
 </script>
+<script type="text/javascript">

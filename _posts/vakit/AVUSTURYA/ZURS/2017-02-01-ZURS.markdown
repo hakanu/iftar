@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/ZURS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZURS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ZURS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'ZURS';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'ZURS';
+* [ (ZURS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ZURS/)
 </script>
+<script type="text/javascript">

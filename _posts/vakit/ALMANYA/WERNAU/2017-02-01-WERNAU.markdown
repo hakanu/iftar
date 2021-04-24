@@ -8,10 +8,11 @@ permalink: /ALMANYA/WERNAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WERNAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERNAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WERNAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WERNAU';
+* [ (WERNAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERNAU/)
 </script>
+<script type="text/javascript">

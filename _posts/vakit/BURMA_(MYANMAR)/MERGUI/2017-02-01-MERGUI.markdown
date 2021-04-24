@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/MERGUI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MERGUI, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/MERGUI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'MERGUI';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'MERGUI';
+* [ (MERGUI, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/MERGUI/)
 </script>
+<script type="text/javascript">

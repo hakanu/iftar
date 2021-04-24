@@ -8,10 +8,11 @@ permalink: /ARJANTIN/BARILOCHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARILOCHE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/BARILOCHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'BARILOCHE';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'BARILOCHE';
+* [ (BARILOCHE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/BARILOCHE/)
 </script>
+<script type="text/javascript">

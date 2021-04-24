@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/LEIRIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEIRIA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/LEIRIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'LEIRIA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'LEIRIA';
+* [ (LEIRIA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/LEIRIA/)
 </script>
+<script type="text/javascript">

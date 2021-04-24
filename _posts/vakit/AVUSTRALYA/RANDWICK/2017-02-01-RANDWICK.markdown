@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/RANDWICK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RANDWICK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/RANDWICK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'RANDWICK';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'RANDWICK';
+* [ (RANDWICK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/RANDWICK/)
 </script>
+<script type="text/javascript">

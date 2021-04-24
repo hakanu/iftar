@@ -8,10 +8,11 @@ permalink: /MEKSIKA/PUEBLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUEBLA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PUEBLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'PUEBLA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'PUEBLA';
+* [ (PUEBLA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PUEBLA/)
 </script>
+<script type="text/javascript">

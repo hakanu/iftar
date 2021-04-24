@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/VILLAVIVICENCIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLAVIVICENCIO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/VILLAVIVICENCIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'VILLAVIVICENCIO';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'VILLAVIVICENCIO';
+* [ (VILLAVIVICENCIO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/VILLAVIVICENCIO/)
 </script>
+<script type="text/javascript">

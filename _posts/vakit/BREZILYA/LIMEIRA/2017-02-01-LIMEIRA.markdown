@@ -8,10 +8,11 @@ permalink: /BREZILYA/LIMEIRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIMEIRA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/LIMEIRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'LIMEIRA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'LIMEIRA';
+* [ (LIMEIRA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/LIMEIRA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /UKRAYNA/ZAPOROJIE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAPOROJIE, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZAPOROJIE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'ZAPOROJIE';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'ZAPOROJIE';
+* [ (ZAPOROJIE, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZAPOROJIE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/KATOWICE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KATOWICE, POLONYA) için iftar ve namaz vakitleri](/POLONYA/KATOWICE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'KATOWICE';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'KATOWICE';
+* [ (KATOWICE, POLONYA) için iftar ve namaz vakitleri](/POLONYA/KATOWICE/)
 </script>
+<script type="text/javascript">

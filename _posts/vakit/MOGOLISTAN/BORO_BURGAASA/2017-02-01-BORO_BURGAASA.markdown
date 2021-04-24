@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/BORO BURGAASA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORO_BURGAASA, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BORO_BURGAASA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'BORO BURGAASA';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'BORO BURGAASA';
+* [ (BORO_BURGAASA, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BORO_BURGAASA/)
 </script>
+<script type="text/javascript">

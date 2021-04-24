@@ -8,10 +8,11 @@ permalink: /ITALYA/CHIETI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIETI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CHIETI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CHIETI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CHIETI';
+* [ (CHIETI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CHIETI/)
 </script>
+<script type="text/javascript">

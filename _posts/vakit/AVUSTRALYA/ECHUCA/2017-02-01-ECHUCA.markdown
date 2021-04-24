@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ECHUCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ECHUCA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ECHUCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ECHUCA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ECHUCA';
+* [ (ECHUCA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ECHUCA/)
 </script>
+<script type="text/javascript">

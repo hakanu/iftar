@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/WAITAKERE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAITAKERE, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WAITAKERE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'WAITAKERE';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'WAITAKERE';
+* [ (WAITAKERE, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WAITAKERE/)
 </script>
+<script type="text/javascript">

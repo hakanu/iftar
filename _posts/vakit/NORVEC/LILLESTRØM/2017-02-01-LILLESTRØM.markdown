@@ -8,10 +8,11 @@ permalink: /NORVEC/LILLESTRØM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LILLESTRØM, NORVEC) için iftar ve namaz vakitleri](/NORVEC/LILLESTRØM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'LILLESTRØM';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'LILLESTRØM';
+* [ (LILLESTRØM, NORVEC) için iftar ve namaz vakitleri](/NORVEC/LILLESTRØM/)
 </script>
+<script type="text/javascript">

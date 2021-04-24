@@ -8,10 +8,11 @@ permalink: /PAKISTAN/MULTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MULTAN, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/MULTAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'MULTAN';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'MULTAN';
+* [ (MULTAN, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/MULTAN/)
 </script>
+<script type="text/javascript">

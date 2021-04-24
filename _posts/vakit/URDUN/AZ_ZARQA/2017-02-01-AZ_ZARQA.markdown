@@ -8,10 +8,11 @@ permalink: /URDUN/AZ ZARQA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AZ_ZARQA, URDUN) için iftar ve namaz vakitleri](/URDUN/AZ_ZARQA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URDUN';
+
   var GLOBAL_CITY = 'AZ ZARQA';
+  var GLOBAL_COUNTRY = 'URDUN';
   var GLOBAL_STATE = 'AZ ZARQA';
+* [ (AZ_ZARQA, URDUN) için iftar ve namaz vakitleri](/URDUN/AZ_ZARQA/)
 </script>
+<script type="text/javascript">

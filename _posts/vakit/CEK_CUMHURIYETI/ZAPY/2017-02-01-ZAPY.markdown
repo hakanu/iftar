@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/ZAPY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAPY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/ZAPY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'ZAPY';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'ZAPY';
+* [ (ZAPY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/ZAPY/)
 </script>
+<script type="text/javascript">

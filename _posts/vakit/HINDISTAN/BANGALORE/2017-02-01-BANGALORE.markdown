@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BANGALORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANGALORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BANGALORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BANGALORE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BANGALORE';
+* [ (BANGALORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BANGALORE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/KIROVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIROVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KIROVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KIROVSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KIROVSK';
+* [ (KIROVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KIROVSK/)
 </script>
+<script type="text/javascript">

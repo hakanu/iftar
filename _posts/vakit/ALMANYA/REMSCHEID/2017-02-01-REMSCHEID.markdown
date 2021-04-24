@@ -8,10 +8,11 @@ permalink: /ALMANYA/REMSCHEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REMSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REMSCHEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'REMSCHEID';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'REMSCHEID';
+* [ (REMSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REMSCHEID/)
 </script>
+<script type="text/javascript">

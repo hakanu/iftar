@@ -8,10 +8,11 @@ permalink: /ALMANYA/MULLHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MULLHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MULLHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MULLHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MULLHEIM';
+* [ (MULLHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MULLHEIM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/MOIRANS-EN-MONTAGNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOIRANS-EN-MONTAGNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MOIRANS-EN-MONTAGNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MOIRANS-EN-MONTAGNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MOIRANS-EN-MONTAGNE';
+* [ (MOIRANS-EN-MONTAGNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MOIRANS-EN-MONTAGNE/)
 </script>
+<script type="text/javascript">

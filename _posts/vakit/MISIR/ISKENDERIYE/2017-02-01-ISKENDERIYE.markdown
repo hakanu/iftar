@@ -8,10 +8,11 @@ permalink: /MISIR/ISKENDERIYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISKENDERIYE, MISIR) için iftar ve namaz vakitleri](/MISIR/ISKENDERIYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'ISKENDERIYE';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'ISKENDERIYE';
+* [ (ISKENDERIYE, MISIR) için iftar ve namaz vakitleri](/MISIR/ISKENDERIYE/)
 </script>
+<script type="text/javascript">

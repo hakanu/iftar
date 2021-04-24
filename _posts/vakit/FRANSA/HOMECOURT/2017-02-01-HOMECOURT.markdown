@@ -8,10 +8,11 @@ permalink: /FRANSA/HOMECOURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOMECOURT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HOMECOURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'HOMECOURT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'HOMECOURT';
+* [ (HOMECOURT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HOMECOURT/)
 </script>
+<script type="text/javascript">

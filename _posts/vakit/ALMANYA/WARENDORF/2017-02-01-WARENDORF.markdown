@@ -8,10 +8,11 @@ permalink: /ALMANYA/WARENDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WARENDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WARENDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WARENDORF';
+* [ (WARENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WARENDORF/)
 </script>
+<script type="text/javascript">

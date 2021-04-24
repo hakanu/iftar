@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HEERDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEERDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEERDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HEERDE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HEERDE';
+* [ (HEERDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEERDE/)
 </script>
+<script type="text/javascript">

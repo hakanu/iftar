@@ -8,10 +8,11 @@ permalink: /FRANSA/ANNECY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANNECY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANNECY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ANNECY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ANNECY';
+* [ (ANNECY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANNECY/)
 </script>
+<script type="text/javascript">

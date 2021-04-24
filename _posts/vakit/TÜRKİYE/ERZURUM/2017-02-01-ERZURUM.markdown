@@ -8,28 +8,29 @@ permalink: /TÜRKİYE/ERZURUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KÖPRÜKÖY (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/KÖPRÜKÖY)
-* [KARAÇOBAN (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/KARAÇOBAN)
-* [TORTUM (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/TORTUM)
+
+
+  var GLOBAL_CITY = 'ERZURUM';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'ERZURUM';
+* [AZİZİYE (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/AZİZİYE)
 * [AŞKALE (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/AŞKALE)
+* [ERZURUM (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/ERZURUM)
+* [HINIS (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/HINIS)
 * [HORASAN (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/HORASAN)
-* [ÇAT (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/ÇAT)
-* [ŞENKAYA (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/ŞENKAYA)
+* [KARAYAZI (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/KARAYAZI)
+* [KARAÇOBAN (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/KARAÇOBAN)
+* [KÖPRÜKÖY (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/KÖPRÜKÖY)
 * [NARMAN (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/NARMAN)
 * [OLTU (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/OLTU)
-* [KARAYAZI (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/KARAYAZI)
-* [PAZARYOLU (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/PAZARYOLU)
-* [İSPİR (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/İSPİR)
-* [HINIS (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/HINIS)
-* [PASİNLER (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/PASİNLER)
-* [ERZURUM (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/ERZURUM)
-* [AZİZİYE (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/AZİZİYE)
 * [OLUR (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/OLUR)
+* [PASİNLER (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/PASİNLER)
+* [PAZARYOLU (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/PAZARYOLU)
 * [TEKMAN (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/TEKMAN)
+* [TORTUM (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/TORTUM)
 * [UZUNDERE (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/UZUNDERE)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ERZURUM';
-  var GLOBAL_STATE = 'ERZURUM';
+* [ÇAT (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/ÇAT)
+* [İSPİR (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/İSPİR)
+* [ŞENKAYA (ERZURUM, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ERZURUM/ŞENKAYA)
 </script>
+<script type="text/javascript">

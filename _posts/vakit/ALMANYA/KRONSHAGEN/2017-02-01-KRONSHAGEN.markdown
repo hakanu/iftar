@@ -8,10 +8,11 @@ permalink: /ALMANYA/KRONSHAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRONSHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KRONSHAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KRONSHAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KRONSHAGEN';
+* [ (KRONSHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KRONSHAGEN/)
 </script>
+<script type="text/javascript">

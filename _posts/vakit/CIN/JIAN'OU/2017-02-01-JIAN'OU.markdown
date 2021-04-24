@@ -8,10 +8,11 @@ permalink: /CIN/JIAN'OU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JIAN'OU, CIN) için iftar ve namaz vakitleri](/CIN/JIAN'OU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'JIAN'OU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'JIAN'OU';
+* [ (JIAN'OU, CIN) için iftar ve namaz vakitleri](/CIN/JIAN'OU/)
 </script>
+<script type="text/javascript">

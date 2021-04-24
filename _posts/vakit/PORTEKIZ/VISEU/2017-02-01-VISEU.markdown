@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/VISEU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VISEU, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/VISEU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'VISEU';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'VISEU';
+* [ (VISEU, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/VISEU/)
 </script>
+<script type="text/javascript">

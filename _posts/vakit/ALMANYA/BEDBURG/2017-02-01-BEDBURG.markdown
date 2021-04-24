@@ -8,10 +8,11 @@ permalink: /ALMANYA/BEDBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEDBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEDBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BEDBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BEDBURG';
+* [ (BEDBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEDBURG/)
 </script>
+<script type="text/javascript">

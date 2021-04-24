@@ -8,10 +8,11 @@ permalink: /ALMANYA/FRIEDBERG (HESSEN)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRIEDBERG_(HESSEN), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRIEDBERG_(HESSEN)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FRIEDBERG (HESSEN)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FRIEDBERG (HESSEN)';
+* [ (FRIEDBERG_(HESSEN), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRIEDBERG_(HESSEN)/)
 </script>
+<script type="text/javascript">

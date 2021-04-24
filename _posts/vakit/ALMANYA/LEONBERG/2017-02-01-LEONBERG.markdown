@@ -8,10 +8,11 @@ permalink: /ALMANYA/LEONBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEONBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEONBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LEONBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LEONBERG';
+* [ (LEONBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEONBERG/)
 </script>
+<script type="text/javascript">

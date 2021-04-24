@@ -8,10 +8,11 @@ permalink: /ALMANYA/MOLLN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOLLN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOLLN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MOLLN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MOLLN';
+* [ (MOLLN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOLLN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/HANNOVER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HANNOVER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HANNOVER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HANNOVER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HANNOVER';
+* [ (HANNOVER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HANNOVER/)
 </script>
+<script type="text/javascript">

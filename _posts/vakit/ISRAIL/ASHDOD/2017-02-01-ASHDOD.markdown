@@ -8,10 +8,11 @@ permalink: /ISRAIL/ASHDOD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASHDOD, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/ASHDOD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISRAIL';
+
   var GLOBAL_CITY = 'ASHDOD';
+  var GLOBAL_COUNTRY = 'ISRAIL';
   var GLOBAL_STATE = 'ASHDOD';
+* [ (ASHDOD, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/ASHDOD/)
 </script>
+<script type="text/javascript">

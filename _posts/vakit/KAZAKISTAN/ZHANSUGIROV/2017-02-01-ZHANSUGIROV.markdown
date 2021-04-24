@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ZHANSUGIROV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHANSUGIROV, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ZHANSUGIROV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ZHANSUGIROV';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ZHANSUGIROV';
+* [ (ZHANSUGIROV, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ZHANSUGIROV/)
 </script>
+<script type="text/javascript">

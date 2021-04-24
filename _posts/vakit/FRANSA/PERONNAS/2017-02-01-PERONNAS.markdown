@@ -8,10 +8,11 @@ permalink: /FRANSA/PERONNAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERONNAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PERONNAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PERONNAS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PERONNAS';
+* [ (PERONNAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PERONNAS/)
 </script>
+<script type="text/javascript">

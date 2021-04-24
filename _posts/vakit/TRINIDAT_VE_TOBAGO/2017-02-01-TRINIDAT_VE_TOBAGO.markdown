@@ -8,6 +8,7 @@ permalink: /TRINIDAT_VE_TOBAGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [PORT_OF_SPAIN (TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/PORT_OF_SPAIN)
+
 * [ARIMA (TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/ARIMA)
+* [PORT_OF_SPAIN (TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/PORT_OF_SPAIN)
 * [SAN_FERNANDO (TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/SAN_FERNANDO)

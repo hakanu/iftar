@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/BASHKAINDY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASHKAINDY, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BASHKAINDY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'BASHKAINDY';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'BASHKAINDY';
+* [ (BASHKAINDY, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BASHKAINDY/)
 </script>
+<script type="text/javascript">

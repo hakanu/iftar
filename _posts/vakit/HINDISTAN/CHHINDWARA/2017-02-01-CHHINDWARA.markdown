@@ -8,10 +8,11 @@ permalink: /HINDISTAN/CHHINDWARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHHINDWARA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CHHINDWARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'CHHINDWARA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'CHHINDWARA';
+* [ (CHHINDWARA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CHHINDWARA/)
 </script>
+<script type="text/javascript">

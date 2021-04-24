@@ -8,10 +8,11 @@ permalink: /RUSYA/POKACHEVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POKACHEVA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/POKACHEVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'POKACHEVA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'POKACHEVA';
+* [ (POKACHEVA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/POKACHEVA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/MOUTIER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOUTIER, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MOUTIER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MOUTIER';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MOUTIER';
+* [ (MOUTIER, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MOUTIER/)
 </script>
+<script type="text/javascript">

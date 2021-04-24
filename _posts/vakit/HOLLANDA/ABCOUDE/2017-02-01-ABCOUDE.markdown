@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ABCOUDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABCOUDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ABCOUDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ABCOUDE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ABCOUDE';
+* [ (ABCOUDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ABCOUDE/)
 </script>
+<script type="text/javascript">

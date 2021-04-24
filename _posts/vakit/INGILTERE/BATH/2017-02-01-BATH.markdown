@@ -8,10 +8,11 @@ permalink: /INGILTERE/BATH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BATH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BATH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BATH';
+* [ (BATH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BATH/)
 </script>
+<script type="text/javascript">

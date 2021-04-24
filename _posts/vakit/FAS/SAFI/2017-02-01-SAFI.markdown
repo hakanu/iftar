@@ -8,10 +8,11 @@ permalink: /FAS/SAFI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAFI, FAS) için iftar ve namaz vakitleri](/FAS/SAFI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'SAFI';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'SAFI';
+* [ (SAFI, FAS) için iftar ve namaz vakitleri](/FAS/SAFI/)
 </script>
+<script type="text/javascript">

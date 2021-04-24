@@ -8,10 +8,11 @@ permalink: /ALMANYA/BARMEN(Wuppertal)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARMEN(Wuppertal), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BARMEN(Wuppertal)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BARMEN(Wuppertal)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BARMEN(Wuppertal)';
+* [ (BARMEN(Wuppertal), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BARMEN(Wuppertal)/)
 </script>
+<script type="text/javascript">

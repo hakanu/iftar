@@ -8,10 +8,11 @@ permalink: /ALMANYA/HAMME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMME, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAMME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HAMME';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HAMME';
+* [ (HAMME, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAMME/)
 </script>
+<script type="text/javascript">

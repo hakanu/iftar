@@ -8,10 +8,11 @@ permalink: /BELCIKA/BERTRIX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERTRIX, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BERTRIX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BERTRIX';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BERTRIX';
+* [ (BERTRIX, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BERTRIX/)
 </script>
+<script type="text/javascript">

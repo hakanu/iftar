@@ -8,10 +8,11 @@ permalink: /TAYVAN/CHIAYI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIAYI, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/CHIAYI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'CHIAYI';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'CHIAYI';
+* [ (CHIAYI, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/CHIAYI/)
 </script>
+<script type="text/javascript">

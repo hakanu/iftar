@@ -8,10 +8,11 @@ permalink: /FAS/MOHAMMEDIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOHAMMEDIA, FAS) için iftar ve namaz vakitleri](/FAS/MOHAMMEDIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'MOHAMMEDIA';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'MOHAMMEDIA';
+* [ (MOHAMMEDIA, FAS) için iftar ve namaz vakitleri](/FAS/MOHAMMEDIA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVEC/KIRUNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRUNA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/KIRUNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'KIRUNA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'KIRUNA';
+* [ (KIRUNA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/KIRUNA/)
 </script>
+<script type="text/javascript">

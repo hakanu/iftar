@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LEIBNITZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEIBNITZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEIBNITZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LEIBNITZ';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LEIBNITZ';
+* [ (LEIBNITZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEIBNITZ/)
 </script>
+<script type="text/javascript">

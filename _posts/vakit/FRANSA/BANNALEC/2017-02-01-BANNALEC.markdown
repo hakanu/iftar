@@ -8,10 +8,11 @@ permalink: /FRANSA/BANNALEC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANNALEC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BANNALEC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BANNALEC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BANNALEC';
+* [ (BANNALEC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BANNALEC/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MACARISTAN/CEGLED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CEGLED, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/CEGLED/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'CEGLED';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'CEGLED';
+* [ (CEGLED, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/CEGLED/)
 </script>
+<script type="text/javascript">

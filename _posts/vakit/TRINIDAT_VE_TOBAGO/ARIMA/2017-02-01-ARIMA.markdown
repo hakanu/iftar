@@ -8,10 +8,11 @@ permalink: /TRINIDAT VE TOBAGO/ARIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARIMA, TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/ARIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TRINIDAT VE TOBAGO';
+
   var GLOBAL_CITY = 'ARIMA';
+  var GLOBAL_COUNTRY = 'TRINIDAT VE TOBAGO';
   var GLOBAL_STATE = 'ARIMA';
+* [ (ARIMA, TRINIDAT_VE_TOBAGO) için iftar ve namaz vakitleri](/TRINIDAT_VE_TOBAGO/ARIMA/)
 </script>
+<script type="text/javascript">

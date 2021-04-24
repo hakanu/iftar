@@ -8,10 +8,11 @@ permalink: /SILI/VALPARAISO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALPARAISO, SILI) için iftar ve namaz vakitleri](/SILI/VALPARAISO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'VALPARAISO';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'VALPARAISO';
+* [ (VALPARAISO, SILI) için iftar ve namaz vakitleri](/SILI/VALPARAISO/)
 </script>
+<script type="text/javascript">

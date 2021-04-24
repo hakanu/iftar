@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CRAIGIEBURN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CRAIGIEBURN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CRAIGIEBURN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CRAIGIEBURN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CRAIGIEBURN';
+* [ (CRAIGIEBURN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CRAIGIEBURN/)
 </script>
+<script type="text/javascript">

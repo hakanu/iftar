@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HOBRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOBRO, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOBRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HOBRO';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HOBRO';
+* [ (HOBRO, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOBRO/)
 </script>
+<script type="text/javascript">

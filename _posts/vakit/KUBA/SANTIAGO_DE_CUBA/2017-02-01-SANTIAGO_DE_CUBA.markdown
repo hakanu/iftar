@@ -8,10 +8,11 @@ permalink: /KUBA/SANTIAGO DE CUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTIAGO_DE_CUBA, KUBA) için iftar ve namaz vakitleri](/KUBA/SANTIAGO_DE_CUBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'SANTIAGO DE CUBA';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'SANTIAGO DE CUBA';
+* [ (SANTIAGO_DE_CUBA, KUBA) için iftar ve namaz vakitleri](/KUBA/SANTIAGO_DE_CUBA/)
 </script>
+<script type="text/javascript">

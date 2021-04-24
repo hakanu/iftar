@@ -8,10 +8,11 @@ permalink: /HINDISTAN/HISAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HISAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/HISAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'HISAR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'HISAR';
+* [ (HISAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/HISAR/)
 </script>
+<script type="text/javascript">

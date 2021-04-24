@@ -8,10 +8,11 @@ permalink: /SUDAN/WADI HALFA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WADI_HALFA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/WADI_HALFA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SUDAN';
+
   var GLOBAL_CITY = 'WADI HALFA';
+  var GLOBAL_COUNTRY = 'SUDAN';
   var GLOBAL_STATE = 'WADI HALFA';
+* [ (WADI_HALFA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/WADI_HALFA/)
 </script>
+<script type="text/javascript">

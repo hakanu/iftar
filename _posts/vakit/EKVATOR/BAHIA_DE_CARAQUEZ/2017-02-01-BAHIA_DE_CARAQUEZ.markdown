@@ -8,10 +8,11 @@ permalink: /EKVATOR/BAHIA DE CARAQUEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAHIA_DE_CARAQUEZ, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/BAHIA_DE_CARAQUEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'BAHIA DE CARAQUEZ';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'BAHIA DE CARAQUEZ';
+* [ (BAHIA_DE_CARAQUEZ, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/BAHIA_DE_CARAQUEZ/)
 </script>
+<script type="text/javascript">

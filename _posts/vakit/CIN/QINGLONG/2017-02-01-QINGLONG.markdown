@@ -8,10 +8,11 @@ permalink: /CIN/QINGLONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QINGLONG, CIN) için iftar ve namaz vakitleri](/CIN/QINGLONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QINGLONG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QINGLONG';
+* [ (QINGLONG, CIN) için iftar ve namaz vakitleri](/CIN/QINGLONG/)
 </script>
+<script type="text/javascript">

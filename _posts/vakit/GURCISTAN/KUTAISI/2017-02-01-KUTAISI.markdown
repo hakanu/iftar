@@ -8,10 +8,11 @@ permalink: /GURCISTAN/KUTAISI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUTAISI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KUTAISI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'KUTAISI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'KUTAISI';
+* [ (KUTAISI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KUTAISI/)
 </script>
+<script type="text/javascript">

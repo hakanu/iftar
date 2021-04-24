@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/KERKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERKI, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KERKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'KERKI';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'KERKI';
+* [ (KERKI, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KERKI/)
 </script>
+<script type="text/javascript">

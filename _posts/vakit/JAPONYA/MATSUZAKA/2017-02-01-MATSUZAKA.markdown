@@ -8,10 +8,11 @@ permalink: /JAPONYA/MATSUZAKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATSUZAKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MATSUZAKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'MATSUZAKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'MATSUZAKA';
+* [ (MATSUZAKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MATSUZAKA/)
 </script>
+<script type="text/javascript">

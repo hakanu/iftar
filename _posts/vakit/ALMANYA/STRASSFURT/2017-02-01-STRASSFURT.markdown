@@ -8,10 +8,11 @@ permalink: /ALMANYA/STRASSFURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRASSFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STRASSFURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STRASSFURT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STRASSFURT';
+* [ (STRASSFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STRASSFURT/)
 </script>
+<script type="text/javascript">

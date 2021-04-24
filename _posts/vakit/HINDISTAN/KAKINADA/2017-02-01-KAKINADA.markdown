@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KAKINADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAKINADA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KAKINADA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KAKINADA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KAKINADA';
+* [ (KAKINADA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KAKINADA/)
 </script>
+<script type="text/javascript">

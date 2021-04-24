@@ -8,10 +8,11 @@ permalink: /POLONYA/VARSOVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VARSOVA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/VARSOVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'VARSOVA';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'VARSOVA';
+* [ (VARSOVA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/VARSOVA/)
 </script>
+<script type="text/javascript">

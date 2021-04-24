@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVOKUZNETSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVOKUZNETSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOKUZNETSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVOKUZNETSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVOKUZNETSK';
+* [ (NOVOKUZNETSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOKUZNETSK/)
 </script>
+<script type="text/javascript">

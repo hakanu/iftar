@@ -8,10 +8,11 @@ permalink: /ALMANYA/GEORGSMARIENHUTTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEORGSMARIENHUTTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEORGSMARIENHUTTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GEORGSMARIENHUTTE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GEORGSMARIENHUTTE';
+* [ (GEORGSMARIENHUTTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEORGSMARIENHUTTE/)
 </script>
+<script type="text/javascript">

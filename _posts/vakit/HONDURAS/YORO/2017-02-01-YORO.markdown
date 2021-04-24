@@ -8,10 +8,11 @@ permalink: /HONDURAS/YORO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YORO, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/YORO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'YORO';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'YORO';
+* [ (YORO, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/YORO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BENDIGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENDIGO, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BENDIGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BENDIGO';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BENDIGO';
+* [ (BENDIGO, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BENDIGO/)
 </script>
+<script type="text/javascript">

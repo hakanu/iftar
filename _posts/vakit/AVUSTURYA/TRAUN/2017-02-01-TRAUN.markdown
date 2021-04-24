@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/TRAUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRAUN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/TRAUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'TRAUN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'TRAUN';
+* [ (TRAUN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/TRAUN/)
 </script>
+<script type="text/javascript">

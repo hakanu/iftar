@@ -8,10 +8,11 @@ permalink: /JAPONYA/NAGAOKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGAOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGAOKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NAGAOKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NAGAOKA';
+* [ (NAGAOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGAOKA/)
 </script>
+<script type="text/javascript">

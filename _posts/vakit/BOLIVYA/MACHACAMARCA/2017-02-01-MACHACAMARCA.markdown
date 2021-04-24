@@ -8,10 +8,11 @@ permalink: /BOLIVYA/MACHACAMARCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MACHACAMARCA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/MACHACAMARCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'MACHACAMARCA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'MACHACAMARCA';
+* [ (MACHACAMARCA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/MACHACAMARCA/)
 </script>
+<script type="text/javascript">

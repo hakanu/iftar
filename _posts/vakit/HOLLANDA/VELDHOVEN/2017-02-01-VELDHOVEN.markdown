@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VELDHOVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VELDHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VELDHOVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VELDHOVEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VELDHOVEN';
+* [ (VELDHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VELDHOVEN/)
 </script>
+<script type="text/javascript">

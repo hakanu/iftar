@@ -8,10 +8,11 @@ permalink: /RUSYA/TAMBOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAMBOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TAMBOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TAMBOV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TAMBOV';
+* [ (TAMBOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TAMBOV/)
 </script>
+<script type="text/javascript">

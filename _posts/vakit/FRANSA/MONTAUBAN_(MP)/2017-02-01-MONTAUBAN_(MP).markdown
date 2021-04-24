@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTAUBAN (MP)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTAUBAN_(MP), FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTAUBAN_(MP)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTAUBAN (MP)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTAUBAN (MP)';
+* [ (MONTAUBAN_(MP), FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTAUBAN_(MP)/)
 </script>
+<script type="text/javascript">

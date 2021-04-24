@@ -8,10 +8,11 @@ permalink: /PANAMA/CHITRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHITRE, PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHITRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'CHITRE';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'CHITRE';
+* [ (CHITRE, PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHITRE/)
 </script>
+<script type="text/javascript">

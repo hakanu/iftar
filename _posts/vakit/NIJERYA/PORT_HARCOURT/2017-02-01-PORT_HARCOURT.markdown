@@ -8,10 +8,11 @@ permalink: /NIJERYA/PORT HARCOURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT_HARCOURT, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/PORT_HARCOURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'PORT HARCOURT';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'PORT HARCOURT';
+* [ (PORT_HARCOURT, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/PORT_HARCOURT/)
 </script>
+<script type="text/javascript">

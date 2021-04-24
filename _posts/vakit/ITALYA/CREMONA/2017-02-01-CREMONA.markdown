@@ -8,10 +8,11 @@ permalink: /ITALYA/CREMONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CREMONA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CREMONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CREMONA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CREMONA';
+* [ (CREMONA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CREMONA/)
 </script>
+<script type="text/javascript">

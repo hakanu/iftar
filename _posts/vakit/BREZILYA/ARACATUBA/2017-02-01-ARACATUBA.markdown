@@ -8,10 +8,11 @@ permalink: /BREZILYA/ARACATUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARACATUBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ARACATUBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ARACATUBA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ARACATUBA';
+* [ (ARACATUBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ARACATUBA/)
 </script>
+<script type="text/javascript">

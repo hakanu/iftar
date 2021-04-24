@@ -8,10 +8,11 @@ permalink: /ALMANYA/STOLLBERG (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STOLLBERG_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STOLLBERG_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STOLLBERG (S)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STOLLBERG (S)';
+* [ (STOLLBERG_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STOLLBERG_(S)/)
 </script>
+<script type="text/javascript">

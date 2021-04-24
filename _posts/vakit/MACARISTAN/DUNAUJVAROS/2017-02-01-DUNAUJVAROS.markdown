@@ -8,10 +8,11 @@ permalink: /MACARISTAN/DUNAUJVAROS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUNAUJVAROS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/DUNAUJVAROS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'DUNAUJVAROS';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'DUNAUJVAROS';
+* [ (DUNAUJVAROS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/DUNAUJVAROS/)
 </script>
+<script type="text/javascript">

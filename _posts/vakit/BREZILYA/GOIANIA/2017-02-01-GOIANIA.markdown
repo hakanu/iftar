@@ -8,10 +8,11 @@ permalink: /BREZILYA/GOIANIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOIANIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GOIANIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'GOIANIA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'GOIANIA';
+* [ (GOIANIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GOIANIA/)
 </script>
+<script type="text/javascript">

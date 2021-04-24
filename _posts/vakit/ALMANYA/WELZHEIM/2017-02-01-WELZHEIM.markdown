@@ -8,10 +8,11 @@ permalink: /ALMANYA/WELZHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WELZHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WELZHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WELZHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WELZHEIM';
+* [ (WELZHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WELZHEIM/)
 </script>
+<script type="text/javascript">

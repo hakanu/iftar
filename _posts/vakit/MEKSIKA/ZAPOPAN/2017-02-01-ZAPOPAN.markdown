@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ZAPOPAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAPOPAN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ZAPOPAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ZAPOPAN';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ZAPOPAN';
+* [ (ZAPOPAN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ZAPOPAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/SUKANEGARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUKANEGARA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SUKANEGARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'SUKANEGARA';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'SUKANEGARA';
+* [ (SUKANEGARA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SUKANEGARA/)
 </script>
+<script type="text/javascript">

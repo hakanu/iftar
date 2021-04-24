@@ -8,4 +8,5 @@ permalink: /MIKRONEZYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [PALIKIR (MIKRONEZYA) için iftar ve namaz vakitleri](/MIKRONEZYA/PALIKIR)

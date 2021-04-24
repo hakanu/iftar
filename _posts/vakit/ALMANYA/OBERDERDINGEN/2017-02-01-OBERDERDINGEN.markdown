@@ -8,10 +8,11 @@ permalink: /ALMANYA/OBERDERDINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERDERDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERDERDINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OBERDERDINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OBERDERDINGEN';
+* [ (OBERDERDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERDERDINGEN/)
 </script>
+<script type="text/javascript">

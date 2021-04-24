@@ -8,10 +8,11 @@ permalink: /FRANSA/CHAROST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHAROST, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHAROST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHAROST';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHAROST';
+* [ (CHAROST, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHAROST/)
 </script>
+<script type="text/javascript">

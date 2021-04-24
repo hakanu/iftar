@@ -8,10 +8,11 @@ permalink: /UKRAYNA/VORONKOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VORONKOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VORONKOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'VORONKOV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'VORONKOV';
+* [ (VORONKOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VORONKOV/)
 </script>
+<script type="text/javascript">

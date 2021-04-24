@@ -8,10 +8,11 @@ permalink: /SUDAN/KASSALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASSALA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/KASSALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SUDAN';
+
   var GLOBAL_CITY = 'KASSALA';
+  var GLOBAL_COUNTRY = 'SUDAN';
   var GLOBAL_STATE = 'KASSALA';
+* [ (KASSALA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/KASSALA/)
 </script>
+<script type="text/javascript">

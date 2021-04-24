@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/MEDINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEDINE, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/MEDINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'MEDINE';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'MEDINE';
+* [ (MEDINE, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/MEDINE/)
 </script>
+<script type="text/javascript">

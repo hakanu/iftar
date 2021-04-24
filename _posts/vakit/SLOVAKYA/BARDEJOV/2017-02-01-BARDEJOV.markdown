@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/BARDEJOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARDEJOV, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BARDEJOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'BARDEJOV';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'BARDEJOV';
+* [ (BARDEJOV, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BARDEJOV/)
 </script>
+<script type="text/javascript">

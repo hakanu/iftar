@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO LUIS (Maranhao)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_LUIS_(Maranhao), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_LUIS_(Maranhao)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO LUIS (Maranhao)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO LUIS (Maranhao)';
+* [ (SAO_LUIS_(Maranhao), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_LUIS_(Maranhao)/)
 </script>
+<script type="text/javascript">

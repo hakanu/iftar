@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KALAMARIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALAMARIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KALAMARIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KALAMARIA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KALAMARIA';
+* [ (KALAMARIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KALAMARIA/)
 </script>
+<script type="text/javascript">

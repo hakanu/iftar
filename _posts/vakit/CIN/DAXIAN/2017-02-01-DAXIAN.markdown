@@ -8,10 +8,11 @@ permalink: /CIN/DAXIAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAXIAN, CIN) için iftar ve namaz vakitleri](/CIN/DAXIAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DAXIAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DAXIAN';
+* [ (DAXIAN, CIN) için iftar ve namaz vakitleri](/CIN/DAXIAN/)
 </script>
+<script type="text/javascript">

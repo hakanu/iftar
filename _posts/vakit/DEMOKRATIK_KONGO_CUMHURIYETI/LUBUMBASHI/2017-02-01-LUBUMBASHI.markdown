@@ -8,10 +8,11 @@ permalink: /DEMOKRATIK KONGO CUMHURIYETI/LUBUMBASHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUBUMBASHI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/LUBUMBASHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
+
   var GLOBAL_CITY = 'LUBUMBASHI';
+  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
   var GLOBAL_STATE = 'LUBUMBASHI';
+* [ (LUBUMBASHI, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/LUBUMBASHI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /EL SALVADOR/ZACATECOLUCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZACATECOLUCA, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/ZACATECOLUCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EL SALVADOR';
+
   var GLOBAL_CITY = 'ZACATECOLUCA';
+  var GLOBAL_COUNTRY = 'EL SALVADOR';
   var GLOBAL_STATE = 'ZACATECOLUCA';
+* [ (ZACATECOLUCA, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/ZACATECOLUCA/)
 </script>
+<script type="text/javascript">

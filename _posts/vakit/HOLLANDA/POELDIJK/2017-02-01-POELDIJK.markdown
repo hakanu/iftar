@@ -8,10 +8,11 @@ permalink: /HOLLANDA/POELDIJK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POELDIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/POELDIJK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'POELDIJK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'POELDIJK';
+* [ (POELDIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/POELDIJK/)
 </script>
+<script type="text/javascript">

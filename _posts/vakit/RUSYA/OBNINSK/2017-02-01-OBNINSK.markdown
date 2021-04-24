@@ -8,10 +8,11 @@ permalink: /RUSYA/OBNINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBNINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/OBNINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'OBNINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'OBNINSK';
+* [ (OBNINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/OBNINSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/RUMILLY (H)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUMILLY_(H), FRANSA) için iftar ve namaz vakitleri](/FRANSA/RUMILLY_(H)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RUMILLY (H)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RUMILLY (H)';
+* [ (RUMILLY_(H), FRANSA) için iftar ve namaz vakitleri](/FRANSA/RUMILLY_(H)/)
 </script>
+<script type="text/javascript">

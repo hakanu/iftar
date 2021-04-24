@@ -8,10 +8,11 @@ permalink: /ALMANYA/EMDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EMDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EMDEN';
+* [ (EMDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EMDEN/)
 </script>
+<script type="text/javascript">

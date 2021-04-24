@@ -8,10 +8,11 @@ permalink: /FRANSA/MEHUN-SUR-YEVRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEHUN-SUR-YEVRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MEHUN-SUR-YEVRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MEHUN-SUR-YEVRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MEHUN-SUR-YEVRE';
+* [ (MEHUN-SUR-YEVRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MEHUN-SUR-YEVRE/)
 </script>
+<script type="text/javascript">

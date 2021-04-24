@@ -8,10 +8,11 @@ permalink: /ALMANYA/LOLLAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOLLAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOLLAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LOLLAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LOLLAR';
+* [ (LOLLAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOLLAR/)
 </script>
+<script type="text/javascript">

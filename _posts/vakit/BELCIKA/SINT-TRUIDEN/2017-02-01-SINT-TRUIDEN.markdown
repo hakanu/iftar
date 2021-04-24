@@ -8,10 +8,11 @@ permalink: /BELCIKA/SINT-TRUIDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINT-TRUIDEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SINT-TRUIDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'SINT-TRUIDEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'SINT-TRUIDEN';
+* [ (SINT-TRUIDEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SINT-TRUIDEN/)
 </script>
+<script type="text/javascript">

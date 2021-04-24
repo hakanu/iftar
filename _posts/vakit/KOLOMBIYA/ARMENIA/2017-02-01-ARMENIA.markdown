@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/ARMENIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARMENIA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/ARMENIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'ARMENIA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'ARMENIA';
+* [ (ARMENIA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/ARMENIA/)
 </script>
+<script type="text/javascript">

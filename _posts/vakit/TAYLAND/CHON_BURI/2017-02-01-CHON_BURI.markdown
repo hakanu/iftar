@@ -8,10 +8,11 @@ permalink: /TAYLAND/CHON BURI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHON_BURI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/CHON_BURI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'CHON BURI';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'CHON BURI';
+* [ (CHON_BURI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/CHON_BURI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/PEREIRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PEREIRA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/PEREIRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'PEREIRA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'PEREIRA';
+* [ (PEREIRA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/PEREIRA/)
 </script>
+<script type="text/javascript">

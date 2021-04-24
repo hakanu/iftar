@@ -8,10 +8,11 @@ permalink: /ALMANYA/MOOSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOOSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOOSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MOOSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MOOSBURG';
+* [ (MOOSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOOSBURG/)
 </script>
+<script type="text/javascript">

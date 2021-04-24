@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/LARISA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LARISA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/LARISA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'LARISA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'LARISA';
+* [ (LARISA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/LARISA/)
 </script>
+<script type="text/javascript">

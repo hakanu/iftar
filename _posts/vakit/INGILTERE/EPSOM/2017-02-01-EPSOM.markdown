@@ -8,10 +8,11 @@ permalink: /INGILTERE/EPSOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EPSOM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/EPSOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'EPSOM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'EPSOM';
+* [ (EPSOM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/EPSOM/)
 </script>
+<script type="text/javascript">

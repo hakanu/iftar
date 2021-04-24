@@ -8,10 +8,11 @@ permalink: /HOLLANDA/POORTUGAAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POORTUGAAL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/POORTUGAAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'POORTUGAAL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'POORTUGAAL';
+* [ (POORTUGAAL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/POORTUGAAL/)
 </script>
+<script type="text/javascript">

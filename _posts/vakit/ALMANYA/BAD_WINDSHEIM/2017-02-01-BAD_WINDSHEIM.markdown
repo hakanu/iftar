@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD WINDSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_WINDSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_WINDSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD WINDSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD WINDSHEIM';
+* [ (BAD_WINDSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_WINDSHEIM/)
 </script>
+<script type="text/javascript">

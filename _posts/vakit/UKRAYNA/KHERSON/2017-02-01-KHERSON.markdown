@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KHERSON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHERSON, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KHERSON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KHERSON';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KHERSON';
+* [ (KHERSON, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KHERSON/)
 </script>
+<script type="text/javascript">

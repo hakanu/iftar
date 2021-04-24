@@ -8,10 +8,11 @@ permalink: /BELCIKA/VILVOORDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILVOORDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/VILVOORDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'VILVOORDE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'VILVOORDE';
+* [ (VILVOORDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/VILVOORDE/)
 </script>
+<script type="text/javascript">

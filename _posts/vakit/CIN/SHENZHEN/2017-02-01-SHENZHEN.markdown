@@ -8,10 +8,11 @@ permalink: /CIN/SHENZHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHENZHEN, CIN) için iftar ve namaz vakitleri](/CIN/SHENZHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHENZHEN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHENZHEN';
+* [ (SHENZHEN, CIN) için iftar ve namaz vakitleri](/CIN/SHENZHEN/)
 </script>
+<script type="text/javascript">

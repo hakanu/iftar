@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAUINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAUINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAUINGEN';
+* [ (LAUINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUINGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MORITANYA/BOUTİLİMİT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOUTİLİMİT, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/BOUTİLİMİT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'BOUTİLİMİT';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'BOUTİLİMİT';
+* [ (BOUTİLİMİT, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/BOUTİLİMİT/)
 </script>
+<script type="text/javascript">

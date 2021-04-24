@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BHOPAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BHOPAL, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHOPAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BHOPAL';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BHOPAL';
+* [ (BHOPAL, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHOPAL/)
 </script>
+<script type="text/javascript">

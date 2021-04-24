@@ -8,10 +8,11 @@ permalink: /KARADAG/MAHALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAHALA, KARADAG) için iftar ve namaz vakitleri](/KARADAG/MAHALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'MAHALA';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'MAHALA';
+* [ (MAHALA, KARADAG) için iftar ve namaz vakitleri](/KARADAG/MAHALA/)
 </script>
+<script type="text/javascript">

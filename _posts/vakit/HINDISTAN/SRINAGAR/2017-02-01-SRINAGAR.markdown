@@ -8,10 +8,11 @@ permalink: /HINDISTAN/SRINAGAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SRINAGAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SRINAGAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'SRINAGAR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'SRINAGAR';
+* [ (SRINAGAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SRINAGAR/)
 </script>
+<script type="text/javascript">

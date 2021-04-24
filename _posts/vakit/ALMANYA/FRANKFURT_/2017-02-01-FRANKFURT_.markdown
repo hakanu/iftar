@@ -8,10 +8,11 @@ permalink: /ALMANYA/FRANKFURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [_ODER (FRANKFURT_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRANKFURT_/_ODER)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FRANKFURT ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FRANKFURT ';
+* [_ODER (FRANKFURT_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRANKFURT_/_ODER)
 </script>
+<script type="text/javascript">

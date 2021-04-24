@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/LENGER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENGER_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/LENGER_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'LENGER ';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'LENGER ';
+* [ (LENGER_, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/LENGER_/)
 </script>
+<script type="text/javascript">

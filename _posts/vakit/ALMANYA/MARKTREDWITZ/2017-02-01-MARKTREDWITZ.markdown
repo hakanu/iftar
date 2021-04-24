@@ -8,10 +8,11 @@ permalink: /ALMANYA/MARKTREDWITZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARKTREDWITZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKTREDWITZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MARKTREDWITZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MARKTREDWITZ';
+* [ (MARKTREDWITZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKTREDWITZ/)
 </script>
+<script type="text/javascript">

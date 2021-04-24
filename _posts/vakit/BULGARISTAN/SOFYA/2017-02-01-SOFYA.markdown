@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/SOFYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOFYA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SOFYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'SOFYA';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'SOFYA';
+* [ (SOFYA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SOFYA/)
 </script>
+<script type="text/javascript">

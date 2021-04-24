@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/RADOVIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RADOVIS_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/RADOVIS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'RADOVIS ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'RADOVIS ';
+* [ (RADOVIS_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/RADOVIS_/)
 </script>
+<script type="text/javascript">

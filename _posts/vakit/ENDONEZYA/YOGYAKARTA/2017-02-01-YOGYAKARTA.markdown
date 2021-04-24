@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/YOGYAKARTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YOGYAKARTA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/YOGYAKARTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'YOGYAKARTA';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'YOGYAKARTA';
+* [ (YOGYAKARTA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/YOGYAKARTA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/BEROVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEROVO_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/BEROVO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'BEROVO ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'BEROVO ';
+* [ (BEROVO_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/BEROVO_/)
 </script>
+<script type="text/javascript">

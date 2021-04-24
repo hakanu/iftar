@@ -8,10 +8,11 @@ permalink: /ALMANYA/MUNSTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUNSTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNSTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MUNSTER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MUNSTER';
+* [ (MUNSTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUNSTER/)
 </script>
+<script type="text/javascript">

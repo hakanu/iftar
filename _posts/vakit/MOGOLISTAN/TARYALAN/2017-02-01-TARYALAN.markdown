@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/TARYALAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARYALAN, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TARYALAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'TARYALAN';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'TARYALAN';
+* [ (TARYALAN, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TARYALAN/)
 </script>
+<script type="text/javascript">

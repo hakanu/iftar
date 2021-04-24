@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/YOLOTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YOLOTEN_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/YOLOTEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'YOLOTEN ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'YOLOTEN ';
+* [ (YOLOTEN_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/YOLOTEN_/)
 </script>
+<script type="text/javascript">

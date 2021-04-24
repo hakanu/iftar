@@ -8,10 +8,11 @@ permalink: /ZIMBABVE/CHITUNGWIZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHITUNGWIZA, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/CHITUNGWIZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZIMBABVE';
+
   var GLOBAL_CITY = 'CHITUNGWIZA';
+  var GLOBAL_COUNTRY = 'ZIMBABVE';
   var GLOBAL_STATE = 'CHITUNGWIZA';
+* [ (CHITUNGWIZA, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/CHITUNGWIZA/)
 </script>
+<script type="text/javascript">

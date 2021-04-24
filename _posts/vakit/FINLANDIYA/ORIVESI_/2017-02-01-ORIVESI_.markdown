@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/ORIVESI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORIVESI_, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/ORIVESI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'ORIVESI ';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'ORIVESI ';
+* [ (ORIVESI_, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/ORIVESI_/)
 </script>
+<script type="text/javascript">

@@ -8,11 +8,12 @@ permalink: /ALMANYA/DETTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'DETTINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_STATE = 'DETTINGEN';
 * [ERMS (DETTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DETTINGEN/ERMS)
 * [TECK_ (DETTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DETTINGEN/TECK_)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
-  var GLOBAL_CITY = 'DETTINGEN';
-  var GLOBAL_STATE = 'DETTINGEN';
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/BERNAY (E )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERNAY_(E_), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BERNAY_(E_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BERNAY (E )';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BERNAY (E )';
+* [ (BERNAY_(E_), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BERNAY_(E_)/)
 </script>
+<script type="text/javascript">

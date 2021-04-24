@@ -8,10 +8,11 @@ permalink: /CIN/MUDANJIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUDANJIANG, CIN) için iftar ve namaz vakitleri](/CIN/MUDANJIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'MUDANJIANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'MUDANJIANG';
+* [ (MUDANJIANG, CIN) için iftar ve namaz vakitleri](/CIN/MUDANJIANG/)
 </script>
+<script type="text/javascript">

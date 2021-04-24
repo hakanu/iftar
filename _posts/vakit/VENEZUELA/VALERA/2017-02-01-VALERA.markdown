@@ -8,10 +8,11 @@ permalink: /VENEZUELA/VALERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALERA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/VALERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'VALERA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'VALERA';
+* [ (VALERA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/VALERA/)
 </script>
+<script type="text/javascript">

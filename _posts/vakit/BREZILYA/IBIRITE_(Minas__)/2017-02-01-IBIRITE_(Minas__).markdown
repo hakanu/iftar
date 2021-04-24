@@ -8,10 +8,11 @@ permalink: /BREZILYA/IBIRITE (Minas__)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IBIRITE_(Minas__), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/IBIRITE_(Minas__)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'IBIRITE (Minas__)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'IBIRITE (Minas__)';
+* [ (IBIRITE_(Minas__), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/IBIRITE_(Minas__)/)
 </script>
+<script type="text/javascript">

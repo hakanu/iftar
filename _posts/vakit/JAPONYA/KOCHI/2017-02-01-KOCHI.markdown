@@ -8,10 +8,11 @@ permalink: /JAPONYA/KOCHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOCHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KOCHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KOCHI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KOCHI';
+* [ (KOCHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KOCHI/)
 </script>
+<script type="text/javascript">

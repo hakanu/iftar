@@ -8,10 +8,11 @@ permalink: /CIN/QINGDAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QINGDAO, CIN) için iftar ve namaz vakitleri](/CIN/QINGDAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QINGDAO';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QINGDAO';
+* [ (QINGDAO, CIN) için iftar ve namaz vakitleri](/CIN/QINGDAO/)
 </script>
+<script type="text/javascript">

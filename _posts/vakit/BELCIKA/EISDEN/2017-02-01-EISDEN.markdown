@@ -8,10 +8,11 @@ permalink: /BELCIKA/EISDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EISDEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/EISDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'EISDEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'EISDEN';
+* [ (EISDEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/EISDEN/)
 </script>
+<script type="text/javascript">

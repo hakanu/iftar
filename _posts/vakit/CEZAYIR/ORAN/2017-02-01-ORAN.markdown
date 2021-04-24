@@ -8,10 +8,11 @@ permalink: /CEZAYIR/ORAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORAN, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/ORAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'ORAN';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'ORAN';
+* [ (ORAN, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/ORAN/)
 </script>
+<script type="text/javascript">

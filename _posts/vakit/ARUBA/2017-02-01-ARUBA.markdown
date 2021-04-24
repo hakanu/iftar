@@ -8,4 +8,5 @@ permalink: /ARUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [ORANJESTAD (ARUBA) için iftar ve namaz vakitleri](/ARUBA/ORANJESTAD)

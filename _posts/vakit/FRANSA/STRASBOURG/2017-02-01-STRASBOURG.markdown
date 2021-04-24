@@ -8,10 +8,11 @@ permalink: /FRANSA/STRASBOURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRASBOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/STRASBOURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'STRASBOURG';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'STRASBOURG';
+* [ (STRASBOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/STRASBOURG/)
 </script>
+<script type="text/javascript">

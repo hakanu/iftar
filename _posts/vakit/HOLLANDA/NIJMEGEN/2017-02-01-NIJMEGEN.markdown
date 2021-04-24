@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NIJMEGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIJMEGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NIJMEGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NIJMEGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NIJMEGEN';
+* [ (NIJMEGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NIJMEGEN/)
 </script>
+<script type="text/javascript">

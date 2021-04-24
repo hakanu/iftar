@@ -8,10 +8,11 @@ permalink: /ALMANYA/RODING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RODING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RODING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RODING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RODING';
+* [ (RODING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RODING/)
 </script>
+<script type="text/javascript">

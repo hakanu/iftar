@@ -8,10 +8,11 @@ permalink: /IRAK/AR RAMADI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AR_RAMADI, IRAK) için iftar ve namaz vakitleri](/IRAK/AR_RAMADI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'AR RAMADI';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'AR RAMADI';
+* [ (AR_RAMADI, IRAK) için iftar ve namaz vakitleri](/IRAK/AR_RAMADI/)
 </script>
+<script type="text/javascript">

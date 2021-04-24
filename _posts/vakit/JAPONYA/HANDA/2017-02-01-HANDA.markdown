@@ -8,10 +8,11 @@ permalink: /JAPONYA/HANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HANDA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HANDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HANDA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HANDA';
+* [ (HANDA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HANDA/)
 </script>
+<script type="text/javascript">

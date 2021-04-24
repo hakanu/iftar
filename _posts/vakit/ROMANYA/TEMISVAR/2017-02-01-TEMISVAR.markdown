@@ -8,10 +8,11 @@ permalink: /ROMANYA/TEMISVAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEMISVAR, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TEMISVAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'TEMISVAR';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'TEMISVAR';
+* [ (TEMISVAR, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TEMISVAR/)
 </script>
+<script type="text/javascript">

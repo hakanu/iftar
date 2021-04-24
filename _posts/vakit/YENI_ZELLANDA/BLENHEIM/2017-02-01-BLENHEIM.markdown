@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/BLENHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLENHEIM, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/BLENHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'BLENHEIM';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'BLENHEIM';
+* [ (BLENHEIM, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/BLENHEIM/)
 </script>
+<script type="text/javascript">

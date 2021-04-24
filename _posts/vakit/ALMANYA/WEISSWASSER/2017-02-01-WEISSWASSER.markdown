@@ -8,10 +8,11 @@ permalink: /ALMANYA/WEISSWASSER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEISSWASSER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEISSWASSER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WEISSWASSER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WEISSWASSER';
+* [ (WEISSWASSER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEISSWASSER/)
 </script>
+<script type="text/javascript">

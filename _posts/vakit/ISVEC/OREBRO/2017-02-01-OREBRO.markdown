@@ -8,10 +8,11 @@ permalink: /ISVEC/OREBRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OREBRO, ISVEC) için iftar ve namaz vakitleri](/ISVEC/OREBRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'OREBRO';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'OREBRO';
+* [ (OREBRO, ISVEC) için iftar ve namaz vakitleri](/ISVEC/OREBRO/)
 </script>
+<script type="text/javascript">

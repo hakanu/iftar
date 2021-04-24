@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/DANDENONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DANDENONG, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DANDENONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'DANDENONG';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'DANDENONG';
+* [ (DANDENONG, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DANDENONG/)
 </script>
+<script type="text/javascript">

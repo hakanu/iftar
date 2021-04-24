@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/SURABAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SURABAYA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SURABAYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'SURABAYA';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'SURABAYA';
+* [ (SURABAYA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SURABAYA/)
 </script>
+<script type="text/javascript">

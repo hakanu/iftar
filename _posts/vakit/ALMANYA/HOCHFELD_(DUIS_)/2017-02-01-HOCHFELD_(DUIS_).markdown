@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOCHFELD (DUIS_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOCHFELD_(DUIS_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOCHFELD_(DUIS_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOCHFELD (DUIS_)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOCHFELD (DUIS_)';
+* [ (HOCHFELD_(DUIS_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOCHFELD_(DUIS_)/)
 </script>
+<script type="text/javascript">

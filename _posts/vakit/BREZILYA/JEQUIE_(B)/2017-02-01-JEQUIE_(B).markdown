@@ -8,10 +8,11 @@ permalink: /BREZILYA/JEQUIE (B)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JEQUIE_(B), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JEQUIE_(B)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'JEQUIE (B)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'JEQUIE (B)';
+* [ (JEQUIE_(B), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JEQUIE_(B)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /VENEZUELA/BARQUISIMETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARQUISIMETO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARQUISIMETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'BARQUISIMETO';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'BARQUISIMETO';
+* [ (BARQUISIMETO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARQUISIMETO/)
 </script>
+<script type="text/javascript">

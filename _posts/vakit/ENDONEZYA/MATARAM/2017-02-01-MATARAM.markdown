@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/MATARAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATARAM, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MATARAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'MATARAM';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'MATARAM';
+* [ (MATARAM, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MATARAM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/NAGOYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGOYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGOYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NAGOYA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NAGOYA';
+* [ (NAGOYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGOYA/)
 </script>
+<script type="text/javascript">

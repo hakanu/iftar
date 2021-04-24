@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CHELSEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHELSEA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CHELSEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CHELSEA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CHELSEA';
+* [ (CHELSEA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CHELSEA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/WODZISLAW SLASKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WODZISLAW_SLASKI, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WODZISLAW_SLASKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'WODZISLAW SLASKI';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'WODZISLAW SLASKI';
+* [ (WODZISLAW_SLASKI, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WODZISLAW_SLASKI/)
 </script>
+<script type="text/javascript">

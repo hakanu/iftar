@@ -8,10 +8,11 @@ permalink: /ALMANYA/RAISDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAISDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RAISDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RAISDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RAISDORF';
+* [ (RAISDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RAISDORF/)
 </script>
+<script type="text/javascript">

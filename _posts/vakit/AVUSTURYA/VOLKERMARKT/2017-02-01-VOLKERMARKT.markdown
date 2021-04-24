@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/VOLKERMARKT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLKERMARKT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOLKERMARKT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'VOLKERMARKT';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'VOLKERMARKT';
+* [ (VOLKERMARKT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOLKERMARKT/)
 </script>
+<script type="text/javascript">

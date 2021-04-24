@@ -8,10 +8,11 @@ permalink: /UGANDA/KITGUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KITGUM, UGANDA) için iftar ve namaz vakitleri](/UGANDA/KITGUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UGANDA';
+
   var GLOBAL_CITY = 'KITGUM';
+  var GLOBAL_COUNTRY = 'UGANDA';
   var GLOBAL_STATE = 'KITGUM';
+* [ (KITGUM, UGANDA) için iftar ve namaz vakitleri](/UGANDA/KITGUM/)
 </script>
+<script type="text/javascript">

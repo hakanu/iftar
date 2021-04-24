@@ -8,10 +8,11 @@ permalink: /BREZILYA/ITAGUAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ITAGUAI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITAGUAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ITAGUAI';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ITAGUAI';
+* [ (ITAGUAI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITAGUAI/)
 </script>
+<script type="text/javascript">

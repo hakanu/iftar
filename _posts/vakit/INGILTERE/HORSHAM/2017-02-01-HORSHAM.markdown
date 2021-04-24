@@ -8,10 +8,11 @@ permalink: /INGILTERE/HORSHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORSHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HORSHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'HORSHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'HORSHAM';
+* [ (HORSHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HORSHAM/)
 </script>
+<script type="text/javascript">

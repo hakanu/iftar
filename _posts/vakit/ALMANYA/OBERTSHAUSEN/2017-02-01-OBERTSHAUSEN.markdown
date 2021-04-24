@@ -8,10 +8,11 @@ permalink: /ALMANYA/OBERTSHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERTSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERTSHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OBERTSHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OBERTSHAUSEN';
+* [ (OBERTSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERTSHAUSEN/)
 </script>
+<script type="text/javascript">

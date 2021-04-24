@@ -8,10 +8,11 @@ permalink: /EKVATOR/IBARRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IBARRA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/IBARRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'IBARRA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'IBARRA';
+* [ (IBARRA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/IBARRA/)
 </script>
+<script type="text/javascript">

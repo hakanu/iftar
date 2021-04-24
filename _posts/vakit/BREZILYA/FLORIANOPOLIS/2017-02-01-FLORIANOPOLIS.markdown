@@ -8,10 +8,11 @@ permalink: /BREZILYA/FLORIANOPOLIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORIANOPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/FLORIANOPOLIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'FLORIANOPOLIS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'FLORIANOPOLIS';
+* [ (FLORIANOPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/FLORIANOPOLIS/)
 </script>
+<script type="text/javascript">

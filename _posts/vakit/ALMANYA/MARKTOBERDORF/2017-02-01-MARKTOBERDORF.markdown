@@ -8,10 +8,11 @@ permalink: /ALMANYA/MARKTOBERDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARKTOBERDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKTOBERDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MARKTOBERDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MARKTOBERDORF';
+* [ (MARKTOBERDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKTOBERDORF/)
 </script>
+<script type="text/javascript">

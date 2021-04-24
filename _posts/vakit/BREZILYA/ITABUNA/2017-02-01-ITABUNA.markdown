@@ -8,10 +8,11 @@ permalink: /BREZILYA/ITABUNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ITABUNA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITABUNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ITABUNA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ITABUNA';
+* [ (ITABUNA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITABUNA/)
 </script>
+<script type="text/javascript">

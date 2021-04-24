@@ -8,10 +8,11 @@ permalink: /CIN/FOSHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOSHAN, CIN) için iftar ve namaz vakitleri](/CIN/FOSHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FOSHAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FOSHAN';
+* [ (FOSHAN, CIN) için iftar ve namaz vakitleri](/CIN/FOSHAN/)
 </script>
+<script type="text/javascript">

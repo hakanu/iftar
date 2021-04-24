@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/ROZTOKY (P)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROZTOKY_(P), CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/ROZTOKY_(P)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'ROZTOKY (P)';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'ROZTOKY (P)';
+* [ (ROZTOKY_(P), CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/ROZTOKY_(P)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/MESTANLI (Montana)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MESTANLI_(Montana), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/MESTANLI_(Montana)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'MESTANLI (Montana)';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'MESTANLI (Montana)';
+* [ (MESTANLI_(Montana), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/MESTANLI_(Montana)/)
 </script>
+<script type="text/javascript">

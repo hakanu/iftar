@@ -8,10 +8,11 @@ permalink: /ALMANYA/FURTWANGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURTWANGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURTWANGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FURTWANGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FURTWANGEN';
+* [ (FURTWANGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURTWANGEN/)
 </script>
+<script type="text/javascript">

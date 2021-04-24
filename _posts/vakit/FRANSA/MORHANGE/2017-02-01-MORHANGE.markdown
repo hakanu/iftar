@@ -8,10 +8,11 @@ permalink: /FRANSA/MORHANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORHANGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MORHANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MORHANGE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MORHANGE';
+* [ (MORHANGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MORHANGE/)
 </script>
+<script type="text/javascript">

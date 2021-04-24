@@ -8,10 +8,11 @@ permalink: /JAPONYA/SETAGAYA-KU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SETAGAYA-KU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SETAGAYA-KU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SETAGAYA-KU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SETAGAYA-KU';
+* [ (SETAGAYA-KU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SETAGAYA-KU/)
 </script>
+<script type="text/javascript">

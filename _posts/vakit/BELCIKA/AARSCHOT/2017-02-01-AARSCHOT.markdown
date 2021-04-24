@@ -8,10 +8,11 @@ permalink: /BELCIKA/AARSCHOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AARSCHOT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/AARSCHOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'AARSCHOT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'AARSCHOT';
+* [ (AARSCHOT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/AARSCHOT/)
 </script>
+<script type="text/javascript">

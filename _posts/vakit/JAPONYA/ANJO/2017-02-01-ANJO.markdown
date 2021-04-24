@@ -8,10 +8,11 @@ permalink: /JAPONYA/ANJO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANJO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ANJO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ANJO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ANJO';
+* [ (ANJO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ANJO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/NAUVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAUVO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NAUVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'NAUVO';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'NAUVO';
+* [ (NAUVO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NAUVO/)
 </script>
+<script type="text/javascript">

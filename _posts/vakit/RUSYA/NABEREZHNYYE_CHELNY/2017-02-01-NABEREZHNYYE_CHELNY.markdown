@@ -8,10 +8,11 @@ permalink: /RUSYA/NABEREZHNYYE CHELNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NABEREZHNYYE_CHELNY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NABEREZHNYYE_CHELNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NABEREZHNYYE CHELNY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NABEREZHNYYE CHELNY';
+* [ (NABEREZHNYYE_CHELNY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NABEREZHNYYE_CHELNY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/NUNAWADING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUNAWADING, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NUNAWADING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'NUNAWADING';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'NUNAWADING';
+* [ (NUNAWADING, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NUNAWADING/)
 </script>
+<script type="text/javascript">

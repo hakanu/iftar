@@ -8,5 +8,6 @@ permalink: /EKVATOR_GINESI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MALABO (EKVATOR_GINESI) için iftar ve namaz vakitleri](/EKVATOR_GINESI/MALABO)
+
 * [CIUDAD_DE_LUBA (EKVATOR_GINESI) için iftar ve namaz vakitleri](/EKVATOR_GINESI/CIUDAD_DE_LUBA)
+* [MALABO (EKVATOR_GINESI) için iftar ve namaz vakitleri](/EKVATOR_GINESI/MALABO)

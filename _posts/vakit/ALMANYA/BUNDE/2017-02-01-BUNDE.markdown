@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUNDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUNDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUNDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUNDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUNDE';
+* [ (BUNDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUNDE/)
 </script>
+<script type="text/javascript">

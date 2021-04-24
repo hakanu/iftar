@@ -8,10 +8,11 @@ permalink: /BELCIKA/OUDENAARDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUDENAARDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OUDENAARDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'OUDENAARDE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'OUDENAARDE';
+* [ (OUDENAARDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OUDENAARDE/)
 </script>
+<script type="text/javascript">

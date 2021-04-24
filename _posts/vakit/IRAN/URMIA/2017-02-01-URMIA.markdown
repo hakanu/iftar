@@ -8,10 +8,11 @@ permalink: /IRAN/URMIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URMIA, IRAN) için iftar ve namaz vakitleri](/IRAN/URMIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'URMIA';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'URMIA';
+* [ (URMIA, IRAN) için iftar ve namaz vakitleri](/IRAN/URMIA/)
 </script>
+<script type="text/javascript">

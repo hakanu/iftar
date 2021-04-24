@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/STUPAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STUPAVA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/STUPAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'STUPAVA';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'STUPAVA';
+* [ (STUPAVA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/STUPAVA/)
 </script>
+<script type="text/javascript">

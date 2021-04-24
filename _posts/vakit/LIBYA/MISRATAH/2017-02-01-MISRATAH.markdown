@@ -8,10 +8,11 @@ permalink: /LIBYA/MISRATAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MISRATAH, LIBYA) için iftar ve namaz vakitleri](/LIBYA/MISRATAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBYA';
+
   var GLOBAL_CITY = 'MISRATAH';
+  var GLOBAL_COUNTRY = 'LIBYA';
   var GLOBAL_STATE = 'MISRATAH';
+* [ (MISRATAH, LIBYA) için iftar ve namaz vakitleri](/LIBYA/MISRATAH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ENSCHEDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENSCHEDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ENSCHEDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ENSCHEDE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ENSCHEDE';
+* [ (ENSCHEDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ENSCHEDE/)
 </script>
+<script type="text/javascript">

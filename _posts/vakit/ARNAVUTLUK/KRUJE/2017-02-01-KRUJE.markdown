@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/KRUJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRUJE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/KRUJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'KRUJE';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'KRUJE';
+* [ (KRUJE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/KRUJE/)
 </script>
+<script type="text/javascript">

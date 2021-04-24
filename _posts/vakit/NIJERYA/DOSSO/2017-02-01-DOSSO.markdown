@@ -8,10 +8,11 @@ permalink: /NIJERYA/DOSSO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOSSO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/DOSSO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'DOSSO';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'DOSSO';
+* [ (DOSSO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/DOSSO/)
 </script>
+<script type="text/javascript">

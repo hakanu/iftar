@@ -8,10 +8,11 @@ permalink: /SLOVENYA/KRSKO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRSKO, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KRSKO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'KRSKO';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'KRSKO';
+* [ (KRSKO, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KRSKO/)
 </script>
+<script type="text/javascript">

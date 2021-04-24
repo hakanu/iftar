@@ -8,10 +8,11 @@ permalink: /LIECHTENSTEIN/VADUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VADUZ, LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/VADUZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIECHTENSTEIN';
+
   var GLOBAL_CITY = 'VADUZ';
+  var GLOBAL_COUNTRY = 'LIECHTENSTEIN';
   var GLOBAL_STATE = 'VADUZ';
+* [ (VADUZ, LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/VADUZ/)
 </script>
+<script type="text/javascript">

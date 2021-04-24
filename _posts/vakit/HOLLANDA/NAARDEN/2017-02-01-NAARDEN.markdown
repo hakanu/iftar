@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NAARDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAARDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NAARDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NAARDEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NAARDEN';
+* [ (NAARDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NAARDEN/)
 </script>
+<script type="text/javascript">

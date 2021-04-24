@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ARNHEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARNHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ARNHEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ARNHEM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ARNHEM';
+* [ (ARNHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ARNHEM/)
 </script>
+<script type="text/javascript">

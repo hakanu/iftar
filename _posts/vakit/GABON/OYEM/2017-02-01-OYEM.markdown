@@ -8,10 +8,11 @@ permalink: /GABON/OYEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OYEM, GABON) için iftar ve namaz vakitleri](/GABON/OYEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GABON';
+
   var GLOBAL_CITY = 'OYEM';
+  var GLOBAL_COUNTRY = 'GABON';
   var GLOBAL_STATE = 'OYEM';
+* [ (OYEM, GABON) için iftar ve namaz vakitleri](/GABON/OYEM/)
 </script>
+<script type="text/javascript">

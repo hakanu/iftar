@@ -8,10 +8,11 @@ permalink: /CIN/LIANYUNGANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIANYUNGANG, CIN) için iftar ve namaz vakitleri](/CIN/LIANYUNGANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LIANYUNGANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LIANYUNGANG';
+* [ (LIANYUNGANG, CIN) için iftar ve namaz vakitleri](/CIN/LIANYUNGANG/)
 </script>
+<script type="text/javascript">

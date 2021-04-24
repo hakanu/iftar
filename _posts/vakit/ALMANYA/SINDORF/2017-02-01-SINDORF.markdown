@@ -8,10 +8,11 @@ permalink: /ALMANYA/SINDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SINDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SINDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SINDORF';
+* [ (SINDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SINDORF/)
 </script>
+<script type="text/javascript">

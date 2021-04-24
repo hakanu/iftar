@@ -8,10 +8,11 @@ permalink: /BREZILYA/VALINHOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALINHOS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VALINHOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'VALINHOS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'VALINHOS';
+* [ (VALINHOS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VALINHOS/)
 </script>
+<script type="text/javascript">

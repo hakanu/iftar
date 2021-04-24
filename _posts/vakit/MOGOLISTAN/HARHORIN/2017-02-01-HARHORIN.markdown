@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/HARHORIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARHORIN, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HARHORIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'HARHORIN';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'HARHORIN';
+* [ (HARHORIN, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HARHORIN/)
 </script>
+<script type="text/javascript">

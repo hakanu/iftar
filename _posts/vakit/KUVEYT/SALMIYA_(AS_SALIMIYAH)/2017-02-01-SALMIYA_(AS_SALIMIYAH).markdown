@@ -8,10 +8,11 @@ permalink: /KUVEYT/SALMIYA (AS SALIMIYAH)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALMIYA_(AS_SALIMIYAH), KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/SALMIYA_(AS_SALIMIYAH)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUVEYT';
+
   var GLOBAL_CITY = 'SALMIYA (AS SALIMIYAH)';
+  var GLOBAL_COUNTRY = 'KUVEYT';
   var GLOBAL_STATE = 'SALMIYA (AS SALIMIYAH)';
+* [ (SALMIYA_(AS_SALIMIYAH), KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/SALMIYA_(AS_SALIMIYAH)/)
 </script>
+<script type="text/javascript">

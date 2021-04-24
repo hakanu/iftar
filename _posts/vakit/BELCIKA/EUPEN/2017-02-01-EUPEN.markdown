@@ -8,10 +8,11 @@ permalink: /BELCIKA/EUPEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EUPEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/EUPEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'EUPEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'EUPEN';
+* [ (EUPEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/EUPEN/)
 </script>
+<script type="text/javascript">

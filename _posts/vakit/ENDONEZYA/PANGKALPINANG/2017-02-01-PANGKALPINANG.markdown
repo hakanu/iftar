@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PANGKALPINANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PANGKALPINANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PANGKALPINANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PANGKALPINANG';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PANGKALPINANG';
+* [ (PANGKALPINANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PANGKALPINANG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /IRAK/AL KUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_KUT, IRAK) için iftar ve namaz vakitleri](/IRAK/AL_KUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'AL KUT';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'AL KUT';
+* [ (AL_KUT, IRAK) için iftar ve namaz vakitleri](/IRAK/AL_KUT/)
 </script>
+<script type="text/javascript">

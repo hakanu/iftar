@@ -8,10 +8,11 @@ permalink: /ALMANYA/MELLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MELLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MELLE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MELLE';
+* [ (MELLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MELLE/)
 </script>
+<script type="text/javascript">

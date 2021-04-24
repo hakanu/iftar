@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD HOMBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_HOMBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_HOMBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD HOMBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD HOMBURG';
+* [ (BAD_HOMBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_HOMBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HOOGEVEEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOOGEVEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOGEVEEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HOOGEVEEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HOOGEVEEN';
+* [ (HOOGEVEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOGEVEEN/)
 </script>
+<script type="text/javascript">

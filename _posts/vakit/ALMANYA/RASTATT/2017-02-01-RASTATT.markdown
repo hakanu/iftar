@@ -8,10 +8,11 @@ permalink: /ALMANYA/RASTATT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RASTATT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RASTATT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RASTATT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RASTATT';
+* [ (RASTATT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RASTATT/)
 </script>
+<script type="text/javascript">

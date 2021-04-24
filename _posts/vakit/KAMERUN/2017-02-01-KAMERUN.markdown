@@ -8,11 +8,12 @@ permalink: /KAMERUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [GAROUA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/GAROUA)
-* [NKONGSAMBA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/NKONGSAMBA)
+
 * [BAFOUSSAM (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/BAFOUSSAM)
-* [MAROUA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/MAROUA)
-* [YAOUNDE (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/YAOUNDE)
-* [LIMBE (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/LIMBE)
 * [BAMENDA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/BAMENDA)
 * [DOUALA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/DOUALA)
+* [GAROUA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/GAROUA)
+* [LIMBE (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/LIMBE)
+* [MAROUA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/MAROUA)
+* [NKONGSAMBA (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/NKONGSAMBA)
+* [YAOUNDE (KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/YAOUNDE)

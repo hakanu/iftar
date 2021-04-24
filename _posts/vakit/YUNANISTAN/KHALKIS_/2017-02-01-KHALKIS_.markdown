@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KHALKIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHALKIS_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KHALKIS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KHALKIS ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KHALKIS ';
+* [ (KHALKIS_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KHALKIS_/)
 </script>
+<script type="text/javascript">

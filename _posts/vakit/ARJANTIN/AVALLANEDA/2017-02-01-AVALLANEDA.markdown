@@ -8,10 +8,11 @@ permalink: /ARJANTIN/AVALLANEDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AVALLANEDA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/AVALLANEDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'AVALLANEDA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'AVALLANEDA';
+* [ (AVALLANEDA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/AVALLANEDA/)
 </script>
+<script type="text/javascript">

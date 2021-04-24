@@ -8,10 +8,11 @@ permalink: /BELCIKA/WEVELGEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEVELGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WEVELGEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WEVELGEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WEVELGEM';
+* [ (WEVELGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WEVELGEM/)
 </script>
+<script type="text/javascript">

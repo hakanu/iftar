@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/BUCARAMANGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCARAMANGA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BUCARAMANGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'BUCARAMANGA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'BUCARAMANGA';
+* [ (BUCARAMANGA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BUCARAMANGA/)
 </script>
+<script type="text/javascript">

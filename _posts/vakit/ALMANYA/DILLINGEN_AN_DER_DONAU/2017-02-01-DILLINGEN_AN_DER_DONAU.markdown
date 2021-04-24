@@ -8,10 +8,11 @@ permalink: /ALMANYA/DILLINGEN AN DER DONAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DILLINGEN_AN_DER_DONAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DILLINGEN_AN_DER_DONAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DILLINGEN AN DER DONAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DILLINGEN AN DER DONAU';
+* [ (DILLINGEN_AN_DER_DONAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DILLINGEN_AN_DER_DONAU/)
 </script>
+<script type="text/javascript">

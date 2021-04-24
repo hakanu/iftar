@@ -8,10 +8,11 @@ permalink: /DANIMARKA/KORSOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORSOR, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/KORSOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'KORSOR';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'KORSOR';
+* [ (KORSOR, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/KORSOR/)
 </script>
+<script type="text/javascript">

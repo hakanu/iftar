@@ -8,10 +8,11 @@ permalink: /CIN/ENSHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENSHI, CIN) için iftar ve namaz vakitleri](/CIN/ENSHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ENSHI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ENSHI';
+* [ (ENSHI, CIN) için iftar ve namaz vakitleri](/CIN/ENSHI/)
 </script>
+<script type="text/javascript">

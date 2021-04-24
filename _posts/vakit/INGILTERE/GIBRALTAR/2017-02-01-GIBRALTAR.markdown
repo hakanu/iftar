@@ -8,10 +8,11 @@ permalink: /INGILTERE/GIBRALTAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIBRALTAR, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GIBRALTAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'GIBRALTAR';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'GIBRALTAR';
+* [ (GIBRALTAR, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GIBRALTAR/)
 </script>
+<script type="text/javascript">

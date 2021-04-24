@@ -8,10 +8,11 @@ permalink: /UKRAYNA/OBUKHOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBUKHOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/OBUKHOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'OBUKHOV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'OBUKHOV';
+* [ (OBUKHOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/OBUKHOV/)
 </script>
+<script type="text/javascript">

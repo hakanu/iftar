@@ -8,10 +8,11 @@ permalink: /RUSYA/KOLPINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOLPINO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KOLPINO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KOLPINO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KOLPINO';
+* [ (KOLPINO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KOLPINO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/YEVLAX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YEVLAX, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/YEVLAX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'YEVLAX';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'YEVLAX';
+* [ (YEVLAX, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/YEVLAX/)
 </script>
+<script type="text/javascript">

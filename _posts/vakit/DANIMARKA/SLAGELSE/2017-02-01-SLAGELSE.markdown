@@ -8,10 +8,11 @@ permalink: /DANIMARKA/SLAGELSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SLAGELSE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SLAGELSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'SLAGELSE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'SLAGELSE';
+* [ (SLAGELSE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SLAGELSE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/FROSINONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FROSINONE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FROSINONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FROSINONE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FROSINONE';
+* [ (FROSINONE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FROSINONE/)
 </script>
+<script type="text/javascript">

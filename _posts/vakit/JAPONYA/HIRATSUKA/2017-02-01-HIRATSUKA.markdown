@@ -8,10 +8,11 @@ permalink: /JAPONYA/HIRATSUKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIRATSUKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIRATSUKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HIRATSUKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HIRATSUKA';
+* [ (HIRATSUKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIRATSUKA/)
 </script>
+<script type="text/javascript">

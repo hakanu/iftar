@@ -8,10 +8,11 @@ permalink: /LIBYA/TOBRUK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOBRUK, LIBYA) için iftar ve namaz vakitleri](/LIBYA/TOBRUK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBYA';
+
   var GLOBAL_CITY = 'TOBRUK';
+  var GLOBAL_COUNTRY = 'LIBYA';
   var GLOBAL_STATE = 'TOBRUK';
+* [ (TOBRUK, LIBYA) için iftar ve namaz vakitleri](/LIBYA/TOBRUK/)
 </script>
+<script type="text/javascript">

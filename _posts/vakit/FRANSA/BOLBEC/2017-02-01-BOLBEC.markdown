@@ -8,10 +8,11 @@ permalink: /FRANSA/BOLBEC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOLBEC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOLBEC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BOLBEC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BOLBEC';
+* [ (BOLBEC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOLBEC/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/LEGNICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEGNICA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/LEGNICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'LEGNICA';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'LEGNICA';
+* [ (LEGNICA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/LEGNICA/)
 </script>
+<script type="text/javascript">

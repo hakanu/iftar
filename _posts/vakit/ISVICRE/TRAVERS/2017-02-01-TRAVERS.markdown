@@ -8,10 +8,11 @@ permalink: /ISVICRE/TRAVERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRAVERS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/TRAVERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'TRAVERS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'TRAVERS';
+* [ (TRAVERS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/TRAVERS/)
 </script>
+<script type="text/javascript">

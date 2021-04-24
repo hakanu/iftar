@@ -8,10 +8,11 @@ permalink: /KANADA/NUNAVUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [IQALUIT (NUNAVUT, KANADA) için iftar ve namaz vakitleri](/KANADA/NUNAVUT/IQALUIT)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KANADA';
+
   var GLOBAL_CITY = 'NUNAVUT';
+  var GLOBAL_COUNTRY = 'KANADA';
   var GLOBAL_STATE = 'NUNAVUT';
+* [IQALUIT (NUNAVUT, KANADA) için iftar ve namaz vakitleri](/KANADA/NUNAVUT/IQALUIT)
 </script>
+<script type="text/javascript">

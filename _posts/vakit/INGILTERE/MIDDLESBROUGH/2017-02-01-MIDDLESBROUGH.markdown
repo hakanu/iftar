@@ -8,10 +8,11 @@ permalink: /INGILTERE/MIDDLESBROUGH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIDDLESBROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MIDDLESBROUGH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'MIDDLESBROUGH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'MIDDLESBROUGH';
+* [ (MIDDLESBROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MIDDLESBROUGH/)
 </script>
+<script type="text/javascript">

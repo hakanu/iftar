@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/ALIBUNAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALIBUNAR_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/ALIBUNAR_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'ALIBUNAR ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'ALIBUNAR ';
+* [ (ALIBUNAR_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/ALIBUNAR_/)
 </script>
+<script type="text/javascript">

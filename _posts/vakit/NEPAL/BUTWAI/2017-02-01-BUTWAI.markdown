@@ -8,10 +8,11 @@ permalink: /NEPAL/BUTWAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUTWAI, NEPAL) için iftar ve namaz vakitleri](/NEPAL/BUTWAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NEPAL';
+
   var GLOBAL_CITY = 'BUTWAI';
+  var GLOBAL_COUNTRY = 'NEPAL';
   var GLOBAL_STATE = 'BUTWAI';
+* [ (BUTWAI, NEPAL) için iftar ve namaz vakitleri](/NEPAL/BUTWAI/)
 </script>
+<script type="text/javascript">

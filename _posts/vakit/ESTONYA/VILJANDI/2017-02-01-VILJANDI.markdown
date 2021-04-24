@@ -8,10 +8,11 @@ permalink: /ESTONYA/VILJANDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILJANDI, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VILJANDI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'VILJANDI';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'VILJANDI';
+* [ (VILJANDI, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VILJANDI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/NACHRODT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NACHRODT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NACHRODT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NACHRODT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NACHRODT';
+* [ (NACHRODT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NACHRODT/)
 </script>
+<script type="text/javascript">

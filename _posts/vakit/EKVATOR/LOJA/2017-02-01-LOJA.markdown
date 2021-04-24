@@ -8,10 +8,11 @@ permalink: /EKVATOR/LOJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOJA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/LOJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'LOJA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'LOJA';
+* [ (LOJA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/LOJA/)
 </script>
+<script type="text/javascript">

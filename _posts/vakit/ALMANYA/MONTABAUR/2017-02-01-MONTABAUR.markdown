@@ -8,10 +8,11 @@ permalink: /ALMANYA/MONTABAUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTABAUR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MONTABAUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MONTABAUR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MONTABAUR';
+* [ (MONTABAUR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MONTABAUR/)
 </script>
+<script type="text/javascript">

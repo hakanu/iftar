@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/LEFKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEFKE, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'LEFKE';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'LEFKE';
+* [ (LEFKE, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKE/)
 </script>
+<script type="text/javascript">

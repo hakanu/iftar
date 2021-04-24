@@ -8,14 +8,15 @@ permalink: /TÜRKİYE/GÜMÜŞHANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [GÜMÜŞHANE (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/GÜMÜŞHANE)
-* [KÜRTÜN (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/KÜRTÜN)
-* [KÖSE (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/KÖSE)
-* [ŞİRAN (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/ŞİRAN)
-* [TORUL (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/TORUL)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'GÜMÜŞHANE';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'GÜMÜŞHANE';
+* [GÜMÜŞHANE (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/GÜMÜŞHANE)
+* [KÖSE (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/KÖSE)
+* [KÜRTÜN (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/KÜRTÜN)
+* [TORUL (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/TORUL)
+* [ŞİRAN (GÜMÜŞHANE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/GÜMÜŞHANE/ŞİRAN)
 </script>
+<script type="text/javascript">

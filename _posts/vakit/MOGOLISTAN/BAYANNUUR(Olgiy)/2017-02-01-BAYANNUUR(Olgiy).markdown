@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/BAYANNUUR(Olgiy)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYANNUUR(Olgiy), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BAYANNUUR(Olgiy)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'BAYANNUUR(Olgiy)';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'BAYANNUUR(Olgiy)';
+* [ (BAYANNUUR(Olgiy), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BAYANNUUR(Olgiy)/)
 </script>
+<script type="text/javascript">

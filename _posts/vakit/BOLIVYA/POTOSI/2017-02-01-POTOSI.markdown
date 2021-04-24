@@ -8,10 +8,11 @@ permalink: /BOLIVYA/POTOSI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POTOSI, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/POTOSI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'POTOSI';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'POTOSI';
+* [ (POTOSI, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/POTOSI/)
 </script>
+<script type="text/javascript">

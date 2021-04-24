@@ -8,10 +8,11 @@ permalink: /DANIMARKA/NORDBY ( R )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORDBY_(_R_), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NORDBY_(_R_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'NORDBY ( R )';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'NORDBY ( R )';
+* [ (NORDBY_(_R_), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NORDBY_(_R_)/)
 </script>
+<script type="text/javascript">

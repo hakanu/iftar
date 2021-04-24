@@ -8,10 +8,11 @@ permalink: /FRANSA/REVIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REVIN_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/REVIN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'REVIN ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'REVIN ';
+* [ (REVIN_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/REVIN_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/TUYTEPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TUYTEPA, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/TUYTEPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'TUYTEPA';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'TUYTEPA';
+* [ (TUYTEPA, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/TUYTEPA/)
 </script>
+<script type="text/javascript">

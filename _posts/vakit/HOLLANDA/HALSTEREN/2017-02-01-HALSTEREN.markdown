@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HALSTEREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HALSTEREN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HALSTEREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HALSTEREN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HALSTEREN';
+* [ (HALSTEREN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HALSTEREN/)
 </script>
+<script type="text/javascript">

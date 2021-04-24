@@ -8,10 +8,11 @@ permalink: /FRANSA/EVIAN LES BAINS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EVIAN_LES_BAINS_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EVIAN_LES_BAINS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'EVIAN LES BAINS ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'EVIAN LES BAINS ';
+* [ (EVIAN_LES_BAINS_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EVIAN_LES_BAINS_/)
 </script>
+<script type="text/javascript">

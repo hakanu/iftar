@@ -8,10 +8,11 @@ permalink: /PAKISTAN/ISLAMABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISLAMABAD, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/ISLAMABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'ISLAMABAD';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'ISLAMABAD';
+* [ (ISLAMABAD, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/ISLAMABAD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/ALLOA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALLOA, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ALLOA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'ALLOA';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'ALLOA';
+* [ (ALLOA, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ALLOA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_OMAR (P)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST_OMAR_(P), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST_OMAR_(P)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_OMAR (P)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_OMAR (P)';
+* [ (ST_OMAR_(P), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST_OMAR_(P)/)
 </script>
+<script type="text/javascript">

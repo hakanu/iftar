@@ -8,10 +8,11 @@ permalink: /UMMAN/NIZWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIZWA, UMMAN) için iftar ve namaz vakitleri](/UMMAN/NIZWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UMMAN';
+
   var GLOBAL_CITY = 'NIZWA';
+  var GLOBAL_COUNTRY = 'UMMAN';
   var GLOBAL_STATE = 'NIZWA';
+* [ (NIZWA, UMMAN) için iftar ve namaz vakitleri](/UMMAN/NIZWA/)
 </script>
+<script type="text/javascript">

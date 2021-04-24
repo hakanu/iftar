@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/ORESTIAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORESTIAS_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/ORESTIAS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'ORESTIAS ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'ORESTIAS ';
+* [ (ORESTIAS_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/ORESTIAS_/)
 </script>
+<script type="text/javascript">

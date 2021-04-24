@@ -8,10 +8,11 @@ permalink: /HONDURAS/CHOLUTECA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHOLUTECA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/CHOLUTECA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'CHOLUTECA';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'CHOLUTECA';
+* [ (CHOLUTECA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/CHOLUTECA/)
 </script>
+<script type="text/javascript">

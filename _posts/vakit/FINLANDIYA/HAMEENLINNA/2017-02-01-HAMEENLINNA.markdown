@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/HAMEENLINNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMEENLINNA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HAMEENLINNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'HAMEENLINNA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'HAMEENLINNA';
+* [ (HAMEENLINNA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HAMEENLINNA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/BAJRAM CURRI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAJRAM_CURRI, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/BAJRAM_CURRI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'BAJRAM CURRI';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'BAJRAM CURRI';
+* [ (BAJRAM_CURRI, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/BAJRAM_CURRI/)
 </script>
+<script type="text/javascript">

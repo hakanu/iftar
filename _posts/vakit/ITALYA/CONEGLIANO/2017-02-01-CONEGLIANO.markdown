@@ -8,10 +8,11 @@ permalink: /ITALYA/CONEGLIANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONEGLIANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CONEGLIANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CONEGLIANO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CONEGLIANO';
+* [ (CONEGLIANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CONEGLIANO/)
 </script>
+<script type="text/javascript">

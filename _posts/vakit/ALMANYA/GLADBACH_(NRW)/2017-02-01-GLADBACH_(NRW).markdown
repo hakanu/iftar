@@ -8,10 +8,11 @@ permalink: /ALMANYA/GLADBACH (NRW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLADBACH_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLADBACH_(NRW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GLADBACH (NRW)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GLADBACH (NRW)';
+* [ (GLADBACH_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLADBACH_(NRW)/)
 </script>
+<script type="text/javascript">

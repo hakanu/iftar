@@ -8,10 +8,11 @@ permalink: /ALMANYA/MOMLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOMLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOMLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MOMLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MOMLINGEN';
+* [ (MOMLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOMLINGEN/)
 </script>
+<script type="text/javascript">

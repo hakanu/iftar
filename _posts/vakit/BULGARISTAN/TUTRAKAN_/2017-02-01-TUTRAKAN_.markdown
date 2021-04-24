@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/TUTRAKAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TUTRAKAN_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/TUTRAKAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'TUTRAKAN ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'TUTRAKAN ';
+* [ (TUTRAKAN_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/TUTRAKAN_/)
 </script>
+<script type="text/javascript">

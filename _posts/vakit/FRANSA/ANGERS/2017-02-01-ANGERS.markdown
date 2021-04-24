@@ -8,10 +8,11 @@ permalink: /FRANSA/ANGERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANGERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANGERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ANGERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ANGERS';
+* [ (ANGERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANGERS/)
 </script>
+<script type="text/javascript">

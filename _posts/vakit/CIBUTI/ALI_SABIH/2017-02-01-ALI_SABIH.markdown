@@ -8,10 +8,11 @@ permalink: /CIBUTI/ALI SABIH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALI_SABIH, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/ALI_SABIH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIBUTI';
+
   var GLOBAL_CITY = 'ALI SABIH';
+  var GLOBAL_COUNTRY = 'CIBUTI';
   var GLOBAL_STATE = 'ALI SABIH';
+* [ (ALI_SABIH, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/ALI_SABIH/)
 </script>
+<script type="text/javascript">

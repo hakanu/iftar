@@ -8,10 +8,11 @@ permalink: /IRAN/RASHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RASHT, IRAN) için iftar ve namaz vakitleri](/IRAN/RASHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'RASHT';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'RASHT';
+* [ (RASHT, IRAN) için iftar ve namaz vakitleri](/IRAN/RASHT/)
 </script>
+<script type="text/javascript">

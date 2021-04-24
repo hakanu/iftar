@@ -8,10 +8,11 @@ permalink: /BELCIKA/ALKEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALKEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ALKEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ALKEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ALKEN';
+* [ (ALKEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ALKEN/)
 </script>
+<script type="text/javascript">

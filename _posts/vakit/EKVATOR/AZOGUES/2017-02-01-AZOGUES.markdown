@@ -8,10 +8,11 @@ permalink: /EKVATOR/AZOGUES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AZOGUES, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/AZOGUES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'AZOGUES';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'AZOGUES';
+* [ (AZOGUES, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/AZOGUES/)
 </script>
+<script type="text/javascript">

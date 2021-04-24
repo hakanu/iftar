@@ -8,10 +8,11 @@ permalink: /HOLLANDA/TWELLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TWELLO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TWELLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'TWELLO';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'TWELLO';
+* [ (TWELLO, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TWELLO/)
 </script>
+<script type="text/javascript">

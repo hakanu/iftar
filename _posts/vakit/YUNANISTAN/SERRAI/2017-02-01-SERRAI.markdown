@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/SERRAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SERRAI, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/SERRAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'SERRAI';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'SERRAI';
+* [ (SERRAI, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/SERRAI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/ATINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATINA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/ATINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'ATINA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'ATINA';
+* [ (ATINA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/ATINA/)
 </script>
+<script type="text/javascript">

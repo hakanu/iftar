@@ -8,10 +8,11 @@ permalink: /ITALYA/PARMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARMA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PARMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PARMA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PARMA';
+* [ (PARMA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PARMA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LETONYA/RIGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIGA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/RIGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'RIGA';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'RIGA';
+* [ (RIGA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/RIGA/)
 </script>
+<script type="text/javascript">

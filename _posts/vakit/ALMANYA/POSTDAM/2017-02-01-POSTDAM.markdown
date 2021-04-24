@@ -8,10 +8,11 @@ permalink: /ALMANYA/POSTDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POSTDAM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/POSTDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'POSTDAM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'POSTDAM';
+* [ (POSTDAM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/POSTDAM/)
 </script>
+<script type="text/javascript">

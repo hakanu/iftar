@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/TIRAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIRAN, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/TIRAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'TIRAN';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'TIRAN';
+* [ (TIRAN, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/TIRAN/)
 </script>
+<script type="text/javascript">

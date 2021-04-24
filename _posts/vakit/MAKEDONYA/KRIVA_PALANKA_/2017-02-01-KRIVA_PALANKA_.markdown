@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/KRIVA PALANKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRIVA_PALANKA_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/KRIVA_PALANKA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'KRIVA PALANKA ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'KRIVA PALANKA ';
+* [ (KRIVA_PALANKA_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/KRIVA_PALANKA_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MEXICALI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEXICALI, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MEXICALI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MEXICALI';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MEXICALI';
+* [ (MEXICALI, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MEXICALI/)
 </script>
+<script type="text/javascript">

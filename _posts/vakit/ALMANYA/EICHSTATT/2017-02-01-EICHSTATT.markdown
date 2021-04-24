@@ -8,10 +8,11 @@ permalink: /ALMANYA/EICHSTATT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EICHSTATT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EICHSTATT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EICHSTATT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EICHSTATT';
+* [ (EICHSTATT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EICHSTATT/)
 </script>
+<script type="text/javascript">

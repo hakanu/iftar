@@ -8,10 +8,11 @@ permalink: /ALMANYA/WILLSTATT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILLSTATT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILLSTATT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WILLSTATT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WILLSTATT';
+* [ (WILLSTATT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WILLSTATT/)
 </script>
+<script type="text/javascript">

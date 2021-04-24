@@ -8,10 +8,11 @@ permalink: /CIN/NAGQU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGQU, CIN) için iftar ve namaz vakitleri](/CIN/NAGQU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'NAGQU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'NAGQU';
+* [ (NAGQU, CIN) için iftar ve namaz vakitleri](/CIN/NAGQU/)
 </script>
+<script type="text/javascript">

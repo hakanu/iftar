@@ -8,10 +8,11 @@ permalink: /FILIPINLER/CALBAYOG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALBAYOG, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/CALBAYOG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'CALBAYOG';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'CALBAYOG';
+* [ (CALBAYOG, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/CALBAYOG/)
 </script>
+<script type="text/javascript">

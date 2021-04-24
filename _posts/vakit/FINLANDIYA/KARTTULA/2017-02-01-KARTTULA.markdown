@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/KARTTULA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARTTULA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KARTTULA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'KARTTULA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'KARTTULA';
+* [ (KARTTULA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KARTTULA/)
 </script>
+<script type="text/javascript">

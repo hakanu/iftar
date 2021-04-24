@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/LEVADHIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEVADHIA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/LEVADHIA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'LEVADHIA ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'LEVADHIA ';
+* [ (LEVADHIA_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/LEVADHIA_/)
 </script>
+<script type="text/javascript">

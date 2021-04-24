@@ -8,10 +8,11 @@ permalink: /ALMANYA/SEELZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEELZE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEELZE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SEELZE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SEELZE';
+* [ (SEELZE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEELZE/)
 </script>
+<script type="text/javascript">

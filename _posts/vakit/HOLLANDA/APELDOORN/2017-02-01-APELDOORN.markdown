@@ -8,10 +8,11 @@ permalink: /HOLLANDA/APELDOORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APELDOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/APELDOORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'APELDOORN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'APELDOORN';
+* [ (APELDOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/APELDOORN/)
 </script>
+<script type="text/javascript">

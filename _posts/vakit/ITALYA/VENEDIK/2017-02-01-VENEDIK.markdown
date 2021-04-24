@@ -8,10 +8,11 @@ permalink: /ITALYA/VENEDIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VENEDIK, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VENEDIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VENEDIK';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VENEDIK';
+* [ (VENEDIK, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VENEDIK/)
 </script>
+<script type="text/javascript">

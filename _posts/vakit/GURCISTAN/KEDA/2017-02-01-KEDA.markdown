@@ -8,10 +8,11 @@ permalink: /GURCISTAN/KEDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KEDA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KEDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'KEDA';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'KEDA';
+* [ (KEDA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KEDA/)
 </script>
+<script type="text/javascript">

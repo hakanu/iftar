@@ -8,10 +8,11 @@ permalink: /ESTONYA/TAPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAPA, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TAPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'TAPA';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'TAPA';
+* [ (TAPA, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TAPA/)
 </script>
+<script type="text/javascript">

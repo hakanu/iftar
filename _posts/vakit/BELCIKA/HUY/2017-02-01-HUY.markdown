@@ -8,10 +8,11 @@ permalink: /BELCIKA/HUY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUY, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HUY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HUY';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HUY';
+* [ (HUY, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HUY/)
 </script>
+<script type="text/javascript">

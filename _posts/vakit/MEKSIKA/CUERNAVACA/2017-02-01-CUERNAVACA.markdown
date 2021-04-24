@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CUERNAVACA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUERNAVACA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CUERNAVACA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CUERNAVACA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CUERNAVACA';
+* [ (CUERNAVACA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CUERNAVACA/)
 </script>
+<script type="text/javascript">

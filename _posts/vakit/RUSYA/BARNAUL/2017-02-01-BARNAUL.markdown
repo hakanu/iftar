@@ -8,10 +8,11 @@ permalink: /RUSYA/BARNAUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARNAUL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BARNAUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BARNAUL';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BARNAUL';
+* [ (BARNAUL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BARNAUL/)
 </script>
+<script type="text/javascript">

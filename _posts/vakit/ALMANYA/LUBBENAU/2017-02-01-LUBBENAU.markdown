@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUBBENAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUBBENAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUBBENAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUBBENAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUBBENAU';
+* [ (LUBBENAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUBBENAU/)
 </script>
+<script type="text/javascript">

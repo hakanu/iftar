@@ -8,10 +8,11 @@ permalink: /FRANSA/HAGUENAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAGUENAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HAGUENAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'HAGUENAU';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'HAGUENAU';
+* [ (HAGUENAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HAGUENAU/)
 </script>
+<script type="text/javascript">

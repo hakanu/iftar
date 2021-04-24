@@ -8,10 +8,11 @@ permalink: /INGILTERE/STOKE ON TRENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STOKE_ON_TRENT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STOKE_ON_TRENT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'STOKE ON TRENT';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'STOKE ON TRENT';
+* [ (STOKE_ON_TRENT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STOKE_ON_TRENT/)
 </script>
+<script type="text/javascript">

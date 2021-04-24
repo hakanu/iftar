@@ -8,10 +8,11 @@ permalink: /MACARISTAN/PECS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PECS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/PECS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'PECS';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'PECS';
+* [ (PECS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/PECS/)
 </script>
+<script type="text/javascript">

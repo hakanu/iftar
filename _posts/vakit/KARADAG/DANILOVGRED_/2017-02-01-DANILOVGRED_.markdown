@@ -8,10 +8,11 @@ permalink: /KARADAG/DANILOVGRED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DANILOVGRED_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/DANILOVGRED_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'DANILOVGRED ';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'DANILOVGRED ';
+* [ (DANILOVGRED_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/DANILOVGRED_/)
 </script>
+<script type="text/javascript">

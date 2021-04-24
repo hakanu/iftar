@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/BARRANCABERMEJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARRANCABERMEJA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BARRANCABERMEJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'BARRANCABERMEJA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'BARRANCABERMEJA';
+* [ (BARRANCABERMEJA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BARRANCABERMEJA/)
 </script>
+<script type="text/javascript">

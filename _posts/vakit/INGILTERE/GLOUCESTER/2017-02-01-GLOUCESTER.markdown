@@ -8,10 +8,11 @@ permalink: /INGILTERE/GLOUCESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLOUCESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GLOUCESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'GLOUCESTER';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'GLOUCESTER';
+* [ (GLOUCESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GLOUCESTER/)
 </script>
+<script type="text/javascript">

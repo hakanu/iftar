@@ -8,10 +8,11 @@ permalink: /TUNUS/AL QAYRAWAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_QAYRAWAN, TUNUS) için iftar ve namaz vakitleri](/TUNUS/AL_QAYRAWAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TUNUS';
+
   var GLOBAL_CITY = 'AL QAYRAWAN';
+  var GLOBAL_COUNTRY = 'TUNUS';
   var GLOBAL_STATE = 'AL QAYRAWAN';
+* [ (AL_QAYRAWAN, TUNUS) için iftar ve namaz vakitleri](/TUNUS/AL_QAYRAWAN/)
 </script>
+<script type="text/javascript">

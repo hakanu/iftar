@@ -8,10 +8,11 @@ permalink: /UKRAYNA/CHERKASY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHERKASY, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/CHERKASY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'CHERKASY';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'CHERKASY';
+* [ (CHERKASY, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/CHERKASY/)
 </script>
+<script type="text/javascript">

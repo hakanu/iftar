@@ -8,10 +8,11 @@ permalink: /ALMANYA/VLOTHO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VLOTHO, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VLOTHO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VLOTHO';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VLOTHO';
+* [ (VLOTHO, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VLOTHO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MACARISTAN/ESZTERGOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESZTERGOM, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ESZTERGOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'ESZTERGOM';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'ESZTERGOM';
+* [ (ESZTERGOM, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ESZTERGOM/)
 </script>
+<script type="text/javascript">

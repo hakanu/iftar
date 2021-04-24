@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BLACKTOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLACKTOWN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BLACKTOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BLACKTOWN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BLACKTOWN';
+* [ (BLACKTOWN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BLACKTOWN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/GUNDELSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUNDELSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GUNDELSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GUNDELSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GUNDELSHEIM';
+* [ (GUNDELSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GUNDELSHEIM/)
 </script>
+<script type="text/javascript">

@@ -8,19 +8,20 @@ permalink: /TÜRKİYE/ÇANAKKALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [BAYRAMİÇ (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/BAYRAMİÇ)
-* [YENİCE (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/YENİCE)
-* [ÇAN (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/ÇAN)
-* [GÖKÇEADA (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/GÖKÇEADA)
-* [LAPSEKİ (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/LAPSEKİ)
-* [BOZCAADA (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/BOZCAADA)
+
+
+  var GLOBAL_CITY = 'ÇANAKKALE';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'ÇANAKKALE';
 * [AYVACIK (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/AYVACIK)
-* [ÇANAKKALE (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/ÇANAKKALE)
+* [BAYRAMİÇ (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/BAYRAMİÇ)
+* [BOZCAADA (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/BOZCAADA)
 * [BİGA (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/BİGA)
 * [GELİBOLU (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/GELİBOLU)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ÇANAKKALE';
-  var GLOBAL_STATE = 'ÇANAKKALE';
+* [GÖKÇEADA (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/GÖKÇEADA)
+* [LAPSEKİ (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/LAPSEKİ)
+* [YENİCE (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/YENİCE)
+* [ÇAN (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/ÇAN)
+* [ÇANAKKALE (ÇANAKKALE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ÇANAKKALE/ÇANAKKALE)
 </script>
+<script type="text/javascript">

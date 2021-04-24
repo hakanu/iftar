@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/MALANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MALANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'MALANG';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'MALANG';
+* [ (MALANG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MALANG/)
 </script>
+<script type="text/javascript">

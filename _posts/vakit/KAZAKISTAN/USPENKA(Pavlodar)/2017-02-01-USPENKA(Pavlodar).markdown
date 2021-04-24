@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/USPENKA(Pavlodar)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (USPENKA(Pavlodar), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/USPENKA(Pavlodar)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'USPENKA(Pavlodar)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'USPENKA(Pavlodar)';
+* [ (USPENKA(Pavlodar), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/USPENKA(Pavlodar)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/VABKENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VABKENT, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/VABKENT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'VABKENT';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'VABKENT';
+* [ (VABKENT, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/VABKENT/)
 </script>
+<script type="text/javascript">

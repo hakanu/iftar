@@ -8,10 +8,11 @@ permalink: /ITALYA/LECCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LECCE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LECCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'LECCE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'LECCE';
+* [ (LECCE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LECCE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/TEKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEKE, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TEKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'TEKE';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'TEKE';
+* [ (TEKE, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TEKE/)
 </script>
+<script type="text/javascript">

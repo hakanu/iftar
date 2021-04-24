@@ -8,10 +8,11 @@ permalink: /RUSYA/ORENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORENBURG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ORENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ORENBURG';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ORENBURG';
+* [ (ORENBURG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ORENBURG/)
 </script>
+<script type="text/javascript">

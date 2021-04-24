@@ -8,10 +8,11 @@ permalink: /CIN/ANKANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANKANG, CIN) için iftar ve namaz vakitleri](/CIN/ANKANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ANKANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ANKANG';
+* [ (ANKANG, CIN) için iftar ve namaz vakitleri](/CIN/ANKANG/)
 </script>
+<script type="text/javascript">

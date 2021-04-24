@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/GEVERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEVERS_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/GEVERS_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'GEVERS ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'GEVERS ';
+* [ (GEVERS_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/GEVERS_/)
 </script>
+<script type="text/javascript">

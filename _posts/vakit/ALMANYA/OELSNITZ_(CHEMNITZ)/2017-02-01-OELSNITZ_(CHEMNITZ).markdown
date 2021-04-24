@@ -8,10 +8,11 @@ permalink: /ALMANYA/OELSNITZ (CHEMNITZ)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OELSNITZ_(CHEMNITZ), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OELSNITZ_(CHEMNITZ)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OELSNITZ (CHEMNITZ)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OELSNITZ (CHEMNITZ)';
+* [ (OELSNITZ_(CHEMNITZ), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OELSNITZ_(CHEMNITZ)/)
 </script>
+<script type="text/javascript">

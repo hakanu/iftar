@@ -8,10 +8,11 @@ permalink: /FRANSA/BOURGOGNE (M)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOURGOGNE_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURGOGNE_(M)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BOURGOGNE (M)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BOURGOGNE (M)';
+* [ (BOURGOGNE_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURGOGNE_(M)/)
 </script>
+<script type="text/javascript">

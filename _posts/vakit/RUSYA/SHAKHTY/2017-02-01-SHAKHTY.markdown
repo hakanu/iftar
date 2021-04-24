@@ -8,10 +8,11 @@ permalink: /RUSYA/SHAKHTY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAKHTY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHAKHTY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SHAKHTY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SHAKHTY';
+* [ (SHAKHTY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHAKHTY/)
 </script>
+<script type="text/javascript">

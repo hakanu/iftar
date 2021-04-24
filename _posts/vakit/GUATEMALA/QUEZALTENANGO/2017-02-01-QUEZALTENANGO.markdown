@@ -8,10 +8,11 @@ permalink: /GUATEMALA/QUEZALTENANGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUEZALTENANGO, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/QUEZALTENANGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUATEMALA';
+
   var GLOBAL_CITY = 'QUEZALTENANGO';
+  var GLOBAL_COUNTRY = 'GUATEMALA';
   var GLOBAL_STATE = 'QUEZALTENANGO';
+* [ (QUEZALTENANGO, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/QUEZALTENANGO/)
 </script>
+<script type="text/javascript">

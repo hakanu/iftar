@@ -8,10 +8,11 @@ permalink: /MACARISTAN/SZOMBATHELY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SZOMBATHELY, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZOMBATHELY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'SZOMBATHELY';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'SZOMBATHELY';
+* [ (SZOMBATHELY, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZOMBATHELY/)
 </script>
+<script type="text/javascript">

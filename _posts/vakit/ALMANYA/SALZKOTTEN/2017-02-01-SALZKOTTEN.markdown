@@ -8,10 +8,11 @@ permalink: /ALMANYA/SALZKOTTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALZKOTTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALZKOTTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SALZKOTTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SALZKOTTEN';
+* [ (SALZKOTTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SALZKOTTEN/)
 </script>
+<script type="text/javascript">

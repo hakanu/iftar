@@ -8,10 +8,11 @@ permalink: /MEKSIKA/VILLAHERMOSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLAHERMOSA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/VILLAHERMOSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'VILLAHERMOSA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'VILLAHERMOSA';
+* [ (VILLAHERMOSA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/VILLAHERMOSA/)
 </script>
+<script type="text/javascript">

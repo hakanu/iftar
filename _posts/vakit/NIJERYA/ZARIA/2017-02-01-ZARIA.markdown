@@ -8,10 +8,11 @@ permalink: /NIJERYA/ZARIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZARIA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/ZARIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'ZARIA';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'ZARIA';
+* [ (ZARIA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/ZARIA/)
 </script>
+<script type="text/javascript">

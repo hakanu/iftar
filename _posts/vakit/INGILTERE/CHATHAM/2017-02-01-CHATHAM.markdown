@@ -8,10 +8,11 @@ permalink: /INGILTERE/CHATHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHATHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHATHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CHATHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CHATHAM';
+* [ (CHATHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHATHAM/)
 </script>
+<script type="text/javascript">

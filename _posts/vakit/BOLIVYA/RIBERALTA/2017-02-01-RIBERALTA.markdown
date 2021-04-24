@@ -8,10 +8,11 @@ permalink: /BOLIVYA/RIBERALTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIBERALTA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/RIBERALTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'RIBERALTA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'RIBERALTA';
+* [ (RIBERALTA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/RIBERALTA/)
 </script>
+<script type="text/javascript">

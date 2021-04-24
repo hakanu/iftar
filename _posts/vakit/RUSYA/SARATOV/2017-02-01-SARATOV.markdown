@@ -8,10 +8,11 @@ permalink: /RUSYA/SARATOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARATOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SARATOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SARATOV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SARATOV';
+* [ (SARATOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SARATOV/)
 </script>
+<script type="text/javascript">

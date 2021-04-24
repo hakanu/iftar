@@ -8,17 +8,18 @@ permalink: /TÜRKİYE/MARDİN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MİDYAT (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MİDYAT)
-* [NUSAYBİN (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/NUSAYBİN)
-* [MAZIDAĞI (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MAZIDAĞI)
-* [KIZILTEPE (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/KIZILTEPE)
-* [MARDİN (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MARDİN)
+
+
+  var GLOBAL_CITY = 'MARDİN';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'MARDİN';
 * [DARGECİT (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/DARGECİT)
 * [DERİK (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/DERİK)
+* [KIZILTEPE (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/KIZILTEPE)
+* [MARDİN (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MARDİN)
+* [MAZIDAĞI (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MAZIDAĞI)
+* [MİDYAT (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/MİDYAT)
+* [NUSAYBİN (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/NUSAYBİN)
 * [ÖMERLİ (MARDİN, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MARDİN/ÖMERLİ)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'MARDİN';
-  var GLOBAL_STATE = 'MARDİN';
 </script>
+<script type="text/javascript">

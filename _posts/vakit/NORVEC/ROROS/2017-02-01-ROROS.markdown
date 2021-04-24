@@ -8,10 +8,11 @@ permalink: /NORVEC/ROROS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROROS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ROROS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'ROROS';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'ROROS';
+* [ (ROROS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ROROS/)
 </script>
+<script type="text/javascript">

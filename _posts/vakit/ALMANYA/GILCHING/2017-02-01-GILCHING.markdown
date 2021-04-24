@@ -8,10 +8,11 @@ permalink: /ALMANYA/GILCHING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GILCHING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GILCHING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GILCHING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GILCHING';
+* [ (GILCHING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GILCHING/)
 </script>
+<script type="text/javascript">

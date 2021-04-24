@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/FREISTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREISTADT_, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FREISTADT_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'FREISTADT ';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'FREISTADT ';
+* [ (FREISTADT_, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FREISTADT_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/PRILEP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PRILEP, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/PRILEP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'PRILEP';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'PRILEP';
+* [ (PRILEP, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/PRILEP/)
 </script>
+<script type="text/javascript">

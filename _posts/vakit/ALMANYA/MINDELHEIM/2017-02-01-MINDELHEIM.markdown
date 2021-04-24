@@ -8,10 +8,11 @@ permalink: /ALMANYA/MINDELHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MINDELHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MINDELHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MINDELHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MINDELHEIM';
+* [ (MINDELHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MINDELHEIM/)
 </script>
+<script type="text/javascript">

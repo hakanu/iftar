@@ -8,10 +8,11 @@ permalink: /ALMANYA/TAUBERBISCHOFSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAUBERBISCHOFSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TAUBERBISCHOFSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TAUBERBISCHOFSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TAUBERBISCHOFSHEIM';
+* [ (TAUBERBISCHOFSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TAUBERBISCHOFSHEIM/)
 </script>
+<script type="text/javascript">

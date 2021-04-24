@@ -8,10 +8,11 @@ permalink: /POLONYA/TORUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TORUN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/TORUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'TORUN';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'TORUN';
+* [ (TORUN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/TORUN/)
 </script>
+<script type="text/javascript">

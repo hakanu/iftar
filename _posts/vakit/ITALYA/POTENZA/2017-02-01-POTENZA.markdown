@@ -8,10 +8,11 @@ permalink: /ITALYA/POTENZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POTENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/POTENZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'POTENZA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'POTENZA';
+* [ (POTENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/POTENZA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /IRAK/AN NASIRIYAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AN_NASIRIYAH, IRAK) için iftar ve namaz vakitleri](/IRAK/AN_NASIRIYAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'AN NASIRIYAH';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'AN NASIRIYAH';
+* [ (AN_NASIRIYAH, IRAK) için iftar ve namaz vakitleri](/IRAK/AN_NASIRIYAH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISPANYA/MURCIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURCIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/MURCIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'MURCIA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'MURCIA';
+* [ (MURCIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/MURCIA/)
 </script>
+<script type="text/javascript">

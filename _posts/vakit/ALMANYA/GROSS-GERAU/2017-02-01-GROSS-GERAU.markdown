@@ -8,10 +8,11 @@ permalink: /ALMANYA/GROSS-GERAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GROSS-GERAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GROSS-GERAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GROSS-GERAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GROSS-GERAU';
+* [ (GROSS-GERAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GROSS-GERAU/)
 </script>
+<script type="text/javascript">

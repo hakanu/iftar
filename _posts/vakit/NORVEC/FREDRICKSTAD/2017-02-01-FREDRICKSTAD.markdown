@@ -8,10 +8,11 @@ permalink: /NORVEC/FREDRICKSTAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREDRICKSTAD, NORVEC) için iftar ve namaz vakitleri](/NORVEC/FREDRICKSTAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'FREDRICKSTAD';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'FREDRICKSTAD';
+* [ (FREDRICKSTAD, NORVEC) için iftar ve namaz vakitleri](/NORVEC/FREDRICKSTAD/)
 </script>
+<script type="text/javascript">

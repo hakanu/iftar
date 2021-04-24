@@ -8,10 +8,11 @@ permalink: /VENEZUELA/MERIDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MERIDA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MERIDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'MERIDA';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'MERIDA';
+* [ (MERIDA, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MERIDA/)
 </script>
+<script type="text/javascript">

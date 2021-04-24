@@ -8,10 +8,11 @@ permalink: /ALMANYA/WESEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WESEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WESEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WESEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WESEL';
+* [ (WESEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WESEL/)
 </script>
+<script type="text/javascript">

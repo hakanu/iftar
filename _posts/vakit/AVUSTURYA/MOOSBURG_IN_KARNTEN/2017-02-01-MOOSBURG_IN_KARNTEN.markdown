@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MOOSBURG IN KARNTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOOSBURG_IN_KARNTEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MOOSBURG_IN_KARNTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MOOSBURG IN KARNTEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MOOSBURG IN KARNTEN';
+* [ (MOOSBURG_IN_KARNTEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MOOSBURG_IN_KARNTEN/)
 </script>
+<script type="text/javascript">

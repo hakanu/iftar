@@ -8,10 +8,11 @@ permalink: /UKRAYNA/POLTAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POLTAVA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/POLTAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'POLTAVA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'POLTAVA';
+* [ (POLTAVA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/POLTAVA/)
 </script>
+<script type="text/javascript">

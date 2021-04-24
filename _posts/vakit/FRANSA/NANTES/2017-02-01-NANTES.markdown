@@ -8,10 +8,11 @@ permalink: /FRANSA/NANTES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NANTES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NANTES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NANTES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NANTES';
+* [ (NANTES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NANTES/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOF(Bavaria)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOF(Bavaria), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOF(Bavaria)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOF(Bavaria)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOF(Bavaria)';
+* [ (HOF(Bavaria), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOF(Bavaria)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FAS/SETTAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SETTAT, FAS) için iftar ve namaz vakitleri](/FAS/SETTAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'SETTAT';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'SETTAT';
+* [ (SETTAT, FAS) için iftar ve namaz vakitleri](/FAS/SETTAT/)
 </script>
+<script type="text/javascript">

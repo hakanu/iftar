@@ -8,10 +8,11 @@ permalink: /ROMANYA/TULCEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULCEA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TULCEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'TULCEA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'TULCEA';
+* [ (TULCEA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/TULCEA/)
 </script>
+<script type="text/javascript">

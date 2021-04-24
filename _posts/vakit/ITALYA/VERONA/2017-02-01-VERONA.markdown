@@ -8,10 +8,11 @@ permalink: /ITALYA/VERONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VERONA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VERONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VERONA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VERONA';
+* [ (VERONA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VERONA/)
 </script>
+<script type="text/javascript">

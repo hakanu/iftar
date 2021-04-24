@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/TRARALGON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRARALGON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TRARALGON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'TRARALGON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'TRARALGON';
+* [ (TRARALGON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TRARALGON/)
 </script>
+<script type="text/javascript">

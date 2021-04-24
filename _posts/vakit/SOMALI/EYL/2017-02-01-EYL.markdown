@@ -8,10 +8,11 @@ permalink: /SOMALI/EYL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EYL, SOMALI) için iftar ve namaz vakitleri](/SOMALI/EYL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SOMALI';
+
   var GLOBAL_CITY = 'EYL';
+  var GLOBAL_COUNTRY = 'SOMALI';
   var GLOBAL_STATE = 'EYL';
+* [ (EYL, SOMALI) için iftar ve namaz vakitleri](/SOMALI/EYL/)
 </script>
+<script type="text/javascript">

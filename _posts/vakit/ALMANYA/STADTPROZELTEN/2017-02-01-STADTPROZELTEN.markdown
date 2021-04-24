@@ -8,10 +8,11 @@ permalink: /ALMANYA/STADTPROZELTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STADTPROZELTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTPROZELTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STADTPROZELTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STADTPROZELTEN';
+* [ (STADTPROZELTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTPROZELTEN/)
 </script>
+<script type="text/javascript">

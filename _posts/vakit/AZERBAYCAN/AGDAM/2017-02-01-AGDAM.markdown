@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/AGDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGDAM, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/AGDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'AGDAM';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'AGDAM';
+* [ (AGDAM, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/AGDAM/)
 </script>
+<script type="text/javascript">

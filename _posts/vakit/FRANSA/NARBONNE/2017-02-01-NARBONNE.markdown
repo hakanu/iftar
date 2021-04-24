@@ -8,10 +8,11 @@ permalink: /FRANSA/NARBONNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NARBONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NARBONNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NARBONNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NARBONNE';
+* [ (NARBONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NARBONNE/)
 </script>
+<script type="text/javascript">

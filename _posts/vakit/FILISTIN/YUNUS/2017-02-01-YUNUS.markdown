@@ -8,10 +8,11 @@ permalink: /FILISTIN/YUNUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YUNUS, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/YUNUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'YUNUS';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'YUNUS';
+* [ (YUNUS, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/YUNUS/)
 </script>
+<script type="text/javascript">

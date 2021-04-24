@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MARION
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARION, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MARION/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MARION';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MARION';
+* [ (MARION, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MARION/)
 </script>
+<script type="text/javascript">

@@ -8,5 +8,6 @@ permalink: /GUADELOPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [BASSE-TERRE (GUADELOPE) için iftar ve namaz vakitleri](/GUADELOPE/BASSE-TERRE)
 * [PONTE-A-PITRE (GUADELOPE) için iftar ve namaz vakitleri](/GUADELOPE/PONTE-A-PITRE)

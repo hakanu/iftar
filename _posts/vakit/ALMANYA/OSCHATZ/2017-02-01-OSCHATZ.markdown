@@ -8,10 +8,11 @@ permalink: /ALMANYA/OSCHATZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSCHATZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSCHATZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OSCHATZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OSCHATZ';
+* [ (OSCHATZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSCHATZ/)
 </script>
+<script type="text/javascript">

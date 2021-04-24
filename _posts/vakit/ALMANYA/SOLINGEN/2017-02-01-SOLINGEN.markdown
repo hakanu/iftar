@@ -8,10 +8,11 @@ permalink: /ALMANYA/SOLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SOLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SOLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SOLINGEN';
+* [ (SOLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SOLINGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/CRAILSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CRAILSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CRAILSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'CRAILSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'CRAILSHEIM';
+* [ (CRAILSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CRAILSHEIM/)
 </script>
+<script type="text/javascript">

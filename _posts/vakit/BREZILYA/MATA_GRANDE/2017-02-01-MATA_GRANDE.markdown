@@ -8,10 +8,11 @@ permalink: /BREZILYA/MATA GRANDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATA_GRANDE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MATA_GRANDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'MATA GRANDE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'MATA GRANDE';
+* [ (MATA_GRANDE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MATA_GRANDE/)
 </script>
+<script type="text/javascript">

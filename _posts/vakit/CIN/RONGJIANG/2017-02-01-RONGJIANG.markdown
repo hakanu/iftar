@@ -8,10 +8,11 @@ permalink: /CIN/RONGJIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RONGJIANG, CIN) için iftar ve namaz vakitleri](/CIN/RONGJIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'RONGJIANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'RONGJIANG';
+* [ (RONGJIANG, CIN) için iftar ve namaz vakitleri](/CIN/RONGJIANG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/SANTANA DO IPANEMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTANA_DO_IPANEMA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTANA_DO_IPANEMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SANTANA DO IPANEMA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SANTANA DO IPANEMA';
+* [ (SANTANA_DO_IPANEMA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTANA_DO_IPANEMA/)
 </script>
+<script type="text/javascript">

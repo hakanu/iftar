@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/ULAN BATOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULAN_BATOR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ULAN_BATOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'ULAN BATOR';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'ULAN BATOR';
+* [ (ULAN_BATOR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ULAN_BATOR/)
 </script>
+<script type="text/javascript">

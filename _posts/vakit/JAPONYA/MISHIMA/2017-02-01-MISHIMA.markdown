@@ -8,10 +8,11 @@ permalink: /JAPONYA/MISHIMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MISHIMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MISHIMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'MISHIMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'MISHIMA';
+* [ (MISHIMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MISHIMA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NORVEC/ALESUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALESUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ALESUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'ALESUND';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'ALESUND';
+* [ (ALESUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ALESUND/)
 </script>
+<script type="text/javascript">

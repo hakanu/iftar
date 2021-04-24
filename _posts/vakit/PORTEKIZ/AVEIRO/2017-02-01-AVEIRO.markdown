@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/AVEIRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AVEIRO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/AVEIRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'AVEIRO';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'AVEIRO';
+* [ (AVEIRO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/AVEIRO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/MALDEGEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALDEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MALDEGEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'MALDEGEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'MALDEGEM';
+* [ (MALDEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MALDEGEM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/GAILLON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAILLON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GAILLON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GAILLON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GAILLON';
+* [ (GAILLON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GAILLON/)
 </script>
+<script type="text/javascript">

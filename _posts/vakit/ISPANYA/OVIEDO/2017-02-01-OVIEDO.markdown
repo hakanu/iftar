@@ -8,10 +8,11 @@ permalink: /ISPANYA/OVIEDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OVIEDO, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/OVIEDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'OVIEDO';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'OVIEDO';
+* [ (OVIEDO, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/OVIEDO/)
 </script>
+<script type="text/javascript">

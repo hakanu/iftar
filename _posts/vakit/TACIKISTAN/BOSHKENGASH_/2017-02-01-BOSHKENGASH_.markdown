@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/BOSHKENGASH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOSHKENGASH_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/BOSHKENGASH_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'BOSHKENGASH ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'BOSHKENGASH ';
+* [ (BOSHKENGASH_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/BOSHKENGASH_/)
 </script>
+<script type="text/javascript">

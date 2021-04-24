@@ -8,10 +8,11 @@ permalink: /MALTA/VICTORIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VICTORIA, MALTA) için iftar ve namaz vakitleri](/MALTA/VICTORIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALTA';
+
   var GLOBAL_CITY = 'VICTORIA';
+  var GLOBAL_COUNTRY = 'MALTA';
   var GLOBAL_STATE = 'VICTORIA';
+* [ (VICTORIA, MALTA) için iftar ve namaz vakitleri](/MALTA/VICTORIA/)
 </script>
+<script type="text/javascript">

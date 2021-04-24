@@ -8,10 +8,11 @@ permalink: /FILIPINLER/LAPU-LAPU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAPU-LAPU, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LAPU-LAPU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'LAPU-LAPU';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'LAPU-LAPU';
+* [ (LAPU-LAPU, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LAPU-LAPU/)
 </script>
+<script type="text/javascript">

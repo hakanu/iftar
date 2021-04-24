@@ -8,10 +8,11 @@ permalink: /BELCIKA/ST_ NIKLAAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__NIKLAAS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ST__NIKLAAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ST_ NIKLAAS';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ST_ NIKLAAS';
+* [ (ST__NIKLAAS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ST__NIKLAAS/)
 </script>
+<script type="text/javascript">

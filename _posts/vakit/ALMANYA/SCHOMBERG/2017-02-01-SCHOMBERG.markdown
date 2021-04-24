@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHOMBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHOMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHOMBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHOMBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHOMBERG';
+* [ (SCHOMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHOMBERG/)
 </script>
+<script type="text/javascript">

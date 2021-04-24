@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/ZNOJMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZNOJMO, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/ZNOJMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'ZNOJMO';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'ZNOJMO';
+* [ (ZNOJMO, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/ZNOJMO/)
 </script>
+<script type="text/javascript">

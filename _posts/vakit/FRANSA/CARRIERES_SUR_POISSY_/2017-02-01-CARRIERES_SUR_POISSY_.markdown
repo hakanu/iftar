@@ -8,10 +8,11 @@ permalink: /FRANSA/CARRIERES SUR POISSY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARRIERES_SUR_POISSY_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CARRIERES_SUR_POISSY_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CARRIERES SUR POISSY ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CARRIERES SUR POISSY ';
+* [ (CARRIERES_SUR_POISSY_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CARRIERES_SUR_POISSY_/)
 </script>
+<script type="text/javascript">

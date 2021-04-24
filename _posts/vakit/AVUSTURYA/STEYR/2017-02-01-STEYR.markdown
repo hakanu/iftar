@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/STEYR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEYR, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/STEYR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'STEYR';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'STEYR';
+* [ (STEYR, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/STEYR/)
 </script>
+<script type="text/javascript">

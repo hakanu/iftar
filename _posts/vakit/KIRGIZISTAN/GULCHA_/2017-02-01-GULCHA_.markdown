@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/GULCHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GULCHA_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/GULCHA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'GULCHA ';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'GULCHA ';
+* [ (GULCHA_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/GULCHA_/)
 </script>
+<script type="text/javascript">

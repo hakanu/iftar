@@ -8,10 +8,11 @@ permalink: /CEZAYIR/OUED ATHMENIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUED_ATHMENIA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/OUED_ATHMENIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'OUED ATHMENIA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'OUED ATHMENIA';
+* [ (OUED_ATHMENIA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/OUED_ATHMENIA/)
 </script>
+<script type="text/javascript">

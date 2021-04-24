@@ -8,10 +8,11 @@ permalink: /ALMANYA/HARDEGSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARDEGSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HARDEGSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HARDEGSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HARDEGSEN';
+* [ (HARDEGSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HARDEGSEN/)
 </script>
+<script type="text/javascript">

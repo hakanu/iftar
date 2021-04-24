@@ -8,10 +8,11 @@ permalink: /FRANSA/BOUZONVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOUZONVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOUZONVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BOUZONVILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BOUZONVILLE';
+* [ (BOUZONVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOUZONVILLE/)
 </script>
+<script type="text/javascript">

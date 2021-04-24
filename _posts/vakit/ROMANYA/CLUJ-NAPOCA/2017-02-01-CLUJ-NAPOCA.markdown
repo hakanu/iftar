@@ -8,10 +8,11 @@ permalink: /ROMANYA/CLUJ-NAPOCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CLUJ-NAPOCA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/CLUJ-NAPOCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'CLUJ-NAPOCA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'CLUJ-NAPOCA';
+* [ (CLUJ-NAPOCA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/CLUJ-NAPOCA/)
 </script>
+<script type="text/javascript">

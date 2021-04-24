@@ -8,10 +8,11 @@ permalink: /ALMANYA/GELSENKIRCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GELSENKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELSENKIRCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GELSENKIRCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GELSENKIRCHEN';
+* [ (GELSENKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELSENKIRCHEN/)
 </script>
+<script type="text/javascript">

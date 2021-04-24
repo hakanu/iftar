@@ -8,10 +8,11 @@ permalink: /RUSYA/KASPIYSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASPIYSK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KASPIYSK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KASPIYSK ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KASPIYSK ';
+* [ (KASPIYSK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KASPIYSK_/)
 </script>
+<script type="text/javascript">

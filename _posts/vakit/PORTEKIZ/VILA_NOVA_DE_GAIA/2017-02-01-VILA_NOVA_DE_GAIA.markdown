@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/VILA NOVA DE GAIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILA_NOVA_DE_GAIA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/VILA_NOVA_DE_GAIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'VILA NOVA DE GAIA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'VILA NOVA DE GAIA';
+* [ (VILA_NOVA_DE_GAIA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/VILA_NOVA_DE_GAIA/)
 </script>
+<script type="text/javascript">

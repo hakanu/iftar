@@ -8,10 +8,11 @@ permalink: /BOLIVYA/CORIOCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORIOCO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CORIOCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'CORIOCO';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'CORIOCO';
+* [ (CORIOCO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/CORIOCO/)
 </script>
+<script type="text/javascript">

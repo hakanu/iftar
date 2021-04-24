@@ -8,10 +8,11 @@ permalink: /DANIMARKA/LOJT KIRKEBY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOJT_KIRKEBY, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/LOJT_KIRKEBY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'LOJT KIRKEBY';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'LOJT KIRKEBY';
+* [ (LOJT_KIRKEBY, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/LOJT_KIRKEBY/)
 </script>
+<script type="text/javascript">

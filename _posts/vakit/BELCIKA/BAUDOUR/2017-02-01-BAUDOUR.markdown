@@ -8,10 +8,11 @@ permalink: /BELCIKA/BAUDOUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAUDOUR, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BAUDOUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BAUDOUR';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BAUDOUR';
+* [ (BAUDOUR, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BAUDOUR/)
 </script>
+<script type="text/javascript">

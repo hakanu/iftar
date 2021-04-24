@@ -8,10 +8,11 @@ permalink: /ITALYA/RAVENNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAVENNA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RAVENNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'RAVENNA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'RAVENNA';
+* [ (RAVENNA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RAVENNA/)
 </script>
+<script type="text/javascript">

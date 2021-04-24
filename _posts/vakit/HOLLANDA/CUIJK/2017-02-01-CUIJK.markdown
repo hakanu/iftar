@@ -8,10 +8,11 @@ permalink: /HOLLANDA/CUIJK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CUIJK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'CUIJK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'CUIJK';
+* [ (CUIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CUIJK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FAS/SALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALE, FAS) için iftar ve namaz vakitleri](/FAS/SALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'SALE';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'SALE';
+* [ (SALE, FAS) için iftar ve namaz vakitleri](/FAS/SALE/)
 </script>
+<script type="text/javascript">

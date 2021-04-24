@@ -8,10 +8,11 @@ permalink: /ISVICRE/RENENS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RENENS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RENENS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'RENENS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'RENENS';
+* [ (RENENS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RENENS/)
 </script>
+<script type="text/javascript">

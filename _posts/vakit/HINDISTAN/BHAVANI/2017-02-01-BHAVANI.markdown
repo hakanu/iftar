@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BHAVANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BHAVANI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHAVANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BHAVANI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BHAVANI';
+* [ (BHAVANI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BHAVANI/)
 </script>
+<script type="text/javascript">

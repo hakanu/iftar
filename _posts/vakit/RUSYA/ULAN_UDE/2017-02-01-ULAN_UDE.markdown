@@ -8,10 +8,11 @@ permalink: /RUSYA/ULAN UDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULAN_UDE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ULAN_UDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ULAN UDE';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ULAN UDE';
+* [ (ULAN_UDE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ULAN_UDE/)
 </script>
+<script type="text/javascript">

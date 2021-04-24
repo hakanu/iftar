@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/QARSHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QARSHI, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/QARSHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'QARSHI';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'QARSHI';
+* [ (QARSHI, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/QARSHI/)
 </script>
+<script type="text/javascript">

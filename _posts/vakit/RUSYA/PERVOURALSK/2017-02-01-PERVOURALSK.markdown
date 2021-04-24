@@ -8,10 +8,11 @@ permalink: /RUSYA/PERVOURALSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERVOURALSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PERVOURALSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PERVOURALSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PERVOURALSK';
+* [ (PERVOURALSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PERVOURALSK/)
 </script>
+<script type="text/javascript">

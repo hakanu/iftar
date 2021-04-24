@@ -8,10 +8,11 @@ permalink: /ALMANYA/MELSUNGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELSUNGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MELSUNGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MELSUNGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MELSUNGEN';
+* [ (MELSUNGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MELSUNGEN/)
 </script>
+<script type="text/javascript">

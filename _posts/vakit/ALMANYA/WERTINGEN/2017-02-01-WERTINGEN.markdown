@@ -8,10 +8,11 @@ permalink: /ALMANYA/WERTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WERTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERTINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WERTINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WERTINGEN';
+* [ (WERTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERTINGEN/)
 </script>
+<script type="text/javascript">

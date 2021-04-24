@@ -8,10 +8,11 @@ permalink: /YEMEN/AL HUDAYDAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_HUDAYDAH, YEMEN) için iftar ve namaz vakitleri](/YEMEN/AL_HUDAYDAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YEMEN';
+
   var GLOBAL_CITY = 'AL HUDAYDAH';
+  var GLOBAL_COUNTRY = 'YEMEN';
   var GLOBAL_STATE = 'AL HUDAYDAH';
+* [ (AL_HUDAYDAH, YEMEN) için iftar ve namaz vakitleri](/YEMEN/AL_HUDAYDAH/)
 </script>
+<script type="text/javascript">

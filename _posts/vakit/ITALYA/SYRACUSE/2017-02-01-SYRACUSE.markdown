@@ -8,10 +8,11 @@ permalink: /ITALYA/SYRACUSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SYRACUSE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SYRACUSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SYRACUSE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SYRACUSE';
+* [ (SYRACUSE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SYRACUSE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/CHANGSHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANGSHA, CIN) için iftar ve namaz vakitleri](/CIN/CHANGSHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHANGSHA';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHANGSHA';
+* [ (CHANGSHA, CIN) için iftar ve namaz vakitleri](/CIN/CHANGSHA/)
 </script>
+<script type="text/javascript">

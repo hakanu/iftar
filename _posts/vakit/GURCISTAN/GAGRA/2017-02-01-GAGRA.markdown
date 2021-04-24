@@ -8,10 +8,11 @@ permalink: /GURCISTAN/GAGRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAGRA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/GAGRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'GAGRA';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'GAGRA';
+* [ (GAGRA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/GAGRA/)
 </script>
+<script type="text/javascript">

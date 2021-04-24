@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRUGGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUGGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUGGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRUGGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRUGGEN';
+* [ (BRUGGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUGGEN/)
 </script>
+<script type="text/javascript">

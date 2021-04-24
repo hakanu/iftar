@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/PORT ELIZABETH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT_ELIZABETH, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/PORT_ELIZABETH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'PORT ELIZABETH';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'PORT ELIZABETH';
+* [ (PORT_ELIZABETH, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/PORT_ELIZABETH/)
 </script>
+<script type="text/javascript">

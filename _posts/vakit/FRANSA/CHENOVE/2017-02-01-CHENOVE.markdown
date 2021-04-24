@@ -8,10 +8,11 @@ permalink: /FRANSA/CHENOVE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHENOVE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHENOVE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHENOVE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHENOVE';
+* [ (CHENOVE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHENOVE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/CARCASSONNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARCASSONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CARCASSONNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CARCASSONNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CARCASSONNE';
+* [ (CARCASSONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CARCASSONNE/)
 </script>
+<script type="text/javascript">

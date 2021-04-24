@@ -8,10 +8,11 @@ permalink: /HINDISTAN/THANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THANE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/THANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'THANE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'THANE';
+* [ (THANE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/THANE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/BOURNEMOUTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOURNEMOUTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BOURNEMOUTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BOURNEMOUTH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BOURNEMOUTH';
+* [ (BOURNEMOUTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BOURNEMOUTH/)
 </script>
+<script type="text/javascript">

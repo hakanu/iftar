@@ -8,10 +8,11 @@ permalink: /FILIPINLER/SAN PABLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_PABLO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_PABLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'SAN PABLO';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'SAN PABLO';
+* [ (SAN_PABLO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_PABLO/)
 </script>
+<script type="text/javascript">

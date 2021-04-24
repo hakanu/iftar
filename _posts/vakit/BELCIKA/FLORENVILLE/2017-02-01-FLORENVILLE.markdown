@@ -8,10 +8,11 @@ permalink: /BELCIKA/FLORENVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORENVILLE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FLORENVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'FLORENVILLE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'FLORENVILLE';
+* [ (FLORENVILLE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/FLORENVILLE/)
 </script>
+<script type="text/javascript">

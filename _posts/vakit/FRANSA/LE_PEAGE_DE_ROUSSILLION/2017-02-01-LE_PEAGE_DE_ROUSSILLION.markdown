@@ -8,10 +8,11 @@ permalink: /FRANSA/LE PEAGE DE ROUSSILLION
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_PEAGE_DE_ROUSSILLION, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PEAGE_DE_ROUSSILLION/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE PEAGE DE ROUSSILLION';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE PEAGE DE ROUSSILLION';
+* [ (LE_PEAGE_DE_ROUSSILLION, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PEAGE_DE_ROUSSILLION/)
 </script>
+<script type="text/javascript">

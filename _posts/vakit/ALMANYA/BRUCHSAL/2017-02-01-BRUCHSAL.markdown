@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRUCHSAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUCHSAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUCHSAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRUCHSAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRUCHSAL';
+* [ (BRUCHSAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUCHSAL/)
 </script>
+<script type="text/javascript">

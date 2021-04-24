@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/MAYKAIN (Ekibastuz)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAYKAIN_(Ekibastuz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MAYKAIN_(Ekibastuz)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'MAYKAIN (Ekibastuz)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'MAYKAIN (Ekibastuz)';
+* [ (MAYKAIN_(Ekibastuz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MAYKAIN_(Ekibastuz)/)
 </script>
+<script type="text/javascript">

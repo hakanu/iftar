@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/KOSICE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOSICE, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/KOSICE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'KOSICE';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'KOSICE';
+* [ (KOSICE, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/KOSICE/)
 </script>
+<script type="text/javascript">

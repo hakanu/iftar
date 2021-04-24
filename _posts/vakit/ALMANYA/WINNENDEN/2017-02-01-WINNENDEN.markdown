@@ -8,10 +8,11 @@ permalink: /ALMANYA/WINNENDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WINNENDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WINNENDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WINNENDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WINNENDEN';
+* [ (WINNENDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WINNENDEN/)
 </script>
+<script type="text/javascript">

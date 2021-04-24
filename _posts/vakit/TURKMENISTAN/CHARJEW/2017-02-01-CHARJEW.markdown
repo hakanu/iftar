@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/CHARJEW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHARJEW, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/CHARJEW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'CHARJEW';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'CHARJEW';
+* [ (CHARJEW, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/CHARJEW/)
 </script>
+<script type="text/javascript">

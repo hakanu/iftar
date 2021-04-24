@@ -8,10 +8,11 @@ permalink: /ALMANYA/GRASELLENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRASELLENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GRASELLENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GRASELLENBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GRASELLENBACH';
+* [ (GRASELLENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GRASELLENBACH/)
 </script>
+<script type="text/javascript">

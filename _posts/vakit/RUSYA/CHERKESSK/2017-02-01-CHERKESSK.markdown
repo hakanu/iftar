@@ -8,10 +8,11 @@ permalink: /RUSYA/CHERKESSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHERKESSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHERKESSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'CHERKESSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'CHERKESSK';
+* [ (CHERKESSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHERKESSK/)
 </script>
+<script type="text/javascript">

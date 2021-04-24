@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HOHENEMS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOHENEMS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HOHENEMS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HOHENEMS';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HOHENEMS';
+* [ (HOHENEMS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HOHENEMS/)
 </script>
+<script type="text/javascript">

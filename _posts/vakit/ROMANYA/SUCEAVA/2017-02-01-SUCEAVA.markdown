@@ -8,10 +8,11 @@ permalink: /ROMANYA/SUCEAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUCEAVA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SUCEAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'SUCEAVA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'SUCEAVA';
+* [ (SUCEAVA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SUCEAVA/)
 </script>
+<script type="text/javascript">

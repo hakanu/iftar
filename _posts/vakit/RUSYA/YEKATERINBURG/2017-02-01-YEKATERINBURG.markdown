@@ -8,10 +8,11 @@ permalink: /RUSYA/YEKATERINBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YEKATERINBURG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YEKATERINBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'YEKATERINBURG';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'YEKATERINBURG';
+* [ (YEKATERINBURG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YEKATERINBURG/)
 </script>
+<script type="text/javascript">

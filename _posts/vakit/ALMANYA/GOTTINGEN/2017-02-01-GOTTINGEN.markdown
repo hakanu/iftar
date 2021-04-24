@@ -8,10 +8,11 @@ permalink: /ALMANYA/GOTTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOTTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOTTINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GOTTINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GOTTINGEN';
+* [ (GOTTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOTTINGEN/)
 </script>
+<script type="text/javascript">

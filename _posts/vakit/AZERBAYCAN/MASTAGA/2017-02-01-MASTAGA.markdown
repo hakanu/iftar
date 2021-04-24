@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/MASTAGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MASTAGA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/MASTAGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'MASTAGA';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'MASTAGA';
+* [ (MASTAGA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/MASTAGA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/SPRINGWOOD (Q)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPRINGWOOD_(Q), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SPRINGWOOD_(Q)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'SPRINGWOOD (Q)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'SPRINGWOOD (Q)';
+* [ (SPRINGWOOD_(Q), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SPRINGWOOD_(Q)/)
 </script>
+<script type="text/javascript">

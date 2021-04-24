@@ -8,10 +8,11 @@ permalink: /RUSYA/ROSTOV(yaroslavl)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSTOV(yaroslavl), RUSYA) için iftar ve namaz vakitleri](/RUSYA/ROSTOV(yaroslavl)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ROSTOV(yaroslavl)';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ROSTOV(yaroslavl)';
+* [ (ROSTOV(yaroslavl), RUSYA) için iftar ve namaz vakitleri](/RUSYA/ROSTOV(yaroslavl)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERRINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERRINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERRINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERRINGEN';
+* [ (HERRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERRINGEN/)
 </script>
+<script type="text/javascript">

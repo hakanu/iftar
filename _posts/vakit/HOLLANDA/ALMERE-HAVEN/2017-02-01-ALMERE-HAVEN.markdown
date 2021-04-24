@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ALMERE-HAVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALMERE-HAVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALMERE-HAVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ALMERE-HAVEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ALMERE-HAVEN';
+* [ (ALMERE-HAVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ALMERE-HAVEN/)
 </script>
+<script type="text/javascript">

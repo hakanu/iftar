@@ -8,10 +8,11 @@ permalink: /ITALYA/VIGEVANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIGEVANO_________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VIGEVANO_________________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VIGEVANO                         ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VIGEVANO                         ';
+* [ (VIGEVANO_________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VIGEVANO_________________________/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/WOLUWE-SAINT-PIERRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOLUWE-SAINT-PIERRE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WOLUWE-SAINT-PIERRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WOLUWE-SAINT-PIERRE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WOLUWE-SAINT-PIERRE';
+* [ (WOLUWE-SAINT-PIERRE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WOLUWE-SAINT-PIERRE/)
 </script>
+<script type="text/javascript">

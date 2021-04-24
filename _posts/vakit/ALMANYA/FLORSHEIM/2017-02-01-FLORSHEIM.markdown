@@ -8,10 +8,11 @@ permalink: /ALMANYA/FLORSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FLORSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FLORSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FLORSHEIM';
+* [ (FLORSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FLORSHEIM/)
 </script>
+<script type="text/javascript">

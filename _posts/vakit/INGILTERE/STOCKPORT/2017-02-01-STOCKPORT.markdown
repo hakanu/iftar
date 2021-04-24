@@ -8,10 +8,11 @@ permalink: /INGILTERE/STOCKPORT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STOCKPORT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STOCKPORT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'STOCKPORT';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'STOCKPORT';
+* [ (STOCKPORT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STOCKPORT/)
 </script>
+<script type="text/javascript">

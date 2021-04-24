@@ -8,10 +8,11 @@ permalink: /ALMANYA/LANGWEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANGWEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANGWEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LANGWEID';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LANGWEID';
+* [ (LANGWEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANGWEID/)
 </script>
+<script type="text/javascript">

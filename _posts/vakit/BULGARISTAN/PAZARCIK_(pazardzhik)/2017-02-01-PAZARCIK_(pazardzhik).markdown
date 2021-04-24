@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/PAZARCIK (pazardzhik)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAZARCIK_(pazardzhik), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PAZARCIK_(pazardzhik)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'PAZARCIK (pazardzhik)';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'PAZARCIK (pazardzhik)';
+* [ (PAZARCIK_(pazardzhik), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PAZARCIK_(pazardzhik)/)
 </script>
+<script type="text/javascript">

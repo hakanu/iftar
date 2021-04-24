@@ -8,10 +8,11 @@ permalink: /IRAN/DEZFUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEZFUL, IRAN) için iftar ve namaz vakitleri](/IRAN/DEZFUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'DEZFUL';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'DEZFUL';
+* [ (DEZFUL, IRAN) için iftar ve namaz vakitleri](/IRAN/DEZFUL/)
 </script>
+<script type="text/javascript">

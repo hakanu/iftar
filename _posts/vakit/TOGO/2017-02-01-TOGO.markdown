@@ -8,6 +8,7 @@ permalink: /TOGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SOKODE (TOGO) için iftar ve namaz vakitleri](/TOGO/SOKODE)
-* [NIAMTOUGOU (TOGO) için iftar ve namaz vakitleri](/TOGO/NIAMTOUGOU)
+
 * [LOME (TOGO) için iftar ve namaz vakitleri](/TOGO/LOME)
+* [NIAMTOUGOU (TOGO) için iftar ve namaz vakitleri](/TOGO/NIAMTOUGOU)
+* [SOKODE (TOGO) için iftar ve namaz vakitleri](/TOGO/SOKODE)

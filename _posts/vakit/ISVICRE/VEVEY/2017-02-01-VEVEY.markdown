@@ -8,10 +8,11 @@ permalink: /ISVICRE/VEVEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VEVEY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/VEVEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'VEVEY';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'VEVEY';
+* [ (VEVEY, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/VEVEY/)
 </script>
+<script type="text/javascript">

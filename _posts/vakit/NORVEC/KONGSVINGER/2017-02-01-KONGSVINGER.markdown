@@ -8,10 +8,11 @@ permalink: /NORVEC/KONGSVINGER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONGSVINGER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KONGSVINGER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'KONGSVINGER';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'KONGSVINGER';
+* [ (KONGSVINGER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KONGSVINGER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PAKISTAN/HYDERABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HYDERABAD, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/HYDERABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'HYDERABAD';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'HYDERABAD';
+* [ (HYDERABAD, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/HYDERABAD/)
 </script>
+<script type="text/javascript">

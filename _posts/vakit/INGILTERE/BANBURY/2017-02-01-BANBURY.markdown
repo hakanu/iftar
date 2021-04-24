@@ -8,10 +8,11 @@ permalink: /INGILTERE/BANBURY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BANBURY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BANBURY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BANBURY';
+* [ (BANBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BANBURY/)
 </script>
+<script type="text/javascript">

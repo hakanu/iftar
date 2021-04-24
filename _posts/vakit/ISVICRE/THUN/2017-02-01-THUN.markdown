@@ -8,10 +8,11 @@ permalink: /ISVICRE/THUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THUN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/THUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'THUN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'THUN';
+* [ (THUN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/THUN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/SHEMORDAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHEMORDAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHEMORDAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SHEMORDAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SHEMORDAN';
+* [ (SHEMORDAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHEMORDAN/)
 </script>
+<script type="text/javascript">

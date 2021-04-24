@@ -8,10 +8,11 @@ permalink: /ALMANYA/GERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GERA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GERA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GERA';
+* [ (GERA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GERA/)
 </script>
+<script type="text/javascript">

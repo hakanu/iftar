@@ -8,10 +8,11 @@ permalink: /FRANSA/METZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (METZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/METZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'METZ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'METZ';
+* [ (METZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/METZ/)
 </script>
+<script type="text/javascript">

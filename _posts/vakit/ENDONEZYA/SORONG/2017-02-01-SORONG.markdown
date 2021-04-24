@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/SORONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SORONG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SORONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'SORONG';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'SORONG';
+* [ (SORONG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/SORONG/)
 </script>
+<script type="text/javascript">

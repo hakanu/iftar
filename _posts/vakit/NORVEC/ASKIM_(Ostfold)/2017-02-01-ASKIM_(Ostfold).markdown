@@ -8,10 +8,11 @@ permalink: /NORVEC/ASKIM (Ostfold)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASKIM_(Ostfold), NORVEC) için iftar ve namaz vakitleri](/NORVEC/ASKIM_(Ostfold)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'ASKIM (Ostfold)';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'ASKIM (Ostfold)';
+* [ (ASKIM_(Ostfold), NORVEC) için iftar ve namaz vakitleri](/NORVEC/ASKIM_(Ostfold)/)
 </script>
+<script type="text/javascript">

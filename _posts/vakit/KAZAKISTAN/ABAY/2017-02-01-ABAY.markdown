@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ABAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ABAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ABAY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ABAY';
+* [ (ABAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ABAY/)
 </script>
+<script type="text/javascript">

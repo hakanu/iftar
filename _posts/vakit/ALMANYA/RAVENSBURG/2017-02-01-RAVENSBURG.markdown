@@ -8,10 +8,11 @@ permalink: /ALMANYA/RAVENSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAVENSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RAVENSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RAVENSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RAVENSBURG';
+* [ (RAVENSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RAVENSBURG/)
 </script>
+<script type="text/javascript">

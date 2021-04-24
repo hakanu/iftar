@@ -8,10 +8,11 @@ permalink: /ISVICRE/NAFELS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAFELS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/NAFELS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'NAFELS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'NAFELS';
+* [ (NAFELS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/NAFELS/)
 </script>
+<script type="text/javascript">

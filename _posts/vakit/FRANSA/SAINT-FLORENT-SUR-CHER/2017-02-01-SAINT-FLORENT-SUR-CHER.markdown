@@ -8,10 +8,11 @@ permalink: /FRANSA/SAINT-FLORENT-SUR-CHER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT-FLORENT-SUR-CHER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT-FLORENT-SUR-CHER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SAINT-FLORENT-SUR-CHER';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SAINT-FLORENT-SUR-CHER';
+* [ (SAINT-FLORENT-SUR-CHER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT-FLORENT-SUR-CHER/)
 </script>
+<script type="text/javascript">

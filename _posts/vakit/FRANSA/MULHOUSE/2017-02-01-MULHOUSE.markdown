@@ -8,10 +8,11 @@ permalink: /FRANSA/MULHOUSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MULHOUSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MULHOUSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MULHOUSE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MULHOUSE';
+* [ (MULHOUSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MULHOUSE/)
 </script>
+<script type="text/javascript">

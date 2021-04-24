@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/TAMWORTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAMWORTH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TAMWORTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'TAMWORTH';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'TAMWORTH';
+* [ (TAMWORTH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TAMWORTH/)
 </script>
+<script type="text/javascript">

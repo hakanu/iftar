@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ARANDAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARANDAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ARANDAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ARANDAS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ARANDAS';
+* [ (ARANDAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ARANDAS/)
 </script>
+<script type="text/javascript">

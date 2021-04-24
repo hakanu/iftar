@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/AKTEPE (aktyubinsk)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKTEPE_(aktyubinsk), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKTEPE_(aktyubinsk)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'AKTEPE (aktyubinsk)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'AKTEPE (aktyubinsk)';
+* [ (AKTEPE_(aktyubinsk), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKTEPE_(aktyubinsk)/)
 </script>
+<script type="text/javascript">

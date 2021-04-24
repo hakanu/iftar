@@ -8,10 +8,11 @@ permalink: /JAPONYA/ICHINOMIYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ICHINOMIYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ICHINOMIYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ICHINOMIYA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ICHINOMIYA';
+* [ (ICHINOMIYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ICHINOMIYA/)
 </script>
+<script type="text/javascript">

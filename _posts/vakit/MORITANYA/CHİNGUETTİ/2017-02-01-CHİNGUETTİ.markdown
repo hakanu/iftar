@@ -8,10 +8,11 @@ permalink: /MORITANYA/CHİNGUETTİ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHİNGUETTİ, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/CHİNGUETTİ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'CHİNGUETTİ';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'CHİNGUETTİ';
+* [ (CHİNGUETTİ, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/CHİNGUETTİ/)
 </script>
+<script type="text/javascript">

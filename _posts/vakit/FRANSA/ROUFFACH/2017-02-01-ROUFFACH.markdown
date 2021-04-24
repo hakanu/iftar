@@ -8,10 +8,11 @@ permalink: /FRANSA/ROUFFACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROUFFACH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROUFFACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ROUFFACH';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ROUFFACH';
+* [ (ROUFFACH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROUFFACH/)
 </script>
+<script type="text/javascript">

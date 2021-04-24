@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/BLATEC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLATEC_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/BLATEC_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'BLATEC ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'BLATEC ';
+* [ (BLATEC_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/BLATEC_/)
 </script>
+<script type="text/javascript">

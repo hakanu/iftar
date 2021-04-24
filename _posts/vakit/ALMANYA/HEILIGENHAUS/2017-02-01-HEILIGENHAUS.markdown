@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEILIGENHAUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEILIGENHAUS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEILIGENHAUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEILIGENHAUS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEILIGENHAUS';
+* [ (HEILIGENHAUS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEILIGENHAUS/)
 </script>
+<script type="text/javascript">

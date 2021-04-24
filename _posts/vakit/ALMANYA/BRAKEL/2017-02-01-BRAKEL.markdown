@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRAKEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRAKEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRAKEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRAKEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRAKEL';
+* [ (BRAKEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRAKEL/)
 </script>
+<script type="text/javascript">

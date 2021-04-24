@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/BAKYRLY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAKYRLY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BAKYRLY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'BAKYRLY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'BAKYRLY';
+* [ (BAKYRLY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/BAKYRLY/)
 </script>
+<script type="text/javascript">

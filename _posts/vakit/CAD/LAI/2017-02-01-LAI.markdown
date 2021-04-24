@@ -8,10 +8,11 @@ permalink: /CAD/LAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAI, CAD) için iftar ve namaz vakitleri](/CAD/LAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'LAI';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'LAI';
+* [ (LAI, CAD) için iftar ve namaz vakitleri](/CAD/LAI/)
 </script>
+<script type="text/javascript">

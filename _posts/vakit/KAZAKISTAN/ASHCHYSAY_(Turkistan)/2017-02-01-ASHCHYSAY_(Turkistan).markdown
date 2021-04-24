@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ASHCHYSAY (Turkistan)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASHCHYSAY_(Turkistan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ASHCHYSAY_(Turkistan)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ASHCHYSAY (Turkistan)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ASHCHYSAY (Turkistan)';
+* [ (ASHCHYSAY_(Turkistan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ASHCHYSAY_(Turkistan)/)
 </script>
+<script type="text/javascript">

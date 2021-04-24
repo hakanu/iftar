@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/GERMISTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GERMISTON, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/GERMISTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'GERMISTON';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'GERMISTON';
+* [ (GERMISTON, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/GERMISTON/)
 </script>
+<script type="text/javascript">

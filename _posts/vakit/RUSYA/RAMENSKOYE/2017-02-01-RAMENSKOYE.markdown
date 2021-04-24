@@ -8,10 +8,11 @@ permalink: /RUSYA/RAMENSKOYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAMENSKOYE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RAMENSKOYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'RAMENSKOYE';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'RAMENSKOYE';
+* [ (RAMENSKOYE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RAMENSKOYE/)
 </script>
+<script type="text/javascript">

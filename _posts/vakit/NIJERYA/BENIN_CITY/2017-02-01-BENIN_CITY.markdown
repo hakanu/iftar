@@ -8,10 +8,11 @@ permalink: /NIJERYA/BENIN CITY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENIN_CITY, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/BENIN_CITY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'BENIN CITY';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'BENIN CITY';
+* [ (BENIN_CITY, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/BENIN_CITY/)
 </script>
+<script type="text/javascript">

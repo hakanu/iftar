@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/RUMELANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUMELANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/RUMELANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'RUMELANGE';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'RUMELANGE';
+* [ (RUMELANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/RUMELANGE/)
 </script>
+<script type="text/javascript">

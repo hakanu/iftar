@@ -8,10 +8,11 @@ permalink: /SLOVENYA/CELJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CELJE, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/CELJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'CELJE';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'CELJE';
+* [ (CELJE, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/CELJE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILISTIN/NABLUS (W_B_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NABLUS_(W_B_), FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/NABLUS_(W_B_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'NABLUS (W_B_)';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'NABLUS (W_B_)';
+* [ (NABLUS_(W_B_), FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/NABLUS_(W_B_)/)
 </script>
+<script type="text/javascript">

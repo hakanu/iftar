@@ -8,10 +8,11 @@ permalink: /MACARISTAN/MONOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONOR, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/MONOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'MONOR';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'MONOR';
+* [ (MONOR, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/MONOR/)
 </script>
+<script type="text/javascript">

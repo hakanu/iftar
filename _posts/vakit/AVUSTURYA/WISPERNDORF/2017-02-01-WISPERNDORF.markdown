@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/WISPERNDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WISPERNDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WISPERNDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'WISPERNDORF';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'WISPERNDORF';
+* [ (WISPERNDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WISPERNDORF/)
 </script>
+<script type="text/javascript">

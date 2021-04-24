@@ -8,10 +8,11 @@ permalink: /KENYA/ELDORET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELDORET, KENYA) için iftar ve namaz vakitleri](/KENYA/ELDORET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KENYA';
+
   var GLOBAL_CITY = 'ELDORET';
+  var GLOBAL_COUNTRY = 'KENYA';
   var GLOBAL_STATE = 'ELDORET';
+* [ (ELDORET, KENYA) için iftar ve namaz vakitleri](/KENYA/ELDORET/)
 </script>
+<script type="text/javascript">

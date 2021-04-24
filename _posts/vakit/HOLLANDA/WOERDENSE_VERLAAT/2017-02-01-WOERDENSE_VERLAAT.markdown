@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WOERDENSE VERLAAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOERDENSE_VERLAAT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WOERDENSE_VERLAAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WOERDENSE VERLAAT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WOERDENSE VERLAAT';
+* [ (WOERDENSE_VERLAAT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WOERDENSE_VERLAAT/)
 </script>
+<script type="text/javascript">

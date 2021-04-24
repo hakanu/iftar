@@ -8,10 +8,11 @@ permalink: /NIJERYA/LAGOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAGOS, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/LAGOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'LAGOS';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'LAGOS';
+* [ (LAGOS, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/LAGOS/)
 </script>
+<script type="text/javascript">

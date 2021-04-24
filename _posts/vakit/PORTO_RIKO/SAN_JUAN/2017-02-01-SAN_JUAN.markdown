@@ -8,10 +8,11 @@ permalink: /PORTO RIKO/SAN JUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_JUAN, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_JUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTO RIKO';
+
   var GLOBAL_CITY = 'SAN JUAN';
+  var GLOBAL_COUNTRY = 'PORTO RIKO';
   var GLOBAL_STATE = 'SAN JUAN';
+* [ (SAN_JUAN, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_JUAN/)
 </script>
+<script type="text/javascript">

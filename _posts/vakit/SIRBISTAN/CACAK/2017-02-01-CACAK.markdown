@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/CACAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CACAK, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/CACAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'CACAK';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'CACAK';
+* [ (CACAK, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/CACAK/)
 </script>
+<script type="text/javascript">

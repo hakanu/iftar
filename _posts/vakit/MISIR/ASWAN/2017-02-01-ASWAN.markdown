@@ -8,10 +8,11 @@ permalink: /MISIR/ASWAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASWAN, MISIR) için iftar ve namaz vakitleri](/MISIR/ASWAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'ASWAN';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'ASWAN';
+* [ (ASWAN, MISIR) için iftar ve namaz vakitleri](/MISIR/ASWAN/)
 </script>
+<script type="text/javascript">

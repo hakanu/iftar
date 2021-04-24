@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/DEUTSCHLANDSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEUTSCHLANDSBERG_, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/DEUTSCHLANDSBERG_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'DEUTSCHLANDSBERG ';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'DEUTSCHLANDSBERG ';
+* [ (DEUTSCHLANDSBERG_, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/DEUTSCHLANDSBERG_/)
 </script>
+<script type="text/javascript">

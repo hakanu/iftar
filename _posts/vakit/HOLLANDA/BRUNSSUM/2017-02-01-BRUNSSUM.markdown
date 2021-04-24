@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BRUNSSUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUNSSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BRUNSSUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BRUNSSUM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BRUNSSUM';
+* [ (BRUNSSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BRUNSSUM/)
 </script>
+<script type="text/javascript">

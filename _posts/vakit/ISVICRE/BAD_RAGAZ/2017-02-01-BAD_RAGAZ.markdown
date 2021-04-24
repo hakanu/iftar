@@ -8,10 +8,11 @@ permalink: /ISVICRE/BAD RAGAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_RAGAZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BAD_RAGAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BAD RAGAZ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BAD RAGAZ';
+* [ (BAD_RAGAZ, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BAD_RAGAZ/)
 </script>
+<script type="text/javascript">

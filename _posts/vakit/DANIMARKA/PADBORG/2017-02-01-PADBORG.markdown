@@ -8,10 +8,11 @@ permalink: /DANIMARKA/PADBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PADBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/PADBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'PADBORG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'PADBORG';
+* [ (PADBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/PADBORG/)
 </script>
+<script type="text/javascript">

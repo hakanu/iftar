@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/MAYAKUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAYAKUM, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MAYAKUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'MAYAKUM';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'MAYAKUM';
+* [ (MAYAKUM, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MAYAKUM/)
 </script>
+<script type="text/javascript">

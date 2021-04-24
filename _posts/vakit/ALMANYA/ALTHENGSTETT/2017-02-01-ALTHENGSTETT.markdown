@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALTHENGSTETT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALTHENGSTETT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALTHENGSTETT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALTHENGSTETT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALTHENGSTETT';
+* [ (ALTHENGSTETT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALTHENGSTETT/)
 </script>
+<script type="text/javascript">

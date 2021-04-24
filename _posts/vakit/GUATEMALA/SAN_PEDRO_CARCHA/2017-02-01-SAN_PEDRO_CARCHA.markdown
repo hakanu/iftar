@@ -8,10 +8,11 @@ permalink: /GUATEMALA/SAN PEDRO CARCHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_PEDRO_CARCHA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/SAN_PEDRO_CARCHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUATEMALA';
+
   var GLOBAL_CITY = 'SAN PEDRO CARCHA';
+  var GLOBAL_COUNTRY = 'GUATEMALA';
   var GLOBAL_STATE = 'SAN PEDRO CARCHA';
+* [ (SAN_PEDRO_CARCHA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/SAN_PEDRO_CARCHA/)
 </script>
+<script type="text/javascript">

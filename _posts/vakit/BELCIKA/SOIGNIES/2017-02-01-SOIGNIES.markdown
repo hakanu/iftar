@@ -8,10 +8,11 @@ permalink: /BELCIKA/SOIGNIES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOIGNIES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SOIGNIES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'SOIGNIES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'SOIGNIES';
+* [ (SOIGNIES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SOIGNIES/)
 </script>
+<script type="text/javascript">

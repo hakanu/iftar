@@ -8,10 +8,11 @@ permalink: /ROMANYA/MECIDIYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MECIDIYE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/MECIDIYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'MECIDIYE';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'MECIDIYE';
+* [ (MECIDIYE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/MECIDIYE/)
 </script>
+<script type="text/javascript">

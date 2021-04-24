@@ -8,10 +8,11 @@ permalink: /ALMANYA/LENNESTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENNESTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LENNESTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LENNESTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LENNESTADT';
+* [ (LENNESTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LENNESTADT/)
 </script>
+<script type="text/javascript">

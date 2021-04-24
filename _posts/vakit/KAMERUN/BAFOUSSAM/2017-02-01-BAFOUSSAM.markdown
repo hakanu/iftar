@@ -8,10 +8,11 @@ permalink: /KAMERUN/BAFOUSSAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAFOUSSAM, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/BAFOUSSAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMERUN';
+
   var GLOBAL_CITY = 'BAFOUSSAM';
+  var GLOBAL_COUNTRY = 'KAMERUN';
   var GLOBAL_STATE = 'BAFOUSSAM';
+* [ (BAFOUSSAM, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/BAFOUSSAM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/BORINKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORINKA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BORINKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'BORINKA';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'BORINKA';
+* [ (BORINKA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/BORINKA/)
 </script>
+<script type="text/javascript">

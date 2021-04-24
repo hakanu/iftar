@@ -8,10 +8,11 @@ permalink: /ISPANYA/ALICANTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALICANTE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ALICANTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'ALICANTE';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'ALICANTE';
+* [ (ALICANTE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ALICANTE/)
 </script>
+<script type="text/javascript">

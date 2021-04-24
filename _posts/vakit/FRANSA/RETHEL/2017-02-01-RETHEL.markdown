@@ -8,10 +8,11 @@ permalink: /FRANSA/RETHEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RETHEL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RETHEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RETHEL';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RETHEL';
+* [ (RETHEL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RETHEL/)
 </script>
+<script type="text/javascript">

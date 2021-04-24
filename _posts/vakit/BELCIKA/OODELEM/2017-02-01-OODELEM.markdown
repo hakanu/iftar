@@ -8,10 +8,11 @@ permalink: /BELCIKA/OODELEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OODELEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OODELEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'OODELEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'OODELEM';
+* [ (OODELEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OODELEM/)
 </script>
+<script type="text/javascript">

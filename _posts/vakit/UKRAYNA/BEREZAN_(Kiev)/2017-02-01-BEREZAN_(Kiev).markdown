@@ -8,10 +8,11 @@ permalink: /UKRAYNA/BEREZAN (Kiev)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEREZAN_(Kiev), UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BEREZAN_(Kiev)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'BEREZAN (Kiev)';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'BEREZAN (Kiev)';
+* [ (BEREZAN_(Kiev), UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BEREZAN_(Kiev)/)
 </script>
+<script type="text/javascript">

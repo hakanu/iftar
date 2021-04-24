@@ -8,10 +8,11 @@ permalink: /ALMANYA/EUSKIRCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EUSKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EUSKIRCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EUSKIRCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EUSKIRCHEN';
+* [ (EUSKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EUSKIRCHEN/)
 </script>
+<script type="text/javascript">

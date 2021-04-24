@@ -8,10 +8,11 @@ permalink: /ALMANYA/PELKUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PELKUM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PELKUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PELKUM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PELKUM';
+* [ (PELKUM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PELKUM/)
 </script>
+<script type="text/javascript">

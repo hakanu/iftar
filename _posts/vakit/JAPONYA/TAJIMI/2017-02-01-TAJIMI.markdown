@@ -8,10 +8,11 @@ permalink: /JAPONYA/TAJIMI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAJIMI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAJIMI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TAJIMI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TAJIMI';
+* [ (TAJIMI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAJIMI/)
 </script>
+<script type="text/javascript">

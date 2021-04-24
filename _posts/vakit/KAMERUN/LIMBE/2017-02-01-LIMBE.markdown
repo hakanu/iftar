@@ -8,10 +8,11 @@ permalink: /KAMERUN/LIMBE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIMBE, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/LIMBE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMERUN';
+
   var GLOBAL_CITY = 'LIMBE';
+  var GLOBAL_COUNTRY = 'KAMERUN';
   var GLOBAL_STATE = 'LIMBE';
+* [ (LIMBE, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/LIMBE/)
 </script>
+<script type="text/javascript">

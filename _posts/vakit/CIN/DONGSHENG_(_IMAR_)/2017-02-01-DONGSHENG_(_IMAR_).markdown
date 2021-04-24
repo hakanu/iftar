@@ -8,10 +8,11 @@ permalink: /CIN/DONGSHENG ( IMAR )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DONGSHENG_(_IMAR_), CIN) için iftar ve namaz vakitleri](/CIN/DONGSHENG_(_IMAR_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DONGSHENG ( IMAR )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DONGSHENG ( IMAR )';
+* [ (DONGSHENG_(_IMAR_), CIN) için iftar ve namaz vakitleri](/CIN/DONGSHENG_(_IMAR_)/)
 </script>
+<script type="text/javascript">

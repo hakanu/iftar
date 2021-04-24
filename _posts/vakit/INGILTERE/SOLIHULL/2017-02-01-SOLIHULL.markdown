@@ -8,10 +8,11 @@ permalink: /INGILTERE/SOLIHULL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOLIHULL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SOLIHULL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'SOLIHULL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'SOLIHULL';
+* [ (SOLIHULL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SOLIHULL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KOSOVA/FERİZOVİK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FERİZOVİK, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/FERİZOVİK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSOVA';
+
   var GLOBAL_CITY = 'FERİZOVİK';
+  var GLOBAL_COUNTRY = 'KOSOVA';
   var GLOBAL_STATE = 'FERİZOVİK';
+* [ (FERİZOVİK, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/FERİZOVİK/)
 </script>
+<script type="text/javascript">

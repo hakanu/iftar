@@ -8,10 +8,11 @@ permalink: /FRANSA/REDON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REDON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/REDON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'REDON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'REDON';
+* [ (REDON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/REDON/)
 </script>
+<script type="text/javascript">

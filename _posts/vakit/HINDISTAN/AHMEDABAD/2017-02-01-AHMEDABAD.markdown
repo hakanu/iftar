@@ -8,10 +8,11 @@ permalink: /HINDISTAN/AHMEDABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AHMEDABAD, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AHMEDABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'AHMEDABAD';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'AHMEDABAD';
+* [ (AHMEDABAD, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AHMEDABAD/)
 </script>
+<script type="text/javascript">

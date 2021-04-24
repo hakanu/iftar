@@ -8,10 +8,11 @@ permalink: /ALMANYA/KELHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KELHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KELHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KELHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KELHEIM';
+* [ (KELHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KELHEIM/)
 </script>
+<script type="text/javascript">

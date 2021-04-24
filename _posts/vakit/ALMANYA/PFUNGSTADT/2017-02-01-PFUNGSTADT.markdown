@@ -8,10 +8,11 @@ permalink: /ALMANYA/PFUNGSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PFUNGSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PFUNGSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PFUNGSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PFUNGSTADT';
+* [ (PFUNGSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PFUNGSTADT/)
 </script>
+<script type="text/javascript">

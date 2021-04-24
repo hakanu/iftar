@@ -8,10 +8,11 @@ permalink: /ALMANYA/KORNWESTHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORNWESTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KORNWESTHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KORNWESTHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KORNWESTHEIM';
+* [ (KORNWESTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KORNWESTHEIM/)
 </script>
+<script type="text/javascript">

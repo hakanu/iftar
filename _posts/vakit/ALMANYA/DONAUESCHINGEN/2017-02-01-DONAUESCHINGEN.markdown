@@ -8,10 +8,11 @@ permalink: /ALMANYA/DONAUESCHINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DONAUESCHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DONAUESCHINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DONAUESCHINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DONAUESCHINGEN';
+* [ (DONAUESCHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DONAUESCHINGEN/)
 </script>
+<script type="text/javascript">

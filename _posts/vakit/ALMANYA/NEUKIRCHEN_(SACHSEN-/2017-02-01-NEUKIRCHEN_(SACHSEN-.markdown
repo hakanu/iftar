@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEUKIRCHEN (SACHSEN-
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUKIRCHEN_(SACHSEN-, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUKIRCHEN_(SACHSEN-/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEUKIRCHEN (SACHSEN-';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEUKIRCHEN (SACHSEN-';
+* [ (NEUKIRCHEN_(SACHSEN-, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUKIRCHEN_(SACHSEN-/)
 </script>
+<script type="text/javascript">

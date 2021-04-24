@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CIUDAD JUAREZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_JUAREZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_JUAREZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CIUDAD JUAREZ';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CIUDAD JUAREZ';
+* [ (CIUDAD_JUAREZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_JUAREZ/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/KRAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRAY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KRAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KRAY';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KRAY';
+* [ (KRAY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KRAY/)
 </script>
+<script type="text/javascript">

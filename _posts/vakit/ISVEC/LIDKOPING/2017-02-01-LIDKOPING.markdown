@@ -8,10 +8,11 @@ permalink: /ISVEC/LIDKOPING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIDKOPING, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LIDKOPING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LIDKOPING';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LIDKOPING';
+* [ (LIDKOPING, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LIDKOPING/)
 </script>
+<script type="text/javascript">

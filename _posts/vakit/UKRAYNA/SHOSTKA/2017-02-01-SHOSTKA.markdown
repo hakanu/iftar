@@ -8,10 +8,11 @@ permalink: /UKRAYNA/SHOSTKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHOSTKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SHOSTKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'SHOSTKA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'SHOSTKA';
+* [ (SHOSTKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SHOSTKA/)
 </script>
+<script type="text/javascript">

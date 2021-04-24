@@ -8,10 +8,11 @@ permalink: /FRANSA/GOUSSAINVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOUSSAINVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GOUSSAINVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GOUSSAINVILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GOUSSAINVILLE';
+* [ (GOUSSAINVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GOUSSAINVILLE/)
 </script>
+<script type="text/javascript">

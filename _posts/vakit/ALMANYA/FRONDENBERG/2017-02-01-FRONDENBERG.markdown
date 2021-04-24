@@ -8,10 +8,11 @@ permalink: /ALMANYA/FRONDENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRONDENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRONDENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FRONDENBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FRONDENBERG';
+* [ (FRONDENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRONDENBERG/)
 </script>
+<script type="text/javascript">

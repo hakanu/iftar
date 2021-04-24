@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/PRIJEPOLJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PRIJEPOLJE_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/PRIJEPOLJE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'PRIJEPOLJE ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'PRIJEPOLJE ';
+* [ (PRIJEPOLJE_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/PRIJEPOLJE_/)
 </script>
+<script type="text/javascript">

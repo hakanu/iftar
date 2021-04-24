@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/MYTILENE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MYTILENE, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/MYTILENE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'MYTILENE';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'MYTILENE';
+* [ (MYTILENE, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/MYTILENE/)
 </script>
+<script type="text/javascript">

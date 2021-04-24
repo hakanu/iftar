@@ -8,10 +8,11 @@ permalink: /HOLLANDA/CASTRICUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CASTRICUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CASTRICUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'CASTRICUM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'CASTRICUM';
+* [ (CASTRICUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CASTRICUM/)
 </script>
+<script type="text/javascript">

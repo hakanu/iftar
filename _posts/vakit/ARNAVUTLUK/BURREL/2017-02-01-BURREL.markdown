@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/BURREL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURREL, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/BURREL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'BURREL';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'BURREL';
+* [ (BURREL, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/BURREL/)
 </script>
+<script type="text/javascript">

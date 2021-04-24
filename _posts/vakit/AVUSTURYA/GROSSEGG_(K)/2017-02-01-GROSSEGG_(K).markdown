@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GROSSEGG (K)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GROSSEGG_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GROSSEGG_(K)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GROSSEGG (K)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GROSSEGG (K)';
+* [ (GROSSEGG_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GROSSEGG_(K)/)
 </script>
+<script type="text/javascript">

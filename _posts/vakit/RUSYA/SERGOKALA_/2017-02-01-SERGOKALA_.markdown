@@ -8,10 +8,11 @@ permalink: /RUSYA/SERGOKALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SERGOKALA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SERGOKALA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SERGOKALA ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SERGOKALA ';
+* [ (SERGOKALA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SERGOKALA_/)
 </script>
+<script type="text/javascript">

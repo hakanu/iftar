@@ -8,10 +8,11 @@ permalink: /HOLLANDA/TERBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERBORG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TERBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'TERBORG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'TERBORG';
+* [ (TERBORG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TERBORG/)
 </script>
+<script type="text/javascript">

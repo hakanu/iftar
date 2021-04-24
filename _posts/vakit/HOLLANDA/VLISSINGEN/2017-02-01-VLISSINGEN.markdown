@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VLISSINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VLISSINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VLISSINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VLISSINGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VLISSINGEN';
+* [ (VLISSINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VLISSINGEN/)
 </script>
+<script type="text/javascript">

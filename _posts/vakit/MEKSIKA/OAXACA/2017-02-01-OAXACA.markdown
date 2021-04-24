@@ -8,10 +8,11 @@ permalink: /MEKSIKA/OAXACA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OAXACA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/OAXACA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'OAXACA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'OAXACA';
+* [ (OAXACA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/OAXACA/)
 </script>
+<script type="text/javascript">

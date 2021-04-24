@@ -8,10 +8,11 @@ permalink: /DANIMARKA/VARDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VARDE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VARDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'VARDE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'VARDE';
+* [ (VARDE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VARDE/)
 </script>
+<script type="text/javascript">

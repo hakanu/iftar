@@ -8,10 +8,11 @@ permalink: /JAPONYA/MATSUMOTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATSUMOTO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MATSUMOTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'MATSUMOTO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'MATSUMOTO';
+* [ (MATSUMOTO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MATSUMOTO/)
 </script>
+<script type="text/javascript">

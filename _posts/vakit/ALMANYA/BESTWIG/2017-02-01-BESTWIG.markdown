@@ -8,10 +8,11 @@ permalink: /ALMANYA/BESTWIG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BESTWIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BESTWIG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BESTWIG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BESTWIG';
+* [ (BESTWIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BESTWIG/)
 </script>
+<script type="text/javascript">

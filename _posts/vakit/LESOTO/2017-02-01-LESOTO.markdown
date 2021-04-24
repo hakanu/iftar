@@ -8,4 +8,5 @@ permalink: /LESOTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [MASERU (LESOTO) için iftar ve namaz vakitleri](/LESOTO/MASERU)

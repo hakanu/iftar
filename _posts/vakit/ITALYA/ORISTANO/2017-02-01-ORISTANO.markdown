@@ -8,10 +8,11 @@ permalink: /ITALYA/ORISTANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORISTANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ORISTANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ORISTANO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ORISTANO';
+* [ (ORISTANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ORISTANO/)
 </script>
+<script type="text/javascript">

@@ -8,23 +8,24 @@ permalink: /TÜRKİYE/YOZGAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [YENİFAKILI (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/YENİFAKILI)
-* [BOĞAZLIYAN (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/BOĞAZLIYAN)
-* [AYDINCIK_(Y) (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/AYDINCIK_(Y))
-* [ÇANDIR (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/ÇANDIR)
-* [YERKÖY (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/YERKÖY)
-* [SORGUN (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SORGUN)
-* [KADIŞEHRİ (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/KADIŞEHRİ)
-* [SARIKAYA (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SARIKAYA)
-* [ÇAYIRALAN (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/ÇAYIRALAN)
-* [AKDAĞMADENİ (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/AKDAĞMADENİ)
-* [SEFAATLİ (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SEFAATLİ)
-* [SARAYKENT (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SARAYKENT)
-* [ÇEKEREK (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/ÇEKEREK)
-* [YOZGAT (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/YOZGAT)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'YOZGAT';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'YOZGAT';
+* [AKDAĞMADENİ (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/AKDAĞMADENİ)
+* [AYDINCIK_(Y) (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/AYDINCIK_(Y))
+* [BOĞAZLIYAN (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/BOĞAZLIYAN)
+* [KADIŞEHRİ (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/KADIŞEHRİ)
+* [SARAYKENT (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SARAYKENT)
+* [SARIKAYA (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SARIKAYA)
+* [SEFAATLİ (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SEFAATLİ)
+* [SORGUN (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/SORGUN)
+* [YENİFAKILI (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/YENİFAKILI)
+* [YERKÖY (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/YERKÖY)
+* [YOZGAT (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/YOZGAT)
+* [ÇANDIR (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/ÇANDIR)
+* [ÇAYIRALAN (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/ÇAYIRALAN)
+* [ÇEKEREK (YOZGAT, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/YOZGAT/ÇEKEREK)
 </script>
+<script type="text/javascript">

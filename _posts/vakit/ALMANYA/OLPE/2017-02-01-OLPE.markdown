@@ -8,10 +8,11 @@ permalink: /ALMANYA/OLPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLPE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OLPE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OLPE';
+* [ (OLPE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLPE/)
 </script>
+<script type="text/javascript">

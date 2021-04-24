@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/HOBART
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOBART, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/HOBART/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'HOBART';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'HOBART';
+* [ (HOBART, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/HOBART/)
 </script>
+<script type="text/javascript">

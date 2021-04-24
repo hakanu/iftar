@@ -8,10 +8,11 @@ permalink: /LETONYA/OGRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OGRE, LETONYA) için iftar ve namaz vakitleri](/LETONYA/OGRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'OGRE';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'OGRE';
+* [ (OGRE, LETONYA) için iftar ve namaz vakitleri](/LETONYA/OGRE/)
 </script>
+<script type="text/javascript">

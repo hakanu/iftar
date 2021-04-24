@@ -8,10 +8,11 @@ permalink: /FRANSA/FLERS (O)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLERS_(O), FRANSA) için iftar ve namaz vakitleri](/FRANSA/FLERS_(O)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FLERS (O)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FLERS (O)';
+* [ (FLERS_(O), FRANSA) için iftar ve namaz vakitleri](/FRANSA/FLERS_(O)/)
 </script>
+<script type="text/javascript">

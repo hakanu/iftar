@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/AKKOL (Taraz)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKKOL_(Taraz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKKOL_(Taraz)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'AKKOL (Taraz)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'AKKOL (Taraz)';
+* [ (AKKOL_(Taraz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKKOL_(Taraz)/)
 </script>
+<script type="text/javascript">

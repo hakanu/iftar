@@ -8,10 +8,11 @@ permalink: /HOLLANDA/THE HAGUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THE_HAGUE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/THE_HAGUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'THE HAGUE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'THE HAGUE';
+* [ (THE_HAGUE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/THE_HAGUE/)
 </script>
+<script type="text/javascript">

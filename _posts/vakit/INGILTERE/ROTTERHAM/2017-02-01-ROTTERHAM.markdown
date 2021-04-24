@@ -8,10 +8,11 @@ permalink: /INGILTERE/ROTTERHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROTTERHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ROTTERHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'ROTTERHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'ROTTERHAM';
+* [ (ROTTERHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ROTTERHAM/)
 </script>
+<script type="text/javascript">

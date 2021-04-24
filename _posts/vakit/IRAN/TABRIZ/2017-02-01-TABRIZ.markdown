@@ -8,10 +8,11 @@ permalink: /IRAN/TABRIZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TABRIZ, IRAN) için iftar ve namaz vakitleri](/IRAN/TABRIZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'TABRIZ';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'TABRIZ';
+* [ (TABRIZ, IRAN) için iftar ve namaz vakitleri](/IRAN/TABRIZ/)
 </script>
+<script type="text/javascript">

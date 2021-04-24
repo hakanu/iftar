@@ -8,10 +8,11 @@ permalink: /JAPONYA/SANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANDA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SANDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SANDA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SANDA';
+* [ (SANDA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SANDA/)
 </script>
+<script type="text/javascript">

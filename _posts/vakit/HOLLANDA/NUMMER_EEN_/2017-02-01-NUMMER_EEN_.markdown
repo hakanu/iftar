@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NUMMER EEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUMMER_EEN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NUMMER_EEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NUMMER EEN ';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NUMMER EEN ';
+* [ (NUMMER_EEN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NUMMER_EEN_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/MAEBASHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAEBASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MAEBASHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'MAEBASHI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'MAEBASHI';
+* [ (MAEBASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/MAEBASHI/)
 </script>
+<script type="text/javascript">

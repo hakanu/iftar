@@ -8,10 +8,11 @@ permalink: /ALMANYA/WIEDENBRUCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WIEDENBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WIEDENBRUCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WIEDENBRUCK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WIEDENBRUCK';
+* [ (WIEDENBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WIEDENBRUCK/)
 </script>
+<script type="text/javascript">

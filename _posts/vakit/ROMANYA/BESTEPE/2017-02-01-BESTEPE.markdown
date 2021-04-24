@@ -8,10 +8,11 @@ permalink: /ROMANYA/BESTEPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BESTEPE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BESTEPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'BESTEPE';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'BESTEPE';
+* [ (BESTEPE, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BESTEPE/)
 </script>
+<script type="text/javascript">

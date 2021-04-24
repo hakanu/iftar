@@ -8,10 +8,11 @@ permalink: /CEZAYIR/BISKRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BISKRA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BISKRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'BISKRA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'BISKRA';
+* [ (BISKRA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BISKRA/)
 </script>
+<script type="text/javascript">

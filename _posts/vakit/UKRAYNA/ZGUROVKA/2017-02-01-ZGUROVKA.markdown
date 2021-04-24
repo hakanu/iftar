@@ -8,10 +8,11 @@ permalink: /UKRAYNA/ZGUROVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZGUROVKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZGUROVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'ZGUROVKA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'ZGUROVKA';
+* [ (ZGUROVKA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZGUROVKA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CEZAYIR/ANNABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANNABA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/ANNABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'ANNABA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'ANNABA';
+* [ (ANNABA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/ANNABA/)
 </script>
+<script type="text/javascript">

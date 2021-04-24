@@ -8,10 +8,11 @@ permalink: /JAPONYA/OBIHIRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBIHIRO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OBIHIRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OBIHIRO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OBIHIRO';
+* [ (OBIHIRO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OBIHIRO/)
 </script>
+<script type="text/javascript">

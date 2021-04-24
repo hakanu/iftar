@@ -8,10 +8,11 @@ permalink: /VIETNAM/DA LAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DA_LAT, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/DA_LAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'DA LAT';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'DA LAT';
+* [ (DA_LAT, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/DA_LAT/)
 </script>
+<script type="text/javascript">

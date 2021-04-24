@@ -8,10 +8,11 @@ permalink: /ETYOPYA/MEKELE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEKELE, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/MEKELE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ETYOPYA';
+
   var GLOBAL_CITY = 'MEKELE';
+  var GLOBAL_COUNTRY = 'ETYOPYA';
   var GLOBAL_STATE = 'MEKELE';
+* [ (MEKELE, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/MEKELE/)
 </script>
+<script type="text/javascript">

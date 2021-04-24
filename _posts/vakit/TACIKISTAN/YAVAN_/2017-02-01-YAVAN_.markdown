@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/YAVAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAVAN_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/YAVAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'YAVAN ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'YAVAN ';
+* [ (YAVAN_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/YAVAN_/)
 </script>
+<script type="text/javascript">

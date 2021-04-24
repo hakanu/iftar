@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUCHEN';
+* [ (BUCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCHEN/)
 </script>
+<script type="text/javascript">

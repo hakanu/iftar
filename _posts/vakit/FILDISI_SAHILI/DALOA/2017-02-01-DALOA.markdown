@@ -8,10 +8,11 @@ permalink: /FILDISI SAHILI/DALOA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DALOA, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/DALOA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
+
   var GLOBAL_CITY = 'DALOA';
+  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
   var GLOBAL_STATE = 'DALOA';
+* [ (DALOA, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/DALOA/)
 </script>
+<script type="text/javascript">

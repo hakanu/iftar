@@ -8,16 +8,17 @@ permalink: /TÜRKİYE/OSMANİYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SUMBAS (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/SUMBAS)
-* [OSMANİYE (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/OSMANİYE)
-* [HASANBEYLİ (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/HASANBEYLİ)
+
+
+  var GLOBAL_CITY = 'OSMANİYE';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'OSMANİYE';
 * [BAHÇE (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/BAHÇE)
 * [DÜZİÇİ (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/DÜZİÇİ)
+* [HASANBEYLİ (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/HASANBEYLİ)
 * [KADİRLİ (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/KADİRLİ)
+* [OSMANİYE (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/OSMANİYE)
+* [SUMBAS (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/SUMBAS)
 * [TOPRAKKALE (OSMANİYE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/OSMANİYE/TOPRAKKALE)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'OSMANİYE';
-  var GLOBAL_STATE = 'OSMANİYE';
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/WLOCLAWEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WLOCLAWEK, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WLOCLAWEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'WLOCLAWEK';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'WLOCLAWEK';
+* [ (WLOCLAWEK, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WLOCLAWEK/)
 </script>
+<script type="text/javascript">

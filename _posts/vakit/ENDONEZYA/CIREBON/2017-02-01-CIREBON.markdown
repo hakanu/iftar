@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/CIREBON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIREBON, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/CIREBON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'CIREBON';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'CIREBON';
+* [ (CIREBON, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/CIREBON/)
 </script>
+<script type="text/javascript">

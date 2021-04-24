@@ -8,10 +8,11 @@ permalink: /ALMANYA/WORMS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WORMS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WORMS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WORMS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WORMS';
+* [ (WORMS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WORMS/)
 </script>
+<script type="text/javascript">

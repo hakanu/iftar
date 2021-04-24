@@ -8,10 +8,11 @@ permalink: /ITALYA/MURAVERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURAVERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MURAVERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MURAVERA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MURAVERA';
+* [ (MURAVERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MURAVERA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/KUSTERDINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUSTERDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KUSTERDINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KUSTERDINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KUSTERDINGEN';
+* [ (KUSTERDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KUSTERDINGEN/)
 </script>
+<script type="text/javascript">

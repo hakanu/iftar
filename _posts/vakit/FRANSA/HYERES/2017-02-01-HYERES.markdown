@@ -8,10 +8,11 @@ permalink: /FRANSA/HYERES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HYERES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HYERES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'HYERES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'HYERES';
+* [ (HYERES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HYERES/)
 </script>
+<script type="text/javascript">

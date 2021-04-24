@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DIEREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIEREN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DIEREN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DIEREN ';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DIEREN ';
+* [ (DIEREN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DIEREN_/)
 </script>
+<script type="text/javascript">

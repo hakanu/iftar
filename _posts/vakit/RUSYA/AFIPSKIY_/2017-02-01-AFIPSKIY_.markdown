@@ -8,10 +8,11 @@ permalink: /RUSYA/AFIPSKIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AFIPSKIY_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/AFIPSKIY_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'AFIPSKIY ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'AFIPSKIY ';
+* [ (AFIPSKIY_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/AFIPSKIY_/)
 </script>
+<script type="text/javascript">

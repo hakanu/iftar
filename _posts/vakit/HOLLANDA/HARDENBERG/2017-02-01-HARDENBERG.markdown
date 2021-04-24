@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HARDENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARDENBERG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HARDENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HARDENBERG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HARDENBERG';
+* [ (HARDENBERG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HARDENBERG/)
 </script>
+<script type="text/javascript">

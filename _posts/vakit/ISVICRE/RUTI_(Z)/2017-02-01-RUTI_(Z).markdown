@@ -8,10 +8,11 @@ permalink: /ISVICRE/RUTI (Z)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUTI_(Z), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RUTI_(Z)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'RUTI (Z)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'RUTI (Z)';
+* [ (RUTI_(Z), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RUTI_(Z)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/GUNP'O
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUNP'O, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GUNP'O/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'GUNP'O';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'GUNP'O';
+* [ (GUNP'O, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/GUNP'O/)
 </script>
+<script type="text/javascript">

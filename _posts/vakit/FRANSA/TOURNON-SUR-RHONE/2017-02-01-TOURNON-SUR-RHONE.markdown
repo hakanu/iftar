@@ -8,10 +8,11 @@ permalink: /FRANSA/TOURNON-SUR-RHONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOURNON-SUR-RHONE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOURNON-SUR-RHONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TOURNON-SUR-RHONE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TOURNON-SUR-RHONE';
+* [ (TOURNON-SUR-RHONE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOURNON-SUR-RHONE/)
 </script>
+<script type="text/javascript">

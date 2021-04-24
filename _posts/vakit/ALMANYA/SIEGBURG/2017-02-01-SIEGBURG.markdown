@@ -8,10 +8,11 @@ permalink: /ALMANYA/SIEGBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIEGBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIEGBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SIEGBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SIEGBURG';
+* [ (SIEGBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIEGBURG/)
 </script>
+<script type="text/javascript">

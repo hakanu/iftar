@@ -8,10 +8,11 @@ permalink: /TANZANYA/MWANZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MWANZA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MWANZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'MWANZA';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'MWANZA';
+* [ (MWANZA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MWANZA/)
 </script>
+<script type="text/javascript">

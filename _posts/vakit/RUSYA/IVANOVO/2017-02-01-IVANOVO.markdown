@@ -8,10 +8,11 @@ permalink: /RUSYA/IVANOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IVANOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/IVANOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'IVANOVO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'IVANOVO';
+* [ (IVANOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/IVANOVO/)
 </script>
+<script type="text/javascript">

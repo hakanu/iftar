@@ -8,10 +8,11 @@ permalink: /BELCIKA/THUIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THUIN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/THUIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'THUIN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'THUIN';
+* [ (THUIN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/THUIN/)
 </script>
+<script type="text/javascript">

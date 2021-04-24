@@ -8,10 +8,11 @@ permalink: /ALMANYA/BINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BINGEN';
+* [ (BINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BINGEN/)
 </script>
+<script type="text/javascript">

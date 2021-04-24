@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAUPHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUPHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUPHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAUPHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAUPHEIM';
+* [ (LAUPHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUPHEIM/)
 </script>
+<script type="text/javascript">

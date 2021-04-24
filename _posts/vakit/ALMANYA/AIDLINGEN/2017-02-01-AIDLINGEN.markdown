@@ -8,10 +8,11 @@ permalink: /ALMANYA/AIDLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AIDLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AIDLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AIDLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AIDLINGEN';
+* [ (AIDLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AIDLINGEN/)
 </script>
+<script type="text/javascript">

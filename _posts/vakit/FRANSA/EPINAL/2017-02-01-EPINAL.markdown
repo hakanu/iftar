@@ -8,10 +8,11 @@ permalink: /FRANSA/EPINAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EPINAL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EPINAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'EPINAL';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'EPINAL';
+* [ (EPINAL, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EPINAL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GANA/KOFORIDUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOFORIDUA, GANA) için iftar ve namaz vakitleri](/GANA/KOFORIDUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'KOFORIDUA';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'KOFORIDUA';
+* [ (KOFORIDUA, GANA) için iftar ve namaz vakitleri](/GANA/KOFORIDUA/)
 </script>
+<script type="text/javascript">

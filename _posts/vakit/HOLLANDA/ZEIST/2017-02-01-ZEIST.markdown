@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZEIST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZEIST, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZEIST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZEIST';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZEIST';
+* [ (ZEIST, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZEIST/)
 </script>
+<script type="text/javascript">

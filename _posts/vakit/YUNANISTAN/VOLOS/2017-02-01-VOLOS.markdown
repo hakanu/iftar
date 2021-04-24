@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/VOLOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLOS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/VOLOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'VOLOS';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'VOLOS';
+* [ (VOLOS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/VOLOS/)
 </script>
+<script type="text/javascript">

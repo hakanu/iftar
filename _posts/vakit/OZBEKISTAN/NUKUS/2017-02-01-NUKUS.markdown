@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/NUKUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUKUS, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/NUKUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'NUKUS';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'NUKUS';
+* [ (NUKUS, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/NUKUS/)
 </script>
+<script type="text/javascript">

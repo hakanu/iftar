@@ -8,10 +8,11 @@ permalink: /HOLLANDA/IJMUIDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IJMUIDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/IJMUIDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'IJMUIDEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'IJMUIDEN';
+* [ (IJMUIDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/IJMUIDEN/)
 </script>
+<script type="text/javascript">

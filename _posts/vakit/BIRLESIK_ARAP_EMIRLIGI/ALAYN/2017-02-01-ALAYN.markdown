@@ -8,10 +8,11 @@ permalink: /BIRLESIK ARAP EMIRLIGI/ALAYN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALAYN, BIRLESIK_ARAP_EMIRLIGI) için iftar ve namaz vakitleri](/BIRLESIK_ARAP_EMIRLIGI/ALAYN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BIRLESIK ARAP EMIRLIGI';
+
   var GLOBAL_CITY = 'ALAYN';
+  var GLOBAL_COUNTRY = 'BIRLESIK ARAP EMIRLIGI';
   var GLOBAL_STATE = 'ALAYN';
+* [ (ALAYN, BIRLESIK_ARAP_EMIRLIGI) için iftar ve namaz vakitleri](/BIRLESIK_ARAP_EMIRLIGI/ALAYN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/UNNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UNNA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UNNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UNNA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UNNA';
+* [ (UNNA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UNNA/)
 </script>
+<script type="text/javascript">

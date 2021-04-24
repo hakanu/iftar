@@ -8,10 +8,11 @@ permalink: /BREZILYA/JUNDIAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUNDIAI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JUNDIAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'JUNDIAI';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'JUNDIAI';
+* [ (JUNDIAI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JUNDIAI/)
 </script>
+<script type="text/javascript">

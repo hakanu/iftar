@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/JENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JENBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/JENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'JENBACH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'JENBACH';
+* [ (JENBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/JENBACH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KALKAMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALKAMAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KALKAMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KALKAMAN';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KALKAMAN';
+* [ (KALKAMAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KALKAMAN/)
 </script>
+<script type="text/javascript">

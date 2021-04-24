@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZWANENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZWANENBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZWANENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZWANENBURG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZWANENBURG';
+* [ (ZWANENBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZWANENBURG/)
 </script>
+<script type="text/javascript">

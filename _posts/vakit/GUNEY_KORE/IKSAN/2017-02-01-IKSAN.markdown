@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/IKSAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IKSAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/IKSAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'IKSAN';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'IKSAN';
+* [ (IKSAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/IKSAN/)
 </script>
+<script type="text/javascript">

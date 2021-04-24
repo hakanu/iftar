@@ -8,10 +8,11 @@ permalink: /PANAMA/PANAMA CITY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PANAMA_CITY, PANAMA) için iftar ve namaz vakitleri](/PANAMA/PANAMA_CITY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'PANAMA CITY';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'PANAMA CITY';
+* [ (PANAMA_CITY, PANAMA) için iftar ve namaz vakitleri](/PANAMA/PANAMA_CITY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/AMSTERDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMSTERDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/AMSTERDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'AMSTERDAM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'AMSTERDAM';
+* [ (AMSTERDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/AMSTERDAM/)
 </script>
+<script type="text/javascript">

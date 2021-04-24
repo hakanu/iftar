@@ -8,10 +8,11 @@ permalink: /FRANSA/VIENNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIENNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIENNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VIENNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VIENNE';
+* [ (VIENNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIENNE/)
 </script>
+<script type="text/javascript">

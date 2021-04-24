@@ -8,10 +8,11 @@ permalink: /HAITI/PORT -AU -PRINCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT_-AU_-PRINCE, HAITI) için iftar ve namaz vakitleri](/HAITI/PORT_-AU_-PRINCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HAITI';
+
   var GLOBAL_CITY = 'PORT -AU -PRINCE';
+  var GLOBAL_COUNTRY = 'HAITI';
   var GLOBAL_STATE = 'PORT -AU -PRINCE';
+* [ (PORT_-AU_-PRINCE, HAITI) için iftar ve namaz vakitleri](/HAITI/PORT_-AU_-PRINCE/)
 </script>
+<script type="text/javascript">

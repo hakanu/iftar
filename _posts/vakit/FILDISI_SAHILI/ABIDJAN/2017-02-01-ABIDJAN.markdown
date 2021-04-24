@@ -8,10 +8,11 @@ permalink: /FILDISI SAHILI/ABIDJAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABIDJAN, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/ABIDJAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
+
   var GLOBAL_CITY = 'ABIDJAN';
+  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
   var GLOBAL_STATE = 'ABIDJAN';
+* [ (ABIDJAN, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/ABIDJAN/)
 </script>
+<script type="text/javascript">

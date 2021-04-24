@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRAMSCHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRAMSCHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRAMSCHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRAMSCHE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRAMSCHE';
+* [ (BRAMSCHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRAMSCHE/)
 </script>
+<script type="text/javascript">

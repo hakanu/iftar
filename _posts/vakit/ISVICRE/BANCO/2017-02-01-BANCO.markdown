@@ -8,10 +8,11 @@ permalink: /ISVICRE/BANCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANCO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BANCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BANCO';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BANCO';
+* [ (BANCO, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BANCO/)
 </script>
+<script type="text/javascript">

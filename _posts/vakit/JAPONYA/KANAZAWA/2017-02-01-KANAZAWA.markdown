@@ -8,10 +8,11 @@ permalink: /JAPONYA/KANAZAWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANAZAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KANAZAWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KANAZAWA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KANAZAWA';
+* [ (KANAZAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KANAZAWA/)
 </script>
+<script type="text/javascript">

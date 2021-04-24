@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KOSCHAGYL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOSCHAGYL, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOSCHAGYL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KOSCHAGYL';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KOSCHAGYL';
+* [ (KOSCHAGYL, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KOSCHAGYL/)
 </script>
+<script type="text/javascript">

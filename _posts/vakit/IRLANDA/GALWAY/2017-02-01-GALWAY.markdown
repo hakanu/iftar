@@ -8,10 +8,11 @@ permalink: /IRLANDA/GALWAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GALWAY, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/GALWAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'GALWAY';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'GALWAY';
+* [ (GALWAY, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/GALWAY/)
 </script>
+<script type="text/javascript">

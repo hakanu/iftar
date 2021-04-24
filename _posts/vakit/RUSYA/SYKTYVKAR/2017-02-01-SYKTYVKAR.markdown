@@ -8,10 +8,11 @@ permalink: /RUSYA/SYKTYVKAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SYKTYVKAR, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SYKTYVKAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SYKTYVKAR';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SYKTYVKAR';
+* [ (SYKTYVKAR, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SYKTYVKAR/)
 </script>
+<script type="text/javascript">

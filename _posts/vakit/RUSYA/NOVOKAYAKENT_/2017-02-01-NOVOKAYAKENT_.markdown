@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVOKAYAKENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVOKAYAKENT_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOKAYAKENT_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVOKAYAKENT ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVOKAYAKENT ';
+* [ (NOVOKAYAKENT_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOKAYAKENT_/)
 </script>
+<script type="text/javascript">

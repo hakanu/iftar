@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GERASDORF (N)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GERASDORF_(N), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GERASDORF_(N)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GERASDORF (N)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GERASDORF (N)';
+* [ (GERASDORF_(N), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GERASDORF_(N)/)
 </script>
+<script type="text/javascript">

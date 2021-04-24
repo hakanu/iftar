@@ -8,10 +8,11 @@ permalink: /RUSYA/ZHUKOVSKIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHUKOVSKIY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ZHUKOVSKIY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ZHUKOVSKIY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ZHUKOVSKIY';
+* [ (ZHUKOVSKIY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ZHUKOVSKIY/)
 </script>
+<script type="text/javascript">

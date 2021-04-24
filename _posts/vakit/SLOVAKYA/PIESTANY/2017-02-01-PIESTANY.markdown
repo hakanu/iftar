@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/PIESTANY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIESTANY, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/PIESTANY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'PIESTANY';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'PIESTANY';
+* [ (PIESTANY, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/PIESTANY/)
 </script>
+<script type="text/javascript">

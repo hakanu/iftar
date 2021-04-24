@@ -8,10 +8,11 @@ permalink: /GRANADA/SAINT GEORGES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT_GEORGES, GRANADA) için iftar ve namaz vakitleri](/GRANADA/SAINT_GEORGES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GRANADA';
+
   var GLOBAL_CITY = 'SAINT GEORGES';
+  var GLOBAL_COUNTRY = 'GRANADA';
   var GLOBAL_STATE = 'SAINT GEORGES';
+* [ (SAINT_GEORGES, GRANADA) için iftar ve namaz vakitleri](/GRANADA/SAINT_GEORGES/)
 </script>
+<script type="text/javascript">

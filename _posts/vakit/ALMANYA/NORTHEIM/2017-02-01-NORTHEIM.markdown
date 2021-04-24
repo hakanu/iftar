@@ -8,10 +8,11 @@ permalink: /ALMANYA/NORTHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NORTHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NORTHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NORTHEIM';
+* [ (NORTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NORTHEIM/)
 </script>
+<script type="text/javascript">

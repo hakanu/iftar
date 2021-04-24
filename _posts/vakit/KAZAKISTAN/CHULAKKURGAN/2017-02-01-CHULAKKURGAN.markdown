@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/CHULAKKURGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHULAKKURGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CHULAKKURGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'CHULAKKURGAN';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'CHULAKKURGAN';
+* [ (CHULAKKURGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CHULAKKURGAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/OSTFILDERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSTFILDERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTFILDERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OSTFILDERN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OSTFILDERN';
+* [ (OSTFILDERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTFILDERN/)
 </script>
+<script type="text/javascript">

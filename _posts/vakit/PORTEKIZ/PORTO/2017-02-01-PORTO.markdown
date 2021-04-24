@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/PORTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORTO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/PORTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'PORTO';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'PORTO';
+* [ (PORTO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/PORTO/)
 </script>
+<script type="text/javascript">

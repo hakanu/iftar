@@ -8,10 +8,11 @@ permalink: /CIN/RIZHAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIZHAO, CIN) için iftar ve namaz vakitleri](/CIN/RIZHAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'RIZHAO';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'RIZHAO';
+* [ (RIZHAO, CIN) için iftar ve namaz vakitleri](/CIN/RIZHAO/)
 </script>
+<script type="text/javascript">

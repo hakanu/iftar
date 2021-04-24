@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HAARLEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAARLEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HAARLEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HAARLEM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HAARLEM';
+* [ (HAARLEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HAARLEM/)
 </script>
+<script type="text/javascript">

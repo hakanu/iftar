@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD SAGEBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_SAGEBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_SAGEBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD SAGEBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD SAGEBERG';
+* [ (BAD_SAGEBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_SAGEBERG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/VILLA MARIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLA_MARIA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/VILLA_MARIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'VILLA MARIA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'VILLA MARIA';
+* [ (VILLA_MARIA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/VILLA_MARIA/)
 </script>
+<script type="text/javascript">

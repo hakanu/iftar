@@ -8,10 +8,11 @@ permalink: /IRAN/BOJNURD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOJNURD, IRAN) için iftar ve namaz vakitleri](/IRAN/BOJNURD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'BOJNURD';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'BOJNURD';
+* [ (BOJNURD, IRAN) için iftar ve namaz vakitleri](/IRAN/BOJNURD/)
 </script>
+<script type="text/javascript">

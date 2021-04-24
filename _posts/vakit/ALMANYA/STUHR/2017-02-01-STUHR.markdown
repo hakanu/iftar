@@ -8,10 +8,11 @@ permalink: /ALMANYA/STUHR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STUHR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STUHR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STUHR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STUHR';
+* [ (STUHR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STUHR/)
 </script>
+<script type="text/javascript">

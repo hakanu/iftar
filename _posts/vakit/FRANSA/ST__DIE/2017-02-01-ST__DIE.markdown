@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_ DIE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__DIE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__DIE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_ DIE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_ DIE';
+* [ (ST__DIE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__DIE/)
 </script>
+<script type="text/javascript">

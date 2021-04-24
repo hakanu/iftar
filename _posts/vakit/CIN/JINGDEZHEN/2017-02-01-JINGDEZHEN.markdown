@@ -8,10 +8,11 @@ permalink: /CIN/JINGDEZHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JINGDEZHEN, CIN) için iftar ve namaz vakitleri](/CIN/JINGDEZHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'JINGDEZHEN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'JINGDEZHEN';
+* [ (JINGDEZHEN, CIN) için iftar ve namaz vakitleri](/CIN/JINGDEZHEN/)
 </script>
+<script type="text/javascript">

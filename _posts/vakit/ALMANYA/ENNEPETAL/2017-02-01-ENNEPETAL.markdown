@@ -8,10 +8,11 @@ permalink: /ALMANYA/ENNEPETAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENNEPETAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ENNEPETAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ENNEPETAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ENNEPETAL';
+* [ (ENNEPETAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ENNEPETAL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/ANGARSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANGARSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ANGARSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ANGARSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ANGARSK';
+* [ (ANGARSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ANGARSK/)
 </script>
+<script type="text/javascript">

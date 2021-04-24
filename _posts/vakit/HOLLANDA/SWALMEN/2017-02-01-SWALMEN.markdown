@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SWALMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SWALMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SWALMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SWALMEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SWALMEN';
+* [ (SWALMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SWALMEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NORVEC/HOLMSBU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLMSBU, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HOLMSBU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'HOLMSBU';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'HOLMSBU';
+* [ (HOLMSBU, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HOLMSBU/)
 </script>
+<script type="text/javascript">

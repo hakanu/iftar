@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEPPENHEIM A_D_BERG_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEPPENHEIM_A_D_BERG_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEPPENHEIM_A_D_BERG_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEPPENHEIM A_D_BERG_';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEPPENHEIM A_D_BERG_';
+* [ (HEPPENHEIM_A_D_BERG_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEPPENHEIM_A_D_BERG_/)
 </script>
+<script type="text/javascript">

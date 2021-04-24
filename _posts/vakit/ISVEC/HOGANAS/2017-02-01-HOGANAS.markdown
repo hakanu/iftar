@@ -8,10 +8,11 @@ permalink: /ISVEC/HOGANAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOGANAS, ISVEC) için iftar ve namaz vakitleri](/ISVEC/HOGANAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'HOGANAS';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'HOGANAS';
+* [ (HOGANAS, ISVEC) için iftar ve namaz vakitleri](/ISVEC/HOGANAS/)
 </script>
+<script type="text/javascript">

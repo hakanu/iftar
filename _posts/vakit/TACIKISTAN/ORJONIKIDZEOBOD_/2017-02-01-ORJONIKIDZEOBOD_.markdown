@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/ORJONIKIDZEOBOD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORJONIKIDZEOBOD_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/ORJONIKIDZEOBOD_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'ORJONIKIDZEOBOD ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'ORJONIKIDZEOBOD ';
+* [ (ORJONIKIDZEOBOD_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/ORJONIKIDZEOBOD_/)
 </script>
+<script type="text/javascript">

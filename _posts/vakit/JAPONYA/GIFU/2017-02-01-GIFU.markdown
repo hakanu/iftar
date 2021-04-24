@@ -8,10 +8,11 @@ permalink: /JAPONYA/GIFU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIFU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/GIFU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'GIFU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'GIFU';
+* [ (GIFU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/GIFU/)
 </script>
+<script type="text/javascript">

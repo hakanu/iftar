@@ -8,10 +8,11 @@ permalink: /ALMANYA/WEITERSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEITERSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEITERSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WEITERSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WEITERSTADT';
+* [ (WEITERSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEITERSTADT/)
 </script>
+<script type="text/javascript">

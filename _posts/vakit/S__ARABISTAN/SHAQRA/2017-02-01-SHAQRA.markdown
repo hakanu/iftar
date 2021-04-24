@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/SHAQRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAQRA, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/SHAQRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'SHAQRA';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'SHAQRA';
+* [ (SHAQRA, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/SHAQRA/)
 </script>
+<script type="text/javascript">

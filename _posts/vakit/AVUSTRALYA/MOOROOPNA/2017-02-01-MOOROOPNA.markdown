@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOOROOPNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOOROOPNA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOOROOPNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOOROOPNA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOOROOPNA';
+* [ (MOOROOPNA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOOROOPNA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HOLSTEBRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLSTEBRO, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOLSTEBRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HOLSTEBRO';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HOLSTEBRO';
+* [ (HOLSTEBRO, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HOLSTEBRO/)
 </script>
+<script type="text/javascript">

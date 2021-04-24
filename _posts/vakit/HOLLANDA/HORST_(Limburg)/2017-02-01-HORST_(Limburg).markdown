@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HORST (Limburg)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORST_(Limburg), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HORST_(Limburg)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HORST (Limburg)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HORST (Limburg)';
+* [ (HORST_(Limburg), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HORST_(Limburg)/)
 </script>
+<script type="text/javascript">

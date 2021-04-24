@@ -8,10 +8,11 @@ permalink: /ITALYA/ALBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALBA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ALBA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ALBA';
+* [ (ALBA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALBA/)
 </script>
+<script type="text/javascript">

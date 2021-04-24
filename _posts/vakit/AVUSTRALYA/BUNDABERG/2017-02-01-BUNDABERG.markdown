@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BUNDABERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUNDABERG, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BUNDABERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BUNDABERG';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BUNDABERG';
+* [ (BUNDABERG, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BUNDABERG/)
 </script>
+<script type="text/javascript">

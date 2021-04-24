@@ -8,10 +8,11 @@ permalink: /YEMEN/TAIZZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAIZZ, YEMEN) için iftar ve namaz vakitleri](/YEMEN/TAIZZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YEMEN';
+
   var GLOBAL_CITY = 'TAIZZ';
+  var GLOBAL_COUNTRY = 'YEMEN';
   var GLOBAL_STATE = 'TAIZZ';
+* [ (TAIZZ, YEMEN) için iftar ve namaz vakitleri](/YEMEN/TAIZZ/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/GLENORCHY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLENORCHY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GLENORCHY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'GLENORCHY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'GLENORCHY';
+* [ (GLENORCHY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GLENORCHY/)
 </script>
+<script type="text/javascript">

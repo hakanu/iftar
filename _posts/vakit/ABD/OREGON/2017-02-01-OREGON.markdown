@@ -8,13 +8,14 @@ permalink: /ABD/OREGON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [PORTLAND (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/PORTLAND)
+
+
+  var GLOBAL_CITY = 'OREGON';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'OREGON';
 * [CORVALLIS (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/CORVALLIS)
+* [PORTLAND (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/PORTLAND)
 * [SALEM (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/SALEM)
 * [SISKIYOU (OREGON, ABD) için iftar ve namaz vakitleri](/ABD/OREGON/SISKIYOU)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'OREGON';
-  var GLOBAL_STATE = 'OREGON';
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SILI/VINA DEL MAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VINA_DEL_MAR, SILI) için iftar ve namaz vakitleri](/SILI/VINA_DEL_MAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'VINA DEL MAR';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'VINA DEL MAR';
+* [ (VINA_DEL_MAR, SILI) için iftar ve namaz vakitleri](/SILI/VINA_DEL_MAR/)
 </script>
+<script type="text/javascript">

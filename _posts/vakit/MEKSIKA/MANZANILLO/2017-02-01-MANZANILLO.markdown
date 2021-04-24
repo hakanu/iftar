@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MANZANILLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANZANILLO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MANZANILLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MANZANILLO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MANZANILLO';
+* [ (MANZANILLO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MANZANILLO/)
 </script>
+<script type="text/javascript">

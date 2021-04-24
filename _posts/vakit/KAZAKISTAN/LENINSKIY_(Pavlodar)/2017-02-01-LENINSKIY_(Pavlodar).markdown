@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/LENINSKIY (Pavlodar)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENINSKIY_(Pavlodar), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/LENINSKIY_(Pavlodar)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'LENINSKIY (Pavlodar)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'LENINSKIY (Pavlodar)';
+* [ (LENINSKIY_(Pavlodar), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/LENINSKIY_(Pavlodar)/)
 </script>
+<script type="text/javascript">

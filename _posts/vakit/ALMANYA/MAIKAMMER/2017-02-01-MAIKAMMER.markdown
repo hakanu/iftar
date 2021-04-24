@@ -8,10 +8,11 @@ permalink: /ALMANYA/MAIKAMMER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAIKAMMER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAIKAMMER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MAIKAMMER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MAIKAMMER';
+* [ (MAIKAMMER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAIKAMMER/)
 </script>
+<script type="text/javascript">

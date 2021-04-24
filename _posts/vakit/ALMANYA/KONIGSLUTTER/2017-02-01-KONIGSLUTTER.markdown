@@ -8,10 +8,11 @@ permalink: /ALMANYA/KONIGSLUTTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONIGSLUTTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONIGSLUTTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KONIGSLUTTER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KONIGSLUTTER';
+* [ (KONIGSLUTTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONIGSLUTTER/)
 </script>
+<script type="text/javascript">

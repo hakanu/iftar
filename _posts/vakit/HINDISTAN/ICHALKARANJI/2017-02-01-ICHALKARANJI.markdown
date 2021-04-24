@@ -8,10 +8,11 @@ permalink: /HINDISTAN/ICHALKARANJI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ICHALKARANJI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/ICHALKARANJI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'ICHALKARANJI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'ICHALKARANJI';
+* [ (ICHALKARANJI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/ICHALKARANJI/)
 </script>
+<script type="text/javascript">

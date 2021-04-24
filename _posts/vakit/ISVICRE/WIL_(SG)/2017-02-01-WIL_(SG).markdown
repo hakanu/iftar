@@ -8,10 +8,11 @@ permalink: /ISVICRE/WIL (SG)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WIL_(SG), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WIL_(SG)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'WIL (SG)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'WIL (SG)';
+* [ (WIL_(SG), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WIL_(SG)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MACARISTAN/SZEGED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SZEGED, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZEGED/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'SZEGED';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'SZEGED';
+* [ (SZEGED, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZEGED/)
 </script>
+<script type="text/javascript">

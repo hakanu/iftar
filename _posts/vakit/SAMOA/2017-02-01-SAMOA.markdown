@@ -8,4 +8,5 @@ permalink: /SAMOA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [APIA (SAMOA) için iftar ve namaz vakitleri](/SAMOA/APIA)

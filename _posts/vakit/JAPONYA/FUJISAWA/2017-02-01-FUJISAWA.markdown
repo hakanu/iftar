@@ -8,10 +8,11 @@ permalink: /JAPONYA/FUJISAWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUJISAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUJISAWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'FUJISAWA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'FUJISAWA';
+* [ (FUJISAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUJISAWA/)
 </script>
+<script type="text/javascript">

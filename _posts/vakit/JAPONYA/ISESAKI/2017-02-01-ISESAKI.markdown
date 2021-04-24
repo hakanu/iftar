@@ -8,10 +8,11 @@ permalink: /JAPONYA/ISESAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISESAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ISESAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ISESAKI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ISESAKI';
+* [ (ISESAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ISESAKI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/DOLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DOLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DOLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DOLE';
+* [ (DOLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DOLE/)
 </script>
+<script type="text/javascript">

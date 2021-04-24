@@ -8,10 +8,11 @@ permalink: /URDUN/AMMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMMAN, URDUN) için iftar ve namaz vakitleri](/URDUN/AMMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URDUN';
+
   var GLOBAL_CITY = 'AMMAN';
+  var GLOBAL_COUNTRY = 'URDUN';
   var GLOBAL_STATE = 'AMMAN';
+* [ (AMMAN, URDUN) için iftar ve namaz vakitleri](/URDUN/AMMAN/)
 </script>
+<script type="text/javascript">

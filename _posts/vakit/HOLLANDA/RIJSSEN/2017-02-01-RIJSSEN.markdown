@@ -8,10 +8,11 @@ permalink: /HOLLANDA/RIJSSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIJSSEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIJSSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'RIJSSEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'RIJSSEN';
+* [ (RIJSSEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIJSSEN/)
 </script>
+<script type="text/javascript">

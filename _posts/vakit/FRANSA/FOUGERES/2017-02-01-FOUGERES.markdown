@@ -8,10 +8,11 @@ permalink: /FRANSA/FOUGERES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOUGERES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FOUGERES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FOUGERES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FOUGERES';
+* [ (FOUGERES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FOUGERES/)
 </script>
+<script type="text/javascript">

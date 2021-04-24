@@ -8,10 +8,11 @@ permalink: /HOLLANDA/REUVER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REUVER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/REUVER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'REUVER';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'REUVER';
+* [ (REUVER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/REUVER/)
 </script>
+<script type="text/javascript">

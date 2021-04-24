@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KUROPATKINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUROPATKINO, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KUROPATKINO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KUROPATKINO';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KUROPATKINO';
+* [ (KUROPATKINO, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KUROPATKINO/)
 </script>
+<script type="text/javascript">

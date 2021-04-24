@@ -8,10 +8,11 @@ permalink: /ALMANYA/MARKT ERLBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARKT_ERLBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKT_ERLBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MARKT ERLBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MARKT ERLBACH';
+* [ (MARKT_ERLBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARKT_ERLBACH/)
 </script>
+<script type="text/javascript">

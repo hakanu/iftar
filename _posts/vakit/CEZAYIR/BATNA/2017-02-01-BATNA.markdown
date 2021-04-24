@@ -8,10 +8,11 @@ permalink: /CEZAYIR/BATNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATNA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BATNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'BATNA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'BATNA';
+* [ (BATNA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BATNA/)
 </script>
+<script type="text/javascript">

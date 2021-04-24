@@ -8,10 +8,11 @@ permalink: /NIJERYA/KADUNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KADUNA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/KADUNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'KADUNA';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'KADUNA';
+* [ (KADUNA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/KADUNA/)
 </script>
+<script type="text/javascript">

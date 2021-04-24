@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CULIACAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CULIACAN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CULIACAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CULIACAN';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CULIACAN';
+* [ (CULIACAN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CULIACAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/KOLN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOLN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOLN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KOLN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KOLN';
+* [ (KOLN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOLN/)
 </script>
+<script type="text/javascript">

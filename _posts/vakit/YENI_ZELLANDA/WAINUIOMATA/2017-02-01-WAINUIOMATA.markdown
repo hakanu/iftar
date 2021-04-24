@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/WAINUIOMATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAINUIOMATA, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WAINUIOMATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'WAINUIOMATA';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'WAINUIOMATA';
+* [ (WAINUIOMATA, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WAINUIOMATA/)
 </script>
+<script type="text/javascript">

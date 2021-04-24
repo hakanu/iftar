@@ -8,10 +8,11 @@ permalink: /MISIR/AL MAHALLAH AL KUBRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_MAHALLAH_AL_KUBRA, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_MAHALLAH_AL_KUBRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'AL MAHALLAH AL KUBRA';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'AL MAHALLAH AL KUBRA';
+* [ (AL_MAHALLAH_AL_KUBRA, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_MAHALLAH_AL_KUBRA/)
 </script>
+<script type="text/javascript">

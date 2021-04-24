@@ -8,10 +8,11 @@ permalink: /MEKSIKA/VALLE DE SANTIAGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALLE_DE_SANTIAGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/VALLE_DE_SANTIAGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'VALLE DE SANTIAGO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'VALLE DE SANTIAGO';
+* [ (VALLE_DE_SANTIAGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/VALLE_DE_SANTIAGO/)
 </script>
+<script type="text/javascript">

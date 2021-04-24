@@ -8,10 +8,11 @@ permalink: /EKVATOR/MANTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANTA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/MANTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'MANTA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'MANTA';
+* [ (MANTA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/MANTA/)
 </script>
+<script type="text/javascript">

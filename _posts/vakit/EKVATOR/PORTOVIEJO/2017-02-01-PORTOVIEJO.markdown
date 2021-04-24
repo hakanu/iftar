@@ -8,10 +8,11 @@ permalink: /EKVATOR/PORTOVIEJO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORTOVIEJO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/PORTOVIEJO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'PORTOVIEJO';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'PORTOVIEJO';
+* [ (PORTOVIEJO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/PORTOVIEJO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PERU/CHIMBOTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHIMBOTE, PERU) için iftar ve namaz vakitleri](/PERU/CHIMBOTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'CHIMBOTE';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'CHIMBOTE';
+* [ (CHIMBOTE, PERU) için iftar ve namaz vakitleri](/PERU/CHIMBOTE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/SHENGELDY(Almatı)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHENGELDY(Almatı), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SHENGELDY(Almatı)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'SHENGELDY(Almatı)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'SHENGELDY(Almatı)';
+* [ (SHENGELDY(Almatı), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SHENGELDY(Almatı)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/OMUTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OMUTA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OMUTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OMUTA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OMUTA';
+* [ (OMUTA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OMUTA/)
 </script>
+<script type="text/javascript">

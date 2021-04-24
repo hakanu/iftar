@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/COOMA (NSW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COOMA_(NSW), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/COOMA_(NSW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'COOMA (NSW)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'COOMA (NSW)';
+* [ (COOMA_(NSW), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/COOMA_(NSW)/)
 </script>
+<script type="text/javascript">

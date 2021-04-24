@@ -8,10 +8,11 @@ permalink: /DANIMARKA/AABENRAA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AABENRAA, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/AABENRAA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'AABENRAA';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'AABENRAA';
+* [ (AABENRAA, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/AABENRAA/)
 </script>
+<script type="text/javascript">

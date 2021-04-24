@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/ZADAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZADAR, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/ZADAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'ZADAR';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'ZADAR';
+* [ (ZADAR, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/ZADAR/)
 </script>
+<script type="text/javascript">

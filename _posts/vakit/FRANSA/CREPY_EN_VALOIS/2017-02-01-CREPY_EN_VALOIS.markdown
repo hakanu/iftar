@@ -8,10 +8,11 @@ permalink: /FRANSA/CREPY EN VALOIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CREPY_EN_VALOIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CREPY_EN_VALOIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CREPY EN VALOIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CREPY EN VALOIS';
+* [ (CREPY_EN_VALOIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CREPY_EN_VALOIS/)
 </script>
+<script type="text/javascript">

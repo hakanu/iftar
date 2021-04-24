@@ -8,10 +8,11 @@ permalink: /BELCIKA/ZOTTEGEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZOTTEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ZOTTEGEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ZOTTEGEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ZOTTEGEM';
+* [ (ZOTTEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ZOTTEGEM/)
 </script>
+<script type="text/javascript">

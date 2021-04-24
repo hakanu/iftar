@@ -8,10 +8,11 @@ permalink: /ALMANYA/IDSTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IDSTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IDSTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'IDSTEIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'IDSTEIN';
+* [ (IDSTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IDSTEIN/)
 </script>
+<script type="text/javascript">

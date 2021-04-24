@@ -8,14 +8,15 @@ permalink: /SUDAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [NYALA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/NYALA)
-* [NASIR (SUDAN) için iftar ve namaz vakitleri](/SUDAN/NASIR)
-* [JUBA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/JUBA)
-* [WAD_MADANI (SUDAN) için iftar ve namaz vakitleri](/SUDAN/WAD_MADANI)
-* [WADI_HALFA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/WADI_HALFA)
-* [TAWKAR (SUDAN) için iftar ve namaz vakitleri](/SUDAN/TAWKAR)
-* [KASSALA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/KASSALA)
-* [PORT_SUDAN (SUDAN) için iftar ve namaz vakitleri](/SUDAN/PORT_SUDAN)
+
 * [AL_QADARIF (SUDAN) için iftar ve namaz vakitleri](/SUDAN/AL_QADARIF)
 * [AL_UBAYYID (SUDAN) için iftar ve namaz vakitleri](/SUDAN/AL_UBAYYID)
 * [HARTUM (SUDAN) için iftar ve namaz vakitleri](/SUDAN/HARTUM)
+* [JUBA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/JUBA)
+* [KASSALA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/KASSALA)
+* [NASIR (SUDAN) için iftar ve namaz vakitleri](/SUDAN/NASIR)
+* [NYALA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/NYALA)
+* [PORT_SUDAN (SUDAN) için iftar ve namaz vakitleri](/SUDAN/PORT_SUDAN)
+* [TAWKAR (SUDAN) için iftar ve namaz vakitleri](/SUDAN/TAWKAR)
+* [WADI_HALFA (SUDAN) için iftar ve namaz vakitleri](/SUDAN/WADI_HALFA)
+* [WAD_MADANI (SUDAN) için iftar ve namaz vakitleri](/SUDAN/WAD_MADANI)

@@ -8,10 +8,11 @@ permalink: /ISVEC/NORRKOPING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORRKOPING, ISVEC) için iftar ve namaz vakitleri](/ISVEC/NORRKOPING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'NORRKOPING';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'NORRKOPING';
+* [ (NORRKOPING, ISVEC) için iftar ve namaz vakitleri](/ISVEC/NORRKOPING/)
 </script>
+<script type="text/javascript">

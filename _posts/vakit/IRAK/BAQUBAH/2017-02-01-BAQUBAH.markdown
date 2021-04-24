@@ -8,10 +8,11 @@ permalink: /IRAK/BAQUBAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAQUBAH, IRAK) için iftar ve namaz vakitleri](/IRAK/BAQUBAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'BAQUBAH';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'BAQUBAH';
+* [ (BAQUBAH, IRAK) için iftar ve namaz vakitleri](/IRAK/BAQUBAH/)
 </script>
+<script type="text/javascript">

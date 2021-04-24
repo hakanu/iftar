@@ -8,10 +8,11 @@ permalink: /ITALYA/UDINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UDINE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/UDINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'UDINE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'UDINE';
+* [ (UDINE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/UDINE/)
 </script>
+<script type="text/javascript">

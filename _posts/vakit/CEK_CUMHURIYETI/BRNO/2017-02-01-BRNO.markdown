@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/BRNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRNO, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/BRNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'BRNO';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'BRNO';
+* [ (BRNO, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/BRNO/)
 </script>
+<script type="text/javascript">

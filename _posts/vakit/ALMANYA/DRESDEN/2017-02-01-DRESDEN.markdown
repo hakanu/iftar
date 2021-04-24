@@ -8,10 +8,11 @@ permalink: /ALMANYA/DRESDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DRESDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DRESDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DRESDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DRESDEN';
+* [ (DRESDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DRESDEN/)
 </script>
+<script type="text/javascript">

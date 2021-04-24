@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HADSUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HADSUND, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HADSUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HADSUND';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HADSUND';
+* [ (HADSUND, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HADSUND/)
 </script>
+<script type="text/javascript">

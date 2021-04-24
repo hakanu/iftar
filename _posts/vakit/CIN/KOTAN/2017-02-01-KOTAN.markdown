@@ -8,10 +8,11 @@ permalink: /CIN/KOTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOTAN, CIN) için iftar ve namaz vakitleri](/CIN/KOTAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KOTAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KOTAN';
+* [ (KOTAN, CIN) için iftar ve namaz vakitleri](/CIN/KOTAN/)
 </script>
+<script type="text/javascript">

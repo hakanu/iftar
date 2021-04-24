@@ -8,10 +8,11 @@ permalink: /ALMANYA/KREMMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KREMMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREMMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KREMMEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KREMMEN';
+* [ (KREMMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREMMEN/)
 </script>
+<script type="text/javascript">

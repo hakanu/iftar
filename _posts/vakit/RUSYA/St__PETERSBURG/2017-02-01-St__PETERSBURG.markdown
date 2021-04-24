@@ -8,10 +8,11 @@ permalink: /RUSYA/St_ PETERSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (St__PETERSBURG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/St__PETERSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'St_ PETERSBURG';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'St_ PETERSBURG';
+* [ (St__PETERSBURG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/St__PETERSBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/BRUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUZ_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRUZ_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BRUZ ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BRUZ ';
+* [ (BRUZ_, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRUZ_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/UZDIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UZDIN_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/UZDIN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'UZDIN ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'UZDIN ';
+* [ (UZDIN_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/UZDIN_/)
 </script>
+<script type="text/javascript">

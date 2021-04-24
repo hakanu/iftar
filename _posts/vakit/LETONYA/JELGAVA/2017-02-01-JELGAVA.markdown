@@ -8,10 +8,11 @@ permalink: /LETONYA/JELGAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JELGAVA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/JELGAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'JELGAVA';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'JELGAVA';
+* [ (JELGAVA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/JELGAVA/)
 </script>
+<script type="text/javascript">

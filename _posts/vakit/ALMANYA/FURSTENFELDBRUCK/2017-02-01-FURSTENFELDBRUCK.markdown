@@ -8,10 +8,11 @@ permalink: /ALMANYA/FURSTENFELDBRUCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURSTENFELDBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURSTENFELDBRUCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FURSTENFELDBRUCK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FURSTENFELDBRUCK';
+* [ (FURSTENFELDBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURSTENFELDBRUCK/)
 </script>
+<script type="text/javascript">

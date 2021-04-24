@@ -8,10 +8,11 @@ permalink: /RUSYA/MAGADAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAGADAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MAGADAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MAGADAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MAGADAN';
+* [ (MAGADAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MAGADAN/)
 </script>
+<script type="text/javascript">

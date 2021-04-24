@@ -8,10 +8,11 @@ permalink: /HOLLANDA/LOSSER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOSSER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LOSSER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'LOSSER';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'LOSSER';
+* [ (LOSSER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LOSSER/)
 </script>
+<script type="text/javascript">

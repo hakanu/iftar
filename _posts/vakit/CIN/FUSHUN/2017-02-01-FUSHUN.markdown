@@ -8,10 +8,11 @@ permalink: /CIN/FUSHUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUSHUN, CIN) için iftar ve namaz vakitleri](/CIN/FUSHUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FUSHUN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FUSHUN';
+* [ (FUSHUN, CIN) için iftar ve namaz vakitleri](/CIN/FUSHUN/)
 </script>
+<script type="text/javascript">

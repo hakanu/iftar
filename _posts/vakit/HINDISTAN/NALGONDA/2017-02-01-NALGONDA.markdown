@@ -8,10 +8,11 @@ permalink: /HINDISTAN/NALGONDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NALGONDA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/NALGONDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'NALGONDA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'NALGONDA';
+* [ (NALGONDA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/NALGONDA/)
 </script>
+<script type="text/javascript">

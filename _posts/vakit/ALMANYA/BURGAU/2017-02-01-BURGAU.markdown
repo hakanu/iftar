@@ -8,10 +8,11 @@ permalink: /ALMANYA/BURGAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURGAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BURGAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BURGAU';
+* [ (BURGAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURGAU/)
 </script>
+<script type="text/javascript">

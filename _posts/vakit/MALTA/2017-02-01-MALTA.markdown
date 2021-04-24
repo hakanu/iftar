@@ -8,7 +8,8 @@ permalink: /MALTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [VICTORIA (MALTA) için iftar ve namaz vakitleri](/MALTA/VICTORIA)
-* [VALLETTA (MALTA) için iftar ve namaz vakitleri](/MALTA/VALLETTA)
+
 * [BIRKIRKARA (MALTA) için iftar ve namaz vakitleri](/MALTA/BIRKIRKARA)
 * [SLIEMA (MALTA) için iftar ve namaz vakitleri](/MALTA/SLIEMA)
+* [VALLETTA (MALTA) için iftar ve namaz vakitleri](/MALTA/VALLETTA)
+* [VICTORIA (MALTA) için iftar ve namaz vakitleri](/MALTA/VICTORIA)

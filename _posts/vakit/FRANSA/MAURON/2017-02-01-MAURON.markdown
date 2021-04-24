@@ -8,10 +8,11 @@ permalink: /FRANSA/MAURON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAURON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAURON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MAURON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MAURON';
+* [ (MAURON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAURON/)
 </script>
+<script type="text/javascript">

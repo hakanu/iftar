@@ -8,10 +8,11 @@ permalink: /MISIR/KAFR AD DAWWAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAFR_AD_DAWWAR, MISIR) için iftar ve namaz vakitleri](/MISIR/KAFR_AD_DAWWAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'KAFR AD DAWWAR';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'KAFR AD DAWWAR';
+* [ (KAFR_AD_DAWWAR, MISIR) için iftar ve namaz vakitleri](/MISIR/KAFR_AD_DAWWAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SCHIJNDEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHIJNDEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SCHIJNDEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SCHIJNDEL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SCHIJNDEL';
+* [ (SCHIJNDEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SCHIJNDEL/)
 </script>
+<script type="text/javascript">

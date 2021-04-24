@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/BELEU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELEU, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BELEU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'BELEU';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'BELEU';
+* [ (BELEU, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BELEU/)
 </script>
+<script type="text/javascript">

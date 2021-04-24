@@ -8,10 +8,11 @@ permalink: /BELCIKA/ST_ TRUIDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__TRUIDEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ST__TRUIDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ST_ TRUIDEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ST_ TRUIDEN';
+* [ (ST__TRUIDEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ST__TRUIDEN/)
 </script>
+<script type="text/javascript">

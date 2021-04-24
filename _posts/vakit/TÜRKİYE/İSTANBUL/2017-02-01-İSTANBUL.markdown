@@ -8,26 +8,27 @@ permalink: /TÜRKİYE/İSTANBUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ÇEKMEKÖY (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ÇEKMEKÖY)
-* [SULTANBEYLİ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SULTANBEYLİ)
-* [BEYLİKDÜZÜ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/BEYLİKDÜZÜ)
-* [MALTEPE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/MALTEPE)
-* [KARTAL (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/KARTAL)
-* [ESENYURT (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ESENYURT)
-* [ARNAVUTKOY (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ARNAVUTKOY)
-* [BÜYÜKÇEKMECE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/BÜYÜKÇEKMECE)
-* [SİLİVRİ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SİLİVRİ)
-* [KÜÇÜKÇEKMECE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/KÜÇÜKÇEKMECE)
-* [PENDİK (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/PENDİK)
-* [İSTANBUL (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/İSTANBUL)
-* [SANCAKTEPE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SANCAKTEPE)
-* [TUZLA (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/TUZLA)
-* [SULTANGAZİ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SULTANGAZİ)
-* [ÇATALCA (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ÇATALCA)
-* [ŞİLE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ŞİLE)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'İSTANBUL';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'İSTANBUL';
+* [ARNAVUTKOY (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ARNAVUTKOY)
+* [BEYLİKDÜZÜ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/BEYLİKDÜZÜ)
+* [BÜYÜKÇEKMECE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/BÜYÜKÇEKMECE)
+* [ESENYURT (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ESENYURT)
+* [KARTAL (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/KARTAL)
+* [KÜÇÜKÇEKMECE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/KÜÇÜKÇEKMECE)
+* [MALTEPE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/MALTEPE)
+* [PENDİK (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/PENDİK)
+* [SANCAKTEPE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SANCAKTEPE)
+* [SULTANBEYLİ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SULTANBEYLİ)
+* [SULTANGAZİ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SULTANGAZİ)
+* [SİLİVRİ (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/SİLİVRİ)
+* [TUZLA (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/TUZLA)
+* [ÇATALCA (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ÇATALCA)
+* [ÇEKMEKÖY (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ÇEKMEKÖY)
+* [İSTANBUL (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/İSTANBUL)
+* [ŞİLE (İSTANBUL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/İSTANBUL/ŞİLE)
 </script>
+<script type="text/javascript">

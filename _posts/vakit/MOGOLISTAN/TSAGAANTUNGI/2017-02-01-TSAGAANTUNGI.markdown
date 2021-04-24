@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/TSAGAANTUNGI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TSAGAANTUNGI, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TSAGAANTUNGI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'TSAGAANTUNGI';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'TSAGAANTUNGI';
+* [ (TSAGAANTUNGI, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TSAGAANTUNGI/)
 </script>
+<script type="text/javascript">

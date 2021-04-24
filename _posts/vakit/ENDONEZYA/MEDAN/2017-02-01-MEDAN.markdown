@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/MEDAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEDAN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MEDAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'MEDAN';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'MEDAN';
+* [ (MEDAN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MEDAN/)
 </script>
+<script type="text/javascript">

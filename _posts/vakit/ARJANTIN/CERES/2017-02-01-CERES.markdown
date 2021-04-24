@@ -8,10 +8,11 @@ permalink: /ARJANTIN/CERES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CERES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CERES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'CERES';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'CERES';
+* [ (CERES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CERES/)
 </script>
+<script type="text/javascript">

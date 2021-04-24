@@ -8,10 +8,11 @@ permalink: /ISVEC/STOCKHOLM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STOCKHOLM, ISVEC) için iftar ve namaz vakitleri](/ISVEC/STOCKHOLM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'STOCKHOLM';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'STOCKHOLM';
+* [ (STOCKHOLM, ISVEC) için iftar ve namaz vakitleri](/ISVEC/STOCKHOLM/)
 </script>
+<script type="text/javascript">

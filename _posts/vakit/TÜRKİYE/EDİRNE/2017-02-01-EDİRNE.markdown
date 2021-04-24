@@ -8,18 +8,19 @@ permalink: /TÜRKİYE/EDİRNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MERİÇ (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/MERİÇ)
-* [ENEZ (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/ENEZ)
-* [İPSALA (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/İPSALA)
-* [UZUNKÖPRÜ (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/UZUNKÖPRÜ)
-* [KEŞAN (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/KEŞAN)
-* [HAVSA (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/HAVSA)
-* [SÜLOĞLU (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/SÜLOĞLU)
-* [LALAPAŞA (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/LALAPAŞA)
-* [EDİRNE (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/EDİRNE)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'EDİRNE';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'EDİRNE';
+* [EDİRNE (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/EDİRNE)
+* [ENEZ (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/ENEZ)
+* [HAVSA (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/HAVSA)
+* [KEŞAN (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/KEŞAN)
+* [LALAPAŞA (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/LALAPAŞA)
+* [MERİÇ (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/MERİÇ)
+* [SÜLOĞLU (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/SÜLOĞLU)
+* [UZUNKÖPRÜ (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/UZUNKÖPRÜ)
+* [İPSALA (EDİRNE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/EDİRNE/İPSALA)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/GIVORS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIVORS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GIVORS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GIVORS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GIVORS';
+* [ (GIVORS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GIVORS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MACARISTAN/KECSKEMET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KECSKEMET, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/KECSKEMET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'KECSKEMET';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'KECSKEMET';
+* [ (KECSKEMET, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/KECSKEMET/)
 </script>
+<script type="text/javascript">

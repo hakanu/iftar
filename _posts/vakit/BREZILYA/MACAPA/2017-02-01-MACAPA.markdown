@@ -8,10 +8,11 @@ permalink: /BREZILYA/MACAPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MACAPA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MACAPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'MACAPA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'MACAPA';
+* [ (MACAPA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MACAPA/)
 </script>
+<script type="text/javascript">

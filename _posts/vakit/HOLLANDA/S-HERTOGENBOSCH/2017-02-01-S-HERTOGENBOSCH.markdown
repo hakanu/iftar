@@ -8,10 +8,11 @@ permalink: /HOLLANDA/S-HERTOGENBOSCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (S-HERTOGENBOSCH, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/S-HERTOGENBOSCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'S-HERTOGENBOSCH';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'S-HERTOGENBOSCH';
+* [ (S-HERTOGENBOSCH, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/S-HERTOGENBOSCH/)
 </script>
+<script type="text/javascript">

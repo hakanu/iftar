@@ -8,10 +8,11 @@ permalink: /FRANSA/NIMES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIMES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NIMES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NIMES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NIMES';
+* [ (NIMES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NIMES/)
 </script>
+<script type="text/javascript">

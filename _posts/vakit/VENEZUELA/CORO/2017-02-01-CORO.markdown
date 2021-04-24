@@ -8,10 +8,11 @@ permalink: /VENEZUELA/CORO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CORO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'CORO';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'CORO';
+* [ (CORO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CORO/)
 </script>
+<script type="text/javascript">

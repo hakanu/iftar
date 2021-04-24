@@ -8,10 +8,11 @@ permalink: /RUSYA/OREKHOVO ZUYEYO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OREKHOVO_ZUYEYO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/OREKHOVO_ZUYEYO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'OREKHOVO ZUYEYO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'OREKHOVO ZUYEYO';
+* [ (OREKHOVO_ZUYEYO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/OREKHOVO_ZUYEYO/)
 </script>
+<script type="text/javascript">

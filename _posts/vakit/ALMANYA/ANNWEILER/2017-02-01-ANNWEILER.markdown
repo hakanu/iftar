@@ -8,10 +8,11 @@ permalink: /ALMANYA/ANNWEILER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANNWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ANNWEILER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ANNWEILER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ANNWEILER';
+* [ (ANNWEILER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ANNWEILER/)
 </script>
+<script type="text/javascript">

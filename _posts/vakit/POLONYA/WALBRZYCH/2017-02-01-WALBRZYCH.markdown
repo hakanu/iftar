@@ -8,10 +8,11 @@ permalink: /POLONYA/WALBRZYCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALBRZYCH, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WALBRZYCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'WALBRZYCH';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'WALBRZYCH';
+* [ (WALBRZYCH, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WALBRZYCH/)
 </script>
+<script type="text/javascript">

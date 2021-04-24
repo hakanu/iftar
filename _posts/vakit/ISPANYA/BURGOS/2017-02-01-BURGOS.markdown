@@ -8,10 +8,11 @@ permalink: /ISPANYA/BURGOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURGOS, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/BURGOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'BURGOS';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'BURGOS';
+* [ (BURGOS, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/BURGOS/)
 </script>
+<script type="text/javascript">

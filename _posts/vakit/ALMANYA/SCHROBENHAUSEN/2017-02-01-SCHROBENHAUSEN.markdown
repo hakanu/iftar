@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHROBENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHROBENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHROBENHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHROBENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHROBENHAUSEN';
+* [ (SCHROBENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHROBENHAUSEN/)
 </script>
+<script type="text/javascript">

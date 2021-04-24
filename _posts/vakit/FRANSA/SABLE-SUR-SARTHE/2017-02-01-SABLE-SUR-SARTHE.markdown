@@ -8,10 +8,11 @@ permalink: /FRANSA/SABLE-SUR-SARTHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SABLE-SUR-SARTHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SABLE-SUR-SARTHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SABLE-SUR-SARTHE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SABLE-SUR-SARTHE';
+* [ (SABLE-SUR-SARTHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SABLE-SUR-SARTHE/)
 </script>
+<script type="text/javascript">

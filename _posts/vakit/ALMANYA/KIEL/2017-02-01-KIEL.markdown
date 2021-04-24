@@ -8,10 +8,11 @@ permalink: /ALMANYA/KIEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KIEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KIEL';
+* [ (KIEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KIEL/)
 </script>
+<script type="text/javascript">

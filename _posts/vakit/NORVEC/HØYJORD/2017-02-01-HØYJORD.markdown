@@ -8,10 +8,11 @@ permalink: /NORVEC/HØYJORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HØYJORD, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HØYJORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'HØYJORD';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'HØYJORD';
+* [ (HØYJORD, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HØYJORD/)
 </script>
+<script type="text/javascript">

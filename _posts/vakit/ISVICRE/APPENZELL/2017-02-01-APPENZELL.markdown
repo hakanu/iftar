@@ -8,10 +8,11 @@ permalink: /ISVICRE/APPENZELL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APPENZELL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/APPENZELL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'APPENZELL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'APPENZELL';
+* [ (APPENZELL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/APPENZELL/)
 </script>
+<script type="text/javascript">

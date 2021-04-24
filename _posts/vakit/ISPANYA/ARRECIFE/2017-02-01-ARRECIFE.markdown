@@ -8,10 +8,11 @@ permalink: /ISPANYA/ARRECIFE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARRECIFE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ARRECIFE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'ARRECIFE';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'ARRECIFE';
+* [ (ARRECIFE, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ARRECIFE/)
 </script>
+<script type="text/javascript">

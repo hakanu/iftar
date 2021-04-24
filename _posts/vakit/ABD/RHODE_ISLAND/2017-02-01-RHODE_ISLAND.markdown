@@ -8,10 +8,11 @@ permalink: /ABD/RHODE ISLAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [PROVIDENCE (RHODE_ISLAND, ABD) için iftar ve namaz vakitleri](/ABD/RHODE_ISLAND/PROVIDENCE)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
+
   var GLOBAL_CITY = 'RHODE ISLAND';
+  var GLOBAL_COUNTRY = 'ABD';
   var GLOBAL_STATE = 'RHODE ISLAND';
+* [PROVIDENCE (RHODE_ISLAND, ABD) için iftar ve namaz vakitleri](/ABD/RHODE_ISLAND/PROVIDENCE)
 </script>
+<script type="text/javascript">

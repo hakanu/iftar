@@ -8,10 +8,11 @@ permalink: /CIN/KAIFENG ( HENAN )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAIFENG_(_HENAN_), CIN) için iftar ve namaz vakitleri](/CIN/KAIFENG_(_HENAN_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KAIFENG ( HENAN )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KAIFENG ( HENAN )';
+* [ (KAIFENG_(_HENAN_), CIN) için iftar ve namaz vakitleri](/CIN/KAIFENG_(_HENAN_)/)
 </script>
+<script type="text/javascript">

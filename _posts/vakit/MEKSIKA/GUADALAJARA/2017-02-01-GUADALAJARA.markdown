@@ -8,10 +8,11 @@ permalink: /MEKSIKA/GUADALAJARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUADALAJARA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/GUADALAJARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'GUADALAJARA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'GUADALAJARA';
+* [ (GUADALAJARA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/GUADALAJARA/)
 </script>
+<script type="text/javascript">

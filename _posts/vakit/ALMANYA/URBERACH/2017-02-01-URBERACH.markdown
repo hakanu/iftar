@@ -8,10 +8,11 @@ permalink: /ALMANYA/URBERACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URBERACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/URBERACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'URBERACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'URBERACH';
+* [ (URBERACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/URBERACH/)
 </script>
+<script type="text/javascript">

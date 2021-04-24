@@ -8,10 +8,11 @@ permalink: /FAS/TANGIER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TANGIER, FAS) için iftar ve namaz vakitleri](/FAS/TANGIER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'TANGIER';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'TANGIER';
+* [ (TANGIER, FAS) için iftar ve namaz vakitleri](/FAS/TANGIER/)
 </script>
+<script type="text/javascript">

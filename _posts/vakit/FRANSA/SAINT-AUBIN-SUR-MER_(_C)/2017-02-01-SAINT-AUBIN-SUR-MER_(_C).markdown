@@ -8,10 +8,11 @@ permalink: /FRANSA/SAINT-AUBIN-SUR-MER ( C)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT-AUBIN-SUR-MER_(_C), FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT-AUBIN-SUR-MER_(_C)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SAINT-AUBIN-SUR-MER ( C)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SAINT-AUBIN-SUR-MER ( C)';
+* [ (SAINT-AUBIN-SUR-MER_(_C), FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT-AUBIN-SUR-MER_(_C)/)
 </script>
+<script type="text/javascript">

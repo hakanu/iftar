@@ -8,10 +8,11 @@ permalink: /FRANSA/BISCHWILLER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BISCHWILLER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BISCHWILLER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BISCHWILLER';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BISCHWILLER';
+* [ (BISCHWILLER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BISCHWILLER/)
 </script>
+<script type="text/javascript">

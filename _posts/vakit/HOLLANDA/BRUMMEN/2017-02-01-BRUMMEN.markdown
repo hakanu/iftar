@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BRUMMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUMMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BRUMMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BRUMMEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BRUMMEN';
+* [ (BRUMMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BRUMMEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/IBBENBUREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IBBENBUREN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IBBENBUREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'IBBENBUREN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'IBBENBUREN';
+* [ (IBBENBUREN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IBBENBUREN/)
 </script>
+<script type="text/javascript">

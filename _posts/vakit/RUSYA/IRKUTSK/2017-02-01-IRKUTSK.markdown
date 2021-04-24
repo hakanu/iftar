@@ -8,10 +8,11 @@ permalink: /RUSYA/IRKUTSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IRKUTSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/IRKUTSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'IRKUTSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'IRKUTSK';
+* [ (IRKUTSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/IRKUTSK/)
 </script>
+<script type="text/javascript">

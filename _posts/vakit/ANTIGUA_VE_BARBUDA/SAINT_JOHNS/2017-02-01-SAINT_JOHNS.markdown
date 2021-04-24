@@ -8,10 +8,11 @@ permalink: /ANTIGUA VE BARBUDA/SAINT JOHNS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT_JOHNS, ANTIGUA_VE_BARBUDA) için iftar ve namaz vakitleri](/ANTIGUA_VE_BARBUDA/SAINT_JOHNS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANTIGUA VE BARBUDA';
+
   var GLOBAL_CITY = 'SAINT JOHNS';
+  var GLOBAL_COUNTRY = 'ANTIGUA VE BARBUDA';
   var GLOBAL_STATE = 'SAINT JOHNS';
+* [ (SAINT_JOHNS, ANTIGUA_VE_BARBUDA) için iftar ve namaz vakitleri](/ANTIGUA_VE_BARBUDA/SAINT_JOHNS/)
 </script>
+<script type="text/javascript">

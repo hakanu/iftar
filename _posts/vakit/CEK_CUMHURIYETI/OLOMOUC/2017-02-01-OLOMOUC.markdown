@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/OLOMOUC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLOMOUC, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/OLOMOUC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'OLOMOUC';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'OLOMOUC';
+* [ (OLOMOUC, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/OLOMOUC/)
 </script>
+<script type="text/javascript">

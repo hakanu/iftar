@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/TURKMENBASI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURKMENBASI, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/TURKMENBASI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'TURKMENBASI';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'TURKMENBASI';
+* [ (TURKMENBASI, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/TURKMENBASI/)
 </script>
+<script type="text/javascript">

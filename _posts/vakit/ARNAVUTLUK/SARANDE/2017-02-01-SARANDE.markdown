@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/SARANDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARANDE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/SARANDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'SARANDE';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'SARANDE';
+* [ (SARANDE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/SARANDE/)
 </script>
+<script type="text/javascript">

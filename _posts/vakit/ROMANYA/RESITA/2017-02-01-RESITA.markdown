@@ -8,10 +8,11 @@ permalink: /ROMANYA/RESITA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RESITA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/RESITA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'RESITA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'RESITA';
+* [ (RESITA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/RESITA/)
 </script>
+<script type="text/javascript">

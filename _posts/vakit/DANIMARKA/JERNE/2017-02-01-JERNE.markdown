@@ -8,10 +8,11 @@ permalink: /DANIMARKA/JERNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JERNE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/JERNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'JERNE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'JERNE';
+* [ (JERNE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/JERNE/)
 </script>
+<script type="text/javascript">

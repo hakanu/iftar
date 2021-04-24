@@ -8,10 +8,11 @@ permalink: /ITALYA/COSENZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COSENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/COSENZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'COSENZA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'COSENZA';
+* [ (COSENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/COSENZA/)
 </script>
+<script type="text/javascript">

@@ -8,18 +8,19 @@ permalink: /TÜRKİYE/KAHRAMANMARAŞ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'KAHRAMANMARAŞ';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'KAHRAMANMARAŞ';
 * [AFŞİN (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/AFŞİN)
-* [ELBİSTAN (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/ELBİSTAN)
+* [ANDIRIN (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/ANDIRIN)
 * [EKİNÖZÜ (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/EKİNÖZÜ)
+* [ELBİSTAN (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/ELBİSTAN)
+* [GÖKSUN (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/GÖKSUN)
 * [KAHRAMANMARAŞ (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/KAHRAMANMARAŞ)
 * [NURHAK (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/NURHAK)
-* [GÖKSUN (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/GÖKSUN)
-* [ÇAĞLAYANCERİT (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/ÇAĞLAYANCERİT)
-* [ANDIRIN (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/ANDIRIN)
 * [PAZARCIK (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/PAZARCIK)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'KAHRAMANMARAŞ';
-  var GLOBAL_STATE = 'KAHRAMANMARAŞ';
+* [ÇAĞLAYANCERİT (KAHRAMANMARAŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KAHRAMANMARAŞ/ÇAĞLAYANCERİT)
 </script>
+<script type="text/javascript">

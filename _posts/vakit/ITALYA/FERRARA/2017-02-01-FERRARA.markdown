@@ -8,10 +8,11 @@ permalink: /ITALYA/FERRARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FERRARA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FERRARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FERRARA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FERRARA';
+* [ (FERRARA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FERRARA/)
 </script>
+<script type="text/javascript">

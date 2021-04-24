@@ -8,10 +8,11 @@ permalink: /ALMANYA/NORDKIRCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORDKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NORDKIRCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NORDKIRCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NORDKIRCHEN';
+* [ (NORDKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NORDKIRCHEN/)
 </script>
+<script type="text/javascript">

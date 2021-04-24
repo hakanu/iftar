@@ -8,10 +8,11 @@ permalink: /ISPANYA/ALMERIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALMERIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ALMERIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'ALMERIA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'ALMERIA';
+* [ (ALMERIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/ALMERIA/)
 </script>
+<script type="text/javascript">

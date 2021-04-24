@@ -8,10 +8,11 @@ permalink: /FRANSA/NEMOURS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEMOURS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEMOURS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NEMOURS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NEMOURS';
+* [ (NEMOURS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEMOURS/)
 </script>
+<script type="text/javascript">

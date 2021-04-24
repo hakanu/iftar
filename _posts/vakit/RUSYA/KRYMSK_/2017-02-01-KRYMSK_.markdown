@@ -8,10 +8,11 @@ permalink: /RUSYA/KRYMSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRYMSK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRYMSK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KRYMSK ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KRYMSK ';
+* [ (KRYMSK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRYMSK_/)
 </script>
+<script type="text/javascript">

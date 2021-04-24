@@ -8,10 +8,11 @@ permalink: /ALMANYA/INGOLSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INGOLSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/INGOLSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'INGOLSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'INGOLSTADT';
+* [ (INGOLSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/INGOLSTADT/)
 </script>
+<script type="text/javascript">

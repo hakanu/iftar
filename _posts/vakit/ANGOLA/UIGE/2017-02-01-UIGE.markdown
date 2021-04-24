@@ -8,10 +8,11 @@ permalink: /ANGOLA/UIGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UIGE, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/UIGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'UIGE';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'UIGE';
+* [ (UIGE, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/UIGE/)
 </script>
+<script type="text/javascript">

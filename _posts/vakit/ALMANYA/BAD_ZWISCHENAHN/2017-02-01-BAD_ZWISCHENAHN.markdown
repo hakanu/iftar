@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD ZWISCHENAHN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_ZWISCHENAHN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_ZWISCHENAHN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD ZWISCHENAHN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD ZWISCHENAHN';
+* [ (BAD_ZWISCHENAHN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_ZWISCHENAHN/)
 </script>
+<script type="text/javascript">

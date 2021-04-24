@@ -8,10 +8,11 @@ permalink: /FRANSA/TOULOUSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOULOUSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOULOUSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TOULOUSE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TOULOUSE';
+* [ (TOULOUSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOULOUSE/)
 </script>
+<script type="text/javascript">

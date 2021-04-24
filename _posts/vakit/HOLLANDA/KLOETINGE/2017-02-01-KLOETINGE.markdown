@@ -8,10 +8,11 @@ permalink: /HOLLANDA/KLOETINGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLOETINGE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KLOETINGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'KLOETINGE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'KLOETINGE';
+* [ (KLOETINGE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KLOETINGE/)
 </script>
+<script type="text/javascript">

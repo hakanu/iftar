@@ -8,10 +8,11 @@ permalink: /ARJANTIN/MALARGUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALARGUE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MALARGUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'MALARGUE';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'MALARGUE';
+* [ (MALARGUE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MALARGUE/)
 </script>
+<script type="text/javascript">

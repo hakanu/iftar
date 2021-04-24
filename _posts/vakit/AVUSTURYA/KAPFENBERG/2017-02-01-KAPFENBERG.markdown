@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/KAPFENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAPFENBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KAPFENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'KAPFENBERG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'KAPFENBERG';
+* [ (KAPFENBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KAPFENBERG/)
 </script>
+<script type="text/javascript">

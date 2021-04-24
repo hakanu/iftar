@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DEDEMSVAART
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEDEMSVAART, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEDEMSVAART/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DEDEMSVAART';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DEDEMSVAART';
+* [ (DEDEMSVAART, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEDEMSVAART/)
 </script>
+<script type="text/javascript">

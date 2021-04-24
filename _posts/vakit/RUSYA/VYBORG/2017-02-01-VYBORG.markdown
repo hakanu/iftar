@@ -8,10 +8,11 @@ permalink: /RUSYA/VYBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VYBORG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VYBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VYBORG';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VYBORG';
+* [ (VYBORG, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VYBORG/)
 </script>
+<script type="text/javascript">

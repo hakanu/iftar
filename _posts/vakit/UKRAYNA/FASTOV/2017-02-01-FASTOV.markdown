@@ -8,10 +8,11 @@ permalink: /UKRAYNA/FASTOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FASTOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/FASTOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'FASTOV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'FASTOV';
+* [ (FASTOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/FASTOV/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/AINRING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AINRING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/AINRING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'AINRING';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'AINRING';
+* [ (AINRING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/AINRING/)
 </script>
+<script type="text/javascript">

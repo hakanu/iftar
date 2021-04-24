@@ -8,10 +8,11 @@ permalink: /FRANSA/SARREBOURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARREBOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SARREBOURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SARREBOURG';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SARREBOURG';
+* [ (SARREBOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SARREBOURG/)
 </script>
+<script type="text/javascript">

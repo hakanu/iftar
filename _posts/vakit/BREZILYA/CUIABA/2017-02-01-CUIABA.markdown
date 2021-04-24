@@ -8,10 +8,11 @@ permalink: /BREZILYA/CUIABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUIABA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CUIABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CUIABA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CUIABA';
+* [ (CUIABA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CUIABA/)
 </script>
+<script type="text/javascript">

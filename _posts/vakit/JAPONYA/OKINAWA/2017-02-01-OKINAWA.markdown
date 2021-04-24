@@ -8,10 +8,11 @@ permalink: /JAPONYA/OKINAWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OKINAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OKINAWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OKINAWA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OKINAWA';
+* [ (OKINAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OKINAWA/)
 </script>
+<script type="text/javascript">

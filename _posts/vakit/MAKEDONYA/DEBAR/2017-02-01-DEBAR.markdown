@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/DEBAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEBAR, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/DEBAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'DEBAR';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'DEBAR';
+* [ (DEBAR, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/DEBAR/)
 </script>
+<script type="text/javascript">

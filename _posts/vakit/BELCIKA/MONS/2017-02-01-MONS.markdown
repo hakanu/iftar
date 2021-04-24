@@ -8,10 +8,11 @@ permalink: /BELCIKA/MONS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MONS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'MONS';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'MONS';
+* [ (MONS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MONS/)
 </script>
+<script type="text/javascript">

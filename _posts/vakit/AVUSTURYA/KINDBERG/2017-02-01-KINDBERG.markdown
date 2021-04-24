@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/KINDBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINDBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KINDBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'KINDBERG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'KINDBERG';
+* [ (KINDBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KINDBERG/)
 </script>
+<script type="text/javascript">

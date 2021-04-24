@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BARIPADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARIPADA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BARIPADA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BARIPADA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BARIPADA';
+* [ (BARIPADA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BARIPADA/)
 </script>
+<script type="text/javascript">

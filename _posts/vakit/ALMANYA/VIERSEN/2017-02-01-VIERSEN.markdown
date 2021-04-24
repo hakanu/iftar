@@ -8,10 +8,11 @@ permalink: /ALMANYA/VIERSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIERSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VIERSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VIERSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VIERSEN';
+* [ (VIERSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VIERSEN/)
 </script>
+<script type="text/javascript">

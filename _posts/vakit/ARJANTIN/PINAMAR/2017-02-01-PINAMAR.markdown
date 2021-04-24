@@ -8,10 +8,11 @@ permalink: /ARJANTIN/PINAMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINAMAR, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PINAMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'PINAMAR';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'PINAMAR';
+* [ (PINAMAR, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PINAMAR/)
 </script>
+<script type="text/javascript">

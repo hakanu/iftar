@@ -8,10 +8,11 @@ permalink: /ROMANYA/BACAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BACAU, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BACAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'BACAU';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'BACAU';
+* [ (BACAU, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/BACAU/)
 </script>
+<script type="text/javascript">

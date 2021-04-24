@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOXTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOXTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOXTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOXTER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOXTER';
+* [ (HOXTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOXTER/)
 </script>
+<script type="text/javascript">

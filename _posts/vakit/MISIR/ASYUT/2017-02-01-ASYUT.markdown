@@ -8,10 +8,11 @@ permalink: /MISIR/ASYUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASYUT, MISIR) için iftar ve namaz vakitleri](/MISIR/ASYUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'ASYUT';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'ASYUT';
+* [ (ASYUT, MISIR) için iftar ve namaz vakitleri](/MISIR/ASYUT/)
 </script>
+<script type="text/javascript">

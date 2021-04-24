@@ -8,10 +8,11 @@ permalink: /FRANSA/PAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PAU';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PAU';
+* [ (PAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PAU/)
 </script>
+<script type="text/javascript">

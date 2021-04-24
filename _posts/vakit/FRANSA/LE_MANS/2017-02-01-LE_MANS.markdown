@@ -8,10 +8,11 @@ permalink: /FRANSA/LE MANS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_MANS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_MANS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE MANS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE MANS';
+* [ (LE_MANS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_MANS/)
 </script>
+<script type="text/javascript">

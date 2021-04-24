@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ENSENADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENSENADA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ENSENADA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ENSENADA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ENSENADA';
+* [ (ENSENADA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ENSENADA/)
 </script>
+<script type="text/javascript">

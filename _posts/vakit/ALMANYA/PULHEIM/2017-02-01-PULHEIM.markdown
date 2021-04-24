@@ -8,10 +8,11 @@ permalink: /ALMANYA/PULHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PULHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PULHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PULHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PULHEIM';
+* [ (PULHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PULHEIM/)
 </script>
+<script type="text/javascript">

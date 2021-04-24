@@ -8,10 +8,11 @@ permalink: /INGILTERE/IPSWICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IPSWICH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/IPSWICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'IPSWICH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'IPSWICH';
+* [ (IPSWICH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/IPSWICH/)
 </script>
+<script type="text/javascript">

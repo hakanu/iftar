@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/ANDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ANDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'ANDORF';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'ANDORF';
+* [ (ANDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/ANDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DE BILT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DE_BILT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DE_BILT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DE BILT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DE BILT';
+* [ (DE_BILT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DE_BILT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/PREY VENG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PREY_VENG, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PREY_VENG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'PREY VENG';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'PREY VENG';
+* [ (PREY_VENG, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PREY_VENG/)
 </script>
+<script type="text/javascript">

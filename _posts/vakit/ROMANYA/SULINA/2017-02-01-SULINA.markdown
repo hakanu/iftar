@@ -8,10 +8,11 @@ permalink: /ROMANYA/SULINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SULINA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SULINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'SULINA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'SULINA';
+* [ (SULINA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SULINA/)
 </script>
+<script type="text/javascript">

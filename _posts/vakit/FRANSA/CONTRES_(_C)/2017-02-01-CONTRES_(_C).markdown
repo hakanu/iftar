@@ -8,10 +8,11 @@ permalink: /FRANSA/CONTRES ( C)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONTRES_(_C), FRANSA) için iftar ve namaz vakitleri](/FRANSA/CONTRES_(_C)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CONTRES ( C)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CONTRES ( C)';
+* [ (CONTRES_(_C), FRANSA) için iftar ve namaz vakitleri](/FRANSA/CONTRES_(_C)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /VIETNAM/THAI NGUYEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THAI_NGUYEN, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/THAI_NGUYEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'THAI NGUYEN';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'THAI NGUYEN';
+* [ (THAI_NGUYEN, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/THAI_NGUYEN/)
 </script>
+<script type="text/javascript">

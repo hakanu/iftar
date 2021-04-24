@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUTJENBURG (S-H)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUTJENBURG_(S-H), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUTJENBURG_(S-H)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUTJENBURG (S-H)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUTJENBURG (S-H)';
+* [ (LUTJENBURG_(S-H), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUTJENBURG_(S-H)/)
 </script>
+<script type="text/javascript">

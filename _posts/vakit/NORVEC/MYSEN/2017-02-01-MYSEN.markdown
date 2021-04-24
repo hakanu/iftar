@@ -8,10 +8,11 @@ permalink: /NORVEC/MYSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MYSEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/MYSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'MYSEN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'MYSEN';
+* [ (MYSEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/MYSEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/NOVI BEOGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVI_BEOGRAD_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/NOVI_BEOGRAD_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'NOVI BEOGRAD ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'NOVI BEOGRAD ';
+* [ (NOVI_BEOGRAD_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/NOVI_BEOGRAD_/)
 </script>
+<script type="text/javascript">

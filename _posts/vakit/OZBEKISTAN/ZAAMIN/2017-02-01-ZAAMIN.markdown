@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/ZAAMIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAAMIN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/ZAAMIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'ZAAMIN';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'ZAAMIN';
+* [ (ZAAMIN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/ZAAMIN/)
 </script>
+<script type="text/javascript">

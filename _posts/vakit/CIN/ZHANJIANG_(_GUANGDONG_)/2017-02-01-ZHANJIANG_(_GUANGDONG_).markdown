@@ -8,10 +8,11 @@ permalink: /CIN/ZHANJIANG ( GUANGDONG )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHANJIANG_(_GUANGDONG_), CIN) için iftar ve namaz vakitleri](/CIN/ZHANJIANG_(_GUANGDONG_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZHANJIANG ( GUANGDONG )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZHANJIANG ( GUANGDONG )';
+* [ (ZHANJIANG_(_GUANGDONG_), CIN) için iftar ve namaz vakitleri](/CIN/ZHANJIANG_(_GUANGDONG_)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/MURNAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURNAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MURNAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MURNAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MURNAU';
+* [ (MURNAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MURNAU/)
 </script>
+<script type="text/javascript">

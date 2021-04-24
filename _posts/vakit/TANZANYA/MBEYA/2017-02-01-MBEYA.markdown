@@ -8,10 +8,11 @@ permalink: /TANZANYA/MBEYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MBEYA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MBEYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'MBEYA';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'MBEYA';
+* [ (MBEYA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MBEYA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /URUGUAY/PAYSANDU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAYSANDU, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/PAYSANDU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'PAYSANDU';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'PAYSANDU';
+* [ (PAYSANDU, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/PAYSANDU/)
 </script>
+<script type="text/javascript">

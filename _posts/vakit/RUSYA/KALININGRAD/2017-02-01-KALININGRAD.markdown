@@ -8,10 +8,11 @@ permalink: /RUSYA/KALININGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALININGRAD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KALININGRAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KALININGRAD';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KALININGRAD';
+* [ (KALININGRAD, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KALININGRAD/)
 </script>
+<script type="text/javascript">

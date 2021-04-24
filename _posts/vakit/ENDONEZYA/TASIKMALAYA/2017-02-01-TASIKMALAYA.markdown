@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/TASIKMALAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TASIKMALAYA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/TASIKMALAYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'TASIKMALAYA';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'TASIKMALAYA';
+* [ (TASIKMALAYA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/TASIKMALAYA/)
 </script>
+<script type="text/javascript">

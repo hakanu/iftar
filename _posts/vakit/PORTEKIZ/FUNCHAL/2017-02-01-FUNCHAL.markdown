@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/FUNCHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUNCHAL, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/FUNCHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'FUNCHAL';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'FUNCHAL';
+* [ (FUNCHAL, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/FUNCHAL/)
 </script>
+<script type="text/javascript">

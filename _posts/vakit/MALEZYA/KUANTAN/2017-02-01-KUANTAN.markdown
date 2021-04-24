@@ -8,10 +8,11 @@ permalink: /MALEZYA/KUANTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUANTAN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUANTAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KUANTAN';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KUANTAN';
+* [ (KUANTAN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUANTAN/)
 </script>
+<script type="text/javascript">

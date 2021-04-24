@@ -8,10 +8,11 @@ permalink: /LETONYA/VENTSPILS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VENTSPILS, LETONYA) için iftar ve namaz vakitleri](/LETONYA/VENTSPILS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'VENTSPILS';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'VENTSPILS';
+* [ (VENTSPILS, LETONYA) için iftar ve namaz vakitleri](/LETONYA/VENTSPILS/)
 </script>
+<script type="text/javascript">

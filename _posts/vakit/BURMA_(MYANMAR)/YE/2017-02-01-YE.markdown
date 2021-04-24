@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/YE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YE, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/YE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'YE';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'YE';
+* [ (YE, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/YE/)
 </script>
+<script type="text/javascript">

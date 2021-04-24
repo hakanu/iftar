@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/SALISBURY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALISBURY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SALISBURY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'SALISBURY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'SALISBURY';
+* [ (SALISBURY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SALISBURY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/SAN JUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_JUAN, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/SAN_JUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'SAN JUAN';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'SAN JUAN';
+* [ (SAN_JUAN, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/SAN_JUAN/)
 </script>
+<script type="text/javascript">

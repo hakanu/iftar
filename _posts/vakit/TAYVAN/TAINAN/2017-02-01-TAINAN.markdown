@@ -8,10 +8,11 @@ permalink: /TAYVAN/TAINAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAINAN, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAINAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'TAINAN';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'TAINAN';
+* [ (TAINAN, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/TAINAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/BEAUVAIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEAUVAIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEAUVAIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BEAUVAIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BEAUVAIS';
+* [ (BEAUVAIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEAUVAIS/)
 </script>
+<script type="text/javascript">

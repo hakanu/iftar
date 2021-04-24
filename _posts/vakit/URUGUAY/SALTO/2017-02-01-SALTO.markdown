@@ -8,10 +8,11 @@ permalink: /URUGUAY/SALTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALTO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/SALTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'SALTO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'SALTO';
+* [ (SALTO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/SALTO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/KHIMKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHIMKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHIMKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KHIMKI';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KHIMKI';
+* [ (KHIMKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHIMKI/)
 </script>
+<script type="text/javascript">

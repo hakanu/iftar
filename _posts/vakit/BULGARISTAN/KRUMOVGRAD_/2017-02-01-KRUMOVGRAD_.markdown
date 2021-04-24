@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/KRUMOVGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRUMOVGRAD_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/KRUMOVGRAD_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'KRUMOVGRAD ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'KRUMOVGRAD ';
+* [ (KRUMOVGRAD_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/KRUMOVGRAD_/)
 </script>
+<script type="text/javascript">

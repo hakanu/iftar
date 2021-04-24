@@ -8,10 +8,11 @@ permalink: /NORVEC/SANDE (V)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANDE_(V), NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDE_(V)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SANDE (V)';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SANDE (V)';
+* [ (SANDE_(V), NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDE_(V)/)
 </script>
+<script type="text/javascript">

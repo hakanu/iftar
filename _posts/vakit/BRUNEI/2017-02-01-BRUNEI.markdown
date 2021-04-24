@@ -8,5 +8,6 @@ permalink: /BRUNEI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KUALA_BELAIT (BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/KUALA_BELAIT)
+
 * [BANDAR_SERI_BEGAWAN (BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/BANDAR_SERI_BEGAWAN)
+* [KUALA_BELAIT (BRUNEI) için iftar ve namaz vakitleri](/BRUNEI/KUALA_BELAIT)

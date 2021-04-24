@@ -8,10 +8,11 @@ permalink: /BREZILYA/ARAJACU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARAJACU, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ARAJACU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ARAJACU';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ARAJACU';
+* [ (ARAJACU, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ARAJACU/)
 </script>
+<script type="text/javascript">

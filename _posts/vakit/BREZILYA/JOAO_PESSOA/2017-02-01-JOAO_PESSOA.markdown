@@ -8,10 +8,11 @@ permalink: /BREZILYA/JOAO PESSOA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JOAO_PESSOA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JOAO_PESSOA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'JOAO PESSOA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'JOAO PESSOA';
+* [ (JOAO_PESSOA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JOAO_PESSOA/)
 </script>
+<script type="text/javascript">

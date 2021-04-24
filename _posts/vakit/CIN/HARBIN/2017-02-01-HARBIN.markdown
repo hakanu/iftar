@@ -8,10 +8,11 @@ permalink: /CIN/HARBIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARBIN, CIN) için iftar ve namaz vakitleri](/CIN/HARBIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HARBIN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HARBIN';
+* [ (HARBIN, CIN) için iftar ve namaz vakitleri](/CIN/HARBIN/)
 </script>
+<script type="text/javascript">

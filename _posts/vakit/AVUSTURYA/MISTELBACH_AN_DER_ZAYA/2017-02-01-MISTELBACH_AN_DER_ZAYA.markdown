@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MISTELBACH AN DER ZAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MISTELBACH_AN_DER_ZAYA, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MISTELBACH_AN_DER_ZAYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MISTELBACH AN DER ZAYA';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MISTELBACH AN DER ZAYA';
+* [ (MISTELBACH_AN_DER_ZAYA, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MISTELBACH_AN_DER_ZAYA/)
 </script>
+<script type="text/javascript">

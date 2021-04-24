@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NUENEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUENEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NUENEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NUENEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NUENEN';
+* [ (NUENEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NUENEN/)
 </script>
+<script type="text/javascript">

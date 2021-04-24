@@ -8,10 +8,11 @@ permalink: /ALMANYA/TUBINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TUBINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TUBINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TUBINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TUBINGEN';
+* [ (TUBINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TUBINGEN/)
 </script>
+<script type="text/javascript">

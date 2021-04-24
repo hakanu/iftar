@@ -8,10 +8,11 @@ permalink: /FRANSA/VERSAILES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VERSAILES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VERSAILES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VERSAILES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VERSAILES';
+* [ (VERSAILES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VERSAILES/)
 </script>
+<script type="text/javascript">

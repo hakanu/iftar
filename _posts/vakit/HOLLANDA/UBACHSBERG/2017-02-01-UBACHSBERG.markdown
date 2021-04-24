@@ -8,10 +8,11 @@ permalink: /HOLLANDA/UBACHSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UBACHSBERG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UBACHSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'UBACHSBERG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'UBACHSBERG';
+* [ (UBACHSBERG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/UBACHSBERG/)
 </script>
+<script type="text/javascript">

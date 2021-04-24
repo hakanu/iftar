@@ -8,10 +8,11 @@ permalink: /LAOS/MUANG VANGVIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUANG_VANGVIANG, LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_VANGVIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LAOS';
+
   var GLOBAL_CITY = 'MUANG VANGVIANG';
+  var GLOBAL_COUNTRY = 'LAOS';
   var GLOBAL_STATE = 'MUANG VANGVIANG';
+* [ (MUANG_VANGVIANG, LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_VANGVIANG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILDISI SAHILI/BOUAKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOUAKE, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/BOUAKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
+
   var GLOBAL_CITY = 'BOUAKE';
+  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
   var GLOBAL_STATE = 'BOUAKE';
+* [ (BOUAKE, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/BOUAKE/)
 </script>
+<script type="text/javascript">

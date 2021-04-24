@@ -8,15 +8,16 @@ permalink: /TÜRKİYE/NİĞDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [BOR (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/BOR)
-* [ÇAMARDI (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ÇAMARDI)
-* [ALTUNHİSAR (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ALTUNHİSAR)
-* [ULUKIŞLA (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ULUKIŞLA)
-* [NİĞDE (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/NİĞDE)
-* [ÇİFTLİK (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ÇİFTLİK)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'NİĞDE';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'NİĞDE';
+* [ALTUNHİSAR (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ALTUNHİSAR)
+* [BOR (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/BOR)
+* [NİĞDE (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/NİĞDE)
+* [ULUKIŞLA (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ULUKIŞLA)
+* [ÇAMARDI (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ÇAMARDI)
+* [ÇİFTLİK (NİĞDE, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/NİĞDE/ÇİFTLİK)
 </script>
+<script type="text/javascript">

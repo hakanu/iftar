@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HEERLEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEERLEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEERLEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HEERLEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HEERLEN';
+* [ (HEERLEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HEERLEN/)
 </script>
+<script type="text/javascript">

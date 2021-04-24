@@ -8,10 +8,11 @@ permalink: /SILI/CHILLAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHILLAN, SILI) için iftar ve namaz vakitleri](/SILI/CHILLAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'CHILLAN';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'CHILLAN';
+* [ (CHILLAN, SILI) için iftar ve namaz vakitleri](/SILI/CHILLAN/)
 </script>
+<script type="text/javascript">

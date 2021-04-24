@@ -8,10 +8,11 @@ permalink: /RUSYA/KHABEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHABEZ, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHABEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KHABEZ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KHABEZ';
+* [ (KHABEZ, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KHABEZ/)
 </script>
+<script type="text/javascript">

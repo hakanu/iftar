@@ -8,10 +8,11 @@ permalink: /ALMANYA/ZULPICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZULPICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZULPICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ZULPICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ZULPICH';
+* [ (ZULPICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZULPICH/)
 </script>
+<script type="text/javascript">

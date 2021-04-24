@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/AKTAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKTAL, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AKTAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'AKTAL';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'AKTAL';
+* [ (AKTAL, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AKTAL/)
 </script>
+<script type="text/javascript">

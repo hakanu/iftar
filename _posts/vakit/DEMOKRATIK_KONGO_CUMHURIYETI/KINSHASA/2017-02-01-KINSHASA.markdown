@@ -8,10 +8,11 @@ permalink: /DEMOKRATIK KONGO CUMHURIYETI/KINSHASA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINSHASA, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/KINSHASA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
+
   var GLOBAL_CITY = 'KINSHASA';
+  var GLOBAL_COUNTRY = 'DEMOKRATIK KONGO CUMHURIYETI';
   var GLOBAL_STATE = 'KINSHASA';
+* [ (KINSHASA, DEMOKRATIK_KONGO_CUMHURIYETI) için iftar ve namaz vakitleri](/DEMOKRATIK_KONGO_CUMHURIYETI/KINSHASA/)
 </script>
+<script type="text/javascript">

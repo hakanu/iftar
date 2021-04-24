@@ -8,10 +8,11 @@ permalink: /FRANSA/EVREUX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EVREUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EVREUX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'EVREUX';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'EVREUX';
+* [ (EVREUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EVREUX/)
 </script>
+<script type="text/javascript">

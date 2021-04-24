@@ -8,10 +8,11 @@ permalink: /ITALYA/PIACENZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIACENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PIACENZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PIACENZA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PIACENZA';
+* [ (PIACENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PIACENZA/)
 </script>
+<script type="text/javascript">

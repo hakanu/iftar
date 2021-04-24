@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GRAVE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRAVE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GRAVE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GRAVE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GRAVE';
+* [ (GRAVE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GRAVE/)
 </script>
+<script type="text/javascript">

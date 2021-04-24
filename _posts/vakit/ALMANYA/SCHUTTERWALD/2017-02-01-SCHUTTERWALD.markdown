@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHUTTERWALD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHUTTERWALD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHUTTERWALD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHUTTERWALD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHUTTERWALD';
+* [ (SCHUTTERWALD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHUTTERWALD/)
 </script>
+<script type="text/javascript">

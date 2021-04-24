@@ -8,10 +8,11 @@ permalink: /ITALYA/ERBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERBA___________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ERBA___________________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ERBA                           ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ERBA                           ';
+* [ (ERBA___________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ERBA___________________________/)
 </script>
+<script type="text/javascript">

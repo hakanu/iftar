@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/ALTANBULAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALTANBULAG, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ALTANBULAG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'ALTANBULAG';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'ALTANBULAG';
+* [ (ALTANBULAG, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ALTANBULAG/)
 </script>
+<script type="text/javascript">

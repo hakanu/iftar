@@ -8,10 +8,11 @@ permalink: /BELCIKA/LANAKEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANAKEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LANAKEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LANAKEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LANAKEN';
+* [ (LANAKEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LANAKEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GANA/ACCRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ACCRA, GANA) için iftar ve namaz vakitleri](/GANA/ACCRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'ACCRA';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'ACCRA';
+* [ (ACCRA, GANA) için iftar ve namaz vakitleri](/GANA/ACCRA/)
 </script>
+<script type="text/javascript">

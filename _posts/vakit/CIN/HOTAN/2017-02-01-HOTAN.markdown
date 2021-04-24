@@ -8,10 +8,11 @@ permalink: /CIN/HOTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOTAN, CIN) için iftar ve namaz vakitleri](/CIN/HOTAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HOTAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HOTAN';
+* [ (HOTAN, CIN) için iftar ve namaz vakitleri](/CIN/HOTAN/)
 </script>
+<script type="text/javascript">

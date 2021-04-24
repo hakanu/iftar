@@ -8,10 +8,11 @@ permalink: /CIN/ZHENGZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHENGZHOU, CIN) için iftar ve namaz vakitleri](/CIN/ZHENGZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZHENGZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZHENGZHOU';
+* [ (ZHENGZHOU, CIN) için iftar ve namaz vakitleri](/CIN/ZHENGZHOU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/LA VERPILLIERE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_VERPILLIERE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LA_VERPILLIERE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LA VERPILLIERE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LA VERPILLIERE';
+* [ (LA_VERPILLIERE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LA_VERPILLIERE/)
 </script>
+<script type="text/javascript">

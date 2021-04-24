@@ -8,10 +8,11 @@ permalink: /NIJER/MARADI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARADI, NIJER) için iftar ve namaz vakitleri](/NIJER/MARADI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJER';
+
   var GLOBAL_CITY = 'MARADI';
+  var GLOBAL_COUNTRY = 'NIJER';
   var GLOBAL_STATE = 'MARADI';
+* [ (MARADI, NIJER) için iftar ve namaz vakitleri](/NIJER/MARADI/)
 </script>
+<script type="text/javascript">

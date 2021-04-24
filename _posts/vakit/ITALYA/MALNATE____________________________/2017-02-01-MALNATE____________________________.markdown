@@ -8,10 +8,11 @@ permalink: /ITALYA/MALNATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALNATE____________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MALNATE____________________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MALNATE                            ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MALNATE                            ';
+* [ (MALNATE____________________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MALNATE____________________________/)
 </script>
+<script type="text/javascript">

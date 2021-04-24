@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ARQALYK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARQALYK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ARQALYK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ARQALYK';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ARQALYK';
+* [ (ARQALYK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ARQALYK/)
 </script>
+<script type="text/javascript">

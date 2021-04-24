@@ -8,10 +8,11 @@ permalink: /INGILTERE/NAILSEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAILSEA, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NAILSEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'NAILSEA';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'NAILSEA';
+* [ (NAILSEA, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NAILSEA/)
 </script>
+<script type="text/javascript">

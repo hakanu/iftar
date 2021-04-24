@@ -8,10 +8,11 @@ permalink: /VIETNAM/NHA TRANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NHA_TRANG, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/NHA_TRANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'NHA TRANG';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'NHA TRANG';
+* [ (NHA_TRANG, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/NHA_TRANG/)
 </script>
+<script type="text/javascript">

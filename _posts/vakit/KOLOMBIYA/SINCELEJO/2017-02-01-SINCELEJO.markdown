@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/SINCELEJO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINCELEJO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SINCELEJO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'SINCELEJO';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'SINCELEJO';
+* [ (SINCELEJO, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SINCELEJO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/CINEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CINEY, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CINEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'CINEY';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'CINEY';
+* [ (CINEY, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CINEY/)
 </script>
+<script type="text/javascript">

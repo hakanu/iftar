@@ -8,10 +8,11 @@ permalink: /ALMANYA/IHRLESTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IHRLESTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IHRLESTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'IHRLESTEIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'IHRLESTEIN';
+* [ (IHRLESTEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/IHRLESTEIN/)
 </script>
+<script type="text/javascript">

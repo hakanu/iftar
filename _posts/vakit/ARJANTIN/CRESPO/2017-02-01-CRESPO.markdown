@@ -8,10 +8,11 @@ permalink: /ARJANTIN/CRESPO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CRESPO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CRESPO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'CRESPO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'CRESPO';
+* [ (CRESPO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CRESPO/)
 </script>
+<script type="text/javascript">

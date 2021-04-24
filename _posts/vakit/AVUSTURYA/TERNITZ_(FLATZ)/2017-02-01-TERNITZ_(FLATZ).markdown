@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/TERNITZ (FLATZ)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERNITZ_(FLATZ), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/TERNITZ_(FLATZ)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'TERNITZ (FLATZ)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'TERNITZ (FLATZ)';
+* [ (TERNITZ_(FLATZ), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/TERNITZ_(FLATZ)/)
 </script>
+<script type="text/javascript">

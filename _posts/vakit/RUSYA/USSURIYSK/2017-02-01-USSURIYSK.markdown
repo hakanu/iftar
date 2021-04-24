@@ -8,10 +8,11 @@ permalink: /RUSYA/USSURIYSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (USSURIYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/USSURIYSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'USSURIYSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'USSURIYSK';
+* [ (USSURIYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/USSURIYSK/)
 </script>
+<script type="text/javascript">

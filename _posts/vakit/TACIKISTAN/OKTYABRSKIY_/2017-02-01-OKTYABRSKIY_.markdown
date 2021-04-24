@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/OKTYABRSKIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OKTYABRSKIY_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/OKTYABRSKIY_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'OKTYABRSKIY ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'OKTYABRSKIY ';
+* [ (OKTYABRSKIY_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/OKTYABRSKIY_/)
 </script>
+<script type="text/javascript">

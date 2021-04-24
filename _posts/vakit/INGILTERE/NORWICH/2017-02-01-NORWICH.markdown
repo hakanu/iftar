@@ -8,10 +8,11 @@ permalink: /INGILTERE/NORWICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORWICH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NORWICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'NORWICH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'NORWICH';
+* [ (NORWICH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NORWICH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/WERL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WERL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WERL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WERL';
+* [ (WERL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERL/)
 </script>
+<script type="text/javascript">

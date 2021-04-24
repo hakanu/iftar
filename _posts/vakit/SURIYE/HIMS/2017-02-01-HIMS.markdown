@@ -8,10 +8,11 @@ permalink: /SURIYE/HIMS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIMS, SURIYE) için iftar ve namaz vakitleri](/SURIYE/HIMS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'HIMS';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'HIMS';
+* [ (HIMS, SURIYE) için iftar ve namaz vakitleri](/SURIYE/HIMS/)
 </script>
+<script type="text/javascript">

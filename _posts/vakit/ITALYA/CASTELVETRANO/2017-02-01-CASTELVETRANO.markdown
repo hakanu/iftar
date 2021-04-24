@@ -8,10 +8,11 @@ permalink: /ITALYA/CASTELVETRANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CASTELVETRANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CASTELVETRANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CASTELVETRANO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CASTELVETRANO';
+* [ (CASTELVETRANO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CASTELVETRANO/)
 </script>
+<script type="text/javascript">

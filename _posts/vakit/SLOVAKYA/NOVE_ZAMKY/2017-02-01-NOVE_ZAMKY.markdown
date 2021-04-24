@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/NOVE ZAMKY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVE_ZAMKY, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/NOVE_ZAMKY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'NOVE ZAMKY';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'NOVE ZAMKY';
+* [ (NOVE_ZAMKY, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/NOVE_ZAMKY/)
 </script>
+<script type="text/javascript">

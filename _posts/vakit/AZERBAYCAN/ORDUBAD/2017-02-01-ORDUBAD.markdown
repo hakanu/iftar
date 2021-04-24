@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/ORDUBAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORDUBAD, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/ORDUBAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'ORDUBAD';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'ORDUBAD';
+* [ (ORDUBAD, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/ORDUBAD/)
 </script>
+<script type="text/javascript">

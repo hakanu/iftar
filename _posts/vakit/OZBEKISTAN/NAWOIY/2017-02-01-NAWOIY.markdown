@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/NAWOIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAWOIY, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/NAWOIY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'NAWOIY';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'NAWOIY';
+* [ (NAWOIY, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/NAWOIY/)
 </script>
+<script type="text/javascript">

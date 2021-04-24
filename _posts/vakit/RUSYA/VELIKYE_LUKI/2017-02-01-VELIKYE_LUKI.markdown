@@ -8,10 +8,11 @@ permalink: /RUSYA/VELIKYE LUKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VELIKYE_LUKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VELIKYE_LUKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VELIKYE LUKI';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VELIKYE LUKI';
+* [ (VELIKYE_LUKI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VELIKYE_LUKI/)
 </script>
+<script type="text/javascript">

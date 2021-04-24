@@ -8,10 +8,11 @@ permalink: /UKRAYNA/BORISPOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORISPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BORISPOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'BORISPOL';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'BORISPOL';
+* [ (BORISPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BORISPOL/)
 </script>
+<script type="text/javascript">

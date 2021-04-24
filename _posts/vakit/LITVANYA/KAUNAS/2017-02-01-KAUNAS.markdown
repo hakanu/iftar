@@ -8,10 +8,11 @@ permalink: /LITVANYA/KAUNAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAUNAS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/KAUNAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'KAUNAS';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'KAUNAS';
+* [ (KAUNAS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/KAUNAS/)
 </script>
+<script type="text/javascript">

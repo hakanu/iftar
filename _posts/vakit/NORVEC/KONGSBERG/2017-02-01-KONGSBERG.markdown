@@ -8,10 +8,11 @@ permalink: /NORVEC/KONGSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONGSBERG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KONGSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'KONGSBERG';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'KONGSBERG';
+* [ (KONGSBERG, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KONGSBERG/)
 </script>
+<script type="text/javascript">

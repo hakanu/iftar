@@ -8,10 +8,11 @@ permalink: /MACARISTAN/SOPRON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOPRON, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SOPRON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'SOPRON';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'SOPRON';
+* [ (SOPRON, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SOPRON/)
 </script>
+<script type="text/javascript">

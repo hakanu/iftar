@@ -8,10 +8,11 @@ permalink: /SUDAN/HARTUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARTUM, SUDAN) için iftar ve namaz vakitleri](/SUDAN/HARTUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SUDAN';
+
   var GLOBAL_CITY = 'HARTUM';
+  var GLOBAL_COUNTRY = 'SUDAN';
   var GLOBAL_STATE = 'HARTUM';
+* [ (HARTUM, SUDAN) için iftar ve namaz vakitleri](/SUDAN/HARTUM/)
 </script>
+<script type="text/javascript">

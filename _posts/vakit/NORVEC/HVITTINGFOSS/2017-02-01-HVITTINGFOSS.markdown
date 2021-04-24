@@ -8,10 +8,11 @@ permalink: /NORVEC/HVITTINGFOSS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HVITTINGFOSS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HVITTINGFOSS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'HVITTINGFOSS';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'HVITTINGFOSS';
+* [ (HVITTINGFOSS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HVITTINGFOSS/)
 </script>
+<script type="text/javascript">

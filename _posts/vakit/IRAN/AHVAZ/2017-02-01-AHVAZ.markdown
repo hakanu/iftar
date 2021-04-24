@@ -8,10 +8,11 @@ permalink: /IRAN/AHVAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AHVAZ, IRAN) için iftar ve namaz vakitleri](/IRAN/AHVAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'AHVAZ';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'AHVAZ';
+* [ (AHVAZ, IRAN) için iftar ve namaz vakitleri](/IRAN/AHVAZ/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/CUESMES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUESMES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CUESMES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'CUESMES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'CUESMES';
+* [ (CUESMES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CUESMES/)
 </script>
+<script type="text/javascript">

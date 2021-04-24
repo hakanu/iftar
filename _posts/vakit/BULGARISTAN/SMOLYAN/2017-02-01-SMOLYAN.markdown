@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/SMOLYAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SMOLYAN, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SMOLYAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'SMOLYAN';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'SMOLYAN';
+* [ (SMOLYAN, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/SMOLYAN/)
 </script>
+<script type="text/javascript">

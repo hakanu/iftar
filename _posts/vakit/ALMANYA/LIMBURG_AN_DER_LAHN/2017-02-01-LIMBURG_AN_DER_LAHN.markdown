@@ -8,10 +8,11 @@ permalink: /ALMANYA/LIMBURG AN DER LAHN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIMBURG_AN_DER_LAHN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIMBURG_AN_DER_LAHN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LIMBURG AN DER LAHN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LIMBURG AN DER LAHN';
+* [ (LIMBURG_AN_DER_LAHN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIMBURG_AN_DER_LAHN/)
 </script>
+<script type="text/javascript">

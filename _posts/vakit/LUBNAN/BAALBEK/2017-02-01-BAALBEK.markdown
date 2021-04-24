@@ -8,10 +8,11 @@ permalink: /LUBNAN/BAALBEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAALBEK, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/BAALBEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUBNAN';
+
   var GLOBAL_CITY = 'BAALBEK';
+  var GLOBAL_COUNTRY = 'LUBNAN';
   var GLOBAL_STATE = 'BAALBEK';
+* [ (BAALBEK, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/BAALBEK/)
 </script>
+<script type="text/javascript">

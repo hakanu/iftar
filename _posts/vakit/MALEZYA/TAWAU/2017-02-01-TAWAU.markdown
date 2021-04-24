@@ -8,10 +8,11 @@ permalink: /MALEZYA/TAWAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAWAU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/TAWAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'TAWAU';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'TAWAU';
+* [ (TAWAU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/TAWAU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SURIYE/DAYR AZ ZAWR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAYR_AZ_ZAWR, SURIYE) için iftar ve namaz vakitleri](/SURIYE/DAYR_AZ_ZAWR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'DAYR AZ ZAWR';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'DAYR AZ ZAWR';
+* [ (DAYR_AZ_ZAWR, SURIYE) için iftar ve namaz vakitleri](/SURIYE/DAYR_AZ_ZAWR/)
 </script>
+<script type="text/javascript">

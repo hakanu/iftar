@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/DARUVAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DARUVAR, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/DARUVAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'DARUVAR';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'DARUVAR';
+* [ (DARUVAR, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/DARUVAR/)
 </script>
+<script type="text/javascript">

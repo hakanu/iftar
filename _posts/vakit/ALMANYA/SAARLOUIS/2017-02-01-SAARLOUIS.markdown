@@ -8,10 +8,11 @@ permalink: /ALMANYA/SAARLOUIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAARLOUIS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SAARLOUIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SAARLOUIS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SAARLOUIS';
+* [ (SAARLOUIS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SAARLOUIS/)
 </script>
+<script type="text/javascript">

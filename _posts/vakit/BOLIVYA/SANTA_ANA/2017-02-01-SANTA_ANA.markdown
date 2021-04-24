@@ -8,10 +8,11 @@ permalink: /BOLIVYA/SANTA ANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_ANA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SANTA_ANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'SANTA ANA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'SANTA ANA';
+* [ (SANTA_ANA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SANTA_ANA/)
 </script>
+<script type="text/javascript">

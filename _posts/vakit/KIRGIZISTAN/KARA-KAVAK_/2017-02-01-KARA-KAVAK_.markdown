@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/KARA-KAVAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARA-KAVAK_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KARA-KAVAK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'KARA-KAVAK ';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'KARA-KAVAK ';
+* [ (KARA-KAVAK_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KARA-KAVAK_/)
 </script>
+<script type="text/javascript">

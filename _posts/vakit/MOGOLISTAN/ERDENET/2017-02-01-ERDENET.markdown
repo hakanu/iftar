@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/ERDENET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERDENET, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ERDENET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'ERDENET';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'ERDENET';
+* [ (ERDENET, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/ERDENET/)
 </script>
+<script type="text/javascript">

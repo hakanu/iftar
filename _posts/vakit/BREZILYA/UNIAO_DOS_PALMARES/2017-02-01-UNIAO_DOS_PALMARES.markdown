@@ -8,10 +8,11 @@ permalink: /BREZILYA/UNIAO DOS PALMARES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UNIAO_DOS_PALMARES, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/UNIAO_DOS_PALMARES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'UNIAO DOS PALMARES';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'UNIAO DOS PALMARES';
+* [ (UNIAO_DOS_PALMARES, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/UNIAO_DOS_PALMARES/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WINTERSWIJK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WINTERSWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WINTERSWIJK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WINTERSWIJK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WINTERSWIJK';
+* [ (WINTERSWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WINTERSWIJK/)
 </script>
+<script type="text/javascript">

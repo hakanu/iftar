@@ -8,10 +8,11 @@ permalink: /FRANSA/RICHEMONT (M)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RICHEMONT_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/RICHEMONT_(M)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RICHEMONT (M)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RICHEMONT (M)';
+* [ (RICHEMONT_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/RICHEMONT_(M)/)
 </script>
+<script type="text/javascript">

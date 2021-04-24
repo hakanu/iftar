@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/BABADURMAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BABADURMAZ_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BABADURMAZ_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'BABADURMAZ ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'BABADURMAZ ';
+* [ (BABADURMAZ_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BABADURMAZ_/)
 </script>
+<script type="text/javascript">

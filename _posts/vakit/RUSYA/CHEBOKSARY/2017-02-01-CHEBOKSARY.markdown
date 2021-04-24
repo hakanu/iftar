@@ -8,10 +8,11 @@ permalink: /RUSYA/CHEBOKSARY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHEBOKSARY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHEBOKSARY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'CHEBOKSARY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'CHEBOKSARY';
+* [ (CHEBOKSARY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHEBOKSARY/)
 </script>
+<script type="text/javascript">

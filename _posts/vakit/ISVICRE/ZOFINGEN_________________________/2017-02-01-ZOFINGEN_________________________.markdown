@@ -8,10 +8,11 @@ permalink: /ISVICRE/ZOFINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZOFINGEN_________________________, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ZOFINGEN_________________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ZOFINGEN                         ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ZOFINGEN                         ';
+* [ (ZOFINGEN_________________________, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ZOFINGEN_________________________/)
 </script>
+<script type="text/javascript">

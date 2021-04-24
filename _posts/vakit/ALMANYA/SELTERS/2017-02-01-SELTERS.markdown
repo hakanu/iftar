@@ -8,10 +8,11 @@ permalink: /ALMANYA/SELTERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SELTERS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SELTERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SELTERS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SELTERS';
+* [ (SELTERS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SELTERS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BURUNDI/RUYIGI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUYIGI, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUYIGI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURUNDI';
+
   var GLOBAL_CITY = 'RUYIGI';
+  var GLOBAL_COUNTRY = 'BURUNDI';
   var GLOBAL_STATE = 'RUYIGI';
+* [ (RUYIGI, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/RUYIGI/)
 </script>
+<script type="text/javascript">

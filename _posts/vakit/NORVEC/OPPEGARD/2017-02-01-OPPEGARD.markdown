@@ -8,10 +8,11 @@ permalink: /NORVEC/OPPEGARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OPPEGARD, NORVEC) için iftar ve namaz vakitleri](/NORVEC/OPPEGARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'OPPEGARD';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'OPPEGARD';
+* [ (OPPEGARD, NORVEC) için iftar ve namaz vakitleri](/NORVEC/OPPEGARD/)
 </script>
+<script type="text/javascript">

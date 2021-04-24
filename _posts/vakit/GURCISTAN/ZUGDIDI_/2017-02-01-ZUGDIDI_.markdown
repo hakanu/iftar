@@ -8,10 +8,11 @@ permalink: /GURCISTAN/ZUGDIDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZUGDIDI_, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/ZUGDIDI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'ZUGDIDI ';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'ZUGDIDI ';
+* [ (ZUGDIDI_, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/ZUGDIDI_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/STEDERDORF (PEINE)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEDERDORF_(PEINE), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEDERDORF_(PEINE)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STEDERDORF (PEINE)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STEDERDORF (PEINE)';
+* [ (STEDERDORF_(PEINE), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEDERDORF_(PEINE)/)
 </script>
+<script type="text/javascript">

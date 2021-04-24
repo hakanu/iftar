@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/ASTARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASTARA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/ASTARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'ASTARA';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'ASTARA';
+* [ (ASTARA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/ASTARA/)
 </script>
+<script type="text/javascript">

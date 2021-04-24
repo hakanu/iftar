@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HOLLABRUNN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLLABRUNN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HOLLABRUNN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HOLLABRUNN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HOLLABRUNN';
+* [ (HOLLABRUNN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HOLLABRUNN/)
 </script>
+<script type="text/javascript">

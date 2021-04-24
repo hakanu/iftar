@@ -8,10 +8,11 @@ permalink: /BREZILYA/PALMEIRA DOS INDIOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PALMEIRA_DOS_INDIOS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PALMEIRA_DOS_INDIOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PALMEIRA DOS INDIOS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PALMEIRA DOS INDIOS';
+* [ (PALMEIRA_DOS_INDIOS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PALMEIRA_DOS_INDIOS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MONA VALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONA_VALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MONA_VALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MONA VALE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MONA VALE';
+* [ (MONA_VALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MONA_VALE/)
 </script>
+<script type="text/javascript">

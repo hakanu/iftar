@@ -8,10 +8,11 @@ permalink: /BREZILYA/CRICIUMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CRICIUMA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CRICIUMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CRICIUMA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CRICIUMA';
+* [ (CRICIUMA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CRICIUMA/)
 </script>
+<script type="text/javascript">

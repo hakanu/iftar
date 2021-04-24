@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/KURRI KURRI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURRI_KURRI, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KURRI_KURRI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'KURRI KURRI';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'KURRI KURRI';
+* [ (KURRI_KURRI, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KURRI_KURRI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/ANSHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANSHAN, CIN) için iftar ve namaz vakitleri](/CIN/ANSHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ANSHAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ANSHAN';
+* [ (ANSHAN, CIN) için iftar ve namaz vakitleri](/CIN/ANSHAN/)
 </script>
+<script type="text/javascript">

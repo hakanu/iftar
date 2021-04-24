@@ -8,10 +8,11 @@ permalink: /LITVANYA/UTENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UTENA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/UTENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'UTENA';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'UTENA';
+* [ (UTENA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/UTENA/)
 </script>
+<script type="text/javascript">

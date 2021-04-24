@@ -8,10 +8,11 @@ permalink: /RUSYA/RYBINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RYBINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RYBINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'RYBINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'RYBINSK';
+* [ (RYBINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/RYBINSK/)
 </script>
+<script type="text/javascript">

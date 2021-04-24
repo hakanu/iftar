@@ -8,10 +8,11 @@ permalink: /ALMANYA/ULMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ULMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ULMEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ULMEN';
+* [ (ULMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ULMEN/)
 </script>
+<script type="text/javascript">

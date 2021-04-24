@@ -8,10 +8,11 @@ permalink: /JAPONYA/AIZUWAKAMATSU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AIZUWAKAMATSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AIZUWAKAMATSU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'AIZUWAKAMATSU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'AIZUWAKAMATSU';
+* [ (AIZUWAKAMATSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/AIZUWAKAMATSU/)
 </script>
+<script type="text/javascript">

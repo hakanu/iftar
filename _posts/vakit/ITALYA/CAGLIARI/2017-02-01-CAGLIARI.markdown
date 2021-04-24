@@ -8,10 +8,11 @@ permalink: /ITALYA/CAGLIARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAGLIARI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CAGLIARI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CAGLIARI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CAGLIARI';
+* [ (CAGLIARI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CAGLIARI/)
 </script>
+<script type="text/javascript">

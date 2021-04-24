@@ -8,10 +8,11 @@ permalink: /CIN/DAQING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAQING, CIN) için iftar ve namaz vakitleri](/CIN/DAQING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DAQING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DAQING';
+* [ (DAQING, CIN) için iftar ve namaz vakitleri](/CIN/DAQING/)
 </script>
+<script type="text/javascript">

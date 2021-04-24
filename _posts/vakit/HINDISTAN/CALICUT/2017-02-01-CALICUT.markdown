@@ -8,10 +8,11 @@ permalink: /HINDISTAN/CALICUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALICUT, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CALICUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'CALICUT';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'CALICUT';
+* [ (CALICUT, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/CALICUT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/ANYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANYANG, CIN) için iftar ve namaz vakitleri](/CIN/ANYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ANYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ANYANG';
+* [ (ANYANG, CIN) için iftar ve namaz vakitleri](/CIN/ANYANG/)
 </script>
+<script type="text/javascript">

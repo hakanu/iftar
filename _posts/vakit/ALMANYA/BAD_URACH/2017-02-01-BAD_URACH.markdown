@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD URACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_URACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_URACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD URACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD URACH';
+* [ (BAD_URACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_URACH/)
 </script>
+<script type="text/javascript">

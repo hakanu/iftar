@@ -8,10 +8,11 @@ permalink: /HOLLANDA/MAASSLUIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAASSLUIS, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MAASSLUIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'MAASSLUIS';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'MAASSLUIS';
+* [ (MAASSLUIS, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MAASSLUIS/)
 </script>
+<script type="text/javascript">

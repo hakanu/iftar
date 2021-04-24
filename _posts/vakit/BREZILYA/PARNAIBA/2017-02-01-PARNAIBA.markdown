@@ -8,10 +8,11 @@ permalink: /BREZILYA/PARNAIBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARNAIBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PARNAIBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PARNAIBA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PARNAIBA';
+* [ (PARNAIBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PARNAIBA/)
 </script>
+<script type="text/javascript">

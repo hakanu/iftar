@@ -8,10 +8,11 @@ permalink: /ALMANYA/OLCHING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLCHING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLCHING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OLCHING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OLCHING';
+* [ (OLCHING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLCHING/)
 </script>
+<script type="text/javascript">

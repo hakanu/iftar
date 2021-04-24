@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/RRESHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RRESHEN, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/RRESHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'RRESHEN';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'RRESHEN';
+* [ (RRESHEN, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/RRESHEN/)
 </script>
+<script type="text/javascript">

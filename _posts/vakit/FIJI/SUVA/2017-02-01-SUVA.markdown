@@ -8,10 +8,11 @@ permalink: /FIJI/SUVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUVA, FIJI) için iftar ve namaz vakitleri](/FIJI/SUVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FIJI';
+
   var GLOBAL_CITY = 'SUVA';
+  var GLOBAL_COUNTRY = 'FIJI';
   var GLOBAL_STATE = 'SUVA';
+* [ (SUVA, FIJI) için iftar ve namaz vakitleri](/FIJI/SUVA/)
 </script>
+<script type="text/javascript">

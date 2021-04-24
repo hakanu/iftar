@@ -8,10 +8,11 @@ permalink: /JAPONYA/NAGASAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGASAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGASAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NAGASAKI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NAGASAKI';
+* [ (NAGASAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGASAKI/)
 </script>
+<script type="text/javascript">

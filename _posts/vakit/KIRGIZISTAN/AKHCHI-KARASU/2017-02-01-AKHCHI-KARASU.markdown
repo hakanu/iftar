@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/AKHCHI-KARASU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKHCHI-KARASU, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AKHCHI-KARASU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'AKHCHI-KARASU';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'AKHCHI-KARASU';
+* [ (AKHCHI-KARASU, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AKHCHI-KARASU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/PINGXIANG ( JIANGXI )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINGXIANG_(_JIANGXI_), CIN) için iftar ve namaz vakitleri](/CIN/PINGXIANG_(_JIANGXI_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'PINGXIANG ( JIANGXI )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'PINGXIANG ( JIANGXI )';
+* [ (PINGXIANG_(_JIANGXI_), CIN) için iftar ve namaz vakitleri](/CIN/PINGXIANG_(_JIANGXI_)/)
 </script>
+<script type="text/javascript">

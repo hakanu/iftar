@@ -8,10 +8,11 @@ permalink: /ITALYA/PADOVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PADOVA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PADOVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PADOVA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PADOVA';
+* [ (PADOVA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PADOVA/)
 </script>
+<script type="text/javascript">

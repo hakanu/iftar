@@ -8,10 +8,11 @@ permalink: /RUSYA/KEMEROVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KEMEROVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KEMEROVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KEMEROVO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KEMEROVO';
+* [ (KEMEROVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KEMEROVO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/KOHNE URGENC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOHNE_URGENC, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KOHNE_URGENC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'KOHNE URGENC';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'KOHNE URGENC';
+* [ (KOHNE_URGENC, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KOHNE_URGENC/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/MACON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MACON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MACON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MACON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MACON';
+* [ (MACON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MACON/)
 </script>
+<script type="text/javascript">

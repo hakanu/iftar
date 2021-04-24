@@ -8,10 +8,11 @@ permalink: /LUBNAN/ZAHLAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAHLAH, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/ZAHLAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUBNAN';
+
   var GLOBAL_CITY = 'ZAHLAH';
+  var GLOBAL_COUNTRY = 'LUBNAN';
   var GLOBAL_STATE = 'ZAHLAH';
+* [ (ZAHLAH, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/ZAHLAH/)
 </script>
+<script type="text/javascript">

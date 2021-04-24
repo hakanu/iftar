@@ -8,10 +8,11 @@ permalink: /ITALYA/CUNEO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUNEO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CUNEO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CUNEO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CUNEO';
+* [ (CUNEO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CUNEO/)
 </script>
+<script type="text/javascript">

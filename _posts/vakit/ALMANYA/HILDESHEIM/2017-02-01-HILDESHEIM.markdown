@@ -8,10 +8,11 @@ permalink: /ALMANYA/HILDESHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HILDESHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HILDESHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HILDESHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HILDESHEIM';
+* [ (HILDESHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HILDESHEIM/)
 </script>
+<script type="text/javascript">

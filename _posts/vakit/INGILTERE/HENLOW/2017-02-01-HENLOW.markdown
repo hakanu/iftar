@@ -8,10 +8,11 @@ permalink: /INGILTERE/HENLOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HENLOW, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HENLOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'HENLOW';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'HENLOW';
+* [ (HENLOW, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HENLOW/)
 </script>
+<script type="text/javascript">

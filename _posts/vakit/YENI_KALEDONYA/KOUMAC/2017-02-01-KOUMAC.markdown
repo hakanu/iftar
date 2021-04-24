@@ -8,10 +8,11 @@ permalink: /YENI KALEDONYA/KOUMAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOUMAC, YENI_KALEDONYA) için iftar ve namaz vakitleri](/YENI_KALEDONYA/KOUMAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI KALEDONYA';
+
   var GLOBAL_CITY = 'KOUMAC';
+  var GLOBAL_COUNTRY = 'YENI KALEDONYA';
   var GLOBAL_STATE = 'KOUMAC';
+* [ (KOUMAC, YENI_KALEDONYA) için iftar ve namaz vakitleri](/YENI_KALEDONYA/KOUMAC/)
 </script>
+<script type="text/javascript">

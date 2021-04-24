@@ -8,10 +8,11 @@ permalink: /HOLLANDA/EURSINGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EURSINGE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EURSINGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'EURSINGE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'EURSINGE';
+* [ (EURSINGE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EURSINGE/)
 </script>
+<script type="text/javascript">

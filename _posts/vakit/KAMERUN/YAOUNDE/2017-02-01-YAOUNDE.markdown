@@ -8,10 +8,11 @@ permalink: /KAMERUN/YAOUNDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAOUNDE, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/YAOUNDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMERUN';
+
   var GLOBAL_CITY = 'YAOUNDE';
+  var GLOBAL_COUNTRY = 'KAMERUN';
   var GLOBAL_STATE = 'YAOUNDE';
+* [ (YAOUNDE, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/YAOUNDE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/BALM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALM, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BALM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BALM';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BALM';
+* [ (BALM, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BALM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NORVEC/AKREHAMN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKREHAMN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/AKREHAMN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'AKREHAMN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'AKREHAMN';
+* [ (AKREHAMN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/AKREHAMN/)
 </script>
+<script type="text/javascript">

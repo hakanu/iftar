@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOTTROP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOTTROP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOTTROP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOTTROP';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOTTROP';
+* [ (BOTTROP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOTTROP/)
 </script>
+<script type="text/javascript">

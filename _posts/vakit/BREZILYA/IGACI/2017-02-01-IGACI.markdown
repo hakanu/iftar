@@ -8,10 +8,11 @@ permalink: /BREZILYA/IGACI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IGACI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/IGACI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'IGACI';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'IGACI';
+* [ (IGACI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/IGACI/)
 </script>
+<script type="text/javascript">

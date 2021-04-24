@@ -8,10 +8,11 @@ permalink: /BREZILYA/PETROPOLIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETROPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PETROPOLIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PETROPOLIS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PETROPOLIS';
+* [ (PETROPOLIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PETROPOLIS/)
 </script>
+<script type="text/javascript">

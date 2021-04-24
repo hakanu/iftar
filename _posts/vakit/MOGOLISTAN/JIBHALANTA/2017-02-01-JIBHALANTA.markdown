@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/JIBHALANTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JIBHALANTA, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/JIBHALANTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'JIBHALANTA';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'JIBHALANTA';
+* [ (JIBHALANTA, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/JIBHALANTA/)
 </script>
+<script type="text/javascript">

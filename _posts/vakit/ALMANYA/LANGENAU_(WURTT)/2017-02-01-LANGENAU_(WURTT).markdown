@@ -8,10 +8,11 @@ permalink: /ALMANYA/LANGENAU (WURTT)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANGENAU_(WURTT), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANGENAU_(WURTT)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LANGENAU (WURTT)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LANGENAU (WURTT)';
+* [ (LANGENAU_(WURTT), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANGENAU_(WURTT)/)
 </script>
+<script type="text/javascript">

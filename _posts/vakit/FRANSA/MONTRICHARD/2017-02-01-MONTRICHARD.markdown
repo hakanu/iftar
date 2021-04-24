@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTRICHARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTRICHARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTRICHARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTRICHARD';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTRICHARD';
+* [ (MONTRICHARD, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTRICHARD/)
 </script>
+<script type="text/javascript">

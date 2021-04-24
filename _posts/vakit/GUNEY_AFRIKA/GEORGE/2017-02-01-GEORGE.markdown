@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/GEORGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEORGE, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/GEORGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'GEORGE';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'GEORGE';
+* [ (GEORGE, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/GEORGE/)
 </script>
+<script type="text/javascript">

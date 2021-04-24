@@ -8,10 +8,11 @@ permalink: /ALMANYA/BISMARCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BISMARCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BISMARCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BISMARCK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BISMARCK';
+* [ (BISMARCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BISMARCK/)
 </script>
+<script type="text/javascript">

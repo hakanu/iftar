@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/LUSHNJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUSHNJE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/LUSHNJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'LUSHNJE';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'LUSHNJE';
+* [ (LUSHNJE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/LUSHNJE/)
 </script>
+<script type="text/javascript">

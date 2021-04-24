@@ -8,10 +8,11 @@ permalink: /GURCISTAN/T'ELAVI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (T'ELAVI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/T'ELAVI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'T'ELAVI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'T'ELAVI';
+* [ (T'ELAVI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/T'ELAVI/)
 </script>
+<script type="text/javascript">

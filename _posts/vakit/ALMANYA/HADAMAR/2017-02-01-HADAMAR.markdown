@@ -8,10 +8,11 @@ permalink: /ALMANYA/HADAMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HADAMAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HADAMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HADAMAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HADAMAR';
+* [ (HADAMAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HADAMAR/)
 </script>
+<script type="text/javascript">

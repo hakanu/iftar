@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/SINGLETON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINGLETON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SINGLETON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'SINGLETON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'SINGLETON';
+* [ (SINGLETON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SINGLETON/)
 </script>
+<script type="text/javascript">

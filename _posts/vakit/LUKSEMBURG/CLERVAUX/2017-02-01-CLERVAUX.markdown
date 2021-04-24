@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/CLERVAUX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CLERVAUX, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/CLERVAUX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'CLERVAUX';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'CLERVAUX';
+* [ (CLERVAUX, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/CLERVAUX/)
 </script>
+<script type="text/javascript">

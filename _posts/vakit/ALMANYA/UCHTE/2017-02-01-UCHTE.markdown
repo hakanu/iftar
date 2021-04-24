@@ -8,10 +8,11 @@ permalink: /ALMANYA/UCHTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UCHTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UCHTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UCHTE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UCHTE';
+* [ (UCHTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UCHTE/)
 </script>
+<script type="text/javascript">

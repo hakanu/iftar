@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/TOKTOGUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOKTOGUL, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/TOKTOGUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'TOKTOGUL';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'TOKTOGUL';
+* [ (TOKTOGUL, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/TOKTOGUL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/MINDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MINDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MINDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MINDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MINDEN';
+* [ (MINDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MINDEN/)
 </script>
+<script type="text/javascript">

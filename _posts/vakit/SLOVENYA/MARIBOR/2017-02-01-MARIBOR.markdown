@@ -8,10 +8,11 @@ permalink: /SLOVENYA/MARIBOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARIBOR, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/MARIBOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'MARIBOR';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'MARIBOR';
+* [ (MARIBOR, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/MARIBOR/)
 </script>
+<script type="text/javascript">

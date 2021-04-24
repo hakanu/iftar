@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOHR -GRENZHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOHR_-GRENZHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHR_-GRENZHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOHR -GRENZHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOHR -GRENZHAUSEN';
+* [ (HOHR_-GRENZHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOHR_-GRENZHAUSEN/)
 </script>
+<script type="text/javascript">

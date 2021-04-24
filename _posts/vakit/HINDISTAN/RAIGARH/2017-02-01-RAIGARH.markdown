@@ -8,10 +8,11 @@ permalink: /HINDISTAN/RAIGARH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAIGARH, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAIGARH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'RAIGARH';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'RAIGARH';
+* [ (RAIGARH, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAIGARH/)
 </script>
+<script type="text/javascript">

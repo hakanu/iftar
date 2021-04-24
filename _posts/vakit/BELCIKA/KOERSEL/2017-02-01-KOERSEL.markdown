@@ -8,10 +8,11 @@ permalink: /BELCIKA/KOERSEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOERSEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/KOERSEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'KOERSEL';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'KOERSEL';
+* [ (KOERSEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/KOERSEL/)
 </script>
+<script type="text/javascript">

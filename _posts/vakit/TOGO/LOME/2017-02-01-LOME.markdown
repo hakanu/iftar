@@ -8,10 +8,11 @@ permalink: /TOGO/LOME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOME, TOGO) için iftar ve namaz vakitleri](/TOGO/LOME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TOGO';
+
   var GLOBAL_CITY = 'LOME';
+  var GLOBAL_COUNTRY = 'TOGO';
   var GLOBAL_STATE = 'LOME';
+* [ (LOME, TOGO) için iftar ve namaz vakitleri](/TOGO/LOME/)
 </script>
+<script type="text/javascript">

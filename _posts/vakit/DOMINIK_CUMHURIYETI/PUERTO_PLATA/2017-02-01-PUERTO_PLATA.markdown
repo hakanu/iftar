@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/PUERTO PLATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_PLATA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/PUERTO_PLATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'PUERTO PLATA';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'PUERTO PLATA';
+* [ (PUERTO_PLATA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/PUERTO_PLATA/)
 </script>
+<script type="text/javascript">

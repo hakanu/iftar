@@ -8,10 +8,11 @@ permalink: /ALMANYA/RADOLFZELL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RADOLFZELL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RADOLFZELL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RADOLFZELL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RADOLFZELL';
+* [ (RADOLFZELL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RADOLFZELL/)
 </script>
+<script type="text/javascript">

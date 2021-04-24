@@ -8,10 +8,11 @@ permalink: /ALMANYA/NAILA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAILA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NAILA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NAILA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NAILA';
+* [ (NAILA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NAILA/)
 </script>
+<script type="text/javascript">

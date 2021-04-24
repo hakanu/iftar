@@ -8,10 +8,11 @@ permalink: /CEZAYIR/CONSTANTINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONSTANTINE, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/CONSTANTINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'CONSTANTINE';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'CONSTANTINE';
+* [ (CONSTANTINE, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/CONSTANTINE/)
 </script>
+<script type="text/javascript">

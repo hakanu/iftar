@@ -8,10 +8,11 @@ permalink: /ALMANYA/PUTTLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUTTLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PUTTLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PUTTLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PUTTLINGEN';
+* [ (PUTTLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PUTTLINGEN/)
 </script>
+<script type="text/javascript">

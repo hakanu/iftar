@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BODEGRAVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BODEGRAVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BODEGRAVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BODEGRAVEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BODEGRAVEN';
+* [ (BODEGRAVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BODEGRAVEN/)
 </script>
+<script type="text/javascript">

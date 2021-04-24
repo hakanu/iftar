@@ -8,10 +8,11 @@ permalink: /RUSYA/KIRZHACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRZHACH, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KIRZHACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KIRZHACH';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KIRZHACH';
+* [ (KIRZHACH, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KIRZHACH/)
 </script>
+<script type="text/javascript">

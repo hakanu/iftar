@@ -8,10 +8,11 @@ permalink: /MACARISTAN/ALBERTIRSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALBERTIRSA, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ALBERTIRSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'ALBERTIRSA';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'ALBERTIRSA';
+* [ (ALBERTIRSA, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/ALBERTIRSA/)
 </script>
+<script type="text/javascript">

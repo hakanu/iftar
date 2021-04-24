@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/LAHTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAHTI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LAHTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'LAHTI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'LAHTI';
+* [ (LAHTI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LAHTI/)
 </script>
+<script type="text/javascript">

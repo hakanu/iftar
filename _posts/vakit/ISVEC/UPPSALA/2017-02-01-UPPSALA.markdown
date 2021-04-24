@@ -8,10 +8,11 @@ permalink: /ISVEC/UPPSALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UPPSALA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/UPPSALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'UPPSALA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'UPPSALA';
+* [ (UPPSALA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/UPPSALA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/MALOLOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALOLOS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/MALOLOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'MALOLOS';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'MALOLOS';
+* [ (MALOLOS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/MALOLOS/)
 </script>
+<script type="text/javascript">

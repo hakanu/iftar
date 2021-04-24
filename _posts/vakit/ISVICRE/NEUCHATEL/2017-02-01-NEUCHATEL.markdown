@@ -8,10 +8,11 @@ permalink: /ISVICRE/NEUCHATEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUCHATEL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/NEUCHATEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'NEUCHATEL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'NEUCHATEL';
+* [ (NEUCHATEL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/NEUCHATEL/)
 </script>
+<script type="text/javascript">

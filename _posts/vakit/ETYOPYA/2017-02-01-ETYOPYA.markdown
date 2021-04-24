@@ -8,11 +8,12 @@ permalink: /ETYOPYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [ADIS_ABABA (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/ADIS_ABABA)
-* [DIRE_DAWA (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/DIRE_DAWA)
-* [HARER (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/HARER)
-* [MEKELE (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/MEKELE)
 * [BAHIR_DAR (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/BAHIR_DAR)
 * [DESE (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/DESE)
+* [DIRE_DAWA (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/DIRE_DAWA)
 * [GONDER (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/GONDER)
+* [HARER (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/HARER)
 * [JIMA (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/JIMA)
+* [MEKELE (ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/MEKELE)

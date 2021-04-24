@@ -8,10 +8,11 @@ permalink: /FRANSA/GARGES LES GONESSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GARGES_LES_GONESSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GARGES_LES_GONESSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GARGES LES GONESSE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GARGES LES GONESSE';
+* [ (GARGES_LES_GONESSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GARGES_LES_GONESSE/)
 </script>
+<script type="text/javascript">

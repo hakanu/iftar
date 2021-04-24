@@ -8,10 +8,11 @@ permalink: /JAPONYA/NERIMA-KU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NERIMA-KU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NERIMA-KU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NERIMA-KU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NERIMA-KU';
+* [ (NERIMA-KU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NERIMA-KU/)
 </script>
+<script type="text/javascript">

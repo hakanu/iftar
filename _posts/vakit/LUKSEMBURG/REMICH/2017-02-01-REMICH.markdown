@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/REMICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REMICH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/REMICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'REMICH';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'REMICH';
+* [ (REMICH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/REMICH/)
 </script>
+<script type="text/javascript">

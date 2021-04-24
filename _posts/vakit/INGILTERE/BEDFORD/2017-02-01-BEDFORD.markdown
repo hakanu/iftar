@@ -8,10 +8,11 @@ permalink: /INGILTERE/BEDFORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEDFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BEDFORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'BEDFORD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'BEDFORD';
+* [ (BEDFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/BEDFORD/)
 </script>
+<script type="text/javascript">

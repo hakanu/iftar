@@ -8,10 +8,11 @@ permalink: /ALMANYA/GEESTHACHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEESTHACHT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEESTHACHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GEESTHACHT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GEESTHACHT';
+* [ (GEESTHACHT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GEESTHACHT/)
 </script>
+<script type="text/javascript">

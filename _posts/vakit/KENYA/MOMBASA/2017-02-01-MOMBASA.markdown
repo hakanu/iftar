@@ -8,10 +8,11 @@ permalink: /KENYA/MOMBASA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOMBASA, KENYA) için iftar ve namaz vakitleri](/KENYA/MOMBASA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KENYA';
+
   var GLOBAL_CITY = 'MOMBASA';
+  var GLOBAL_COUNTRY = 'KENYA';
   var GLOBAL_STATE = 'MOMBASA';
+* [ (MOMBASA, KENYA) için iftar ve namaz vakitleri](/KENYA/MOMBASA/)
 </script>
+<script type="text/javascript">

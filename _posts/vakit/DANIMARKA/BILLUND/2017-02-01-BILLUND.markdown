@@ -8,10 +8,11 @@ permalink: /DANIMARKA/BILLUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BILLUND, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/BILLUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'BILLUND';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'BILLUND';
+* [ (BILLUND, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/BILLUND/)
 </script>
+<script type="text/javascript">

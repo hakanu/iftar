@@ -8,10 +8,11 @@ permalink: /ALMANYA/MERZIG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MERZIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MERZIG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MERZIG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MERZIG';
+* [ (MERZIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MERZIG/)
 </script>
+<script type="text/javascript">

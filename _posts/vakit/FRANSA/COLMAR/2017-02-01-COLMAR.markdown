@@ -8,10 +8,11 @@ permalink: /FRANSA/COLMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COLMAR, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COLMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'COLMAR';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'COLMAR';
+* [ (COLMAR, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COLMAR/)
 </script>
+<script type="text/javascript">

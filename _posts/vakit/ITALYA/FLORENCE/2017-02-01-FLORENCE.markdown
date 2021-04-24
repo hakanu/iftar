@@ -8,10 +8,11 @@ permalink: /ITALYA/FLORENCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORENCE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FLORENCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FLORENCE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FLORENCE';
+* [ (FLORENCE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FLORENCE/)
 </script>
+<script type="text/javascript">

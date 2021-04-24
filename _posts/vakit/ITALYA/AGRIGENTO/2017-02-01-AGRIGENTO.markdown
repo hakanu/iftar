@@ -8,10 +8,11 @@ permalink: /ITALYA/AGRIGENTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGRIGENTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AGRIGENTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'AGRIGENTO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'AGRIGENTO';
+* [ (AGRIGENTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AGRIGENTO/)
 </script>
+<script type="text/javascript">

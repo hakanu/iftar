@@ -8,10 +8,11 @@ permalink: /ALMANYA/HELMSTEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HELMSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HELMSTEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HELMSTEDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HELMSTEDT';
+* [ (HELMSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HELMSTEDT/)
 </script>
+<script type="text/javascript">

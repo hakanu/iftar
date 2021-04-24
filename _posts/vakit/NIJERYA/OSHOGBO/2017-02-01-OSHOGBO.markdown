@@ -8,10 +8,11 @@ permalink: /NIJERYA/OSHOGBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSHOGBO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/OSHOGBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'OSHOGBO';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'OSHOGBO';
+* [ (OSHOGBO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/OSHOGBO/)
 </script>
+<script type="text/javascript">

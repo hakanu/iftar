@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/STRUGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRUGA, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/STRUGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'STRUGA';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'STRUGA';
+* [ (STRUGA, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/STRUGA/)
 </script>
+<script type="text/javascript">

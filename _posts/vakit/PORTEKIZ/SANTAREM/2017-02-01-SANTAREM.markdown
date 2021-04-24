@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/SANTAREM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTAREM, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/SANTAREM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'SANTAREM';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'SANTAREM';
+* [ (SANTAREM, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/SANTAREM/)
 </script>
+<script type="text/javascript">

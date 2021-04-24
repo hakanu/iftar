@@ -8,10 +8,11 @@ permalink: /ARJANTIN/SANTA FE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_FE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SANTA_FE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'SANTA FE';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'SANTA FE';
+* [ (SANTA_FE, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SANTA_FE/)
 </script>
+<script type="text/javascript">

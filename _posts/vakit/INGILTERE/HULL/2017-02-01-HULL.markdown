@@ -8,10 +8,11 @@ permalink: /INGILTERE/HULL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HULL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HULL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'HULL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'HULL';
+* [ (HULL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HULL/)
 </script>
+<script type="text/javascript">

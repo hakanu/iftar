@@ -8,10 +8,11 @@ permalink: /INGILTERE/LANCASTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANCASTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LANCASTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LANCASTER';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LANCASTER';
+* [ (LANCASTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LANCASTER/)
 </script>
+<script type="text/javascript">

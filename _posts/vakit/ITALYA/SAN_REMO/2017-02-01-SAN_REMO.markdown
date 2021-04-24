@@ -8,10 +8,11 @@ permalink: /ITALYA/SAN REMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_REMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SAN_REMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SAN REMO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SAN REMO';
+* [ (SAN_REMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SAN_REMO/)
 </script>
+<script type="text/javascript">

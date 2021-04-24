@@ -8,10 +8,11 @@ permalink: /FRANSA/NOUZONVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOUZONVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NOUZONVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NOUZONVILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NOUZONVILLE';
+* [ (NOUZONVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NOUZONVILLE/)
 </script>
+<script type="text/javascript">

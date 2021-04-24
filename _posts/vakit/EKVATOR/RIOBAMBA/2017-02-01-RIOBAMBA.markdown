@@ -8,10 +8,11 @@ permalink: /EKVATOR/RIOBAMBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIOBAMBA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/RIOBAMBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'RIOBAMBA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'RIOBAMBA';
+* [ (RIOBAMBA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/RIOBAMBA/)
 </script>
+<script type="text/javascript">

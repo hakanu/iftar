@@ -8,10 +8,11 @@ permalink: /ALMANYA/GERSTHOFEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GERSTHOFEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GERSTHOFEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GERSTHOFEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GERSTHOFEN';
+* [ (GERSTHOFEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GERSTHOFEN/)
 </script>
+<script type="text/javascript">

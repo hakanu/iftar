@@ -8,10 +8,11 @@ permalink: /ISVICRE/LACHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LACHEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LACHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LACHEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LACHEN';
+* [ (LACHEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LACHEN/)
 </script>
+<script type="text/javascript">

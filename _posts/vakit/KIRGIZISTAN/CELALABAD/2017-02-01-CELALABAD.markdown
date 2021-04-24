@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/CELALABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CELALABAD, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/CELALABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'CELALABAD';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'CELALABAD';
+* [ (CELALABAD, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/CELALABAD/)
 </script>
+<script type="text/javascript">

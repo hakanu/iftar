@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HELSINGOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HELSINGOR, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HELSINGOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HELSINGOR';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HELSINGOR';
+* [ (HELSINGOR, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HELSINGOR/)
 </script>
+<script type="text/javascript">

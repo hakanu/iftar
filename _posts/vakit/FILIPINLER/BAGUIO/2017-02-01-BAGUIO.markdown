@@ -8,10 +8,11 @@ permalink: /FILIPINLER/BAGUIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAGUIO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BAGUIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'BAGUIO';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'BAGUIO';
+* [ (BAGUIO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BAGUIO/)
 </script>
+<script type="text/javascript">

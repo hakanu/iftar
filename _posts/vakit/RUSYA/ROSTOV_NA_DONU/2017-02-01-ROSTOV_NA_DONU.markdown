@@ -8,10 +8,11 @@ permalink: /RUSYA/ROSTOV NA DONU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSTOV_NA_DONU, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ROSTOV_NA_DONU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ROSTOV NA DONU';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ROSTOV NA DONU';
+* [ (ROSTOV_NA_DONU, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ROSTOV_NA_DONU/)
 </script>
+<script type="text/javascript">

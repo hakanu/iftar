@@ -8,10 +8,11 @@ permalink: /POLONYA/BIELSKO-BIALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIELSKO-BIALA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/BIELSKO-BIALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'BIELSKO-BIALA';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'BIELSKO-BIALA';
+* [ (BIELSKO-BIALA, POLONYA) için iftar ve namaz vakitleri](/POLONYA/BIELSKO-BIALA/)
 </script>
+<script type="text/javascript">

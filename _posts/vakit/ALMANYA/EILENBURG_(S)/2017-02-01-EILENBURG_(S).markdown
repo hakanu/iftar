@@ -8,10 +8,11 @@ permalink: /ALMANYA/EILENBURG (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EILENBURG_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EILENBURG_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EILENBURG (S)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EILENBURG (S)';
+* [ (EILENBURG_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EILENBURG_(S)/)
 </script>
+<script type="text/javascript">

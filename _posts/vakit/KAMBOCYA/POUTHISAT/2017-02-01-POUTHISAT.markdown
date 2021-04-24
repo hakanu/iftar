@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/POUTHISAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POUTHISAT, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/POUTHISAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'POUTHISAT';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'POUTHISAT';
+* [ (POUTHISAT, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/POUTHISAT/)
 </script>
+<script type="text/javascript">

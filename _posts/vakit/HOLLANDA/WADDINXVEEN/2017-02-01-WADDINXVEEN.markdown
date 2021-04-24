@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WADDINXVEEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WADDINXVEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WADDINXVEEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WADDINXVEEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WADDINXVEEN';
+* [ (WADDINXVEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WADDINXVEEN/)
 </script>
+<script type="text/javascript">

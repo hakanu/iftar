@@ -8,10 +8,11 @@ permalink: /ALMANYA/GROSSRASCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GROSSRASCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GROSSRASCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GROSSRASCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GROSSRASCHEN';
+* [ (GROSSRASCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GROSSRASCHEN/)
 </script>
+<script type="text/javascript">

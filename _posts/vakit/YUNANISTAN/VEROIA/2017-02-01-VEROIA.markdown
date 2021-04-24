@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/VEROIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VEROIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/VEROIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'VEROIA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'VEROIA';
+* [ (VEROIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/VEROIA/)
 </script>
+<script type="text/javascript">

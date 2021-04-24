@@ -8,10 +8,11 @@ permalink: /EKVATOR/PUERTO BAQUERIZO MORENO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_BAQUERIZO_MORENO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/PUERTO_BAQUERIZO_MORENO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'PUERTO BAQUERIZO MORENO';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'PUERTO BAQUERIZO MORENO';
+* [ (PUERTO_BAQUERIZO_MORENO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/PUERTO_BAQUERIZO_MORENO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NORVEC/ARENDAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARENDAL, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ARENDAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'ARENDAL';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'ARENDAL';
+* [ (ARENDAL, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ARENDAL/)
 </script>
+<script type="text/javascript">

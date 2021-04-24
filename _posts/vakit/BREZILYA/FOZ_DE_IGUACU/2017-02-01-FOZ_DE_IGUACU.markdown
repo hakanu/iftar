@@ -8,10 +8,11 @@ permalink: /BREZILYA/FOZ DE IGUACU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOZ_DE_IGUACU, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/FOZ_DE_IGUACU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'FOZ DE IGUACU';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'FOZ DE IGUACU';
+* [ (FOZ_DE_IGUACU, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/FOZ_DE_IGUACU/)
 </script>
+<script type="text/javascript">

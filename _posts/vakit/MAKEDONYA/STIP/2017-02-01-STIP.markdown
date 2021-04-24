@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/STIP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STIP, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/STIP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'STIP';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'STIP';
+* [ (STIP, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/STIP/)
 </script>
+<script type="text/javascript">

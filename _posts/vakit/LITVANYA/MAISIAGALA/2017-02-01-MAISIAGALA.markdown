@@ -8,10 +8,11 @@ permalink: /LITVANYA/MAISIAGALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAISIAGALA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/MAISIAGALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'MAISIAGALA';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'MAISIAGALA';
+* [ (MAISIAGALA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/MAISIAGALA/)
 </script>
+<script type="text/javascript">

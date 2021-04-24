@@ -8,10 +8,11 @@ permalink: /CIN/ZUNYI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZUNYI, CIN) için iftar ve namaz vakitleri](/CIN/ZUNYI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZUNYI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZUNYI';
+* [ (ZUNYI, CIN) için iftar ve namaz vakitleri](/CIN/ZUNYI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/AIHUI ( HeIhe )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AIHUI_(_HeIhe_), CIN) için iftar ve namaz vakitleri](/CIN/AIHUI_(_HeIhe_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'AIHUI ( HeIhe )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'AIHUI ( HeIhe )';
+* [ (AIHUI_(_HeIhe_), CIN) için iftar ve namaz vakitleri](/CIN/AIHUI_(_HeIhe_)/)
 </script>
+<script type="text/javascript">

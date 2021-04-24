@@ -8,10 +8,11 @@ permalink: /ITALYA/TRIESTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRIESTE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRIESTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'TRIESTE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'TRIESTE';
+* [ (TRIESTE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRIESTE/)
 </script>
+<script type="text/javascript">

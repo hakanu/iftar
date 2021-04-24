@@ -8,10 +8,11 @@ permalink: /ITALYA/PESARO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PESARO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PESARO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PESARO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PESARO';
+* [ (PESARO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PESARO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/OOSTERHOUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OOSTERHOUT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OOSTERHOUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'OOSTERHOUT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'OOSTERHOUT';
+* [ (OOSTERHOUT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OOSTERHOUT/)
 </script>
+<script type="text/javascript">

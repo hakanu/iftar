@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/VOITSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOITSBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOITSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'VOITSBERG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'VOITSBERG';
+* [ (VOITSBERG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VOITSBERG/)
 </script>
+<script type="text/javascript">

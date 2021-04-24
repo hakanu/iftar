@@ -8,10 +8,11 @@ permalink: /FRANSA/LANESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANESTER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LANESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LANESTER';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LANESTER';
+* [ (LANESTER, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LANESTER/)
 </script>
+<script type="text/javascript">

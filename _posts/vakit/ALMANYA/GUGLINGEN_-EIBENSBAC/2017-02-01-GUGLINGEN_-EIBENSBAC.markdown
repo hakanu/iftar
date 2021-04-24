@@ -8,10 +8,11 @@ permalink: /ALMANYA/GUGLINGEN -EIBENSBAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUGLINGEN_-EIBENSBAC, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GUGLINGEN_-EIBENSBAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GUGLINGEN -EIBENSBAC';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GUGLINGEN -EIBENSBAC';
+* [ (GUGLINGEN_-EIBENSBAC, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GUGLINGEN_-EIBENSBAC/)
 </script>
+<script type="text/javascript">

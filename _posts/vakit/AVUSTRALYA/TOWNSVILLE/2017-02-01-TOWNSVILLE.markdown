@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/TOWNSVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOWNSVILLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TOWNSVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'TOWNSVILLE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'TOWNSVILLE';
+* [ (TOWNSVILLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/TOWNSVILLE/)
 </script>
+<script type="text/javascript">

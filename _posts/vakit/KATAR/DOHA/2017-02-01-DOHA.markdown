@@ -8,10 +8,11 @@ permalink: /KATAR/DOHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOHA, KATAR) için iftar ve namaz vakitleri](/KATAR/DOHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KATAR';
+
   var GLOBAL_CITY = 'DOHA';
+  var GLOBAL_COUNTRY = 'KATAR';
   var GLOBAL_STATE = 'DOHA';
+* [ (DOHA, KATAR) için iftar ve namaz vakitleri](/KATAR/DOHA/)
 </script>
+<script type="text/javascript">

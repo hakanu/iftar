@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/LEFKOSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEFKOSA, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKOSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'LEFKOSA';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'LEFKOSA';
+* [ (LEFKOSA, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKOSA/)
 </script>
+<script type="text/javascript">

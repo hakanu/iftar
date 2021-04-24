@@ -8,10 +8,11 @@ permalink: /ALMANYA/DAHLHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAHLHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DAHLHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DAHLHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DAHLHAUSEN';
+* [ (DAHLHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DAHLHAUSEN/)
 </script>
+<script type="text/javascript">

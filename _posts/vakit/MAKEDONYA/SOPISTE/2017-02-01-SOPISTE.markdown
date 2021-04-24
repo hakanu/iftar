@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/SOPISTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOPISTE, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/SOPISTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'SOPISTE';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'SOPISTE';
+* [ (SOPISTE, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/SOPISTE/)
 </script>
+<script type="text/javascript">

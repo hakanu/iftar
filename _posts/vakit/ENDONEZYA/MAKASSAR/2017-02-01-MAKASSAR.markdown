@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/MAKASSAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAKASSAR, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MAKASSAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'MAKASSAR';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'MAKASSAR';
+* [ (MAKASSAR, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MAKASSAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISPANYA/BARCELONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARCELONA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/BARCELONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'BARCELONA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'BARCELONA';
+* [ (BARCELONA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/BARCELONA/)
 </script>
+<script type="text/javascript">

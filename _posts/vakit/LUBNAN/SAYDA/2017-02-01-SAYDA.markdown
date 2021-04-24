@@ -8,10 +8,11 @@ permalink: /LUBNAN/SAYDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAYDA, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SAYDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUBNAN';
+
   var GLOBAL_CITY = 'SAYDA';
+  var GLOBAL_COUNTRY = 'LUBNAN';
   var GLOBAL_STATE = 'SAYDA';
+* [ (SAYDA, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/SAYDA/)
 </script>
+<script type="text/javascript">

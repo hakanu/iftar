@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAMBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAMBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAMBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAMBERG';
+* [ (BAMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAMBERG/)
 </script>
+<script type="text/javascript">

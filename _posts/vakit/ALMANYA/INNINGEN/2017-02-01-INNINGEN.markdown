@@ -8,10 +8,11 @@ permalink: /ALMANYA/INNINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INNINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/INNINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'INNINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'INNINGEN';
+* [ (INNINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/INNINGEN/)
 </script>
+<script type="text/javascript">

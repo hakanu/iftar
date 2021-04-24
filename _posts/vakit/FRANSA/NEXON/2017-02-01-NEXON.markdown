@@ -8,10 +8,11 @@ permalink: /FRANSA/NEXON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEXON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEXON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NEXON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NEXON';
+* [ (NEXON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEXON/)
 </script>
+<script type="text/javascript">

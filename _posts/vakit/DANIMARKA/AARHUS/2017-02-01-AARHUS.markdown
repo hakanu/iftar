@@ -8,10 +8,11 @@ permalink: /DANIMARKA/AARHUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AARHUS, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/AARHUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'AARHUS';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'AARHUS';
+* [ (AARHUS, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/AARHUS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/HERBIGNAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERBIGNAC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HERBIGNAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'HERBIGNAC';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'HERBIGNAC';
+* [ (HERBIGNAC, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HERBIGNAC/)
 </script>
+<script type="text/javascript">

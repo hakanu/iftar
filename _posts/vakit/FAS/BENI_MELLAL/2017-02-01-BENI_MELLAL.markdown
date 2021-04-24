@@ -8,10 +8,11 @@ permalink: /FAS/BENI MELLAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENI_MELLAL, FAS) için iftar ve namaz vakitleri](/FAS/BENI_MELLAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'BENI MELLAL';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'BENI MELLAL';
+* [ (BENI_MELLAL, FAS) için iftar ve namaz vakitleri](/FAS/BENI_MELLAL/)
 </script>
+<script type="text/javascript">

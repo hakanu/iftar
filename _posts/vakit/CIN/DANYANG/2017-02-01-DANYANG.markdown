@@ -8,10 +8,11 @@ permalink: /CIN/DANYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DANYANG, CIN) için iftar ve namaz vakitleri](/CIN/DANYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DANYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DANYANG';
+* [ (DANYANG, CIN) için iftar ve namaz vakitleri](/CIN/DANYANG/)
 </script>
+<script type="text/javascript">

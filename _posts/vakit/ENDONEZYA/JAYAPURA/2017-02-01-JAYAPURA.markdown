@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/JAYAPURA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JAYAPURA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/JAYAPURA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'JAYAPURA';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'JAYAPURA';
+* [ (JAYAPURA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/JAYAPURA/)
 </script>
+<script type="text/javascript">

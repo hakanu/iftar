@@ -8,10 +8,11 @@ permalink: /ISVICRE/SUMISWALD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUMISWALD, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SUMISWALD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SUMISWALD';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SUMISWALD';
+* [ (SUMISWALD, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SUMISWALD/)
 </script>
+<script type="text/javascript">

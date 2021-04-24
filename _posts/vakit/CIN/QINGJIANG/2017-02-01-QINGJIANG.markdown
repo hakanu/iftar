@@ -8,10 +8,11 @@ permalink: /CIN/QINGJIANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QINGJIANG, CIN) için iftar ve namaz vakitleri](/CIN/QINGJIANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QINGJIANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QINGJIANG';
+* [ (QINGJIANG, CIN) için iftar ve namaz vakitleri](/CIN/QINGJIANG/)
 </script>
+<script type="text/javascript">

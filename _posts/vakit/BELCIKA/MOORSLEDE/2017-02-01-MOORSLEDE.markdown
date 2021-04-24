@@ -8,10 +8,11 @@ permalink: /BELCIKA/MOORSLEDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOORSLEDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MOORSLEDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'MOORSLEDE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'MOORSLEDE';
+* [ (MOORSLEDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/MOORSLEDE/)
 </script>
+<script type="text/javascript">

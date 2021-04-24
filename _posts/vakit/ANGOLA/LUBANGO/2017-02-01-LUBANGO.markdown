@@ -8,10 +8,11 @@ permalink: /ANGOLA/LUBANGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUBANGO, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/LUBANGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'LUBANGO';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'LUBANGO';
+* [ (LUBANGO, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/LUBANGO/)
 </script>
+<script type="text/javascript">

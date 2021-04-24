@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/SLUNT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SLUNT, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SLUNT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'SLUNT';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'SLUNT';
+* [ (SLUNT, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SLUNT/)
 </script>
+<script type="text/javascript">

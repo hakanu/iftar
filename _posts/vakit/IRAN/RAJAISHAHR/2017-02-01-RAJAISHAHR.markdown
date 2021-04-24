@@ -8,10 +8,11 @@ permalink: /IRAN/RAJAISHAHR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAJAISHAHR, IRAN) için iftar ve namaz vakitleri](/IRAN/RAJAISHAHR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'RAJAISHAHR';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'RAJAISHAHR';
+* [ (RAJAISHAHR, IRAN) için iftar ve namaz vakitleri](/IRAN/RAJAISHAHR/)
 </script>
+<script type="text/javascript">

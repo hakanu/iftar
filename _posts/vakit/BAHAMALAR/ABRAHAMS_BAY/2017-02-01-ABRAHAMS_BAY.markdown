@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/ABRAHAMS BAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABRAHAMS_BAY, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/ABRAHAMS_BAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'ABRAHAMS BAY';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'ABRAHAMS BAY';
+* [ (ABRAHAMS_BAY, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/ABRAHAMS_BAY/)
 </script>
+<script type="text/javascript">

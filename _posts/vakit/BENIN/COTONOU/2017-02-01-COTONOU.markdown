@@ -8,10 +8,11 @@ permalink: /BENIN/COTONOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COTONOU, BENIN) için iftar ve namaz vakitleri](/BENIN/COTONOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'COTONOU';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'COTONOU';
+* [ (COTONOU, BENIN) için iftar ve namaz vakitleri](/BENIN/COTONOU/)
 </script>
+<script type="text/javascript">

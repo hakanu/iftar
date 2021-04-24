@@ -8,10 +8,11 @@ permalink: /NORVEC/HAUGESUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAUGESUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HAUGESUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'HAUGESUND';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'HAUGESUND';
+* [ (HAUGESUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HAUGESUND/)
 </script>
+<script type="text/javascript">

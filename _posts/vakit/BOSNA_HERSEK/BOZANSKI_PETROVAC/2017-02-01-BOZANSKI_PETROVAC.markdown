@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/BOZANSKI PETROVAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOZANSKI_PETROVAC, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BOZANSKI_PETROVAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'BOZANSKI PETROVAC';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'BOZANSKI PETROVAC';
+* [ (BOZANSKI_PETROVAC, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BOZANSKI_PETROVAC/)
 </script>
+<script type="text/javascript">

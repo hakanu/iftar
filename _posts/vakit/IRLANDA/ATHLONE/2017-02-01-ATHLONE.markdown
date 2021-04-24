@@ -8,10 +8,11 @@ permalink: /IRLANDA/ATHLONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATHLONE, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/ATHLONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'ATHLONE';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'ATHLONE';
+* [ (ATHLONE, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/ATHLONE/)
 </script>
+<script type="text/javascript">

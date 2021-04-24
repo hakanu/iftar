@@ -8,10 +8,11 @@ permalink: /BURUNDI/BUJUMBURA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUJUMBURA, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/BUJUMBURA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURUNDI';
+
   var GLOBAL_CITY = 'BUJUMBURA';
+  var GLOBAL_COUNTRY = 'BURUNDI';
   var GLOBAL_STATE = 'BUJUMBURA';
+* [ (BUJUMBURA, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/BUJUMBURA/)
 </script>
+<script type="text/javascript">

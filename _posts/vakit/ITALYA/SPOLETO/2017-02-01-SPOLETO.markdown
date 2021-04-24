@@ -8,10 +8,11 @@ permalink: /ITALYA/SPOLETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPOLETO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SPOLETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SPOLETO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SPOLETO';
+* [ (SPOLETO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SPOLETO/)
 </script>
+<script type="text/javascript">

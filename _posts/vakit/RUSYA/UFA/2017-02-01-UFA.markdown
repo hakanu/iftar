@@ -8,10 +8,11 @@ permalink: /RUSYA/UFA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UFA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UFA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'UFA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'UFA';
+* [ (UFA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UFA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/KURTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KURTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KURTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KURTEN';
+* [ (KURTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KURTEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/DARLINGTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DARLINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DARLINGTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'DARLINGTON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'DARLINGTON';
+* [ (DARLINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DARLINGTON/)
 </script>
+<script type="text/javascript">

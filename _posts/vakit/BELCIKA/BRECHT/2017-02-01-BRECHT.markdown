@@ -8,10 +8,11 @@ permalink: /BELCIKA/BRECHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRECHT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BRECHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BRECHT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BRECHT';
+* [ (BRECHT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BRECHT/)
 </script>
+<script type="text/javascript">

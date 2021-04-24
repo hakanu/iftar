@@ -8,10 +8,11 @@ permalink: /JAPONYA/SAITAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAITAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SAITAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SAITAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SAITAMA';
+* [ (SAITAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SAITAMA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/BIELLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIELLA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BIELLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'BIELLA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'BIELLA';
+* [ (BIELLA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BIELLA/)
 </script>
+<script type="text/javascript">

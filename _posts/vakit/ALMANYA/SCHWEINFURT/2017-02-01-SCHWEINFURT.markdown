@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWEINFURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWEINFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWEINFURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWEINFURT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWEINFURT';
+* [ (SCHWEINFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWEINFURT/)
 </script>
+<script type="text/javascript">

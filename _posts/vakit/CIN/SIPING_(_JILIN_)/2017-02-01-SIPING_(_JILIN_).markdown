@@ -8,10 +8,11 @@ permalink: /CIN/SIPING ( JILIN )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIPING_(_JILIN_), CIN) için iftar ve namaz vakitleri](/CIN/SIPING_(_JILIN_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SIPING ( JILIN )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SIPING ( JILIN )';
+* [ (SIPING_(_JILIN_), CIN) için iftar ve namaz vakitleri](/CIN/SIPING_(_JILIN_)/)
 </script>
+<script type="text/javascript">

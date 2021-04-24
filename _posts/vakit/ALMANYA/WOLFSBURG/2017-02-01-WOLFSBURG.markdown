@@ -8,10 +8,11 @@ permalink: /ALMANYA/WOLFSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOLFSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WOLFSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WOLFSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WOLFSBURG';
+* [ (WOLFSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WOLFSBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/ARRAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARRAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARRAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ARRAS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ARRAS';
+* [ (ARRAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARRAS/)
 </script>
+<script type="text/javascript">

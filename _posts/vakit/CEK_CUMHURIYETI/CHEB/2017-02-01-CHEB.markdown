@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/CHEB
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHEB, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/CHEB/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'CHEB';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'CHEB';
+* [ (CHEB, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/CHEB/)
 </script>
+<script type="text/javascript">

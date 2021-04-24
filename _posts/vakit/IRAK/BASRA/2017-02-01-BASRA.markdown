@@ -8,10 +8,11 @@ permalink: /IRAK/BASRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASRA, IRAK) için iftar ve namaz vakitleri](/IRAK/BASRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'BASRA';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'BASRA';
+* [ (BASRA, IRAK) için iftar ve namaz vakitleri](/IRAK/BASRA/)
 </script>
+<script type="text/javascript">

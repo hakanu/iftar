@@ -8,10 +8,11 @@ permalink: /FRANSA/BEURGTHEROULDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEURGTHEROULDE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEURGTHEROULDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BEURGTHEROULDE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BEURGTHEROULDE';
+* [ (BEURGTHEROULDE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BEURGTHEROULDE/)
 </script>
+<script type="text/javascript">

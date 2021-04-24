@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/MITROVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MITROVA, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/MITROVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'MITROVA';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'MITROVA';
+* [ (MITROVA, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/MITROVA/)
 </script>
+<script type="text/javascript">

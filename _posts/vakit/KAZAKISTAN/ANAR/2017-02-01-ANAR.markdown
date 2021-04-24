@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ANAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANAR, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ANAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ANAR';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ANAR';
+* [ (ANAR, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ANAR/)
 </script>
+<script type="text/javascript">

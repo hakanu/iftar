@@ -8,10 +8,11 @@ permalink: /KUBA/MATANZAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATANZAS, KUBA) için iftar ve namaz vakitleri](/KUBA/MATANZAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'MATANZAS';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'MATANZAS';
+* [ (MATANZAS, KUBA) için iftar ve namaz vakitleri](/KUBA/MATANZAS/)
 </script>
+<script type="text/javascript">

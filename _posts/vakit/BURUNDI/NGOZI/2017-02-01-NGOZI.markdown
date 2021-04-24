@@ -8,10 +8,11 @@ permalink: /BURUNDI/NGOZI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NGOZI, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/NGOZI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURUNDI';
+
   var GLOBAL_CITY = 'NGOZI';
+  var GLOBAL_COUNTRY = 'BURUNDI';
   var GLOBAL_STATE = 'NGOZI';
+* [ (NGOZI, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/NGOZI/)
 </script>
+<script type="text/javascript">

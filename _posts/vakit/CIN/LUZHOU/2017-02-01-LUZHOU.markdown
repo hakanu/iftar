@@ -8,10 +8,11 @@ permalink: /CIN/LUZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUZHOU, CIN) için iftar ve namaz vakitleri](/CIN/LUZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LUZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LUZHOU';
+* [ (LUZHOU, CIN) için iftar ve namaz vakitleri](/CIN/LUZHOU/)
 </script>
+<script type="text/javascript">

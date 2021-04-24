@@ -8,10 +8,11 @@ permalink: /MALEZYA/KOTA KINABALU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOTA_KINABALU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KOTA_KINABALU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KOTA KINABALU';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KOTA KINABALU';
+* [ (KOTA_KINABALU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KOTA_KINABALU/)
 </script>
+<script type="text/javascript">

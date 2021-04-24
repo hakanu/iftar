@@ -8,10 +8,11 @@ permalink: /MACARISTAN/SZOLNOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SZOLNOK, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZOLNOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'SZOLNOK';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'SZOLNOK';
+* [ (SZOLNOK, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZOLNOK/)
 </script>
+<script type="text/javascript">

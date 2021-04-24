@@ -8,10 +8,11 @@ permalink: /FRANSA/ANNEMASSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANNEMASSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANNEMASSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ANNEMASSE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ANNEMASSE';
+* [ (ANNEMASSE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANNEMASSE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KARADAG/CETİNJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CETİNJE_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/CETİNJE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'CETİNJE ';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'CETİNJE ';
+* [ (CETİNJE_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/CETİNJE_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/STEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEIN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/STEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'STEIN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'STEIN';
+* [ (STEIN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/STEIN/)
 </script>
+<script type="text/javascript">

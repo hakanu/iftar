@@ -8,10 +8,11 @@ permalink: /UKRAYNA/UMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UMAN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/UMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'UMAN';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'UMAN';
+* [ (UMAN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/UMAN/)
 </script>
+<script type="text/javascript">

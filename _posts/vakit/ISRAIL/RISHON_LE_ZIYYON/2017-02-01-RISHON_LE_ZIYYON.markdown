@@ -8,10 +8,11 @@ permalink: /ISRAIL/RISHON LE ZIYYON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RISHON_LE_ZIYYON, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/RISHON_LE_ZIYYON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISRAIL';
+
   var GLOBAL_CITY = 'RISHON LE ZIYYON';
+  var GLOBAL_COUNTRY = 'ISRAIL';
   var GLOBAL_STATE = 'RISHON LE ZIYYON';
+* [ (RISHON_LE_ZIYYON, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/RISHON_LE_ZIYYON/)
 </script>
+<script type="text/javascript">

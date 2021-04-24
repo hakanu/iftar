@@ -8,10 +8,11 @@ permalink: /UKRAYNA/BOGODUKLOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOGODUKLOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BOGODUKLOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'BOGODUKLOV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'BOGODUKLOV';
+* [ (BOGODUKLOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BOGODUKLOV/)
 </script>
+<script type="text/javascript">

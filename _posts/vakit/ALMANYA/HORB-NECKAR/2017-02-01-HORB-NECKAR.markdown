@@ -8,10 +8,11 @@ permalink: /ALMANYA/HORB-NECKAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORB-NECKAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HORB-NECKAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HORB-NECKAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HORB-NECKAR';
+* [ (HORB-NECKAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HORB-NECKAR/)
 </script>
+<script type="text/javascript">

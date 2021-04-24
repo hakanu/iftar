@@ -8,10 +8,11 @@ permalink: /HOLLANDA/CULEMBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CULEMBORG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CULEMBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'CULEMBORG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'CULEMBORG';
+* [ (CULEMBORG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/CULEMBORG/)
 </script>
+<script type="text/javascript">

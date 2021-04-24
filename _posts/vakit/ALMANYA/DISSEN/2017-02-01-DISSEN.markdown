@@ -8,10 +8,11 @@ permalink: /ALMANYA/DISSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DISSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DISSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DISSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DISSEN';
+* [ (DISSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DISSEN/)
 </script>
+<script type="text/javascript">

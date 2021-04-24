@@ -8,10 +8,11 @@ permalink: /UGANDA/TORORO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TORORO, UGANDA) için iftar ve namaz vakitleri](/UGANDA/TORORO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UGANDA';
+
   var GLOBAL_CITY = 'TORORO';
+  var GLOBAL_COUNTRY = 'UGANDA';
   var GLOBAL_STATE = 'TORORO';
+* [ (TORORO, UGANDA) için iftar ve namaz vakitleri](/UGANDA/TORORO/)
 </script>
+<script type="text/javascript">

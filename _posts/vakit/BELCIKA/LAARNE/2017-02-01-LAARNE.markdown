@@ -8,10 +8,11 @@ permalink: /BELCIKA/LAARNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAARNE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LAARNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LAARNE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LAARNE';
+* [ (LAARNE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LAARNE/)
 </script>
+<script type="text/javascript">

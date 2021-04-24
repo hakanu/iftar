@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOCHOLT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOCHOLT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOCHOLT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOCHOLT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOCHOLT';
+* [ (BOCHOLT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOCHOLT/)
 </script>
+<script type="text/javascript">

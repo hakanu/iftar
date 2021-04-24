@@ -8,10 +8,11 @@ permalink: /ALMANYA/LEMGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEMGO, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEMGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LEMGO';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LEMGO';
+* [ (LEMGO, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEMGO/)
 </script>
+<script type="text/javascript">

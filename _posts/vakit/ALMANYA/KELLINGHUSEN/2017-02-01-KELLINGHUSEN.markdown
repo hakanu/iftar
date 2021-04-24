@@ -8,10 +8,11 @@ permalink: /ALMANYA/KELLINGHUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KELLINGHUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KELLINGHUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KELLINGHUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KELLINGHUSEN';
+* [ (KELLINGHUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KELLINGHUSEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HEILIGENBLUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEILIGENBLUT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HEILIGENBLUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HEILIGENBLUT';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HEILIGENBLUT';
+* [ (HEILIGENBLUT, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HEILIGENBLUT/)
 </script>
+<script type="text/javascript">

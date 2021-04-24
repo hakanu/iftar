@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/USHTOBE (Taldy Kurgan)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (USHTOBE_(Taldy_Kurgan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/USHTOBE_(Taldy_Kurgan)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'USHTOBE (Taldy Kurgan)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'USHTOBE (Taldy Kurgan)';
+* [ (USHTOBE_(Taldy_Kurgan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/USHTOBE_(Taldy_Kurgan)/)
 </script>
+<script type="text/javascript">

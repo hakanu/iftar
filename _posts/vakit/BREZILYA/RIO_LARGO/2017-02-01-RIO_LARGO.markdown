@@ -8,10 +8,11 @@ permalink: /BREZILYA/RIO LARGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIO_LARGO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RIO_LARGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'RIO LARGO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'RIO LARGO';
+* [ (RIO_LARGO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RIO_LARGO/)
 </script>
+<script type="text/javascript">

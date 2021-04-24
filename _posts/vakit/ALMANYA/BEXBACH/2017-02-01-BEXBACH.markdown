@@ -8,10 +8,11 @@ permalink: /ALMANYA/BEXBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEXBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEXBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BEXBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BEXBACH';
+* [ (BEXBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BEXBACH/)
 </script>
+<script type="text/javascript">

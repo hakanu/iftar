@@ -8,10 +8,11 @@ permalink: /MALTA/SLIEMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SLIEMA, MALTA) için iftar ve namaz vakitleri](/MALTA/SLIEMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALTA';
+
   var GLOBAL_CITY = 'SLIEMA';
+  var GLOBAL_COUNTRY = 'MALTA';
   var GLOBAL_STATE = 'SLIEMA';
+* [ (SLIEMA, MALTA) için iftar ve namaz vakitleri](/MALTA/SLIEMA/)
 </script>
+<script type="text/javascript">

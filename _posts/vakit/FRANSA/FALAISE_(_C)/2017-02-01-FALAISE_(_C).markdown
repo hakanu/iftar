@@ -8,10 +8,11 @@ permalink: /FRANSA/FALAISE ( C)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FALAISE_(_C), FRANSA) için iftar ve namaz vakitleri](/FRANSA/FALAISE_(_C)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FALAISE ( C)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FALAISE ( C)';
+* [ (FALAISE_(_C), FRANSA) için iftar ve namaz vakitleri](/FRANSA/FALAISE_(_C)/)
 </script>
+<script type="text/javascript">

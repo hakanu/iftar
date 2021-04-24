@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/OSTRAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSTRAVA, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/OSTRAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'OSTRAVA';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'OSTRAVA';
+* [ (OSTRAVA, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/OSTRAVA/)
 </script>
+<script type="text/javascript">

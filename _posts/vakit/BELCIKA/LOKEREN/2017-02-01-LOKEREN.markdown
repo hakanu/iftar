@@ -8,10 +8,11 @@ permalink: /BELCIKA/LOKEREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOKEREN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LOKEREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LOKEREN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LOKEREN';
+* [ (LOKEREN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LOKEREN/)
 </script>
+<script type="text/javascript">

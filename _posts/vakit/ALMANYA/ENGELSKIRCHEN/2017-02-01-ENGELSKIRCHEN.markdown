@@ -8,10 +8,11 @@ permalink: /ALMANYA/ENGELSKIRCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENGELSKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ENGELSKIRCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ENGELSKIRCHEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ENGELSKIRCHEN';
+* [ (ENGELSKIRCHEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ENGELSKIRCHEN/)
 </script>
+<script type="text/javascript">

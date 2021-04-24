@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/SPLIT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPLIT, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SPLIT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'SPLIT';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'SPLIT';
+* [ (SPLIT, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SPLIT/)
 </script>
+<script type="text/javascript">

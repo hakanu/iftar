@@ -8,10 +8,11 @@ permalink: /URUGUAY/DURAZNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DURAZNO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/DURAZNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'DURAZNO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'DURAZNO';
+* [ (DURAZNO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/DURAZNO/)
 </script>
+<script type="text/javascript">

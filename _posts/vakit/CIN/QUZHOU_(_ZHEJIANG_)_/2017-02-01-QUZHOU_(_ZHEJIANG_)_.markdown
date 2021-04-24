@@ -8,10 +8,11 @@ permalink: /CIN/QUZHOU ( ZHEJIANG )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUZHOU_(_ZHEJIANG_)_, CIN) için iftar ve namaz vakitleri](/CIN/QUZHOU_(_ZHEJIANG_)_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QUZHOU ( ZHEJIANG ) ';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QUZHOU ( ZHEJIANG ) ';
+* [ (QUZHOU_(_ZHEJIANG_)_, CIN) için iftar ve namaz vakitleri](/CIN/QUZHOU_(_ZHEJIANG_)_/)
 </script>
+<script type="text/javascript">

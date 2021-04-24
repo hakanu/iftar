@@ -8,10 +8,11 @@ permalink: /ALMANYA/ERKELENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERKELENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERKELENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ERKELENZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ERKELENZ';
+* [ (ERKELENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERKELENZ/)
 </script>
+<script type="text/javascript">

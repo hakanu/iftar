@@ -8,10 +8,11 @@ permalink: /GANA/BOLGATANGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOLGATANGA, GANA) için iftar ve namaz vakitleri](/GANA/BOLGATANGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'BOLGATANGA';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'BOLGATANGA';
+* [ (BOLGATANGA, GANA) için iftar ve namaz vakitleri](/GANA/BOLGATANGA/)
 </script>
+<script type="text/javascript">

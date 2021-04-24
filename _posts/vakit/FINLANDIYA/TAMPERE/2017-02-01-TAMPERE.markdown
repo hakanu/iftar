@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/TAMPERE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAMPERE, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/TAMPERE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'TAMPERE';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'TAMPERE';
+* [ (TAMPERE, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/TAMPERE/)
 </script>
+<script type="text/javascript">

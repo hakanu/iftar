@@ -8,10 +8,11 @@ permalink: /UKRAYNA/ZHYTOMYR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHYTOMYR, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZHYTOMYR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'ZHYTOMYR';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'ZHYTOMYR';
+* [ (ZHYTOMYR, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZHYTOMYR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BREDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREDA, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BREDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BREDA';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BREDA';
+* [ (BREDA, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BREDA/)
 </script>
+<script type="text/javascript">

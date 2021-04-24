@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/AKMESCIT (Simferopol)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKMESCIT_(Simferopol), UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/AKMESCIT_(Simferopol)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'AKMESCIT (Simferopol)';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'AKMESCIT (Simferopol)';
+* [ (AKMESCIT_(Simferopol), UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/AKMESCIT_(Simferopol)/)
 </script>
+<script type="text/javascript">

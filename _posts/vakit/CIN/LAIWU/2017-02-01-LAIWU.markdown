@@ -8,10 +8,11 @@ permalink: /CIN/LAIWU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAIWU, CIN) için iftar ve namaz vakitleri](/CIN/LAIWU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LAIWU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LAIWU';
+* [ (LAIWU, CIN) için iftar ve namaz vakitleri](/CIN/LAIWU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/KULMBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KULMBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KULMBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KULMBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KULMBACH';
+* [ (KULMBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KULMBACH/)
 </script>
+<script type="text/javascript">

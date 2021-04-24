@@ -8,10 +8,11 @@ permalink: /FRANSA/SULLY-SUR-LOIRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SULLY-SUR-LOIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SULLY-SUR-LOIRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SULLY-SUR-LOIRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SULLY-SUR-LOIRE';
+* [ (SULLY-SUR-LOIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SULLY-SUR-LOIRE/)
 </script>
+<script type="text/javascript">

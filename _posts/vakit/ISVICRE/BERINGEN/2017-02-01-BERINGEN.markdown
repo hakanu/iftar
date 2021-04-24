@@ -8,10 +8,11 @@ permalink: /ISVICRE/BERINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BERINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BERINGEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BERINGEN';
+* [ (BERINGEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BERINGEN/)
 </script>
+<script type="text/javascript">

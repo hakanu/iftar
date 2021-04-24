@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BILTHOVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BILTHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BILTHOVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BILTHOVEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BILTHOVEN';
+* [ (BILTHOVEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BILTHOVEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BULLAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BULLAY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BULLAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BULLAY';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BULLAY';
+* [ (BULLAY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BULLAY/)
 </script>
+<script type="text/javascript">

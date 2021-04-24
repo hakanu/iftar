@@ -8,10 +8,11 @@ permalink: /CIN/CHANGZHOU (JIANGSU PRO_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANGZHOU_(JIANGSU_PRO_), CIN) için iftar ve namaz vakitleri](/CIN/CHANGZHOU_(JIANGSU_PRO_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHANGZHOU (JIANGSU PRO_)';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHANGZHOU (JIANGSU PRO_)';
+* [ (CHANGZHOU_(JIANGSU_PRO_), CIN) için iftar ve namaz vakitleri](/CIN/CHANGZHOU_(JIANGSU_PRO_)/)
 </script>
+<script type="text/javascript">

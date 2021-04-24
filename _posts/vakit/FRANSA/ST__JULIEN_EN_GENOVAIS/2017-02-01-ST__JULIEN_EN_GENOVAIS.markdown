@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_ JULIEN EN GENOVAIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__JULIEN_EN_GENOVAIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__JULIEN_EN_GENOVAIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_ JULIEN EN GENOVAIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_ JULIEN EN GENOVAIS';
+* [ (ST__JULIEN_EN_GENOVAIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__JULIEN_EN_GENOVAIS/)
 </script>
+<script type="text/javascript">

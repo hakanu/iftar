@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/BALAKLAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALAKLAVA_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/BALAKLAVA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'BALAKLAVA ';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'BALAKLAVA ';
+* [ (BALAKLAVA_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/BALAKLAVA_/)
 </script>
+<script type="text/javascript">

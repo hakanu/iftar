@@ -8,10 +8,11 @@ permalink: /ALMANYA/GOSLAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOSLAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOSLAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GOSLAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GOSLAR';
+* [ (GOSLAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOSLAR/)
 </script>
+<script type="text/javascript">

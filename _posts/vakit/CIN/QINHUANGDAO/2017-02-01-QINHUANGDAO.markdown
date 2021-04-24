@@ -8,10 +8,11 @@ permalink: /CIN/QINHUANGDAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QINHUANGDAO, CIN) için iftar ve namaz vakitleri](/CIN/QINHUANGDAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QINHUANGDAO';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QINHUANGDAO';
+* [ (QINHUANGDAO, CIN) için iftar ve namaz vakitleri](/CIN/QINHUANGDAO/)
 </script>
+<script type="text/javascript">

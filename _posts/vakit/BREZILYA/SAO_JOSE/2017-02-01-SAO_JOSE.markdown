@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO JOSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_JOSE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO JOSE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO JOSE';
+* [ (SAO_JOSE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE/)
 </script>
+<script type="text/javascript">

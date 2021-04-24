@@ -8,10 +8,11 @@ permalink: /BREZILYA/MURICI (A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURICI_(A), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MURICI_(A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'MURICI (A)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'MURICI (A)';
+* [ (MURICI_(A), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MURICI_(A)/)
 </script>
+<script type="text/javascript">

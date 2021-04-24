@@ -8,10 +8,11 @@ permalink: /HINDISTAN/SAMBALPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAMBALPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SAMBALPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'SAMBALPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'SAMBALPUR';
+* [ (SAMBALPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/SAMBALPUR/)
 </script>
+<script type="text/javascript">

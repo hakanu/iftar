@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/FINKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FINKE_, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/FINKE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'FINKE ';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'FINKE ';
+* [ (FINKE_, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/FINKE_/)
 </script>
+<script type="text/javascript">

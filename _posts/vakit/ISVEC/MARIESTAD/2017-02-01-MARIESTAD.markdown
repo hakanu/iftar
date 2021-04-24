@@ -8,10 +8,11 @@ permalink: /ISVEC/MARIESTAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARIESTAD, ISVEC) için iftar ve namaz vakitleri](/ISVEC/MARIESTAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'MARIESTAD';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'MARIESTAD';
+* [ (MARIESTAD, ISVEC) için iftar ve namaz vakitleri](/ISVEC/MARIESTAD/)
 </script>
+<script type="text/javascript">

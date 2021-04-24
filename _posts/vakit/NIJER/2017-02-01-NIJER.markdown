@@ -8,9 +8,10 @@ permalink: /NIJER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TAHOUA (NIJER) için iftar ve namaz vakitleri](/NIJER/TAHOUA)
-* [TILLABERY (NIJER) için iftar ve namaz vakitleri](/NIJER/TILLABERY)
-* [NIAMEY (NIJER) için iftar ve namaz vakitleri](/NIJER/NIAMEY)
+
 * [AGADEZ (NIJER) için iftar ve namaz vakitleri](/NIJER/AGADEZ)
 * [MARADI (NIJER) için iftar ve namaz vakitleri](/NIJER/MARADI)
+* [NIAMEY (NIJER) için iftar ve namaz vakitleri](/NIJER/NIAMEY)
+* [TAHOUA (NIJER) için iftar ve namaz vakitleri](/NIJER/TAHOUA)
+* [TILLABERY (NIJER) için iftar ve namaz vakitleri](/NIJER/TILLABERY)
 * [ZINDER (NIJER) için iftar ve namaz vakitleri](/NIJER/ZINDER)

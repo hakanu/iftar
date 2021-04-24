@@ -8,10 +8,11 @@ permalink: /ALMANYA/KONZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KONZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KONZ';
+* [ (KONZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONZ/)
 </script>
+<script type="text/javascript">

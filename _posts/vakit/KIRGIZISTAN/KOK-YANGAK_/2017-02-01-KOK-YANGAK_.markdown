@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/KOK-YANGAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOK-YANGAK_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KOK-YANGAK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'KOK-YANGAK ';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'KOK-YANGAK ';
+* [ (KOK-YANGAK_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KOK-YANGAK_/)
 </script>
+<script type="text/javascript">

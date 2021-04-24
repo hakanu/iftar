@@ -8,10 +8,11 @@ permalink: /RUSYA/KOSTOMUKSHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOSTOMUKSHA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KOSTOMUKSHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KOSTOMUKSHA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KOSTOMUKSHA';
+* [ (KOSTOMUKSHA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KOSTOMUKSHA/)
 </script>
+<script type="text/javascript">

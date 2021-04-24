@@ -8,10 +8,11 @@ permalink: /BOLIVYA/MIZQUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIZQUE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/MIZQUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'MIZQUE';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'MIZQUE';
+* [ (MIZQUE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/MIZQUE/)
 </script>
+<script type="text/javascript">

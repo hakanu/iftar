@@ -8,10 +8,11 @@ permalink: /SENEGAL/SAINT-LOUIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT-LOUIS, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/SAINT-LOUIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SENEGAL';
+
   var GLOBAL_CITY = 'SAINT-LOUIS';
+  var GLOBAL_COUNTRY = 'SENEGAL';
   var GLOBAL_STATE = 'SAINT-LOUIS';
+* [ (SAINT-LOUIS, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/SAINT-LOUIS/)
 </script>
+<script type="text/javascript">

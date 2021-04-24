@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BERRIMAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERRIMAH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BERRIMAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BERRIMAH';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BERRIMAH';
+* [ (BERRIMAH, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BERRIMAH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/ALEXANDRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALEXANDRA, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/ALEXANDRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'ALEXANDRA';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'ALEXANDRA';
+* [ (ALEXANDRA, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/ALEXANDRA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/KRAKOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRAKOW, POLONYA) için iftar ve namaz vakitleri](/POLONYA/KRAKOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'KRAKOW';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'KRAKOW';
+* [ (KRAKOW, POLONYA) için iftar ve namaz vakitleri](/POLONYA/KRAKOW/)
 </script>
+<script type="text/javascript">

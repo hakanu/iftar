@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/PORT HEDLAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT_HEDLAND, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PORT_HEDLAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'PORT HEDLAND';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'PORT HEDLAND';
+* [ (PORT_HEDLAND, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PORT_HEDLAND/)
 </script>
+<script type="text/javascript">

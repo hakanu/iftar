@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/XUDAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (XUDAT, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/XUDAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'XUDAT';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'XUDAT';
+* [ (XUDAT, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/XUDAT/)
 </script>
+<script type="text/javascript">

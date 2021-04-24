@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WATERINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WATERINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WATERINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WATERINGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WATERINGEN';
+* [ (WATERINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WATERINGEN/)
 </script>
+<script type="text/javascript">

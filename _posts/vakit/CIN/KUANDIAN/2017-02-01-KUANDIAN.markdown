@@ -8,10 +8,11 @@ permalink: /CIN/KUANDIAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUANDIAN, CIN) için iftar ve namaz vakitleri](/CIN/KUANDIAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KUANDIAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KUANDIAN';
+* [ (KUANDIAN, CIN) için iftar ve namaz vakitleri](/CIN/KUANDIAN/)
 </script>
+<script type="text/javascript">

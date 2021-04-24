@@ -8,10 +8,11 @@ permalink: /ITALYA/SONDRIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SONDRIO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SONDRIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SONDRIO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SONDRIO';
+* [ (SONDRIO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SONDRIO/)
 </script>
+<script type="text/javascript">

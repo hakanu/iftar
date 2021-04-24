@@ -8,10 +8,11 @@ permalink: /JAPONYA/KURUME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURUME, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KURUME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KURUME';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KURUME';
+* [ (KURUME, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KURUME/)
 </script>
+<script type="text/javascript">

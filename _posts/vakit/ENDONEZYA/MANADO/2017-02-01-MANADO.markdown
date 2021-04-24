@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/MANADO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANADO, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MANADO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'MANADO';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'MANADO';
+* [ (MANADO, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/MANADO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/HABAY LA NEUVE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HABAY_LA_NEUVE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HABAY_LA_NEUVE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HABAY LA NEUVE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HABAY LA NEUVE';
+* [ (HABAY_LA_NEUVE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HABAY_LA_NEUVE/)
 </script>
+<script type="text/javascript">

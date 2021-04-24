@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHMELZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHMELZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHMELZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHMELZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHMELZ';
+* [ (SCHMELZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHMELZ/)
 </script>
+<script type="text/javascript">

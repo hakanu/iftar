@@ -8,10 +8,11 @@ permalink: /YEMEN/THAMUD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THAMUD, YEMEN) için iftar ve namaz vakitleri](/YEMEN/THAMUD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YEMEN';
+
   var GLOBAL_CITY = 'THAMUD';
+  var GLOBAL_COUNTRY = 'YEMEN';
   var GLOBAL_STATE = 'THAMUD';
+* [ (THAMUD, YEMEN) için iftar ve namaz vakitleri](/YEMEN/THAMUD/)
 </script>
+<script type="text/javascript">

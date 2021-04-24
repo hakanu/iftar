@@ -8,10 +8,11 @@ permalink: /ARJANTIN/RIO GALLEGOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIO_GALLEGOS, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RIO_GALLEGOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'RIO GALLEGOS';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'RIO GALLEGOS';
+* [ (RIO_GALLEGOS, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RIO_GALLEGOS/)
 </script>
+<script type="text/javascript">

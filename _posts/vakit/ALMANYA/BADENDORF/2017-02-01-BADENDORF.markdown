@@ -8,10 +8,11 @@ permalink: /ALMANYA/BADENDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BADENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BADENDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BADENDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BADENDORF';
+* [ (BADENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BADENDORF/)
 </script>
+<script type="text/javascript">

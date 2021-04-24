@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERRENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERRENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERRENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERRENBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERRENBERG';
+* [ (HERRENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERRENBERG/)
 </script>
+<script type="text/javascript">

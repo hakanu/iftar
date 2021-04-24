@@ -8,10 +8,11 @@ permalink: /VENEZUELA/PUNTO FIJO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUNTO_FIJO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PUNTO_FIJO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'PUNTO FIJO';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'PUNTO FIJO';
+* [ (PUNTO_FIJO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PUNTO_FIJO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISRAIL/NAZARETH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAZARETH, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NAZARETH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISRAIL';
+
   var GLOBAL_CITY = 'NAZARETH';
+  var GLOBAL_COUNTRY = 'ISRAIL';
   var GLOBAL_STATE = 'NAZARETH';
+* [ (NAZARETH, ISRAIL) için iftar ve namaz vakitleri](/ISRAIL/NAZARETH/)
 </script>
+<script type="text/javascript">

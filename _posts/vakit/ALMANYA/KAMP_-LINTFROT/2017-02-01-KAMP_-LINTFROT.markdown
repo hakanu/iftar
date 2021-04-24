@@ -8,10 +8,11 @@ permalink: /ALMANYA/KAMP -LINTFROT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAMP_-LINTFROT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KAMP_-LINTFROT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KAMP -LINTFROT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KAMP -LINTFROT';
+* [ (KAMP_-LINTFROT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KAMP_-LINTFROT/)
 </script>
+<script type="text/javascript">

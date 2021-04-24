@@ -8,10 +8,11 @@ permalink: /FRANSA/LANGEAIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANGEAIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LANGEAIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LANGEAIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LANGEAIS';
+* [ (LANGEAIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LANGEAIS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHLESWIG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHLESWIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHLESWIG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHLESWIG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHLESWIG';
+* [ (SCHLESWIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHLESWIG/)
 </script>
+<script type="text/javascript">

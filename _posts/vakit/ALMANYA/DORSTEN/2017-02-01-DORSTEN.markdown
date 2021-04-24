@@ -8,10 +8,11 @@ permalink: /ALMANYA/DORSTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DORSTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DORSTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DORSTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DORSTEN';
+* [ (DORSTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DORSTEN/)
 </script>
+<script type="text/javascript">

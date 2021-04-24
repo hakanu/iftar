@@ -8,10 +8,11 @@ permalink: /DANIMARKA/FREDERICIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREDERICIA, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/FREDERICIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'FREDERICIA';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'FREDERICIA';
+* [ (FREDERICIA, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/FREDERICIA/)
 </script>
+<script type="text/javascript">

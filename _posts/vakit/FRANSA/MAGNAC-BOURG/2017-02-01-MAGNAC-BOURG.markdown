@@ -8,10 +8,11 @@ permalink: /FRANSA/MAGNAC-BOURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAGNAC-BOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAGNAC-BOURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MAGNAC-BOURG';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MAGNAC-BOURG';
+* [ (MAGNAC-BOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAGNAC-BOURG/)
 </script>
+<script type="text/javascript">

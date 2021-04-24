@@ -8,10 +8,11 @@ permalink: /MORITANYA/ZOUERATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZOUERATE, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ZOUERATE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'ZOUERATE';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'ZOUERATE';
+* [ (ZOUERATE, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ZOUERATE/)
 </script>
+<script type="text/javascript">

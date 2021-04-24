@@ -8,10 +8,11 @@ permalink: /ISVICRE/MONTREUX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTREUX, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MONTREUX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MONTREUX';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MONTREUX';
+* [ (MONTREUX, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MONTREUX/)
 </script>
+<script type="text/javascript">

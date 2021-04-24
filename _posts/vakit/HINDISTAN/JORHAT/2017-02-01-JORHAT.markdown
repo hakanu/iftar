@@ -8,10 +8,11 @@ permalink: /HINDISTAN/JORHAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JORHAT, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JORHAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'JORHAT';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'JORHAT';
+* [ (JORHAT, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JORHAT/)
 </script>
+<script type="text/javascript">

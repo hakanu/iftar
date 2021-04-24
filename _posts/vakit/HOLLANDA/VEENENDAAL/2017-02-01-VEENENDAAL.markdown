@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VEENENDAAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VEENENDAAL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VEENENDAAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VEENENDAAL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VEENENDAAL';
+* [ (VEENENDAAL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VEENENDAAL/)
 </script>
+<script type="text/javascript">

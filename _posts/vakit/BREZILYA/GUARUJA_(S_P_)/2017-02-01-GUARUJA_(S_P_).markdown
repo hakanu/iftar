@@ -8,10 +8,11 @@ permalink: /BREZILYA/GUARUJA (S_P_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUARUJA_(S_P_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GUARUJA_(S_P_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'GUARUJA (S_P_)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'GUARUJA (S_P_)';
+* [ (GUARUJA_(S_P_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GUARUJA_(S_P_)/)
 </script>
+<script type="text/javascript">

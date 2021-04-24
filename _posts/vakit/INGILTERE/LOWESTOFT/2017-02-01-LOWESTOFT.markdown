@@ -8,10 +8,11 @@ permalink: /INGILTERE/LOWESTOFT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOWESTOFT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LOWESTOFT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LOWESTOFT';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LOWESTOFT';
+* [ (LOWESTOFT, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LOWESTOFT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CABOOLTURE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CABOOLTURE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CABOOLTURE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CABOOLTURE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CABOOLTURE';
+* [ (CABOOLTURE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CABOOLTURE/)
 </script>
+<script type="text/javascript">

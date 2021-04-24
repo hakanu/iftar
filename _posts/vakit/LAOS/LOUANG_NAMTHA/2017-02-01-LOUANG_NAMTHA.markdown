@@ -8,10 +8,11 @@ permalink: /LAOS/LOUANG NAMTHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOUANG_NAMTHA, LAOS) için iftar ve namaz vakitleri](/LAOS/LOUANG_NAMTHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LAOS';
+
   var GLOBAL_CITY = 'LOUANG NAMTHA';
+  var GLOBAL_COUNTRY = 'LAOS';
   var GLOBAL_STATE = 'LOUANG NAMTHA';
+* [ (LOUANG_NAMTHA, LAOS) için iftar ve namaz vakitleri](/LAOS/LOUANG_NAMTHA/)
 </script>
+<script type="text/javascript">

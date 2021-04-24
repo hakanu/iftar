@@ -8,10 +8,11 @@ permalink: /RUSYA/CHELYABINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHELYABINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHELYABINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'CHELYABINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'CHELYABINSK';
+* [ (CHELYABINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/CHELYABINSK/)
 </script>
+<script type="text/javascript">

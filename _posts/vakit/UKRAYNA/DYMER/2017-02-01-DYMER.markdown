@@ -8,10 +8,11 @@ permalink: /UKRAYNA/DYMER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DYMER, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DYMER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'DYMER';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'DYMER';
+* [ (DYMER, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DYMER/)
 </script>
+<script type="text/javascript">

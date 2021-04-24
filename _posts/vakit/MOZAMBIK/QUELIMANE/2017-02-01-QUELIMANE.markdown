@@ -8,10 +8,11 @@ permalink: /MOZAMBIK/QUELIMANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUELIMANE, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/QUELIMANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOZAMBIK';
+
   var GLOBAL_CITY = 'QUELIMANE';
+  var GLOBAL_COUNTRY = 'MOZAMBIK';
   var GLOBAL_STATE = 'QUELIMANE';
+* [ (QUELIMANE, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/QUELIMANE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/RIJEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIJEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIJEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'RIJEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'RIJEN';
+* [ (RIJEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIJEN/)
 </script>
+<script type="text/javascript">

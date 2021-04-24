@@ -8,10 +8,11 @@ permalink: /ALMANYA/DIEBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DIEBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DIEBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DIEBURG';
+* [ (DIEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DIEBURG/)
 </script>
+<script type="text/javascript">

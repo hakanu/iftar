@@ -8,10 +8,11 @@ permalink: /ITALYA/L AQUILA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (L_AQUILA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/L_AQUILA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'L AQUILA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'L AQUILA';
+* [ (L_AQUILA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/L_AQUILA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/LOMONOSOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOMONOSOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LOMONOSOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'LOMONOSOV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'LOMONOSOV';
+* [ (LOMONOSOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LOMONOSOV/)
 </script>
+<script type="text/javascript">

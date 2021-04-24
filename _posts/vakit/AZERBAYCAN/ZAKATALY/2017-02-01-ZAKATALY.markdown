@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/ZAKATALY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAKATALY, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/ZAKATALY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'ZAKATALY';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'ZAKATALY';
+* [ (ZAKATALY, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/ZAKATALY/)
 </script>
+<script type="text/javascript">

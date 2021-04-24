@@ -8,10 +8,11 @@ permalink: /ALMANYA/STARNBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STARNBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STARNBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STARNBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STARNBERG';
+* [ (STARNBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STARNBERG/)
 </script>
+<script type="text/javascript">

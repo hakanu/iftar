@@ -8,10 +8,11 @@ permalink: /ALMANYA/STUTTGART
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STUTTGART, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STUTTGART/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STUTTGART';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STUTTGART';
+* [ (STUTTGART, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STUTTGART/)
 </script>
+<script type="text/javascript">

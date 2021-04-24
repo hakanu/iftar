@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/NEGOTINO (Gostivar)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEGOTINO_(Gostivar), MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/NEGOTINO_(Gostivar)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'NEGOTINO (Gostivar)';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'NEGOTINO (Gostivar)';
+* [ (NEGOTINO_(Gostivar), MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/NEGOTINO_(Gostivar)/)
 </script>
+<script type="text/javascript">

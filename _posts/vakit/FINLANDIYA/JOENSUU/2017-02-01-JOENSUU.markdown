@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/JOENSUU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JOENSUU, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/JOENSUU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'JOENSUU';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'JOENSUU';
+* [ (JOENSUU, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/JOENSUU/)
 </script>
+<script type="text/javascript">

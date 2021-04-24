@@ -8,10 +8,11 @@ permalink: /PANAMA/PENONOME
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENONOME, PANAMA) için iftar ve namaz vakitleri](/PANAMA/PENONOME/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'PENONOME';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'PENONOME';
+* [ (PENONOME, PANAMA) için iftar ve namaz vakitleri](/PANAMA/PENONOME/)
 </script>
+<script type="text/javascript">

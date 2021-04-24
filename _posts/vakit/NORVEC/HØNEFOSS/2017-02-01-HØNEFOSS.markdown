@@ -8,10 +8,11 @@ permalink: /NORVEC/HØNEFOSS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HØNEFOSS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HØNEFOSS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'HØNEFOSS';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'HØNEFOSS';
+* [ (HØNEFOSS, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HØNEFOSS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/MOULINS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOULINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MOULINS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MOULINS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MOULINS';
+* [ (MOULINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MOULINS/)
 </script>
+<script type="text/javascript">

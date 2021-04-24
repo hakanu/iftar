@@ -8,10 +8,11 @@ permalink: /DANIMARKA/SILKEBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SILKEBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SILKEBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'SILKEBORG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'SILKEBORG';
+* [ (SILKEBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SILKEBORG/)
 </script>
+<script type="text/javascript">

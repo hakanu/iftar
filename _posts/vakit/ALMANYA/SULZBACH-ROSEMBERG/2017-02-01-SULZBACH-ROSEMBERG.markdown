@@ -8,10 +8,11 @@ permalink: /ALMANYA/SULZBACH-ROSEMBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SULZBACH-ROSEMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SULZBACH-ROSEMBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SULZBACH-ROSEMBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SULZBACH-ROSEMBERG';
+* [ (SULZBACH-ROSEMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SULZBACH-ROSEMBERG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/GENTOFTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENTOFTE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/GENTOFTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'GENTOFTE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'GENTOFTE';
+* [ (GENTOFTE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/GENTOFTE/)
 </script>
+<script type="text/javascript">

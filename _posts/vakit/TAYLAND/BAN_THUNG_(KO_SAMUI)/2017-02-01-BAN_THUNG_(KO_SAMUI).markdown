@@ -8,10 +8,11 @@ permalink: /TAYLAND/BAN THUNG (KO SAMUI)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAN_THUNG_(KO_SAMUI), TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/BAN_THUNG_(KO_SAMUI)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'BAN THUNG (KO SAMUI)';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'BAN THUNG (KO SAMUI)';
+* [ (BAN_THUNG_(KO_SAMUI), TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/BAN_THUNG_(KO_SAMUI)/)
 </script>
+<script type="text/javascript">

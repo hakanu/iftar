@@ -8,10 +8,11 @@ permalink: /RUSYA/TOLYATTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOLYATTI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TOLYATTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TOLYATTI';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TOLYATTI';
+* [ (TOLYATTI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TOLYATTI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HAITI/CARREFOUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARREFOUR, HAITI) için iftar ve namaz vakitleri](/HAITI/CARREFOUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HAITI';
+
   var GLOBAL_CITY = 'CARREFOUR';
+  var GLOBAL_COUNTRY = 'HAITI';
   var GLOBAL_STATE = 'CARREFOUR';
+* [ (CARREFOUR, HAITI) için iftar ve namaz vakitleri](/HAITI/CARREFOUR/)
 </script>
+<script type="text/javascript">

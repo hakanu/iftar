@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/TURGAY(Astana)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURGAY(Astana), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TURGAY(Astana)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'TURGAY(Astana)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'TURGAY(Astana)';
+* [ (TURGAY(Astana), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TURGAY(Astana)/)
 </script>
+<script type="text/javascript">

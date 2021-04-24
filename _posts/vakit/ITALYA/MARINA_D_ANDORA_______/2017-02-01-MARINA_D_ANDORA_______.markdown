@@ -8,10 +8,11 @@ permalink: /ITALYA/MARINA D ANDORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARINA_D_ANDORA_______, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MARINA_D_ANDORA_______/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MARINA D ANDORA       ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MARINA D ANDORA       ';
+* [ (MARINA_D_ANDORA_______, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MARINA_D_ANDORA_______/)
 </script>
+<script type="text/javascript">

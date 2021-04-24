@@ -8,10 +8,11 @@ permalink: /INGILTERE/NEWCASTLE UPON TYNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEWCASTLE_UPON_TYNE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NEWCASTLE_UPON_TYNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'NEWCASTLE UPON TYNE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'NEWCASTLE UPON TYNE';
+* [ (NEWCASTLE_UPON_TYNE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/NEWCASTLE_UPON_TYNE/)
 </script>
+<script type="text/javascript">

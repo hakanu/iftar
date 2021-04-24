@@ -8,10 +8,11 @@ permalink: /IRAN/BORUJERD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORUJERD, IRAN) için iftar ve namaz vakitleri](/IRAN/BORUJERD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'BORUJERD';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'BORUJERD';
+* [ (BORUJERD, IRAN) için iftar ve namaz vakitleri](/IRAN/BORUJERD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/SYZRAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SYZRAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SYZRAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SYZRAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SYZRAN';
+* [ (SYZRAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SYZRAN/)
 </script>
+<script type="text/javascript">

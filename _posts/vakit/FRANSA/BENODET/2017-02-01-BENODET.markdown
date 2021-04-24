@@ -8,10 +8,11 @@ permalink: /FRANSA/BENODET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENODET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BENODET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BENODET';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BENODET';
+* [ (BENODET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BENODET/)
 </script>
+<script type="text/javascript">

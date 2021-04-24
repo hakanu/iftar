@@ -8,10 +8,11 @@ permalink: /VANUATU/PORT-VILA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORT-VILA, VANUATU) için iftar ve namaz vakitleri](/VANUATU/PORT-VILA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VANUATU';
+
   var GLOBAL_CITY = 'PORT-VILA';
+  var GLOBAL_COUNTRY = 'VANUATU';
   var GLOBAL_STATE = 'PORT-VILA';
+* [ (PORT-VILA, VANUATU) için iftar ve namaz vakitleri](/VANUATU/PORT-VILA/)
 </script>
+<script type="text/javascript">

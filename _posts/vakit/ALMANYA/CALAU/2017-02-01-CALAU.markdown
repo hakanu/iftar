@@ -8,10 +8,11 @@ permalink: /ALMANYA/CALAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CALAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'CALAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'CALAU';
+* [ (CALAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CALAU/)
 </script>
+<script type="text/javascript">

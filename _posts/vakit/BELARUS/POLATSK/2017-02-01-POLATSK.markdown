@@ -8,10 +8,11 @@ permalink: /BELARUS/POLATSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POLATSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/POLATSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'POLATSK';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'POLATSK';
+* [ (POLATSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/POLATSK/)
 </script>
+<script type="text/javascript">

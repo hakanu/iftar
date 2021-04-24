@@ -8,10 +8,11 @@ permalink: /KUBA/NUEVA GERONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUEVA_GERONA, KUBA) için iftar ve namaz vakitleri](/KUBA/NUEVA_GERONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'NUEVA GERONA';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'NUEVA GERONA';
+* [ (NUEVA_GERONA, KUBA) için iftar ve namaz vakitleri](/KUBA/NUEVA_GERONA/)
 </script>
+<script type="text/javascript">

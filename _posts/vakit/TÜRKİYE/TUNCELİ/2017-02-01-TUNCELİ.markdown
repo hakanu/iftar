@@ -8,16 +8,17 @@ permalink: /TÜRKİYE/TUNCELİ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'TUNCELİ';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'TUNCELİ';
+* [HOZAT (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/HOZAT)
 * [NAZİMİYE (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/NAZİMİYE)
+* [OVACIK (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/OVACIK)
+* [PERTEK (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/PERTEK)
+* [PÜLÜMÜR (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/PÜLÜMÜR)
 * [TUNCELİ (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/TUNCELİ)
 * [ÇEMİŞGEZEK (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/ÇEMİŞGEZEK)
-* [PÜLÜMÜR (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/PÜLÜMÜR)
-* [HOZAT (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/HOZAT)
-* [PERTEK (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/PERTEK)
-* [OVACIK (TUNCELİ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/TUNCELİ/OVACIK)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'TUNCELİ';
-  var GLOBAL_STATE = 'TUNCELİ';
 </script>
+<script type="text/javascript">

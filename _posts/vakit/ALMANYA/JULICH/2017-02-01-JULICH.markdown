@@ -8,10 +8,11 @@ permalink: /ALMANYA/JULICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JULICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/JULICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'JULICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'JULICH';
+* [ (JULICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/JULICH/)
 </script>
+<script type="text/javascript">

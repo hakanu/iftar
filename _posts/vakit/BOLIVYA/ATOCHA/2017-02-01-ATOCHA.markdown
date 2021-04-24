@@ -8,10 +8,11 @@ permalink: /BOLIVYA/ATOCHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATOCHA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/ATOCHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'ATOCHA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'ATOCHA';
+* [ (ATOCHA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/ATOCHA/)
 </script>
+<script type="text/javascript">

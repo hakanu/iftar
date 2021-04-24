@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/AK BULAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AK_BULAK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AK_BULAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'AK BULAK';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'AK BULAK';
+* [ (AK_BULAK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/AK_BULAK/)
 </script>
+<script type="text/javascript">

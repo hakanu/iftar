@@ -8,10 +8,11 @@ permalink: /ALMANYA/WAGENFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAGENFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAGENFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WAGENFELD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WAGENFELD';
+* [ (WAGENFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAGENFELD/)
 </script>
+<script type="text/javascript">

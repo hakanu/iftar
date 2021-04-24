@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/SOLEDAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOLEDAD, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SOLEDAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'SOLEDAD';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'SOLEDAD';
+* [ (SOLEDAD, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SOLEDAD/)
 </script>
+<script type="text/javascript">

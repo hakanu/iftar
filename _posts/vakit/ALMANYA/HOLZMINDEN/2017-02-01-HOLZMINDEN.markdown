@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOLZMINDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLZMINDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOLZMINDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOLZMINDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOLZMINDEN';
+* [ (HOLZMINDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOLZMINDEN/)
 </script>
+<script type="text/javascript">

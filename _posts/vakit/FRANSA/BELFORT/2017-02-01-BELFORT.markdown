@@ -8,10 +8,11 @@ permalink: /FRANSA/BELFORT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELFORT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BELFORT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BELFORT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BELFORT';
+* [ (BELFORT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BELFORT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /IRAN/HURREMABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HURREMABAD, IRAN) için iftar ve namaz vakitleri](/IRAN/HURREMABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'HURREMABAD';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'HURREMABAD';
+* [ (HURREMABAD, IRAN) için iftar ve namaz vakitleri](/IRAN/HURREMABAD/)
 </script>
+<script type="text/javascript">

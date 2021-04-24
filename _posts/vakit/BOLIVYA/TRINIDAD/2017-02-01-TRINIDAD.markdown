@@ -8,10 +8,11 @@ permalink: /BOLIVYA/TRINIDAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRINIDAD, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/TRINIDAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'TRINIDAD';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'TRINIDAD';
+* [ (TRINIDAD, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/TRINIDAD/)
 </script>
+<script type="text/javascript">

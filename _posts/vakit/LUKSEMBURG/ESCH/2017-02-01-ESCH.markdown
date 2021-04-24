@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/ESCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESCH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/ESCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'ESCH';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'ESCH';
+* [ (ESCH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/ESCH/)
 </script>
+<script type="text/javascript">

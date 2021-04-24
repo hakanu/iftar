@@ -8,10 +8,11 @@ permalink: /BELCIKA/LAUWE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUWE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LAUWE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LAUWE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LAUWE';
+* [ (LAUWE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LAUWE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/SERPUKHOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SERPUKHOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SERPUKHOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SERPUKHOV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SERPUKHOV';
+* [ (SERPUKHOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SERPUKHOV/)
 </script>
+<script type="text/javascript">

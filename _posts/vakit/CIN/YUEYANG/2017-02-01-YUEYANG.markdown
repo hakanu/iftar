@@ -8,10 +8,11 @@ permalink: /CIN/YUEYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YUEYANG, CIN) için iftar ve namaz vakitleri](/CIN/YUEYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YUEYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YUEYANG';
+* [ (YUEYANG, CIN) için iftar ve namaz vakitleri](/CIN/YUEYANG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/MANGIT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANGIT_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/MANGIT_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'MANGIT ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'MANGIT ';
+* [ (MANGIT_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/MANGIT_/)
 </script>
+<script type="text/javascript">

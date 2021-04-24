@@ -8,10 +8,11 @@ permalink: /FRANSA/BLOIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLOIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BLOIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BLOIS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BLOIS';
+* [ (BLOIS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BLOIS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/VIAMAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIAMAO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VIAMAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'VIAMAO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'VIAMAO';
+* [ (VIAMAO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VIAMAO/)
 </script>
+<script type="text/javascript">

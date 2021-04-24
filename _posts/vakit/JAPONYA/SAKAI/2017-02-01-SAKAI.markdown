@@ -8,10 +8,11 @@ permalink: /JAPONYA/SAKAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAKAI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SAKAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SAKAI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SAKAI';
+* [ (SAKAI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SAKAI/)
 </script>
+<script type="text/javascript">

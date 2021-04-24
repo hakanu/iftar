@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERSBRUCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERSBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERSBRUCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERSBRUCK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERSBRUCK';
+* [ (HERSBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERSBRUCK/)
 </script>
+<script type="text/javascript">

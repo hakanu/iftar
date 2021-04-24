@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/FURSTENFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURSTENFELD, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FURSTENFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'FURSTENFELD';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'FURSTENFELD';
+* [ (FURSTENFELD, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FURSTENFELD/)
 </script>
+<script type="text/javascript">

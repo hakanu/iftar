@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SUSTEREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUSTEREN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SUSTEREN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SUSTEREN ';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SUSTEREN ';
+* [ (SUSTEREN_, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SUSTEREN_/)
 </script>
+<script type="text/javascript">

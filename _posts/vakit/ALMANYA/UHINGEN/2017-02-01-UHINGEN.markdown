@@ -8,10 +8,11 @@ permalink: /ALMANYA/UHINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UHINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UHINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UHINGEN';
+* [ (UHINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UHINGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUCHOLZ IN DER N_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCHOLZ_IN_DER_N_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCHOLZ_IN_DER_N_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUCHOLZ IN DER N_';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUCHOLZ IN DER N_';
+* [ (BUCHOLZ_IN_DER_N_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCHOLZ_IN_DER_N_/)
 </script>
+<script type="text/javascript">

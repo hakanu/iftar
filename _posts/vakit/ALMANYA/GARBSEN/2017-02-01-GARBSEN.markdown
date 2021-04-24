@@ -8,10 +8,11 @@ permalink: /ALMANYA/GARBSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GARBSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GARBSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GARBSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GARBSEN';
+* [ (GARBSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GARBSEN/)
 </script>
+<script type="text/javascript">

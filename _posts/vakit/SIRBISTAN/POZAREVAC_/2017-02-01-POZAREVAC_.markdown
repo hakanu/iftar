@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/POZAREVAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POZAREVAC_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/POZAREVAC_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'POZAREVAC ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'POZAREVAC ';
+* [ (POZAREVAC_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/POZAREVAC_/)
 </script>
+<script type="text/javascript">

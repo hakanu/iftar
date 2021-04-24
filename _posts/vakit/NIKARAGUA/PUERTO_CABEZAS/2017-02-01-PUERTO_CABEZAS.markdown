@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/PUERTO CABEZAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_CABEZAS, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/PUERTO_CABEZAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'PUERTO CABEZAS';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'PUERTO CABEZAS';
+* [ (PUERTO_CABEZAS, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/PUERTO_CABEZAS/)
 </script>
+<script type="text/javascript">

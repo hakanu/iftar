@@ -8,10 +8,11 @@ permalink: /ALMANYA/KONIGHOFEN IM GRABFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONIGHOFEN_IM_GRABFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONIGHOFEN_IM_GRABFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KONIGHOFEN IM GRABFELD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KONIGHOFEN IM GRABFELD';
+* [ (KONIGHOFEN_IM_GRABFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONIGHOFEN_IM_GRABFELD/)
 </script>
+<script type="text/javascript">

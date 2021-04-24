@@ -8,10 +8,11 @@ permalink: /ALMANYA/OSTERODE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [HARZ (OSTERODE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTERODE/HARZ)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OSTERODE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OSTERODE';
+* [HARZ (OSTERODE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTERODE/HARZ)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MALI/SEGOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEGOU, MALI) için iftar ve namaz vakitleri](/MALI/SEGOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALI';
+
   var GLOBAL_CITY = 'SEGOU';
+  var GLOBAL_COUNTRY = 'MALI';
   var GLOBAL_STATE = 'SEGOU';
+* [ (SEGOU, MALI) için iftar ve namaz vakitleri](/MALI/SEGOU/)
 </script>
+<script type="text/javascript">

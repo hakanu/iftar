@@ -8,10 +8,11 @@ permalink: /SILI/TALCAHUANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TALCAHUANO, SILI) için iftar ve namaz vakitleri](/SILI/TALCAHUANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'TALCAHUANO';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'TALCAHUANO';
+* [ (TALCAHUANO, SILI) için iftar ve namaz vakitleri](/SILI/TALCAHUANO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD OLDESLOE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_OLDESLOE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_OLDESLOE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD OLDESLOE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD OLDESLOE';
+* [ (BAD_OLDESLOE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_OLDESLOE/)
 </script>
+<script type="text/javascript">

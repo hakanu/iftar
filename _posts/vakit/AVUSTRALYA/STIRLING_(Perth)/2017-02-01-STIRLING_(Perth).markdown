@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/STIRLING (Perth)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STIRLING_(Perth), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/STIRLING_(Perth)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'STIRLING (Perth)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'STIRLING (Perth)';
+* [ (STIRLING_(Perth), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/STIRLING_(Perth)/)
 </script>
+<script type="text/javascript">

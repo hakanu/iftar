@@ -8,10 +8,11 @@ permalink: /FRANSA/LE NEUBOURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_NEUBOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_NEUBOURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE NEUBOURG';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE NEUBOURG';
+* [ (LE_NEUBOURG, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_NEUBOURG/)
 </script>
+<script type="text/javascript">

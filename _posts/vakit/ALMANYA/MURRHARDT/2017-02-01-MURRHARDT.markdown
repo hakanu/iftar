@@ -8,10 +8,11 @@ permalink: /ALMANYA/MURRHARDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURRHARDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MURRHARDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MURRHARDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MURRHARDT';
+* [ (MURRHARDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MURRHARDT/)
 </script>
+<script type="text/javascript">

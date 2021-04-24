@@ -8,10 +8,11 @@ permalink: /INGILTERE/GLENROTHES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLENROTHES, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GLENROTHES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'GLENROTHES';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'GLENROTHES';
+* [ (GLENROTHES, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/GLENROTHES/)
 </script>
+<script type="text/javascript">

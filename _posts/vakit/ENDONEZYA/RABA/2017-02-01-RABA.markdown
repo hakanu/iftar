@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/RABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RABA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/RABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'RABA';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'RABA';
+* [ (RABA, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/RABA/)
 </script>
+<script type="text/javascript">

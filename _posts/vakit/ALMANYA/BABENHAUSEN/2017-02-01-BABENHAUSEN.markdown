@@ -8,11 +8,12 @@ permalink: /ALMANYA/BABENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'BABENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_STATE = 'BABENHAUSEN';
 * [BAVAIRA (BABENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BABENHAUSEN/BAVAIRA)
 * [HESSEN (BABENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BABENHAUSEN/HESSEN)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
-  var GLOBAL_CITY = 'BABENHAUSEN';
-  var GLOBAL_STATE = 'BABENHAUSEN';
 </script>
+<script type="text/javascript">

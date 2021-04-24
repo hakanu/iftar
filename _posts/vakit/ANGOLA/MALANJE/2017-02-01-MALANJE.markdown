@@ -8,10 +8,11 @@ permalink: /ANGOLA/MALANJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALANJE, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/MALANJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'MALANJE';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'MALANJE';
+* [ (MALANJE, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/MALANJE/)
 </script>
+<script type="text/javascript">

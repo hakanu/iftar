@@ -8,10 +8,11 @@ permalink: /VIETNAM/RACH GIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RACH_GIA, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/RACH_GIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'RACH GIA';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'RACH GIA';
+* [ (RACH_GIA, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/RACH_GIA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/VOLOGDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOLOGDA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLOGDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VOLOGDA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VOLOGDA';
+* [ (VOLOGDA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOLOGDA/)
 </script>
+<script type="text/javascript">

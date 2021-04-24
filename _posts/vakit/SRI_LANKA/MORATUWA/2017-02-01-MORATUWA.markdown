@@ -8,10 +8,11 @@ permalink: /SRI LANKA/MORATUWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORATUWA, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MORATUWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SRI LANKA';
+
   var GLOBAL_CITY = 'MORATUWA';
+  var GLOBAL_COUNTRY = 'SRI LANKA';
   var GLOBAL_STATE = 'MORATUWA';
+* [ (MORATUWA, SRI_LANKA) için iftar ve namaz vakitleri](/SRI_LANKA/MORATUWA/)
 </script>
+<script type="text/javascript">

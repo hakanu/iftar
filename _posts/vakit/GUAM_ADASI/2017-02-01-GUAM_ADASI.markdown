@@ -8,4 +8,5 @@ permalink: /GUAM_ADASI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [AGANA (GUAM_ADASI) için iftar ve namaz vakitleri](/GUAM_ADASI/AGANA)

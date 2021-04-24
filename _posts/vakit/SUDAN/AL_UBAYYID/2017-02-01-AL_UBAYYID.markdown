@@ -8,10 +8,11 @@ permalink: /SUDAN/AL UBAYYID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_UBAYYID, SUDAN) için iftar ve namaz vakitleri](/SUDAN/AL_UBAYYID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SUDAN';
+
   var GLOBAL_CITY = 'AL UBAYYID';
+  var GLOBAL_COUNTRY = 'SUDAN';
   var GLOBAL_STATE = 'AL UBAYYID';
+* [ (AL_UBAYYID, SUDAN) için iftar ve namaz vakitleri](/SUDAN/AL_UBAYYID/)
 </script>
+<script type="text/javascript">

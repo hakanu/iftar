@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MATAMOROS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATAMOROS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MATAMOROS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MATAMOROS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MATAMOROS';
+* [ (MATAMOROS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MATAMOROS/)
 </script>
+<script type="text/javascript">

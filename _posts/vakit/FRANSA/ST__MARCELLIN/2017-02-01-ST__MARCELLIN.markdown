@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_ MARCELLIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__MARCELLIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__MARCELLIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_ MARCELLIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_ MARCELLIN';
+* [ (ST__MARCELLIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__MARCELLIN/)
 </script>
+<script type="text/javascript">

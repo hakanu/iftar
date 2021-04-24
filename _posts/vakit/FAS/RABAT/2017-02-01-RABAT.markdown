@@ -8,10 +8,11 @@ permalink: /FAS/RABAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RABAT, FAS) için iftar ve namaz vakitleri](/FAS/RABAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'RABAT';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'RABAT';
+* [ (RABAT, FAS) için iftar ve namaz vakitleri](/FAS/RABAT/)
 </script>
+<script type="text/javascript">

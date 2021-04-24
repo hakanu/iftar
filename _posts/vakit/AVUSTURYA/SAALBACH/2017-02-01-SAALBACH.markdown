@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SAALBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAALBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SAALBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SAALBACH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SAALBACH';
+* [ (SAALBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SAALBACH/)
 </script>
+<script type="text/javascript">

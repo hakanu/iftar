@@ -8,10 +8,11 @@ permalink: /KAMERUN/NKONGSAMBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NKONGSAMBA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/NKONGSAMBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMERUN';
+
   var GLOBAL_CITY = 'NKONGSAMBA';
+  var GLOBAL_COUNTRY = 'KAMERUN';
   var GLOBAL_STATE = 'NKONGSAMBA';
+* [ (NKONGSAMBA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/NKONGSAMBA/)
 </script>
+<script type="text/javascript">

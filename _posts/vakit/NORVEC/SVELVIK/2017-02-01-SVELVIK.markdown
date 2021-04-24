@@ -8,10 +8,11 @@ permalink: /NORVEC/SVELVIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SVELVIK, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SVELVIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SVELVIK';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SVELVIK';
+* [ (SVELVIK, NORVEC) için iftar ve namaz vakitleri](/NORVEC/SVELVIK/)
 </script>
+<script type="text/javascript">

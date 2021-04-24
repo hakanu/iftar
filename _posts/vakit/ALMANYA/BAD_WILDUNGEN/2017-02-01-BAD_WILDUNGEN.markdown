@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD WILDUNGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_WILDUNGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_WILDUNGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD WILDUNGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD WILDUNGEN';
+* [ (BAD_WILDUNGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_WILDUNGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MALEZYA/JOHOR BAHARU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JOHOR_BAHARU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/JOHOR_BAHARU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'JOHOR BAHARU';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'JOHOR BAHARU';
+* [ (JOHOR_BAHARU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/JOHOR_BAHARU/)
 </script>
+<script type="text/javascript">

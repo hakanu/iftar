@@ -8,10 +8,11 @@ permalink: /MALEZYA/GEORGE TOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GEORGE_TOWN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/GEORGE_TOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'GEORGE TOWN';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'GEORGE TOWN';
+* [ (GEORGE_TOWN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/GEORGE_TOWN/)
 </script>
+<script type="text/javascript">

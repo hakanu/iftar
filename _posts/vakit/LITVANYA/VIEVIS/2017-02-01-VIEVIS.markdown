@@ -8,10 +8,11 @@ permalink: /LITVANYA/VIEVIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIEVIS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/VIEVIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'VIEVIS';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'VIEVIS';
+* [ (VIEVIS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/VIEVIS/)
 </script>
+<script type="text/javascript">

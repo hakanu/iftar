@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZEEVOLDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZEEVOLDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZEEVOLDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZEEVOLDE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZEEVOLDE';
+* [ (ZEEVOLDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZEEVOLDE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CEZAYIR/BLIDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLIDA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BLIDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'BLIDA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'BLIDA';
+* [ (BLIDA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/BLIDA/)
 </script>
+<script type="text/javascript">

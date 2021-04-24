@@ -8,10 +8,11 @@ permalink: /ISVICRE/HEIDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEIDEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HEIDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'HEIDEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'HEIDEN';
+* [ (HEIDEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HEIDEN/)
 </script>
+<script type="text/javascript">

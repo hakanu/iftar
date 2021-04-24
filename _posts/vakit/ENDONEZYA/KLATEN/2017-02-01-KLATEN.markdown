@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/KLATEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLATEN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/KLATEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'KLATEN';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'KLATEN';
+* [ (KLATEN, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/KLATEN/)
 </script>
+<script type="text/javascript">

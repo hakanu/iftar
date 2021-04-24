@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/TRIKALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRIKALA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/TRIKALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'TRIKALA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'TRIKALA';
+* [ (TRIKALA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/TRIKALA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MISIR/SUHAJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUHAJ, MISIR) için iftar ve namaz vakitleri](/MISIR/SUHAJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'SUHAJ';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'SUHAJ';
+* [ (SUHAJ, MISIR) için iftar ve namaz vakitleri](/MISIR/SUHAJ/)
 </script>
+<script type="text/javascript">

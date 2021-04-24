@@ -8,10 +8,11 @@ permalink: /HONG KONG/VICTORIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VICTORIA, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/VICTORIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONG KONG';
+
   var GLOBAL_CITY = 'VICTORIA';
+  var GLOBAL_COUNTRY = 'HONG KONG';
   var GLOBAL_STATE = 'VICTORIA';
+* [ (VICTORIA, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/VICTORIA/)
 </script>
+<script type="text/javascript">

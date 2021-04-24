@@ -8,10 +8,11 @@ permalink: /BREZILYA/CONTAGEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONTAGEM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CONTAGEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CONTAGEM';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CONTAGEM';
+* [ (CONTAGEM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CONTAGEM/)
 </script>
+<script type="text/javascript">

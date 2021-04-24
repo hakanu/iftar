@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/OLMALIQ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLMALIQ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/OLMALIQ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'OLMALIQ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'OLMALIQ';
+* [ (OLMALIQ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/OLMALIQ/)
 </script>
+<script type="text/javascript">

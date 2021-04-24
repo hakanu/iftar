@@ -8,10 +8,11 @@ permalink: /VIETNAM/PHAN THIET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PHAN_THIET, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/PHAN_THIET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'PHAN THIET';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'PHAN THIET';
+* [ (PHAN_THIET, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/PHAN_THIET/)
 </script>
+<script type="text/javascript">

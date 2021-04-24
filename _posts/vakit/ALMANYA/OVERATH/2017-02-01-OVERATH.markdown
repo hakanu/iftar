@@ -8,10 +8,11 @@ permalink: /ALMANYA/OVERATH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OVERATH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OVERATH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OVERATH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OVERATH';
+* [ (OVERATH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OVERATH/)
 </script>
+<script type="text/javascript">

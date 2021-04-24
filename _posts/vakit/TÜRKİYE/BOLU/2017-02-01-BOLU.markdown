@@ -8,18 +8,19 @@ permalink: /TÜRKİYE/BOLU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SEBEN (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/SEBEN)
-* [KIBRISCIK (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/KIBRISCIK)
-* [MENGEN (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/MENGEN)
-* [MUDURNU (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/MUDURNU)
-* [YENİÇAĞA (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/YENİÇAĞA)
+
+
+  var GLOBAL_CITY = 'BOLU';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'BOLU';
+* [BOLU (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/BOLU)
 * [DÖRTDİVAN (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/DÖRTDİVAN)
 * [GEREDE (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/GEREDE)
 * [GÜYNÜK (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/GÜYNÜK)
-* [BOLU (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/BOLU)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'BOLU';
-  var GLOBAL_STATE = 'BOLU';
+* [KIBRISCIK (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/KIBRISCIK)
+* [MENGEN (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/MENGEN)
+* [MUDURNU (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/MUDURNU)
+* [SEBEN (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/SEBEN)
+* [YENİÇAĞA (BOLU, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BOLU/YENİÇAĞA)
 </script>
+<script type="text/javascript">

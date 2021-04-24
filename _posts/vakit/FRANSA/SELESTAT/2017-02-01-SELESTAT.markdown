@@ -8,10 +8,11 @@ permalink: /FRANSA/SELESTAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SELESTAT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SELESTAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SELESTAT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SELESTAT';
+* [ (SELESTAT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SELESTAT/)
 </script>
+<script type="text/javascript">

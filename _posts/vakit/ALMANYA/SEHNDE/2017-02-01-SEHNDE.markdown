@@ -8,10 +8,11 @@ permalink: /ALMANYA/SEHNDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEHNDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEHNDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SEHNDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SEHNDE';
+* [ (SEHNDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEHNDE/)
 </script>
+<script type="text/javascript">

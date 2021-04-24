@@ -8,10 +8,11 @@ permalink: /ALMANYA/USINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (USINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/USINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'USINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'USINGEN';
+* [ (USINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/USINGEN/)
 </script>
+<script type="text/javascript">

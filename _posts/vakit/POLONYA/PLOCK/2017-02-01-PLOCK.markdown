@@ -8,10 +8,11 @@ permalink: /POLONYA/PLOCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLOCK, POLONYA) için iftar ve namaz vakitleri](/POLONYA/PLOCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'PLOCK';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'PLOCK';
+* [ (PLOCK, POLONYA) için iftar ve namaz vakitleri](/POLONYA/PLOCK/)
 </script>
+<script type="text/javascript">

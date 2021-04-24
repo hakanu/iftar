@@ -8,10 +8,11 @@ permalink: /ALMANYA/HAIGERLOCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAIGERLOCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAIGERLOCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HAIGERLOCH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HAIGERLOCH';
+* [ (HAIGERLOCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAIGERLOCH/)
 </script>
+<script type="text/javascript">

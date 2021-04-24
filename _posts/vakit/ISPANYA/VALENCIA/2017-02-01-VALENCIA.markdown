@@ -8,10 +8,11 @@ permalink: /ISPANYA/VALENCIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALENCIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VALENCIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'VALENCIA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'VALENCIA';
+* [ (VALENCIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VALENCIA/)
 </script>
+<script type="text/javascript">

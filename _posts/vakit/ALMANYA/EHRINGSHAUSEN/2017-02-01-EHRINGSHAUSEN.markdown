@@ -8,10 +8,11 @@ permalink: /ALMANYA/EHRINGSHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EHRINGSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EHRINGSHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EHRINGSHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EHRINGSHAUSEN';
+* [ (EHRINGSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EHRINGSHAUSEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/LANDSTUHL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANDSTUHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANDSTUHL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LANDSTUHL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LANDSTUHL';
+* [ (LANDSTUHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANDSTUHL/)
 </script>
+<script type="text/javascript">

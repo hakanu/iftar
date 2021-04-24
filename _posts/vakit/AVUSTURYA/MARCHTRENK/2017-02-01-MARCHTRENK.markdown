@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MARCHTRENK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARCHTRENK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MARCHTRENK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MARCHTRENK';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MARCHTRENK';
+* [ (MARCHTRENK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MARCHTRENK/)
 </script>
+<script type="text/javascript">

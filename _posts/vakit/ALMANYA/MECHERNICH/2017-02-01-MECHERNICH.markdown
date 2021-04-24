@@ -8,10 +8,11 @@ permalink: /ALMANYA/MECHERNICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MECHERNICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MECHERNICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MECHERNICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MECHERNICH';
+* [ (MECHERNICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MECHERNICH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/LIPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIPA, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LIPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'LIPA';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'LIPA';
+* [ (LIPA, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/LIPA/)
 </script>
+<script type="text/javascript">

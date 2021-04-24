@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TONALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TONALA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TONALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TONALA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TONALA';
+* [ (TONALA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TONALA/)
 </script>
+<script type="text/javascript">

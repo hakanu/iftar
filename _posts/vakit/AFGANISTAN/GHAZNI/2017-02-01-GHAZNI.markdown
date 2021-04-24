@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/GHAZNI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GHAZNI, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/GHAZNI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'GHAZNI';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'GHAZNI';
+* [ (GHAZNI, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/GHAZNI/)
 </script>
+<script type="text/javascript">

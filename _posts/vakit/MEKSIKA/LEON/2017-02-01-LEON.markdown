@@ -8,10 +8,11 @@ permalink: /MEKSIKA/LEON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEON, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LEON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'LEON';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'LEON';
+* [ (LEON, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LEON/)
 </script>
+<script type="text/javascript">

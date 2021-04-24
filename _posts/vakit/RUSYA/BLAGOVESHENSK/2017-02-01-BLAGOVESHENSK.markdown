@@ -8,10 +8,11 @@ permalink: /RUSYA/BLAGOVESHENSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLAGOVESHENSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BLAGOVESHENSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BLAGOVESHENSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BLAGOVESHENSK';
+* [ (BLAGOVESHENSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BLAGOVESHENSK/)
 </script>
+<script type="text/javascript">

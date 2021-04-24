@@ -8,10 +8,11 @@ permalink: /BREZILYA/SUMARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUMARE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SUMARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SUMARE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SUMARE';
+* [ (SUMARE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SUMARE/)
 </script>
+<script type="text/javascript">

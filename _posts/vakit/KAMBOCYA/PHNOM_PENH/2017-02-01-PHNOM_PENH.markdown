@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/PHNOM PENH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PHNOM_PENH, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PHNOM_PENH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'PHNOM PENH';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'PHNOM PENH';
+* [ (PHNOM_PENH, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/PHNOM_PENH/)
 </script>
+<script type="text/javascript">

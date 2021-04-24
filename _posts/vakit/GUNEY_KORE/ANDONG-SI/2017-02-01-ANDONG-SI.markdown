@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/ANDONG-SI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANDONG-SI, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/ANDONG-SI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'ANDONG-SI';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'ANDONG-SI';
+* [ (ANDONG-SI, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/ANDONG-SI/)
 </script>
+<script type="text/javascript">

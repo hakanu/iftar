@@ -8,10 +8,11 @@ permalink: /JAPONYA/OTSU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OTSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OTSU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OTSU';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OTSU';
+* [ (OTSU, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OTSU/)
 </script>
+<script type="text/javascript">

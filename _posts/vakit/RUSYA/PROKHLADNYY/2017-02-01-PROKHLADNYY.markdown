@@ -8,10 +8,11 @@ permalink: /RUSYA/PROKHLADNYY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PROKHLADNYY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PROKHLADNYY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PROKHLADNYY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PROKHLADNYY';
+* [ (PROKHLADNYY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PROKHLADNYY/)
 </script>
+<script type="text/javascript">

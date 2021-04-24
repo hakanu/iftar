@@ -8,10 +8,11 @@ permalink: /ITALYA/ROMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROMA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ROMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ROMA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ROMA';
+* [ (ROMA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ROMA/)
 </script>
+<script type="text/javascript">

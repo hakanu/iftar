@@ -8,10 +8,11 @@ permalink: /CAD/AM TIMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AM_TIMAN, CAD) için iftar ve namaz vakitleri](/CAD/AM_TIMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'AM TIMAN';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'AM TIMAN';
+* [ (AM_TIMAN, CAD) için iftar ve namaz vakitleri](/CAD/AM_TIMAN/)
 </script>
+<script type="text/javascript">

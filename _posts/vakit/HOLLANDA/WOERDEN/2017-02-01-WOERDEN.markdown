@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WOERDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOERDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WOERDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WOERDEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WOERDEN';
+* [ (WOERDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WOERDEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/GARDIZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GARDIZ, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/GARDIZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'GARDIZ';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'GARDIZ';
+* [ (GARDIZ, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/GARDIZ/)
 </script>
+<script type="text/javascript">

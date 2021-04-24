@@ -8,10 +8,11 @@ permalink: /ISVICRE/DAVOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAVOS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/DAVOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'DAVOS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'DAVOS';
+* [ (DAVOS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/DAVOS/)
 </script>
+<script type="text/javascript">

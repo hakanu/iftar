@@ -8,10 +8,11 @@ permalink: /LITVANYA/MARIJAMPOLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARIJAMPOLE, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/MARIJAMPOLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'MARIJAMPOLE';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'MARIJAMPOLE';
+* [ (MARIJAMPOLE, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/MARIJAMPOLE/)
 </script>
+<script type="text/javascript">

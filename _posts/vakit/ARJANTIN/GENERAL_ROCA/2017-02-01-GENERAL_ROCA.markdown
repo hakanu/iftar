@@ -8,10 +8,11 @@ permalink: /ARJANTIN/GENERAL ROCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENERAL_ROCA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GENERAL_ROCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'GENERAL ROCA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'GENERAL ROCA';
+* [ (GENERAL_ROCA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GENERAL_ROCA/)
 </script>
+<script type="text/javascript">

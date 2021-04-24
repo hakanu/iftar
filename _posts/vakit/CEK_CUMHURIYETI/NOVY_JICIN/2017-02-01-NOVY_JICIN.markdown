@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/NOVY JICIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVY_JICIN, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/NOVY_JICIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'NOVY JICIN';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'NOVY JICIN';
+* [ (NOVY_JICIN, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/NOVY_JICIN/)
 </script>
+<script type="text/javascript">

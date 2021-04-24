@@ -8,10 +8,11 @@ permalink: /ISVEC/VAXJO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VAXJO, ISVEC) için iftar ve namaz vakitleri](/ISVEC/VAXJO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'VAXJO';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'VAXJO';
+* [ (VAXJO, ISVEC) için iftar ve namaz vakitleri](/ISVEC/VAXJO/)
 </script>
+<script type="text/javascript">

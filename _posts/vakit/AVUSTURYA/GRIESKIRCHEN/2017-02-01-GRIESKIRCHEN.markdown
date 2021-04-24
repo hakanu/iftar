@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GRIESKIRCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRIESKIRCHEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GRIESKIRCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GRIESKIRCHEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GRIESKIRCHEN';
+* [ (GRIESKIRCHEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GRIESKIRCHEN/)
 </script>
+<script type="text/javascript">

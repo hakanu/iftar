@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUCHLOE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUCHLOE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCHLOE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUCHLOE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUCHLOE';
+* [ (BUCHLOE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUCHLOE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /TANZANYA/ARUSHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARUSHA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ARUSHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'ARUSHA';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'ARUSHA';
+* [ (ARUSHA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/ARUSHA/)
 </script>
+<script type="text/javascript">

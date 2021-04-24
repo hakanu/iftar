@@ -8,10 +8,11 @@ permalink: /JAPONYA/FUNABASHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUNABASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUNABASHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'FUNABASHI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'FUNABASHI';
+* [ (FUNABASHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUNABASHI/)
 </script>
+<script type="text/javascript">

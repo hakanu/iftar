@@ -8,10 +8,11 @@ permalink: /FRANSA/FREYMING-MERLEBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREYMING-MERLEBACH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FREYMING-MERLEBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FREYMING-MERLEBACH';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FREYMING-MERLEBACH';
+* [ (FREYMING-MERLEBACH, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FREYMING-MERLEBACH/)
 </script>
+<script type="text/javascript">

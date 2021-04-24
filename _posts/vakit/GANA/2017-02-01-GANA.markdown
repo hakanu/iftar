@@ -8,12 +8,13 @@ permalink: /GANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [KUMASI (GANA) için iftar ve namaz vakitleri](/GANA/KUMASI)
-* [TAMALE (GANA) için iftar ve namaz vakitleri](/GANA/TAMALE)
-* [SEKONDI (GANA) için iftar ve namaz vakitleri](/GANA/SEKONDI)
+
+* [ACCRA (GANA) için iftar ve namaz vakitleri](/GANA/ACCRA)
+* [BOLGATANGA (GANA) için iftar ve namaz vakitleri](/GANA/BOLGATANGA)
 * [CAPE_COAST (GANA) için iftar ve namaz vakitleri](/GANA/CAPE_COAST)
 * [KOFORIDUA (GANA) için iftar ve namaz vakitleri](/GANA/KOFORIDUA)
+* [KUMASI (GANA) için iftar ve namaz vakitleri](/GANA/KUMASI)
+* [SEKONDI (GANA) için iftar ve namaz vakitleri](/GANA/SEKONDI)
 * [TAKORADI (GANA) için iftar ve namaz vakitleri](/GANA/TAKORADI)
-* [BOLGATANGA (GANA) için iftar ve namaz vakitleri](/GANA/BOLGATANGA)
+* [TAMALE (GANA) için iftar ve namaz vakitleri](/GANA/TAMALE)
 * [TEMA (GANA) için iftar ve namaz vakitleri](/GANA/TEMA)
-* [ACCRA (GANA) için iftar ve namaz vakitleri](/GANA/ACCRA)

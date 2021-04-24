@@ -8,10 +8,11 @@ permalink: /ALMANYA/GLAUCHAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLAUCHAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLAUCHAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GLAUCHAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GLAUCHAU';
+* [ (GLAUCHAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLAUCHAU/)
 </script>
+<script type="text/javascript">

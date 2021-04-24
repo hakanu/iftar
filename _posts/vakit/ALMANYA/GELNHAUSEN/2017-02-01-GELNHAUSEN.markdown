@@ -8,10 +8,11 @@ permalink: /ALMANYA/GELNHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GELNHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELNHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GELNHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GELNHAUSEN';
+* [ (GELNHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELNHAUSEN/)
 </script>
+<script type="text/javascript">

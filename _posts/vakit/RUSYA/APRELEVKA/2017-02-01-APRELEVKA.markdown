@@ -8,10 +8,11 @@ permalink: /RUSYA/APRELEVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APRELEVKA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/APRELEVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'APRELEVKA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'APRELEVKA';
+* [ (APRELEVKA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/APRELEVKA/)
 </script>
+<script type="text/javascript">

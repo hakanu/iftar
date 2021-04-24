@@ -8,10 +8,11 @@ permalink: /MACARISTAN/TATABANYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TATABANYA_, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/TATABANYA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'TATABANYA ';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'TATABANYA ';
+* [ (TATABANYA_, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/TATABANYA_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/AHLEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AHLEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHLEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AHLEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AHLEN';
+* [ (AHLEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHLEN/)
 </script>
+<script type="text/javascript">

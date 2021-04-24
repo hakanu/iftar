@@ -8,10 +8,11 @@ permalink: /ALMANYA/PAPENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAPENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PAPENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PAPENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PAPENBURG';
+* [ (PAPENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PAPENBURG/)
 </script>
+<script type="text/javascript">

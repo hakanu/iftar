@@ -8,10 +8,11 @@ permalink: /ITALYA/VARESE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VARESE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VARESE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VARESE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VARESE';
+* [ (VARESE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VARESE/)
 </script>
+<script type="text/javascript">

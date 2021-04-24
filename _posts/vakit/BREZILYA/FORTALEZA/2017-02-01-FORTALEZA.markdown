@@ -8,10 +8,11 @@ permalink: /BREZILYA/FORTALEZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORTALEZA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/FORTALEZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'FORTALEZA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'FORTALEZA';
+* [ (FORTALEZA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/FORTALEZA/)
 </script>
+<script type="text/javascript">

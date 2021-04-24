@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/BATSUMBER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATSUMBER, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BATSUMBER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'BATSUMBER';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'BATSUMBER';
+* [ (BATSUMBER, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BATSUMBER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MACARISTAN/NAGYKOROS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGYKOROS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/NAGYKOROS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'NAGYKOROS';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'NAGYKOROS';
+* [ (NAGYKOROS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/NAGYKOROS/)
 </script>
+<script type="text/javascript">

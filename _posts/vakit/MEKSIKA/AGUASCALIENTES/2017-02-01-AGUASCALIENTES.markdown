@@ -8,10 +8,11 @@ permalink: /MEKSIKA/AGUASCALIENTES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGUASCALIENTES, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/AGUASCALIENTES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'AGUASCALIENTES';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'AGUASCALIENTES';
+* [ (AGUASCALIENTES, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/AGUASCALIENTES/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PAKISTAN/KASUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASUR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/KASUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'KASUR';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'KASUR';
+* [ (KASUR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/KASUR/)
 </script>
+<script type="text/javascript">

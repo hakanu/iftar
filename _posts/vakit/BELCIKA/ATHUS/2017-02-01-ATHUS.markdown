@@ -8,10 +8,11 @@ permalink: /BELCIKA/ATHUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATHUS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ATHUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ATHUS';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ATHUS';
+* [ (ATHUS, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ATHUS/)
 </script>
+<script type="text/javascript">

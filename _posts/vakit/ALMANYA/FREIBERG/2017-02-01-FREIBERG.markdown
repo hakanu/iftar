@@ -8,10 +8,11 @@ permalink: /ALMANYA/FREIBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREIBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREIBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FREIBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FREIBERG';
+* [ (FREIBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREIBERG/)
 </script>
+<script type="text/javascript">

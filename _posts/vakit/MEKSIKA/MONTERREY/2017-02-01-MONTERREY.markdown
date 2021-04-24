@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MONTERREY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTERREY, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MONTERREY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MONTERREY';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MONTERREY';
+* [ (MONTERREY, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MONTERREY/)
 </script>
+<script type="text/javascript">

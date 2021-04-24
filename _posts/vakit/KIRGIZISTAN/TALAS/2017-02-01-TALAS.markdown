@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/TALAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TALAS, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/TALAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'TALAS';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'TALAS';
+* [ (TALAS, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/TALAS/)
 </script>
+<script type="text/javascript">

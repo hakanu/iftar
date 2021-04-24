@@ -8,10 +8,11 @@ permalink: /CIN/JINING ( Shondog )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JINING_(_Shondog_), CIN) için iftar ve namaz vakitleri](/CIN/JINING_(_Shondog_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'JINING ( Shondog )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'JINING ( Shondog )';
+* [ (JINING_(_Shondog_), CIN) için iftar ve namaz vakitleri](/CIN/JINING_(_Shondog_)/)
 </script>
+<script type="text/javascript">

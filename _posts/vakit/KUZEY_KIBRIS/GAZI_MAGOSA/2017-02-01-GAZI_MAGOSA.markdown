@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/GAZI MAGOSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAZI_MAGOSA, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GAZI_MAGOSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'GAZI MAGOSA';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'GAZI MAGOSA';
+* [ (GAZI_MAGOSA, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GAZI_MAGOSA/)
 </script>
+<script type="text/javascript">

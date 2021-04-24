@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CIUDAD DEL CARMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_DEL_CARMEN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_DEL_CARMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CIUDAD DEL CARMEN';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CIUDAD DEL CARMEN';
+* [ (CIUDAD_DEL_CARMEN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_DEL_CARMEN/)
 </script>
+<script type="text/javascript">

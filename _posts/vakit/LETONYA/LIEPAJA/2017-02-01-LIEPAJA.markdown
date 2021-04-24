@@ -8,10 +8,11 @@ permalink: /LETONYA/LIEPAJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIEPAJA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/LIEPAJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'LIEPAJA';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'LIEPAJA';
+* [ (LIEPAJA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/LIEPAJA/)
 </script>
+<script type="text/javascript">

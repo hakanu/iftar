@@ -8,10 +8,11 @@ permalink: /ISPANYA/CORDOBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORDOBA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CORDOBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'CORDOBA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'CORDOBA';
+* [ (CORDOBA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CORDOBA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BAIERHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAIERHAM, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BAIERHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BAIERHAM';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BAIERHAM';
+* [ (BAIERHAM, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BAIERHAM/)
 </script>
+<script type="text/javascript">

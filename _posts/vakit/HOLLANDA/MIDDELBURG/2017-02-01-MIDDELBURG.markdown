@@ -8,10 +8,11 @@ permalink: /HOLLANDA/MIDDELBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIDDELBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MIDDELBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'MIDDELBURG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'MIDDELBURG';
+* [ (MIDDELBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/MIDDELBURG/)
 </script>
+<script type="text/javascript">

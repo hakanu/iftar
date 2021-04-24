@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DEVENTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEVENTER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEVENTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DEVENTER';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DEVENTER';
+* [ (DEVENTER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEVENTER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/CIMAHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIMAHI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/CIMAHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'CIMAHI';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'CIMAHI';
+* [ (CIMAHI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/CIMAHI/)
 </script>
+<script type="text/javascript">

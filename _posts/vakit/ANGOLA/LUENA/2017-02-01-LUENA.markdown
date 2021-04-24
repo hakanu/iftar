@@ -8,10 +8,11 @@ permalink: /ANGOLA/LUENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUENA, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/LUENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'LUENA';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'LUENA';
+* [ (LUENA, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/LUENA/)
 </script>
+<script type="text/javascript">

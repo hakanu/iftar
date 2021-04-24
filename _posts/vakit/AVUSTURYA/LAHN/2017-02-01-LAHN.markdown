@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LAHN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAHN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LAHN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LAHN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LAHN';
+* [ (LAHN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LAHN/)
 </script>
+<script type="text/javascript">

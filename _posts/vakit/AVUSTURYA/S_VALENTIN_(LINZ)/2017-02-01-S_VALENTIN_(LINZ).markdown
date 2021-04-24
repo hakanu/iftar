@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/S_VALENTIN (LINZ)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (S_VALENTIN_(LINZ), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/S_VALENTIN_(LINZ)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'S_VALENTIN (LINZ)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'S_VALENTIN (LINZ)';
+* [ (S_VALENTIN_(LINZ), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/S_VALENTIN_(LINZ)/)
 </script>
+<script type="text/javascript">

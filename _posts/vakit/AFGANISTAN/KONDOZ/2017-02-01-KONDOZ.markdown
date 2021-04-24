@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/KONDOZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONDOZ, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/KONDOZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'KONDOZ';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'KONDOZ';
+* [ (KONDOZ, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/KONDOZ/)
 </script>
+<script type="text/javascript">

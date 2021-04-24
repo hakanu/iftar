@@ -8,10 +8,11 @@ permalink: /FILIPINLER/ILOILO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ILOILO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ILOILO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'ILOILO';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'ILOILO';
+* [ (ILOILO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ILOILO/)
 </script>
+<script type="text/javascript">

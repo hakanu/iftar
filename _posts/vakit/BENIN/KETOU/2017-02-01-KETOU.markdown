@@ -8,10 +8,11 @@ permalink: /BENIN/KETOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KETOU, BENIN) için iftar ve namaz vakitleri](/BENIN/KETOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'KETOU';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'KETOU';
+* [ (KETOU, BENIN) için iftar ve namaz vakitleri](/BENIN/KETOU/)
 </script>
+<script type="text/javascript">

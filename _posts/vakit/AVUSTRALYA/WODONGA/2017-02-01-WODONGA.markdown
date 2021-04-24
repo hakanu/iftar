@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WODONGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WODONGA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WODONGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WODONGA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WODONGA';
+* [ (WODONGA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WODONGA/)
 </script>
+<script type="text/javascript">

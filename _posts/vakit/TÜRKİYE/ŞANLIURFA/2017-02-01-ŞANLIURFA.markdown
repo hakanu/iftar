@@ -8,20 +8,21 @@ permalink: /TÜRKİYE/ŞANLIURFA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [CEYLANPINAR (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/CEYLANPINAR)
-* [ŞANLIURFA (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/ŞANLIURFA)
-* [SURUÇ (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/SURUÇ)
-* [SİVEREK (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/SİVEREK)
+
+
+  var GLOBAL_CITY = 'ŞANLIURFA';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'ŞANLIURFA';
 * [AKÇAKALE (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/AKÇAKALE)
 * [BOZOVA (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/BOZOVA)
-* [HALFETİ (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HALFETİ)
 * [BİRECİK (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/BİRECİK)
-* [HİLVAN (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HİLVAN)
-* [VİRANŞEHİR (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/VİRANŞEHİR)
+* [CEYLANPINAR (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/CEYLANPINAR)
+* [HALFETİ (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HALFETİ)
 * [HARRAN (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HARRAN)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ŞANLIURFA';
-  var GLOBAL_STATE = 'ŞANLIURFA';
+* [HİLVAN (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/HİLVAN)
+* [SURUÇ (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/SURUÇ)
+* [SİVEREK (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/SİVEREK)
+* [VİRANŞEHİR (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/VİRANŞEHİR)
+* [ŞANLIURFA (ŞANLIURFA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ŞANLIURFA/ŞANLIURFA)
 </script>
+<script type="text/javascript">

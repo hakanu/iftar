@@ -8,10 +8,11 @@ permalink: /CIN/CHANGSHU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANGSHU, CIN) için iftar ve namaz vakitleri](/CIN/CHANGSHU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHANGSHU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHANGSHU';
+* [ (CHANGSHU, CIN) için iftar ve namaz vakitleri](/CIN/CHANGSHU/)
 </script>
+<script type="text/javascript">

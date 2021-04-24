@@ -8,10 +8,11 @@ permalink: /TAYLAND/NAKORN PHANOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAKORN_PHANOM, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/NAKORN_PHANOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'NAKORN PHANOM';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'NAKORN PHANOM';
+* [ (NAKORN_PHANOM, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/NAKORN_PHANOM/)
 </script>
+<script type="text/javascript">

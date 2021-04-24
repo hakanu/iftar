@@ -8,10 +8,11 @@ permalink: /RUSYA/NYURBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NYURBA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NYURBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NYURBA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NYURBA';
+* [ (NYURBA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NYURBA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BIELEFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIELEFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIELEFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BIELEFELD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BIELEFELD';
+* [ (BIELEFELD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIELEFELD/)
 </script>
+<script type="text/javascript">

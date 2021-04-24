@@ -8,10 +8,11 @@ permalink: /ALMANYA/SIEGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIEGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIEGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SIEGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SIEGEN';
+* [ (SIEGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SIEGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/OTOCAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OTOCAC, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/OTOCAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'OTOCAC';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'OTOCAC';
+* [ (OTOCAC, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/OTOCAC/)
 </script>
+<script type="text/javascript">

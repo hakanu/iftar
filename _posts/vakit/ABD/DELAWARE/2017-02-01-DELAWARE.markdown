@@ -8,13 +8,14 @@ permalink: /ABD/DELAWARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'DELAWARE';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'DELAWARE';
+* [DOVER (DELAWARE, ABD) için iftar ve namaz vakitleri](/ABD/DELAWARE/DOVER)
 * [FENWICK_ISLAND (DELAWARE, ABD) için iftar ve namaz vakitleri](/ABD/DELAWARE/FENWICK_ISLAND)
 * [NEWARK (DELAWARE, ABD) için iftar ve namaz vakitleri](/ABD/DELAWARE/NEWARK)
-* [DOVER (DELAWARE, ABD) için iftar ve namaz vakitleri](/ABD/DELAWARE/DOVER)
 * [WILMINGTON (DELAWARE, ABD) için iftar ve namaz vakitleri](/ABD/DELAWARE/WILMINGTON)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'DELAWARE';
-  var GLOBAL_STATE = 'DELAWARE';
 </script>
+<script type="text/javascript">

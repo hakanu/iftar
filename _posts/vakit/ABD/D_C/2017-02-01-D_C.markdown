@@ -8,10 +8,11 @@ permalink: /ABD/D_C
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [WASHINGTON (D_C, ABD) için iftar ve namaz vakitleri](/ABD/D_C/WASHINGTON)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
+
   var GLOBAL_CITY = 'D_C';
+  var GLOBAL_COUNTRY = 'ABD';
   var GLOBAL_STATE = 'D_C';
+* [WASHINGTON (D_C, ABD) için iftar ve namaz vakitleri](/ABD/D_C/WASHINGTON)
 </script>
+<script type="text/javascript">

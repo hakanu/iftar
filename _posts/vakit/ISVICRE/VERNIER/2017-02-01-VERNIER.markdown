@@ -8,10 +8,11 @@ permalink: /ISVICRE/VERNIER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VERNIER, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/VERNIER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'VERNIER';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'VERNIER';
+* [ (VERNIER, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/VERNIER/)
 </script>
+<script type="text/javascript">

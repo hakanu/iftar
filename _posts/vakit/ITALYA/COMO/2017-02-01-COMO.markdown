@@ -8,10 +8,11 @@ permalink: /ITALYA/COMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/COMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'COMO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'COMO';
+* [ (COMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/COMO/)
 </script>
+<script type="text/javascript">

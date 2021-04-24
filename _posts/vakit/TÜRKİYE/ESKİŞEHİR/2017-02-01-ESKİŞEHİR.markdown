@@ -8,20 +8,21 @@ permalink: /TÜRKİYE/ESKİŞEHİR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SİVRİHİSAR (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/SİVRİHİSAR)
-* [ÇİFTELER (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/ÇİFTELER)
-* [BEYLİKOVA (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/BEYLİKOVA)
+
+
+  var GLOBAL_CITY = 'ESKİŞEHİR';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'ESKİŞEHİR';
 * [ALPU (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/ALPU)
-* [MİHALIÇÇIK (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/MİHALIÇÇIK)
+* [BEYLİKOVA (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/BEYLİKOVA)
+* [ESKİŞEHİR (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/ESKİŞEHİR)
 * [GÜNYÜZÜ (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/GÜNYÜZÜ)
 * [HAN (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/HAN)
 * [MAHMUDİYE (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/MAHMUDİYE)
+* [MİHALIÇÇIK (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/MİHALIÇÇIK)
 * [SEYİTGAZİ (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/SEYİTGAZİ)
-* [ESKİŞEHİR (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/ESKİŞEHİR)
+* [SİVRİHİSAR (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/SİVRİHİSAR)
+* [ÇİFTELER (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/ÇİFTELER)
 * [İNÖNÜ (ESKİŞEHİR, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/ESKİŞEHİR/İNÖNÜ)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'ESKİŞEHİR';
-  var GLOBAL_STATE = 'ESKİŞEHİR';
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BORNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORNE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BORNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BORNE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BORNE';
+* [ (BORNE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BORNE/)
 </script>
+<script type="text/javascript">

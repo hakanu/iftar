@@ -8,10 +8,11 @@ permalink: /ITALYA/IMOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IMOLA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/IMOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'IMOLA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'IMOLA';
+* [ (IMOLA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/IMOLA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ERFURT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERFURT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ERFURT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ERFURT';
+* [ (ERFURT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERFURT/)
 </script>
+<script type="text/javascript">

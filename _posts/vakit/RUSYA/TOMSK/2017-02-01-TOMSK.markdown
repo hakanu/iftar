@@ -8,10 +8,11 @@ permalink: /RUSYA/TOMSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TOMSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TOMSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TOMSK';
+* [ (TOMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TOMSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/DIMITRIYEVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIMITRIYEVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/DIMITRIYEVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'DIMITRIYEVKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'DIMITRIYEVKA';
+* [ (DIMITRIYEVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/DIMITRIYEVKA/)
 </script>
+<script type="text/javascript">

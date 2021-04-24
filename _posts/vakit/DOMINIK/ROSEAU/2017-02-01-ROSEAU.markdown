@@ -8,10 +8,11 @@ permalink: /DOMINIK/ROSEAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSEAU, DOMINIK) için iftar ve namaz vakitleri](/DOMINIK/ROSEAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK';
+
   var GLOBAL_CITY = 'ROSEAU';
+  var GLOBAL_COUNTRY = 'DOMINIK';
   var GLOBAL_STATE = 'ROSEAU';
+* [ (ROSEAU, DOMINIK) için iftar ve namaz vakitleri](/DOMINIK/ROSEAU/)
 </script>
+<script type="text/javascript">

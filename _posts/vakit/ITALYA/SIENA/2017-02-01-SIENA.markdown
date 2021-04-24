@@ -8,10 +8,11 @@ permalink: /ITALYA/SIENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIENA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SIENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SIENA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SIENA';
+* [ (SIENA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SIENA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/DILLINGEN(SAAR)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DILLINGEN(SAAR), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DILLINGEN(SAAR)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DILLINGEN(SAAR)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DILLINGEN(SAAR)';
+* [ (DILLINGEN(SAAR), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DILLINGEN(SAAR)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/UCHKULAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UCHKULAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UCHKULAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'UCHKULAN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'UCHKULAN';
+* [ (UCHKULAN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UCHKULAN/)
 </script>
+<script type="text/javascript">

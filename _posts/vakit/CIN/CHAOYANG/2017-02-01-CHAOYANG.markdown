@@ -8,10 +8,11 @@ permalink: /CIN/CHAOYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHAOYANG, CIN) için iftar ve namaz vakitleri](/CIN/CHAOYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHAOYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHAOYANG';
+* [ (CHAOYANG, CIN) için iftar ve namaz vakitleri](/CIN/CHAOYANG/)
 </script>
+<script type="text/javascript">

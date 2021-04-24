@@ -8,10 +8,11 @@ permalink: /LITVANYA/PABRADE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PABRADE, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/PABRADE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'PABRADE';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'PABRADE';
+* [ (PABRADE, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/PABRADE/)
 </script>
+<script type="text/javascript">

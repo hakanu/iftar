@@ -8,10 +8,11 @@ permalink: /LIBYA/GHAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GHAT, LIBYA) için iftar ve namaz vakitleri](/LIBYA/GHAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBYA';
+
   var GLOBAL_CITY = 'GHAT';
+  var GLOBAL_COUNTRY = 'LIBYA';
   var GLOBAL_STATE = 'GHAT';
+* [ (GHAT, LIBYA) için iftar ve namaz vakitleri](/LIBYA/GHAT/)
 </script>
+<script type="text/javascript">

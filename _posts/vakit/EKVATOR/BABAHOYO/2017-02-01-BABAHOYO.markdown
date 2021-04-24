@@ -8,10 +8,11 @@ permalink: /EKVATOR/BABAHOYO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BABAHOYO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/BABAHOYO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'BABAHOYO';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'BABAHOYO';
+* [ (BABAHOYO, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/BABAHOYO/)
 </script>
+<script type="text/javascript">

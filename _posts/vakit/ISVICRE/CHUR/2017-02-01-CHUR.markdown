@@ -8,10 +8,11 @@ permalink: /ISVICRE/CHUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHUR, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/CHUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'CHUR';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'CHUR';
+* [ (CHUR, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/CHUR/)
 </script>
+<script type="text/javascript">

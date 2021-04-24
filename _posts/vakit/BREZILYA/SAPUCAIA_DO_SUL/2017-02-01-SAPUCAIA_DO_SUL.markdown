@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAPUCAIA DO SUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAPUCAIA_DO_SUL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAPUCAIA_DO_SUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAPUCAIA DO SUL';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAPUCAIA DO SUL';
+* [ (SAPUCAIA_DO_SUL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAPUCAIA_DO_SUL/)
 </script>
+<script type="text/javascript">

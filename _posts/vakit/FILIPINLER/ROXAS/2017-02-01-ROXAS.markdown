@@ -8,10 +8,11 @@ permalink: /FILIPINLER/ROXAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROXAS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ROXAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'ROXAS';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'ROXAS';
+* [ (ROXAS, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ROXAS/)
 </script>
+<script type="text/javascript">

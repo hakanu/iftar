@@ -8,10 +8,11 @@ permalink: /ARUBA/ORANJESTAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORANJESTAD, ARUBA) için iftar ve namaz vakitleri](/ARUBA/ORANJESTAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARUBA';
+
   var GLOBAL_CITY = 'ORANJESTAD';
+  var GLOBAL_COUNTRY = 'ARUBA';
   var GLOBAL_STATE = 'ORANJESTAD';
+* [ (ORANJESTAD, ARUBA) için iftar ve namaz vakitleri](/ARUBA/ORANJESTAD/)
 </script>
+<script type="text/javascript">

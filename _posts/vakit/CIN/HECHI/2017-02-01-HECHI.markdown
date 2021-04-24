@@ -8,10 +8,11 @@ permalink: /CIN/HECHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HECHI, CIN) için iftar ve namaz vakitleri](/CIN/HECHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HECHI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HECHI';
+* [ (HECHI, CIN) için iftar ve namaz vakitleri](/CIN/HECHI/)
 </script>
+<script type="text/javascript">

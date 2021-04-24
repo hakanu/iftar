@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BREGENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREGENZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BREGENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BREGENZ';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BREGENZ';
+* [ (BREGENZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BREGENZ/)
 </script>
+<script type="text/javascript">

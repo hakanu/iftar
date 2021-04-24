@@ -8,10 +8,11 @@ permalink: /MALEZYA/LABUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LABUAN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/LABUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'LABUAN';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'LABUAN';
+* [ (LABUAN, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/LABUAN/)
 </script>
+<script type="text/javascript">

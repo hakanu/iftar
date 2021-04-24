@@ -8,10 +8,11 @@ permalink: /LESOTO/MASERU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MASERU, LESOTO) için iftar ve namaz vakitleri](/LESOTO/MASERU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LESOTO';
+
   var GLOBAL_CITY = 'MASERU';
+  var GLOBAL_COUNTRY = 'LESOTO';
   var GLOBAL_STATE = 'MASERU';
+* [ (MASERU, LESOTO) için iftar ve namaz vakitleri](/LESOTO/MASERU/)
 </script>
+<script type="text/javascript">

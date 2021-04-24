@@ -8,10 +8,11 @@ permalink: /ITALYA/TORINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TORINO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TORINO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'TORINO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'TORINO';
+* [ (TORINO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TORINO/)
 </script>
+<script type="text/javascript">

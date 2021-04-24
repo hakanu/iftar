@@ -8,10 +8,11 @@ permalink: /ALMANYA/ERBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ERBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ERBACH';
+* [ (ERBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERBACH/)
 </script>
+<script type="text/javascript">

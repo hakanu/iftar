@@ -8,10 +8,11 @@ permalink: /CIN/SHANWEI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHANWEI, CIN) için iftar ve namaz vakitleri](/CIN/SHANWEI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHANWEI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHANWEI';
+* [ (SHANWEI, CIN) için iftar ve namaz vakitleri](/CIN/SHANWEI/)
 </script>
+<script type="text/javascript">

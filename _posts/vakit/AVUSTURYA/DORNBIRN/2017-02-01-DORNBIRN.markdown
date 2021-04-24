@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/DORNBIRN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DORNBIRN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/DORNBIRN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'DORNBIRN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'DORNBIRN';
+* [ (DORNBIRN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/DORNBIRN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /VENEZUELA/SAN FELIPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_FELIPE, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/SAN_FELIPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'SAN FELIPE';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'SAN FELIPE';
+* [ (SAN_FELIPE, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/SAN_FELIPE/)
 </script>
+<script type="text/javascript">

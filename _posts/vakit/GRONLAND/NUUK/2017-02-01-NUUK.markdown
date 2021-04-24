@@ -8,10 +8,11 @@ permalink: /GRONLAND/NUUK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUUK, GRONLAND) için iftar ve namaz vakitleri](/GRONLAND/NUUK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GRONLAND';
+
   var GLOBAL_CITY = 'NUUK';
+  var GLOBAL_COUNTRY = 'GRONLAND';
   var GLOBAL_STATE = 'NUUK';
+* [ (NUUK, GRONLAND) için iftar ve namaz vakitleri](/GRONLAND/NUUK/)
 </script>
+<script type="text/javascript">

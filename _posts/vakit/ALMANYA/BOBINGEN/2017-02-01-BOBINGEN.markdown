@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOBINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOBINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOBINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOBINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOBINGEN';
+* [ (BOBINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOBINGEN/)
 </script>
+<script type="text/javascript">

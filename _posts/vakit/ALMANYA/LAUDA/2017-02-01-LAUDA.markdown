@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAUDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAUDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAUDA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAUDA';
+* [ (LAUDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAUDA/)
 </script>
+<script type="text/javascript">

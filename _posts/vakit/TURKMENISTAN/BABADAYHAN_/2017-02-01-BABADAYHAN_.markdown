@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/BABADAYHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BABADAYHAN_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BABADAYHAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'BABADAYHAN ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'BABADAYHAN ';
+* [ (BABADAYHAN_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BABADAYHAN_/)
 </script>
+<script type="text/javascript">

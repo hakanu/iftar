@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/NEBIT DAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEBIT_DAG, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/NEBIT_DAG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'NEBIT DAG';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'NEBIT DAG';
+* [ (NEBIT_DAG, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/NEBIT_DAG/)
 </script>
+<script type="text/javascript">

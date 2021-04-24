@@ -8,10 +8,11 @@ permalink: /HINDISTAN/PUNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUNE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/PUNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'PUNE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'PUNE';
+* [ (PUNE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/PUNE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/CAMINHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMINHA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/CAMINHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'CAMINHA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'CAMINHA';
+* [ (CAMINHA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/CAMINHA/)
 </script>
+<script type="text/javascript">

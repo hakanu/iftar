@@ -8,10 +8,11 @@ permalink: /INGILTERE/DUNDEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUNDEE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DUNDEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'DUNDEE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'DUNDEE';
+* [ (DUNDEE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DUNDEE/)
 </script>
+<script type="text/javascript">

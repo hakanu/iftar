@@ -8,10 +8,11 @@ permalink: /HINDISTAN/JAIPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JAIPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JAIPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'JAIPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'JAIPUR';
+* [ (JAIPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JAIPUR/)
 </script>
+<script type="text/javascript">

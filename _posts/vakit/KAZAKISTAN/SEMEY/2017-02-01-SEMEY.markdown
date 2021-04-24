@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/SEMEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEMEY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SEMEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'SEMEY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'SEMEY';
+* [ (SEMEY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SEMEY/)
 </script>
+<script type="text/javascript">

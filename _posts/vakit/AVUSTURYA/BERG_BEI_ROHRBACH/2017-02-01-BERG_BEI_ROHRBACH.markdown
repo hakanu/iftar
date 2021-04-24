@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BERG BEI ROHRBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERG_BEI_ROHRBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BERG_BEI_ROHRBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BERG BEI ROHRBACH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BERG BEI ROHRBACH';
+* [ (BERG_BEI_ROHRBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BERG_BEI_ROHRBACH/)
 </script>
+<script type="text/javascript">

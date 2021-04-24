@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/NARYN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NARYN, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/NARYN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'NARYN';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'NARYN';
+* [ (NARYN, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/NARYN/)
 </script>
+<script type="text/javascript">

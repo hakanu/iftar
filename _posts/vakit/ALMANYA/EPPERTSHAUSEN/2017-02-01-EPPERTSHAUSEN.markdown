@@ -8,10 +8,11 @@ permalink: /ALMANYA/EPPERTSHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EPPERTSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EPPERTSHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EPPERTSHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EPPERTSHAUSEN';
+* [ (EPPERTSHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EPPERTSHAUSEN/)
 </script>
+<script type="text/javascript">

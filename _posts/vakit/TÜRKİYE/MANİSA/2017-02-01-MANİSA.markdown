@@ -8,25 +8,26 @@ permalink: /TÜRKİYE/MANİSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [AKHİSAR (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/AKHİSAR)
-* [SARIGÖL (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SARIGÖL)
-* [SOMA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SOMA)
-* [SELENDİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SELENDİ)
-* [MANİSA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/MANİSA)
-* [SARUHANLI (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SARUHANLI)
-* [GÖLMARMARA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/GÖLMARMARA)
-* [KÖPRÜBAŞI (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/KÖPRÜBAŞI)
-* [DEMİRCİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/DEMİRCİ)
-* [AHMETLİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/AHMETLİ)
-* [TURGUTLU (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/TURGUTLU)
-* [ALAŞEHİR (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/ALAŞEHİR)
-* [GÖRDES (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/GÖRDES)
-* [SALİHLİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SALİHLİ)
-* [KULA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/KULA)
-* [KIRKAĞAÇ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/KIRKAĞAÇ)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'MANİSA';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'MANİSA';
+* [AHMETLİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/AHMETLİ)
+* [AKHİSAR (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/AKHİSAR)
+* [ALAŞEHİR (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/ALAŞEHİR)
+* [DEMİRCİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/DEMİRCİ)
+* [GÖLMARMARA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/GÖLMARMARA)
+* [GÖRDES (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/GÖRDES)
+* [KIRKAĞAÇ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/KIRKAĞAÇ)
+* [KULA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/KULA)
+* [KÖPRÜBAŞI (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/KÖPRÜBAŞI)
+* [MANİSA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/MANİSA)
+* [SALİHLİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SALİHLİ)
+* [SARIGÖL (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SARIGÖL)
+* [SARUHANLI (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SARUHANLI)
+* [SELENDİ (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SELENDİ)
+* [SOMA (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/SOMA)
+* [TURGUTLU (MANİSA, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MANİSA/TURGUTLU)
 </script>
+<script type="text/javascript">

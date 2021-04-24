@@ -8,10 +8,11 @@ permalink: /CIN/TIANSHUIBU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIANSHUIBU, CIN) için iftar ve namaz vakitleri](/CIN/TIANSHUIBU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'TIANSHUIBU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'TIANSHUIBU';
+* [ (TIANSHUIBU, CIN) için iftar ve namaz vakitleri](/CIN/TIANSHUIBU/)
 </script>
+<script type="text/javascript">

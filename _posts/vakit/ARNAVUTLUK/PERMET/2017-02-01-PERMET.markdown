@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/PERMET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERMET, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/PERMET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'PERMET';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'PERMET';
+* [ (PERMET, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/PERMET/)
 </script>
+<script type="text/javascript">

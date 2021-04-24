@@ -8,10 +8,11 @@ permalink: /ALMANYA/PLAUEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLAUEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLAUEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PLAUEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PLAUEN';
+* [ (PLAUEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLAUEN/)
 </script>
+<script type="text/javascript">

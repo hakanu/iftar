@@ -8,10 +8,11 @@ permalink: /CEZAYIR/ECH CHELIFF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ECH_CHELIFF, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/ECH_CHELIFF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'ECH CHELIFF';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'ECH CHELIFF';
+* [ (ECH_CHELIFF, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/ECH_CHELIFF/)
 </script>
+<script type="text/javascript">

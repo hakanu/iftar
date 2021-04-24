@@ -8,10 +8,11 @@ permalink: /ITALYA/TRAPANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRAPANI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRAPANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'TRAPANI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'TRAPANI';
+* [ (TRAPANI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRAPANI/)
 </script>
+<script type="text/javascript">

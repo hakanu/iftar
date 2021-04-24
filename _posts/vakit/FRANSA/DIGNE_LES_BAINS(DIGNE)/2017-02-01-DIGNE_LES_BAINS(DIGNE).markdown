@@ -8,10 +8,11 @@ permalink: /FRANSA/DIGNE LES BAINS(DIGNE)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIGNE_LES_BAINS(DIGNE), FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIGNE_LES_BAINS(DIGNE)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DIGNE LES BAINS(DIGNE)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DIGNE LES BAINS(DIGNE)';
+* [ (DIGNE_LES_BAINS(DIGNE), FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIGNE_LES_BAINS(DIGNE)/)
 </script>
+<script type="text/javascript">

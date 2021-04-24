@@ -8,10 +8,11 @@ permalink: /BELCIKA/ANDERLUES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANDERLUES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ANDERLUES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ANDERLUES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ANDERLUES';
+* [ (ANDERLUES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ANDERLUES/)
 </script>
+<script type="text/javascript">

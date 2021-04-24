@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/ULSAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULSAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/ULSAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'ULSAN';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'ULSAN';
+* [ (ULSAN, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/ULSAN/)
 </script>
+<script type="text/javascript">

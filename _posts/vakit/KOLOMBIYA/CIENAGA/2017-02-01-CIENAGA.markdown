@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/CIENAGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIENAGA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/CIENAGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'CIENAGA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'CIENAGA';
+* [ (CIENAGA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/CIENAGA/)
 </script>
+<script type="text/javascript">

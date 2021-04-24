@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DIJK (N-B)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIJK_(N-B), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DIJK_(N-B)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DIJK (N-B)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DIJK (N-B)';
+* [ (DIJK_(N-B), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DIJK_(N-B)/)
 </script>
+<script type="text/javascript">

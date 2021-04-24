@@ -8,10 +8,11 @@ permalink: /HOLLANDA/LEIDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEIDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LEIDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'LEIDEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'LEIDEN';
+* [ (LEIDEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LEIDEN/)
 </script>
+<script type="text/javascript">

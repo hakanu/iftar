@@ -8,10 +8,11 @@ permalink: /RUSYA/KRYUKOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRYUKOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRYUKOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KRYUKOVO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KRYUKOVO';
+* [ (KRYUKOVO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRYUKOVO/)
 </script>
+<script type="text/javascript">

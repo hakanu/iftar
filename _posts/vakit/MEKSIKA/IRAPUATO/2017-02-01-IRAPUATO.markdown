@@ -8,10 +8,11 @@ permalink: /MEKSIKA/IRAPUATO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IRAPUATO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/IRAPUATO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'IRAPUATO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'IRAPUATO';
+* [ (IRAPUATO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/IRAPUATO/)
 </script>
+<script type="text/javascript">

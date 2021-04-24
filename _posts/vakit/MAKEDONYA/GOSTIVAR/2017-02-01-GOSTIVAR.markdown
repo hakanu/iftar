@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/GOSTIVAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOSTIVAR, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/GOSTIVAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'GOSTIVAR';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'GOSTIVAR';
+* [ (GOSTIVAR, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/GOSTIVAR/)
 </script>
+<script type="text/javascript">

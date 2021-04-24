@@ -8,10 +8,11 @@ permalink: /NORVEC/NOTODDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOTODDEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/NOTODDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'NOTODDEN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'NOTODDEN';
+* [ (NOTODDEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/NOTODDEN/)
 </script>
+<script type="text/javascript">

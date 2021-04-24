@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HEIDENREICHSTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEIDENREICHSTEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HEIDENREICHSTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HEIDENREICHSTEIN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HEIDENREICHSTEIN';
+* [ (HEIDENREICHSTEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HEIDENREICHSTEIN/)
 </script>
+<script type="text/javascript">

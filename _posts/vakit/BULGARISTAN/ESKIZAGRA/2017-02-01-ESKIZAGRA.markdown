@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/ESKIZAGRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESKIZAGRA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ESKIZAGRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'ESKIZAGRA';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'ESKIZAGRA';
+* [ (ESKIZAGRA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ESKIZAGRA/)
 </script>
+<script type="text/javascript">

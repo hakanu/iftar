@@ -8,10 +8,11 @@ permalink: /ISVICRE/UZWIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UZWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/UZWIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'UZWIL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'UZWIL';
+* [ (UZWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/UZWIL/)
 </script>
+<script type="text/javascript">

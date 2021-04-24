@@ -8,10 +8,11 @@ permalink: /FRANSA/FLORANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORANGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FLORANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FLORANGE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FLORANGE';
+* [ (FLORANGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FLORANGE/)
 </script>
+<script type="text/javascript">

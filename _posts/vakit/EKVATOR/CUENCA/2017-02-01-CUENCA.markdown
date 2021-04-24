@@ -8,10 +8,11 @@ permalink: /EKVATOR/CUENCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUENCA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/CUENCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'CUENCA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'CUENCA';
+* [ (CUENCA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/CUENCA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/JEMAPPES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JEMAPPES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/JEMAPPES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'JEMAPPES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'JEMAPPES';
+* [ (JEMAPPES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/JEMAPPES/)
 </script>
+<script type="text/javascript">

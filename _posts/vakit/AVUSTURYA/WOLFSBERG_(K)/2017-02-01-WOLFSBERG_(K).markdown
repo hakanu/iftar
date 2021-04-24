@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/WOLFSBERG (K)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOLFSBERG_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WOLFSBERG_(K)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'WOLFSBERG (K)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'WOLFSBERG (K)';
+* [ (WOLFSBERG_(K), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WOLFSBERG_(K)/)
 </script>
+<script type="text/javascript">

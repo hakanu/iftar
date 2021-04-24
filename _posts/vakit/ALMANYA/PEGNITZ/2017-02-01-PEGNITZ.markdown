@@ -8,10 +8,11 @@ permalink: /ALMANYA/PEGNITZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PEGNITZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PEGNITZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PEGNITZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PEGNITZ';
+* [ (PEGNITZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PEGNITZ/)
 </script>
+<script type="text/javascript">

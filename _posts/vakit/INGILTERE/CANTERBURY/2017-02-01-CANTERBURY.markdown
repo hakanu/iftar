@@ -8,10 +8,11 @@ permalink: /INGILTERE/CANTERBURY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CANTERBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CANTERBURY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CANTERBURY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CANTERBURY';
+* [ (CANTERBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CANTERBURY/)
 </script>
+<script type="text/javascript">

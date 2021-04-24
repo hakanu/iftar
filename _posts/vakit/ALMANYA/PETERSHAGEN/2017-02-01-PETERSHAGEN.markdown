@@ -8,10 +8,11 @@ permalink: /ALMANYA/PETERSHAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETERSHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PETERSHAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PETERSHAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PETERSHAGEN';
+* [ (PETERSHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PETERSHAGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/RIJSWIJK (Z-H)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIJSWIJK_(Z-H), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIJSWIJK_(Z-H)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'RIJSWIJK (Z-H)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'RIJSWIJK (Z-H)';
+* [ (RIJSWIJK_(Z-H), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/RIJSWIJK_(Z-H)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/LOCHEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOCHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LOCHEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'LOCHEM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'LOCHEM';
+* [ (LOCHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LOCHEM/)
 </script>
+<script type="text/javascript">

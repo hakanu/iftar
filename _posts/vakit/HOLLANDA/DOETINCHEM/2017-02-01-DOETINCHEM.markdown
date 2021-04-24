@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DOETINCHEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOETINCHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DOETINCHEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DOETINCHEM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DOETINCHEM';
+* [ (DOETINCHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DOETINCHEM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/LUJAN DE CUYO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUJAN_DE_CUYO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/LUJAN_DE_CUYO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'LUJAN DE CUYO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'LUJAN DE CUYO';
+* [ (LUJAN_DE_CUYO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/LUJAN_DE_CUYO/)
 </script>
+<script type="text/javascript">

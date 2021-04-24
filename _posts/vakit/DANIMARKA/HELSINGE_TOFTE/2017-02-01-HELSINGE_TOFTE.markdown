@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HELSINGE TOFTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HELSINGE_TOFTE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HELSINGE_TOFTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HELSINGE TOFTE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HELSINGE TOFTE';
+* [ (HELSINGE_TOFTE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HELSINGE_TOFTE/)
 </script>
+<script type="text/javascript">

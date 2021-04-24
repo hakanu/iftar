@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ARYS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARYS, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ARYS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ARYS';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ARYS';
+* [ (ARYS, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ARYS/)
 </script>
+<script type="text/javascript">

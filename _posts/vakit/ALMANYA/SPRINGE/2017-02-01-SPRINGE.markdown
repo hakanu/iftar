@@ -8,10 +8,11 @@ permalink: /ALMANYA/SPRINGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPRINGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPRINGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SPRINGE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SPRINGE';
+* [ (SPRINGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPRINGE/)
 </script>
+<script type="text/javascript">

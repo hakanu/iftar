@@ -8,10 +8,11 @@ permalink: /FRANSA/FISMES (M)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FISMES_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/FISMES_(M)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FISMES (M)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FISMES (M)';
+* [ (FISMES_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/FISMES_(M)/)
 </script>
+<script type="text/javascript">

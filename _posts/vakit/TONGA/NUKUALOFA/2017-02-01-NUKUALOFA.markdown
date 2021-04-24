@@ -8,10 +8,11 @@ permalink: /TONGA/NUKUALOFA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NUKUALOFA, TONGA) için iftar ve namaz vakitleri](/TONGA/NUKUALOFA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TONGA';
+
   var GLOBAL_CITY = 'NUKUALOFA';
+  var GLOBAL_COUNTRY = 'TONGA';
   var GLOBAL_STATE = 'NUKUALOFA';
+* [ (NUKUALOFA, TONGA) için iftar ve namaz vakitleri](/TONGA/NUKUALOFA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/KAWASAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAWASAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KAWASAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KAWASAKI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KAWASAKI';
+* [ (KAWASAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KAWASAKI/)
 </script>
+<script type="text/javascript">

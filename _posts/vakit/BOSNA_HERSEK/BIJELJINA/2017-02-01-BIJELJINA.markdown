@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/BIJELJINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIJELJINA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BIJELJINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'BIJELJINA';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'BIJELJINA';
+* [ (BIJELJINA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BIJELJINA/)
 </script>
+<script type="text/javascript">

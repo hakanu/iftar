@@ -8,10 +8,11 @@ permalink: /ALMANYA/GELDERN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GELDERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELDERN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GELDERN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GELDERN';
+* [ (GELDERN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELDERN/)
 </script>
+<script type="text/javascript">

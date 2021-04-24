@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/TABOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TABOR, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/TABOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'TABOR';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'TABOR';
+* [ (TABOR, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/TABOR/)
 </script>
+<script type="text/javascript">

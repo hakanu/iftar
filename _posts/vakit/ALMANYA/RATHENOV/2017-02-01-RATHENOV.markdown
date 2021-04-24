@@ -8,10 +8,11 @@ permalink: /ALMANYA/RATHENOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RATHENOV, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RATHENOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RATHENOV';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RATHENOV';
+* [ (RATHENOV, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RATHENOV/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/SPENGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPENGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPENGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SPENGE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SPENGE';
+* [ (SPENGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPENGE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/KAMPEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAMPEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KAMPEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'KAMPEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'KAMPEN';
+* [ (KAMPEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KAMPEN/)
 </script>
+<script type="text/javascript">

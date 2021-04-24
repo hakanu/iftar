@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/BATTAMBANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATTAMBANG, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/BATTAMBANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'BATTAMBANG';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'BATTAMBANG';
+* [ (BATTAMBANG, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/BATTAMBANG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WELSHPOOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WELSHPOOL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WELSHPOOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WELSHPOOL';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WELSHPOOL';
+* [ (WELSHPOOL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WELSHPOOL/)
 </script>
+<script type="text/javascript">

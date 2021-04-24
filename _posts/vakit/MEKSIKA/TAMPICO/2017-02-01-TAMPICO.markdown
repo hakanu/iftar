@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TAMPICO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAMPICO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TAMPICO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TAMPICO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TAMPICO';
+* [ (TAMPICO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TAMPICO/)
 </script>
+<script type="text/javascript">

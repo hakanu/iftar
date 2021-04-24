@@ -8,10 +8,11 @@ permalink: /SILI/ANTOFAGASTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANTOFAGASTA, SILI) için iftar ve namaz vakitleri](/SILI/ANTOFAGASTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'ANTOFAGASTA';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'ANTOFAGASTA';
+* [ (ANTOFAGASTA, SILI) için iftar ve namaz vakitleri](/SILI/ANTOFAGASTA/)
 </script>
+<script type="text/javascript">

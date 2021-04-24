@@ -8,10 +8,11 @@ permalink: /CIN/GUANGZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUANGZHOU, CIN) için iftar ve namaz vakitleri](/CIN/GUANGZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'GUANGZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'GUANGZHOU';
+* [ (GUANGZHOU, CIN) için iftar ve namaz vakitleri](/CIN/GUANGZHOU/)
 </script>
+<script type="text/javascript">

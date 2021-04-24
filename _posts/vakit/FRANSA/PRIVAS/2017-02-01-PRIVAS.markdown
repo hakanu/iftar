@@ -8,10 +8,11 @@ permalink: /FRANSA/PRIVAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PRIVAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PRIVAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PRIVAS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PRIVAS';
+* [ (PRIVAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PRIVAS/)
 </script>
+<script type="text/javascript">

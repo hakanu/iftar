@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/MASTERTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MASTERTON, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/MASTERTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'MASTERTON';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'MASTERTON';
+* [ (MASTERTON, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/MASTERTON/)
 </script>
+<script type="text/javascript">

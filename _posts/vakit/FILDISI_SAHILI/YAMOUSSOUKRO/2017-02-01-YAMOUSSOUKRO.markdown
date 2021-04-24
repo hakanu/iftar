@@ -8,10 +8,11 @@ permalink: /FILDISI SAHILI/YAMOUSSOUKRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAMOUSSOUKRO, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/YAMOUSSOUKRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
+
   var GLOBAL_CITY = 'YAMOUSSOUKRO';
+  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
   var GLOBAL_STATE = 'YAMOUSSOUKRO';
+* [ (YAMOUSSOUKRO, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/YAMOUSSOUKRO/)
 </script>
+<script type="text/javascript">

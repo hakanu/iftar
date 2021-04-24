@@ -8,10 +8,11 @@ permalink: /ALMANYA/ROTHENBACH -A_D_PEGN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROTHENBACH_-A_D_PEGN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROTHENBACH_-A_D_PEGN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ROTHENBACH -A_D_PEGN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ROTHENBACH -A_D_PEGN';
+* [ (ROTHENBACH_-A_D_PEGN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROTHENBACH_-A_D_PEGN/)
 </script>
+<script type="text/javascript">

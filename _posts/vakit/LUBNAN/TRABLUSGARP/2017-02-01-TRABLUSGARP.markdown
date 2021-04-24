@@ -8,10 +8,11 @@ permalink: /LUBNAN/TRABLUSGARP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRABLUSGARP, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/TRABLUSGARP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUBNAN';
+
   var GLOBAL_CITY = 'TRABLUSGARP';
+  var GLOBAL_COUNTRY = 'LUBNAN';
   var GLOBAL_STATE = 'TRABLUSGARP';
+* [ (TRABLUSGARP, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/TRABLUSGARP/)
 </script>
+<script type="text/javascript">

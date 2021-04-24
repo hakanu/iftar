@@ -8,10 +8,11 @@ permalink: /BELCIKA/WESTERLOO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WESTERLOO, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WESTERLOO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WESTERLOO';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WESTERLOO';
+* [ (WESTERLOO, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WESTERLOO/)
 </script>
+<script type="text/javascript">

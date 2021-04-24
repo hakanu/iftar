@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HORSENS (Aalborg)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORSENS_(Aalborg), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HORSENS_(Aalborg)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HORSENS (Aalborg)';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HORSENS (Aalborg)';
+* [ (HORSENS_(Aalborg), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HORSENS_(Aalborg)/)
 </script>
+<script type="text/javascript">

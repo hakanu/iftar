@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/LENINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENINSK_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/LENINSK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'LENINSK ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'LENINSK ';
+* [ (LENINSK_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/LENINSK_/)
 </script>
+<script type="text/javascript">

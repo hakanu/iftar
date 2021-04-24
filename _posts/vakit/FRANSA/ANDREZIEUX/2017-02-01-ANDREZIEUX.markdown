@@ -8,10 +8,11 @@ permalink: /FRANSA/ANDREZIEUX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANDREZIEUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANDREZIEUX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ANDREZIEUX';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ANDREZIEUX';
+* [ (ANDREZIEUX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANDREZIEUX/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/RAAHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAAHE, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/RAAHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'RAAHE';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'RAAHE';
+* [ (RAAHE, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/RAAHE/)
 </script>
+<script type="text/javascript">

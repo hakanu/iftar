@@ -8,10 +8,11 @@ permalink: /RUSYA/KISLOVODSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KISLOVODSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KISLOVODSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KISLOVODSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KISLOVODSK';
+* [ (KISLOVODSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KISLOVODSK/)
 </script>
+<script type="text/javascript">

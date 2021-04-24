@@ -8,10 +8,11 @@ permalink: /CEZAYIR/TEBESSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEBESSA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/TEBESSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'TEBESSA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'TEBESSA';
+* [ (TEBESSA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/TEBESSA/)
 </script>
+<script type="text/javascript">

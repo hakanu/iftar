@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ZHOLYMBET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHOLYMBET, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ZHOLYMBET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ZHOLYMBET';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ZHOLYMBET';
+* [ (ZHOLYMBET, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ZHOLYMBET/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/LYON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LYON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LYON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LYON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LYON';
+* [ (LYON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LYON/)
 </script>
+<script type="text/javascript">

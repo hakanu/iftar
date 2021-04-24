@@ -8,10 +8,11 @@ permalink: /ALMANYA/ATTENDORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATTENDORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ATTENDORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ATTENDORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ATTENDORN';
+* [ (ATTENDORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ATTENDORN/)
 </script>
+<script type="text/javascript">

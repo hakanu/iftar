@@ -8,10 +8,11 @@ permalink: /VENEZUELA/PETARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETARE, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PETARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'PETARE';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'PETARE';
+* [ (PETARE, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PETARE/)
 </script>
+<script type="text/javascript">

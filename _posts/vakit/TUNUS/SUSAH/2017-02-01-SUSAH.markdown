@@ -8,10 +8,11 @@ permalink: /TUNUS/SUSAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUSAH, TUNUS) için iftar ve namaz vakitleri](/TUNUS/SUSAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TUNUS';
+
   var GLOBAL_CITY = 'SUSAH';
+  var GLOBAL_COUNTRY = 'TUNUS';
   var GLOBAL_STATE = 'SUSAH';
+* [ (SUSAH, TUNUS) için iftar ve namaz vakitleri](/TUNUS/SUSAH/)
 </script>
+<script type="text/javascript">

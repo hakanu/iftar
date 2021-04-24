@@ -8,10 +8,11 @@ permalink: /BREZILYA/SANTA CRUZ DO SUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_CRUZ_DO_SUL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTA_CRUZ_DO_SUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SANTA CRUZ DO SUL';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SANTA CRUZ DO SUL';
+* [ (SANTA_CRUZ_DO_SUL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTA_CRUZ_DO_SUL/)
 </script>
+<script type="text/javascript">

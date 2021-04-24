@@ -8,10 +8,11 @@ permalink: /CIN/ZHUMADIAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHUMADIAN, CIN) için iftar ve namaz vakitleri](/CIN/ZHUMADIAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZHUMADIAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZHUMADIAN';
+* [ (ZHUMADIAN, CIN) için iftar ve namaz vakitleri](/CIN/ZHUMADIAN/)
 </script>
+<script type="text/javascript">

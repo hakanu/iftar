@@ -8,10 +8,11 @@ permalink: /NORVEC/HAMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMAR, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HAMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'HAMAR';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'HAMAR';
+* [ (HAMAR, NORVEC) için iftar ve namaz vakitleri](/NORVEC/HAMAR/)
 </script>
+<script type="text/javascript">

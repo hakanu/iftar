@@ -8,10 +8,11 @@ permalink: /HOLLANDA/EPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EPE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'EPE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'EPE';
+* [ (EPE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EPE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/GORLITZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GORLITZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GORLITZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GORLITZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GORLITZ';
+* [ (GORLITZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GORLITZ/)
 </script>
+<script type="text/javascript">

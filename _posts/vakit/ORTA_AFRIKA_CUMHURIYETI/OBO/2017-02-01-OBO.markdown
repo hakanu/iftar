@@ -8,10 +8,11 @@ permalink: /ORTA AFRIKA CUMHURIYETI/OBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBO, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/OBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
+
   var GLOBAL_CITY = 'OBO';
+  var GLOBAL_COUNTRY = 'ORTA AFRIKA CUMHURIYETI';
   var GLOBAL_STATE = 'OBO';
+* [ (OBO, ORTA_AFRIKA_CUMHURIYETI) için iftar ve namaz vakitleri](/ORTA_AFRIKA_CUMHURIYETI/OBO/)
 </script>
+<script type="text/javascript">

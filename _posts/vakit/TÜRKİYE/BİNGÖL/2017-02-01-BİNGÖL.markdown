@@ -8,15 +8,16 @@ permalink: /TÜRKİYE/BİNGÖL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [YEDİSU (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/YEDİSU)
-* [SOLHAN (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/SOLHAN)
+
+
+  var GLOBAL_CITY = 'BİNGÖL';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'BİNGÖL';
+* [BİNGÖL (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/BİNGÖL)
 * [KARLIOVA (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/KARLIOVA)
 * [KİGI (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/KİGI)
-* [BİNGÖL (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/BİNGÖL)
+* [SOLHAN (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/SOLHAN)
 * [YAYLADERE (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/YAYLADERE)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'BİNGÖL';
-  var GLOBAL_STATE = 'BİNGÖL';
+* [YEDİSU (BİNGÖL, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/BİNGÖL/YEDİSU)
 </script>
+<script type="text/javascript">

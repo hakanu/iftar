@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/RIYAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIYAD, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/RIYAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'RIYAD';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'RIYAD';
+* [ (RIYAD, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/RIYAD/)
 </script>
+<script type="text/javascript">

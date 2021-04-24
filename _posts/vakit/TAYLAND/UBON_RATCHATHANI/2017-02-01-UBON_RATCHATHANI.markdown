@@ -8,10 +8,11 @@ permalink: /TAYLAND/UBON RATCHATHANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UBON_RATCHATHANI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/UBON_RATCHATHANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'UBON RATCHATHANI';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'UBON RATCHATHANI';
+* [ (UBON_RATCHATHANI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/UBON_RATCHATHANI/)
 </script>
+<script type="text/javascript">

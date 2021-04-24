@@ -8,10 +8,11 @@ permalink: /BOLIVYA/VILLA TUNARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLA_TUNARI, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/VILLA_TUNARI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'VILLA TUNARI';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'VILLA TUNARI';
+* [ (VILLA_TUNARI, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/VILLA_TUNARI/)
 </script>
+<script type="text/javascript">

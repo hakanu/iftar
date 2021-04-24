@@ -8,10 +8,11 @@ permalink: /ARJANTIN/RIO CUARTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIO_CUARTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RIO_CUARTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'RIO CUARTO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'RIO CUARTO';
+* [ (RIO_CUARTO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RIO_CUARTO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LITVANYA/VILNIUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILNIUS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/VILNIUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'VILNIUS';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'VILNIUS';
+* [ (VILNIUS, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/VILNIUS/)
 </script>
+<script type="text/javascript">

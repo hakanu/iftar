@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HELLENDOORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HELLENDOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HELLENDOORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HELLENDOORN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HELLENDOORN';
+* [ (HELLENDOORN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HELLENDOORN/)
 </script>
+<script type="text/javascript">

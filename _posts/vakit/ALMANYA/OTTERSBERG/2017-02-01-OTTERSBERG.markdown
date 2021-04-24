@@ -8,10 +8,11 @@ permalink: /ALMANYA/OTTERSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OTTERSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OTTERSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OTTERSBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OTTERSBERG';
+* [ (OTTERSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OTTERSBERG/)
 </script>
+<script type="text/javascript">

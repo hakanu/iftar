@@ -8,10 +8,11 @@ permalink: /FRANSA/SALLANCHES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALLANCHES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SALLANCHES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SALLANCHES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SALLANCHES';
+* [ (SALLANCHES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SALLANCHES/)
 </script>
+<script type="text/javascript">

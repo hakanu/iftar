@@ -8,10 +8,11 @@ permalink: /TAYVAN/CHU-NAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHU-NAN, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/CHU-NAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'CHU-NAN';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'CHU-NAN';
+* [ (CHU-NAN, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/CHU-NAN/)
 </script>
+<script type="text/javascript">

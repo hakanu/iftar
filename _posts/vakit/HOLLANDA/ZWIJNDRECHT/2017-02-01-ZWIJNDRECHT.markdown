@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZWIJNDRECHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZWIJNDRECHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZWIJNDRECHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZWIJNDRECHT';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZWIJNDRECHT';
+* [ (ZWIJNDRECHT, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZWIJNDRECHT/)
 </script>
+<script type="text/javascript">

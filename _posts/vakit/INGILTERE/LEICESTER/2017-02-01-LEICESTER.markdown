@@ -8,10 +8,11 @@ permalink: /INGILTERE/LEICESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEICESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LEICESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LEICESTER';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LEICESTER';
+* [ (LEICESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LEICESTER/)
 </script>
+<script type="text/javascript">

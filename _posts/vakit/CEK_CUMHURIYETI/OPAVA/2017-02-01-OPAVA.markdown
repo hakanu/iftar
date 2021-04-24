@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/OPAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OPAVA, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/OPAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'OPAVA';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'OPAVA';
+* [ (OPAVA, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/OPAVA/)
 </script>
+<script type="text/javascript">

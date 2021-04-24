@@ -8,11 +8,12 @@ permalink: /ABD/MAINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [CAMDEN (MAINE, ABD) için iftar ve namaz vakitleri](/ABD/MAINE/CAMDEN)
-* [AUGUSTA (MAINE, ABD) için iftar ve namaz vakitleri](/ABD/MAINE/AUGUSTA)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
+
   var GLOBAL_CITY = 'MAINE';
+  var GLOBAL_COUNTRY = 'ABD';
   var GLOBAL_STATE = 'MAINE';
+* [AUGUSTA (MAINE, ABD) için iftar ve namaz vakitleri](/ABD/MAINE/AUGUSTA)
+* [CAMDEN (MAINE, ABD) için iftar ve namaz vakitleri](/ABD/MAINE/CAMDEN)
 </script>
+<script type="text/javascript">

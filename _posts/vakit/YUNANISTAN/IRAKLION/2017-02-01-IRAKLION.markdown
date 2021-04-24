@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/IRAKLION
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IRAKLION, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/IRAKLION/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'IRAKLION';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'IRAKLION';
+* [ (IRAKLION, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/IRAKLION/)
 </script>
+<script type="text/javascript">

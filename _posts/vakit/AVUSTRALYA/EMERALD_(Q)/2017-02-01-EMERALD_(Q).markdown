@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/EMERALD (Q)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMERALD_(Q), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/EMERALD_(Q)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'EMERALD (Q)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'EMERALD (Q)';
+* [ (EMERALD_(Q), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/EMERALD_(Q)/)
 </script>
+<script type="text/javascript">

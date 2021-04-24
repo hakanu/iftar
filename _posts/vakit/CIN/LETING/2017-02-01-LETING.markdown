@@ -8,10 +8,11 @@ permalink: /CIN/LETING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LETING, CIN) için iftar ve namaz vakitleri](/CIN/LETING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LETING';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LETING';
+* [ (LETING, CIN) için iftar ve namaz vakitleri](/CIN/LETING/)
 </script>
+<script type="text/javascript">

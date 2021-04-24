@@ -8,10 +8,11 @@ permalink: /ALMANYA/HILDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HILDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HILDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HILDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HILDEN';
+* [ (HILDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HILDEN/)
 </script>
+<script type="text/javascript">

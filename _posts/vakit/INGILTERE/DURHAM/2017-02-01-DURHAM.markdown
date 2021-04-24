@@ -8,10 +8,11 @@ permalink: /INGILTERE/DURHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DURHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DURHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'DURHAM';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'DURHAM';
+* [ (DURHAM, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DURHAM/)
 </script>
+<script type="text/javascript">

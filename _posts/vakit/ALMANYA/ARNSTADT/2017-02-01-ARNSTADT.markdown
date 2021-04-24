@@ -8,10 +8,11 @@ permalink: /ALMANYA/ARNSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARNSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ARNSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ARNSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ARNSTADT';
+* [ (ARNSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ARNSTADT/)
 </script>
+<script type="text/javascript">

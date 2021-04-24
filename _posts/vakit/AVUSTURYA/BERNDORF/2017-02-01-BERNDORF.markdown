@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BERNDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERNDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BERNDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BERNDORF';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BERNDORF';
+* [ (BERNDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BERNDORF/)
 </script>
+<script type="text/javascript">

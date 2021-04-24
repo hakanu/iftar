@@ -8,10 +8,11 @@ permalink: /ISVEC/SKOVDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SKOVDE, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SKOVDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'SKOVDE';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'SKOVDE';
+* [ (SKOVDE, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SKOVDE/)
 </script>
+<script type="text/javascript">

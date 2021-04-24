@@ -8,10 +8,11 @@ permalink: /MEKSIKA/HERMOSILLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERMOSILLO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/HERMOSILLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'HERMOSILLO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'HERMOSILLO';
+* [ (HERMOSILLO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/HERMOSILLO/)
 </script>
+<script type="text/javascript">

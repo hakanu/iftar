@@ -8,10 +8,11 @@ permalink: /UKRAYNA/LISICHANSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LISICHANSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LISICHANSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'LISICHANSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'LISICHANSK';
+* [ (LISICHANSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LISICHANSK/)
 </script>
+<script type="text/javascript">

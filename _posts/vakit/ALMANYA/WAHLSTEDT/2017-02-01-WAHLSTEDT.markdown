@@ -8,10 +8,11 @@ permalink: /ALMANYA/WAHLSTEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAHLSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAHLSTEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WAHLSTEDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WAHLSTEDT';
+* [ (WAHLSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAHLSTEDT/)
 </script>
+<script type="text/javascript">

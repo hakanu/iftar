@@ -8,10 +8,11 @@ permalink: /ISPANYA/JAEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JAEN, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/JAEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'JAEN';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'JAEN';
+* [ (JAEN, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/JAEN/)
 </script>
+<script type="text/javascript">

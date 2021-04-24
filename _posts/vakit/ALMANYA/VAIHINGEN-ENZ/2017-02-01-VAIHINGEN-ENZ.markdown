@@ -8,10 +8,11 @@ permalink: /ALMANYA/VAIHINGEN-ENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VAIHINGEN-ENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VAIHINGEN-ENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VAIHINGEN-ENZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VAIHINGEN-ENZ';
+* [ (VAIHINGEN-ENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VAIHINGEN-ENZ/)
 </script>
+<script type="text/javascript">

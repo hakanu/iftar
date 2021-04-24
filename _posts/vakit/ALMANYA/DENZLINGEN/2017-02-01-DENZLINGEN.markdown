@@ -8,10 +8,11 @@ permalink: /ALMANYA/DENZLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DENZLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DENZLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DENZLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DENZLINGEN';
+* [ (DENZLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DENZLINGEN/)
 </script>
+<script type="text/javascript">

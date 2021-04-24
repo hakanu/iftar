@@ -8,10 +8,11 @@ permalink: /UKRAYNA/DERDYCHIV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DERDYCHIV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DERDYCHIV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'DERDYCHIV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'DERDYCHIV';
+* [ (DERDYCHIV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/DERDYCHIV/)
 </script>
+<script type="text/javascript">

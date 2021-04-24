@@ -8,10 +8,11 @@ permalink: /URUGUAY/MERCEDES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MERCEDES, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MERCEDES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'MERCEDES';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'MERCEDES';
+* [ (MERCEDES, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/MERCEDES/)
 </script>
+<script type="text/javascript">

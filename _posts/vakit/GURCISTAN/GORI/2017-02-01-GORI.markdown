@@ -8,10 +8,11 @@ permalink: /GURCISTAN/GORI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GORI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/GORI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'GORI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'GORI';
+* [ (GORI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/GORI/)
 </script>
+<script type="text/javascript">

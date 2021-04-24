@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/WANGANUI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WANGANUI, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WANGANUI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'WANGANUI';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'WANGANUI';
+* [ (WANGANUI, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/WANGANUI/)
 </script>
+<script type="text/javascript">

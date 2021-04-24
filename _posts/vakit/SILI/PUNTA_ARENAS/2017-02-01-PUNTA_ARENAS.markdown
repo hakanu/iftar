@@ -8,10 +8,11 @@ permalink: /SILI/PUNTA ARENAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUNTA_ARENAS, SILI) için iftar ve namaz vakitleri](/SILI/PUNTA_ARENAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'PUNTA ARENAS';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'PUNTA ARENAS';
+* [ (PUNTA_ARENAS, SILI) için iftar ve namaz vakitleri](/SILI/PUNTA_ARENAS/)
 </script>
+<script type="text/javascript">

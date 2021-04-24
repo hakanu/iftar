@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALZEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALZEY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALZEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALZEY';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALZEY';
+* [ (ALZEY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALZEY/)
 </script>
+<script type="text/javascript">

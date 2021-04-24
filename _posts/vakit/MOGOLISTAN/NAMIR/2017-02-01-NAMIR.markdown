@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/NAMIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAMIR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/NAMIR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'NAMIR';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'NAMIR';
+* [ (NAMIR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/NAMIR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/GUAYMAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUAYMAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/GUAYMAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'GUAYMAS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'GUAYMAS';
+* [ (GUAYMAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/GUAYMAS/)
 </script>
+<script type="text/javascript">

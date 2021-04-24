@@ -8,10 +8,11 @@ permalink: /CIN/BEIHAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEIHAI, CIN) için iftar ve namaz vakitleri](/CIN/BEIHAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'BEIHAI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'BEIHAI';
+* [ (BEIHAI, CIN) için iftar ve namaz vakitleri](/CIN/BEIHAI/)
 </script>
+<script type="text/javascript">

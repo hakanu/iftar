@@ -8,10 +8,11 @@ permalink: /VENEZUELA/GUANARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUANARE, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/GUANARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'GUANARE';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'GUANARE';
+* [ (GUANARE, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/GUANARE/)
 </script>
+<script type="text/javascript">

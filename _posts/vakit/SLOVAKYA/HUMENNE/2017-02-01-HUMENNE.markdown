@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/HUMENNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUMENNE, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/HUMENNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'HUMENNE';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'HUMENNE';
+* [ (HUMENNE, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/HUMENNE/)
 </script>
+<script type="text/javascript">

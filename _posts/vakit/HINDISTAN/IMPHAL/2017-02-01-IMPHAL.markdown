@@ -8,10 +8,11 @@ permalink: /HINDISTAN/IMPHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IMPHAL, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/IMPHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'IMPHAL';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'IMPHAL';
+* [ (IMPHAL, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/IMPHAL/)
 </script>
+<script type="text/javascript">

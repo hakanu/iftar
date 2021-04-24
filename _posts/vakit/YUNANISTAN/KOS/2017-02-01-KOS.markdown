@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KOS';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KOS';
+* [ (KOS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KOS/)
 </script>
+<script type="text/javascript">

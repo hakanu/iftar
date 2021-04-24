@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/PETRICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETRICH, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PETRICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'PETRICH';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'PETRICH';
+* [ (PETRICH, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/PETRICH/)
 </script>
+<script type="text/javascript">

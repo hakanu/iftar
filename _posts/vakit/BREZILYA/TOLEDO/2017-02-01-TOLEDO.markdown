@@ -8,10 +8,11 @@ permalink: /BREZILYA/TOLEDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOLEDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TOLEDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'TOLEDO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'TOLEDO';
+* [ (TOLEDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TOLEDO/)
 </script>
+<script type="text/javascript">

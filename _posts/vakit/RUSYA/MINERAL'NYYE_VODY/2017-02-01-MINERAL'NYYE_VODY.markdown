@@ -8,10 +8,11 @@ permalink: /RUSYA/MINERAL'NYYE VODY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MINERAL'NYYE_VODY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MINERAL'NYYE_VODY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MINERAL'NYYE VODY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MINERAL'NYYE VODY';
+* [ (MINERAL'NYYE_VODY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MINERAL'NYYE_VODY/)
 </script>
+<script type="text/javascript">

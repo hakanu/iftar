@@ -8,10 +8,11 @@ permalink: /HINDISTAN/JAMMU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JAMMU, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JAMMU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'JAMMU';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'JAMMU';
+* [ (JAMMU, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/JAMMU/)
 </script>
+<script type="text/javascript">

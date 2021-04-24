@@ -8,10 +8,11 @@ permalink: /BELARUS/BABRUYSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BABRUYSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BABRUYSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'BABRUYSK';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'BABRUYSK';
+* [ (BABRUYSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/BABRUYSK/)
 </script>
+<script type="text/javascript">

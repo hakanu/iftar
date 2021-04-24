@@ -8,10 +8,11 @@ permalink: /ALMANYA/WEINHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEINHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEINHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WEINHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WEINHEIM';
+* [ (WEINHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WEINHEIM/)
 </script>
+<script type="text/javascript">

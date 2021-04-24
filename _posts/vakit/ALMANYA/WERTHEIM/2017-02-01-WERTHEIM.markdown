@@ -8,10 +8,11 @@ permalink: /ALMANYA/WERTHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WERTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERTHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WERTHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WERTHEIM';
+* [ (WERTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WERTHEIM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/AKHMETAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKHMETAU, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKHMETAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'AKHMETAU';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'AKHMETAU';
+* [ (AKHMETAU, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKHMETAU/)
 </script>
+<script type="text/javascript">

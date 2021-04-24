@@ -8,10 +8,11 @@ permalink: /FAS/KENITRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KENITRA, FAS) için iftar ve namaz vakitleri](/FAS/KENITRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'KENITRA';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'KENITRA';
+* [ (KENITRA, FAS) için iftar ve namaz vakitleri](/FAS/KENITRA/)
 </script>
+<script type="text/javascript">

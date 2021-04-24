@@ -8,10 +8,11 @@ permalink: /ALMANYA/LANDSHUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANDSHUT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANDSHUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LANDSHUT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LANDSHUT';
+* [ (LANDSHUT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LANDSHUT/)
 </script>
+<script type="text/javascript">

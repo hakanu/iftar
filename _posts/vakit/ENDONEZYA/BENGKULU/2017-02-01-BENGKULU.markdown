@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/BENGKULU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BENGKULU, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BENGKULU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'BENGKULU';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'BENGKULU';
+* [ (BENGKULU, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BENGKULU/)
 </script>
+<script type="text/javascript">

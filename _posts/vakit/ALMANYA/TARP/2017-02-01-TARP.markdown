@@ -8,10 +8,11 @@ permalink: /ALMANYA/TARP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TARP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TARP';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TARP';
+* [ (TARP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TARP/)
 </script>
+<script type="text/javascript">

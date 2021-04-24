@@ -8,10 +8,11 @@ permalink: /ITALYA/TRENTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRENTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRENTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'TRENTO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'TRENTO';
+* [ (TRENTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TRENTO/)
 </script>
+<script type="text/javascript">

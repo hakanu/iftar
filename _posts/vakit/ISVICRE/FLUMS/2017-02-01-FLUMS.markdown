@@ -8,10 +8,11 @@ permalink: /ISVICRE/FLUMS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLUMS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FLUMS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'FLUMS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'FLUMS';
+* [ (FLUMS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FLUMS/)
 </script>
+<script type="text/javascript">

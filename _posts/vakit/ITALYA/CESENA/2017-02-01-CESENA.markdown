@@ -8,10 +8,11 @@ permalink: /ITALYA/CESENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CESENA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CESENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CESENA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CESENA';
+* [ (CESENA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CESENA/)
 </script>
+<script type="text/javascript">

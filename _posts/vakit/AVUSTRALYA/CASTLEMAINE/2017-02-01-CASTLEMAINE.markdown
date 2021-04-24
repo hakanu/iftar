@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CASTLEMAINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CASTLEMAINE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CASTLEMAINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CASTLEMAINE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CASTLEMAINE';
+* [ (CASTLEMAINE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CASTLEMAINE/)
 </script>
+<script type="text/javascript">

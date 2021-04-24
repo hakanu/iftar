@@ -8,10 +8,11 @@ permalink: /BELCIKA/RUDDERVOORDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUDDERVOORDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/RUDDERVOORDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'RUDDERVOORDE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'RUDDERVOORDE';
+* [ (RUDDERVOORDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/RUDDERVOORDE/)
 </script>
+<script type="text/javascript">

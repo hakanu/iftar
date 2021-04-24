@@ -8,10 +8,11 @@ permalink: /ALMANYA/KORBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KORBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KORBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KORBACH';
+* [ (KORBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KORBACH/)
 </script>
+<script type="text/javascript">

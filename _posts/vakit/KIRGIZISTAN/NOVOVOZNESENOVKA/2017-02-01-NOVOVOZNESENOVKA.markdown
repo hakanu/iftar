@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/NOVOVOZNESENOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVOVOZNESENOVKA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/NOVOVOZNESENOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'NOVOVOZNESENOVKA';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'NOVOVOZNESENOVKA';
+* [ (NOVOVOZNESENOVKA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/NOVOVOZNESENOVKA/)
 </script>
+<script type="text/javascript">

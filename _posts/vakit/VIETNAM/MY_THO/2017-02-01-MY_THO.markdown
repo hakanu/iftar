@@ -8,10 +8,11 @@ permalink: /VIETNAM/MY THO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MY_THO, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/MY_THO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'MY THO';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'MY THO';
+* [ (MY_THO, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/MY_THO/)
 </script>
+<script type="text/javascript">

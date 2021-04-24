@@ -8,10 +8,11 @@ permalink: /CECENISTAN/URUS-MARTAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URUS-MARTAN, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/URUS-MARTAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CECENISTAN';
+
   var GLOBAL_CITY = 'URUS-MARTAN';
+  var GLOBAL_COUNTRY = 'CECENISTAN';
   var GLOBAL_STATE = 'URUS-MARTAN';
+* [ (URUS-MARTAN, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/URUS-MARTAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HONDURAS/DANLI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DANLI, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/DANLI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'DANLI';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'DANLI';
+* [ (DANLI, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/DANLI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/GMUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GMUND, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GMUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'GMUND';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'GMUND';
+* [ (GMUND, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/GMUND/)
 </script>
+<script type="text/javascript">

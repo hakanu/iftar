@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BIBERWIER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIBERWIER, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BIBERWIER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BIBERWIER';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BIBERWIER';
+* [ (BIBERWIER, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BIBERWIER/)
 </script>
+<script type="text/javascript">

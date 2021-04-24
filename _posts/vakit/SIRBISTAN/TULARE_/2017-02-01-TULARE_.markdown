@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/TULARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULARE_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/TULARE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'TULARE ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'TULARE ';
+* [ (TULARE_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/TULARE_/)
 </script>
+<script type="text/javascript">

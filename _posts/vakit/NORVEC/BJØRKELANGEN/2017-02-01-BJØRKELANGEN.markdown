@@ -8,10 +8,11 @@ permalink: /NORVEC/BJØRKELANGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BJØRKELANGEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/BJØRKELANGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'BJØRKELANGEN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'BJØRKELANGEN';
+* [ (BJØRKELANGEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/BJØRKELANGEN/)
 </script>
+<script type="text/javascript">

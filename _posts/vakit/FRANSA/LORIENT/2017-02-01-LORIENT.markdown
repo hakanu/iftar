@@ -8,10 +8,11 @@ permalink: /FRANSA/LORIENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LORIENT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LORIENT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LORIENT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LORIENT';
+* [ (LORIENT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LORIENT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/FILDERSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FILDERSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FILDERSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FILDERSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FILDERSTADT';
+* [ (FILDERSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FILDERSTADT/)
 </script>
+<script type="text/javascript">

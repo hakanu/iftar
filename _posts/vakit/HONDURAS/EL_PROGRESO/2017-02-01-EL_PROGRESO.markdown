@@ -8,10 +8,11 @@ permalink: /HONDURAS/EL PROGRESO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EL_PROGRESO, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/EL_PROGRESO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'EL PROGRESO';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'EL PROGRESO';
+* [ (EL_PROGRESO, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/EL_PROGRESO/)
 </script>
+<script type="text/javascript">

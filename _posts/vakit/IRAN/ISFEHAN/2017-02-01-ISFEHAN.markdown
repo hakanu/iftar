@@ -8,10 +8,11 @@ permalink: /IRAN/ISFEHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISFEHAN, IRAN) için iftar ve namaz vakitleri](/IRAN/ISFEHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'ISFEHAN';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'ISFEHAN';
+* [ (ISFEHAN, IRAN) için iftar ve namaz vakitleri](/IRAN/ISFEHAN/)
 </script>
+<script type="text/javascript">

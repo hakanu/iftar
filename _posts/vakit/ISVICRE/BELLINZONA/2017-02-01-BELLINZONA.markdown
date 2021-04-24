@@ -8,10 +8,11 @@ permalink: /ISVICRE/BELLINZONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELLINZONA, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BELLINZONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BELLINZONA';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BELLINZONA';
+* [ (BELLINZONA, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BELLINZONA/)
 </script>
+<script type="text/javascript">

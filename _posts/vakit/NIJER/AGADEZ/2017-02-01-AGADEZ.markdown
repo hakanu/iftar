@@ -8,10 +8,11 @@ permalink: /NIJER/AGADEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGADEZ, NIJER) için iftar ve namaz vakitleri](/NIJER/AGADEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJER';
+
   var GLOBAL_CITY = 'AGADEZ';
+  var GLOBAL_COUNTRY = 'NIJER';
   var GLOBAL_STATE = 'AGADEZ';
+* [ (AGADEZ, NIJER) için iftar ve namaz vakitleri](/NIJER/AGADEZ/)
 </script>
+<script type="text/javascript">

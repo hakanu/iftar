@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/JARGALANT(Ulan Batur)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JARGALANT(Ulan_Batur), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/JARGALANT(Ulan_Batur)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'JARGALANT(Ulan Batur)';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'JARGALANT(Ulan Batur)';
+* [ (JARGALANT(Ulan_Batur), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/JARGALANT(Ulan_Batur)/)
 </script>
+<script type="text/javascript">

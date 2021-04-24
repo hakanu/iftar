@@ -8,10 +8,11 @@ permalink: /ARJANTIN/ROSARIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSARIO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/ROSARIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'ROSARIO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'ROSARIO';
+* [ (ROSARIO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/ROSARIO/)
 </script>
+<script type="text/javascript">

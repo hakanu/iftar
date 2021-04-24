@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOFGEISMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOFGEISMAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOFGEISMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOFGEISMAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOFGEISMAR';
+* [ (HOFGEISMAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOFGEISMAR/)
 </script>
+<script type="text/javascript">

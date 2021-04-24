@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOMBRUCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOMBRUCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOMBRUCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOMBRUCH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOMBRUCH';
+* [ (HOMBRUCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOMBRUCH/)
 </script>
+<script type="text/javascript">

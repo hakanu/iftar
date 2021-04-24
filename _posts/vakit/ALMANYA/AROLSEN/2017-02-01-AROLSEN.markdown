@@ -8,10 +8,11 @@ permalink: /ALMANYA/AROLSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AROLSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AROLSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AROLSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AROLSEN';
+* [ (AROLSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AROLSEN/)
 </script>
+<script type="text/javascript">

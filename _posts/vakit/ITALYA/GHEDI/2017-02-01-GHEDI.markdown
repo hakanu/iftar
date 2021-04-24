@@ -8,10 +8,11 @@ permalink: /ITALYA/GHEDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GHEDI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GHEDI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'GHEDI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'GHEDI';
+* [ (GHEDI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GHEDI/)
 </script>
+<script type="text/javascript">

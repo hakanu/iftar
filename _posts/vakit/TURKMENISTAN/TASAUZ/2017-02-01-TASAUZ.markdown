@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/TASAUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TASAUZ, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/TASAUZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'TASAUZ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'TASAUZ';
+* [ (TASAUZ, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/TASAUZ/)
 </script>
+<script type="text/javascript">

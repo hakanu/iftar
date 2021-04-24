@@ -8,7 +8,8 @@ permalink: /BANGLADES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [DHAKA (BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/DHAKA)
+
 * [COMILLA (BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/COMILLA)
+* [DHAKA (BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/DHAKA)
 * [KHULNA (BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/KHULNA)
 * [RAJSHAHI (BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/RAJSHAHI)

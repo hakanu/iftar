@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/EKIBASTUZSKIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EKIBASTUZSKIY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/EKIBASTUZSKIY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'EKIBASTUZSKIY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'EKIBASTUZSKIY';
+* [ (EKIBASTUZSKIY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/EKIBASTUZSKIY/)
 </script>
+<script type="text/javascript">

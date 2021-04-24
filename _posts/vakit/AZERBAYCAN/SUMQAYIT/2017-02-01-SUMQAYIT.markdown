@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SUMQAYIT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUMQAYIT, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SUMQAYIT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SUMQAYIT';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SUMQAYIT';
+* [ (SUMQAYIT, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SUMQAYIT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/AU (Zurih)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AU_(Zurih), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/AU_(Zurih)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'AU (Zurih)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'AU (Zurih)';
+* [ (AU_(Zurih), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/AU_(Zurih)/)
 </script>
+<script type="text/javascript">

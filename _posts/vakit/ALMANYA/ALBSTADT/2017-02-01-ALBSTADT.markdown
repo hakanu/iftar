@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALBSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALBSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALBSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALBSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALBSTADT';
+* [ (ALBSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALBSTADT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/HENZADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HENZADA, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/HENZADA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'HENZADA';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'HENZADA';
+* [ (HENZADA, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/HENZADA/)
 </script>
+<script type="text/javascript">

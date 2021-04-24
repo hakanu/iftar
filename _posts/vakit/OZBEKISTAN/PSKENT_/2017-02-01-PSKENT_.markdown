@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/PSKENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PSKENT_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/PSKENT_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'PSKENT ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'PSKENT ';
+* [ (PSKENT_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/PSKENT_/)
 </script>
+<script type="text/javascript">

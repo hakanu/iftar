@@ -8,10 +8,11 @@ permalink: /BREZILYA/LARANJAL DO JARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LARANJAL_DO_JARI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/LARANJAL_DO_JARI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'LARANJAL DO JARI';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'LARANJAL DO JARI';
+* [ (LARANJAL_DO_JARI, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/LARANJAL_DO_JARI/)
 </script>
+<script type="text/javascript">

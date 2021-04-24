@@ -8,10 +8,11 @@ permalink: /ALMANYA/BUDLESDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUDLESDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUDLESDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BUDLESDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BUDLESDORF';
+* [ (BUDLESDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BUDLESDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /INGILTERE/WALLINGFORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALLINGFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WALLINGFORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WALLINGFORD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WALLINGFORD';
+* [ (WALLINGFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WALLINGFORD/)
 </script>
+<script type="text/javascript">

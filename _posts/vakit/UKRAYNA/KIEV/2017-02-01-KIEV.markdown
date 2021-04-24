@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KIEV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIEV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KIEV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KIEV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KIEV';
+* [ (KIEV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KIEV/)
 </script>
+<script type="text/javascript">

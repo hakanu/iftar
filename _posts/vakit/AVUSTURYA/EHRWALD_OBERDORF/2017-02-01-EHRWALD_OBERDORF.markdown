@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/EHRWALD OBERDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EHRWALD_OBERDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/EHRWALD_OBERDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'EHRWALD OBERDORF';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'EHRWALD OBERDORF';
+* [ (EHRWALD_OBERDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/EHRWALD_OBERDORF/)
 </script>
+<script type="text/javascript">

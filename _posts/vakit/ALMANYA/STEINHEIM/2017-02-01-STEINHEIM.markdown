@@ -8,10 +8,11 @@ permalink: /ALMANYA/STEINHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEINHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEINHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STEINHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STEINHEIM';
+* [ (STEINHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEINHEIM/)
 </script>
+<script type="text/javascript">

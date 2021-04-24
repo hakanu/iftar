@@ -8,10 +8,11 @@ permalink: /FRANSA/POITIERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POITIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/POITIERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'POITIERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'POITIERS';
+* [ (POITIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/POITIERS/)
 </script>
+<script type="text/javascript">

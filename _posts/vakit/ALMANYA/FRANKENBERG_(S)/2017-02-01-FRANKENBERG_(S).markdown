@@ -8,10 +8,11 @@ permalink: /ALMANYA/FRANKENBERG (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRANKENBERG_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRANKENBERG_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FRANKENBERG (S)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FRANKENBERG (S)';
+* [ (FRANKENBERG_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRANKENBERG_(S)/)
 </script>
+<script type="text/javascript">

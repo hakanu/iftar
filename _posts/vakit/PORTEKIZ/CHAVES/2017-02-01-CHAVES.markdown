@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/CHAVES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHAVES, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/CHAVES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'CHAVES';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'CHAVES';
+* [ (CHAVES, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/CHAVES/)
 </script>
+<script type="text/javascript">

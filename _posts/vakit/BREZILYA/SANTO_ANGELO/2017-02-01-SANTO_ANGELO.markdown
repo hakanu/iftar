@@ -8,10 +8,11 @@ permalink: /BREZILYA/SANTO ANGELO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTO_ANGELO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTO_ANGELO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SANTO ANGELO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SANTO ANGELO';
+* [ (SANTO_ANGELO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTO_ANGELO/)
 </script>
+<script type="text/javascript">

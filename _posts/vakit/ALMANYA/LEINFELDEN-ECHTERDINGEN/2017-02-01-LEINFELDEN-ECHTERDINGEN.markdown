@@ -8,10 +8,11 @@ permalink: /ALMANYA/LEINFELDEN-ECHTERDINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEINFELDEN-ECHTERDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEINFELDEN-ECHTERDINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LEINFELDEN-ECHTERDINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LEINFELDEN-ECHTERDINGEN';
+* [ (LEINFELDEN-ECHTERDINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEINFELDEN-ECHTERDINGEN/)
 </script>
+<script type="text/javascript">

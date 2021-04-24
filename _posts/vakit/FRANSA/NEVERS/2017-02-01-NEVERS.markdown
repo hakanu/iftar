@@ -8,10 +8,11 @@ permalink: /FRANSA/NEVERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEVERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEVERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NEVERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NEVERS';
+* [ (NEVERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEVERS/)
 </script>
+<script type="text/javascript">

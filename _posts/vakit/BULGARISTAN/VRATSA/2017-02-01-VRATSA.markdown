@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/VRATSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VRATSA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/VRATSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'VRATSA';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'VRATSA';
+* [ (VRATSA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/VRATSA/)
 </script>
+<script type="text/javascript">

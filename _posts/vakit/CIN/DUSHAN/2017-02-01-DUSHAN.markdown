@@ -8,10 +8,11 @@ permalink: /CIN/DUSHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUSHAN, CIN) için iftar ve namaz vakitleri](/CIN/DUSHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DUSHAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DUSHAN';
+* [ (DUSHAN, CIN) için iftar ve namaz vakitleri](/CIN/DUSHAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/RENNES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RENNES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RENNES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RENNES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RENNES';
+* [ (RENNES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RENNES/)
 </script>
+<script type="text/javascript">

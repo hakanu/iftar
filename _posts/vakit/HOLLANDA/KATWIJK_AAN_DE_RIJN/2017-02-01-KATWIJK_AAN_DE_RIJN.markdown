@@ -8,10 +8,11 @@ permalink: /HOLLANDA/KATWIJK AAN DE RIJN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KATWIJK_AAN_DE_RIJN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KATWIJK_AAN_DE_RIJN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'KATWIJK AAN DE RIJN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'KATWIJK AAN DE RIJN';
+* [ (KATWIJK_AAN_DE_RIJN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KATWIJK_AAN_DE_RIJN/)
 </script>
+<script type="text/javascript">

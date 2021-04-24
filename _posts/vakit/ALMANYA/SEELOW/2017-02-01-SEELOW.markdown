@@ -8,10 +8,11 @@ permalink: /ALMANYA/SEELOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEELOW, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEELOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SEELOW';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SEELOW';
+* [ (SEELOW, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEELOW/)
 </script>
+<script type="text/javascript">

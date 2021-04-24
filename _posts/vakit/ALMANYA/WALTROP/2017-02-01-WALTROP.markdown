@@ -8,10 +8,11 @@ permalink: /ALMANYA/WALTROP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALTROP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALTROP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WALTROP';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WALTROP';
+* [ (WALTROP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALTROP/)
 </script>
+<script type="text/javascript">

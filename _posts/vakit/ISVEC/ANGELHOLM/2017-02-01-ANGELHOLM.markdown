@@ -8,10 +8,11 @@ permalink: /ISVEC/ANGELHOLM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANGELHOLM, ISVEC) için iftar ve namaz vakitleri](/ISVEC/ANGELHOLM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'ANGELHOLM';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'ANGELHOLM';
+* [ (ANGELHOLM, ISVEC) için iftar ve namaz vakitleri](/ISVEC/ANGELHOLM/)
 </script>
+<script type="text/javascript">

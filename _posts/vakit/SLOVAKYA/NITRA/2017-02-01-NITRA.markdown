@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/NITRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NITRA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/NITRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'NITRA';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'NITRA';
+* [ (NITRA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/NITRA/)
 </script>
+<script type="text/javascript">

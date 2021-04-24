@@ -8,10 +8,11 @@ permalink: /ALMANYA/WIEHL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WIEHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WIEHL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WIEHL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WIEHL';
+* [ (WIEHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WIEHL/)
 </script>
+<script type="text/javascript">

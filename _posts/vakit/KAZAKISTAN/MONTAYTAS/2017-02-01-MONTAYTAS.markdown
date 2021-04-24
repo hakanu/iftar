@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/MONTAYTAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTAYTAS, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MONTAYTAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'MONTAYTAS';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'MONTAYTAS';
+* [ (MONTAYTAS, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MONTAYTAS/)
 </script>
+<script type="text/javascript">

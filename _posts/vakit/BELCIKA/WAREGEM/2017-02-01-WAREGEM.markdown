@@ -8,10 +8,11 @@ permalink: /BELCIKA/WAREGEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAREGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WAREGEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WAREGEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WAREGEM';
+* [ (WAREGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WAREGEM/)
 </script>
+<script type="text/javascript">

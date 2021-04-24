@@ -8,10 +8,11 @@ permalink: /ALMANYA/ECKERNFORDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ECKERNFORDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ECKERNFORDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ECKERNFORDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ECKERNFORDE';
+* [ (ECKERNFORDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ECKERNFORDE/)
 </script>
+<script type="text/javascript">

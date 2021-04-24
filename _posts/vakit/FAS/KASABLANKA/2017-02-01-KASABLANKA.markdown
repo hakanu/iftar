@@ -8,10 +8,11 @@ permalink: /FAS/KASABLANKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASABLANKA, FAS) için iftar ve namaz vakitleri](/FAS/KASABLANKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'KASABLANKA';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'KASABLANKA';
+* [ (KASABLANKA, FAS) için iftar ve namaz vakitleri](/FAS/KASABLANKA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MACARISTAN/OROSZLANY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OROSZLANY, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/OROSZLANY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'OROSZLANY';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'OROSZLANY';
+* [ (OROSZLANY, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/OROSZLANY/)
 </script>
+<script type="text/javascript">

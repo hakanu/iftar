@@ -8,10 +8,11 @@ permalink: /MISIR/DIMYAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIMYAT, MISIR) için iftar ve namaz vakitleri](/MISIR/DIMYAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'DIMYAT';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'DIMYAT';
+* [ (DIMYAT, MISIR) için iftar ve namaz vakitleri](/MISIR/DIMYAT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ROCKHAMPTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROCKHAMPTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROCKHAMPTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ROCKHAMPTON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ROCKHAMPTON';
+* [ (ROCKHAMPTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROCKHAMPTON/)
 </script>
+<script type="text/javascript">

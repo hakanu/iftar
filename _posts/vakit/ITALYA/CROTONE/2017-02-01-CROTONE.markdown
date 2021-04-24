@@ -8,10 +8,11 @@ permalink: /ITALYA/CROTONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CROTONE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CROTONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CROTONE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CROTONE';
+* [ (CROTONE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CROTONE/)
 </script>
+<script type="text/javascript">

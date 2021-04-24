@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOORABBIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOORABBIN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOORABBIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOORABBIN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOORABBIN';
+* [ (MOORABBIN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOORABBIN/)
 </script>
+<script type="text/javascript">

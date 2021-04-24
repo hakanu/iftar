@@ -8,10 +8,11 @@ permalink: /NIJERYA/AKWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKWA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/AKWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'AKWA';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'AKWA';
+* [ (AKWA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/AKWA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/SHAOYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHAOYANG, CIN) için iftar ve namaz vakitleri](/CIN/SHAOYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHAOYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHAOYANG';
+* [ (SHAOYANG, CIN) için iftar ve namaz vakitleri](/CIN/SHAOYANG/)
 </script>
+<script type="text/javascript">

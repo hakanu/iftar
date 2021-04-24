@@ -8,10 +8,11 @@ permalink: /FRANSA/THIERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/THIERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'THIERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'THIERS';
+* [ (THIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/THIERS/)
 </script>
+<script type="text/javascript">

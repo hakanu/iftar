@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/PARKENT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARKENT_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/PARKENT_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'PARKENT ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'PARKENT ';
+* [ (PARKENT_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/PARKENT_/)
 </script>
+<script type="text/javascript">

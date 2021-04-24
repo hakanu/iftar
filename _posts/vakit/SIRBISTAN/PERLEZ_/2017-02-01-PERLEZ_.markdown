@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/PERLEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERLEZ_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/PERLEZ_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'PERLEZ ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'PERLEZ ';
+* [ (PERLEZ_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/PERLEZ_/)
 </script>
+<script type="text/javascript">

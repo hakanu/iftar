@@ -8,10 +8,11 @@ permalink: /UKRAYNA/VALKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALKI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VALKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'VALKI';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'VALKI';
+* [ (VALKI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VALKI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/TERESINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERESINA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TERESINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'TERESINA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'TERESINA';
+* [ (TERESINA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/TERESINA/)
 </script>
+<script type="text/javascript">

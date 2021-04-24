@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ACAPULCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ACAPULCO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ACAPULCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ACAPULCO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ACAPULCO';
+* [ (ACAPULCO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ACAPULCO/)
 </script>
+<script type="text/javascript">

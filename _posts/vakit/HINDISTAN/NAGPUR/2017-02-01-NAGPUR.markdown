@@ -8,10 +8,11 @@ permalink: /HINDISTAN/NAGPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/NAGPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'NAGPUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'NAGPUR';
+* [ (NAGPUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/NAGPUR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/KIROV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIROV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KIROV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KIROV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KIROV';
+* [ (KIROV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KIROV/)
 </script>
+<script type="text/javascript">

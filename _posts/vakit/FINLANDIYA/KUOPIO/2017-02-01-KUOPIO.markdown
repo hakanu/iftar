@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/KUOPIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUOPIO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KUOPIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'KUOPIO';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'KUOPIO';
+* [ (KUOPIO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KUOPIO/)
 </script>
+<script type="text/javascript">

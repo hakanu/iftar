@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/BANFORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANFORA, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/BANFORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'BANFORA';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'BANFORA';
+* [ (BANFORA, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/BANFORA/)
 </script>
+<script type="text/javascript">

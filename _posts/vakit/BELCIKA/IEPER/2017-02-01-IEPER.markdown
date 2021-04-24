@@ -8,10 +8,11 @@ permalink: /BELCIKA/IEPER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IEPER, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/IEPER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'IEPER';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'IEPER';
+* [ (IEPER, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/IEPER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/TOYAKAWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOYAKAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOYAKAWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TOYAKAWA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TOYAKAWA';
+* [ (TOYAKAWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOYAKAWA/)
 </script>
+<script type="text/javascript">

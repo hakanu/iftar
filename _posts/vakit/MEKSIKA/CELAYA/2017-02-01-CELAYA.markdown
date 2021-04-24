@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CELAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CELAYA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CELAYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CELAYA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CELAYA';
+* [ (CELAYA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CELAYA/)
 </script>
+<script type="text/javascript">

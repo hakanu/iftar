@@ -8,10 +8,11 @@ permalink: /MISIR/AL MINYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_MINYA, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_MINYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'AL MINYA';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'AL MINYA';
+* [ (AL_MINYA, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_MINYA/)
 </script>
+<script type="text/javascript">

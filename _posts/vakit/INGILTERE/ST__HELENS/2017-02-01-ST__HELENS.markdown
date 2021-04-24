@@ -8,10 +8,11 @@ permalink: /INGILTERE/ST_ HELENS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__HELENS, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ST__HELENS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'ST_ HELENS';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'ST_ HELENS';
+* [ (ST__HELENS, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/ST__HELENS/)
 </script>
+<script type="text/javascript">

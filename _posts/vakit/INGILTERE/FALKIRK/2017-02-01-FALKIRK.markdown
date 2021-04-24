@@ -8,10 +8,11 @@ permalink: /INGILTERE/FALKIRK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FALKIRK, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/FALKIRK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'FALKIRK';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'FALKIRK';
+* [ (FALKIRK, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/FALKIRK/)
 </script>
+<script type="text/javascript">

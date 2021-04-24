@@ -8,10 +8,11 @@ permalink: /ISVICRE/GRENCHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRENCHEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/GRENCHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'GRENCHEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'GRENCHEN';
+* [ (GRENCHEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/GRENCHEN/)
 </script>
+<script type="text/javascript">

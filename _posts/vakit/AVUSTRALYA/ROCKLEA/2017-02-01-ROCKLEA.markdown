@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ROCKLEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROCKLEA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROCKLEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ROCKLEA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ROCKLEA';
+* [ (ROCKLEA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROCKLEA/)
 </script>
+<script type="text/javascript">

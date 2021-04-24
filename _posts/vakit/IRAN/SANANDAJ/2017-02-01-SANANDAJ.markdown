@@ -8,10 +8,11 @@ permalink: /IRAN/SANANDAJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANANDAJ, IRAN) için iftar ve namaz vakitleri](/IRAN/SANANDAJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'SANANDAJ';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'SANANDAJ';
+* [ (SANANDAJ, IRAN) için iftar ve namaz vakitleri](/IRAN/SANANDAJ/)
 </script>
+<script type="text/javascript">

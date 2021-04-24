@@ -8,10 +8,11 @@ permalink: /DANIMARKA/VISBY (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VISBY_(S), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VISBY_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'VISBY (S)';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'VISBY (S)';
+* [ (VISBY_(S), DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VISBY_(S)/)
 </script>
+<script type="text/javascript">

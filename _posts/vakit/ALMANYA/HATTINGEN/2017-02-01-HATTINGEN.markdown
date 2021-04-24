@@ -8,10 +8,11 @@ permalink: /ALMANYA/HATTINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HATTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HATTINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HATTINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HATTINGEN';
+* [ (HATTINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HATTINGEN/)
 </script>
+<script type="text/javascript">

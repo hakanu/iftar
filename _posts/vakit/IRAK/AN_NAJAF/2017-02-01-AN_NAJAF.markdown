@@ -8,10 +8,11 @@ permalink: /IRAK/AN NAJAF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AN_NAJAF, IRAK) için iftar ve namaz vakitleri](/IRAK/AN_NAJAF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'AN NAJAF';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'AN NAJAF';
+* [ (AN_NAJAF, IRAK) için iftar ve namaz vakitleri](/IRAK/AN_NAJAF/)
 </script>
+<script type="text/javascript">

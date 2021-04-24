@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KIROVOHRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIROVOHRAD, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KIROVOHRAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KIROVOHRAD';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KIROVOHRAD';
+* [ (KIROVOHRAD, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KIROVOHRAD/)
 </script>
+<script type="text/javascript">

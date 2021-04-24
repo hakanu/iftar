@@ -8,10 +8,11 @@ permalink: /ALMANYA/FORBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FORBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FORBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FORBACH';
+* [ (FORBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FORBACH/)
 </script>
+<script type="text/javascript">

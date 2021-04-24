@@ -8,10 +8,11 @@ permalink: /IRAK/KERBELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERBELA, IRAK) için iftar ve namaz vakitleri](/IRAK/KERBELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'KERBELA';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'KERBELA';
+* [ (KERBELA, IRAK) için iftar ve namaz vakitleri](/IRAK/KERBELA/)
 </script>
+<script type="text/javascript">

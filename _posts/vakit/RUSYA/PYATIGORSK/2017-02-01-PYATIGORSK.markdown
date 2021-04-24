@@ -8,10 +8,11 @@ permalink: /RUSYA/PYATIGORSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PYATIGORSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PYATIGORSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PYATIGORSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PYATIGORSK';
+* [ (PYATIGORSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PYATIGORSK/)
 </script>
+<script type="text/javascript">

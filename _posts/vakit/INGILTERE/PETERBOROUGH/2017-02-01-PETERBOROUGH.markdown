@@ -8,10 +8,11 @@ permalink: /INGILTERE/PETERBOROUGH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETERBOROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PETERBOROUGH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'PETERBOROUGH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'PETERBOROUGH';
+* [ (PETERBOROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PETERBOROUGH/)
 </script>
+<script type="text/javascript">

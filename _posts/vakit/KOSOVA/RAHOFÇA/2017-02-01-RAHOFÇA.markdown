@@ -8,10 +8,11 @@ permalink: /KOSOVA/RAHOFÇA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAHOFÇA, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/RAHOFÇA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSOVA';
+
   var GLOBAL_CITY = 'RAHOFÇA';
+  var GLOBAL_COUNTRY = 'KOSOVA';
   var GLOBAL_STATE = 'RAHOFÇA';
+* [ (RAHOFÇA, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/RAHOFÇA/)
 </script>
+<script type="text/javascript">

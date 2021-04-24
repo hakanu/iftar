@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEUBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEUBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEUBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEUBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEUBACH';
+* [ (HEUBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEUBACH/)
 </script>
+<script type="text/javascript">

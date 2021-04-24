@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/SNUG CORNER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SNUG_CORNER, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/SNUG_CORNER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'SNUG CORNER';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'SNUG CORNER';
+* [ (SNUG_CORNER, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/SNUG_CORNER/)
 </script>
+<script type="text/javascript">

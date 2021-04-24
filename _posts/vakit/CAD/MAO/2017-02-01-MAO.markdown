@@ -8,10 +8,11 @@ permalink: /CAD/MAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAO, CAD) için iftar ve namaz vakitleri](/CAD/MAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'MAO';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'MAO';
+* [ (MAO, CAD) için iftar ve namaz vakitleri](/CAD/MAO/)
 </script>
+<script type="text/javascript">

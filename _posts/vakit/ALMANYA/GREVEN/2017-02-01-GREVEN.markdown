@@ -8,10 +8,11 @@ permalink: /ALMANYA/GREVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GREVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GREVEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GREVEN';
+* [ (GREVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREVEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/SAN PEDRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_PEDRO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_PEDRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'SAN PEDRO';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'SAN PEDRO';
+* [ (SAN_PEDRO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_PEDRO/)
 </script>
+<script type="text/javascript">

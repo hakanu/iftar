@@ -8,10 +8,11 @@ permalink: /BREZILYA/GUARATINGUETA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUARATINGUETA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GUARATINGUETA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'GUARATINGUETA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'GUARATINGUETA';
+* [ (GUARATINGUETA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/GUARATINGUETA/)
 </script>
+<script type="text/javascript">

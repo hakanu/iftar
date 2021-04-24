@@ -8,10 +8,11 @@ permalink: /TAYLAND/UDON THANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UDON_THANI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/UDON_THANI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'UDON THANI';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'UDON THANI';
+* [ (UDON_THANI, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/UDON_THANI/)
 </script>
+<script type="text/javascript">

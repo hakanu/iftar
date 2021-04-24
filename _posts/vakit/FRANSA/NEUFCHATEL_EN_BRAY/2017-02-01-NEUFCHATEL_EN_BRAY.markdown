@@ -8,10 +8,11 @@ permalink: /FRANSA/NEUFCHATEL EN BRAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUFCHATEL_EN_BRAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEUFCHATEL_EN_BRAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'NEUFCHATEL EN BRAY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'NEUFCHATEL EN BRAY';
+* [ (NEUFCHATEL_EN_BRAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/NEUFCHATEL_EN_BRAY/)
 </script>
+<script type="text/javascript">

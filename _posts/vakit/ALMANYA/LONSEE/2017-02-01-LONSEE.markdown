@@ -8,10 +8,11 @@ permalink: /ALMANYA/LONSEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LONSEE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LONSEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LONSEE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LONSEE';
+* [ (LONSEE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LONSEE/)
 </script>
+<script type="text/javascript">

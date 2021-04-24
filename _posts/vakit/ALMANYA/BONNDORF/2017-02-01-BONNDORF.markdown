@@ -8,10 +8,11 @@ permalink: /ALMANYA/BONNDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BONNDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BONNDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BONNDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BONNDORF';
+* [ (BONNDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BONNDORF/)
 </script>
+<script type="text/javascript">

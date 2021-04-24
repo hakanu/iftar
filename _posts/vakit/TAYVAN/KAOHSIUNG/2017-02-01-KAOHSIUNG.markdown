@@ -8,10 +8,11 @@ permalink: /TAYVAN/KAOHSIUNG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAOHSIUNG, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/KAOHSIUNG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'KAOHSIUNG';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'KAOHSIUNG';
+* [ (KAOHSIUNG, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/KAOHSIUNG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BLIESKASTEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLIESKASTEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLIESKASTEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BLIESKASTEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BLIESKASTEL';
+* [ (BLIESKASTEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLIESKASTEL/)
 </script>
+<script type="text/javascript">

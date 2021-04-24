@@ -8,10 +8,11 @@ permalink: /MACARISTAN/SZEKESFEHERVAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SZEKESFEHERVAR, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZEKESFEHERVAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'SZEKESFEHERVAR';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'SZEKESFEHERVAR';
+* [ (SZEKESFEHERVAR, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SZEKESFEHERVAR/)
 </script>
+<script type="text/javascript">

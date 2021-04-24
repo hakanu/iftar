@@ -8,10 +8,11 @@ permalink: /SURIYE/AL QAMISHLI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_QAMISHLI, SURIYE) için iftar ve namaz vakitleri](/SURIYE/AL_QAMISHLI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'AL QAMISHLI';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'AL QAMISHLI';
+* [ (AL_QAMISHLI, SURIYE) için iftar ve namaz vakitleri](/SURIYE/AL_QAMISHLI/)
 </script>
+<script type="text/javascript">

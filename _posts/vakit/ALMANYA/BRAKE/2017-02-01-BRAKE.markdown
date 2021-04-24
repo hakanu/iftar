@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRAKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRAKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRAKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRAKE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRAKE';
+* [ (BRAKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRAKE/)
 </script>
+<script type="text/javascript">

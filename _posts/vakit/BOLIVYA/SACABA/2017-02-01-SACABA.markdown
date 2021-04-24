@@ -8,10 +8,11 @@ permalink: /BOLIVYA/SACABA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SACABA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SACABA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'SACABA';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'SACABA';
+* [ (SACABA, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SACABA/)
 </script>
+<script type="text/javascript">

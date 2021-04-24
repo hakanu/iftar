@@ -8,10 +8,11 @@ permalink: /KUBA/HOLGUIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLGUIN, KUBA) için iftar ve namaz vakitleri](/KUBA/HOLGUIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'HOLGUIN';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'HOLGUIN';
+* [ (HOLGUIN, KUBA) için iftar ve namaz vakitleri](/KUBA/HOLGUIN/)
 </script>
+<script type="text/javascript">

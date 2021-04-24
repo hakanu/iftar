@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GORINCHEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GORINCHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GORINCHEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GORINCHEM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GORINCHEM';
+* [ (GORINCHEM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GORINCHEM/)
 </script>
+<script type="text/javascript">

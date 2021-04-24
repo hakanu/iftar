@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/VRANJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VRANJE_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/VRANJE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'VRANJE ';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'VRANJE ';
+* [ (VRANJE_, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/VRANJE_/)
 </script>
+<script type="text/javascript">

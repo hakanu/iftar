@@ -8,10 +8,11 @@ permalink: /BREZILYA/SANTA RITA DO S_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_RITA_DO_S_, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTA_RITA_DO_S_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SANTA RITA DO S_';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SANTA RITA DO S_';
+* [ (SANTA_RITA_DO_S_, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTA_RITA_DO_S_/)
 </script>
+<script type="text/javascript">

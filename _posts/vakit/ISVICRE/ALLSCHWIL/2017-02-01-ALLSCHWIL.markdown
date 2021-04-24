@@ -8,10 +8,11 @@ permalink: /ISVICRE/ALLSCHWIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALLSCHWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ALLSCHWIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ALLSCHWIL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ALLSCHWIL';
+* [ (ALLSCHWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ALLSCHWIL/)
 </script>
+<script type="text/javascript">

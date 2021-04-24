@@ -8,10 +8,11 @@ permalink: /ALMANYA/HIDDENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIDDENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HIDDENHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HIDDENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HIDDENHAUSEN';
+* [ (HIDDENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HIDDENHAUSEN/)
 </script>
+<script type="text/javascript">

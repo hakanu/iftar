@@ -8,10 +8,11 @@ permalink: /ALMANYA/RONNEBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RONNEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RONNEBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RONNEBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RONNEBURG';
+* [ (RONNEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RONNEBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/LAMIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAMIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/LAMIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'LAMIA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'LAMIA';
+* [ (LAMIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/LAMIA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BURPENGARY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURPENGARY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BURPENGARY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BURPENGARY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BURPENGARY';
+* [ (BURPENGARY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BURPENGARY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/COFFS HARBOUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COFFS_HARBOUR, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/COFFS_HARBOUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'COFFS HARBOUR';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'COFFS HARBOUR';
+* [ (COFFS_HARBOUR, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/COFFS_HARBOUR/)
 </script>
+<script type="text/javascript">

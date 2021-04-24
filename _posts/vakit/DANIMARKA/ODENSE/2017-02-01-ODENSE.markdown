@@ -8,10 +8,11 @@ permalink: /DANIMARKA/ODENSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ODENSE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ODENSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'ODENSE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'ODENSE';
+* [ (ODENSE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ODENSE/)
 </script>
+<script type="text/javascript">

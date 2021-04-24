@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/BURAYDAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURAYDAH, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/BURAYDAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'BURAYDAH';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'BURAYDAH';
+* [ (BURAYDAH, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/BURAYDAH/)
 </script>
+<script type="text/javascript">

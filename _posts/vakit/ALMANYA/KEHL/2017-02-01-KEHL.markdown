@@ -8,10 +8,11 @@ permalink: /ALMANYA/KEHL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KEHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KEHL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KEHL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KEHL';
+* [ (KEHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KEHL/)
 </script>
+<script type="text/javascript">

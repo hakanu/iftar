@@ -8,10 +8,11 @@ permalink: /ALMANYA/AICHACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AICHACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AICHACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AICHACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AICHACH';
+* [ (AICHACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AICHACH/)
 </script>
+<script type="text/javascript">

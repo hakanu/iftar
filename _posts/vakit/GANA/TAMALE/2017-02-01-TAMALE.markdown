@@ -8,10 +8,11 @@ permalink: /GANA/TAMALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAMALE, GANA) için iftar ve namaz vakitleri](/GANA/TAMALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'TAMALE';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'TAMALE';
+* [ (TAMALE, GANA) için iftar ve namaz vakitleri](/GANA/TAMALE/)
 </script>
+<script type="text/javascript">

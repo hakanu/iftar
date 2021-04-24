@@ -8,10 +8,11 @@ permalink: /SURIYE/HAMAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMAH, SURIYE) için iftar ve namaz vakitleri](/SURIYE/HAMAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'HAMAH';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'HAMAH';
+* [ (HAMAH, SURIYE) için iftar ve namaz vakitleri](/SURIYE/HAMAH/)
 </script>
+<script type="text/javascript">

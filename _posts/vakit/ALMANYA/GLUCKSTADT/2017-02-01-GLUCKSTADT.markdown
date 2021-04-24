@@ -8,10 +8,11 @@ permalink: /ALMANYA/GLUCKSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GLUCKSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLUCKSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GLUCKSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GLUCKSTADT';
+* [ (GLUCKSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GLUCKSTADT/)
 </script>
+<script type="text/javascript">

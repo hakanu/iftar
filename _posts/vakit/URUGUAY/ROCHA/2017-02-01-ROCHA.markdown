@@ -8,10 +8,11 @@ permalink: /URUGUAY/ROCHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROCHA, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/ROCHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'ROCHA';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'ROCHA';
+* [ (ROCHA, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/ROCHA/)
 </script>
+<script type="text/javascript">

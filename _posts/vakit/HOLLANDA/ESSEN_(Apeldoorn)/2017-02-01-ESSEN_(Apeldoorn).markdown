@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ESSEN (Apeldoorn)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESSEN_(Apeldoorn), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ESSEN_(Apeldoorn)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ESSEN (Apeldoorn)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ESSEN (Apeldoorn)';
+* [ (ESSEN_(Apeldoorn), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ESSEN_(Apeldoorn)/)
 </script>
+<script type="text/javascript">

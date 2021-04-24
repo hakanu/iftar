@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHUTTORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHUTTORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHUTTORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHUTTORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHUTTORF';
+* [ (SCHUTTORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHUTTORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/MAULBRONN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAULBRONN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAULBRONN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MAULBRONN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MAULBRONN';
+* [ (MAULBRONN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MAULBRONN/)
 </script>
+<script type="text/javascript">

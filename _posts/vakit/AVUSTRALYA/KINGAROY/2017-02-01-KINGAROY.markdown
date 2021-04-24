@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/KINGAROY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINGAROY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KINGAROY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'KINGAROY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'KINGAROY';
+* [ (KINGAROY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KINGAROY/)
 </script>
+<script type="text/javascript">

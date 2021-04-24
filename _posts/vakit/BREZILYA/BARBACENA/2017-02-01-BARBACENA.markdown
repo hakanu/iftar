@@ -8,10 +8,11 @@ permalink: /BREZILYA/BARBACENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARBACENA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BARBACENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BARBACENA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BARBACENA';
+* [ (BARBACENA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BARBACENA/)
 </script>
+<script type="text/javascript">

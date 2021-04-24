@@ -8,10 +8,11 @@ permalink: /SUDAN/NYALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NYALA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/NYALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SUDAN';
+
   var GLOBAL_CITY = 'NYALA';
+  var GLOBAL_COUNTRY = 'SUDAN';
   var GLOBAL_STATE = 'NYALA';
+* [ (NYALA, SUDAN) için iftar ve namaz vakitleri](/SUDAN/NYALA/)
 </script>
+<script type="text/javascript">

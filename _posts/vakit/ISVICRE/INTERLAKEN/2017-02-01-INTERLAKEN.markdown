@@ -8,10 +8,11 @@ permalink: /ISVICRE/INTERLAKEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INTERLAKEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/INTERLAKEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'INTERLAKEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'INTERLAKEN';
+* [ (INTERLAKEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/INTERLAKEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /URDUN/IRBID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IRBID, URDUN) için iftar ve namaz vakitleri](/URDUN/IRBID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URDUN';
+
   var GLOBAL_CITY = 'IRBID';
+  var GLOBAL_COUNTRY = 'URDUN';
   var GLOBAL_STATE = 'IRBID';
+* [ (IRBID, URDUN) için iftar ve namaz vakitleri](/URDUN/IRBID/)
 </script>
+<script type="text/javascript">

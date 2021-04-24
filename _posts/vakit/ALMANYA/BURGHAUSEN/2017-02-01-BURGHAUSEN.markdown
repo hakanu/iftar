@@ -8,10 +8,11 @@ permalink: /ALMANYA/BURGHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURGHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURGHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BURGHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BURGHAUSEN';
+* [ (BURGHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURGHAUSEN/)
 </script>
+<script type="text/javascript">

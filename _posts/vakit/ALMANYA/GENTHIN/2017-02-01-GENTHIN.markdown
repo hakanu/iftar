@@ -8,10 +8,11 @@ permalink: /ALMANYA/GENTHIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENTHIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GENTHIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GENTHIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GENTHIN';
+* [ (GENTHIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GENTHIN/)
 </script>
+<script type="text/javascript">

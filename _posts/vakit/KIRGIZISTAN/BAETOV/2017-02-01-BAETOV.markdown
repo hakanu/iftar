@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/BAETOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAETOV, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BAETOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'BAETOV';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'BAETOV';
+* [ (BAETOV, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BAETOV/)
 </script>
+<script type="text/javascript">

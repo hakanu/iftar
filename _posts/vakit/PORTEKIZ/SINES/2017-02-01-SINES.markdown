@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/SINES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINES, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/SINES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'SINES';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'SINES';
+* [ (SINES, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/SINES/)
 </script>
+<script type="text/javascript">

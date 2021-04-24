@@ -8,10 +8,11 @@ permalink: /CIN/KARAMAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAMAY, CIN) için iftar ve namaz vakitleri](/CIN/KARAMAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KARAMAY';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KARAMAY';
+* [ (KARAMAY, CIN) için iftar ve namaz vakitleri](/CIN/KARAMAY/)
 </script>
+<script type="text/javascript">

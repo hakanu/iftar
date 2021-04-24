@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MACKAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MACKAY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MACKAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MACKAY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MACKAY';
+* [ (MACKAY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MACKAY/)
 </script>
+<script type="text/javascript">

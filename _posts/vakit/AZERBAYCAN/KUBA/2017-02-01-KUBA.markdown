@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/KUBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUBA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KUBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'KUBA';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'KUBA';
+* [ (KUBA, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KUBA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/IZHEVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IZHEVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/IZHEVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'IZHEVSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'IZHEVSK';
+* [ (IZHEVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/IZHEVSK/)
 </script>
+<script type="text/javascript">

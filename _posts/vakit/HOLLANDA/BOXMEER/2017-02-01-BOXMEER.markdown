@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BOXMEER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOXMEER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BOXMEER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BOXMEER';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BOXMEER';
+* [ (BOXMEER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BOXMEER/)
 </script>
+<script type="text/javascript">

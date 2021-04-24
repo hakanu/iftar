@@ -8,10 +8,11 @@ permalink: /CIN/LANZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANZHOU, CIN) için iftar ve namaz vakitleri](/CIN/LANZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LANZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LANZHOU';
+* [ (LANZHOU, CIN) için iftar ve namaz vakitleri](/CIN/LANZHOU/)
 </script>
+<script type="text/javascript">

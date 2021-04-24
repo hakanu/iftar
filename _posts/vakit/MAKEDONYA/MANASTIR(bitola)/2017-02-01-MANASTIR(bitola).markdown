@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/MANASTIR(bitola)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANASTIR(bitola), MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/MANASTIR(bitola)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'MANASTIR(bitola)';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'MANASTIR(bitola)';
+* [ (MANASTIR(bitola), MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/MANASTIR(bitola)/)
 </script>
+<script type="text/javascript">

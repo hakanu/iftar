@@ -8,10 +8,11 @@ permalink: /ISVEC/LJUNGBY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LJUNGBY, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LJUNGBY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LJUNGBY';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LJUNGBY';
+* [ (LJUNGBY, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LJUNGBY/)
 </script>
+<script type="text/javascript">

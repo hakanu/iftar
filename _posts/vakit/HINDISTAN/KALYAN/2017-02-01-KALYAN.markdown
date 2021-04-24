@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KALYAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALYAN, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KALYAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KALYAN';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KALYAN';
+* [ (KALYAN, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KALYAN/)
 </script>
+<script type="text/javascript">

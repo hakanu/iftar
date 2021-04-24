@@ -8,10 +8,11 @@ permalink: /ITALYA/VICENZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VICENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VICENZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VICENZA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VICENZA';
+* [ (VICENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VICENZA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/ELSFETH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELSFETH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELSFETH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ELSFETH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ELSFETH';
+* [ (ELSFETH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELSFETH/)
 </script>
+<script type="text/javascript">

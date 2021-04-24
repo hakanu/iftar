@@ -8,10 +8,11 @@ permalink: /FRANSA/DOUARNENEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOUARNENEZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DOUARNENEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DOUARNENEZ';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DOUARNENEZ';
+* [ (DOUARNENEZ, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DOUARNENEZ/)
 </script>
+<script type="text/javascript">

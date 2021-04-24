@@ -8,10 +8,11 @@ permalink: /INGILTERE/TORQUAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TORQUAY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/TORQUAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'TORQUAY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'TORQUAY';
+* [ (TORQUAY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/TORQUAY/)
 </script>
+<script type="text/javascript">

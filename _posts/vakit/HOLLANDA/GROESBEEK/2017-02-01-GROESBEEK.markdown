@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GROESBEEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GROESBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GROESBEEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GROESBEEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GROESBEEK';
+* [ (GROESBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GROESBEEK/)
 </script>
+<script type="text/javascript">

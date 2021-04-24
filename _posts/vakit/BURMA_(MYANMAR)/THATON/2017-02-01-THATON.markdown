@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/THATON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THATON, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/THATON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'THATON';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'THATON';
+* [ (THATON, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/THATON/)
 </script>
+<script type="text/javascript">

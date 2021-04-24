@@ -8,10 +8,11 @@ permalink: /ARJANTIN/VICENTE LOPEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VICENTE_LOPEZ, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/VICENTE_LOPEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'VICENTE LOPEZ';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'VICENTE LOPEZ';
+* [ (VICENTE_LOPEZ, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/VICENTE_LOPEZ/)
 </script>
+<script type="text/javascript">

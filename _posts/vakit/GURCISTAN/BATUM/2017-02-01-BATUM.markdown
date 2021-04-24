@@ -8,10 +8,11 @@ permalink: /GURCISTAN/BATUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATUM, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/BATUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'BATUM';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'BATUM';
+* [ (BATUM, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/BATUM/)
 </script>
+<script type="text/javascript">

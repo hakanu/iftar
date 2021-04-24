@@ -8,10 +8,11 @@ permalink: /JAMAIKA/KINGSTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINGSTON, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/KINGSTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAMAIKA';
+
   var GLOBAL_CITY = 'KINGSTON';
+  var GLOBAL_COUNTRY = 'JAMAIKA';
   var GLOBAL_STATE = 'KINGSTON';
+* [ (KINGSTON, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/KINGSTON/)
 </script>
+<script type="text/javascript">

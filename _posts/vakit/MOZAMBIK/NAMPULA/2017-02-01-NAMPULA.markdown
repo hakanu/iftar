@@ -8,10 +8,11 @@ permalink: /MOZAMBIK/NAMPULA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAMPULA, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/NAMPULA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOZAMBIK';
+
   var GLOBAL_CITY = 'NAMPULA';
+  var GLOBAL_COUNTRY = 'MOZAMBIK';
   var GLOBAL_STATE = 'NAMPULA';
+* [ (NAMPULA, MOZAMBIK) için iftar ve namaz vakitleri](/MOZAMBIK/NAMPULA/)
 </script>
+<script type="text/javascript">

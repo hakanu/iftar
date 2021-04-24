@@ -8,10 +8,11 @@ permalink: /MALEZYA/BATU GAJAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATU_GAJAH, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/BATU_GAJAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'BATU GAJAH';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'BATU GAJAH';
+* [ (BATU_GAJAH, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/BATU_GAJAH/)
 </script>
+<script type="text/javascript">

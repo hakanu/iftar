@@ -8,10 +8,11 @@ permalink: /RUSYA/LOBNYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOBNYA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LOBNYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'LOBNYA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'LOBNYA';
+* [ (LOBNYA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LOBNYA/)
 </script>
+<script type="text/javascript">

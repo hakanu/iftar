@@ -8,10 +8,11 @@ permalink: /ITALYA/PINEROLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINEROLO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PINEROLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PINEROLO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PINEROLO';
+* [ (PINEROLO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PINEROLO/)
 </script>
+<script type="text/javascript">

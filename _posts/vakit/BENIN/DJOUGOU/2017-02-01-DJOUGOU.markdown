@@ -8,10 +8,11 @@ permalink: /BENIN/DJOUGOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DJOUGOU, BENIN) için iftar ve namaz vakitleri](/BENIN/DJOUGOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'DJOUGOU';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'DJOUGOU';
+* [ (DJOUGOU, BENIN) için iftar ve namaz vakitleri](/BENIN/DJOUGOU/)
 </script>
+<script type="text/javascript">

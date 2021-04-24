@@ -8,10 +8,11 @@ permalink: /VENEZUELA/PORLAMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORLAMAR, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PORLAMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'PORLAMAR';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'PORLAMAR';
+* [ (PORLAMAR, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/PORLAMAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /UKRAYNA/PECHENEGI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PECHENEGI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/PECHENEGI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'PECHENEGI';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'PECHENEGI';
+* [ (PECHENEGI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/PECHENEGI/)
 </script>
+<script type="text/javascript">

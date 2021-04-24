@@ -8,10 +8,11 @@ permalink: /ARJANTIN/GUALEGUAYCHU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUALEGUAYCHU, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GUALEGUAYCHU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'GUALEGUAYCHU';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'GUALEGUAYCHU';
+* [ (GUALEGUAYCHU, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GUALEGUAYCHU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /IRAN/SHIRAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHIRAZ, IRAN) için iftar ve namaz vakitleri](/IRAN/SHIRAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'SHIRAZ';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'SHIRAZ';
+* [ (SHIRAZ, IRAN) için iftar ve namaz vakitleri](/IRAN/SHIRAZ/)
 </script>
+<script type="text/javascript">

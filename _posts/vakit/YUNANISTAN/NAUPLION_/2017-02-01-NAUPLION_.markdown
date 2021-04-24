@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/NAUPLION
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAUPLION_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/NAUPLION_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'NAUPLION ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'NAUPLION ';
+* [ (NAUPLION_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/NAUPLION_/)
 </script>
+<script type="text/javascript">

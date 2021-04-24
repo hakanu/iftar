@@ -8,10 +8,11 @@ permalink: /ALMANYA/EBRACH (Wurzburg)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EBRACH_(Wurzburg), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EBRACH_(Wurzburg)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EBRACH (Wurzburg)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EBRACH (Wurzburg)';
+* [ (EBRACH_(Wurzburg), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EBRACH_(Wurzburg)/)
 </script>
+<script type="text/javascript">

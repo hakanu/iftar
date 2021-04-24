@@ -8,10 +8,11 @@ permalink: /ALMANYA/ULM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ULM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ULM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ULM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ULM';
+* [ (ULM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ULM/)
 </script>
+<script type="text/javascript">

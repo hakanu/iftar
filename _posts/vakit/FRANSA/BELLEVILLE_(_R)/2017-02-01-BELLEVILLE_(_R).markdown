@@ -8,10 +8,11 @@ permalink: /FRANSA/BELLEVILLE ( R)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELLEVILLE_(_R), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BELLEVILLE_(_R)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BELLEVILLE ( R)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BELLEVILLE ( R)';
+* [ (BELLEVILLE_(_R), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BELLEVILLE_(_R)/)
 </script>
+<script type="text/javascript">

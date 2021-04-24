@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/PIETERMARITZBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIETERMARITZBURG, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/PIETERMARITZBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'PIETERMARITZBURG';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'PIETERMARITZBURG';
+* [ (PIETERMARITZBURG, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/PIETERMARITZBURG/)
 </script>
+<script type="text/javascript">

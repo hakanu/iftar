@@ -8,10 +8,11 @@ permalink: /RUSYA/SIMBIRSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIMBIRSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SIMBIRSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SIMBIRSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SIMBIRSK';
+* [ (SIMBIRSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SIMBIRSK/)
 </script>
+<script type="text/javascript">

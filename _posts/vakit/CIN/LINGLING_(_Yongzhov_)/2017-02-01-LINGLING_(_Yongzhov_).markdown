@@ -8,10 +8,11 @@ permalink: /CIN/LINGLING ( Yongzhov )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINGLING_(_Yongzhov_), CIN) için iftar ve namaz vakitleri](/CIN/LINGLING_(_Yongzhov_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LINGLING ( Yongzhov )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LINGLING ( Yongzhov )';
+* [ (LINGLING_(_Yongzhov_), CIN) için iftar ve namaz vakitleri](/CIN/LINGLING_(_Yongzhov_)/)
 </script>
+<script type="text/javascript">

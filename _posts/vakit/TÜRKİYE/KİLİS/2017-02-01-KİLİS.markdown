@@ -8,12 +8,13 @@ permalink: /TÜRKİYE/KİLİS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ELBEYLİ (KİLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KİLİS/ELBEYLİ)
-* [MUSABEYLİ (KİLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KİLİS/MUSABEYLİ)
-* [KİLİS (KİLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KİLİS/KİLİS)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
+
   var GLOBAL_CITY = 'KİLİS';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
   var GLOBAL_STATE = 'KİLİS';
+* [ELBEYLİ (KİLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KİLİS/ELBEYLİ)
+* [KİLİS (KİLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KİLİS/KİLİS)
+* [MUSABEYLİ (KİLİS, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/KİLİS/MUSABEYLİ)
 </script>
+<script type="text/javascript">

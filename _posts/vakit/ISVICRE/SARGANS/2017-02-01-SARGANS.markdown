@@ -8,10 +8,11 @@ permalink: /ISVICRE/SARGANS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARGANS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SARGANS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SARGANS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SARGANS';
+* [ (SARGANS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SARGANS/)
 </script>
+<script type="text/javascript">

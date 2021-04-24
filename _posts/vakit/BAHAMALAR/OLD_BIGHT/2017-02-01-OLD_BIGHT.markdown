@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/OLD BIGHT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLD_BIGHT, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/OLD_BIGHT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'OLD BIGHT';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'OLD BIGHT';
+* [ (OLD_BIGHT, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/OLD_BIGHT/)
 </script>
+<script type="text/javascript">

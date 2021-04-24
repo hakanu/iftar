@@ -8,10 +8,11 @@ permalink: /FRANSA/IZERNORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IZERNORE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/IZERNORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'IZERNORE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'IZERNORE';
+* [ (IZERNORE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/IZERNORE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/SKIVE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SKIVE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SKIVE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'SKIVE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'SKIVE';
+* [ (SKIVE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SKIVE/)
 </script>
+<script type="text/javascript">

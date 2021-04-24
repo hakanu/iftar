@@ -8,10 +8,11 @@ permalink: /ALMANYA/BARDENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARDENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BARDENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BARDENBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BARDENBERG';
+* [ (BARDENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BARDENBERG/)
 </script>
+<script type="text/javascript">

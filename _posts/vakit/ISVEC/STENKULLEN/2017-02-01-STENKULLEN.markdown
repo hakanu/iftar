@@ -8,10 +8,11 @@ permalink: /ISVEC/STENKULLEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STENKULLEN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/STENKULLEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'STENKULLEN';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'STENKULLEN';
+* [ (STENKULLEN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/STENKULLEN/)
 </script>
+<script type="text/javascript">

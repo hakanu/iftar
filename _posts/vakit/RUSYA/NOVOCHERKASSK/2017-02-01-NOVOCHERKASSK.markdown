@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVOCHERKASSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVOCHERKASSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOCHERKASSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVOCHERKASSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVOCHERKASSK';
+* [ (NOVOCHERKASSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOCHERKASSK/)
 </script>
+<script type="text/javascript">

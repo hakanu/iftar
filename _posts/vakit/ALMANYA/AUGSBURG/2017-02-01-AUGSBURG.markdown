@@ -8,10 +8,11 @@ permalink: /ALMANYA/AUGSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUGSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AUGSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AUGSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AUGSBURG';
+* [ (AUGSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AUGSBURG/)
 </script>
+<script type="text/javascript">

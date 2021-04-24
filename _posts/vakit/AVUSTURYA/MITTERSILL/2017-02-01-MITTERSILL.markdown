@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MITTERSILL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MITTERSILL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MITTERSILL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MITTERSILL';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MITTERSILL';
+* [ (MITTERSILL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MITTERSILL/)
 </script>
+<script type="text/javascript">

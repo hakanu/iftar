@@ -8,10 +8,11 @@ permalink: /DANIMARKA/RINGSTED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RINGSTED, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/RINGSTED/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'RINGSTED';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'RINGSTED';
+* [ (RINGSTED, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/RINGSTED/)
 </script>
+<script type="text/javascript">

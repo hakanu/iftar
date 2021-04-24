@@ -8,10 +8,11 @@ permalink: /FRANSA/ORANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORANGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ORANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ORANGE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ORANGE';
+* [ (ORANGE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ORANGE/)
 </script>
+<script type="text/javascript">

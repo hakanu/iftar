@@ -8,10 +8,11 @@ permalink: /MADAGASKAR/ANTSIRABE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANTSIRABE, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/ANTSIRABE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MADAGASKAR';
+
   var GLOBAL_CITY = 'ANTSIRABE';
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
   var GLOBAL_STATE = 'ANTSIRABE';
+* [ (ANTSIRABE, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/ANTSIRABE/)
 </script>
+<script type="text/javascript">

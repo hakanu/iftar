@@ -8,10 +8,11 @@ permalink: /UKRAYNA/LYUBOTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LYUBOTIN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LYUBOTIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'LYUBOTIN';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'LYUBOTIN';
+* [ (LYUBOTIN, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LYUBOTIN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/COUVET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COUVET, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/COUVET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'COUVET';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'COUVET';
+* [ (COUVET, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/COUVET/)
 </script>
+<script type="text/javascript">

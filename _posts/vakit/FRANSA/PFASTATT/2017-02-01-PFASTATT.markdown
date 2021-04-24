@@ -8,10 +8,11 @@ permalink: /FRANSA/PFASTATT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PFASTATT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PFASTATT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PFASTATT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PFASTATT';
+* [ (PFASTATT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PFASTATT/)
 </script>
+<script type="text/javascript">

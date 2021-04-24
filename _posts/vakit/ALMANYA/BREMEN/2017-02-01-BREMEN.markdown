@@ -8,10 +8,11 @@ permalink: /ALMANYA/BREMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BREMEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BREMEN';
+* [ (BREMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREMEN/)
 </script>
+<script type="text/javascript">

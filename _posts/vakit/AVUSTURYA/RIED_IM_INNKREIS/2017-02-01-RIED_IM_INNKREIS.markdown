@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/RIED IM INNKREIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIED_IM_INNKREIS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/RIED_IM_INNKREIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'RIED IM INNKREIS';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'RIED IM INNKREIS';
+* [ (RIED_IM_INNKREIS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/RIED_IM_INNKREIS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LETONYA/RUJIENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUJIENA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/RUJIENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LETONYA';
+
   var GLOBAL_CITY = 'RUJIENA';
+  var GLOBAL_COUNTRY = 'LETONYA';
   var GLOBAL_STATE = 'RUJIENA';
+* [ (RUJIENA, LETONYA) için iftar ve namaz vakitleri](/LETONYA/RUJIENA/)
 </script>
+<script type="text/javascript">

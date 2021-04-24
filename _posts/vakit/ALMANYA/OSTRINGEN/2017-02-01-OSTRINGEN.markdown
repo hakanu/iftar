@@ -8,10 +8,11 @@ permalink: /ALMANYA/OSTRINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSTRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTRINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OSTRINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OSTRINGEN';
+* [ (OSTRINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSTRINGEN/)
 </script>
+<script type="text/javascript">

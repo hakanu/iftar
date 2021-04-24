@@ -8,10 +8,11 @@ permalink: /UKRAYNA/IVANO FRANKIVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IVANO_FRANKIVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/IVANO_FRANKIVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'IVANO FRANKIVSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'IVANO FRANKIVSK';
+* [ (IVANO_FRANKIVSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/IVANO_FRANKIVSK/)
 </script>
+<script type="text/javascript">

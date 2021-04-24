@@ -8,10 +8,11 @@ permalink: /ITALYA/PESCARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PESCARA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PESCARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PESCARA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PESCARA';
+* [ (PESCARA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PESCARA/)
 </script>
+<script type="text/javascript">

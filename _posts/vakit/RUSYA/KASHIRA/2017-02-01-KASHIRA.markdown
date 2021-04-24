@@ -8,10 +8,11 @@ permalink: /RUSYA/KASHIRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASHIRA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KASHIRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KASHIRA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KASHIRA';
+* [ (KASHIRA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KASHIRA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MALEZYA/KUCHING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUCHING, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUCHING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KUCHING';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KUCHING';
+* [ (KUCHING, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KUCHING/)
 </script>
+<script type="text/javascript">

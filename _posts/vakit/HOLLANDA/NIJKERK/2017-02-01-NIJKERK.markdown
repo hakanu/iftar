@@ -8,10 +8,11 @@ permalink: /HOLLANDA/NIJKERK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIJKERK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NIJKERK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'NIJKERK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'NIJKERK';
+* [ (NIJKERK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/NIJKERK/)
 </script>
+<script type="text/javascript">

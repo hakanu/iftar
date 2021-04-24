@@ -8,10 +8,11 @@ permalink: /ISVEC/LJUSDAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LJUSDAL, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LJUSDAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LJUSDAL';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LJUSDAL';
+* [ (LJUSDAL, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LJUSDAL/)
 </script>
+<script type="text/javascript">

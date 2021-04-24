@@ -8,10 +8,11 @@ permalink: /JAPONYA/HACHIOJI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HACHIOJI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HACHIOJI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HACHIOJI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HACHIOJI';
+* [ (HACHIOJI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HACHIOJI/)
 </script>
+<script type="text/javascript">

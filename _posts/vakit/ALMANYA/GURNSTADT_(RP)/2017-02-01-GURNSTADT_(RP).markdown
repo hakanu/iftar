@@ -8,10 +8,11 @@ permalink: /ALMANYA/GURNSTADT (RP)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GURNSTADT_(RP), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GURNSTADT_(RP)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GURNSTADT (RP)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GURNSTADT (RP)';
+* [ (GURNSTADT_(RP), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GURNSTADT_(RP)/)
 </script>
+<script type="text/javascript">

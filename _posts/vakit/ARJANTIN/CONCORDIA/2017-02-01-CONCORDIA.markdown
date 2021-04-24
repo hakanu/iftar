@@ -8,10 +8,11 @@ permalink: /ARJANTIN/CONCORDIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONCORDIA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CONCORDIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'CONCORDIA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'CONCORDIA';
+* [ (CONCORDIA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CONCORDIA/)
 </script>
+<script type="text/javascript">

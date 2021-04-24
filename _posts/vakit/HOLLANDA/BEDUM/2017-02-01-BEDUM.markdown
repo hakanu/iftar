@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BEDUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEDUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEDUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BEDUM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BEDUM';
+* [ (BEDUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEDUM/)
 </script>
+<script type="text/javascript">

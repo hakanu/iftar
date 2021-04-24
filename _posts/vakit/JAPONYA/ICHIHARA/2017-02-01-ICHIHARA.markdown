@@ -8,10 +8,11 @@ permalink: /JAPONYA/ICHIHARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ICHIHARA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ICHIHARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ICHIHARA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ICHIHARA';
+* [ (ICHIHARA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ICHIHARA/)
 </script>
+<script type="text/javascript">

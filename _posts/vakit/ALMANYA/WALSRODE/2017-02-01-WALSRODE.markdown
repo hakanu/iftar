@@ -8,10 +8,11 @@ permalink: /ALMANYA/WALSRODE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALSRODE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALSRODE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WALSRODE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WALSRODE';
+* [ (WALSRODE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALSRODE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/STEKENE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEKENE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/STEKENE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'STEKENE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'STEKENE';
+* [ (STEKENE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/STEKENE/)
 </script>
+<script type="text/javascript">

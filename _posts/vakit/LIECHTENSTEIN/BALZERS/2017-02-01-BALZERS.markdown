@@ -8,10 +8,11 @@ permalink: /LIECHTENSTEIN/BALZERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALZERS, LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/BALZERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIECHTENSTEIN';
+
   var GLOBAL_CITY = 'BALZERS';
+  var GLOBAL_COUNTRY = 'LIECHTENSTEIN';
   var GLOBAL_STATE = 'BALZERS';
+* [ (BALZERS, LIECHTENSTEIN) için iftar ve namaz vakitleri](/LIECHTENSTEIN/BALZERS/)
 </script>
+<script type="text/javascript">

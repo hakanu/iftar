@@ -8,10 +8,11 @@ permalink: /FRANSA/GAP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAP, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GAP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GAP';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GAP';
+* [ (GAP, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GAP/)
 </script>
+<script type="text/javascript">

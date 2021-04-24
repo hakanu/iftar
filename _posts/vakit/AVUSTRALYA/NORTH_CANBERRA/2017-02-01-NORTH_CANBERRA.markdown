@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/NORTH CANBERRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORTH_CANBERRA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NORTH_CANBERRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'NORTH CANBERRA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'NORTH CANBERRA';
+* [ (NORTH_CANBERRA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NORTH_CANBERRA/)
 </script>
+<script type="text/javascript">

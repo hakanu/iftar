@@ -8,10 +8,11 @@ permalink: /EL SALVADOR/SANTA ANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_ANA, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SANTA_ANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EL SALVADOR';
+
   var GLOBAL_CITY = 'SANTA ANA';
+  var GLOBAL_COUNTRY = 'EL SALVADOR';
   var GLOBAL_STATE = 'SANTA ANA';
+* [ (SANTA_ANA, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SANTA_ANA/)
 </script>
+<script type="text/javascript">

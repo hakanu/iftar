@@ -8,10 +8,11 @@ permalink: /BELCIKA/GERAARDSBERGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GERAARDSBERGEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/GERAARDSBERGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'GERAARDSBERGEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'GERAARDSBERGEN';
+* [ (GERAARDSBERGEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/GERAARDSBERGEN/)
 </script>
+<script type="text/javascript">

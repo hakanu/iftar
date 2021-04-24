@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/NESSEBAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NESSEBAR, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/NESSEBAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'NESSEBAR';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'NESSEBAR';
+* [ (NESSEBAR, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/NESSEBAR/)
 </script>
+<script type="text/javascript">

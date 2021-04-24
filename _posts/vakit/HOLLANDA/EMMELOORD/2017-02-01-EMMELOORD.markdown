@@ -8,10 +8,11 @@ permalink: /HOLLANDA/EMMELOORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMMELOORD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EMMELOORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'EMMELOORD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'EMMELOORD';
+* [ (EMMELOORD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/EMMELOORD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/VELBERT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VELBERT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VELBERT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VELBERT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VELBERT';
+* [ (VELBERT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VELBERT/)
 </script>
+<script type="text/javascript">

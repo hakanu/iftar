@@ -8,10 +8,11 @@ permalink: /ALMANYA/BIEDENKOPF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIEDENKOPF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIEDENKOPF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BIEDENKOPF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BIEDENKOPF';
+* [ (BIEDENKOPF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIEDENKOPF/)
 </script>
+<script type="text/javascript">

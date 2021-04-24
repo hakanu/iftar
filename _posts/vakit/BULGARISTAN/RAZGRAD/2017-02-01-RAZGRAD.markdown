@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/RAZGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAZGRAD, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/RAZGRAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'RAZGRAD';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'RAZGRAD';
+* [ (RAZGRAD, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/RAZGRAD/)
 </script>
+<script type="text/javascript">

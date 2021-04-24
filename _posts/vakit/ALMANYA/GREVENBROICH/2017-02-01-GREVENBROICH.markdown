@@ -8,10 +8,11 @@ permalink: /ALMANYA/GREVENBROICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GREVENBROICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREVENBROICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GREVENBROICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GREVENBROICH';
+* [ (GREVENBROICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREVENBROICH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MISIR/KAHIRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAHIRE, MISIR) için iftar ve namaz vakitleri](/MISIR/KAHIRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'KAHIRE';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'KAHIRE';
+* [ (KAHIRE, MISIR) için iftar ve namaz vakitleri](/MISIR/KAHIRE/)
 </script>
+<script type="text/javascript">

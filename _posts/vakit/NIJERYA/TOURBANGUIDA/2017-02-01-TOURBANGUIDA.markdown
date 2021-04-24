@@ -8,10 +8,11 @@ permalink: /NIJERYA/TOURBANGUIDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOURBANGUIDA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/TOURBANGUIDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'TOURBANGUIDA';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'TOURBANGUIDA';
+* [ (TOURBANGUIDA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/TOURBANGUIDA/)
 </script>
+<script type="text/javascript">

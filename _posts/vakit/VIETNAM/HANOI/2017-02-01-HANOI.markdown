@@ -8,10 +8,11 @@ permalink: /VIETNAM/HANOI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HANOI, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HANOI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'HANOI';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'HANOI';
+* [ (HANOI, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HANOI/)
 </script>
+<script type="text/javascript">

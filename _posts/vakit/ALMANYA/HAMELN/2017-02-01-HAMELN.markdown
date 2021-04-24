@@ -8,10 +8,11 @@ permalink: /ALMANYA/HAMELN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAMELN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HAMELN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HAMELN';
+* [ (HAMELN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAMELN/)
 </script>
+<script type="text/javascript">

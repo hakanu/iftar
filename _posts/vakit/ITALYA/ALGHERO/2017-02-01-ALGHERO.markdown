@@ -8,10 +8,11 @@ permalink: /ITALYA/ALGHERO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALGHERO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALGHERO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ALGHERO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ALGHERO';
+* [ (ALGHERO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALGHERO/)
 </script>
+<script type="text/javascript">

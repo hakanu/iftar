@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/URALSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URALSK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/URALSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'URALSK';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'URALSK';
+* [ (URALSK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/URALSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/OOSTENDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OOSTENDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OOSTENDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'OOSTENDE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'OOSTENDE';
+* [ (OOSTENDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/OOSTENDE/)
 </script>
+<script type="text/javascript">

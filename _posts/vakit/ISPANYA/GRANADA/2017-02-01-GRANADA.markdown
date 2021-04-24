@@ -8,10 +8,11 @@ permalink: /ISPANYA/GRANADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRANADA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/GRANADA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'GRANADA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'GRANADA';
+* [ (GRANADA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/GRANADA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/UETERSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UETERSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UETERSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UETERSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UETERSEN';
+* [ (UETERSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UETERSEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/FERAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FERAI_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/FERAI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'FERAI ';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'FERAI ';
+* [ (FERAI_, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/FERAI_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DOESBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOESBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DOESBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DOESBURG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DOESBURG';
+* [ (DOESBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DOESBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/CANOAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CANOAS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CANOAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CANOAS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CANOAS';
+* [ (CANOAS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CANOAS/)
 </script>
+<script type="text/javascript">

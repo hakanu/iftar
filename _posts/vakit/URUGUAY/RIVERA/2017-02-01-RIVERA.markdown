@@ -8,10 +8,11 @@ permalink: /URUGUAY/RIVERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIVERA, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/RIVERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'RIVERA';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'RIVERA';
+* [ (RIVERA, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/RIVERA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/RESISTENCIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RESISTENCIA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RESISTENCIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'RESISTENCIA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'RESISTENCIA';
+* [ (RESISTENCIA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RESISTENCIA/)
 </script>
+<script type="text/javascript">

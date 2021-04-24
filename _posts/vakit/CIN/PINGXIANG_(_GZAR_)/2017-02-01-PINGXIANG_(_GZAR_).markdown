@@ -8,10 +8,11 @@ permalink: /CIN/PINGXIANG ( GZAR )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINGXIANG_(_GZAR_), CIN) için iftar ve namaz vakitleri](/CIN/PINGXIANG_(_GZAR_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'PINGXIANG ( GZAR )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'PINGXIANG ( GZAR )';
+* [ (PINGXIANG_(_GZAR_), CIN) için iftar ve namaz vakitleri](/CIN/PINGXIANG_(_GZAR_)/)
 </script>
+<script type="text/javascript">

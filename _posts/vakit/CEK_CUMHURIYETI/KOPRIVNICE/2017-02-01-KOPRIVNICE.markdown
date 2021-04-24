@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/KOPRIVNICE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOPRIVNICE, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/KOPRIVNICE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'KOPRIVNICE';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'KOPRIVNICE';
+* [ (KOPRIVNICE, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/KOPRIVNICE/)
 </script>
+<script type="text/javascript">

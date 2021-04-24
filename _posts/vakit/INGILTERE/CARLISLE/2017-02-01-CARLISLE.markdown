@@ -8,10 +8,11 @@ permalink: /INGILTERE/CARLISLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARLISLE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CARLISLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CARLISLE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CARLISLE';
+* [ (CARLISLE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CARLISLE/)
 </script>
+<script type="text/javascript">

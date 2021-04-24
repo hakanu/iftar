@@ -8,10 +8,11 @@ permalink: /MEKSIKA/SAN MIGUEL DE ALLENDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_MIGUEL_DE_ALLENDE, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_MIGUEL_DE_ALLENDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'SAN MIGUEL DE ALLENDE';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'SAN MIGUEL DE ALLENDE';
+* [ (SAN_MIGUEL_DE_ALLENDE, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_MIGUEL_DE_ALLENDE/)
 </script>
+<script type="text/javascript">

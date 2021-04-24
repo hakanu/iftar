@@ -8,10 +8,11 @@ permalink: /UKRAYNA/ZMIYEV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZMIYEV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZMIYEV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'ZMIYEV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'ZMIYEV';
+* [ (ZMIYEV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ZMIYEV/)
 </script>
+<script type="text/javascript">

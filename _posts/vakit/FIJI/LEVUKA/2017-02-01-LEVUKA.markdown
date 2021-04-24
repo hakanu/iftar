@@ -8,10 +8,11 @@ permalink: /FIJI/LEVUKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEVUKA, FIJI) için iftar ve namaz vakitleri](/FIJI/LEVUKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FIJI';
+
   var GLOBAL_CITY = 'LEVUKA';
+  var GLOBAL_COUNTRY = 'FIJI';
   var GLOBAL_STATE = 'LEVUKA';
+* [ (LEVUKA, FIJI) için iftar ve namaz vakitleri](/FIJI/LEVUKA/)
 </script>
+<script type="text/javascript">

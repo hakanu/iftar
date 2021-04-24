@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HILVERSUM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HILVERSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HILVERSUM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HILVERSUM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HILVERSUM';
+* [ (HILVERSUM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HILVERSUM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_USAGE (C )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST_USAGE_(C_), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST_USAGE_(C_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_USAGE (C )';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_USAGE (C )';
+* [ (ST_USAGE_(C_), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST_USAGE_(C_)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/DEDOVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEDOVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DEDOVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'DEDOVSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'DEDOVSK';
+* [ (DEDOVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/DEDOVSK/)
 </script>
+<script type="text/javascript">

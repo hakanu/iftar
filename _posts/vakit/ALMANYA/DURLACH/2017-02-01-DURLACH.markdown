@@ -8,10 +8,11 @@ permalink: /ALMANYA/DURLACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DURLACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DURLACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DURLACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DURLACH';
+* [ (DURLACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DURLACH/)
 </script>
+<script type="text/javascript">

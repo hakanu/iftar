@@ -8,10 +8,11 @@ permalink: /IRAK/KERKUK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KERKUK, IRAK) için iftar ve namaz vakitleri](/IRAK/KERKUK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAK';
+
   var GLOBAL_CITY = 'KERKUK';
+  var GLOBAL_COUNTRY = 'IRAK';
   var GLOBAL_STATE = 'KERKUK';
+* [ (KERKUK, IRAK) için iftar ve namaz vakitleri](/IRAK/KERKUK/)
 </script>
+<script type="text/javascript">

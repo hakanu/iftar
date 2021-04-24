@@ -8,10 +8,11 @@ permalink: /CIN/QINZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QINZHOU, CIN) için iftar ve namaz vakitleri](/CIN/QINZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QINZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QINZHOU';
+* [ (QINZHOU, CIN) için iftar ve namaz vakitleri](/CIN/QINZHOU/)
 </script>
+<script type="text/javascript">

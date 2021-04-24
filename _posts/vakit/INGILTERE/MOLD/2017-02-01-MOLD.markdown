@@ -8,10 +8,11 @@ permalink: /INGILTERE/MOLD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOLD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MOLD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'MOLD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'MOLD';
+* [ (MOLD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MOLD/)
 </script>
+<script type="text/javascript">

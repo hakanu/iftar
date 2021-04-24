@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/POKROVKA(Talas)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POKROVKA(Talas), KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/POKROVKA(Talas)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'POKROVKA(Talas)';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'POKROVKA(Talas)';
+* [ (POKROVKA(Talas), KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/POKROVKA(Talas)/)
 </script>
+<script type="text/javascript">

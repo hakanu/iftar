@@ -8,10 +8,11 @@ permalink: /BREZILYA/BELEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELEM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BELEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BELEM';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BELEM';
+* [ (BELEM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BELEM/)
 </script>
+<script type="text/javascript">

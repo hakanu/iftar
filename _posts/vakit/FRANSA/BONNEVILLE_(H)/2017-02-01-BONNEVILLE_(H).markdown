@@ -8,10 +8,11 @@ permalink: /FRANSA/BONNEVILLE (H)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BONNEVILLE_(H), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BONNEVILLE_(H)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BONNEVILLE (H)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BONNEVILLE (H)';
+* [ (BONNEVILLE_(H), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BONNEVILLE_(H)/)
 </script>
+<script type="text/javascript">

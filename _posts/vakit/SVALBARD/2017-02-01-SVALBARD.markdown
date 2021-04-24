@@ -8,5 +8,6 @@ permalink: /SVALBARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SVEAGRUVA (SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/SVEAGRUVA)
+
 * [LONGYEARBYEN (SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/LONGYEARBYEN)
+* [SVEAGRUVA (SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/SVEAGRUVA)

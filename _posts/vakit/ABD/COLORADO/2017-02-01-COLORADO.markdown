@@ -8,14 +8,15 @@ permalink: /ABD/COLORADO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [SPRINGFIELD (COLORADO, ABD) için iftar ve namaz vakitleri](/ABD/COLORADO/SPRINGFIELD)
+
+
+  var GLOBAL_CITY = 'COLORADO';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'COLORADO';
 * [BOULDER (COLORADO, ABD) için iftar ve namaz vakitleri](/ABD/COLORADO/BOULDER)
+* [COLORADO_SPRINGS (COLORADO, ABD) için iftar ve namaz vakitleri](/ABD/COLORADO/COLORADO_SPRINGS)
 * [DENVER (COLORADO, ABD) için iftar ve namaz vakitleri](/ABD/COLORADO/DENVER)
 * [FORT_COLLINS (COLORADO, ABD) için iftar ve namaz vakitleri](/ABD/COLORADO/FORT_COLLINS)
-* [COLORADO_SPRINGS (COLORADO, ABD) için iftar ve namaz vakitleri](/ABD/COLORADO/COLORADO_SPRINGS)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'COLORADO';
-  var GLOBAL_STATE = 'COLORADO';
+* [SPRINGFIELD (COLORADO, ABD) için iftar ve namaz vakitleri](/ABD/COLORADO/SPRINGFIELD)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAMERUN/GAROUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAROUA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/GAROUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMERUN';
+
   var GLOBAL_CITY = 'GAROUA';
+  var GLOBAL_COUNTRY = 'KAMERUN';
   var GLOBAL_STATE = 'GAROUA';
+* [ (GAROUA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/GAROUA/)
 </script>
+<script type="text/javascript">

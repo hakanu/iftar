@@ -8,10 +8,11 @@ permalink: /FRANSA/ANTIBES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANTIBES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANTIBES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ANTIBES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ANTIBES';
+* [ (ANTIBES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANTIBES/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZAANDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAANDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZAANDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZAANDAM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZAANDAM';
+* [ (ZAANDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZAANDAM/)
 </script>
+<script type="text/javascript">

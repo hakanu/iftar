@@ -8,10 +8,11 @@ permalink: /DANIMARKA/SONDERBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SONDERBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SONDERBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'SONDERBORG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'SONDERBORG';
+* [ (SONDERBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SONDERBORG/)
 </script>
+<script type="text/javascript">

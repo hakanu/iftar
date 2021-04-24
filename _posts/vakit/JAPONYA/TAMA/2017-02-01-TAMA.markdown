@@ -8,10 +8,11 @@ permalink: /JAPONYA/TAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TAMA';
+* [ (TAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAMA/)
 </script>
+<script type="text/javascript">

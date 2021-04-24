@@ -8,10 +8,11 @@ permalink: /ITALYA/NAPOLI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAPOLI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/NAPOLI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'NAPOLI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'NAPOLI';
+* [ (NAPOLI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/NAPOLI/)
 </script>
+<script type="text/javascript">

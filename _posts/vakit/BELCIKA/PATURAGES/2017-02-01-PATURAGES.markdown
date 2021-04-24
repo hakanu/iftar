@@ -8,10 +8,11 @@ permalink: /BELCIKA/PATURAGES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PATURAGES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/PATURAGES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'PATURAGES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'PATURAGES';
+* [ (PATURAGES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/PATURAGES/)
 </script>
+<script type="text/javascript">

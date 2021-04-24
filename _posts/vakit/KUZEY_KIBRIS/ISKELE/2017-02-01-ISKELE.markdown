@@ -8,10 +8,11 @@ permalink: /KUZEY KIBRIS/ISKELE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISKELE, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/ISKELE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
+
   var GLOBAL_CITY = 'ISKELE';
+  var GLOBAL_COUNTRY = 'KUZEY KIBRIS';
   var GLOBAL_STATE = 'ISKELE';
+* [ (ISKELE, KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/ISKELE/)
 </script>
+<script type="text/javascript">

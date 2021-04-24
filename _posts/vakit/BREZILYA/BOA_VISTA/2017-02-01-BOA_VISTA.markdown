@@ -8,10 +8,11 @@ permalink: /BREZILYA/BOA VISTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOA_VISTA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BOA_VISTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BOA VISTA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BOA VISTA';
+* [ (BOA_VISTA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BOA_VISTA/)
 </script>
+<script type="text/javascript">

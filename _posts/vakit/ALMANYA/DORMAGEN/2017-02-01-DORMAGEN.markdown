@@ -8,10 +8,11 @@ permalink: /ALMANYA/DORMAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DORMAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DORMAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DORMAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DORMAGEN';
+* [ (DORMAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DORMAGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /TANZANYA/TANGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TANGA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TANGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'TANGA';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'TANGA';
+* [ (TANGA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TANGA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DEN DOLDER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEN_DOLDER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEN_DOLDER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DEN DOLDER';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DEN DOLDER';
+* [ (DEN_DOLDER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEN_DOLDER/)
 </script>
+<script type="text/javascript">

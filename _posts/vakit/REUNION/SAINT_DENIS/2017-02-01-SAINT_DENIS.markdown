@@ -8,10 +8,11 @@ permalink: /REUNION/SAINT DENIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT_DENIS, REUNION) için iftar ve namaz vakitleri](/REUNION/SAINT_DENIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'REUNION';
+
   var GLOBAL_CITY = 'SAINT DENIS';
+  var GLOBAL_COUNTRY = 'REUNION';
   var GLOBAL_STATE = 'SAINT DENIS';
+* [ (SAINT_DENIS, REUNION) için iftar ve namaz vakitleri](/REUNION/SAINT_DENIS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/OLBIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLBIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/OLBIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'OLBIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'OLBIA';
+* [ (OLBIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/OLBIA/)
 </script>
+<script type="text/javascript">

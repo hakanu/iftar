@@ -8,10 +8,11 @@ permalink: /ISVEC/BOTKYRKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOTKYRKA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BOTKYRKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'BOTKYRKA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'BOTKYRKA';
+* [ (BOTKYRKA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BOTKYRKA/)
 </script>
+<script type="text/javascript">

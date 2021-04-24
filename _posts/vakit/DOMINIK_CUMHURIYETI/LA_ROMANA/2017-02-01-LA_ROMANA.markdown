@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/LA ROMANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_ROMANA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/LA_ROMANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'LA ROMANA';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'LA ROMANA';
+* [ (LA_ROMANA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/LA_ROMANA/)
 </script>
+<script type="text/javascript">

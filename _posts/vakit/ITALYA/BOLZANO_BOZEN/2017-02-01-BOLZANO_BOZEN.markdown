@@ -8,10 +8,11 @@ permalink: /ITALYA/BOLZANO BOZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOLZANO_BOZEN, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BOLZANO_BOZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'BOLZANO BOZEN';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'BOLZANO BOZEN';
+* [ (BOLZANO_BOZEN, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BOLZANO_BOZEN/)
 </script>
+<script type="text/javascript">

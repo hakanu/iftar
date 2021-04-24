@@ -8,10 +8,11 @@ permalink: /ALMANYA/BISSINGEN AN DER ENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BISSINGEN_AN_DER_ENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BISSINGEN_AN_DER_ENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BISSINGEN AN DER ENZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BISSINGEN AN DER ENZ';
+* [ (BISSINGEN_AN_DER_ENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BISSINGEN_AN_DER_ENZ/)
 </script>
+<script type="text/javascript">

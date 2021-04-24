@@ -8,10 +8,11 @@ permalink: /UKRAYNA/ODESSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ODESSA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ODESSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'ODESSA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'ODESSA';
+* [ (ODESSA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/ODESSA/)
 </script>
+<script type="text/javascript">

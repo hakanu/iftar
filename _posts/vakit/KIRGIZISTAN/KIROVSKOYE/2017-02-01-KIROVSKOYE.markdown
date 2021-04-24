@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/KIROVSKOYE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIROVSKOYE, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KIROVSKOYE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'KIROVSKOYE';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'KIROVSKOYE';
+* [ (KIROVSKOYE, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/KIROVSKOYE/)
 </script>
+<script type="text/javascript">

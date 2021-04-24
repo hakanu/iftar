@@ -8,10 +8,11 @@ permalink: /ALMANYA/OSNABRUCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSNABRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSNABRUCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OSNABRUCK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OSNABRUCK';
+* [ (OSNABRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OSNABRUCK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/JABLANICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JABLANICA_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/JABLANICA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'JABLANICA ';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'JABLANICA ';
+* [ (JABLANICA_, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/JABLANICA_/)
 </script>
+<script type="text/javascript">

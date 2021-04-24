@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO PAULO (S_P_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_PAULO_(S_P_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_PAULO_(S_P_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO PAULO (S_P_)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO PAULO (S_P_)';
+* [ (SAO_PAULO_(S_P_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_PAULO_(S_P_)/)
 </script>
+<script type="text/javascript">

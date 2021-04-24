@@ -8,10 +8,11 @@ permalink: /PERU/PUCALLPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUCALLPA, PERU) için iftar ve namaz vakitleri](/PERU/PUCALLPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'PUCALLPA';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'PUCALLPA';
+* [ (PUCALLPA, PERU) için iftar ve namaz vakitleri](/PERU/PUCALLPA/)
 </script>
+<script type="text/javascript">

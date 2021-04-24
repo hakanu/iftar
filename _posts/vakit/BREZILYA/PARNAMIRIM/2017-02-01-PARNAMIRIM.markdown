@@ -8,10 +8,11 @@ permalink: /BREZILYA/PARNAMIRIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARNAMIRIM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PARNAMIRIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PARNAMIRIM';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PARNAMIRIM';
+* [ (PARNAMIRIM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PARNAMIRIM/)
 </script>
+<script type="text/javascript">

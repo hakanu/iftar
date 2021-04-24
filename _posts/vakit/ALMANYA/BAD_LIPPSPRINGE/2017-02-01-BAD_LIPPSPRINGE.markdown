@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD LIPPSPRINGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_LIPPSPRINGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_LIPPSPRINGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD LIPPSPRINGE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD LIPPSPRINGE';
+* [ (BAD_LIPPSPRINGE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_LIPPSPRINGE/)
 </script>
+<script type="text/javascript">

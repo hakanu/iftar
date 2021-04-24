@@ -8,10 +8,11 @@ permalink: /YEMEN/SANAA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANAA, YEMEN) için iftar ve namaz vakitleri](/YEMEN/SANAA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YEMEN';
+
   var GLOBAL_CITY = 'SANAA';
+  var GLOBAL_COUNTRY = 'YEMEN';
   var GLOBAL_STATE = 'SANAA';
+* [ (SANAA, YEMEN) için iftar ve namaz vakitleri](/YEMEN/SANAA/)
 </script>
+<script type="text/javascript">

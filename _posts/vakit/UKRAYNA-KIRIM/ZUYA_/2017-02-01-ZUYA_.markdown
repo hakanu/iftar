@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/ZUYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZUYA_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/ZUYA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'ZUYA ';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'ZUYA ';
+* [ (ZUYA_, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/ZUYA_/)
 </script>
+<script type="text/javascript">

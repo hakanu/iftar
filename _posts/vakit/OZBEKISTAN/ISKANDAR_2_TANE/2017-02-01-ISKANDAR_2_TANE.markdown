@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/ISKANDAR 2 TANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISKANDAR_2_TANE, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/ISKANDAR_2_TANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'ISKANDAR 2 TANE';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'ISKANDAR 2 TANE';
+* [ (ISKANDAR_2_TANE, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/ISKANDAR_2_TANE/)
 </script>
+<script type="text/javascript">

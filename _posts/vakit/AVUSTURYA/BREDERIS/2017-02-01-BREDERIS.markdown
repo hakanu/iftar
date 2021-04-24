@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BREDERIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREDERIS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BREDERIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BREDERIS';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BREDERIS';
+* [ (BREDERIS, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BREDERIS/)
 </script>
+<script type="text/javascript">

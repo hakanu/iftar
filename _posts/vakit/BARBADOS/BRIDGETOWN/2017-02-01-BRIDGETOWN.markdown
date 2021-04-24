@@ -8,10 +8,11 @@ permalink: /BARBADOS/BRIDGETOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIDGETOWN, BARBADOS) için iftar ve namaz vakitleri](/BARBADOS/BRIDGETOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BARBADOS';
+
   var GLOBAL_CITY = 'BRIDGETOWN';
+  var GLOBAL_COUNTRY = 'BARBADOS';
   var GLOBAL_STATE = 'BRIDGETOWN';
+* [ (BRIDGETOWN, BARBADOS) için iftar ve namaz vakitleri](/BARBADOS/BRIDGETOWN/)
 </script>
+<script type="text/javascript">

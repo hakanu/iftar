@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CIUDAD DELICIAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_DELICIAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_DELICIAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CIUDAD DELICIAS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CIUDAD DELICIAS';
+* [ (CIUDAD_DELICIAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_DELICIAS/)
 </script>
+<script type="text/javascript">

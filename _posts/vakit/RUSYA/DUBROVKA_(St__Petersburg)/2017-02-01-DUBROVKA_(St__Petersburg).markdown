@@ -8,10 +8,11 @@ permalink: /RUSYA/DUBROVKA (St_ Petersburg)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUBROVKA_(St__Petersburg), RUSYA) için iftar ve namaz vakitleri](/RUSYA/DUBROVKA_(St__Petersburg)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'DUBROVKA (St_ Petersburg)';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'DUBROVKA (St_ Petersburg)';
+* [ (DUBROVKA_(St__Petersburg), RUSYA) için iftar ve namaz vakitleri](/RUSYA/DUBROVKA_(St__Petersburg)/)
 </script>
+<script type="text/javascript">

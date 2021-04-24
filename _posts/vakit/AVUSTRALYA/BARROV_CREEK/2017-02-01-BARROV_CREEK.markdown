@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BARROV CREEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARROV_CREEK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BARROV_CREEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BARROV CREEK';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BARROV CREEK';
+* [ (BARROV_CREEK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BARROV_CREEK/)
 </script>
+<script type="text/javascript">

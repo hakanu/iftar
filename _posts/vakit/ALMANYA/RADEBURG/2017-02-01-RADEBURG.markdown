@@ -8,10 +8,11 @@ permalink: /ALMANYA/RADEBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RADEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RADEBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RADEBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RADEBURG';
+* [ (RADEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RADEBURG/)
 </script>
+<script type="text/javascript">

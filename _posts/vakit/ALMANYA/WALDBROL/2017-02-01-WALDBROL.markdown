@@ -8,10 +8,11 @@ permalink: /ALMANYA/WALDBROL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALDBROL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALDBROL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WALDBROL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WALDBROL';
+* [ (WALDBROL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALDBROL/)
 </script>
+<script type="text/javascript">

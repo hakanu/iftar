@@ -8,10 +8,11 @@ permalink: /INGILTERE/PORTSMOUTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORTSMOUTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PORTSMOUTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'PORTSMOUTH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'PORTSMOUTH';
+* [ (PORTSMOUTH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PORTSMOUTH/)
 </script>
+<script type="text/javascript">

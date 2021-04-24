@@ -8,10 +8,11 @@ permalink: /UKRAYNA/UZHHOROD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UZHHOROD, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/UZHHOROD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'UZHHOROD';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'UZHHOROD';
+* [ (UZHHOROD, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/UZHHOROD/)
 </script>
+<script type="text/javascript">

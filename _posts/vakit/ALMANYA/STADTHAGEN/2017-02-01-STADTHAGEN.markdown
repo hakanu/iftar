@@ -8,10 +8,11 @@ permalink: /ALMANYA/STADTHAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STADTHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTHAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STADTHAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STADTHAGEN';
+* [ (STADTHAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTHAGEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/ILHEUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ILHEUS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ILHEUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ILHEUS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ILHEUS';
+* [ (ILHEUS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ILHEUS/)
 </script>
+<script type="text/javascript">

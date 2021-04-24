@@ -8,10 +8,11 @@ permalink: /ITALYA/PERUGIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERUGIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PERUGIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PERUGIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PERUGIA';
+* [ (PERUGIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PERUGIA/)
 </script>
+<script type="text/javascript">

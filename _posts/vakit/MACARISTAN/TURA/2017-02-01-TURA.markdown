@@ -8,10 +8,11 @@ permalink: /MACARISTAN/TURA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURA, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/TURA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'TURA';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'TURA';
+* [ (TURA, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/TURA/)
 </script>
+<script type="text/javascript">

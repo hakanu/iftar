@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/YYLANLY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YYLANLY_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/YYLANLY_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'YYLANLY ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'YYLANLY ';
+* [ (YYLANLY_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/YYLANLY_/)
 </script>
+<script type="text/javascript">

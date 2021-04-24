@@ -8,10 +8,11 @@ permalink: /INGILTERE/WINCHESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WINCHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WINCHESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WINCHESTER';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WINCHESTER';
+* [ (WINCHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WINCHESTER/)
 </script>
+<script type="text/javascript">

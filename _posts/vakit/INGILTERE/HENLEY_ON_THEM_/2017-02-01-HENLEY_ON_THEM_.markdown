@@ -8,10 +8,11 @@ permalink: /INGILTERE/HENLEY ON THEM_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HENLEY_ON_THEM_, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HENLEY_ON_THEM_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'HENLEY ON THEM_';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'HENLEY ON THEM_';
+* [ (HENLEY_ON_THEM_, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HENLEY_ON_THEM_/)
 </script>
+<script type="text/javascript">

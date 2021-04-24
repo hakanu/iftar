@@ -8,10 +8,11 @@ permalink: /BENIN/PORTO-NOVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORTO-NOVO, BENIN) için iftar ve namaz vakitleri](/BENIN/PORTO-NOVO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'PORTO-NOVO';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'PORTO-NOVO';
+* [ (PORTO-NOVO, BENIN) için iftar ve namaz vakitleri](/BENIN/PORTO-NOVO/)
 </script>
+<script type="text/javascript">

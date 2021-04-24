@@ -8,10 +8,11 @@ permalink: /BREZILYA/NOVO HANBURGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVO_HANBURGO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/NOVO_HANBURGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'NOVO HANBURGO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'NOVO HANBURGO';
+* [ (NOVO_HANBURGO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/NOVO_HANBURGO/)
 </script>
+<script type="text/javascript">

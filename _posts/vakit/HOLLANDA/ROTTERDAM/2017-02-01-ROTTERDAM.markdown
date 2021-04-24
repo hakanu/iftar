@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ROTTERDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROTTERDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROTTERDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ROTTERDAM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ROTTERDAM';
+* [ (ROTTERDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROTTERDAM/)
 </script>
+<script type="text/javascript">

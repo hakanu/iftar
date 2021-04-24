@@ -8,4 +8,5 @@ permalink: /GRANADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [SAINT_GEORGES (GRANADA) için iftar ve namaz vakitleri](/GRANADA/SAINT_GEORGES)

@@ -8,9 +8,10 @@ permalink: /KENYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+* [ELDORET (KENYA) için iftar ve namaz vakitleri](/KENYA/ELDORET)
 * [KISUMU (KENYA) için iftar ve namaz vakitleri](/KENYA/KISUMU)
 * [MACHAKOS (KENYA) için iftar ve namaz vakitleri](/KENYA/MACHAKOS)
-* [ELDORET (KENYA) için iftar ve namaz vakitleri](/KENYA/ELDORET)
-* [NAKURU (KENYA) için iftar ve namaz vakitleri](/KENYA/NAKURU)
 * [MOMBASA (KENYA) için iftar ve namaz vakitleri](/KENYA/MOMBASA)
 * [NAIROBI (KENYA) için iftar ve namaz vakitleri](/KENYA/NAIROBI)
+* [NAKURU (KENYA) için iftar ve namaz vakitleri](/KENYA/NAKURU)

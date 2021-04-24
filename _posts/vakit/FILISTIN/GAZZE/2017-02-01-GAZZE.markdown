@@ -8,10 +8,11 @@ permalink: /FILISTIN/GAZZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAZZE, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/GAZZE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'GAZZE';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'GAZZE';
+* [ (GAZZE, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/GAZZE/)
 </script>
+<script type="text/javascript">

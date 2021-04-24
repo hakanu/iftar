@@ -8,10 +8,11 @@ permalink: /HINDISTAN/NELLORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NELLORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/NELLORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'NELLORE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'NELLORE';
+* [ (NELLORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/NELLORE/)
 </script>
+<script type="text/javascript">

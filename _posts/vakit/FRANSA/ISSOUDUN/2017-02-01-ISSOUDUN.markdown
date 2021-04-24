@@ -8,10 +8,11 @@ permalink: /FRANSA/ISSOUDUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISSOUDUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ISSOUDUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ISSOUDUN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ISSOUDUN';
+* [ (ISSOUDUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ISSOUDUN/)
 </script>
+<script type="text/javascript">

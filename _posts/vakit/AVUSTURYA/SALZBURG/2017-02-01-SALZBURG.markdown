@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SALZBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALZBURG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SALZBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SALZBURG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SALZBURG';
+* [ (SALZBURG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SALZBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/KIRCHBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIRCHBERG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/KIRCHBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'KIRCHBERG';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'KIRCHBERG';
+* [ (KIRCHBERG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/KIRCHBERG/)
 </script>
+<script type="text/javascript">

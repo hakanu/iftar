@@ -8,10 +8,11 @@ permalink: /RUSYA/NOYABRSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOYABRSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOYABRSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOYABRSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOYABRSK';
+* [ (NOYABRSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOYABRSK/)
 </script>
+<script type="text/javascript">

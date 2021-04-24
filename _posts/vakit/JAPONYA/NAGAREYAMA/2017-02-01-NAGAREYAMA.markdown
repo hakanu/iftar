@@ -8,10 +8,11 @@ permalink: /JAPONYA/NAGAREYAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAGAREYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGAREYAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'NAGAREYAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'NAGAREYAMA';
+* [ (NAGAREYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/NAGAREYAMA/)
 </script>
+<script type="text/javascript">

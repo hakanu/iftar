@@ -8,10 +8,11 @@ permalink: /ALMANYA/WASSERBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [_INN (WASSERBURG_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WASSERBURG_/_INN)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WASSERBURG ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WASSERBURG ';
+* [_INN (WASSERBURG_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WASSERBURG_/_INN)
 </script>
+<script type="text/javascript">

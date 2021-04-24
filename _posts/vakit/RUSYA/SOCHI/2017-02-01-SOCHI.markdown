@@ -8,10 +8,11 @@ permalink: /RUSYA/SOCHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOCHI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SOCHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SOCHI';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SOCHI';
+* [ (SOCHI, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SOCHI/)
 </script>
+<script type="text/javascript">

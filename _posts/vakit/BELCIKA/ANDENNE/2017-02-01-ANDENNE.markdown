@@ -8,10 +8,11 @@ permalink: /BELCIKA/ANDENNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANDENNE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ANDENNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ANDENNE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ANDENNE';
+* [ (ANDENNE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ANDENNE/)
 </script>
+<script type="text/javascript">

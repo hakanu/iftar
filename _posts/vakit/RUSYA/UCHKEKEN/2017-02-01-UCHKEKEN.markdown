@@ -8,10 +8,11 @@ permalink: /RUSYA/UCHKEKEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UCHKEKEN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UCHKEKEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'UCHKEKEN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'UCHKEKEN';
+* [ (UCHKEKEN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UCHKEKEN/)
 </script>
+<script type="text/javascript">

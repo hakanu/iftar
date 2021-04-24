@@ -8,10 +8,11 @@ permalink: /MACARISTAN/PILIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PILIS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/PILIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'PILIS';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'PILIS';
+* [ (PILIS, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/PILIS/)
 </script>
+<script type="text/javascript">

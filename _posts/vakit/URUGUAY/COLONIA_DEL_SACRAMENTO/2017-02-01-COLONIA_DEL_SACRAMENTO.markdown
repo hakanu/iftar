@@ -8,10 +8,11 @@ permalink: /URUGUAY/COLONIA DEL SACRAMENTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COLONIA_DEL_SACRAMENTO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/COLONIA_DEL_SACRAMENTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'COLONIA DEL SACRAMENTO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'COLONIA DEL SACRAMENTO';
+* [ (COLONIA_DEL_SACRAMENTO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/COLONIA_DEL_SACRAMENTO/)
 </script>
+<script type="text/javascript">

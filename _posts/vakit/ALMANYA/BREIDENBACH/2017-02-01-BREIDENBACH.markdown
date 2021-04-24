@@ -8,10 +8,11 @@ permalink: /ALMANYA/BREIDENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREIDENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREIDENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BREIDENBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BREIDENBACH';
+* [ (BREIDENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREIDENBACH/)
 </script>
+<script type="text/javascript">

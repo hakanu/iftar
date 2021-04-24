@@ -8,10 +8,11 @@ permalink: /ALMANYA/FINKENWERDER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FINKENWERDER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FINKENWERDER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FINKENWERDER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FINKENWERDER';
+* [ (FINKENWERDER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FINKENWERDER/)
 </script>
+<script type="text/javascript">

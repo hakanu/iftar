@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRILON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRILON, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRILON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRILON';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRILON';
+* [ (BRILON, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRILON/)
 </script>
+<script type="text/javascript">

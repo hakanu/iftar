@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/AMBON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMBON, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/AMBON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'AMBON';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'AMBON';
+* [ (AMBON, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/AMBON/)
 </script>
+<script type="text/javascript">

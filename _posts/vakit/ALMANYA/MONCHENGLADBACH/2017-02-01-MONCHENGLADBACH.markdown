@@ -8,10 +8,11 @@ permalink: /ALMANYA/MONCHENGLADBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONCHENGLADBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MONCHENGLADBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MONCHENGLADBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MONCHENGLADBACH';
+* [ (MONCHENGLADBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MONCHENGLADBACH/)
 </script>
+<script type="text/javascript">

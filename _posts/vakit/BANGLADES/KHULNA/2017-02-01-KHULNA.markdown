@@ -8,10 +8,11 @@ permalink: /BANGLADES/KHULNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHULNA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/KHULNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BANGLADES';
+
   var GLOBAL_CITY = 'KHULNA';
+  var GLOBAL_COUNTRY = 'BANGLADES';
   var GLOBAL_STATE = 'KHULNA';
+* [ (KHULNA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/KHULNA/)
 </script>
+<script type="text/javascript">

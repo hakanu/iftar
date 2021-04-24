@@ -8,10 +8,11 @@ permalink: /CIN/SHANTOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHANTOU, CIN) için iftar ve namaz vakitleri](/CIN/SHANTOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHANTOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHANTOU';
+* [ (SHANTOU, CIN) için iftar ve namaz vakitleri](/CIN/SHANTOU/)
 </script>
+<script type="text/javascript">

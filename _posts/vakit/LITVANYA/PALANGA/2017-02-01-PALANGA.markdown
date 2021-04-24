@@ -8,10 +8,11 @@ permalink: /LITVANYA/PALANGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PALANGA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/PALANGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'PALANGA';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'PALANGA';
+* [ (PALANGA, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/PALANGA/)
 </script>
+<script type="text/javascript">

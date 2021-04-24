@@ -8,10 +8,11 @@ permalink: /ITALYA/RIBERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIBERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RIBERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'RIBERA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'RIBERA';
+* [ (RIBERA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/RIBERA/)
 </script>
+<script type="text/javascript">

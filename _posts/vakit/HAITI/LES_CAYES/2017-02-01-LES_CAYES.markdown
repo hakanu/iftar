@@ -8,10 +8,11 @@ permalink: /HAITI/LES CAYES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LES_CAYES, HAITI) için iftar ve namaz vakitleri](/HAITI/LES_CAYES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HAITI';
+
   var GLOBAL_CITY = 'LES CAYES';
+  var GLOBAL_COUNTRY = 'HAITI';
   var GLOBAL_STATE = 'LES CAYES';
+* [ (LES_CAYES, HAITI) için iftar ve namaz vakitleri](/HAITI/LES_CAYES/)
 </script>
+<script type="text/javascript">

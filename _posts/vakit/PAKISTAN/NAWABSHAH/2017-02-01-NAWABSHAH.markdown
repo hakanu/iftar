@@ -8,10 +8,11 @@ permalink: /PAKISTAN/NAWABSHAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAWABSHAH, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/NAWABSHAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'NAWABSHAH';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'NAWABSHAH';
+* [ (NAWABSHAH, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/NAWABSHAH/)
 </script>
+<script type="text/javascript">

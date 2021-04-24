@@ -8,10 +8,11 @@ permalink: /ALMANYA/REMAGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REMAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REMAGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'REMAGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'REMAGEN';
+* [ (REMAGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REMAGEN/)
 </script>
+<script type="text/javascript">

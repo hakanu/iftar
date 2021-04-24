@@ -8,10 +8,11 @@ permalink: /HONG KONG/ABERDEEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABERDEEN, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/ABERDEEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONG KONG';
+
   var GLOBAL_CITY = 'ABERDEEN';
+  var GLOBAL_COUNTRY = 'HONG KONG';
   var GLOBAL_STATE = 'ABERDEEN';
+* [ (ABERDEEN, HONG_KONG) için iftar ve namaz vakitleri](/HONG_KONG/ABERDEEN/)
 </script>
+<script type="text/javascript">

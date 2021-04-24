@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/COLONEL HILL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COLONEL_HILL, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/COLONEL_HILL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'COLONEL HILL';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'COLONEL HILL';
+* [ (COLONEL_HILL, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/COLONEL_HILL/)
 </script>
+<script type="text/javascript">

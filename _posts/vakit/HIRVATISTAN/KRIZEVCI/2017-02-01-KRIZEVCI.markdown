@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/KRIZEVCI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRIZEVCI, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/KRIZEVCI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'KRIZEVCI';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'KRIZEVCI';
+* [ (KRIZEVCI, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/KRIZEVCI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BERG (Reutte)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERG_(Reutte), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BERG_(Reutte)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BERG (Reutte)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BERG (Reutte)';
+* [ (BERG_(Reutte), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BERG_(Reutte)/)
 </script>
+<script type="text/javascript">

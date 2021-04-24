@@ -8,10 +8,11 @@ permalink: /NORVEC/OSLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSLO, NORVEC) için iftar ve namaz vakitleri](/NORVEC/OSLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'OSLO';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'OSLO';
+* [ (OSLO, NORVEC) için iftar ve namaz vakitleri](/NORVEC/OSLO/)
 </script>
+<script type="text/javascript">

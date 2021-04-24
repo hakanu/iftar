@@ -8,10 +8,11 @@ permalink: /JAPONYA/FUKUOKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUKUOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKUOKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'FUKUOKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'FUKUOKA';
+* [ (FUKUOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKUOKA/)
 </script>
+<script type="text/javascript">

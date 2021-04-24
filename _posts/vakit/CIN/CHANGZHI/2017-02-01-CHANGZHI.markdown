@@ -8,10 +8,11 @@ permalink: /CIN/CHANGZHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANGZHI, CIN) için iftar ve namaz vakitleri](/CIN/CHANGZHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHANGZHI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHANGZHI';
+* [ (CHANGZHI, CIN) için iftar ve namaz vakitleri](/CIN/CHANGZHI/)
 </script>
+<script type="text/javascript">

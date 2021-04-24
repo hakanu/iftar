@@ -8,10 +8,11 @@ permalink: /SOMALI/MOGADISHU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOGADISHU, SOMALI) için iftar ve namaz vakitleri](/SOMALI/MOGADISHU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SOMALI';
+
   var GLOBAL_CITY = 'MOGADISHU';
+  var GLOBAL_COUNTRY = 'SOMALI';
   var GLOBAL_STATE = 'MOGADISHU';
+* [ (MOGADISHU, SOMALI) için iftar ve namaz vakitleri](/SOMALI/MOGADISHU/)
 </script>
+<script type="text/javascript">

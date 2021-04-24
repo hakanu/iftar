@@ -8,10 +8,11 @@ permalink: /ISVICRE/SUHR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUHR___, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SUHR___/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SUHR   ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SUHR   ';
+* [ (SUHR___, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SUHR___/)
 </script>
+<script type="text/javascript">

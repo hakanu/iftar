@@ -8,10 +8,11 @@ permalink: /NORVEC/SANDVIKA (A)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANDVIKA_(A), NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDVIKA_(A)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'SANDVIKA (A)';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'SANDVIKA (A)';
+* [ (SANDVIKA_(A), NORVEC) için iftar ve namaz vakitleri](/NORVEC/SANDVIKA_(A)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SLOVENYA/NOVO MESTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVO_MESTO, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/NOVO_MESTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'NOVO MESTO';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'NOVO MESTO';
+* [ (NOVO_MESTO, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/NOVO_MESTO/)
 </script>
+<script type="text/javascript">

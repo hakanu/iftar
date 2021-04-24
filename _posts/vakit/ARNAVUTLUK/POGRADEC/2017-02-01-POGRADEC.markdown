@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/POGRADEC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POGRADEC, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/POGRADEC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'POGRADEC';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'POGRADEC';
+* [ (POGRADEC, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/POGRADEC/)
 </script>
+<script type="text/javascript">

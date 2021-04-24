@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/ESPINHO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESPINHO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/ESPINHO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'ESPINHO';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'ESPINHO';
+* [ (ESPINHO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/ESPINHO/)
 </script>
+<script type="text/javascript">

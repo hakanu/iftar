@@ -8,10 +8,11 @@ permalink: /ISVICRE/SIERRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIERRE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SIERRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SIERRE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SIERRE';
+* [ (SIERRE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SIERRE/)
 </script>
+<script type="text/javascript">

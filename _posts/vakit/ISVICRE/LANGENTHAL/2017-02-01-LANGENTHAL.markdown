@@ -8,10 +8,11 @@ permalink: /ISVICRE/LANGENTHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANGENTHAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LANGENTHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LANGENTHAL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LANGENTHAL';
+* [ (LANGENTHAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LANGENTHAL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HINDISTAN/MYSORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MYSORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MYSORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'MYSORE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'MYSORE';
+* [ (MYSORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MYSORE/)
 </script>
+<script type="text/javascript">

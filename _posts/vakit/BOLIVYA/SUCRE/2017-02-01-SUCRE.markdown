@@ -8,10 +8,11 @@ permalink: /BOLIVYA/SUCRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUCRE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SUCRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'SUCRE';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'SUCRE';
+* [ (SUCRE, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SUCRE/)
 </script>
+<script type="text/javascript">

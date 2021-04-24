@@ -8,10 +8,11 @@ permalink: /BOTSVANA/SUNNYSIDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUNNYSIDE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SUNNYSIDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOTSVANA';
+
   var GLOBAL_CITY = 'SUNNYSIDE';
+  var GLOBAL_COUNTRY = 'BOTSVANA';
   var GLOBAL_STATE = 'SUNNYSIDE';
+* [ (SUNNYSIDE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/SUNNYSIDE/)
 </script>
+<script type="text/javascript">

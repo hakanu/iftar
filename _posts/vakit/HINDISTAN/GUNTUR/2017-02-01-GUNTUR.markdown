@@ -8,10 +8,11 @@ permalink: /HINDISTAN/GUNTUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUNTUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GUNTUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'GUNTUR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'GUNTUR';
+* [ (GUNTUR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GUNTUR/)
 </script>
+<script type="text/javascript">

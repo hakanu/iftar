@@ -8,10 +8,11 @@ permalink: /FRANSA/ALBI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALBI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALBI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ALBI';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ALBI';
+* [ (ALBI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALBI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAMERUN/BAMENDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAMENDA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/BAMENDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMERUN';
+
   var GLOBAL_CITY = 'BAMENDA';
+  var GLOBAL_COUNTRY = 'KAMERUN';
   var GLOBAL_STATE = 'BAMENDA';
+* [ (BAMENDA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/BAMENDA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/HEYUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEYUAN, CIN) için iftar ve namaz vakitleri](/CIN/HEYUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HEYUAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HEYUAN';
+* [ (HEYUAN, CIN) için iftar ve namaz vakitleri](/CIN/HEYUAN/)
 </script>
+<script type="text/javascript">

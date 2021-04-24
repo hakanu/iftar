@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/TURKU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURKU, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/TURKU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'TURKU';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'TURKU';
+* [ (TURKU, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/TURKU/)
 </script>
+<script type="text/javascript">

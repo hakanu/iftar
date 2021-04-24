@@ -8,10 +8,11 @@ permalink: /TUNUS/GAFSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAFSA, TUNUS) için iftar ve namaz vakitleri](/TUNUS/GAFSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TUNUS';
+
   var GLOBAL_CITY = 'GAFSA';
+  var GLOBAL_COUNTRY = 'TUNUS';
   var GLOBAL_STATE = 'GAFSA';
+* [ (GAFSA, TUNUS) için iftar ve namaz vakitleri](/TUNUS/GAFSA/)
 </script>
+<script type="text/javascript">

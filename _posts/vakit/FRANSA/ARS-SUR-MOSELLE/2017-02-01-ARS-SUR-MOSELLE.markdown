@@ -8,10 +8,11 @@ permalink: /FRANSA/ARS-SUR-MOSELLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARS-SUR-MOSELLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARS-SUR-MOSELLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ARS-SUR-MOSELLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ARS-SUR-MOSELLE';
+* [ (ARS-SUR-MOSELLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARS-SUR-MOSELLE/)
 </script>
+<script type="text/javascript">

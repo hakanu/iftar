@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/VLORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VLORE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/VLORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'VLORE';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'VLORE';
+* [ (VLORE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/VLORE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/MONETEAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONETEAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONETEAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONETEAU';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONETEAU';
+* [ (MONETEAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONETEAU/)
 </script>
+<script type="text/javascript">

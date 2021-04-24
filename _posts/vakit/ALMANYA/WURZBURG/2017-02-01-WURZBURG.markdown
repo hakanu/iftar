@@ -8,10 +8,11 @@ permalink: /ALMANYA/WURZBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WURZBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WURZBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WURZBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WURZBURG';
+* [ (WURZBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WURZBURG/)
 </script>
+<script type="text/javascript">

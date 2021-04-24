@@ -8,10 +8,11 @@ permalink: /CIBUTI/OBOCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBOCK, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/OBOCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIBUTI';
+
   var GLOBAL_CITY = 'OBOCK';
+  var GLOBAL_COUNTRY = 'CIBUTI';
   var GLOBAL_STATE = 'OBOCK';
+* [ (OBOCK, CIBUTI) için iftar ve namaz vakitleri](/CIBUTI/OBOCK/)
 </script>
+<script type="text/javascript">

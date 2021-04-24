@@ -8,10 +8,11 @@ permalink: /ISVEC/OSKARSHAMN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSKARSHAMN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/OSKARSHAMN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'OSKARSHAMN';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'OSKARSHAMN';
+* [ (OSKARSHAMN, ISVEC) için iftar ve namaz vakitleri](/ISVEC/OSKARSHAMN/)
 </script>
+<script type="text/javascript">

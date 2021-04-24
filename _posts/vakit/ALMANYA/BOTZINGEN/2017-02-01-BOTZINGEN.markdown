@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOTZINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOTZINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOTZINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOTZINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOTZINGEN';
+* [ (BOTZINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOTZINGEN/)
 </script>
+<script type="text/javascript">

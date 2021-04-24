@@ -8,10 +8,11 @@ permalink: /GURCISTAN/KOBULETI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOBULETI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KOBULETI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'KOBULETI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'KOBULETI';
+* [ (KOBULETI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/KOBULETI/)
 </script>
+<script type="text/javascript">

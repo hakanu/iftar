@@ -8,10 +8,11 @@ permalink: /FRANSA/MEYZIEU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MEYZIEU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MEYZIEU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MEYZIEU';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MEYZIEU';
+* [ (MEYZIEU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MEYZIEU/)
 </script>
+<script type="text/javascript">

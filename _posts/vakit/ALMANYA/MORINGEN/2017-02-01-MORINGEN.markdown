@@ -8,10 +8,11 @@ permalink: /ALMANYA/MORINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MORINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MORINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MORINGEN';
+* [ (MORINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MORINGEN/)
 </script>
+<script type="text/javascript">

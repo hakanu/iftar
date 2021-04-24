@@ -8,10 +8,11 @@ permalink: /ALMANYA/GOMARINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOMARINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOMARINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GOMARINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GOMARINGEN';
+* [ (GOMARINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOMARINGEN/)
 </script>
+<script type="text/javascript">

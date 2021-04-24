@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/NAMBOUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAMBOUR, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NAMBOUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'NAMBOUR';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'NAMBOUR';
+* [ (NAMBOUR, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NAMBOUR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /TANZANYA/DAR ES SALAAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DAR_ES_SALAAM, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DAR_ES_SALAAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'DAR ES SALAAM';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'DAR ES SALAAM';
+* [ (DAR_ES_SALAAM, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/DAR_ES_SALAAM/)
 </script>
+<script type="text/javascript">

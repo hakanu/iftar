@@ -8,10 +8,11 @@ permalink: /ISVICRE/WETZIKON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WETZIKON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WETZIKON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'WETZIKON';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'WETZIKON';
+* [ (WETZIKON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WETZIKON/)
 </script>
+<script type="text/javascript">

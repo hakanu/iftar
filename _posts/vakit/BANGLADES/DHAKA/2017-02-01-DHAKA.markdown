@@ -8,10 +8,11 @@ permalink: /BANGLADES/DHAKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DHAKA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/DHAKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BANGLADES';
+
   var GLOBAL_CITY = 'DHAKA';
+  var GLOBAL_COUNTRY = 'BANGLADES';
   var GLOBAL_STATE = 'DHAKA';
+* [ (DHAKA, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/DHAKA/)
 </script>
+<script type="text/javascript">

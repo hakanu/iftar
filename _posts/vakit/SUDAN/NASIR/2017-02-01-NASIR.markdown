@@ -8,10 +8,11 @@ permalink: /SUDAN/NASIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NASIR, SUDAN) için iftar ve namaz vakitleri](/SUDAN/NASIR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SUDAN';
+
   var GLOBAL_CITY = 'NASIR';
+  var GLOBAL_COUNTRY = 'SUDAN';
   var GLOBAL_STATE = 'NASIR';
+* [ (NASIR, SUDAN) için iftar ve namaz vakitleri](/SUDAN/NASIR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/RIIHIMAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIIHIMAKI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/RIIHIMAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'RIIHIMAKI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'RIIHIMAKI';
+* [ (RIIHIMAKI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/RIIHIMAKI/)
 </script>
+<script type="text/javascript">

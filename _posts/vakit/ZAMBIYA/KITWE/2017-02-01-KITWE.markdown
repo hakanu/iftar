@@ -8,10 +8,11 @@ permalink: /ZAMBIYA/KITWE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KITWE, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/KITWE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZAMBIYA';
+
   var GLOBAL_CITY = 'KITWE';
+  var GLOBAL_COUNTRY = 'ZAMBIYA';
   var GLOBAL_STATE = 'KITWE';
+* [ (KITWE, ZAMBIYA) için iftar ve namaz vakitleri](/ZAMBIYA/KITWE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KARAZHAR(Ekibastuz)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAZHAR(Ekibastuz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARAZHAR(Ekibastuz)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KARAZHAR(Ekibastuz)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KARAZHAR(Ekibastuz)';
+* [ (KARAZHAR(Ekibastuz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KARAZHAR(Ekibastuz)/)
 </script>
+<script type="text/javascript">

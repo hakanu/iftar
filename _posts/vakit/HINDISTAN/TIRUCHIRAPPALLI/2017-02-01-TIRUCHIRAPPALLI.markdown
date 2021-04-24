@@ -8,10 +8,11 @@ permalink: /HINDISTAN/TIRUCHIRAPPALLI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIRUCHIRAPPALLI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/TIRUCHIRAPPALLI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'TIRUCHIRAPPALLI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'TIRUCHIRAPPALLI';
+* [ (TIRUCHIRAPPALLI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/TIRUCHIRAPPALLI/)
 </script>
+<script type="text/javascript">

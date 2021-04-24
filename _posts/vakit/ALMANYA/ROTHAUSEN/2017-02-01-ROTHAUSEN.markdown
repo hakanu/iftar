@@ -8,10 +8,11 @@ permalink: /ALMANYA/ROTHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROTHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROTHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ROTHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ROTHAUSEN';
+* [ (ROTHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROTHAUSEN/)
 </script>
+<script type="text/javascript">

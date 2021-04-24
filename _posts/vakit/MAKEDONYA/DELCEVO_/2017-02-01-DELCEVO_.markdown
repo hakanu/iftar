@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/DELCEVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DELCEVO_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/DELCEVO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'DELCEVO ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'DELCEVO ';
+* [ (DELCEVO_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/DELCEVO_/)
 </script>
+<script type="text/javascript">

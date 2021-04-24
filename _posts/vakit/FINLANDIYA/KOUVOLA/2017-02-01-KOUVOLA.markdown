@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/KOUVOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOUVOLA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KOUVOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'KOUVOLA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'KOUVOLA';
+* [ (KOUVOLA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KOUVOLA/)
 </script>
+<script type="text/javascript">

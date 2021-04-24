@@ -8,10 +8,11 @@ permalink: /BELCIKA/NIVELLES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIVELLES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/NIVELLES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'NIVELLES';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'NIVELLES';
+* [ (NIVELLES, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/NIVELLES/)
 </script>
+<script type="text/javascript">

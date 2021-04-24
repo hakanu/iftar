@@ -8,10 +8,11 @@ permalink: /ALMANYA/FREUDENSATDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREUDENSATDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREUDENSATDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FREUDENSATDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FREUDENSATDT';
+* [ (FREUDENSATDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREUDENSATDT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MORITANYA/ALEG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALEG, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ALEG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MORITANYA';
+
   var GLOBAL_CITY = 'ALEG';
+  var GLOBAL_COUNTRY = 'MORITANYA';
   var GLOBAL_STATE = 'ALEG';
+* [ (ALEG, MORITANYA) için iftar ve namaz vakitleri](/MORITANYA/ALEG/)
 </script>
+<script type="text/javascript">

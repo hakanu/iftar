@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HOOGEZAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOOGEZAND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOGEZAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HOOGEZAND';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HOOGEZAND';
+* [ (HOOGEZAND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HOOGEZAND/)
 </script>
+<script type="text/javascript">

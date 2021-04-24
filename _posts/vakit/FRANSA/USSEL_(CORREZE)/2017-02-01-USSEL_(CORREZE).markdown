@@ -8,10 +8,11 @@ permalink: /FRANSA/USSEL (CORREZE)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (USSEL_(CORREZE), FRANSA) için iftar ve namaz vakitleri](/FRANSA/USSEL_(CORREZE)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'USSEL (CORREZE)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'USSEL (CORREZE)';
+* [ (USSEL_(CORREZE), FRANSA) için iftar ve namaz vakitleri](/FRANSA/USSEL_(CORREZE)/)
 </script>
+<script type="text/javascript">

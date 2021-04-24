@@ -8,10 +8,11 @@ permalink: /FRANSA/PONTOISE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONTOISE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONTOISE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PONTOISE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PONTOISE';
+* [ (PONTOISE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONTOISE/)
 </script>
+<script type="text/javascript">

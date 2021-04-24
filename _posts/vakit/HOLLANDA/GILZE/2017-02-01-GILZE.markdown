@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GILZE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GILZE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GILZE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GILZE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GILZE';
+* [ (GILZE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GILZE/)
 </script>
+<script type="text/javascript">

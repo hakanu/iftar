@@ -8,10 +8,11 @@ permalink: /BELIZE/COROZALITO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COROZALITO, BELIZE) için iftar ve namaz vakitleri](/BELIZE/COROZALITO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELIZE';
+
   var GLOBAL_CITY = 'COROZALITO';
+  var GLOBAL_COUNTRY = 'BELIZE';
   var GLOBAL_STATE = 'COROZALITO';
+* [ (COROZALITO, BELIZE) için iftar ve namaz vakitleri](/BELIZE/COROZALITO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/WILTZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WILTZ, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/WILTZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'WILTZ';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'WILTZ';
+* [ (WILTZ, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/WILTZ/)
 </script>
+<script type="text/javascript">

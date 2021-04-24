@@ -8,10 +8,11 @@ permalink: /TANZANYA/MOROGORO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOROGORO, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MOROGORO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'MOROGORO';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'MOROGORO';
+* [ (MOROGORO, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/MOROGORO/)
 </script>
+<script type="text/javascript">

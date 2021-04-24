@@ -8,5 +8,6 @@ permalink: /RUANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [BUTARE (RUANDA) için iftar ve namaz vakitleri](/RUANDA/BUTARE)
 * [KIGALI (RUANDA) için iftar ve namaz vakitleri](/RUANDA/KIGALI)

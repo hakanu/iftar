@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/DEVONPORT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEVONPORT, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DEVONPORT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'DEVONPORT';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'DEVONPORT';
+* [ (DEVONPORT, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DEVONPORT/)
 </script>
+<script type="text/javascript">

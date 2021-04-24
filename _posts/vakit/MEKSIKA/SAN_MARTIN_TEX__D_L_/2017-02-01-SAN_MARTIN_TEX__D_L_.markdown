@@ -8,10 +8,11 @@ permalink: /MEKSIKA/SAN MARTIN TEX_ D_L_
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_MARTIN_TEX__D_L_, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_MARTIN_TEX__D_L_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'SAN MARTIN TEX_ D_L_';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'SAN MARTIN TEX_ D_L_';
+* [ (SAN_MARTIN_TEX__D_L_, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_MARTIN_TEX__D_L_/)
 </script>
+<script type="text/javascript">

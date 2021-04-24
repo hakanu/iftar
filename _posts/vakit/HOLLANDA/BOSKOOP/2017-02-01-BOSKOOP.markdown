@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BOSKOOP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOSKOOP, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BOSKOOP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BOSKOOP';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BOSKOOP';
+* [ (BOSKOOP, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BOSKOOP/)
 </script>
+<script type="text/javascript">

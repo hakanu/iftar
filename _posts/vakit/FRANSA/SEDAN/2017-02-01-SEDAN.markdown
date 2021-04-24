@@ -8,10 +8,11 @@ permalink: /FRANSA/SEDAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEDAN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SEDAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SEDAN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SEDAN';
+* [ (SEDAN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SEDAN/)
 </script>
+<script type="text/javascript">

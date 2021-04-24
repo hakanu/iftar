@@ -8,10 +8,11 @@ permalink: /BELIZE/DANGRIGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DANGRIGA, BELIZE) için iftar ve namaz vakitleri](/BELIZE/DANGRIGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELIZE';
+
   var GLOBAL_CITY = 'DANGRIGA';
+  var GLOBAL_COUNTRY = 'BELIZE';
   var GLOBAL_STATE = 'DANGRIGA';
+* [ (DANGRIGA, BELIZE) için iftar ve namaz vakitleri](/BELIZE/DANGRIGA/)
 </script>
+<script type="text/javascript">

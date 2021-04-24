@@ -8,10 +8,11 @@ permalink: /BELCIKA/LIEGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIEGE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LIEGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LIEGE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LIEGE';
+* [ (LIEGE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LIEGE/)
 </script>
+<script type="text/javascript">

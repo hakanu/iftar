@@ -8,10 +8,11 @@ permalink: /ISVEC/LYSEKIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LYSEKIL, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LYSEKIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LYSEKIL';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LYSEKIL';
+* [ (LYSEKIL, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LYSEKIL/)
 </script>
+<script type="text/javascript">

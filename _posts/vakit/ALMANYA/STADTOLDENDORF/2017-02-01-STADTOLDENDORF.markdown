@@ -8,10 +8,11 @@ permalink: /ALMANYA/STADTOLDENDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STADTOLDENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTOLDENDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STADTOLDENDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STADTOLDENDORF';
+* [ (STADTOLDENDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTOLDENDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BLUMBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLUMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLUMBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BLUMBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BLUMBERG';
+* [ (BLUMBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BLUMBERG/)
 </script>
+<script type="text/javascript">

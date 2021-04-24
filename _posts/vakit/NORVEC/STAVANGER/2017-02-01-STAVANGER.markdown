@@ -8,10 +8,11 @@ permalink: /NORVEC/STAVANGER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STAVANGER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/STAVANGER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'STAVANGER';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'STAVANGER';
+* [ (STAVANGER, NORVEC) için iftar ve namaz vakitleri](/NORVEC/STAVANGER/)
 </script>
+<script type="text/javascript">

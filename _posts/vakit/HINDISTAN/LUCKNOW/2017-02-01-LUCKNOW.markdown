@@ -8,10 +8,11 @@ permalink: /HINDISTAN/LUCKNOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUCKNOW, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/LUCKNOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'LUCKNOW';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'LUCKNOW';
+* [ (LUCKNOW, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/LUCKNOW/)
 </script>
+<script type="text/javascript">

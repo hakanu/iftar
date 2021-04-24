@@ -8,10 +8,11 @@ permalink: /ESTONYA/TALLINN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TALLINN, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TALLINN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'TALLINN';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'TALLINN';
+* [ (TALLINN, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/TALLINN/)
 </script>
+<script type="text/javascript">

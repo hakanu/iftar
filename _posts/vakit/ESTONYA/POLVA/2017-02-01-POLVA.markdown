@@ -8,10 +8,11 @@ permalink: /ESTONYA/POLVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POLVA, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/POLVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'POLVA';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'POLVA';
+* [ (POLVA, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/POLVA/)
 </script>
+<script type="text/javascript">

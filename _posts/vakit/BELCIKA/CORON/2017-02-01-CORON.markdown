@@ -8,10 +8,11 @@ permalink: /BELCIKA/CORON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORON, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CORON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'CORON';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'CORON';
+* [ (CORON, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CORON/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/RUMIKON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUMIKON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RUMIKON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'RUMIKON';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'RUMIKON';
+* [ (RUMIKON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/RUMIKON/)
 </script>
+<script type="text/javascript">

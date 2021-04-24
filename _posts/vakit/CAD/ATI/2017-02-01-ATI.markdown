@@ -8,10 +8,11 @@ permalink: /CAD/ATI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATI, CAD) için iftar ve namaz vakitleri](/CAD/ATI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'ATI';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'ATI';
+* [ (ATI, CAD) için iftar ve namaz vakitleri](/CAD/ATI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LEND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEND, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LEND';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LEND';
+* [ (LEND, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEND/)
 </script>
+<script type="text/javascript">

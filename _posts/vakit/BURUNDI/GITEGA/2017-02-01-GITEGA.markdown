@@ -8,10 +8,11 @@ permalink: /BURUNDI/GITEGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GITEGA, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/GITEGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURUNDI';
+
   var GLOBAL_CITY = 'GITEGA';
+  var GLOBAL_COUNTRY = 'BURUNDI';
   var GLOBAL_STATE = 'GITEGA';
+* [ (GITEGA, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/GITEGA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVEC/TOMELILLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOMELILLA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/TOMELILLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'TOMELILLA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'TOMELILLA';
+* [ (TOMELILLA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/TOMELILLA/)
 </script>
+<script type="text/javascript">

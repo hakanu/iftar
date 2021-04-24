@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/GRANADA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GRANADA, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/GRANADA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'GRANADA';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'GRANADA';
+* [ (GRANADA, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/GRANADA/)
 </script>
+<script type="text/javascript">

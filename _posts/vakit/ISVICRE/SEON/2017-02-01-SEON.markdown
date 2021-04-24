@@ -8,10 +8,11 @@ permalink: /ISVICRE/SEON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SEON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SEON';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SEON';
+* [ (SEON, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SEON/)
 </script>
+<script type="text/javascript">

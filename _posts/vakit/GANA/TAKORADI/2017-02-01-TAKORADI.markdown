@@ -8,10 +8,11 @@ permalink: /GANA/TAKORADI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAKORADI, GANA) için iftar ve namaz vakitleri](/GANA/TAKORADI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GANA';
+
   var GLOBAL_CITY = 'TAKORADI';
+  var GLOBAL_COUNTRY = 'GANA';
   var GLOBAL_STATE = 'TAKORADI';
+* [ (TAKORADI, GANA) için iftar ve namaz vakitleri](/GANA/TAKORADI/)
 </script>
+<script type="text/javascript">

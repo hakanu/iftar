@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CIUDAD ACUNA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_ACUNA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_ACUNA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CIUDAD ACUNA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CIUDAD ACUNA';
+* [ (CIUDAD_ACUNA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_ACUNA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SENEGAL/THIES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THIES, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/THIES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SENEGAL';
+
   var GLOBAL_CITY = 'THIES';
+  var GLOBAL_COUNTRY = 'SENEGAL';
   var GLOBAL_STATE = 'THIES';
+* [ (THIES, SENEGAL) için iftar ve namaz vakitleri](/SENEGAL/THIES/)
 </script>
+<script type="text/javascript">

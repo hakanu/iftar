@@ -8,10 +8,11 @@ permalink: /RUSYA/KRONSHTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRONSHTADT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRONSHTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KRONSHTADT';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KRONSHTADT';
+* [ (KRONSHTADT, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KRONSHTADT/)
 </script>
+<script type="text/javascript">

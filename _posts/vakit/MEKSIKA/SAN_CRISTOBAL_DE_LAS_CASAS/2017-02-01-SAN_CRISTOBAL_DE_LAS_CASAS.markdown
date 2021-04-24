@@ -8,10 +8,11 @@ permalink: /MEKSIKA/SAN CRISTOBAL DE LAS CASAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_CRISTOBAL_DE_LAS_CASAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_CRISTOBAL_DE_LAS_CASAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'SAN CRISTOBAL DE LAS CASAS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'SAN CRISTOBAL DE LAS CASAS';
+* [ (SAN_CRISTOBAL_DE_LAS_CASAS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SAN_CRISTOBAL_DE_LAS_CASAS/)
 </script>
+<script type="text/javascript">

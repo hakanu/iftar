@@ -8,10 +8,11 @@ permalink: /ALMANYA/PLATTLING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLATTLING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLATTLING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PLATTLING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PLATTLING';
+* [ (PLATTLING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLATTLING/)
 </script>
+<script type="text/javascript">

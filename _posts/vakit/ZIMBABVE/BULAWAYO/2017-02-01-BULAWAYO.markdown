@@ -8,10 +8,11 @@ permalink: /ZIMBABVE/BULAWAYO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BULAWAYO, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/BULAWAYO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZIMBABVE';
+
   var GLOBAL_CITY = 'BULAWAYO';
+  var GLOBAL_COUNTRY = 'ZIMBABVE';
   var GLOBAL_STATE = 'BULAWAYO';
+* [ (BULAWAYO, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/BULAWAYO/)
 </script>
+<script type="text/javascript">

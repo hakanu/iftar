@@ -8,10 +8,11 @@ permalink: /SILI/COIHAIQUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COIHAIQUE, SILI) için iftar ve namaz vakitleri](/SILI/COIHAIQUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'COIHAIQUE';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'COIHAIQUE';
+* [ (COIHAIQUE, SILI) için iftar ve namaz vakitleri](/SILI/COIHAIQUE/)
 </script>
+<script type="text/javascript">

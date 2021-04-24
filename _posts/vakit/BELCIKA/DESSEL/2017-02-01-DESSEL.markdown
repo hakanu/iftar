@@ -8,10 +8,11 @@ permalink: /BELCIKA/DESSEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DESSEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/DESSEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'DESSEL';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'DESSEL';
+* [ (DESSEL, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/DESSEL/)
 </script>
+<script type="text/javascript">

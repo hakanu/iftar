@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOYERSWERDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOYERSWERDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOYERSWERDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOYERSWERDA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOYERSWERDA';
+* [ (HOYERSWERDA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOYERSWERDA/)
 </script>
+<script type="text/javascript">

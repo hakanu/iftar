@@ -8,10 +8,11 @@ permalink: /UKRAYNA/SUMY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUMY, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SUMY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'SUMY';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'SUMY';
+* [ (SUMY, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SUMY/)
 </script>
+<script type="text/javascript">

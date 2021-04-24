@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MURZZUSCHLAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MURZZUSCHLAG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MURZZUSCHLAG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MURZZUSCHLAG';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MURZZUSCHLAG';
+* [ (MURZZUSCHLAG, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MURZZUSCHLAG/)
 </script>
+<script type="text/javascript">

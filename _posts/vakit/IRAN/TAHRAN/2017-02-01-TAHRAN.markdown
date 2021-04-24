@@ -8,10 +8,11 @@ permalink: /IRAN/TAHRAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAHRAN, IRAN) için iftar ve namaz vakitleri](/IRAN/TAHRAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'TAHRAN';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'TAHRAN';
+* [ (TAHRAN, IRAN) için iftar ve namaz vakitleri](/IRAN/TAHRAN/)
 </script>
+<script type="text/javascript">

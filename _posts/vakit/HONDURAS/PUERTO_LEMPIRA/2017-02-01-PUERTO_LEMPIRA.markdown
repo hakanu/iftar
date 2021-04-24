@@ -8,10 +8,11 @@ permalink: /HONDURAS/PUERTO LEMPIRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_LEMPIRA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/PUERTO_LEMPIRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'PUERTO LEMPIRA';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'PUERTO LEMPIRA';
+* [ (PUERTO_LEMPIRA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/PUERTO_LEMPIRA/)
 </script>
+<script type="text/javascript">

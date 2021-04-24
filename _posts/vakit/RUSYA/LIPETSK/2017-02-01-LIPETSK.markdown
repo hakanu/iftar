@@ -8,10 +8,11 @@ permalink: /RUSYA/LIPETSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIPETSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LIPETSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'LIPETSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'LIPETSK';
+* [ (LIPETSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/LIPETSK/)
 </script>
+<script type="text/javascript">

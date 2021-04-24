@@ -8,10 +8,11 @@ permalink: /ALMANYA/GARCHING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GARCHING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GARCHING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GARCHING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GARCHING';
+* [ (GARCHING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GARCHING/)
 </script>
+<script type="text/javascript">

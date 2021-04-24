@@ -8,10 +8,11 @@ permalink: /CAD/OUM HADJER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUM_HADJER, CAD) için iftar ve namaz vakitleri](/CAD/OUM_HADJER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'OUM HADJER';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'OUM HADJER';
+* [ (OUM_HADJER, CAD) için iftar ve namaz vakitleri](/CAD/OUM_HADJER/)
 </script>
+<script type="text/javascript">

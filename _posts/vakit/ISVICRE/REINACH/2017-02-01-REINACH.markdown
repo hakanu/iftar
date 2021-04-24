@@ -8,10 +8,11 @@ permalink: /ISVICRE/REINACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REINACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/REINACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'REINACH';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'REINACH';
+* [ (REINACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/REINACH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HILLEGOM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HILLEGOM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HILLEGOM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HILLEGOM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HILLEGOM';
+* [ (HILLEGOM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HILLEGOM/)
 </script>
+<script type="text/javascript">

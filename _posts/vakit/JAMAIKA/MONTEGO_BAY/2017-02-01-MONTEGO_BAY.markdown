@@ -8,10 +8,11 @@ permalink: /JAMAIKA/MONTEGO BAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTEGO_BAY, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/MONTEGO_BAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAMAIKA';
+
   var GLOBAL_CITY = 'MONTEGO BAY';
+  var GLOBAL_COUNTRY = 'JAMAIKA';
   var GLOBAL_STATE = 'MONTEGO BAY';
+* [ (MONTEGO_BAY, JAMAIKA) için iftar ve namaz vakitleri](/JAMAIKA/MONTEGO_BAY/)
 </script>
+<script type="text/javascript">

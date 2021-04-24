@@ -8,10 +8,11 @@ permalink: /ALMANYA/OEBISFELDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OEBISFELDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OEBISFELDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OEBISFELDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OEBISFELDE';
+* [ (OEBISFELDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OEBISFELDE/)
 </script>
+<script type="text/javascript">

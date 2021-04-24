@@ -8,10 +8,11 @@ permalink: /ALMANYA/KORSCHENBROICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORSCHENBROICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KORSCHENBROICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KORSCHENBROICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KORSCHENBROICH';
+* [ (KORSCHENBROICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KORSCHENBROICH/)
 </script>
+<script type="text/javascript">

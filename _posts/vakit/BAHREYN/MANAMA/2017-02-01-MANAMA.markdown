@@ -8,10 +8,11 @@ permalink: /BAHREYN/MANAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANAMA, BAHREYN) için iftar ve namaz vakitleri](/BAHREYN/MANAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHREYN';
+
   var GLOBAL_CITY = 'MANAMA';
+  var GLOBAL_COUNTRY = 'BAHREYN';
   var GLOBAL_STATE = 'MANAMA';
+* [ (MANAMA, BAHREYN) için iftar ve namaz vakitleri](/BAHREYN/MANAMA/)
 </script>
+<script type="text/javascript">

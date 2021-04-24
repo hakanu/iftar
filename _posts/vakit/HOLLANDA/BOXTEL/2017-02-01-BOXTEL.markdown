@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BOXTEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOXTEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BOXTEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BOXTEL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BOXTEL';
+* [ (BOXTEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BOXTEL/)
 </script>
+<script type="text/javascript">

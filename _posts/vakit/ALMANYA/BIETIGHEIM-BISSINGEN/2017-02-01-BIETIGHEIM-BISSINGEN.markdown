@@ -8,10 +8,11 @@ permalink: /ALMANYA/BIETIGHEIM-BISSINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIETIGHEIM-BISSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIETIGHEIM-BISSINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BIETIGHEIM-BISSINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BIETIGHEIM-BISSINGEN';
+* [ (BIETIGHEIM-BISSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIETIGHEIM-BISSINGEN/)
 </script>
+<script type="text/javascript">

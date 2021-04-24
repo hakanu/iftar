@@ -8,10 +8,11 @@ permalink: /RUSYA/TUAPSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TUAPSE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TUAPSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TUAPSE';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TUAPSE';
+* [ (TUAPSE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TUAPSE/)
 </script>
+<script type="text/javascript">

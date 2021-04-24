@@ -8,10 +8,11 @@ permalink: /ALMANYA/WICKEDE (DORT_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WICKEDE_(DORT_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WICKEDE_(DORT_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WICKEDE (DORT_)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WICKEDE (DORT_)';
+* [ (WICKEDE_(DORT_), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WICKEDE_(DORT_)/)
 </script>
+<script type="text/javascript">

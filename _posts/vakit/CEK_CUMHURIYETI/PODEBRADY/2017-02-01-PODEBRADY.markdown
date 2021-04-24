@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/PODEBRADY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PODEBRADY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/PODEBRADY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'PODEBRADY';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'PODEBRADY';
+* [ (PODEBRADY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/PODEBRADY/)
 </script>
+<script type="text/javascript">

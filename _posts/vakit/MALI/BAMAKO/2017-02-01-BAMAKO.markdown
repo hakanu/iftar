@@ -8,10 +8,11 @@ permalink: /MALI/BAMAKO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAMAKO, MALI) için iftar ve namaz vakitleri](/MALI/BAMAKO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALI';
+
   var GLOBAL_CITY = 'BAMAKO';
+  var GLOBAL_COUNTRY = 'MALI';
   var GLOBAL_STATE = 'BAMAKO';
+* [ (BAMAKO, MALI) için iftar ve namaz vakitleri](/MALI/BAMAKO/)
 </script>
+<script type="text/javascript">

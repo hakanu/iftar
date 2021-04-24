@@ -8,10 +8,11 @@ permalink: /ALMANYA/FRANKENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [EDER (FRANKENBERG_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRANKENBERG_/EDER)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FRANKENBERG ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FRANKENBERG ';
+* [EDER (FRANKENBERG_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FRANKENBERG_/EDER)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/GORZOW WIELKOPOLSKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GORZOW_WIELKOPOLSKI, POLONYA) için iftar ve namaz vakitleri](/POLONYA/GORZOW_WIELKOPOLSKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'GORZOW WIELKOPOLSKI';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'GORZOW WIELKOPOLSKI';
+* [ (GORZOW_WIELKOPOLSKI, POLONYA) için iftar ve namaz vakitleri](/POLONYA/GORZOW_WIELKOPOLSKI/)
 </script>
+<script type="text/javascript">

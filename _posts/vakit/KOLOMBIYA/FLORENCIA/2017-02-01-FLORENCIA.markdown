@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/FLORENCIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLORENCIA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/FLORENCIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'FLORENCIA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'FLORENCIA';
+* [ (FLORENCIA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/FLORENCIA/)
 </script>
+<script type="text/javascript">

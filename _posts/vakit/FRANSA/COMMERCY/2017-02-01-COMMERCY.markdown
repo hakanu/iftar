@@ -8,10 +8,11 @@ permalink: /FRANSA/COMMERCY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COMMERCY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COMMERCY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'COMMERCY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'COMMERCY';
+* [ (COMMERCY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COMMERCY/)
 </script>
+<script type="text/javascript">

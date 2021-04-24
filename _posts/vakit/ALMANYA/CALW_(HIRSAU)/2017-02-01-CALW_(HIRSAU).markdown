@@ -8,10 +8,11 @@ permalink: /ALMANYA/CALW (HIRSAU)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALW_(HIRSAU), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CALW_(HIRSAU)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'CALW (HIRSAU)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'CALW (HIRSAU)';
+* [ (CALW_(HIRSAU), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/CALW_(HIRSAU)/)
 </script>
+<script type="text/javascript">

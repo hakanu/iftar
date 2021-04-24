@@ -8,10 +8,11 @@ permalink: /RUSYA/VORONEZH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VORONEZH, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VORONEZH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VORONEZH';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VORONEZH';
+* [ (VORONEZH, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VORONEZH/)
 </script>
+<script type="text/javascript">

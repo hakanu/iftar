@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ACAMBARO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ACAMBARO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ACAMBARO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ACAMBARO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ACAMBARO';
+* [ (ACAMBARO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ACAMBARO/)
 </script>
+<script type="text/javascript">

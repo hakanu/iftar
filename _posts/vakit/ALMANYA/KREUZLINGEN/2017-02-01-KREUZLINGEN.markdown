@@ -8,10 +8,11 @@ permalink: /ALMANYA/KREUZLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KREUZLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREUZLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KREUZLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KREUZLINGEN';
+* [ (KREUZLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KREUZLINGEN/)
 </script>
+<script type="text/javascript">

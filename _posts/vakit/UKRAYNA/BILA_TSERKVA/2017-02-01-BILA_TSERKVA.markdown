@@ -8,10 +8,11 @@ permalink: /UKRAYNA/BILA TSERKVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BILA_TSERKVA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BILA_TSERKVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'BILA TSERKVA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'BILA TSERKVA';
+* [ (BILA_TSERKVA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BILA_TSERKVA/)
 </script>
+<script type="text/javascript">

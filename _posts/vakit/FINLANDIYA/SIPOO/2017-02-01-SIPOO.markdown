@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/SIPOO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIPOO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/SIPOO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'SIPOO';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'SIPOO';
+* [ (SIPOO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/SIPOO/)
 </script>
+<script type="text/javascript">

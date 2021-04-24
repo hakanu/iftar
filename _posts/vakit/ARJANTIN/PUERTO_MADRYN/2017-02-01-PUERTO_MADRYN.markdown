@@ -8,10 +8,11 @@ permalink: /ARJANTIN/PUERTO MADRYN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_MADRYN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PUERTO_MADRYN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'PUERTO MADRYN';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'PUERTO MADRYN';
+* [ (PUERTO_MADRYN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PUERTO_MADRYN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MISIR/AL GHARDAGAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_GHARDAGAH, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_GHARDAGAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'AL GHARDAGAH';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'AL GHARDAGAH';
+* [ (AL_GHARDAGAH, MISIR) için iftar ve namaz vakitleri](/MISIR/AL_GHARDAGAH/)
 </script>
+<script type="text/javascript">

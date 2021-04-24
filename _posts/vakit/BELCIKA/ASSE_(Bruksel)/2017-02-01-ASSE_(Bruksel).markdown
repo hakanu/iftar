@@ -8,10 +8,11 @@ permalink: /BELCIKA/ASSE (Bruksel)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASSE_(Bruksel), BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ASSE_(Bruksel)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ASSE (Bruksel)';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ASSE (Bruksel)';
+* [ (ASSE_(Bruksel), BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ASSE_(Bruksel)/)
 </script>
+<script type="text/javascript">

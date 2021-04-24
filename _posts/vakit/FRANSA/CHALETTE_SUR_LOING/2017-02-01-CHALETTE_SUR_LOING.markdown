@@ -8,10 +8,11 @@ permalink: /FRANSA/CHALETTE SUR LOING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHALETTE_SUR_LOING, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHALETTE_SUR_LOING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHALETTE SUR LOING';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHALETTE SUR LOING';
+* [ (CHALETTE_SUR_LOING, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHALETTE_SUR_LOING/)
 </script>
+<script type="text/javascript">

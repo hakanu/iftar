@@ -8,10 +8,11 @@ permalink: /VIETNAM/HO CHI MINH CITY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HO_CHI_MINH_CITY, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HO_CHI_MINH_CITY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'HO CHI MINH CITY';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'HO CHI MINH CITY';
+* [ (HO_CHI_MINH_CITY, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HO_CHI_MINH_CITY/)
 </script>
+<script type="text/javascript">

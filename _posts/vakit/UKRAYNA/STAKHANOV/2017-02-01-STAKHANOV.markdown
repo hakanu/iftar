@@ -8,10 +8,11 @@ permalink: /UKRAYNA/STAKHANOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STAKHANOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/STAKHANOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'STAKHANOV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'STAKHANOV';
+* [ (STAKHANOV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/STAKHANOV/)
 </script>
+<script type="text/javascript">

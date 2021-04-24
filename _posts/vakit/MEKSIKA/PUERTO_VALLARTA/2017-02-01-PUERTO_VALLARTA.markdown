@@ -8,10 +8,11 @@ permalink: /MEKSIKA/PUERTO VALLARTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_VALLARTA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PUERTO_VALLARTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'PUERTO VALLARTA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'PUERTO VALLARTA';
+* [ (PUERTO_VALLARTA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/PUERTO_VALLARTA/)
 </script>
+<script type="text/javascript">

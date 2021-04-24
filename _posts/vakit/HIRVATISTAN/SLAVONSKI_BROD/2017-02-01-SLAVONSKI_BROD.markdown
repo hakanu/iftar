@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/SLAVONSKI BROD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SLAVONSKI_BROD, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SLAVONSKI_BROD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'SLAVONSKI BROD';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'SLAVONSKI BROD';
+* [ (SLAVONSKI_BROD, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SLAVONSKI_BROD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FILIPINLER/PAGADIAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAGADIAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/PAGADIAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'PAGADIAN';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'PAGADIAN';
+* [ (PAGADIAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/PAGADIAN/)
 </script>
+<script type="text/javascript">

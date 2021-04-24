@@ -8,10 +8,11 @@ permalink: /ALMANYA/VECHTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VECHTA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VECHTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VECHTA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VECHTA';
+* [ (VECHTA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VECHTA/)
 </script>
+<script type="text/javascript">

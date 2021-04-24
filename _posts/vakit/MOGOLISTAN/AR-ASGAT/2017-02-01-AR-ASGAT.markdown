@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/AR-ASGAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AR-ASGAT, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/AR-ASGAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'AR-ASGAT';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'AR-ASGAT';
+* [ (AR-ASGAT, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/AR-ASGAT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NIJERYA/MAKURDI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAKURDI, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/MAKURDI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'MAKURDI';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'MAKURDI';
+* [ (MAKURDI, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/MAKURDI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISPANYA/VITORIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VITORIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VITORIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'VITORIA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'VITORIA';
+* [ (VITORIA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/VITORIA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BELCIKA/KRUIBEKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRUIBEKE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/KRUIBEKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'KRUIBEKE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'KRUIBEKE';
+* [ (KRUIBEKE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/KRUIBEKE/)
 </script>
+<script type="text/javascript">

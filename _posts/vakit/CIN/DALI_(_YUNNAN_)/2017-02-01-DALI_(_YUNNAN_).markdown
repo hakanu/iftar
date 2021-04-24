@@ -8,10 +8,11 @@ permalink: /CIN/DALI ( YUNNAN )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DALI_(_YUNNAN_), CIN) için iftar ve namaz vakitleri](/CIN/DALI_(_YUNNAN_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DALI ( YUNNAN )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DALI ( YUNNAN )';
+* [ (DALI_(_YUNNAN_), CIN) için iftar ve namaz vakitleri](/CIN/DALI_(_YUNNAN_)/)
 </script>
+<script type="text/javascript">

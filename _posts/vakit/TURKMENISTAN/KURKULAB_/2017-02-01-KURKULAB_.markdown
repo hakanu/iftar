@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/KURKULAB
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURKULAB_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KURKULAB_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'KURKULAB ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'KURKULAB ';
+* [ (KURKULAB_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KURKULAB_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/PETROPAVLOVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETROPAVLOVSK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/PETROPAVLOVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'PETROPAVLOVSK';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'PETROPAVLOVSK';
+* [ (PETROPAVLOVSK, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/PETROPAVLOVSK/)
 </script>
+<script type="text/javascript">

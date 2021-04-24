@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BELCONNEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELCONNEN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BELCONNEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BELCONNEN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BELCONNEN';
+* [ (BELCONNEN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BELCONNEN/)
 </script>
+<script type="text/javascript">

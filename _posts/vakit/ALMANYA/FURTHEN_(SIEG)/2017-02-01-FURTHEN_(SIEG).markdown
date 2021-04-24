@@ -8,10 +8,11 @@ permalink: /ALMANYA/FURTHEN (SIEG)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FURTHEN_(SIEG), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURTHEN_(SIEG)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FURTHEN (SIEG)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FURTHEN (SIEG)';
+* [ (FURTHEN_(SIEG), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FURTHEN_(SIEG)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/HARSEWINKEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARSEWINKEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HARSEWINKEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HARSEWINKEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HARSEWINKEL';
+* [ (HARSEWINKEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HARSEWINKEL/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/LADENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LADENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LADENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LADENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LADENBURG';
+* [ (LADENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LADENBURG/)
 </script>
+<script type="text/javascript">

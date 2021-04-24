@@ -8,10 +8,11 @@ permalink: /ALMANYA/HUNTEBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUNTEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUNTEBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HUNTEBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HUNTEBURG';
+* [ (HUNTEBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUNTEBURG/)
 </script>
+<script type="text/javascript">

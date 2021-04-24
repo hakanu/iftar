@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/MARGHILON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARGHILON, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/MARGHILON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'MARGHILON';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'MARGHILON';
+* [ (MARGHILON, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/MARGHILON/)
 </script>
+<script type="text/javascript">

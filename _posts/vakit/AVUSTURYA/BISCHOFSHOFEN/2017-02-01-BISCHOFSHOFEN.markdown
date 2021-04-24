@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BISCHOFSHOFEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BISCHOFSHOFEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BISCHOFSHOFEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BISCHOFSHOFEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BISCHOFSHOFEN';
+* [ (BISCHOFSHOFEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BISCHOFSHOFEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/WASSENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WASSENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WASSENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WASSENBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WASSENBERG';
+* [ (WASSENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WASSENBERG/)
 </script>
+<script type="text/javascript">

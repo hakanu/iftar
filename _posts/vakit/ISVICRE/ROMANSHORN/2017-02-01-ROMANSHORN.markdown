@@ -8,10 +8,11 @@ permalink: /ISVICRE/ROMANSHORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROMANSHORN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ROMANSHORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'ROMANSHORN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'ROMANSHORN';
+* [ (ROMANSHORN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/ROMANSHORN/)
 </script>
+<script type="text/javascript">

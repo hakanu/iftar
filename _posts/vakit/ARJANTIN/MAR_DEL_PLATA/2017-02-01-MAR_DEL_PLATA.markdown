@@ -8,10 +8,11 @@ permalink: /ARJANTIN/MAR DEL PLATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAR_DEL_PLATA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MAR_DEL_PLATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'MAR DEL PLATA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'MAR DEL PLATA';
+* [ (MAR_DEL_PLATA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MAR_DEL_PLATA/)
 </script>
+<script type="text/javascript">

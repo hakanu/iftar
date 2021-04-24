@@ -8,10 +8,11 @@ permalink: /CIN/QAMDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QAMDO, CIN) için iftar ve namaz vakitleri](/CIN/QAMDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QAMDO';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QAMDO';
+* [ (QAMDO, CIN) için iftar ve namaz vakitleri](/CIN/QAMDO/)
 </script>
+<script type="text/javascript">

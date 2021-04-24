@@ -8,10 +8,11 @@ permalink: /ISVEC/SUNDBYBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUNDBYBERG, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SUNDBYBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'SUNDBYBERG';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'SUNDBYBERG';
+* [ (SUNDBYBERG, ISVEC) için iftar ve namaz vakitleri](/ISVEC/SUNDBYBERG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /VIETNAM/HAIPHONG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAIPHONG, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HAIPHONG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VIETNAM';
+
   var GLOBAL_CITY = 'HAIPHONG';
+  var GLOBAL_COUNTRY = 'VIETNAM';
   var GLOBAL_STATE = 'HAIPHONG';
+* [ (HAIPHONG, VIETNAM) için iftar ve namaz vakitleri](/VIETNAM/HAIPHONG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/UNIAO DA VITORIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UNIAO_DA_VITORIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/UNIAO_DA_VITORIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'UNIAO DA VITORIA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'UNIAO DA VITORIA';
+* [ (UNIAO_DA_VITORIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/UNIAO_DA_VITORIA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/FRIBOURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRIBOURG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FRIBOURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'FRIBOURG';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'FRIBOURG';
+* [ (FRIBOURG, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FRIBOURG/)
 </script>
+<script type="text/javascript">

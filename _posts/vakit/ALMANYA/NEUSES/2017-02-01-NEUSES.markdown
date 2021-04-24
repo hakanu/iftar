@@ -8,10 +8,11 @@ permalink: /ALMANYA/NEUSES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEUSES, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUSES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NEUSES';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NEUSES';
+* [ (NEUSES, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NEUSES/)
 </script>
+<script type="text/javascript">

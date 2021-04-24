@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/SIEM REAB
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIEM_REAB, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/SIEM_REAB/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'SIEM REAB';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'SIEM REAB';
+* [ (SIEM_REAB, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/SIEM_REAB/)
 </script>
+<script type="text/javascript">

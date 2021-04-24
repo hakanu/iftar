@@ -8,10 +8,11 @@ permalink: /ALMANYA/KEMPTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KEMPTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KEMPTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KEMPTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KEMPTEN';
+* [ (KEMPTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KEMPTEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/KACMAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KACMAZ, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KACMAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'KACMAZ';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'KACMAZ';
+* [ (KACMAZ, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KACMAZ/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ENGELAND (Gelderland)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ENGELAND_(Gelderland), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ENGELAND_(Gelderland)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ENGELAND (Gelderland)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ENGELAND (Gelderland)';
+* [ (ENGELAND_(Gelderland), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ENGELAND_(Gelderland)/)
 </script>
+<script type="text/javascript">

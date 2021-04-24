@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/MODRIACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MODRIACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MODRIACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'MODRIACH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'MODRIACH';
+* [ (MODRIACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/MODRIACH/)
 </script>
+<script type="text/javascript">

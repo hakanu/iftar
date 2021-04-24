@@ -8,10 +8,11 @@ permalink: /ALMANYA/VILLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VILLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VILLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VILLINGEN';
+* [ (VILLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VILLINGEN/)
 </script>
+<script type="text/javascript">

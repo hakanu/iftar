@@ -8,10 +8,11 @@ permalink: /FRANSA/LOUVIERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOUVIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LOUVIERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LOUVIERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LOUVIERS';
+* [ (LOUVIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LOUVIERS/)
 </script>
+<script type="text/javascript">

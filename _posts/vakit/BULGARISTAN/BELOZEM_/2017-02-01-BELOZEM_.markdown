@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/BELOZEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELOZEM_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BELOZEM_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'BELOZEM ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'BELOZEM ';
+* [ (BELOZEM_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BELOZEM_/)
 </script>
+<script type="text/javascript">

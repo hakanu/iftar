@@ -8,10 +8,11 @@ permalink: /ISVEC/KINNA (VG)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINNA_(VG), ISVEC) için iftar ve namaz vakitleri](/ISVEC/KINNA_(VG)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'KINNA (VG)';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'KINNA (VG)';
+* [ (KINNA_(VG), ISVEC) için iftar ve namaz vakitleri](/ISVEC/KINNA_(VG)/)
 </script>
+<script type="text/javascript">

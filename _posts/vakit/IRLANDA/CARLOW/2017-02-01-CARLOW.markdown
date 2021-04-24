@@ -8,10 +8,11 @@ permalink: /IRLANDA/CARLOW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARLOW, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/CARLOW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRLANDA';
+
   var GLOBAL_CITY = 'CARLOW';
+  var GLOBAL_COUNTRY = 'IRLANDA';
   var GLOBAL_STATE = 'CARLOW';
+* [ (CARLOW, IRLANDA) için iftar ve namaz vakitleri](/IRLANDA/CARLOW/)
 </script>
+<script type="text/javascript">

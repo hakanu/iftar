@@ -8,10 +8,11 @@ permalink: /ALMANYA/LUBBEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUBBEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUBBEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LUBBEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LUBBEN';
+* [ (LUBBEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LUBBEN/)
 </script>
+<script type="text/javascript">

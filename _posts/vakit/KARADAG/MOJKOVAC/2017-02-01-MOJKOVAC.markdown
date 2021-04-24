@@ -8,10 +8,11 @@ permalink: /KARADAG/MOJKOVAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOJKOVAC, KARADAG) için iftar ve namaz vakitleri](/KARADAG/MOJKOVAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'MOJKOVAC';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'MOJKOVAC';
+* [ (MOJKOVAC, KARADAG) için iftar ve namaz vakitleri](/KARADAG/MOJKOVAC/)
 </script>
+<script type="text/javascript">

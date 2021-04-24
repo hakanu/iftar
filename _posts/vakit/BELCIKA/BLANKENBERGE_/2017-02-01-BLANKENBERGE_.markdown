@@ -8,10 +8,11 @@ permalink: /BELCIKA/BLANKENBERGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BLANKENBERGE_, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BLANKENBERGE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BLANKENBERGE ';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BLANKENBERGE ';
+* [ (BLANKENBERGE_, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BLANKENBERGE_/)
 </script>
+<script type="text/javascript">

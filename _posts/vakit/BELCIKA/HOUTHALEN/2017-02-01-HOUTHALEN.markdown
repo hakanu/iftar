@@ -8,10 +8,11 @@ permalink: /BELCIKA/HOUTHALEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOUTHALEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HOUTHALEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'HOUTHALEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'HOUTHALEN';
+* [ (HOUTHALEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/HOUTHALEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/PORDENONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORDENONE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PORDENONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'PORDENONE';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'PORDENONE';
+* [ (PORDENONE, ITALYA) için iftar ve namaz vakitleri](/ITALYA/PORDENONE/)
 </script>
+<script type="text/javascript">

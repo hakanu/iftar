@@ -8,10 +8,11 @@ permalink: /ALMANYA/PADERBORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PADERBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PADERBORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PADERBORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PADERBORN';
+* [ (PADERBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PADERBORN/)
 </script>
+<script type="text/javascript">

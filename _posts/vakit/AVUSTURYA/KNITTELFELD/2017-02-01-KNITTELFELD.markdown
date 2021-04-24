@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/KNITTELFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KNITTELFELD, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KNITTELFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'KNITTELFELD';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'KNITTELFELD';
+* [ (KNITTELFELD, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/KNITTELFELD/)
 </script>
+<script type="text/javascript">

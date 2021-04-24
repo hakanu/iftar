@@ -8,10 +8,11 @@ permalink: /ALMANYA/STEMWEDE-OPPENWEHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STEMWEDE-OPPENWEHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEMWEDE-OPPENWEHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STEMWEDE-OPPENWEHE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STEMWEDE-OPPENWEHE';
+* [ (STEMWEDE-OPPENWEHE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STEMWEDE-OPPENWEHE/)
 </script>
+<script type="text/javascript">

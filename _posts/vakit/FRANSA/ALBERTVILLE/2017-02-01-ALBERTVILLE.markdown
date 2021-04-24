@@ -8,10 +8,11 @@ permalink: /FRANSA/ALBERTVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALBERTVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALBERTVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ALBERTVILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ALBERTVILLE';
+* [ (ALBERTVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALBERTVILLE/)
 </script>
+<script type="text/javascript">

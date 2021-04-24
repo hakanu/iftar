@@ -8,10 +8,11 @@ permalink: /SINGAPUR/SINGAPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINGAPUR, SINGAPUR) için iftar ve namaz vakitleri](/SINGAPUR/SINGAPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SINGAPUR';
+
   var GLOBAL_CITY = 'SINGAPUR';
+  var GLOBAL_COUNTRY = 'SINGAPUR';
   var GLOBAL_STATE = 'SINGAPUR';
+* [ (SINGAPUR, SINGAPUR) için iftar ve namaz vakitleri](/SINGAPUR/SINGAPUR/)
 </script>
+<script type="text/javascript">

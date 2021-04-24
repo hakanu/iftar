@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/GURLAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GURLAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GURLAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'GURLAN';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'GURLAN';
+* [ (GURLAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GURLAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/CURITIBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CURITIBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CURITIBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CURITIBA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CURITIBA';
+* [ (CURITIBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CURITIBA/)
 </script>
+<script type="text/javascript">

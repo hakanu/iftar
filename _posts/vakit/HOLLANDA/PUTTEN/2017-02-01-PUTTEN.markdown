@@ -8,10 +8,11 @@ permalink: /HOLLANDA/PUTTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUTTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/PUTTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'PUTTEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'PUTTEN';
+* [ (PUTTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/PUTTEN/)
 </script>
+<script type="text/javascript">

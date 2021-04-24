@@ -8,10 +8,11 @@ permalink: /MISIR/ISMAILIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISMAILIA, MISIR) için iftar ve namaz vakitleri](/MISIR/ISMAILIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'ISMAILIA';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'ISMAILIA';
+* [ (ISMAILIA, MISIR) için iftar ve namaz vakitleri](/MISIR/ISMAILIA/)
 </script>
+<script type="text/javascript">

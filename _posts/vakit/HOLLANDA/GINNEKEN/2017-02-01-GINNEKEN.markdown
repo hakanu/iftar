@@ -8,10 +8,11 @@ permalink: /HOLLANDA/GINNEKEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GINNEKEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GINNEKEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'GINNEKEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'GINNEKEN';
+* [ (GINNEKEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/GINNEKEN/)
 </script>
+<script type="text/javascript">

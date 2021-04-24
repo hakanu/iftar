@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/LAITILA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAITILA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LAITILA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'LAITILA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'LAITILA';
+* [ (LAITILA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LAITILA/)
 </script>
+<script type="text/javascript">

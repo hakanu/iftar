@@ -8,10 +8,11 @@ permalink: /ISVICRE/LINTHAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINTHAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LINTHAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LINTHAL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LINTHAL';
+* [ (LINTHAL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LINTHAL/)
 </script>
+<script type="text/javascript">

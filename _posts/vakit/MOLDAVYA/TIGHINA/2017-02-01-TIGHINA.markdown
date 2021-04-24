@@ -8,10 +8,11 @@ permalink: /MOLDAVYA/TIGHINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIGHINA, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIGHINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOLDAVYA';
+
   var GLOBAL_CITY = 'TIGHINA';
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
   var GLOBAL_STATE = 'TIGHINA';
+* [ (TIGHINA, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIGHINA/)
 </script>
+<script type="text/javascript">

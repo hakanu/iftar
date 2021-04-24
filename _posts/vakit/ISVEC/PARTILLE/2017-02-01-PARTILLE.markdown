@@ -8,10 +8,11 @@ permalink: /ISVEC/PARTILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARTILLE, ISVEC) için iftar ve namaz vakitleri](/ISVEC/PARTILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'PARTILLE';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'PARTILLE';
+* [ (PARTILLE, ISVEC) için iftar ve namaz vakitleri](/ISVEC/PARTILLE/)
 </script>
+<script type="text/javascript">

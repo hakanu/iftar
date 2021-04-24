@@ -8,10 +8,11 @@ permalink: /FRANSA/PONT-L ABBE (F)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONT-L_ABBE_(F), FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT-L_ABBE_(F)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PONT-L ABBE (F)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PONT-L ABBE (F)';
+* [ (PONT-L_ABBE_(F), FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT-L_ABBE_(F)/)
 </script>
+<script type="text/javascript">

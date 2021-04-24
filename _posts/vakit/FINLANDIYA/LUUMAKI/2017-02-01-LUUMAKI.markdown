@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/LUUMAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUUMAKI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LUUMAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'LUUMAKI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'LUUMAKI';
+* [ (LUUMAKI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/LUUMAKI/)
 </script>
+<script type="text/javascript">

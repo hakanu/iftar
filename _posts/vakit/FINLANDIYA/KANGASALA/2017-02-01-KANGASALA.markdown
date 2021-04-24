@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/KANGASALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANGASALA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KANGASALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'KANGASALA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'KANGASALA';
+* [ (KANGASALA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/KANGASALA/)
 </script>
+<script type="text/javascript">

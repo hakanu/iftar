@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/ANGREN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANGREN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/ANGREN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'ANGREN';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'ANGREN';
+* [ (ANGREN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/ANGREN/)
 </script>
+<script type="text/javascript">

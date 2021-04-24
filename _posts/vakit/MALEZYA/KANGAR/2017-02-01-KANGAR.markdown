@@ -8,10 +8,11 @@ permalink: /MALEZYA/KANGAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANGAR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KANGAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KANGAR';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KANGAR';
+* [ (KANGAR, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KANGAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOE';
+* [ (MOE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOE/)
 </script>
+<script type="text/javascript">

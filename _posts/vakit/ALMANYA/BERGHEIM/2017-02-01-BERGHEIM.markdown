@@ -8,10 +8,11 @@ permalink: /ALMANYA/BERGHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERGHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERGHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BERGHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BERGHEIM';
+* [ (BERGHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERGHEIM/)
 </script>
+<script type="text/javascript">

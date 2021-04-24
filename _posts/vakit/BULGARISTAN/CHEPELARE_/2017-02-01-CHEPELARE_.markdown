@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/CHEPELARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHEPELARE_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/CHEPELARE_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'CHEPELARE ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'CHEPELARE ';
+* [ (CHEPELARE_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/CHEPELARE_/)
 </script>
+<script type="text/javascript">

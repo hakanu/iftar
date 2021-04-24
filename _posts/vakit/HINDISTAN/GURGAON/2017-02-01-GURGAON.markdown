@@ -8,10 +8,11 @@ permalink: /HINDISTAN/GURGAON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GURGAON, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GURGAON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'GURGAON';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'GURGAON';
+* [ (GURGAON, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GURGAON/)
 </script>
+<script type="text/javascript">

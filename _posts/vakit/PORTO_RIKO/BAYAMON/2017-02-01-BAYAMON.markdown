@@ -8,10 +8,11 @@ permalink: /PORTO RIKO/BAYAMON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYAMON, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/BAYAMON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTO RIKO';
+
   var GLOBAL_CITY = 'BAYAMON';
+  var GLOBAL_COUNTRY = 'PORTO RIKO';
   var GLOBAL_STATE = 'BAYAMON';
+* [ (BAYAMON, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/BAYAMON/)
 </script>
+<script type="text/javascript">

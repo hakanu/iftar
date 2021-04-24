@@ -8,10 +8,11 @@ permalink: /MACARISTAN/GODOLLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GODOLLO, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/GODOLLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'GODOLLO';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'GODOLLO';
+* [ (GODOLLO, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/GODOLLO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/NOVOROSSIYSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVOROSSIYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOROSSIYSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NOVOROSSIYSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NOVOROSSIYSK';
+* [ (NOVOROSSIYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NOVOROSSIYSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/HOCHDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOCHDORF, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HOCHDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'HOCHDORF';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'HOCHDORF';
+* [ (HOCHDORF, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HOCHDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/BOURGES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOURGES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURGES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BOURGES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BOURGES';
+* [ (BOURGES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURGES/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/MIKHAYLOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIKHAYLOVKA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/MIKHAYLOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'MIKHAYLOVKA';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'MIKHAYLOVKA';
+* [ (MIKHAYLOVKA, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/MIKHAYLOVKA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/PESHKOPI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PESHKOPI, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/PESHKOPI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'PESHKOPI';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'PESHKOPI';
+* [ (PESHKOPI, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/PESHKOPI/)
 </script>
+<script type="text/javascript">

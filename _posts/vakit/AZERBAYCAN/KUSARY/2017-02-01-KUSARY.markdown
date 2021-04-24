@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/KUSARY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUSARY, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KUSARY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'KUSARY';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'KUSARY';
+* [ (KUSARY, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KUSARY/)
 </script>
+<script type="text/javascript">

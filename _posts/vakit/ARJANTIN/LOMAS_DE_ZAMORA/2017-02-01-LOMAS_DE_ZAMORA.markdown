@@ -8,10 +8,11 @@ permalink: /ARJANTIN/LOMAS DE ZAMORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOMAS_DE_ZAMORA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/LOMAS_DE_ZAMORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'LOMAS DE ZAMORA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'LOMAS DE ZAMORA';
+* [ (LOMAS_DE_ZAMORA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/LOMAS_DE_ZAMORA/)
 </script>
+<script type="text/javascript">

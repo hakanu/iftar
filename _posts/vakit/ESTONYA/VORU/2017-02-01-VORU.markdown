@@ -8,10 +8,11 @@ permalink: /ESTONYA/VORU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VORU, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VORU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'VORU';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'VORU';
+* [ (VORU, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/VORU/)
 </script>
+<script type="text/javascript">

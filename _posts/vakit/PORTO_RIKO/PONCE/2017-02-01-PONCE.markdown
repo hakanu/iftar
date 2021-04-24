@@ -8,10 +8,11 @@ permalink: /PORTO RIKO/PONCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONCE, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/PONCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTO RIKO';
+
   var GLOBAL_CITY = 'PONCE';
+  var GLOBAL_COUNTRY = 'PORTO RIKO';
   var GLOBAL_STATE = 'PONCE';
+* [ (PONCE, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/PONCE/)
 </script>
+<script type="text/javascript">

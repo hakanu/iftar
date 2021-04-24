@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/KRACHEH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRACHEH, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KRACHEH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'KRACHEH';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'KRACHEH';
+* [ (KRACHEH, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KRACHEH/)
 </script>
+<script type="text/javascript">

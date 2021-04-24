@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/WASSENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WASSENBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WASSENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'WASSENBACH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'WASSENBACH';
+* [ (WASSENBACH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WASSENBACH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/AMBERT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMBERT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AMBERT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AMBERT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AMBERT';
+* [ (AMBERT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AMBERT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ETYOPYA/GONDER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GONDER, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/GONDER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ETYOPYA';
+
   var GLOBAL_CITY = 'GONDER';
+  var GLOBAL_COUNTRY = 'ETYOPYA';
   var GLOBAL_STATE = 'GONDER';
+* [ (GONDER, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/GONDER/)
 </script>
+<script type="text/javascript">

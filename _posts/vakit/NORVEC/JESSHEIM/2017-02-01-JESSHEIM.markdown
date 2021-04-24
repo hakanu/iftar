@@ -8,10 +8,11 @@ permalink: /NORVEC/JESSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JESSHEIM, NORVEC) için iftar ve namaz vakitleri](/NORVEC/JESSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'JESSHEIM';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'JESSHEIM';
+* [ (JESSHEIM, NORVEC) için iftar ve namaz vakitleri](/NORVEC/JESSHEIM/)
 </script>
+<script type="text/javascript">

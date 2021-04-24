@@ -8,10 +8,11 @@ permalink: /RUSYA/NIZHNIY TAGIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIZHNIY_TAGIL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NIZHNIY_TAGIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'NIZHNIY TAGIL';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'NIZHNIY TAGIL';
+* [ (NIZHNIY_TAGIL, RUSYA) için iftar ve namaz vakitleri](/RUSYA/NIZHNIY_TAGIL/)
 </script>
+<script type="text/javascript">

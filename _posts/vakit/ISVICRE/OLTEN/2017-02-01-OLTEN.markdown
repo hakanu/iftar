@@ -8,10 +8,11 @@ permalink: /ISVICRE/OLTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLTEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/OLTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'OLTEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'OLTEN';
+* [ (OLTEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/OLTEN/)
 </script>
+<script type="text/javascript">

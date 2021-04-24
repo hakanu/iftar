@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/PAJU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/PAJU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'PAJU';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'PAJU';
+* [ (PAJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/PAJU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/JIANGYIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JIANGYIN, CIN) için iftar ve namaz vakitleri](/CIN/JIANGYIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'JIANGYIN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'JIANGYIN';
+* [ (JIANGYIN, CIN) için iftar ve namaz vakitleri](/CIN/JIANGYIN/)
 </script>
+<script type="text/javascript">

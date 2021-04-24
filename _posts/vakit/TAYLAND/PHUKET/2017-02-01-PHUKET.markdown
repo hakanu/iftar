@@ -8,10 +8,11 @@ permalink: /TAYLAND/PHUKET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PHUKET, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/PHUKET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYLAND';
+
   var GLOBAL_CITY = 'PHUKET';
+  var GLOBAL_COUNTRY = 'TAYLAND';
   var GLOBAL_STATE = 'PHUKET';
+* [ (PHUKET, TAYLAND) için iftar ve namaz vakitleri](/TAYLAND/PHUKET/)
 </script>
+<script type="text/javascript">

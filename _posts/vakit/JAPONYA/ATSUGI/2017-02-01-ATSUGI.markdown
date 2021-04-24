@@ -8,10 +8,11 @@ permalink: /JAPONYA/ATSUGI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATSUGI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ATSUGI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ATSUGI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ATSUGI';
+* [ (ATSUGI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ATSUGI/)
 </script>
+<script type="text/javascript">

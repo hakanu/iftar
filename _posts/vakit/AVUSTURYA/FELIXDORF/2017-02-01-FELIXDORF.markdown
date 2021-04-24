@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/FELIXDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FELIXDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FELIXDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'FELIXDORF';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'FELIXDORF';
+* [ (FELIXDORF, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FELIXDORF/)
 </script>
+<script type="text/javascript">

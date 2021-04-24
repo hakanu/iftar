@@ -8,10 +8,11 @@ permalink: /ALMANYA/REINHEIM (H)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REINHEIM_(H), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REINHEIM_(H)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'REINHEIM (H)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'REINHEIM (H)';
+* [ (REINHEIM_(H), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REINHEIM_(H)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NIJERYA/KANO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/KANO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'KANO';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'KANO';
+* [ (KANO, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/KANO/)
 </script>
+<script type="text/javascript">

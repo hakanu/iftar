@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/TRAVNIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRAVNIK, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/TRAVNIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'TRAVNIK';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'TRAVNIK';
+* [ (TRAVNIK, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/TRAVNIK/)
 </script>
+<script type="text/javascript">

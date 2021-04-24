@@ -8,10 +8,11 @@ permalink: /BELCIKA/TURNHOUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TURNHOUT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TURNHOUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'TURNHOUT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'TURNHOUT';
+* [ (TURNHOUT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/TURNHOUT/)
 </script>
+<script type="text/javascript">

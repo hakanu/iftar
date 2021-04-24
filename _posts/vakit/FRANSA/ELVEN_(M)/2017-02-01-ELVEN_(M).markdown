@@ -8,10 +8,11 @@ permalink: /FRANSA/ELVEN (M)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELVEN_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ELVEN_(M)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ELVEN (M)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ELVEN (M)';
+* [ (ELVEN_(M), FRANSA) için iftar ve namaz vakitleri](/FRANSA/ELVEN_(M)/)
 </script>
+<script type="text/javascript">

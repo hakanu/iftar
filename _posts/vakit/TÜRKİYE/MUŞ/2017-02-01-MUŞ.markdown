@@ -8,15 +8,16 @@ permalink: /TÜRKİYE/MUŞ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [MALAZGİRT (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/MALAZGİRT)
+
+
+  var GLOBAL_CITY = 'MUŞ';
+  var GLOBAL_COUNTRY = 'TÜRKİYE';
+  var GLOBAL_STATE = 'MUŞ';
 * [BULANIK (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/BULANIK)
+* [HASKÖY (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/HASKÖY)
 * [KORKUT (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/KORKUT)
+* [MALAZGİRT (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/MALAZGİRT)
 * [MUŞ (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/MUŞ)
 * [VARTO (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/VARTO)
-* [HASKÖY (MUŞ, TÜRKİYE) için iftar ve namaz vakitleri](/TÜRKİYE/MUŞ/HASKÖY)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TÜRKİYE';
-  var GLOBAL_CITY = 'MUŞ';
-  var GLOBAL_STATE = 'MUŞ';
 </script>
+<script type="text/javascript">

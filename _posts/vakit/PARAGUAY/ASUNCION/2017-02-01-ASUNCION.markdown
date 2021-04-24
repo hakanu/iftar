@@ -8,10 +8,11 @@ permalink: /PARAGUAY/ASUNCION
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASUNCION, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/ASUNCION/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PARAGUAY';
+
   var GLOBAL_CITY = 'ASUNCION';
+  var GLOBAL_COUNTRY = 'PARAGUAY';
   var GLOBAL_STATE = 'ASUNCION';
+* [ (ASUNCION, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/ASUNCION/)
 </script>
+<script type="text/javascript">

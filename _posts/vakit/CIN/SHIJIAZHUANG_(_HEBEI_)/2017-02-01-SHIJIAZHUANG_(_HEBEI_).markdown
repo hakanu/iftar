@@ -8,10 +8,11 @@ permalink: /CIN/SHIJIAZHUANG ( HEBEI )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHIJIAZHUANG_(_HEBEI_), CIN) için iftar ve namaz vakitleri](/CIN/SHIJIAZHUANG_(_HEBEI_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHIJIAZHUANG ( HEBEI )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHIJIAZHUANG ( HEBEI )';
+* [ (SHIJIAZHUANG_(_HEBEI_), CIN) için iftar ve namaz vakitleri](/CIN/SHIJIAZHUANG_(_HEBEI_)/)
 </script>
+<script type="text/javascript">

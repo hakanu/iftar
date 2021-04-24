@@ -8,10 +8,11 @@ permalink: /FRANSA/TULLINS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULLINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TULLINS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TULLINS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TULLINS';
+* [ (TULLINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TULLINS/)
 </script>
+<script type="text/javascript">

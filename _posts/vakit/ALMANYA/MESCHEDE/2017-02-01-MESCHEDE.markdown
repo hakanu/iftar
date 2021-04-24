@@ -8,10 +8,11 @@ permalink: /ALMANYA/MESCHEDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MESCHEDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MESCHEDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MESCHEDE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MESCHEDE';
+* [ (MESCHEDE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MESCHEDE/)
 </script>
+<script type="text/javascript">

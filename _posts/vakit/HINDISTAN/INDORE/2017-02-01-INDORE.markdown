@@ -8,10 +8,11 @@ permalink: /HINDISTAN/INDORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INDORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/INDORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'INDORE';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'INDORE';
+* [ (INDORE, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/INDORE/)
 </script>
+<script type="text/javascript">

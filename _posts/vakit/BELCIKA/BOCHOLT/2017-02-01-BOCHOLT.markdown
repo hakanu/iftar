@@ -8,10 +8,11 @@ permalink: /BELCIKA/BOCHOLT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOCHOLT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BOCHOLT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BOCHOLT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BOCHOLT';
+* [ (BOCHOLT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BOCHOLT/)
 </script>
+<script type="text/javascript">

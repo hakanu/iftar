@@ -8,10 +8,11 @@ permalink: /FRANSA/ORLEANS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORLEANS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ORLEANS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ORLEANS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ORLEANS';
+* [ (ORLEANS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ORLEANS/)
 </script>
+<script type="text/javascript">

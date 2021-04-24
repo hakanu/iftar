@@ -8,10 +8,11 @@ permalink: /JAPONYA/YAMAGATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAMAGATA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YAMAGATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'YAMAGATA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'YAMAGATA';
+* [ (YAMAGATA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YAMAGATA/)
 </script>
+<script type="text/javascript">

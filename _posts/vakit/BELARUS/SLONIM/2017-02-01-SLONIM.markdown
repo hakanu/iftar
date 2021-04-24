@@ -8,10 +8,11 @@ permalink: /BELARUS/SLONIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SLONIM, BELARUS) için iftar ve namaz vakitleri](/BELARUS/SLONIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'SLONIM';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'SLONIM';
+* [ (SLONIM, BELARUS) için iftar ve namaz vakitleri](/BELARUS/SLONIM/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /POLONYA/KOSZALIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOSZALIN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/KOSZALIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'KOSZALIN';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'KOSZALIN';
+* [ (KOSZALIN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/KOSZALIN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/FILIBE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FILIBE, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/FILIBE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'FILIBE';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'FILIBE';
+* [ (FILIBE, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/FILIBE/)
 </script>
+<script type="text/javascript">

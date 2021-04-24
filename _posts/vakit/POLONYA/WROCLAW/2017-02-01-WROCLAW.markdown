@@ -8,10 +8,11 @@ permalink: /POLONYA/WROCLAW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WROCLAW, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WROCLAW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'WROCLAW';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'WROCLAW';
+* [ (WROCLAW, POLONYA) için iftar ve namaz vakitleri](/POLONYA/WROCLAW/)
 </script>
+<script type="text/javascript">

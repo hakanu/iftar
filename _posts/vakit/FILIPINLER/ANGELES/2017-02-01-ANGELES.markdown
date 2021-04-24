@@ -8,10 +8,11 @@ permalink: /FILIPINLER/ANGELES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANGELES, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ANGELES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'ANGELES';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'ANGELES';
+* [ (ANGELES, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/ANGELES/)
 </script>
+<script type="text/javascript">

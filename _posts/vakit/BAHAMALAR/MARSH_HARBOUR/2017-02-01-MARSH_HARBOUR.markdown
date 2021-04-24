@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/MARSH HARBOUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARSH_HARBOUR, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/MARSH_HARBOUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'MARSH HARBOUR';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'MARSH HARBOUR';
+* [ (MARSH_HARBOUR, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/MARSH_HARBOUR/)
 </script>
+<script type="text/javascript">

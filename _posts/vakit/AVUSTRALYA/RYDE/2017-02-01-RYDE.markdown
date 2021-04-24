@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/RYDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RYDE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/RYDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'RYDE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'RYDE';
+* [ (RYDE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/RYDE/)
 </script>
+<script type="text/javascript">

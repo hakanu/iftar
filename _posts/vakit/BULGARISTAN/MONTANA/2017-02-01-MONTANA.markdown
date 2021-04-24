@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/MONTANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTANA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/MONTANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'MONTANA';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'MONTANA';
+* [ (MONTANA, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/MONTANA/)
 </script>
+<script type="text/javascript">

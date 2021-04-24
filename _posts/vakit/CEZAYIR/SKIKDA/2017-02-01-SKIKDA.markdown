@@ -8,10 +8,11 @@ permalink: /CEZAYIR/SKIKDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SKIKDA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/SKIKDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEZAYIR';
+
   var GLOBAL_CITY = 'SKIKDA';
+  var GLOBAL_COUNTRY = 'CEZAYIR';
   var GLOBAL_STATE = 'SKIKDA';
+* [ (SKIKDA, CEZAYIR) için iftar ve namaz vakitleri](/CEZAYIR/SKIKDA/)
 </script>
+<script type="text/javascript">

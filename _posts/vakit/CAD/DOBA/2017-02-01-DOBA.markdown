@@ -8,10 +8,11 @@ permalink: /CAD/DOBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOBA, CAD) için iftar ve namaz vakitleri](/CAD/DOBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CAD';
+
   var GLOBAL_CITY = 'DOBA';
+  var GLOBAL_COUNTRY = 'CAD';
   var GLOBAL_STATE = 'DOBA';
+* [ (DOBA, CAD) için iftar ve namaz vakitleri](/CAD/DOBA/)
 </script>
+<script type="text/javascript">

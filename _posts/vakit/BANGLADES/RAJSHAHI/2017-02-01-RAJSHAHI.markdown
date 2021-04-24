@@ -8,10 +8,11 @@ permalink: /BANGLADES/RAJSHAHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAJSHAHI, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/RAJSHAHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BANGLADES';
+
   var GLOBAL_CITY = 'RAJSHAHI';
+  var GLOBAL_COUNTRY = 'BANGLADES';
   var GLOBAL_STATE = 'RAJSHAHI';
+* [ (RAJSHAHI, BANGLADES) için iftar ve namaz vakitleri](/BANGLADES/RAJSHAHI/)
 </script>
+<script type="text/javascript">

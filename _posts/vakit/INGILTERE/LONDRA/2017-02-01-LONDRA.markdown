@@ -8,10 +8,11 @@ permalink: /INGILTERE/LONDRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LONDRA, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LONDRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LONDRA';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LONDRA';
+* [ (LONDRA, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LONDRA/)
 </script>
+<script type="text/javascript">

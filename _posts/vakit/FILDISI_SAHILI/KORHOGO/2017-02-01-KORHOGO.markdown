@@ -8,10 +8,11 @@ permalink: /FILDISI SAHILI/KORHOGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORHOGO, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/KORHOGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
+
   var GLOBAL_CITY = 'KORHOGO';
+  var GLOBAL_COUNTRY = 'FILDISI SAHILI';
   var GLOBAL_STATE = 'KORHOGO';
+* [ (KORHOGO, FILDISI_SAHILI) için iftar ve namaz vakitleri](/FILDISI_SAHILI/KORHOGO/)
 </script>
+<script type="text/javascript">

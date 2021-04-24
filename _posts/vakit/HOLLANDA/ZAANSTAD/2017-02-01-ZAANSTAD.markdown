@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZAANSTAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZAANSTAD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZAANSTAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZAANSTAD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZAANSTAD';
+* [ (ZAANSTAD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZAANSTAD/)
 </script>
+<script type="text/javascript">

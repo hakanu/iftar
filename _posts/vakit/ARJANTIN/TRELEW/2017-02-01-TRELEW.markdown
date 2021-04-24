@@ -8,10 +8,11 @@ permalink: /ARJANTIN/TRELEW
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRELEW, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/TRELEW/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'TRELEW';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'TRELEW';
+* [ (TRELEW, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/TRELEW/)
 </script>
+<script type="text/javascript">

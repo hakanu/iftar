@@ -8,10 +8,11 @@ permalink: /INGILTERE/STAFFORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STAFFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STAFFORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'STAFFORD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'STAFFORD';
+* [ (STAFFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/STAFFORD/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/AY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AY';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AY';
+* [ (AY, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AY/)
 </script>
+<script type="text/javascript">

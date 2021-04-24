@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ROERMOND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROERMOND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROERMOND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ROERMOND';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ROERMOND';
+* [ (ROERMOND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROERMOND/)
 </script>
+<script type="text/javascript">

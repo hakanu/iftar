@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERZBERG AM HARZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERZBERG_AM_HARZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERZBERG_AM_HARZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERZBERG AM HARZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERZBERG AM HARZ';
+* [ (HERZBERG_AM_HARZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERZBERG_AM_HARZ/)
 </script>
+<script type="text/javascript">

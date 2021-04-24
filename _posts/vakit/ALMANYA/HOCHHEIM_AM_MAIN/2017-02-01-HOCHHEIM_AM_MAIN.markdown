@@ -8,10 +8,11 @@ permalink: /ALMANYA/HOCHHEIM AM MAIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOCHHEIM_AM_MAIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOCHHEIM_AM_MAIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HOCHHEIM AM MAIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HOCHHEIM AM MAIN';
+* [ (HOCHHEIM_AM_MAIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HOCHHEIM_AM_MAIN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/SADDERUP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SADDERUP, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SADDERUP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'SADDERUP';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'SADDERUP';
+* [ (SADDERUP, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/SADDERUP/)
 </script>
+<script type="text/javascript">

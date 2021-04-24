@@ -8,10 +8,11 @@ permalink: /UKRAYNA/OLEKSANDRIYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLEKSANDRIYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/OLEKSANDRIYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'OLEKSANDRIYA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'OLEKSANDRIYA';
+* [ (OLEKSANDRIYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/OLEKSANDRIYA/)
 </script>
+<script type="text/javascript">

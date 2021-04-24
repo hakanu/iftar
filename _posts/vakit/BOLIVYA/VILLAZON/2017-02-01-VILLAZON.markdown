@@ -8,10 +8,11 @@ permalink: /BOLIVYA/VILLAZON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILLAZON, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/VILLAZON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'VILLAZON';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'VILLAZON';
+* [ (VILLAZON, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/VILLAZON/)
 </script>
+<script type="text/javascript">

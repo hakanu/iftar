@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LEONDING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEONDING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEONDING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LEONDING';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LEONDING';
+* [ (LEONDING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LEONDING/)
 </script>
+<script type="text/javascript">

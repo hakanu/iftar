@@ -8,10 +8,11 @@ permalink: /MALEZYA/TAIPING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAIPING, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/TAIPING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'TAIPING';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'TAIPING';
+* [ (TAIPING, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/TAIPING/)
 </script>
+<script type="text/javascript">

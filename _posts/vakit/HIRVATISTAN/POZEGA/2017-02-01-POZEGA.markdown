@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/POZEGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POZEGA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/POZEGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'POZEGA';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'POZEGA';
+* [ (POZEGA, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/POZEGA/)
 </script>
+<script type="text/javascript">

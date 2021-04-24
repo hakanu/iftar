@@ -8,10 +8,11 @@ permalink: /ALMANYA/STRAUSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRAUSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STRAUSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STRAUSBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STRAUSBERG';
+* [ (STRAUSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STRAUSBERG/)
 </script>
+<script type="text/javascript">

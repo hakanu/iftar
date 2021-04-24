@@ -8,10 +8,11 @@ permalink: /FRANSA/AUBENAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUBENAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUBENAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AUBENAS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AUBENAS';
+* [ (AUBENAS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUBENAS/)
 </script>
+<script type="text/javascript">

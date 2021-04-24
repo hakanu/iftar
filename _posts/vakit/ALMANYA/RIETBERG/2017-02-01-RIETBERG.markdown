@@ -8,10 +8,11 @@ permalink: /ALMANYA/RIETBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIETBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RIETBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RIETBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RIETBERG';
+* [ (RIETBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RIETBERG/)
 </script>
+<script type="text/javascript">

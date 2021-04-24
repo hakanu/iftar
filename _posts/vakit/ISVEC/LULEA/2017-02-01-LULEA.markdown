@@ -8,10 +8,11 @@ permalink: /ISVEC/LULEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LULEA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LULEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LULEA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LULEA';
+* [ (LULEA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LULEA/)
 </script>
+<script type="text/javascript">

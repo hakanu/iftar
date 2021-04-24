@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/ISGI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISGI, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/ISGI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'ISGI';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'ISGI';
+* [ (ISGI, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/ISGI/)
 </script>
+<script type="text/javascript">

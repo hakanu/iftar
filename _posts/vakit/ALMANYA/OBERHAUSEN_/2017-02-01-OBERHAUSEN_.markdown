@@ -8,10 +8,11 @@ permalink: /ALMANYA/OBERHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OBERHAUSEN_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERHAUSEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OBERHAUSEN ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OBERHAUSEN ';
+* [ (OBERHAUSEN_, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OBERHAUSEN_/)
 </script>
+<script type="text/javascript">

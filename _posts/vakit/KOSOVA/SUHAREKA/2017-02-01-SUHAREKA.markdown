@@ -8,10 +8,11 @@ permalink: /KOSOVA/SUHAREKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUHAREKA, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/SUHAREKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSOVA';
+
   var GLOBAL_CITY = 'SUHAREKA';
+  var GLOBAL_COUNTRY = 'KOSOVA';
   var GLOBAL_STATE = 'SUHAREKA';
+* [ (SUHAREKA, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/SUHAREKA/)
 </script>
+<script type="text/javascript">

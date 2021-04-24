@@ -8,10 +8,11 @@ permalink: /JAPONYA/OGAKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OGAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OGAKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'OGAKI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'OGAKI';
+* [ (OGAKI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/OGAKI/)
 </script>
+<script type="text/javascript">

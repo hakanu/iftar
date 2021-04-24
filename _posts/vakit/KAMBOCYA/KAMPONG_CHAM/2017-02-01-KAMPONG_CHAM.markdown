@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/KAMPONG CHAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAMPONG_CHAM, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPONG_CHAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'KAMPONG CHAM';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'KAMPONG CHAM';
+* [ (KAMPONG_CHAM, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPONG_CHAM/)
 </script>
+<script type="text/javascript">

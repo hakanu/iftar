@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/PEMATANGSIANTAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PEMATANGSIANTAR, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PEMATANGSIANTAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'PEMATANGSIANTAR';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'PEMATANGSIANTAR';
+* [ (PEMATANGSIANTAR, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/PEMATANGSIANTAR/)
 </script>
+<script type="text/javascript">

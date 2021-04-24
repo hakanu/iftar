@@ -8,10 +8,11 @@ permalink: /FRANSA/MARTIGUES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARTIGUES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MARTIGUES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MARTIGUES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MARTIGUES';
+* [ (MARTIGUES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MARTIGUES/)
 </script>
+<script type="text/javascript">

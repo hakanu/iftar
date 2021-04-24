@@ -8,10 +8,11 @@ permalink: /PERU/HUANUCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUANUCO, PERU) için iftar ve namaz vakitleri](/PERU/HUANUCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'HUANUCO';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'HUANUCO';
+* [ (HUANUCO, PERU) için iftar ve namaz vakitleri](/PERU/HUANUCO/)
 </script>
+<script type="text/javascript">

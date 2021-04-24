@@ -8,10 +8,11 @@ permalink: /ITALYA/BARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BARI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'BARI';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'BARI';
+* [ (BARI, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BARI/)
 </script>
+<script type="text/javascript">

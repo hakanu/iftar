@@ -8,10 +8,11 @@ permalink: /INGILTERE/LONDONDERRY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LONDONDERRY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LONDONDERRY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LONDONDERRY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LONDONDERRY';
+* [ (LONDONDERRY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LONDONDERRY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KENYA/NAKURU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAKURU, KENYA) için iftar ve namaz vakitleri](/KENYA/NAKURU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KENYA';
+
   var GLOBAL_CITY = 'NAKURU';
+  var GLOBAL_COUNTRY = 'KENYA';
   var GLOBAL_STATE = 'NAKURU';
+* [ (NAKURU, KENYA) için iftar ve namaz vakitleri](/KENYA/NAKURU/)
 </script>
+<script type="text/javascript">

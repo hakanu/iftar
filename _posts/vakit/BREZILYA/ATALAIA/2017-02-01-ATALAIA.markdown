@@ -8,10 +8,11 @@ permalink: /BREZILYA/ATALAIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATALAIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ATALAIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ATALAIA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ATALAIA';
+* [ (ATALAIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ATALAIA/)
 </script>
+<script type="text/javascript">

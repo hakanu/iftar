@@ -8,10 +8,11 @@ permalink: /NIJER/NIAMEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIAMEY, NIJER) için iftar ve namaz vakitleri](/NIJER/NIAMEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJER';
+
   var GLOBAL_CITY = 'NIAMEY';
+  var GLOBAL_COUNTRY = 'NIJER';
   var GLOBAL_STATE = 'NIAMEY';
+* [ (NIAMEY, NIJER) için iftar ve namaz vakitleri](/NIJER/NIAMEY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/KORLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORLA, CIN) için iftar ve namaz vakitleri](/CIN/KORLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KORLA';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KORLA';
+* [ (KORLA, CIN) için iftar ve namaz vakitleri](/CIN/KORLA/)
 </script>
+<script type="text/javascript">

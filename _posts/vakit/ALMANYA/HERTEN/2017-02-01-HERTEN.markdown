@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERTEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERTEN';
+* [ (HERTEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERTEN/)
 </script>
+<script type="text/javascript">

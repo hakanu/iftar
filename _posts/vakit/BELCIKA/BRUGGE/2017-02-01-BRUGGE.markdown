@@ -8,10 +8,11 @@ permalink: /BELCIKA/BRUGGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUGGE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BRUGGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BRUGGE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BRUGGE';
+* [ (BRUGGE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BRUGGE/)
 </script>
+<script type="text/javascript">

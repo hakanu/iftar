@@ -8,10 +8,11 @@ permalink: /ALMANYA/ERLENBACH AM MAIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERLENBACH_AM_MAIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERLENBACH_AM_MAIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ERLENBACH AM MAIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ERLENBACH AM MAIN';
+* [ (ERLENBACH_AM_MAIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERLENBACH_AM_MAIN/)
 </script>
+<script type="text/javascript">

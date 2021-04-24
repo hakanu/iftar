@@ -8,10 +8,11 @@ permalink: /KOSOVA/JUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUR_, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/JUR_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSOVA';
+
   var GLOBAL_CITY = 'JUR ';
+  var GLOBAL_COUNTRY = 'KOSOVA';
   var GLOBAL_STATE = 'JUR ';
+* [ (JUR_, KOSOVA) için iftar ve namaz vakitleri](/KOSOVA/JUR_/)
 </script>
+<script type="text/javascript">

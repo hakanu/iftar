@@ -8,10 +8,11 @@ permalink: /ITALYA/VALENZA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VALENZA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VALENZA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VALENZA';
+* [ (VALENZA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VALENZA/)
 </script>
+<script type="text/javascript">

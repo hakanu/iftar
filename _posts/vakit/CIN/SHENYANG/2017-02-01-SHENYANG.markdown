@@ -8,10 +8,11 @@ permalink: /CIN/SHENYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHENYANG, CIN) için iftar ve namaz vakitleri](/CIN/SHENYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'SHENYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'SHENYANG';
+* [ (SHENYANG, CIN) için iftar ve namaz vakitleri](/CIN/SHENYANG/)
 </script>
+<script type="text/javascript">

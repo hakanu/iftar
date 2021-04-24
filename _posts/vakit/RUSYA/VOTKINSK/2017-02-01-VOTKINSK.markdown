@@ -8,10 +8,11 @@ permalink: /RUSYA/VOTKINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOTKINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOTKINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VOTKINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VOTKINSK';
+* [ (VOTKINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VOTKINSK/)
 </script>
+<script type="text/javascript">

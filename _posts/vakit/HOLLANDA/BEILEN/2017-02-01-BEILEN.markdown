@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BEILEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEILEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEILEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BEILEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BEILEN';
+* [ (BEILEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEILEN/)
 </script>
+<script type="text/javascript">

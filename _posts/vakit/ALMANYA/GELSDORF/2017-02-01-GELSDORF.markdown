@@ -8,10 +8,11 @@ permalink: /ALMANYA/GELSDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GELSDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELSDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GELSDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GELSDORF';
+* [ (GELSDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GELSDORF/)
 </script>
+<script type="text/javascript">

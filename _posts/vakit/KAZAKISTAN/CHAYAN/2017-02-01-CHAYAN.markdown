@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/CHAYAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHAYAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CHAYAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'CHAYAN';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'CHAYAN';
+* [ (CHAYAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/CHAYAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/KROMMONIE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KROMMONIE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KROMMONIE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'KROMMONIE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'KROMMONIE';
+* [ (KROMMONIE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/KROMMONIE/)
 </script>
+<script type="text/javascript">

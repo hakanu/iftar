@@ -8,10 +8,11 @@ permalink: /VENEZUELA/MARACAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARACAY, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MARACAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'MARACAY';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'MARACAY';
+* [ (MARACAY, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MARACAY/)
 </script>
+<script type="text/javascript">

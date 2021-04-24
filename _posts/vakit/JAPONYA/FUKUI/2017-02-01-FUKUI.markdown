@@ -8,10 +8,11 @@ permalink: /JAPONYA/FUKUI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUKUI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKUI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'FUKUI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'FUKUI';
+* [ (FUKUI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKUI/)
 </script>
+<script type="text/javascript">

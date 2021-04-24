@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/FREEPORT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREEPORT, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/FREEPORT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'FREEPORT';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'FREEPORT';
+* [ (FREEPORT, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/FREEPORT/)
 </script>
+<script type="text/javascript">

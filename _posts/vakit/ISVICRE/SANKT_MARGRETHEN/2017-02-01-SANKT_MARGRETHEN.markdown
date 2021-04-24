@@ -8,10 +8,11 @@ permalink: /ISVICRE/SANKT MARGRETHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANKT_MARGRETHEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SANKT_MARGRETHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SANKT MARGRETHEN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SANKT MARGRETHEN';
+* [ (SANKT_MARGRETHEN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SANKT_MARGRETHEN/)
 </script>
+<script type="text/javascript">

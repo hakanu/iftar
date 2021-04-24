@@ -8,10 +8,11 @@ permalink: /BREZILYA/SAO JOSE DOS PINHAIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAO_JOSE_DOS_PINHAIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE_DOS_PINHAIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SAO JOSE DOS PINHAIS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SAO JOSE DOS PINHAIS';
+* [ (SAO_JOSE_DOS_PINHAIS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SAO_JOSE_DOS_PINHAIS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/NEW PLYMOUTH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEW_PLYMOUTH, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/NEW_PLYMOUTH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'NEW PLYMOUTH';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'NEW PLYMOUTH';
+* [ (NEW_PLYMOUTH, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/NEW_PLYMOUTH/)
 </script>
+<script type="text/javascript">

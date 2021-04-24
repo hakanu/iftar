@@ -8,10 +8,11 @@ permalink: /ESTONYA/PARNU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARNU, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/PARNU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ESTONYA';
+
   var GLOBAL_CITY = 'PARNU';
+  var GLOBAL_COUNTRY = 'ESTONYA';
   var GLOBAL_STATE = 'PARNU';
+* [ (PARNU, ESTONYA) için iftar ve namaz vakitleri](/ESTONYA/PARNU/)
 </script>
+<script type="text/javascript">

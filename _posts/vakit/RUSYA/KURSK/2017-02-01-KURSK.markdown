@@ -8,10 +8,11 @@ permalink: /RUSYA/KURSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KURSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KURSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KURSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KURSK';
+* [ (KURSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KURSK/)
 </script>
+<script type="text/javascript">

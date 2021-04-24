@@ -8,10 +8,11 @@ permalink: /KOSTARIKA/LIBERIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIBERIA, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/LIBERIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOSTARIKA';
+
   var GLOBAL_CITY = 'LIBERIA';
+  var GLOBAL_COUNTRY = 'KOSTARIKA';
   var GLOBAL_STATE = 'LIBERIA';
+* [ (LIBERIA, KOSTARIKA) için iftar ve namaz vakitleri](/KOSTARIKA/LIBERIA/)
 </script>
+<script type="text/javascript">

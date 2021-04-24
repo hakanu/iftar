@@ -8,10 +8,11 @@ permalink: /GINE/KANKAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KANKAN, GINE) için iftar ve namaz vakitleri](/GINE/KANKAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GINE';
+
   var GLOBAL_CITY = 'KANKAN';
+  var GLOBAL_COUNTRY = 'GINE';
   var GLOBAL_STATE = 'KANKAN';
+* [ (KANKAN, GINE) için iftar ve namaz vakitleri](/GINE/KANKAN/)
 </script>
+<script type="text/javascript">

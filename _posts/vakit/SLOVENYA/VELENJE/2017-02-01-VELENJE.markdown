@@ -8,10 +8,11 @@ permalink: /SLOVENYA/VELENJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VELENJE, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/VELENJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'VELENJE';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'VELENJE';
+* [ (VELENJE, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/VELENJE/)
 </script>
+<script type="text/javascript">

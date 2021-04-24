@@ -8,10 +8,11 @@ permalink: /RUSYA/VLADIMIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VLADIMIR, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VLADIMIR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VLADIMIR';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VLADIMIR';
+* [ (VLADIMIR, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VLADIMIR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/CHINANDEGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHINANDEGA, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/CHINANDEGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'CHINANDEGA';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'CHINANDEGA';
+* [ (CHINANDEGA, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/CHINANDEGA/)
 </script>
+<script type="text/javascript">

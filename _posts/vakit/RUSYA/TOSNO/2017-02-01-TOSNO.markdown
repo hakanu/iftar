@@ -8,10 +8,11 @@ permalink: /RUSYA/TOSNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOSNO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TOSNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TOSNO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TOSNO';
+* [ (TOSNO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TOSNO/)
 </script>
+<script type="text/javascript">

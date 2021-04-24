@@ -8,10 +8,11 @@ permalink: /FRANSA/PONT A MOUSSON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PONT_A_MOUSSON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT_A_MOUSSON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'PONT A MOUSSON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'PONT A MOUSSON';
+* [ (PONT_A_MOUSSON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/PONT_A_MOUSSON/)
 </script>
+<script type="text/javascript">

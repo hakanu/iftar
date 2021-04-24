@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VOORBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOORBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VOORBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VOORBURG';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VOORBURG';
+* [ (VOORBURG, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VOORBURG/)
 </script>
+<script type="text/javascript">

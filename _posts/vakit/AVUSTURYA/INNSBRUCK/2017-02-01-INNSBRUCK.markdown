@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/INNSBRUCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INNSBRUCK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/INNSBRUCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'INNSBRUCK';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'INNSBRUCK';
+* [ (INNSBRUCK, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/INNSBRUCK/)
 </script>
+<script type="text/javascript">

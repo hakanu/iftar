@@ -8,10 +8,11 @@ permalink: /VENEZUELA/GUARENAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUARENAS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/GUARENAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'GUARENAS';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'GUARENAS';
+* [ (GUARENAS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/GUARENAS/)
 </script>
+<script type="text/javascript">

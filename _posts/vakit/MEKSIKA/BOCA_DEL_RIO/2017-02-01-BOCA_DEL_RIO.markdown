@@ -8,10 +8,11 @@ permalink: /MEKSIKA/BOCA DEL RIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOCA_DEL_RIO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/BOCA_DEL_RIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'BOCA DEL RIO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'BOCA DEL RIO';
+* [ (BOCA_DEL_RIO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/BOCA_DEL_RIO/)
 </script>
+<script type="text/javascript">

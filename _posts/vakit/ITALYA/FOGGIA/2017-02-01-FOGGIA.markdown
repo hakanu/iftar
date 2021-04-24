@@ -8,10 +8,11 @@ permalink: /ITALYA/FOGGIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOGGIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FOGGIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FOGGIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FOGGIA';
+* [ (FOGGIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FOGGIA/)
 </script>
+<script type="text/javascript">

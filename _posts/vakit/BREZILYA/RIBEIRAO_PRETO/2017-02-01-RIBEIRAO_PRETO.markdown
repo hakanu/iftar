@@ -8,10 +8,11 @@ permalink: /BREZILYA/RIBEIRAO PRETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIBEIRAO_PRETO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RIBEIRAO_PRETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'RIBEIRAO PRETO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'RIBEIRAO PRETO';
+* [ (RIBEIRAO_PRETO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RIBEIRAO_PRETO/)
 </script>
+<script type="text/javascript">

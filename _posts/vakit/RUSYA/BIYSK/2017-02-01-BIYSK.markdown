@@ -8,10 +8,11 @@ permalink: /RUSYA/BIYSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BIYSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BIYSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BIYSK';
+* [ (BIYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BIYSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/BRAGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRAGA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/BRAGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'BRAGA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'BRAGA';
+* [ (BRAGA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/BRAGA/)
 </script>
+<script type="text/javascript">

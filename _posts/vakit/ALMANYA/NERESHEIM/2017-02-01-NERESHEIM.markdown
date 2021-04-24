@@ -8,10 +8,11 @@ permalink: /ALMANYA/NERESHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NERESHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NERESHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NERESHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NERESHEIM';
+* [ (NERESHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NERESHEIM/)
 </script>
+<script type="text/javascript">

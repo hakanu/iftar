@@ -8,10 +8,11 @@ permalink: /ARJANTIN/BUENOS AIRES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUENOS_AIRES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/BUENOS_AIRES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'BUENOS AIRES';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'BUENOS AIRES';
+* [ (BUENOS_AIRES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/BUENOS_AIRES/)
 </script>
+<script type="text/javascript">

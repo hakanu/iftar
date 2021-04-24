@@ -8,10 +8,11 @@ permalink: /PORTO RIKO/SAN GERMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_GERMAN, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_GERMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTO RIKO';
+
   var GLOBAL_CITY = 'SAN GERMAN';
+  var GLOBAL_COUNTRY = 'PORTO RIKO';
   var GLOBAL_STATE = 'SAN GERMAN';
+* [ (SAN_GERMAN, PORTO_RIKO) için iftar ve namaz vakitleri](/PORTO_RIKO/SAN_GERMAN/)
 </script>
+<script type="text/javascript">

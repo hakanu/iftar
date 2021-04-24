@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KALAMATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALAMATA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KALAMATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KALAMATA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KALAMATA';
+* [ (KALAMATA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KALAMATA/)
 </script>
+<script type="text/javascript">

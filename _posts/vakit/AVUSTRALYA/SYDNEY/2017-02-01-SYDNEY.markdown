@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/SYDNEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SYDNEY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SYDNEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'SYDNEY';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'SYDNEY';
+* [ (SYDNEY, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SYDNEY/)
 </script>
+<script type="text/javascript">

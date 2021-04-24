@@ -8,10 +8,11 @@ permalink: /PANAMA/LAS TABLAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAS_TABLAS, PANAMA) için iftar ve namaz vakitleri](/PANAMA/LAS_TABLAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'LAS TABLAS';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'LAS TABLAS';
+* [ (LAS_TABLAS, PANAMA) için iftar ve namaz vakitleri](/PANAMA/LAS_TABLAS/)
 </script>
+<script type="text/javascript">

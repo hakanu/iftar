@@ -8,10 +8,11 @@ permalink: /ALMANYA/WESTERLAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WESTERLAND, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WESTERLAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WESTERLAND';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WESTERLAND';
+* [ (WESTERLAND, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WESTERLAND/)
 </script>
+<script type="text/javascript">

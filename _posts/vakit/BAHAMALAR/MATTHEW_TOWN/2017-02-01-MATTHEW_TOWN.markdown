@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/MATTHEW TOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATTHEW_TOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/MATTHEW_TOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'MATTHEW TOWN';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'MATTHEW TOWN';
+* [ (MATTHEW_TOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/MATTHEW_TOWN/)
 </script>
+<script type="text/javascript">

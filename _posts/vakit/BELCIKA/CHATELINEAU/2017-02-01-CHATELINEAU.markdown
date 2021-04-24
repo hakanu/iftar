@@ -8,10 +8,11 @@ permalink: /BELCIKA/CHATELINEAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHATELINEAU, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CHATELINEAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'CHATELINEAU';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'CHATELINEAU';
+* [ (CHATELINEAU, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/CHATELINEAU/)
 </script>
+<script type="text/javascript">

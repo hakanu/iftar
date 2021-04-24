@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWANINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWANINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWANINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWANINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWANINGEN';
+* [ (SCHWANINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWANINGEN/)
 </script>
+<script type="text/javascript">

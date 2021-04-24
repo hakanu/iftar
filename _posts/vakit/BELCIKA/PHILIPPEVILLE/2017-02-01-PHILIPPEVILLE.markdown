@@ -8,10 +8,11 @@ permalink: /BELCIKA/PHILIPPEVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PHILIPPEVILLE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/PHILIPPEVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'PHILIPPEVILLE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'PHILIPPEVILLE';
+* [ (PHILIPPEVILLE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/PHILIPPEVILLE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/STADE-BUTZFLETH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STADE-BUTZFLETH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADE-BUTZFLETH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STADE-BUTZFLETH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STADE-BUTZFLETH';
+* [ (STADE-BUTZFLETH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADE-BUTZFLETH/)
 </script>
+<script type="text/javascript">

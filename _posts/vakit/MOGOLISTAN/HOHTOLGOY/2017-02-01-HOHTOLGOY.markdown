@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/HOHTOLGOY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOHTOLGOY, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HOHTOLGOY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'HOHTOLGOY';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'HOHTOLGOY';
+* [ (HOHTOLGOY, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/HOHTOLGOY/)
 </script>
+<script type="text/javascript">

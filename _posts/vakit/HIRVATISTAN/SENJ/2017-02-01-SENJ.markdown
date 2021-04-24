@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/SENJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SENJ, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SENJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'SENJ';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'SENJ';
+* [ (SENJ, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/SENJ/)
 </script>
+<script type="text/javascript">

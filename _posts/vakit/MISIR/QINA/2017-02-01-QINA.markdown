@@ -8,10 +8,11 @@ permalink: /MISIR/QINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QINA, MISIR) için iftar ve namaz vakitleri](/MISIR/QINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'QINA';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'QINA';
+* [ (QINA, MISIR) için iftar ve namaz vakitleri](/MISIR/QINA/)
 </script>
+<script type="text/javascript">

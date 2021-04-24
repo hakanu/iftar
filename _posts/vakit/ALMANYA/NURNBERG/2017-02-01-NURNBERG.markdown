@@ -8,10 +8,11 @@ permalink: /ALMANYA/NURNBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NURNBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NURNBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NURNBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NURNBERG';
+* [ (NURNBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NURNBERG/)
 </script>
+<script type="text/javascript">

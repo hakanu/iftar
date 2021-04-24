@@ -8,10 +8,11 @@ permalink: /BURUNDI/BURURI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURURI, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/BURURI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURUNDI';
+
   var GLOBAL_CITY = 'BURURI';
+  var GLOBAL_COUNTRY = 'BURUNDI';
   var GLOBAL_STATE = 'BURURI';
+* [ (BURURI, BURUNDI) için iftar ve namaz vakitleri](/BURUNDI/BURURI/)
 </script>
+<script type="text/javascript">

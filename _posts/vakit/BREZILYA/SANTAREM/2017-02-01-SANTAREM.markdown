@@ -8,10 +8,11 @@ permalink: /BREZILYA/SANTAREM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTAREM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTAREM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SANTAREM';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SANTAREM';
+* [ (SANTAREM, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTAREM/)
 </script>
+<script type="text/javascript">

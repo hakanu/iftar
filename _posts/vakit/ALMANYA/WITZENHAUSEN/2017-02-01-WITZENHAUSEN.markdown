@@ -8,10 +8,11 @@ permalink: /ALMANYA/WITZENHAUSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WITZENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WITZENHAUSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WITZENHAUSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WITZENHAUSEN';
+* [ (WITZENHAUSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WITZENHAUSEN/)
 </script>
+<script type="text/javascript">

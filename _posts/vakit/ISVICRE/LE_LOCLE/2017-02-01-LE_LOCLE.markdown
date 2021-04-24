@@ -8,10 +8,11 @@ permalink: /ISVICRE/LE LOCLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_LOCLE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LE_LOCLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LE LOCLE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LE LOCLE';
+* [ (LE_LOCLE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LE_LOCLE/)
 </script>
+<script type="text/javascript">

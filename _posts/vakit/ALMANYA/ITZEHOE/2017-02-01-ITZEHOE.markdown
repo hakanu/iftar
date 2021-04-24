@@ -8,10 +8,11 @@ permalink: /ALMANYA/ITZEHOE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ITZEHOE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ITZEHOE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ITZEHOE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ITZEHOE';
+* [ (ITZEHOE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ITZEHOE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/DUNKERQUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUNKERQUE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DUNKERQUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DUNKERQUE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DUNKERQUE';
+* [ (DUNKERQUE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DUNKERQUE/)
 </script>
+<script type="text/javascript">

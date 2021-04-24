@@ -8,10 +8,11 @@ permalink: /INGILTERE/LUTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LUTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'LUTON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'LUTON';
+* [ (LUTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/LUTON/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/TAUNGGYI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAUNGGYI, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/TAUNGGYI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'TAUNGGYI';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'TAUNGGYI';
+* [ (TAUNGGYI, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/TAUNGGYI/)
 </script>
+<script type="text/javascript">

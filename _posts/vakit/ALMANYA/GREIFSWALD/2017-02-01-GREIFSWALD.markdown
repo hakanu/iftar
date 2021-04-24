@@ -8,10 +8,11 @@ permalink: /ALMANYA/GREIFSWALD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GREIFSWALD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREIFSWALD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GREIFSWALD';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GREIFSWALD';
+* [ (GREIFSWALD, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GREIFSWALD/)
 </script>
+<script type="text/javascript">

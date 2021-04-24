@@ -8,10 +8,11 @@ permalink: /ALMANYA/WATTENSCHEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WATTENSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WATTENSCHEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WATTENSCHEID';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WATTENSCHEID';
+* [ (WATTENSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WATTENSCHEID/)
 </script>
+<script type="text/javascript">

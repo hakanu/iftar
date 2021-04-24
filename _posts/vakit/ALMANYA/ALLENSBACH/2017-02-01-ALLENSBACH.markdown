@@ -8,10 +8,11 @@ permalink: /ALMANYA/ALLENSBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALLENSBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLENSBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ALLENSBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ALLENSBACH';
+* [ (ALLENSBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ALLENSBACH/)
 </script>
+<script type="text/javascript">

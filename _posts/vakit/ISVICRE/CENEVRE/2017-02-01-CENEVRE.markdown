@@ -8,10 +8,11 @@ permalink: /ISVICRE/CENEVRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CENEVRE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/CENEVRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'CENEVRE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'CENEVRE';
+* [ (CENEVRE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/CENEVRE/)
 </script>
+<script type="text/javascript">

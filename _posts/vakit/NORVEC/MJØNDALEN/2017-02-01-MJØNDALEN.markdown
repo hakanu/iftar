@@ -8,10 +8,11 @@ permalink: /NORVEC/MJØNDALEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MJØNDALEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/MJØNDALEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'MJØNDALEN';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'MJØNDALEN';
+* [ (MJØNDALEN, NORVEC) için iftar ve namaz vakitleri](/NORVEC/MJØNDALEN/)
 </script>
+<script type="text/javascript">

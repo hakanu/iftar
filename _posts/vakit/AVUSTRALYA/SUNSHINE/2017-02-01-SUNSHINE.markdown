@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/SUNSHINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUNSHINE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SUNSHINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'SUNSHINE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'SUNSHINE';
+* [ (SUNSHINE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SUNSHINE/)
 </script>
+<script type="text/javascript">

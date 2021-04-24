@@ -8,10 +8,11 @@ permalink: /ARJANTIN/CORRIENTES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CORRIENTES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CORRIENTES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'CORRIENTES';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'CORRIENTES';
+* [ (CORRIENTES, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/CORRIENTES/)
 </script>
+<script type="text/javascript">

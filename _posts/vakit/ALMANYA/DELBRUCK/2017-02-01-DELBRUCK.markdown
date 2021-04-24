@@ -8,10 +8,11 @@ permalink: /ALMANYA/DELBRUCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DELBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DELBRUCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DELBRUCK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DELBRUCK';
+* [ (DELBRUCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DELBRUCK/)
 </script>
+<script type="text/javascript">

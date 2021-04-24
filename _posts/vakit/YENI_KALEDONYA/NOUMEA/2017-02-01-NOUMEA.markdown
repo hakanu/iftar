@@ -8,10 +8,11 @@ permalink: /YENI KALEDONYA/NOUMEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOUMEA, YENI_KALEDONYA) için iftar ve namaz vakitleri](/YENI_KALEDONYA/NOUMEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI KALEDONYA';
+
   var GLOBAL_CITY = 'NOUMEA';
+  var GLOBAL_COUNTRY = 'YENI KALEDONYA';
   var GLOBAL_STATE = 'NOUMEA';
+* [ (NOUMEA, YENI_KALEDONYA) için iftar ve namaz vakitleri](/YENI_KALEDONYA/NOUMEA/)
 </script>
+<script type="text/javascript">

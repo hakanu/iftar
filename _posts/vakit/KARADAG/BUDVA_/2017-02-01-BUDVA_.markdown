@@ -8,10 +8,11 @@ permalink: /KARADAG/BUDVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUDVA_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/BUDVA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'BUDVA ';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'BUDVA ';
+* [ (BUDVA_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/BUDVA_/)
 </script>
+<script type="text/javascript">

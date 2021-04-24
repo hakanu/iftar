@@ -8,10 +8,11 @@ permalink: /ALMANYA/JENA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JENA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/JENA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'JENA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'JENA';
+* [ (JENA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/JENA/)
 </script>
+<script type="text/javascript">

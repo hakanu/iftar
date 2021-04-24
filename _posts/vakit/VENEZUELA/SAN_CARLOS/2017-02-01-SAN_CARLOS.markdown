@@ -8,10 +8,11 @@ permalink: /VENEZUELA/SAN CARLOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_CARLOS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/SAN_CARLOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'SAN CARLOS';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'SAN CARLOS';
+* [ (SAN_CARLOS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/SAN_CARLOS/)
 </script>
+<script type="text/javascript">

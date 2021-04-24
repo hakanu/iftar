@@ -8,10 +8,11 @@ permalink: /INGILTERE/EASTBOURNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EASTBOURNE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/EASTBOURNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'EASTBOURNE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'EASTBOURNE';
+* [ (EASTBOURNE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/EASTBOURNE/)
 </script>
+<script type="text/javascript">

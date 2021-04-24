@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/BAYRAMALY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYRAMALY_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BAYRAMALY_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'BAYRAMALY ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'BAYRAMALY ';
+* [ (BAYRAMALY_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BAYRAMALY_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/KLATOVY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLATOVY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/KLATOVY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'KLATOVY';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'KLATOVY';
+* [ (KLATOVY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/KLATOVY/)
 </script>
+<script type="text/javascript">

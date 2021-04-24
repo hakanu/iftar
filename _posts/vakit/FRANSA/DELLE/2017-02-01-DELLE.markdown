@@ -8,10 +8,11 @@ permalink: /FRANSA/DELLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DELLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DELLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DELLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DELLE';
+* [ (DELLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DELLE/)
 </script>
+<script type="text/javascript">

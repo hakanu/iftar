@@ -8,10 +8,11 @@ permalink: /BELARUS/DZYARZHYNSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DZYARZHYNSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/DZYARZHYNSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'DZYARZHYNSK';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'DZYARZHYNSK';
+* [ (DZYARZHYNSK, BELARUS) için iftar ve namaz vakitleri](/BELARUS/DZYARZHYNSK/)
 </script>
+<script type="text/javascript">

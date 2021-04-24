@@ -8,10 +8,11 @@ permalink: /CIN/TONGLIAO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TONGLIAO, CIN) için iftar ve namaz vakitleri](/CIN/TONGLIAO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'TONGLIAO';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'TONGLIAO';
+* [ (TONGLIAO, CIN) için iftar ve namaz vakitleri](/CIN/TONGLIAO/)
 </script>
+<script type="text/javascript">

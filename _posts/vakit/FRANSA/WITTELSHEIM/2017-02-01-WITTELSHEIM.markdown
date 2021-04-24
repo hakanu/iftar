@@ -8,10 +8,11 @@ permalink: /FRANSA/WITTELSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WITTELSHEIM, FRANSA) için iftar ve namaz vakitleri](/FRANSA/WITTELSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'WITTELSHEIM';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'WITTELSHEIM';
+* [ (WITTELSHEIM, FRANSA) için iftar ve namaz vakitleri](/FRANSA/WITTELSHEIM/)
 </script>
+<script type="text/javascript">

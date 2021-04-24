@@ -8,10 +8,11 @@ permalink: /ITALYA/BASSANO DEL GRAPPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASSANO_DEL_GRAPPA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BASSANO_DEL_GRAPPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'BASSANO DEL GRAPPA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'BASSANO DEL GRAPPA';
+* [ (BASSANO_DEL_GRAPPA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BASSANO_DEL_GRAPPA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/BATAYSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATAYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BATAYSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BATAYSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BATAYSK';
+* [ (BATAYSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BATAYSK/)
 </script>
+<script type="text/javascript">

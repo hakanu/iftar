@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/AKZHAR (Taraz)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AKZHAR_(Taraz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKZHAR_(Taraz)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'AKZHAR (Taraz)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'AKZHAR (Taraz)';
+* [ (AKZHAR_(Taraz), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/AKZHAR_(Taraz)/)
 </script>
+<script type="text/javascript">

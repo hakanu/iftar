@@ -8,10 +8,11 @@ permalink: /KAMBOCYA/KAMPOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAMPOT, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMBOCYA';
+
   var GLOBAL_CITY = 'KAMPOT';
+  var GLOBAL_COUNTRY = 'KAMBOCYA';
   var GLOBAL_STATE = 'KAMPOT';
+* [ (KAMPOT, KAMBOCYA) için iftar ve namaz vakitleri](/KAMBOCYA/KAMPOT/)
 </script>
+<script type="text/javascript">

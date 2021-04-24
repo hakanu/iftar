@@ -8,10 +8,11 @@ permalink: /RUSYA/GIAGINSKAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIAGINSKAYA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/GIAGINSKAYA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'GIAGINSKAYA ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'GIAGINSKAYA ';
+* [ (GIAGINSKAYA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/GIAGINSKAYA_/)
 </script>
+<script type="text/javascript">

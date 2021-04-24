@@ -8,10 +8,11 @@ permalink: /BOLIVYA/APOLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APOLO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/APOLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'APOLO';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'APOLO';
+* [ (APOLO, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/APOLO/)
 </script>
+<script type="text/javascript">

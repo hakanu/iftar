@@ -8,10 +8,11 @@ permalink: /SVALBARD/LONGYEARBYEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LONGYEARBYEN, SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/LONGYEARBYEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SVALBARD';
+
   var GLOBAL_CITY = 'LONGYEARBYEN';
+  var GLOBAL_COUNTRY = 'SVALBARD';
   var GLOBAL_STATE = 'LONGYEARBYEN';
+* [ (LONGYEARBYEN, SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/LONGYEARBYEN/)
 </script>
+<script type="text/javascript">

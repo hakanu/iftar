@@ -8,10 +8,11 @@ permalink: /ROMANYA/IASI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IASI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/IASI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'IASI';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'IASI';
+* [ (IASI, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/IASI/)
 </script>
+<script type="text/javascript">

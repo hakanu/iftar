@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/TREBINJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TREBINJE, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/TREBINJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'TREBINJE';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'TREBINJE';
+* [ (TREBINJE, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/TREBINJE/)
 </script>
+<script type="text/javascript">

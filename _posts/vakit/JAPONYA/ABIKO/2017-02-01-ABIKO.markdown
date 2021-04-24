@@ -8,10 +8,11 @@ permalink: /JAPONYA/ABIKO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABIKO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ABIKO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'ABIKO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'ABIKO';
+* [ (ABIKO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/ABIKO/)
 </script>
+<script type="text/javascript">

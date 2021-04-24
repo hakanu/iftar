@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BADGASTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BADGASTEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BADGASTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BADGASTEIN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BADGASTEIN';
+* [ (BADGASTEIN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BADGASTEIN/)
 </script>
+<script type="text/javascript">

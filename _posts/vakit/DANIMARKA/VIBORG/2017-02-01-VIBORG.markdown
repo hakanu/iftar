@@ -8,10 +8,11 @@ permalink: /DANIMARKA/VIBORG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VIBORG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'VIBORG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'VIBORG';
+* [ (VIBORG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/VIBORG/)
 </script>
+<script type="text/javascript">

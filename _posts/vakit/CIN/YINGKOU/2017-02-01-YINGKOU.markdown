@@ -8,10 +8,11 @@ permalink: /CIN/YINGKOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YINGKOU, CIN) için iftar ve namaz vakitleri](/CIN/YINGKOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YINGKOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YINGKOU';
+* [ (YINGKOU, CIN) için iftar ve namaz vakitleri](/CIN/YINGKOU/)
 </script>
+<script type="text/javascript">

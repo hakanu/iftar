@@ -8,10 +8,11 @@ permalink: /INGILTERE/FILTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FILTON_, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/FILTON_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'FILTON ';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'FILTON ';
+* [ (FILTON_, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/FILTON_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/STADTLOHN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STADTLOHN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTLOHN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'STADTLOHN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'STADTLOHN';
+* [ (STADTLOHN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/STADTLOHN/)
 </script>
+<script type="text/javascript">

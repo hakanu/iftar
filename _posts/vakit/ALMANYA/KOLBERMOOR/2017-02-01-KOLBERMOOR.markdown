@@ -8,10 +8,11 @@ permalink: /ALMANYA/KOLBERMOOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOLBERMOOR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOLBERMOOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KOLBERMOOR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KOLBERMOOR';
+* [ (KOLBERMOOR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOLBERMOOR/)
 </script>
+<script type="text/javascript">

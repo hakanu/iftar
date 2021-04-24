@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/CHEONGJU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHEONGJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/CHEONGJU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'CHEONGJU';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'CHEONGJU';
+* [ (CHEONGJU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/CHEONGJU/)
 </script>
+<script type="text/javascript">

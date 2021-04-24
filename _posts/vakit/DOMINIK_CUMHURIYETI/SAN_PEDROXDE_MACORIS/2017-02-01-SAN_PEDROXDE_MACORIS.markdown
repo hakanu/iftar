@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/SAN PEDROXDE MACORIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_PEDROXDE_MACORIS, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/SAN_PEDROXDE_MACORIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'SAN PEDROXDE MACORIS';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'SAN PEDROXDE MACORIS';
+* [ (SAN_PEDROXDE_MACORIS, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/SAN_PEDROXDE_MACORIS/)
 </script>
+<script type="text/javascript">

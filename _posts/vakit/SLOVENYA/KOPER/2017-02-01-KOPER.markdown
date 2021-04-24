@@ -8,10 +8,11 @@ permalink: /SLOVENYA/KOPER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOPER, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KOPER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'KOPER';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'KOPER';
+* [ (KOPER, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/KOPER/)
 </script>
+<script type="text/javascript">

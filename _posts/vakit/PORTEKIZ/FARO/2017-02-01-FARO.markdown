@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/FARO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FARO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/FARO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'FARO';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'FARO';
+* [ (FARO, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/FARO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/SAYAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SAYAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SAYAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SAYAMA';
+* [ (SAYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SAYAMA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /PERU/SULLANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SULLANA, PERU) için iftar ve namaz vakitleri](/PERU/SULLANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'SULLANA';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'SULLANA';
+* [ (SULLANA, PERU) için iftar ve namaz vakitleri](/PERU/SULLANA/)
 </script>
+<script type="text/javascript">

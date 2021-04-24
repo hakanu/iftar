@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/PRESTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PRESTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PRESTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'PRESTON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'PRESTON';
+* [ (PRESTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/PRESTON/)
 </script>
+<script type="text/javascript">

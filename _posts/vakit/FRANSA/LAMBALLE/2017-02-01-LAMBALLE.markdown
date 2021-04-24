@@ -8,10 +8,11 @@ permalink: /FRANSA/LAMBALLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAMBALLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LAMBALLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LAMBALLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LAMBALLE';
+* [ (LAMBALLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LAMBALLE/)
 </script>
+<script type="text/javascript">

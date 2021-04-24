@@ -8,17 +8,18 @@ permalink: /ABD/ARIZONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TEMPE (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/TEMPE)
-* [GRAND_CANYON (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/GRAND_CANYON)
+
+
+  var GLOBAL_CITY = 'ARIZONA';
+  var GLOBAL_COUNTRY = 'ABD';
+  var GLOBAL_STATE = 'ARIZONA';
 * [CHANDLER (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/CHANDLER)
 * [GLENDALE (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/GLENDALE)
-* [TUCSON (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/TUCSON)
+* [GRAND_CANYON (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/GRAND_CANYON)
 * [MESA (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/MESA)
 * [PHOENIX (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/PHOENIX)
 * [SCOTTSDALE (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/SCOTTSDALE)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
-  var GLOBAL_CITY = 'ARIZONA';
-  var GLOBAL_STATE = 'ARIZONA';
+* [TEMPE (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/TEMPE)
+* [TUCSON (ARIZONA, ABD) için iftar ve namaz vakitleri](/ABD/ARIZONA/TUCSON)
 </script>
+<script type="text/javascript">

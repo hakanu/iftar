@@ -8,10 +8,11 @@ permalink: /ALMANYA/AHRENSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AHRENSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHRENSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AHRENSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AHRENSBURG';
+* [ (AHRENSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHRENSBURG/)
 </script>
+<script type="text/javascript">

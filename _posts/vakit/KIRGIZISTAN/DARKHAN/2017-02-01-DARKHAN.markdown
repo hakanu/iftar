@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/DARKHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DARKHAN, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/DARKHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'DARKHAN';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'DARKHAN';
+* [ (DARKHAN, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/DARKHAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWANDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWANDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWANDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWANDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWANDORF';
+* [ (SCHWANDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWANDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVICRE/LOZAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOZAN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LOZAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'LOZAN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'LOZAN';
+* [ (LOZAN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/LOZAN/)
 </script>
+<script type="text/javascript">

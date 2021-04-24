@@ -8,10 +8,11 @@ permalink: /URUGUAY/CARMELO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARMELO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/CARMELO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'CARMELO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'CARMELO';
+* [ (CARMELO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/CARMELO/)
 </script>
+<script type="text/javascript">

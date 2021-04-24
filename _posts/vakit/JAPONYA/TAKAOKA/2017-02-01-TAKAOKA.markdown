@@ -8,10 +8,11 @@ permalink: /JAPONYA/TAKAOKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAKAOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAKAOKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TAKAOKA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TAKAOKA';
+* [ (TAKAOKA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TAKAOKA/)
 </script>
+<script type="text/javascript">

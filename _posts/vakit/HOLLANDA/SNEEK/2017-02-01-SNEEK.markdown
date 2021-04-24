@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SNEEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SNEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SNEEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SNEEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SNEEK';
+* [ (SNEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SNEEK/)
 </script>
+<script type="text/javascript">

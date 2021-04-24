@@ -8,10 +8,11 @@ permalink: /JAPONYA/KASHIWA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KASHIWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KASHIWA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KASHIWA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KASHIWA';
+* [ (KASHIWA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KASHIWA/)
 </script>
+<script type="text/javascript">

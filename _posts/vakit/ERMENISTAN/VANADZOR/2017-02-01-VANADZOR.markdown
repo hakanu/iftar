@@ -8,10 +8,11 @@ permalink: /ERMENISTAN/VANADZOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VANADZOR, ERMENISTAN) için iftar ve namaz vakitleri](/ERMENISTAN/VANADZOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ERMENISTAN';
+
   var GLOBAL_CITY = 'VANADZOR';
+  var GLOBAL_COUNTRY = 'ERMENISTAN';
   var GLOBAL_STATE = 'VANADZOR';
+* [ (VANADZOR, ERMENISTAN) için iftar ve namaz vakitleri](/ERMENISTAN/VANADZOR/)
 </script>
+<script type="text/javascript">

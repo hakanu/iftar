@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SABIRABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SABIRABAD, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SABIRABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SABIRABAD';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SABIRABAD';
+* [ (SABIRABAD, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SABIRABAD/)
 </script>
+<script type="text/javascript">

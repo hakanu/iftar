@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTLUCON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTLUCON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTLUCON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTLUCON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTLUCON';
+* [ (MONTLUCON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTLUCON/)
 </script>
+<script type="text/javascript">

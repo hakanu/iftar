@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/TSETSERLEG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TSETSERLEG, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TSETSERLEG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'TSETSERLEG';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'TSETSERLEG';
+* [ (TSETSERLEG, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TSETSERLEG/)
 </script>
+<script type="text/javascript">

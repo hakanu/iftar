@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/KAZAKH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAZAKH, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KAZAKH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'KAZAKH';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'KAZAKH';
+* [ (KAZAKH, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/KAZAKH/)
 </script>
+<script type="text/javascript">

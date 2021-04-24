@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ROCKDALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROCKDALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROCKDALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ROCKDALE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ROCKDALE';
+* [ (ROCKDALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROCKDALE/)
 </script>
+<script type="text/javascript">

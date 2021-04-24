@@ -8,10 +8,11 @@ permalink: /ITALYA/VIAREGGIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIAREGGIO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VIAREGGIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VIAREGGIO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VIAREGGIO';
+* [ (VIAREGGIO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VIAREGGIO/)
 </script>
+<script type="text/javascript">

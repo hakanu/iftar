@@ -8,10 +8,11 @@ permalink: /POLONYA/TYCHY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TYCHY, POLONYA) için iftar ve namaz vakitleri](/POLONYA/TYCHY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'TYCHY';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'TYCHY';
+* [ (TYCHY, POLONYA) için iftar ve namaz vakitleri](/POLONYA/TYCHY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/KISELEVSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KISELEVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KISELEVSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KISELEVSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KISELEVSK';
+* [ (KISELEVSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KISELEVSK/)
 </script>
+<script type="text/javascript">

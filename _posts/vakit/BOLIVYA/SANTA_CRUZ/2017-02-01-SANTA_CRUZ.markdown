@@ -8,10 +8,11 @@ permalink: /BOLIVYA/SANTA CRUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_CRUZ, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SANTA_CRUZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'SANTA CRUZ';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'SANTA CRUZ';
+* [ (SANTA_CRUZ, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/SANTA_CRUZ/)
 </script>
+<script type="text/javascript">

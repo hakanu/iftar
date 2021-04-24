@@ -8,10 +8,11 @@ permalink: /UGANDA/ARUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARUA, UGANDA) için iftar ve namaz vakitleri](/UGANDA/ARUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UGANDA';
+
   var GLOBAL_CITY = 'ARUA';
+  var GLOBAL_COUNTRY = 'UGANDA';
   var GLOBAL_STATE = 'ARUA';
+* [ (ARUA, UGANDA) için iftar ve namaz vakitleri](/UGANDA/ARUA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KAMERUN/DOUALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOUALA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/DOUALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAMERUN';
+
   var GLOBAL_CITY = 'DOUALA';
+  var GLOBAL_COUNTRY = 'KAMERUN';
   var GLOBAL_STATE = 'DOUALA';
+* [ (DOUALA, KAMERUN) için iftar ve namaz vakitleri](/KAMERUN/DOUALA/)
 </script>
+<script type="text/javascript">

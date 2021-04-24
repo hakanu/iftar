@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/ATABAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATABAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ATABAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'ATABAY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'ATABAY';
+* [ (ATABAY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/ATABAY/)
 </script>
+<script type="text/javascript">

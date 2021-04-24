@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KARAKUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARAKUL_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARAKUL_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KARAKUL ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KARAKUL ';
+* [ (KARAKUL_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARAKUL_/)
 </script>
+<script type="text/javascript">

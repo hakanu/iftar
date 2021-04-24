@@ -8,10 +8,11 @@ permalink: /ITALYA/CECINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CECINA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CECINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CECINA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CECINA';
+* [ (CECINA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CECINA/)
 </script>
+<script type="text/javascript">

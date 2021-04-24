@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/BISKEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BISKEK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BISKEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'BISKEK';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'BISKEK';
+* [ (BISKEK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/BISKEK/)
 </script>
+<script type="text/javascript">

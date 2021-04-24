@@ -8,10 +8,11 @@ permalink: /ALMANYA/GOLDBACH (Aschafenburg)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOLDBACH_(Aschafenburg), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOLDBACH_(Aschafenburg)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GOLDBACH (Aschafenburg)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GOLDBACH (Aschafenburg)';
+* [ (GOLDBACH_(Aschafenburg), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GOLDBACH_(Aschafenburg)/)
 </script>
+<script type="text/javascript">

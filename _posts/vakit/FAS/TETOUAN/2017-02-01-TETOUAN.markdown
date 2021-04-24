@@ -8,10 +8,11 @@ permalink: /FAS/TETOUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TETOUAN, FAS) için iftar ve namaz vakitleri](/FAS/TETOUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'TETOUAN';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'TETOUAN';
+* [ (TETOUAN, FAS) için iftar ve namaz vakitleri](/FAS/TETOUAN/)
 </script>
+<script type="text/javascript">

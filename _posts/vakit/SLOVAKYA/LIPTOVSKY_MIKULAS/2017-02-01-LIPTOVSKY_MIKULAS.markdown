@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/LIPTOVSKY MIKULAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIPTOVSKY_MIKULAS, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/LIPTOVSKY_MIKULAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'LIPTOVSKY MIKULAS';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'LIPTOVSKY MIKULAS';
+* [ (LIPTOVSKY_MIKULAS, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/LIPTOVSKY_MIKULAS/)
 </script>
+<script type="text/javascript">

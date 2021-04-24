@@ -8,10 +8,11 @@ permalink: /ALMANYA/RODACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RODACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RODACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RODACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RODACH';
+* [ (RODACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RODACH/)
 </script>
+<script type="text/javascript">

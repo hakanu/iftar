@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/ISKODRA(shkoder)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ISKODRA(shkoder), ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/ISKODRA(shkoder)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'ISKODRA(shkoder)';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'ISKODRA(shkoder)';
+* [ (ISKODRA(shkoder), ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/ISKODRA(shkoder)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ITALYA/NOVARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVARA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/NOVARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'NOVARA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'NOVARA';
+* [ (NOVARA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/NOVARA/)
 </script>
+<script type="text/javascript">

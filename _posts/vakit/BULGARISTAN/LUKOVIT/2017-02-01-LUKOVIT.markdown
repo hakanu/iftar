@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/LUKOVIT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUKOVIT, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/LUKOVIT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'LUKOVIT';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'LUKOVIT';
+* [ (LUKOVIT, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/LUKOVIT/)
 </script>
+<script type="text/javascript">

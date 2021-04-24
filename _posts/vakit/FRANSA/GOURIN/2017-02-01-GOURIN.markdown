@@ -8,10 +8,11 @@ permalink: /FRANSA/GOURIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOURIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GOURIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'GOURIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'GOURIN';
+* [ (GOURIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/GOURIN/)
 </script>
+<script type="text/javascript">

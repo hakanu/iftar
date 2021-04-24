@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/LASHKAR GAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LASHKAR_GAH, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/LASHKAR_GAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'LASHKAR GAH';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'LASHKAR GAH';
+* [ (LASHKAR_GAH, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/LASHKAR_GAH/)
 </script>
+<script type="text/javascript">

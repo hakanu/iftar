@@ -8,10 +8,11 @@ permalink: /ALMANYA/ELTVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELTVILLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELTVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ELTVILLE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ELTVILLE';
+* [ (ELTVILLE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELTVILLE/)
 </script>
+<script type="text/javascript">

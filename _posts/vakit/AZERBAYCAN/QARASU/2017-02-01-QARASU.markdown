@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/QARASU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QARASU, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/QARASU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'QARASU';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'QARASU';
+* [ (QARASU, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/QARASU/)
 </script>
+<script type="text/javascript">

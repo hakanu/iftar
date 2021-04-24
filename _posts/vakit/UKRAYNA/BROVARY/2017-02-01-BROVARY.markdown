@@ -8,10 +8,11 @@ permalink: /UKRAYNA/BROVARY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BROVARY, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BROVARY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'BROVARY';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'BROVARY';
+* [ (BROVARY, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BROVARY/)
 </script>
+<script type="text/javascript">

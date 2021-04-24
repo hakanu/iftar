@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/CROYDON (Q)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CROYDON_(Q), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CROYDON_(Q)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'CROYDON (Q)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'CROYDON (Q)';
+* [ (CROYDON_(Q), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/CROYDON_(Q)/)
 </script>
+<script type="text/javascript">

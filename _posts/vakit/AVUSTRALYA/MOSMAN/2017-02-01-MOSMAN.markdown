@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/MOSMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSMAN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOSMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'MOSMAN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'MOSMAN';
+* [ (MOSMAN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/MOSMAN/)
 </script>
+<script type="text/javascript">

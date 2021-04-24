@@ -8,10 +8,11 @@ permalink: /KUBA/GUANTANAMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUANTANAMO, KUBA) için iftar ve namaz vakitleri](/KUBA/GUANTANAMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'GUANTANAMO';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'GUANTANAMO';
+* [ (GUANTANAMO, KUBA) için iftar ve namaz vakitleri](/KUBA/GUANTANAMO/)
 </script>
+<script type="text/javascript">

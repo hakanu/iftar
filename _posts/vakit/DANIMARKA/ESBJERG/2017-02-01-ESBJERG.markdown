@@ -8,10 +8,11 @@ permalink: /DANIMARKA/ESBJERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESBJERG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ESBJERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'ESBJERG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'ESBJERG';
+* [ (ESBJERG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ESBJERG/)
 </script>
+<script type="text/javascript">

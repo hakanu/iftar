@@ -8,10 +8,11 @@ permalink: /ISVICRE/SURSEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SURSEE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SURSEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'SURSEE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'SURSEE';
+* [ (SURSEE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/SURSEE/)
 </script>
+<script type="text/javascript">

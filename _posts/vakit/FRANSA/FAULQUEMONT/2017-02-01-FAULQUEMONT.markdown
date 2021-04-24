@@ -8,10 +8,11 @@ permalink: /FRANSA/FAULQUEMONT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FAULQUEMONT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FAULQUEMONT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FAULQUEMONT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FAULQUEMONT';
+* [ (FAULQUEMONT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FAULQUEMONT/)
 </script>
+<script type="text/javascript">

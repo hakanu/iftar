@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZWOLLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZWOLLE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZWOLLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZWOLLE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZWOLLE';
+* [ (ZWOLLE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZWOLLE/)
 </script>
+<script type="text/javascript">

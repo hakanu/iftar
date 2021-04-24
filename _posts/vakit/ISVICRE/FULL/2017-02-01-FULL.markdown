@@ -8,10 +8,11 @@ permalink: /ISVICRE/FULL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FULL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FULL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'FULL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'FULL';
+* [ (FULL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FULL/)
 </script>
+<script type="text/javascript">

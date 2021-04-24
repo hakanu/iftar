@@ -8,10 +8,11 @@ permalink: /FRANSA/BOURGANEUF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOURGANEUF, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURGANEUF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BOURGANEUF';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BOURGANEUF';
+* [ (BOURGANEUF, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BOURGANEUF/)
 </script>
+<script type="text/javascript">

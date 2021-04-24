@@ -8,10 +8,11 @@ permalink: /HINDISTAN/RAJKOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAJKOT, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAJKOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'RAJKOT';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'RAJKOT';
+* [ (RAJKOT, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RAJKOT/)
 </script>
+<script type="text/javascript">

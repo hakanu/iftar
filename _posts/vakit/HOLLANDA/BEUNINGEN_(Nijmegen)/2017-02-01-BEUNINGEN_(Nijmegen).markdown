@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BEUNINGEN (Nijmegen)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BEUNINGEN_(Nijmegen), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEUNINGEN_(Nijmegen)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BEUNINGEN (Nijmegen)';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BEUNINGEN (Nijmegen)';
+* [ (BEUNINGEN_(Nijmegen), HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BEUNINGEN_(Nijmegen)/)
 </script>
+<script type="text/javascript">

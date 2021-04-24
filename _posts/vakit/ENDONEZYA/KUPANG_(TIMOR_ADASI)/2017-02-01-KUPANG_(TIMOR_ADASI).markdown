@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/KUPANG (TIMOR ADASI)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUPANG_(TIMOR_ADASI), ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/KUPANG_(TIMOR_ADASI)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'KUPANG (TIMOR ADASI)';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'KUPANG (TIMOR ADASI)';
+* [ (KUPANG_(TIMOR_ADASI), ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/KUPANG_(TIMOR_ADASI)/)
 </script>
+<script type="text/javascript">

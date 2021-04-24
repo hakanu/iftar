@@ -8,10 +8,11 @@ permalink: /ALMANYA/LIPPSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIPPSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIPPSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LIPPSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LIPPSTADT';
+* [ (LIPPSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIPPSTADT/)
 </script>
+<script type="text/javascript">

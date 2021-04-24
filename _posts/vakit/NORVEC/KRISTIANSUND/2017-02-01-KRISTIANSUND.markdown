@@ -8,10 +8,11 @@ permalink: /NORVEC/KRISTIANSUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRISTIANSUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KRISTIANSUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'KRISTIANSUND';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'KRISTIANSUND';
+* [ (KRISTIANSUND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KRISTIANSUND/)
 </script>
+<script type="text/javascript">

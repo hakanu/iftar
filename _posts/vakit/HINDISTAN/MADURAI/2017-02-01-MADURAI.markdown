@@ -8,10 +8,11 @@ permalink: /HINDISTAN/MADURAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MADURAI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MADURAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'MADURAI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'MADURAI';
+* [ (MADURAI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/MADURAI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/KARASUPAZAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARASUPAZAR, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/KARASUPAZAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'KARASUPAZAR';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'KARASUPAZAR';
+* [ (KARASUPAZAR, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/KARASUPAZAR/)
 </script>
+<script type="text/javascript">

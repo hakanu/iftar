@@ -8,10 +8,11 @@ permalink: /FILISTIN/CENIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CENIN, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CENIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILISTIN';
+
   var GLOBAL_CITY = 'CENIN';
+  var GLOBAL_COUNTRY = 'FILISTIN';
   var GLOBAL_STATE = 'CENIN';
+* [ (CENIN, FILISTIN) için iftar ve namaz vakitleri](/FILISTIN/CENIN/)
 </script>
+<script type="text/javascript">

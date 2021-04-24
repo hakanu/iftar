@@ -8,10 +8,11 @@ permalink: /BELARUS/MAZYR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAZYR, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MAZYR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELARUS';
+
   var GLOBAL_CITY = 'MAZYR';
+  var GLOBAL_COUNTRY = 'BELARUS';
   var GLOBAL_STATE = 'MAZYR';
+* [ (MAZYR, BELARUS) için iftar ve namaz vakitleri](/BELARUS/MAZYR/)
 </script>
+<script type="text/javascript">

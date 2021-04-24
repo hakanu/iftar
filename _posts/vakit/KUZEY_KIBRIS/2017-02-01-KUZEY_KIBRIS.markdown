@@ -8,11 +8,12 @@ permalink: /KUZEY_KIBRIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [GUZELYURT (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GUZELYURT)
-* [LEFKOSA (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKOSA)
-* [ISKELE (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/ISKELE)
-* [LEFKE (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKE)
-* [GIRNE (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GIRNE)
+
 * [DIPKARPAZ (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/DIPKARPAZ)
 * [GAZI_MAGOSA (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GAZI_MAGOSA)
+* [GIRNE (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GIRNE)
+* [GUZELYURT (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/GUZELYURT)
+* [ISKELE (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/ISKELE)
 * [LARNAKA (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LARNAKA)
+* [LEFKE (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKE)
+* [LEFKOSA (KUZEY_KIBRIS) için iftar ve namaz vakitleri](/KUZEY_KIBRIS/LEFKOSA)

@@ -8,10 +8,11 @@ permalink: /DANIMARKA/HASLEV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HASLEV, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HASLEV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'HASLEV';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'HASLEV';
+* [ (HASLEV, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/HASLEV/)
 </script>
+<script type="text/javascript">

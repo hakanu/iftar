@@ -8,10 +8,11 @@ permalink: /FRANSA/HENIN-BEAUMONT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HENIN-BEAUMONT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HENIN-BEAUMONT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'HENIN-BEAUMONT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'HENIN-BEAUMONT';
+* [ (HENIN-BEAUMONT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/HENIN-BEAUMONT/)
 </script>
+<script type="text/javascript">

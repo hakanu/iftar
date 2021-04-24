@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAUNATAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAUNATAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAUNATAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAUNATAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAUNATAL';
+* [ (BAUNATAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAUNATAL/)
 </script>
+<script type="text/javascript">

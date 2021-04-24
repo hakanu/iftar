@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/TAURANGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAURANGA, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/TAURANGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'TAURANGA';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'TAURANGA';
+* [ (TAURANGA, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/TAURANGA/)
 </script>
+<script type="text/javascript">

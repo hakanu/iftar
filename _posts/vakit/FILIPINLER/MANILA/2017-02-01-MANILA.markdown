@@ -8,10 +8,11 @@ permalink: /FILIPINLER/MANILA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANILA, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/MANILA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'MANILA';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'MANILA';
+* [ (MANILA, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/MANILA/)
 </script>
+<script type="text/javascript">

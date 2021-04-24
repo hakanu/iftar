@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/SANTO DOMINGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTO_DOMINGO, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/SANTO_DOMINGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'SANTO DOMINGO';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'SANTO DOMINGO';
+* [ (SANTO_DOMINGO, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/SANTO_DOMINGO/)
 </script>
+<script type="text/javascript">

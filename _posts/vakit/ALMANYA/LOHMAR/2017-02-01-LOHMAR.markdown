@@ -8,10 +8,11 @@ permalink: /ALMANYA/LOHMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOHMAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOHMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LOHMAR';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LOHMAR';
+* [ (LOHMAR, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LOHMAR/)
 </script>
+<script type="text/javascript">

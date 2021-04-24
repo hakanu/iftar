@@ -8,10 +8,11 @@ permalink: /ALMANYA/ERKRATH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERKRATH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERKRATH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ERKRATH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ERKRATH';
+* [ (ERKRATH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERKRATH/)
 </script>
+<script type="text/javascript">

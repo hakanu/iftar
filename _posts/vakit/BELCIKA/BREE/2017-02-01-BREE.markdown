@@ -8,10 +8,11 @@ permalink: /BELCIKA/BREE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BREE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BREE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BREE';
+* [ (BREE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BREE/)
 </script>
+<script type="text/javascript">

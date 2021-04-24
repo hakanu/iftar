@@ -8,10 +8,11 @@ permalink: /ROMANYA/GIURGIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIURGIO_, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/GIURGIO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'GIURGIO ';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'GIURGIO ';
+* [ (GIURGIO_, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/GIURGIO_/)
 </script>
+<script type="text/javascript">

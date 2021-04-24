@@ -8,10 +8,11 @@ permalink: /NIJERYA/IFE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IFE, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IFE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'IFE';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'IFE';
+* [ (IFE, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/IFE/)
 </script>
+<script type="text/javascript">

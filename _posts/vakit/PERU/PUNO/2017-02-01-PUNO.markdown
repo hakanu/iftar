@@ -8,10 +8,11 @@ permalink: /PERU/PUNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUNO, PERU) için iftar ve namaz vakitleri](/PERU/PUNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'PUNO';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'PUNO';
+* [ (PUNO, PERU) için iftar ve namaz vakitleri](/PERU/PUNO/)
 </script>
+<script type="text/javascript">

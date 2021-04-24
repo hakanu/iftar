@@ -8,10 +8,11 @@ permalink: /CIN/YIBIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YIBIN, CIN) için iftar ve namaz vakitleri](/CIN/YIBIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YIBIN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YIBIN';
+* [ (YIBIN, CIN) için iftar ve namaz vakitleri](/CIN/YIBIN/)
 </script>
+<script type="text/javascript">

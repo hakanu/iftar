@@ -8,10 +8,11 @@ permalink: /HOLLANDA/OUDEWATER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OUDEWATER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OUDEWATER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'OUDEWATER';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'OUDEWATER';
+* [ (OUDEWATER, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/OUDEWATER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/WAIBLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAIBLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAIBLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WAIBLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WAIBLINGEN';
+* [ (WAIBLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WAIBLINGEN/)
 </script>
+<script type="text/javascript">

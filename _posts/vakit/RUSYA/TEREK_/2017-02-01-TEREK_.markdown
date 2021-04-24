@@ -8,10 +8,11 @@ permalink: /RUSYA/TEREK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEREK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TEREK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TEREK ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TEREK ';
+* [ (TEREK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TEREK_/)
 </script>
+<script type="text/javascript">

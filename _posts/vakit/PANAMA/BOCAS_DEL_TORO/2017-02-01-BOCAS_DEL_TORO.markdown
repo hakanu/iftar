@@ -8,10 +8,11 @@ permalink: /PANAMA/BOCAS DEL TORO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOCAS_DEL_TORO, PANAMA) için iftar ve namaz vakitleri](/PANAMA/BOCAS_DEL_TORO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'BOCAS DEL TORO';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'BOCAS DEL TORO';
+* [ (BOCAS_DEL_TORO, PANAMA) için iftar ve namaz vakitleri](/PANAMA/BOCAS_DEL_TORO/)
 </script>
+<script type="text/javascript">

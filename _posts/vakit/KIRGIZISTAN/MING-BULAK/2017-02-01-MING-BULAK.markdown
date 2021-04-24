@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/MING-BULAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MING-BULAK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/MING-BULAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'MING-BULAK';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'MING-BULAK';
+* [ (MING-BULAK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/MING-BULAK/)
 </script>
+<script type="text/javascript">

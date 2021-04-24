@@ -8,10 +8,11 @@ permalink: /LAOS/XAM NUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (XAM_NUA, LAOS) için iftar ve namaz vakitleri](/LAOS/XAM_NUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LAOS';
+
   var GLOBAL_CITY = 'XAM NUA';
+  var GLOBAL_COUNTRY = 'LAOS';
   var GLOBAL_STATE = 'XAM NUA';
+* [ (XAM_NUA, LAOS) için iftar ve namaz vakitleri](/LAOS/XAM_NUA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SANKT MARTIN (Villach)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANKT_MARTIN_(Villach), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SANKT_MARTIN_(Villach)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SANKT MARTIN (Villach)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SANKT MARTIN (Villach)';
+* [ (SANKT_MARTIN_(Villach), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SANKT_MARTIN_(Villach)/)
 </script>
+<script type="text/javascript">

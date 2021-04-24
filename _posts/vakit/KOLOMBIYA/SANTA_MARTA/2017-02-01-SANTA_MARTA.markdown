@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/SANTA MARTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTA_MARTA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SANTA_MARTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'SANTA MARTA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'SANTA MARTA';
+* [ (SANTA_MARTA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/SANTA_MARTA/)
 </script>
+<script type="text/javascript">

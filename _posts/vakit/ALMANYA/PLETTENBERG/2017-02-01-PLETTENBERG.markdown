@@ -8,10 +8,11 @@ permalink: /ALMANYA/PLETTENBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PLETTENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLETTENBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'PLETTENBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'PLETTENBERG';
+* [ (PLETTENBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/PLETTENBERG/)
 </script>
+<script type="text/javascript">

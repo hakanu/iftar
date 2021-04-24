@@ -8,10 +8,11 @@ permalink: /ALMANYA/ROSTOCK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSTOCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROSTOCK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ROSTOCK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ROSTOCK';
+* [ (ROSTOCK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ROSTOCK/)
 </script>
+<script type="text/javascript">

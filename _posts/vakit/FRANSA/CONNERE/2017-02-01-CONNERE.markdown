@@ -8,10 +8,11 @@ permalink: /FRANSA/CONNERE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONNERE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CONNERE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CONNERE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CONNERE';
+* [ (CONNERE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CONNERE/)
 </script>
+<script type="text/javascript">

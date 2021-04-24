@@ -8,10 +8,11 @@ permalink: /SIRBISTAN/ARANDELOVAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARANDELOVAC, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/ARANDELOVAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SIRBISTAN';
+
   var GLOBAL_CITY = 'ARANDELOVAC';
+  var GLOBAL_COUNTRY = 'SIRBISTAN';
   var GLOBAL_STATE = 'ARANDELOVAC';
+* [ (ARANDELOVAC, SIRBISTAN) için iftar ve namaz vakitleri](/SIRBISTAN/ARANDELOVAC/)
 </script>
+<script type="text/javascript">

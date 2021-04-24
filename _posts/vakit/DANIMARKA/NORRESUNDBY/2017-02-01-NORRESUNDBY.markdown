@@ -8,10 +8,11 @@ permalink: /DANIMARKA/NORRESUNDBY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NORRESUNDBY, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NORRESUNDBY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'NORRESUNDBY';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'NORRESUNDBY';
+* [ (NORRESUNDBY, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/NORRESUNDBY/)
 </script>
+<script type="text/javascript">

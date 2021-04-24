@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAUTZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAUTZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAUTZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAUTZEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAUTZEN';
+* [ (BAUTZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAUTZEN/)
 </script>
+<script type="text/javascript">

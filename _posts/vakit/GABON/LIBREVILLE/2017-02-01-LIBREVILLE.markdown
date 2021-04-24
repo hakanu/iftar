@@ -8,10 +8,11 @@ permalink: /GABON/LIBREVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIBREVILLE, GABON) için iftar ve namaz vakitleri](/GABON/LIBREVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GABON';
+
   var GLOBAL_CITY = 'LIBREVILLE';
+  var GLOBAL_COUNTRY = 'GABON';
   var GLOBAL_STATE = 'LIBREVILLE';
+* [ (LIBREVILLE, GABON) için iftar ve namaz vakitleri](/GABON/LIBREVILLE/)
 </script>
+<script type="text/javascript">

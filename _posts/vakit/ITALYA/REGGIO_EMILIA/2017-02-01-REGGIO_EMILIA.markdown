@@ -8,10 +8,11 @@ permalink: /ITALYA/REGGIO EMILIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REGGIO_EMILIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/REGGIO_EMILIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'REGGIO EMILIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'REGGIO EMILIA';
+* [ (REGGIO_EMILIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/REGGIO_EMILIA/)
 </script>
+<script type="text/javascript">

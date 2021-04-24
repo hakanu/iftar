@@ -8,10 +8,11 @@ permalink: /BREZILYA/BRAGANCA PAULISTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRAGANCA_PAULISTA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BRAGANCA_PAULISTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BRAGANCA PAULISTA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BRAGANCA PAULISTA';
+* [ (BRAGANCA_PAULISTA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BRAGANCA_PAULISTA/)
 </script>
+<script type="text/javascript">

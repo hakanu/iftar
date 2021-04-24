@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/DUSEMBE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUSEMBE, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/DUSEMBE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'DUSEMBE';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'DUSEMBE';
+* [ (DUSEMBE, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/DUSEMBE/)
 </script>
+<script type="text/javascript">

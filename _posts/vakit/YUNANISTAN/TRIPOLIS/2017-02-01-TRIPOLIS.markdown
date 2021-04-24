@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/TRIPOLIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRIPOLIS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/TRIPOLIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'TRIPOLIS';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'TRIPOLIS';
+* [ (TRIPOLIS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/TRIPOLIS/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /SVALBARD/SVEAGRUVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SVEAGRUVA, SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/SVEAGRUVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SVALBARD';
+
   var GLOBAL_CITY = 'SVEAGRUVA';
+  var GLOBAL_COUNTRY = 'SVALBARD';
   var GLOBAL_STATE = 'SVEAGRUVA';
+* [ (SVEAGRUVA, SVALBARD) için iftar ve namaz vakitleri](/SVALBARD/SVEAGRUVA/)
 </script>
+<script type="text/javascript">

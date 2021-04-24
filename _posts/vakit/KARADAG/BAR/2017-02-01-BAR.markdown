@@ -8,10 +8,11 @@ permalink: /KARADAG/BAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAR, KARADAG) için iftar ve namaz vakitleri](/KARADAG/BAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'BAR';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'BAR';
+* [ (BAR, KARADAG) için iftar ve namaz vakitleri](/KARADAG/BAR/)
 </script>
+<script type="text/javascript">

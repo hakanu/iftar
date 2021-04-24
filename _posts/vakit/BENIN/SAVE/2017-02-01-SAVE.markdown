@@ -8,10 +8,11 @@ permalink: /BENIN/SAVE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAVE, BENIN) için iftar ve namaz vakitleri](/BENIN/SAVE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'SAVE';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'SAVE';
+* [ (SAVE, BENIN) için iftar ve namaz vakitleri](/BENIN/SAVE/)
 </script>
+<script type="text/javascript">

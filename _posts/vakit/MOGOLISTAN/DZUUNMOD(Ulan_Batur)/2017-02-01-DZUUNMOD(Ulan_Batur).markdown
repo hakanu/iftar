@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/DZUUNMOD(Ulan Batur)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DZUUNMOD(Ulan_Batur), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/DZUUNMOD(Ulan_Batur)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'DZUUNMOD(Ulan Batur)';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'DZUUNMOD(Ulan Batur)';
+* [ (DZUUNMOD(Ulan_Batur), MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/DZUUNMOD(Ulan_Batur)/)
 </script>
+<script type="text/javascript">

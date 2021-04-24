@@ -8,10 +8,11 @@ permalink: /CIN/GOLMUD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOLMUD, CIN) için iftar ve namaz vakitleri](/CIN/GOLMUD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'GOLMUD';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'GOLMUD';
+* [ (GOLMUD, CIN) için iftar ve namaz vakitleri](/CIN/GOLMUD/)
 </script>
+<script type="text/javascript">

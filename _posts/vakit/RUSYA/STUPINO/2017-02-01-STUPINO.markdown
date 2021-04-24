@@ -8,10 +8,11 @@ permalink: /RUSYA/STUPINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STUPINO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/STUPINO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'STUPINO';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'STUPINO';
+* [ (STUPINO, RUSYA) için iftar ve namaz vakitleri](/RUSYA/STUPINO/)
 </script>
+<script type="text/javascript">

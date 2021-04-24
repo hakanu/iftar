@@ -8,10 +8,11 @@ permalink: /TANZANYA/TABORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TABORA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TABORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TANZANYA';
+
   var GLOBAL_CITY = 'TABORA';
+  var GLOBAL_COUNTRY = 'TANZANYA';
   var GLOBAL_STATE = 'TABORA';
+* [ (TABORA, TANZANYA) için iftar ve namaz vakitleri](/TANZANYA/TABORA/)
 </script>
+<script type="text/javascript">

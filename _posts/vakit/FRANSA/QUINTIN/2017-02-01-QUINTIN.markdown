@@ -8,10 +8,11 @@ permalink: /FRANSA/QUINTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QUINTIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/QUINTIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'QUINTIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'QUINTIN';
+* [ (QUINTIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/QUINTIN/)
 </script>
+<script type="text/javascript">

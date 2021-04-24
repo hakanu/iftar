@@ -8,10 +8,11 @@ permalink: /GURCISTAN/SOKHUMI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SOKHUMI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/SOKHUMI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'SOKHUMI';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'SOKHUMI';
+* [ (SOKHUMI, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/SOKHUMI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SARUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARUR, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SARUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SARUR';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SARUR';
+* [ (SARUR, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SARUR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/MUTTERSTADT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUTTERSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUTTERSTADT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MUTTERSTADT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MUTTERSTADT';
+* [ (MUTTERSTADT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MUTTERSTADT/)
 </script>
+<script type="text/javascript">

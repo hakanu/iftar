@@ -8,10 +8,11 @@ permalink: /GABON/TCHIBANGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TCHIBANGA, GABON) için iftar ve namaz vakitleri](/GABON/TCHIBANGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GABON';
+
   var GLOBAL_CITY = 'TCHIBANGA';
+  var GLOBAL_COUNTRY = 'GABON';
   var GLOBAL_STATE = 'TCHIBANGA';
+* [ (TCHIBANGA, GABON) için iftar ve namaz vakitleri](/GABON/TCHIBANGA/)
 </script>
+<script type="text/javascript">

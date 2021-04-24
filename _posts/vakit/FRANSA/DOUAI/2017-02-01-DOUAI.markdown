@@ -8,10 +8,11 @@ permalink: /FRANSA/DOUAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOUAI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DOUAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DOUAI';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DOUAI';
+* [ (DOUAI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DOUAI/)
 </script>
+<script type="text/javascript">

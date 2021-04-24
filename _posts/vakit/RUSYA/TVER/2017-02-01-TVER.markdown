@@ -8,10 +8,11 @@ permalink: /RUSYA/TVER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TVER, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TVER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TVER';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TVER';
+* [ (TVER, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TVER/)
 </script>
+<script type="text/javascript">

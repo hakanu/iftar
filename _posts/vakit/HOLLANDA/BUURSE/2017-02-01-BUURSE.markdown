@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BUURSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUURSE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BUURSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BUURSE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BUURSE';
+* [ (BUURSE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BUURSE/)
 </script>
+<script type="text/javascript">

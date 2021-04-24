@@ -8,10 +8,11 @@ permalink: /BREZILYA/VICOSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VICOSA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VICOSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'VICOSA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'VICOSA';
+* [ (VICOSA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VICOSA/)
 </script>
+<script type="text/javascript">

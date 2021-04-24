@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZUTPHEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZUTPHEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZUTPHEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZUTPHEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZUTPHEN';
+* [ (ZUTPHEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZUTPHEN/)
 </script>
+<script type="text/javascript">

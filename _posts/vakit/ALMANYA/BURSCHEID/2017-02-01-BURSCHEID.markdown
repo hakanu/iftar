@@ -8,10 +8,11 @@ permalink: /ALMANYA/BURSCHEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURSCHEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BURSCHEID';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BURSCHEID';
+* [ (BURSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BURSCHEID/)
 </script>
+<script type="text/javascript">

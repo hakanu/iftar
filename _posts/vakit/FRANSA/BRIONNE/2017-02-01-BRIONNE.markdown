@@ -8,10 +8,11 @@ permalink: /FRANSA/BRIONNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIONNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BRIONNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BRIONNE';
+* [ (BRIONNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIONNE/)
 </script>
+<script type="text/javascript">

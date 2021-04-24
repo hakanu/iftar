@@ -8,10 +8,11 @@ permalink: /ALMANYA/SPROCKHOVEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPROCKHOVEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPROCKHOVEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SPROCKHOVEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SPROCKHOVEL';
+* [ (SPROCKHOVEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SPROCKHOVEL/)
 </script>
+<script type="text/javascript">

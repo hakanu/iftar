@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/SEUTULA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEUTULA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/SEUTULA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'SEUTULA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'SEUTULA';
+* [ (SEUTULA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/SEUTULA/)
 </script>
+<script type="text/javascript">

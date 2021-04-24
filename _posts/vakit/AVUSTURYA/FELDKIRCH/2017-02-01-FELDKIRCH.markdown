@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/FELDKIRCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FELDKIRCH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FELDKIRCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'FELDKIRCH';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'FELDKIRCH';
+* [ (FELDKIRCH, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/FELDKIRCH/)
 </script>
+<script type="text/javascript">

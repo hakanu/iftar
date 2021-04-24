@@ -8,10 +8,11 @@ permalink: /SLOVENYA/LJUBLJANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LJUBLJANA, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/LJUBLJANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVENYA';
+
   var GLOBAL_CITY = 'LJUBLJANA';
+  var GLOBAL_COUNTRY = 'SLOVENYA';
   var GLOBAL_STATE = 'LJUBLJANA';
+* [ (LJUBLJANA, SLOVENYA) için iftar ve namaz vakitleri](/SLOVENYA/LJUBLJANA/)
 </script>
+<script type="text/javascript">

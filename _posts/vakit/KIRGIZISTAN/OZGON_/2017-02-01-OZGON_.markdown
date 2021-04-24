@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/OZGON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OZGON_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/OZGON_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'OZGON ';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'OZGON ';
+* [ (OZGON_, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/OZGON_/)
 </script>
+<script type="text/javascript">

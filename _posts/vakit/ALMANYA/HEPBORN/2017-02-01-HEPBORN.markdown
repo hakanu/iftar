@@ -8,10 +8,11 @@ permalink: /ALMANYA/HEPBORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HEPBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEPBORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HEPBORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HEPBORN';
+* [ (HEPBORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HEPBORN/)
 </script>
+<script type="text/javascript">

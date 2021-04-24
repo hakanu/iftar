@@ -8,10 +8,11 @@ permalink: /NEPAL/BHAKTABUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BHAKTABUR, NEPAL) için iftar ve namaz vakitleri](/NEPAL/BHAKTABUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NEPAL';
+
   var GLOBAL_CITY = 'BHAKTABUR';
+  var GLOBAL_COUNTRY = 'NEPAL';
   var GLOBAL_STATE = 'BHAKTABUR';
+* [ (BHAKTABUR, NEPAL) için iftar ve namaz vakitleri](/NEPAL/BHAKTABUR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/GENERAL SAN MARTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENERAL_SAN_MARTIN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GENERAL_SAN_MARTIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'GENERAL SAN MARTIN';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'GENERAL SAN MARTIN';
+* [ (GENERAL_SAN_MARTIN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/GENERAL_SAN_MARTIN/)
 </script>
+<script type="text/javascript">

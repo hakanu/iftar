@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/TERMEZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TERMEZ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/TERMEZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'TERMEZ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'TERMEZ';
+* [ (TERMEZ, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/TERMEZ/)
 </script>
+<script type="text/javascript">

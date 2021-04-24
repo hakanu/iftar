@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/ECHTERNACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ECHTERNACH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/ECHTERNACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'ECHTERNACH';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'ECHTERNACH';
+* [ (ECHTERNACH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/ECHTERNACH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/UZERCHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UZERCHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/UZERCHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'UZERCHE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'UZERCHE';
+* [ (UZERCHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/UZERCHE/)
 </script>
+<script type="text/javascript">

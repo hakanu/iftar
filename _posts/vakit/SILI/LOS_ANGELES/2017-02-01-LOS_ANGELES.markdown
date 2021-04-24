@@ -8,10 +8,11 @@ permalink: /SILI/LOS ANGELES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOS_ANGELES, SILI) için iftar ve namaz vakitleri](/SILI/LOS_ANGELES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'LOS ANGELES';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'LOS ANGELES';
+* [ (LOS_ANGELES, SILI) için iftar ve namaz vakitleri](/SILI/LOS_ANGELES/)
 </script>
+<script type="text/javascript">

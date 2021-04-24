@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DRACHTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DRACHTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DRACHTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DRACHTEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DRACHTEN';
+* [ (DRACHTEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DRACHTEN/)
 </script>
+<script type="text/javascript">

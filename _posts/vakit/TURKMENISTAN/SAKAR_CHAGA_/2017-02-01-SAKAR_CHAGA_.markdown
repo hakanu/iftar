@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/SAKAR CHAGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAKAR_CHAGA_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/SAKAR_CHAGA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'SAKAR CHAGA ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'SAKAR CHAGA ';
+* [ (SAKAR_CHAGA_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/SAKAR_CHAGA_/)
 </script>
+<script type="text/javascript">

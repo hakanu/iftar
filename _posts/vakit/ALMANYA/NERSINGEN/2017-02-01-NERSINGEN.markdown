@@ -8,10 +8,11 @@ permalink: /ALMANYA/NERSINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NERSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NERSINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NERSINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NERSINGEN';
+* [ (NERSINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NERSINGEN/)
 </script>
+<script type="text/javascript">

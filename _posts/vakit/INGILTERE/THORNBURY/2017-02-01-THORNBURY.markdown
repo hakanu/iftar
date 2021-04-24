@@ -8,10 +8,11 @@ permalink: /INGILTERE/THORNBURY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (THORNBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/THORNBURY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'THORNBURY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'THORNBURY';
+* [ (THORNBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/THORNBURY/)
 </script>
+<script type="text/javascript">

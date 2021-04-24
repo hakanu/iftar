@@ -8,10 +8,11 @@ permalink: /KANADA/MANITOBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [WINNIPEG (MANITOBA, KANADA) için iftar ve namaz vakitleri](/KANADA/MANITOBA/WINNIPEG)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KANADA';
+
   var GLOBAL_CITY = 'MANITOBA';
+  var GLOBAL_COUNTRY = 'KANADA';
   var GLOBAL_STATE = 'MANITOBA';
+* [WINNIPEG (MANITOBA, KANADA) için iftar ve namaz vakitleri](/KANADA/MANITOBA/WINNIPEG)
 </script>
+<script type="text/javascript">

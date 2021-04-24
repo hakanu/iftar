@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/AZUA DE COMPOSTELA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AZUA_DE_COMPOSTELA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/AZUA_DE_COMPOSTELA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'AZUA DE COMPOSTELA';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'AZUA DE COMPOSTELA';
+* [ (AZUA_DE_COMPOSTELA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/AZUA_DE_COMPOSTELA/)
 </script>
+<script type="text/javascript">

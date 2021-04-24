@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/DANGARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DANGARA_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/DANGARA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'DANGARA ';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'DANGARA ';
+* [ (DANGARA_, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/DANGARA_/)
 </script>
+<script type="text/javascript">

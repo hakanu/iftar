@@ -8,10 +8,11 @@ permalink: /BREZILYA/APARECIDA DE GOIANIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APARECIDA_DE_GOIANIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/APARECIDA_DE_GOIANIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'APARECIDA DE GOIANIA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'APARECIDA DE GOIANIA';
+* [ (APARECIDA_DE_GOIANIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/APARECIDA_DE_GOIANIA/)
 </script>
+<script type="text/javascript">

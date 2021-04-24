@@ -8,10 +8,11 @@ permalink: /CIN/ZIBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZIBO, CIN) için iftar ve namaz vakitleri](/CIN/ZIBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZIBO';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZIBO';
+* [ (ZIBO, CIN) için iftar ve namaz vakitleri](/CIN/ZIBO/)
 </script>
+<script type="text/javascript">

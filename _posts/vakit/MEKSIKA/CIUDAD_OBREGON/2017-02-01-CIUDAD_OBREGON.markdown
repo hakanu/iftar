@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CIUDAD OBREGON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_OBREGON, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_OBREGON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CIUDAD OBREGON';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CIUDAD OBREGON';
+* [ (CIUDAD_OBREGON, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_OBREGON/)
 </script>
+<script type="text/javascript">

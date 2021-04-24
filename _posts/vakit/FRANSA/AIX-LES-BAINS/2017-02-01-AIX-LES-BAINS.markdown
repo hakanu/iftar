@@ -8,10 +8,11 @@ permalink: /FRANSA/AIX-LES-BAINS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AIX-LES-BAINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AIX-LES-BAINS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AIX-LES-BAINS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AIX-LES-BAINS';
+* [ (AIX-LES-BAINS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AIX-LES-BAINS/)
 </script>
+<script type="text/javascript">

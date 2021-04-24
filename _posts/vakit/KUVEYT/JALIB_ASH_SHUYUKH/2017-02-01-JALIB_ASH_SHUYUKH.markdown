@@ -8,10 +8,11 @@ permalink: /KUVEYT/JALIB ASH SHUYUKH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JALIB_ASH_SHUYUKH, KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/JALIB_ASH_SHUYUKH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUVEYT';
+
   var GLOBAL_CITY = 'JALIB ASH SHUYUKH';
+  var GLOBAL_COUNTRY = 'KUVEYT';
   var GLOBAL_STATE = 'JALIB ASH SHUYUKH';
+* [ (JALIB_ASH_SHUYUKH, KUVEYT) için iftar ve namaz vakitleri](/KUVEYT/JALIB_ASH_SHUYUKH/)
 </script>
+<script type="text/javascript">

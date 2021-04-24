@@ -8,10 +8,11 @@ permalink: /BREZILYA/PENEDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENEDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PENEDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PENEDO';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PENEDO';
+* [ (PENEDO, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PENEDO/)
 </script>
+<script type="text/javascript">

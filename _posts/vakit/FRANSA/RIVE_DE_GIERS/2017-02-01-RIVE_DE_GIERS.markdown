@@ -8,10 +8,11 @@ permalink: /FRANSA/RIVE DE GIERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIVE_DE_GIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RIVE_DE_GIERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'RIVE DE GIERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'RIVE DE GIERS';
+* [ (RIVE_DE_GIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/RIVE_DE_GIERS/)
 </script>
+<script type="text/javascript">

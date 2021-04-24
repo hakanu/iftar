@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/INCHEON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (INCHEON, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/INCHEON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'INCHEON';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'INCHEON';
+* [ (INCHEON, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/INCHEON/)
 </script>
+<script type="text/javascript">

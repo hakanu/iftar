@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/TALDY KURGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TALDY_KURGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TALDY_KURGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'TALDY KURGAN';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'TALDY KURGAN';
+* [ (TALDY_KURGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/TALDY_KURGAN/)
 </script>
+<script type="text/javascript">

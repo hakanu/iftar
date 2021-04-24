@@ -8,10 +8,11 @@ permalink: /S_ ARABISTAN/AL HUFUF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AL_HUFUF, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/AL_HUFUF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
+
   var GLOBAL_CITY = 'AL HUFUF';
+  var GLOBAL_COUNTRY = 'S_ ARABISTAN';
   var GLOBAL_STATE = 'AL HUFUF';
+* [ (AL_HUFUF, S__ARABISTAN) için iftar ve namaz vakitleri](/S__ARABISTAN/AL_HUFUF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/LOERBEEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOERBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LOERBEEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'LOERBEEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'LOERBEEK';
+* [ (LOERBEEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/LOERBEEK/)
 </script>
+<script type="text/javascript">

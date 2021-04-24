@@ -8,10 +8,11 @@ permalink: /BELCIKA/WOLUWE-SAINT-LAMBERT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOLUWE-SAINT-LAMBERT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WOLUWE-SAINT-LAMBERT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'WOLUWE-SAINT-LAMBERT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'WOLUWE-SAINT-LAMBERT';
+* [ (WOLUWE-SAINT-LAMBERT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/WOLUWE-SAINT-LAMBERT/)
 </script>
+<script type="text/javascript">

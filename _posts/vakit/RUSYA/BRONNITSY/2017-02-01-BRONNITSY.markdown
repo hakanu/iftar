@@ -8,10 +8,11 @@ permalink: /RUSYA/BRONNITSY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRONNITSY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BRONNITSY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BRONNITSY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BRONNITSY';
+* [ (BRONNITSY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BRONNITSY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/NOVIPAZAR (Sumnu)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOVIPAZAR_(Sumnu), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/NOVIPAZAR_(Sumnu)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'NOVIPAZAR (Sumnu)';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'NOVIPAZAR (Sumnu)';
+* [ (NOVIPAZAR_(Sumnu), BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/NOVIPAZAR_(Sumnu)/)
 </script>
+<script type="text/javascript">

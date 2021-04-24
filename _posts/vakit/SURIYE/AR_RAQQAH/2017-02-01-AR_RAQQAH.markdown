@@ -8,10 +8,11 @@ permalink: /SURIYE/AR RAQQAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AR_RAQQAH, SURIYE) için iftar ve namaz vakitleri](/SURIYE/AR_RAQQAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SURIYE';
+
   var GLOBAL_CITY = 'AR RAQQAH';
+  var GLOBAL_COUNTRY = 'SURIYE';
   var GLOBAL_STATE = 'AR RAQQAH';
+* [ (AR_RAQQAH, SURIYE) için iftar ve namaz vakitleri](/SURIYE/AR_RAQQAH/)
 </script>
+<script type="text/javascript">

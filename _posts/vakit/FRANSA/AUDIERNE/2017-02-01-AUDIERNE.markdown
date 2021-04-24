@@ -8,10 +8,11 @@ permalink: /FRANSA/AUDIERNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUDIERNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUDIERNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'AUDIERNE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'AUDIERNE';
+* [ (AUDIERNE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/AUDIERNE/)
 </script>
+<script type="text/javascript">

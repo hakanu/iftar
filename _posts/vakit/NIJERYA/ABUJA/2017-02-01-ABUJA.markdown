@@ -8,10 +8,11 @@ permalink: /NIJERYA/ABUJA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABUJA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/ABUJA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'ABUJA';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'ABUJA';
+* [ (ABUJA, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/ABUJA/)
 </script>
+<script type="text/javascript">

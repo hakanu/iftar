@@ -8,10 +8,11 @@ permalink: /ARJANTIN/SALTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALTA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SALTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'SALTA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'SALTA';
+* [ (SALTA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SALTA/)
 </script>
+<script type="text/javascript">

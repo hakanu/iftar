@@ -8,10 +8,11 @@ permalink: /ALMANYA/EUTIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EUTIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EUTIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EUTIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EUTIN';
+* [ (EUTIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EUTIN/)
 </script>
+<script type="text/javascript">

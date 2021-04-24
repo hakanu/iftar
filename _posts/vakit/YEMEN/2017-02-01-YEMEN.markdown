@@ -8,9 +8,10 @@ permalink: /YEMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [THAMUD (YEMEN) için iftar ve namaz vakitleri](/YEMEN/THAMUD)
-* [AL_MUKALLA (YEMEN) için iftar ve namaz vakitleri](/YEMEN/AL_MUKALLA)
-* [AL_HUDAYDAH (YEMEN) için iftar ve namaz vakitleri](/YEMEN/AL_HUDAYDAH)
+
 * [ADEN (YEMEN) için iftar ve namaz vakitleri](/YEMEN/ADEN)
+* [AL_HUDAYDAH (YEMEN) için iftar ve namaz vakitleri](/YEMEN/AL_HUDAYDAH)
+* [AL_MUKALLA (YEMEN) için iftar ve namaz vakitleri](/YEMEN/AL_MUKALLA)
 * [SANAA (YEMEN) için iftar ve namaz vakitleri](/YEMEN/SANAA)
 * [TAIZZ (YEMEN) için iftar ve namaz vakitleri](/YEMEN/TAIZZ)
+* [THAMUD (YEMEN) için iftar ve namaz vakitleri](/YEMEN/THAMUD)

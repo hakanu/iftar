@@ -8,10 +8,11 @@ permalink: /INGILTERE/MARKETHARBOROUGH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARKETHARBOROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MARKETHARBOROUGH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'MARKETHARBOROUGH';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'MARKETHARBOROUGH';
+* [ (MARKETHARBOROUGH, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/MARKETHARBOROUGH/)
 </script>
+<script type="text/javascript">

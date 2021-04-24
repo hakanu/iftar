@@ -8,10 +8,11 @@ permalink: /MOLDAVYA/KISHINEV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KISHINEV, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KISHINEV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOLDAVYA';
+
   var GLOBAL_CITY = 'KISHINEV';
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
   var GLOBAL_STATE = 'KISHINEV';
+* [ (KISHINEV, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KISHINEV/)
 </script>
+<script type="text/javascript">

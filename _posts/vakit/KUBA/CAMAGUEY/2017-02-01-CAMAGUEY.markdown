@@ -8,10 +8,11 @@ permalink: /KUBA/CAMAGUEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMAGUEY, KUBA) için iftar ve namaz vakitleri](/KUBA/CAMAGUEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'CAMAGUEY';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'CAMAGUEY';
+* [ (CAMAGUEY, KUBA) için iftar ve namaz vakitleri](/KUBA/CAMAGUEY/)
 </script>
+<script type="text/javascript">

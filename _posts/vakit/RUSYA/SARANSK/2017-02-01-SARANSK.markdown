@@ -8,10 +8,11 @@ permalink: /RUSYA/SARANSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SARANSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SARANSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SARANSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SARANSK';
+* [ (SARANSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SARANSK/)
 </script>
+<script type="text/javascript">

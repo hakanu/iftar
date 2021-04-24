@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/BANDUNG (JAWA BARAT)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANDUNG_(JAWA_BARAT), ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BANDUNG_(JAWA_BARAT)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'BANDUNG (JAWA BARAT)';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'BANDUNG (JAWA BARAT)';
+* [ (BANDUNG_(JAWA_BARAT), ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BANDUNG_(JAWA_BARAT)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TAXCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAXCO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TAXCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TAXCO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TAXCO';
+* [ (TAXCO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TAXCO/)
 </script>
+<script type="text/javascript">

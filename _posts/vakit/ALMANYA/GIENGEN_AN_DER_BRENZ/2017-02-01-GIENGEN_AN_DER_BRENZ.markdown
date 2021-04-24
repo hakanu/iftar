@@ -8,10 +8,11 @@ permalink: /ALMANYA/GIENGEN AN DER BRENZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIENGEN_AN_DER_BRENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GIENGEN_AN_DER_BRENZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GIENGEN AN DER BRENZ';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GIENGEN AN DER BRENZ';
+* [ (GIENGEN_AN_DER_BRENZ, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GIENGEN_AN_DER_BRENZ/)
 </script>
+<script type="text/javascript">

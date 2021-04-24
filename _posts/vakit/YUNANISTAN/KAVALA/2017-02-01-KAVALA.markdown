@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KAVALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAVALA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KAVALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KAVALA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KAVALA';
+* [ (KAVALA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KAVALA/)
 </script>
+<script type="text/javascript">

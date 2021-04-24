@@ -8,10 +8,11 @@ permalink: /ITALYA/BERGAMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERGAMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BERGAMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'BERGAMO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'BERGAMO';
+* [ (BERGAMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BERGAMO/)
 </script>
+<script type="text/javascript">

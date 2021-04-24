@@ -8,10 +8,11 @@ permalink: /ISVICRE/WADENSWILL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WADENSWILL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WADENSWILL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'WADENSWILL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'WADENSWILL';
+* [ (WADENSWILL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WADENSWILL/)
 </script>
+<script type="text/javascript">

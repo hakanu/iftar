@@ -8,10 +8,11 @@ permalink: /BREZILYA/PIRASSUNUNGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PIRASSUNUNGA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PIRASSUNUNGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PIRASSUNUNGA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PIRASSUNUNGA';
+* [ (PIRASSUNUNGA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PIRASSUNUNGA/)
 </script>
+<script type="text/javascript">

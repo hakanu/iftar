@@ -8,10 +8,11 @@ permalink: /RUSYA/KOVROV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOVROV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KOVROV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KOVROV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KOVROV';
+* [ (KOVROV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KOVROV/)
 </script>
+<script type="text/javascript">

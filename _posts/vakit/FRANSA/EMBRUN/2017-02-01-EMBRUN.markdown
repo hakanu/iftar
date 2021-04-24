@@ -8,10 +8,11 @@ permalink: /FRANSA/EMBRUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EMBRUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EMBRUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'EMBRUN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'EMBRUN';
+* [ (EMBRUN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/EMBRUN/)
 </script>
+<script type="text/javascript">

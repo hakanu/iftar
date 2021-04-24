@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/DOSTUK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOSTUK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/DOSTUK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'DOSTUK';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'DOSTUK';
+* [ (DOSTUK, KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/DOSTUK/)
 </script>
+<script type="text/javascript">

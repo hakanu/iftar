@@ -8,10 +8,11 @@ permalink: /ALMANYA/MANNHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANNHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MANNHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MANNHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MANNHEIM';
+* [ (MANNHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MANNHEIM/)
 </script>
+<script type="text/javascript">

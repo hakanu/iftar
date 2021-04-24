@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/KHANIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHANIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KHANIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'KHANIA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'KHANIA';
+* [ (KHANIA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/KHANIA/)
 </script>
+<script type="text/javascript">

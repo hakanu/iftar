@@ -8,10 +8,11 @@ permalink: /FRANSA/WOIPPY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOIPPY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/WOIPPY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'WOIPPY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'WOIPPY';
+* [ (WOIPPY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/WOIPPY/)
 </script>
+<script type="text/javascript">

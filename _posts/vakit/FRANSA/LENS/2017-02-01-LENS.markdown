@@ -8,10 +8,11 @@ permalink: /FRANSA/LENS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LENS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LENS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LENS';
+* [ (LENS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LENS/)
 </script>
+<script type="text/javascript">

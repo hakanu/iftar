@@ -8,10 +8,11 @@ permalink: /EL SALVADOR/SAN MIGUEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_MIGUEL, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SAN_MIGUEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EL SALVADOR';
+
   var GLOBAL_CITY = 'SAN MIGUEL';
+  var GLOBAL_COUNTRY = 'EL SALVADOR';
   var GLOBAL_STATE = 'SAN MIGUEL';
+* [ (SAN_MIGUEL, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/SAN_MIGUEL/)
 </script>
+<script type="text/javascript">

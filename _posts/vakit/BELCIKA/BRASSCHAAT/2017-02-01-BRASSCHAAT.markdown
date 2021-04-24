@@ -8,10 +8,11 @@ permalink: /BELCIKA/BRASSCHAAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRASSCHAAT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BRASSCHAAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BRASSCHAAT';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BRASSCHAAT';
+* [ (BRASSCHAAT, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BRASSCHAAT/)
 </script>
+<script type="text/javascript">

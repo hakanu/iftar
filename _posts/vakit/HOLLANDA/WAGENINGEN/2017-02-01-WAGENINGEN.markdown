@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WAGENINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAGENINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WAGENINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WAGENINGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WAGENINGEN';
+* [ (WAGENINGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WAGENINGEN/)
 </script>
+<script type="text/javascript">

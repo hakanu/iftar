@@ -8,10 +8,11 @@ permalink: /CIN/FUYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUYANG, CIN) için iftar ve namaz vakitleri](/CIN/FUYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FUYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FUYANG';
+* [ (FUYANG, CIN) için iftar ve namaz vakitleri](/CIN/FUYANG/)
 </script>
+<script type="text/javascript">

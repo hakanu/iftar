@@ -8,9 +8,10 @@ permalink: /MOLDAVYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [TIRASPOL (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIRASPOL)
-* [KOMRAT (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KOMRAT)
+
 * [BALTI (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/BALTI)
-* [TIGHINA (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIGHINA)
-* [KISHINEV (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KISHINEV)
 * [CHADYR-LUNGA (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/CHADYR-LUNGA)
+* [KISHINEV (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KISHINEV)
+* [KOMRAT (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/KOMRAT)
+* [TIGHINA (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIGHINA)
+* [TIRASPOL (MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/TIRASPOL)

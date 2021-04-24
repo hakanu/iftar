@@ -8,10 +8,11 @@ permalink: /ITALYA/OSIMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSIMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/OSIMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'OSIMO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'OSIMO';
+* [ (OSIMO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/OSIMO/)
 </script>
+<script type="text/javascript">

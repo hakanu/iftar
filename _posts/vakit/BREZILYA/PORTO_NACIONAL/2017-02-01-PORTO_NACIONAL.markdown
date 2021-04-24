@@ -8,10 +8,11 @@ permalink: /BREZILYA/PORTO NACIONAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PORTO_NACIONAL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PORTO_NACIONAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'PORTO NACIONAL';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'PORTO NACIONAL';
+* [ (PORTO_NACIONAL, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/PORTO_NACIONAL/)
 </script>
+<script type="text/javascript">

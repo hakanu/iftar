@@ -8,10 +8,11 @@ permalink: /BENIN/ABOMEY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ABOMEY, BENIN) için iftar ve namaz vakitleri](/BENIN/ABOMEY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BENIN';
+
   var GLOBAL_CITY = 'ABOMEY';
+  var GLOBAL_COUNTRY = 'BENIN';
   var GLOBAL_STATE = 'ABOMEY';
+* [ (ABOMEY, BENIN) için iftar ve namaz vakitleri](/BENIN/ABOMEY/)
 </script>
+<script type="text/javascript">

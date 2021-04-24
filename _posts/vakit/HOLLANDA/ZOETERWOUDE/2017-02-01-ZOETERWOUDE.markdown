@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ZOETERWOUDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZOETERWOUDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZOETERWOUDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ZOETERWOUDE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ZOETERWOUDE';
+* [ (ZOETERWOUDE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ZOETERWOUDE/)
 </script>
+<script type="text/javascript">

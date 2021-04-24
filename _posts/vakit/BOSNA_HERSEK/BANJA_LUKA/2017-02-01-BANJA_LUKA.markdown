@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/BANJA LUKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANJA_LUKA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BANJA_LUKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'BANJA LUKA';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'BANJA LUKA';
+* [ (BANJA_LUKA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/BANJA_LUKA/)
 </script>
+<script type="text/javascript">

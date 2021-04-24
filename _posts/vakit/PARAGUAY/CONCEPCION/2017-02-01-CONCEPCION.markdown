@@ -8,10 +8,11 @@ permalink: /PARAGUAY/CONCEPCION
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CONCEPCION, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/CONCEPCION/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PARAGUAY';
+
   var GLOBAL_CITY = 'CONCEPCION';
+  var GLOBAL_COUNTRY = 'PARAGUAY';
   var GLOBAL_STATE = 'CONCEPCION';
+* [ (CONCEPCION, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/CONCEPCION/)
 </script>
+<script type="text/javascript">

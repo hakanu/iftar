@@ -8,10 +8,11 @@ permalink: /CIN/FANGXIAN ( HUBE )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FANGXIAN_(_HUBE_), CIN) için iftar ve namaz vakitleri](/CIN/FANGXIAN_(_HUBE_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FANGXIAN ( HUBE )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FANGXIAN ( HUBE )';
+* [ (FANGXIAN_(_HUBE_), CIN) için iftar ve namaz vakitleri](/CIN/FANGXIAN_(_HUBE_)/)
 </script>
+<script type="text/javascript">

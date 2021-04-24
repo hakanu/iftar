@@ -8,10 +8,11 @@ permalink: /PAKISTAN/WAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WAH, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/WAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'WAH';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'WAH';
+* [ (WAH, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/WAH/)
 </script>
+<script type="text/javascript">

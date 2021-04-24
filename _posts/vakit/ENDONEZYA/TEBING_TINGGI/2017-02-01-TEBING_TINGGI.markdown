@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/TEBING TINGGI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEBING_TINGGI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/TEBING_TINGGI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'TEBING TINGGI';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'TEBING TINGGI';
+* [ (TEBING_TINGGI, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/TEBING_TINGGI/)
 </script>
+<script type="text/javascript">

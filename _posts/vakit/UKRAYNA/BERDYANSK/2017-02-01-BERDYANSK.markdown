@@ -8,10 +8,11 @@ permalink: /UKRAYNA/BERDYANSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERDYANSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BERDYANSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'BERDYANSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'BERDYANSK';
+* [ (BERDYANSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/BERDYANSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ANGOLA/LUANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUANDA, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/LUANDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ANGOLA';
+
   var GLOBAL_CITY = 'LUANDA';
+  var GLOBAL_COUNTRY = 'ANGOLA';
   var GLOBAL_STATE = 'LUANDA';
+* [ (LUANDA, ANGOLA) için iftar ve namaz vakitleri](/ANGOLA/LUANDA/)
 </script>
+<script type="text/javascript">

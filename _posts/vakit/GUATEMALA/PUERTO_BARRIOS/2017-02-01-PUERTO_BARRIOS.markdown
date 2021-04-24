@@ -8,10 +8,11 @@ permalink: /GUATEMALA/PUERTO BARRIOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_BARRIOS, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/PUERTO_BARRIOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUATEMALA';
+
   var GLOBAL_CITY = 'PUERTO BARRIOS';
+  var GLOBAL_COUNTRY = 'GUATEMALA';
   var GLOBAL_STATE = 'PUERTO BARRIOS';
+* [ (PUERTO_BARRIOS, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/PUERTO_BARRIOS/)
 </script>
+<script type="text/javascript">

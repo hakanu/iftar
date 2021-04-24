@@ -8,10 +8,11 @@ permalink: /BREZILYA/CATALAO (Goias)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CATALAO_(Goias), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CATALAO_(Goias)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'CATALAO (Goias)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'CATALAO (Goias)';
+* [ (CATALAO_(Goias), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/CATALAO_(Goias)/)
 </script>
+<script type="text/javascript">

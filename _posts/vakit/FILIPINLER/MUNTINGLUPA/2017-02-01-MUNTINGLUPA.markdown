@@ -8,10 +8,11 @@ permalink: /FILIPINLER/MUNTINGLUPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUNTINGLUPA, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/MUNTINGLUPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'MUNTINGLUPA';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'MUNTINGLUPA';
+* [ (MUNTINGLUPA, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/MUNTINGLUPA/)
 </script>
+<script type="text/javascript">

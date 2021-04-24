@@ -8,10 +8,11 @@ permalink: /IRAN/KHVOY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHVOY, IRAN) için iftar ve namaz vakitleri](/IRAN/KHVOY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'KHVOY';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'KHVOY';
+* [ (KHVOY, IRAN) için iftar ve namaz vakitleri](/IRAN/KHVOY/)
 </script>
+<script type="text/javascript">

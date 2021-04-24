@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/KOCANI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOCANI_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/KOCANI_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'KOCANI ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'KOCANI ';
+* [ (KOCANI_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/KOCANI_/)
 </script>
+<script type="text/javascript">

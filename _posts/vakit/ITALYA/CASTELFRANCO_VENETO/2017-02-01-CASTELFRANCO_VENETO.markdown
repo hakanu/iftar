@@ -8,10 +8,11 @@ permalink: /ITALYA/CASTELFRANCO VENETO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CASTELFRANCO_VENETO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CASTELFRANCO_VENETO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CASTELFRANCO VENETO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CASTELFRANCO VENETO';
+* [ (CASTELFRANCO_VENETO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CASTELFRANCO_VENETO/)
 </script>
+<script type="text/javascript">

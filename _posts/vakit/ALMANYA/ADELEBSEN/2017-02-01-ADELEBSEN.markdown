@@ -8,10 +8,11 @@ permalink: /ALMANYA/ADELEBSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ADELEBSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ADELEBSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ADELEBSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ADELEBSEN';
+* [ (ADELEBSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ADELEBSEN/)
 </script>
+<script type="text/javascript">

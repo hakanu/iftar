@@ -8,10 +8,11 @@ permalink: /ALMANYA/LENGERICH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LENGERICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LENGERICH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LENGERICH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LENGERICH';
+* [ (LENGERICH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LENGERICH/)
 </script>
+<script type="text/javascript">

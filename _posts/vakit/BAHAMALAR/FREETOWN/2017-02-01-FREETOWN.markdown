@@ -8,10 +8,11 @@ permalink: /BAHAMALAR/FREETOWN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREETOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/FREETOWN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BAHAMALAR';
+
   var GLOBAL_CITY = 'FREETOWN';
+  var GLOBAL_COUNTRY = 'BAHAMALAR';
   var GLOBAL_STATE = 'FREETOWN';
+* [ (FREETOWN, BAHAMALAR) için iftar ve namaz vakitleri](/BAHAMALAR/FREETOWN/)
 </script>
+<script type="text/javascript">

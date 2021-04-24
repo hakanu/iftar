@@ -8,10 +8,11 @@ permalink: /BELCIKA/DILBEEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DILBEEK, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/DILBEEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'DILBEEK';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'DILBEEK';
+* [ (DILBEEK, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/DILBEEK/)
 </script>
+<script type="text/javascript">

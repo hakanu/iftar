@@ -8,10 +8,11 @@ permalink: /NORVEC/ASGARDSTRAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASGARDSTRAND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ASGARDSTRAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'ASGARDSTRAND';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'ASGARDSTRAND';
+* [ (ASGARDSTRAND, NORVEC) için iftar ve namaz vakitleri](/NORVEC/ASGARDSTRAND/)
 </script>
+<script type="text/javascript">

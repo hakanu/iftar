@@ -8,10 +8,11 @@ permalink: /ENDONEZYA/BANDAR LAMPUNG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANDAR_LAMPUNG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BANDAR_LAMPUNG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ENDONEZYA';
+
   var GLOBAL_CITY = 'BANDAR LAMPUNG';
+  var GLOBAL_COUNTRY = 'ENDONEZYA';
   var GLOBAL_STATE = 'BANDAR LAMPUNG';
+* [ (BANDAR_LAMPUNG, ENDONEZYA) için iftar ve namaz vakitleri](/ENDONEZYA/BANDAR_LAMPUNG/)
 </script>
+<script type="text/javascript">

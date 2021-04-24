@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/GIZHDUVAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GIZHDUVAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GIZHDUVAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'GIZHDUVAN';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'GIZHDUVAN';
+* [ (GIZHDUVAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/GIZHDUVAN/)
 </script>
+<script type="text/javascript">

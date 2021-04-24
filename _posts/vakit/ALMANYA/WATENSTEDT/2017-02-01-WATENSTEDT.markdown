@@ -8,10 +8,11 @@ permalink: /ALMANYA/WATENSTEDT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WATENSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WATENSTEDT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WATENSTEDT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WATENSTEDT';
+* [ (WATENSTEDT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WATENSTEDT/)
 </script>
+<script type="text/javascript">

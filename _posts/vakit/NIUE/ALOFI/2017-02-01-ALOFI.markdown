@@ -8,10 +8,11 @@ permalink: /NIUE/ALOFI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALOFI, NIUE) için iftar ve namaz vakitleri](/NIUE/ALOFI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIUE';
+
   var GLOBAL_CITY = 'ALOFI';
+  var GLOBAL_COUNTRY = 'NIUE';
   var GLOBAL_STATE = 'ALOFI';
+* [ (ALOFI, NIUE) için iftar ve namaz vakitleri](/NIUE/ALOFI/)
 </script>
+<script type="text/javascript">

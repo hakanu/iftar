@@ -8,10 +8,11 @@ permalink: /MALEZYA/KOTA BAHARU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOTA_BAHARU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KOTA_BAHARU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KOTA BAHARU';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KOTA BAHARU';
+* [ (KOTA_BAHARU, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KOTA_BAHARU/)
 </script>
+<script type="text/javascript">

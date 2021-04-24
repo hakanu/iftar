@@ -8,10 +8,11 @@ permalink: /BELCIKA/ZWEVEGEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZWEVEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ZWEVEGEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'ZWEVEGEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'ZWEVEGEM';
+* [ (ZWEVEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/ZWEVEGEM/)
 </script>
+<script type="text/javascript">

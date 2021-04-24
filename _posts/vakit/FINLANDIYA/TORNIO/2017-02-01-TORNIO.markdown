@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/TORNIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TORNIO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/TORNIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'TORNIO';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'TORNIO';
+* [ (TORNIO, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/TORNIO/)
 </script>
+<script type="text/javascript">

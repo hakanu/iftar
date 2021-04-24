@@ -8,10 +8,11 @@ permalink: /ALMANYA/LEIPZIG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEIPZIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEIPZIG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LEIPZIG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LEIPZIG';
+* [ (LEIPZIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEIPZIG/)
 </script>
+<script type="text/javascript">

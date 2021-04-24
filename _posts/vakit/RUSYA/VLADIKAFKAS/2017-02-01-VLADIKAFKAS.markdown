@@ -8,10 +8,11 @@ permalink: /RUSYA/VLADIKAFKAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VLADIKAFKAS, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VLADIKAFKAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'VLADIKAFKAS';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'VLADIKAFKAS';
+* [ (VLADIKAFKAS, RUSYA) için iftar ve namaz vakitleri](/RUSYA/VLADIKAFKAS/)
 </script>
+<script type="text/javascript">

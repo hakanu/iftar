@@ -8,10 +8,11 @@ permalink: /CIN/FUZHOU (FUJIAN PRO_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUZHOU_(FUJIAN_PRO_), CIN) için iftar ve namaz vakitleri](/CIN/FUZHOU_(FUJIAN_PRO_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FUZHOU (FUJIAN PRO_)';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FUZHOU (FUJIAN PRO_)';
+* [ (FUZHOU_(FUJIAN_PRO_), CIN) için iftar ve namaz vakitleri](/CIN/FUZHOU_(FUJIAN_PRO_)/)
 </script>
+<script type="text/javascript">

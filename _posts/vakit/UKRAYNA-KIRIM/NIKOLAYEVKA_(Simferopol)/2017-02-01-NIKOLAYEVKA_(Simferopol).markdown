@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/NIKOLAYEVKA (Simferopol)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIKOLAYEVKA_(Simferopol), UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/NIKOLAYEVKA_(Simferopol)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'NIKOLAYEVKA (Simferopol)';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'NIKOLAYEVKA (Simferopol)';
+* [ (NIKOLAYEVKA_(Simferopol), UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/NIKOLAYEVKA_(Simferopol)/)
 </script>
+<script type="text/javascript">

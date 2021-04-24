@@ -8,10 +8,11 @@ permalink: /FRANSA/ALENCON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALENCON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALENCON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ALENCON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ALENCON';
+* [ (ALENCON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ALENCON/)
 </script>
+<script type="text/javascript">

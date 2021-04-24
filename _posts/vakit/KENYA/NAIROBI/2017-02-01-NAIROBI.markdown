@@ -8,10 +8,11 @@ permalink: /KENYA/NAIROBI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAIROBI, KENYA) için iftar ve namaz vakitleri](/KENYA/NAIROBI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KENYA';
+
   var GLOBAL_CITY = 'NAIROBI';
+  var GLOBAL_COUNTRY = 'KENYA';
   var GLOBAL_STATE = 'NAIROBI';
+* [ (NAIROBI, KENYA) için iftar ve namaz vakitleri](/KENYA/NAIROBI/)
 </script>
+<script type="text/javascript">

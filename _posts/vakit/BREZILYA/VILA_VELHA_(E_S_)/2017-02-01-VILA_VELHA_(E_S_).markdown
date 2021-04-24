@@ -8,10 +8,11 @@ permalink: /BREZILYA/VILA VELHA (E_S_)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VILA_VELHA_(E_S_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VILA_VELHA_(E_S_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'VILA VELHA (E_S_)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'VILA VELHA (E_S_)';
+* [ (VILA_VELHA_(E_S_), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VILA_VELHA_(E_S_)/)
 </script>
+<script type="text/javascript">

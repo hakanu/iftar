@@ -8,10 +8,11 @@ permalink: /LIBYA/AWBARI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AWBARI, LIBYA) için iftar ve namaz vakitleri](/LIBYA/AWBARI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LIBYA';
+
   var GLOBAL_CITY = 'AWBARI';
+  var GLOBAL_COUNTRY = 'LIBYA';
   var GLOBAL_STATE = 'AWBARI';
+* [ (AWBARI, LIBYA) için iftar ve namaz vakitleri](/LIBYA/AWBARI/)
 </script>
+<script type="text/javascript">

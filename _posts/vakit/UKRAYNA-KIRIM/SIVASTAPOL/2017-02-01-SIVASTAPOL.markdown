@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/SIVASTAPOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIVASTAPOL, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/SIVASTAPOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'SIVASTAPOL';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'SIVASTAPOL';
+* [ (SIVASTAPOL, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/SIVASTAPOL/)
 </script>
+<script type="text/javascript">

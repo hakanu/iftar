@@ -8,10 +8,11 @@ permalink: /SILI/OSORNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OSORNO, SILI) için iftar ve namaz vakitleri](/SILI/OSORNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SILI';
+
   var GLOBAL_CITY = 'OSORNO';
+  var GLOBAL_COUNTRY = 'SILI';
   var GLOBAL_STATE = 'OSORNO';
+* [ (OSORNO, SILI) için iftar ve namaz vakitleri](/SILI/OSORNO/)
 </script>
+<script type="text/javascript">

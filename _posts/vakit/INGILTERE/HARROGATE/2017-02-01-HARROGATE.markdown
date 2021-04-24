@@ -8,10 +8,11 @@ permalink: /INGILTERE/HARROGATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARROGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HARROGATE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'HARROGATE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'HARROGATE';
+* [ (HARROGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/HARROGATE/)
 </script>
+<script type="text/javascript">

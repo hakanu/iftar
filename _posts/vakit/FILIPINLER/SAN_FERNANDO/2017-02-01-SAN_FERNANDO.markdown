@@ -8,10 +8,11 @@ permalink: /FILIPINLER/SAN FERNANDO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_FERNANDO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_FERNANDO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'SAN FERNANDO';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'SAN FERNANDO';
+* [ (SAN_FERNANDO, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/SAN_FERNANDO/)
 </script>
+<script type="text/javascript">

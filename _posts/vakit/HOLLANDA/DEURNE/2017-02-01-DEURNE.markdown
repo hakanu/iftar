@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DEURNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DEURNE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEURNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DEURNE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DEURNE';
+* [ (DEURNE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DEURNE/)
 </script>
+<script type="text/javascript">

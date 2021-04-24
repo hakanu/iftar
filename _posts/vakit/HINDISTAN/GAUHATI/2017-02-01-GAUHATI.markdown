@@ -8,10 +8,11 @@ permalink: /HINDISTAN/GAUHATI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GAUHATI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GAUHATI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'GAUHATI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'GAUHATI';
+* [ (GAUHATI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/GAUHATI/)
 </script>
+<script type="text/javascript">

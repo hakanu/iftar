@@ -8,10 +8,11 @@ permalink: /BREZILYA/JUIZ DE FORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUIZ_DE_FORA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JUIZ_DE_FORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'JUIZ DE FORA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'JUIZ DE FORA';
+* [ (JUIZ_DE_FORA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/JUIZ_DE_FORA/)
 </script>
+<script type="text/javascript">

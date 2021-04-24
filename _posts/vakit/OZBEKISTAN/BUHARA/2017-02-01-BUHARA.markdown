@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/BUHARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUHARA, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/BUHARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'BUHARA';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'BUHARA';
+* [ (BUHARA, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/BUHARA/)
 </script>
+<script type="text/javascript">

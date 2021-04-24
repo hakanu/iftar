@@ -8,10 +8,11 @@ permalink: /MISIR/TANTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TANTA, MISIR) için iftar ve namaz vakitleri](/MISIR/TANTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'TANTA';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'TANTA';
+* [ (TANTA, MISIR) için iftar ve namaz vakitleri](/MISIR/TANTA/)
 </script>
+<script type="text/javascript">

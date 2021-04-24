@@ -8,10 +8,11 @@ permalink: /UKRAYNA-KIRIM/SUDAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUDAK, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/SUDAK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
+
   var GLOBAL_CITY = 'SUDAK';
+  var GLOBAL_COUNTRY = 'UKRAYNA-KIRIM';
   var GLOBAL_STATE = 'SUDAK';
+* [ (SUDAK, UKRAYNA-KIRIM) için iftar ve namaz vakitleri](/UKRAYNA-KIRIM/SUDAK/)
 </script>
+<script type="text/javascript">

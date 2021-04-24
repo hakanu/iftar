@@ -8,10 +8,11 @@ permalink: /FRANSA/TOULON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOULON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOULON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TOULON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TOULON';
+* [ (TOULON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOULON/)
 </script>
+<script type="text/javascript">

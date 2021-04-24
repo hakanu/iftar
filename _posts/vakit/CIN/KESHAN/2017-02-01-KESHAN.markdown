@@ -8,10 +8,11 @@ permalink: /CIN/KESHAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KESHAN, CIN) için iftar ve namaz vakitleri](/CIN/KESHAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'KESHAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'KESHAN';
+* [ (KESHAN, CIN) için iftar ve namaz vakitleri](/CIN/KESHAN/)
 </script>
+<script type="text/javascript">

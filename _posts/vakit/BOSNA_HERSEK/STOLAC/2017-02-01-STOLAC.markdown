@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/STOLAC
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STOLAC, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/STOLAC/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'STOLAC';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'STOLAC';
+* [ (STOLAC, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/STOLAC/)
 </script>
+<script type="text/javascript">

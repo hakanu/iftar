@@ -8,10 +8,11 @@ permalink: /MEKSIKA/SALAMANCA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALAMANCA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SALAMANCA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'SALAMANCA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'SALAMANCA';
+* [ (SALAMANCA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SALAMANCA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/MIKKELI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIKKELI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/MIKKELI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'MIKKELI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'MIKKELI';
+* [ (MIKKELI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/MIKKELI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISVEC/BJORKNAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BJORKNAS, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BJORKNAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'BJORKNAS';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'BJORKNAS';
+* [ (BJORKNAS, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BJORKNAS/)
 </script>
+<script type="text/javascript">

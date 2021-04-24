@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SCHIEDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHIEDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SCHIEDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SCHIEDAM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SCHIEDAM';
+* [ (SCHIEDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SCHIEDAM/)
 </script>
+<script type="text/javascript">

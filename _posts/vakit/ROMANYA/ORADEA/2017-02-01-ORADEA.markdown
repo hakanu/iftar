@@ -8,10 +8,11 @@ permalink: /ROMANYA/ORADEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ORADEA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/ORADEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'ORADEA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'ORADEA';
+* [ (ORADEA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/ORADEA/)
 </script>
+<script type="text/javascript">

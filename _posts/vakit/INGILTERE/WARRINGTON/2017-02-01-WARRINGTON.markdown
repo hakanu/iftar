@@ -8,10 +8,11 @@ permalink: /INGILTERE/WARRINGTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARRINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WARRINGTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WARRINGTON';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WARRINGTON';
+* [ (WARRINGTON, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WARRINGTON/)
 </script>
+<script type="text/javascript">

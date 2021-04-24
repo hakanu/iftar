@@ -8,10 +8,11 @@ permalink: /PAKISTAN/PESHAWER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PESHAWER, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/PESHAWER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'PESHAWER';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'PESHAWER';
+* [ (PESHAWER, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/PESHAWER/)
 </script>
+<script type="text/javascript">

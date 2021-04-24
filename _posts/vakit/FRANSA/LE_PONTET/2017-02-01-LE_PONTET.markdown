@@ -8,10 +8,11 @@ permalink: /FRANSA/LE PONTET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LE_PONTET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PONTET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LE PONTET';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LE PONTET';
+* [ (LE_PONTET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LE_PONTET/)
 </script>
+<script type="text/javascript">

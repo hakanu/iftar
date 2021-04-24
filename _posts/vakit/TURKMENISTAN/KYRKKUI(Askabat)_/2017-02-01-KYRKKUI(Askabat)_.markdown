@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/KYRKKUI(Askabat)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KYRKKUI(Askabat)_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KYRKKUI(Askabat)_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'KYRKKUI(Askabat) ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'KYRKKUI(Askabat) ';
+* [ (KYRKKUI(Askabat)_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/KYRKKUI(Askabat)_/)
 </script>
+<script type="text/javascript">

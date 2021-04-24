@@ -8,10 +8,11 @@ permalink: /ISVICRE/PRATTELN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PRATTELN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/PRATTELN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'PRATTELN';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'PRATTELN';
+* [ (PRATTELN, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/PRATTELN/)
 </script>
+<script type="text/javascript">

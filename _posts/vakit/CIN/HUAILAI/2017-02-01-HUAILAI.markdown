@@ -8,10 +8,11 @@ permalink: /CIN/HUAILAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUAILAI, CIN) için iftar ve namaz vakitleri](/CIN/HUAILAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HUAILAI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HUAILAI';
+* [ (HUAILAI, CIN) için iftar ve namaz vakitleri](/CIN/HUAILAI/)
 </script>
+<script type="text/javascript">

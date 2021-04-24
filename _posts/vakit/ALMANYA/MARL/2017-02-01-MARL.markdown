@@ -8,10 +8,11 @@ permalink: /ALMANYA/MARL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MARL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MARL';
+* [ (MARL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARL/)
 </script>
+<script type="text/javascript">

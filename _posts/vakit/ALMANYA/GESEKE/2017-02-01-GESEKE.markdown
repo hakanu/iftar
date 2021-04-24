@@ -8,10 +8,11 @@ permalink: /ALMANYA/GESEKE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GESEKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GESEKE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GESEKE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GESEKE';
+* [ (GESEKE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GESEKE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HINDISTAN/AGRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AGRA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AGRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'AGRA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'AGRA';
+* [ (AGRA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/AGRA/)
 </script>
+<script type="text/javascript">

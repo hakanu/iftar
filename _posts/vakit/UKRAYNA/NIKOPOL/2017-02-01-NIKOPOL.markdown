@@ -8,10 +8,11 @@ permalink: /UKRAYNA/NIKOPOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NIKOPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/NIKOPOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'NIKOPOL';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'NIKOPOL';
+* [ (NIKOPOL, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/NIKOPOL/)
 </script>
+<script type="text/javascript">

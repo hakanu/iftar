@@ -8,10 +8,11 @@ permalink: /ALMANYA/WALDENBUCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALDENBUCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALDENBUCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WALDENBUCH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WALDENBUCH';
+* [ (WALDENBUCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WALDENBUCH/)
 </script>
+<script type="text/javascript">

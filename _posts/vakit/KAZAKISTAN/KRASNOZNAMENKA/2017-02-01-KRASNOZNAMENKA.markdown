@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KRASNOZNAMENKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRASNOZNAMENKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KRASNOZNAMENKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KRASNOZNAMENKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KRASNOZNAMENKA';
+* [ (KRASNOZNAMENKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KRASNOZNAMENKA/)
 </script>
+<script type="text/javascript">

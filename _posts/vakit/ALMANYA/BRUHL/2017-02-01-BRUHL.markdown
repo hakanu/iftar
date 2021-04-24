@@ -8,10 +8,11 @@ permalink: /ALMANYA/BRUHL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRUHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUHL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BRUHL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BRUHL';
+* [ (BRUHL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BRUHL/)
 </script>
+<script type="text/javascript">

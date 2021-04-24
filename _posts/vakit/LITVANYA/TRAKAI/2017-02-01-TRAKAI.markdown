@@ -8,10 +8,11 @@ permalink: /LITVANYA/TRAKAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRAKAI, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/TRAKAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LITVANYA';
+
   var GLOBAL_CITY = 'TRAKAI';
+  var GLOBAL_COUNTRY = 'LITVANYA';
   var GLOBAL_STATE = 'TRAKAI';
+* [ (TRAKAI, LITVANYA) için iftar ve namaz vakitleri](/LITVANYA/TRAKAI/)
 </script>
+<script type="text/javascript">

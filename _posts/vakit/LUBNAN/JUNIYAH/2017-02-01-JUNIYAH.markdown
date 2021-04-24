@@ -8,10 +8,11 @@ permalink: /LUBNAN/JUNIYAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JUNIYAH, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/JUNIYAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUBNAN';
+
   var GLOBAL_CITY = 'JUNIYAH';
+  var GLOBAL_COUNTRY = 'LUBNAN';
   var GLOBAL_STATE = 'JUNIYAH';
+* [ (JUNIYAH, LUBNAN) için iftar ve namaz vakitleri](/LUBNAN/JUNIYAH/)
 </script>
+<script type="text/javascript">

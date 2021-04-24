@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KOSTANTINOVKA (Donetsk)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOSTANTINOVKA_(Donetsk), UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KOSTANTINOVKA_(Donetsk)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KOSTANTINOVKA (Donetsk)';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KOSTANTINOVKA (Donetsk)';
+* [ (KOSTANTINOVKA_(Donetsk), UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KOSTANTINOVKA_(Donetsk)/)
 </script>
+<script type="text/javascript">

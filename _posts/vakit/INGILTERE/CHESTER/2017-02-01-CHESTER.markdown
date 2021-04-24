@@ -8,10 +8,11 @@ permalink: /INGILTERE/CHESTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHESTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CHESTER';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CHESTER';
+* [ (CHESTER, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHESTER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/GERALDTON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GERALDTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GERALDTON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'GERALDTON';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'GERALDTON';
+* [ (GERALDTON, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/GERALDTON/)
 </script>
+<script type="text/javascript">

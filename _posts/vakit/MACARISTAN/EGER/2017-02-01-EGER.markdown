@@ -8,10 +8,11 @@ permalink: /MACARISTAN/EGER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EGER, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/EGER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'EGER';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'EGER';
+* [ (EGER, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/EGER/)
 </script>
+<script type="text/javascript">

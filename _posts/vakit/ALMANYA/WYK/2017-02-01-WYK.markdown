@@ -8,10 +8,11 @@ permalink: /ALMANYA/WYK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WYK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WYK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WYK';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WYK';
+* [ (WYK, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WYK/)
 </script>
+<script type="text/javascript">

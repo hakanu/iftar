@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/MOSTAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOSTAR, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MOSTAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'MOSTAR';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'MOSTAR';
+* [ (MOSTAR, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MOSTAR/)
 </script>
+<script type="text/javascript">

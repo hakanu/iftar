@@ -8,10 +8,11 @@ permalink: /ALMANYA/HERZOGENAURACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERZOGENAURACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERZOGENAURACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HERZOGENAURACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HERZOGENAURACH';
+* [ (HERZOGENAURACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HERZOGENAURACH/)
 </script>
+<script type="text/javascript">

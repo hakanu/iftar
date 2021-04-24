@@ -8,10 +8,11 @@ permalink: /ISVICRE/GOSSAU (SG)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GOSSAU_(SG), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/GOSSAU_(SG)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'GOSSAU (SG)';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'GOSSAU (SG)';
+* [ (GOSSAU_(SG), ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/GOSSAU_(SG)/)
 </script>
+<script type="text/javascript">

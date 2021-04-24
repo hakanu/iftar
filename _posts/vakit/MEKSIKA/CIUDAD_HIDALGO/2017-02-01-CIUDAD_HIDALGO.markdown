@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CIUDAD HIDALGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_HIDALGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_HIDALGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CIUDAD HIDALGO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CIUDAD HIDALGO';
+* [ (CIUDAD_HIDALGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CIUDAD_HIDALGO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/TULANCINGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TULANCINGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TULANCINGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'TULANCINGO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'TULANCINGO';
+* [ (TULANCINGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/TULANCINGO/)
 </script>
+<script type="text/javascript">

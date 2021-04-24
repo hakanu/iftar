@@ -8,10 +8,11 @@ permalink: /VENEZUELA/BARINAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARINAS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARINAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'BARINAS';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'BARINAS';
+* [ (BARINAS, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/BARINAS/)
 </script>
+<script type="text/javascript">

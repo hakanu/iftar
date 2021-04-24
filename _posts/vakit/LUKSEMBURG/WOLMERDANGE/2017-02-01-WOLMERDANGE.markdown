@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/WOLMERDANGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WOLMERDANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/WOLMERDANGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'WOLMERDANGE';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'WOLMERDANGE';
+* [ (WOLMERDANGE, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/WOLMERDANGE/)
 </script>
+<script type="text/javascript">

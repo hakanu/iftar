@@ -8,10 +8,11 @@ permalink: /ISVICRE/WEINFELDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEINFELDEN_, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WEINFELDEN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'WEINFELDEN ';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'WEINFELDEN ';
+* [ (WEINFELDEN_, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/WEINFELDEN_/)
 </script>
+<script type="text/javascript">

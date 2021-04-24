@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/BOGOTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOGOTA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BOGOTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'BOGOTA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'BOGOTA';
+* [ (BOGOTA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BOGOTA/)
 </script>
+<script type="text/javascript">

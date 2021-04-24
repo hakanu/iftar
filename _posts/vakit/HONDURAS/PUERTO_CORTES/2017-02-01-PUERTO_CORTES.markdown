@@ -8,10 +8,11 @@ permalink: /HONDURAS/PUERTO CORTES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUERTO_CORTES, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/PUERTO_CORTES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'PUERTO CORTES';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'PUERTO CORTES';
+* [ (PUERTO_CORTES, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/PUERTO_CORTES/)
 </script>
+<script type="text/javascript">

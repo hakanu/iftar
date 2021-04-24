@@ -8,10 +8,11 @@ permalink: /NORVEC/TRONDHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRONDHEIM, NORVEC) için iftar ve namaz vakitleri](/NORVEC/TRONDHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'TRONDHEIM';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'TRONDHEIM';
+* [ (TRONDHEIM, NORVEC) için iftar ve namaz vakitleri](/NORVEC/TRONDHEIM/)
 </script>
+<script type="text/javascript">

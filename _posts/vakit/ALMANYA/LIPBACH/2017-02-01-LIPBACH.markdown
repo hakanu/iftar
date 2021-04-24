@@ -8,10 +8,11 @@ permalink: /ALMANYA/LIPBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIPBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIPBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LIPBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LIPBACH';
+* [ (LIPBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIPBACH/)
 </script>
+<script type="text/javascript">

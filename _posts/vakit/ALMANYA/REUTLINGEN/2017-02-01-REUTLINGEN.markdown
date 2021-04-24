@@ -8,10 +8,11 @@ permalink: /ALMANYA/REUTLINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REUTLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REUTLINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'REUTLINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'REUTLINGEN';
+* [ (REUTLINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REUTLINGEN/)
 </script>
+<script type="text/javascript">

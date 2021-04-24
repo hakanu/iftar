@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HARDERWIJK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARDERWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HARDERWIJK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HARDERWIJK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HARDERWIJK';
+* [ (HARDERWIJK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HARDERWIJK/)
 </script>
+<script type="text/javascript">

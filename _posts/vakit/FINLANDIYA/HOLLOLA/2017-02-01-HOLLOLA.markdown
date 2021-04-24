@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/HOLLOLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HOLLOLA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HOLLOLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'HOLLOLA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'HOLLOLA';
+* [ (HOLLOLA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HOLLOLA/)
 </script>
+<script type="text/javascript">

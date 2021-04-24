@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BRAUNAU AM INN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRAUNAU_AM_INN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BRAUNAU_AM_INN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BRAUNAU AM INN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BRAUNAU AM INN';
+* [ (BRAUNAU_AM_INN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BRAUNAU_AM_INN/)
 </script>
+<script type="text/javascript">

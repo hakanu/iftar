@@ -8,10 +8,11 @@ permalink: /MALEZYA/KOTA TINGGI MERSING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOTA_TINGGI_MERSING, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KOTA_TINGGI_MERSING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KOTA TINGGI MERSING';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KOTA TINGGI MERSING';
+* [ (KOTA_TINGGI_MERSING, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KOTA_TINGGI_MERSING/)
 </script>
+<script type="text/javascript">

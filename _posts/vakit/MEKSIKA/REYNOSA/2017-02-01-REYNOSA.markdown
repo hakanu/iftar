@@ -8,10 +8,11 @@ permalink: /MEKSIKA/REYNOSA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REYNOSA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/REYNOSA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'REYNOSA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'REYNOSA';
+* [ (REYNOSA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/REYNOSA/)
 </script>
+<script type="text/javascript">

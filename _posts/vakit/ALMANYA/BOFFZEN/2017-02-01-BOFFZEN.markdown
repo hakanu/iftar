@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOFFZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOFFZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOFFZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOFFZEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOFFZEN';
+* [ (BOFFZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOFFZEN/)
 </script>
+<script type="text/javascript">

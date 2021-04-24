@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/BURGAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BURGAS, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BURGAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'BURGAS';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'BURGAS';
+* [ (BURGAS, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/BURGAS/)
 </script>
+<script type="text/javascript">

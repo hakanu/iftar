@@ -8,10 +8,11 @@ permalink: /ISVICRE/DELEMONT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DELEMONT, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/DELEMONT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'DELEMONT';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'DELEMONT';
+* [ (DELEMONT, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/DELEMONT/)
 </script>
+<script type="text/javascript">

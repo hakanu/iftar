@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/STRUMICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (STRUMICA_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/STRUMICA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'STRUMICA ';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'STRUMICA ';
+* [ (STRUMICA_, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/STRUMICA_/)
 </script>
+<script type="text/javascript">

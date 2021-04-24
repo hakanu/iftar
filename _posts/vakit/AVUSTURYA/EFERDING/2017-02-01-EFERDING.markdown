@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/EFERDING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EFERDING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/EFERDING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'EFERDING';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'EFERDING';
+* [ (EFERDING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/EFERDING/)
 </script>
+<script type="text/javascript">

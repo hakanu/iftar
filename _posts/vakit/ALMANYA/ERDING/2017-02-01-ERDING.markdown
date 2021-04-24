@@ -8,10 +8,11 @@ permalink: /ALMANYA/ERDING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ERDING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERDING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ERDING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ERDING';
+* [ (ERDING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ERDING/)
 </script>
+<script type="text/javascript">

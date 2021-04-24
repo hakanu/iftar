@@ -8,10 +8,11 @@ permalink: /HINDISTAN/KORBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORBA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KORBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'KORBA';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'KORBA';
+* [ (KORBA, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/KORBA/)
 </script>
+<script type="text/javascript">

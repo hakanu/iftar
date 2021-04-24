@@ -8,10 +8,11 @@ permalink: /RUSYA/BUYNAKSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUYNAKSK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BUYNAKSK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BUYNAKSK ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BUYNAKSK ';
+* [ (BUYNAKSK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BUYNAKSK_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/MALENTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MALENTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MALENTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MALENTE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MALENTE';
+* [ (MALENTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MALENTE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/ROSPORDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSPORDEN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROSPORDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ROSPORDEN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ROSPORDEN';
+* [ (ROSPORDEN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ROSPORDEN/)
 </script>
+<script type="text/javascript">

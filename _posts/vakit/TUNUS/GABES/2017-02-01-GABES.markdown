@@ -8,10 +8,11 @@ permalink: /TUNUS/GABES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GABES, TUNUS) için iftar ve namaz vakitleri](/TUNUS/GABES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TUNUS';
+
   var GLOBAL_CITY = 'GABES';
+  var GLOBAL_COUNTRY = 'TUNUS';
   var GLOBAL_STATE = 'GABES';
+* [ (GABES, TUNUS) için iftar ve namaz vakitleri](/TUNUS/GABES/)
 </script>
+<script type="text/javascript">

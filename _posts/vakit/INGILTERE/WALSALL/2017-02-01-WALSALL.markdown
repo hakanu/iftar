@@ -8,10 +8,11 @@ permalink: /INGILTERE/WALSALL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WALSALL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WALSALL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'WALSALL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'WALSALL';
+* [ (WALSALL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/WALSALL/)
 </script>
+<script type="text/javascript">

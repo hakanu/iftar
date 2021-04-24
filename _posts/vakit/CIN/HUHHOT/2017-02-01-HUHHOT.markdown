@@ -8,10 +8,11 @@ permalink: /CIN/HUHHOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUHHOT, CIN) için iftar ve namaz vakitleri](/CIN/HUHHOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'HUHHOT';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'HUHHOT';
+* [ (HUHHOT, CIN) için iftar ve namaz vakitleri](/CIN/HUHHOT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/DUNHUA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUNHUA, CIN) için iftar ve namaz vakitleri](/CIN/DUNHUA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DUNHUA';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DUNHUA';
+* [ (DUNHUA, CIN) için iftar ve namaz vakitleri](/CIN/DUNHUA/)
 </script>
+<script type="text/javascript">

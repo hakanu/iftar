@@ -8,10 +8,11 @@ permalink: /ALMANYA/RULZHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RULZHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RULZHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RULZHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RULZHEIM';
+* [ (RULZHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RULZHEIM/)
 </script>
+<script type="text/javascript">

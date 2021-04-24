@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/KHOILIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KHOILIK, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/KHOILIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'KHOILIK';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'KHOILIK';
+* [ (KHOILIK, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/KHOILIK/)
 </script>
+<script type="text/javascript">

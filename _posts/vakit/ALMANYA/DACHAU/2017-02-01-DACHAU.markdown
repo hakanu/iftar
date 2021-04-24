@@ -8,10 +8,11 @@ permalink: /ALMANYA/DACHAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DACHAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DACHAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DACHAU';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DACHAU';
+* [ (DACHAU, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DACHAU/)
 </script>
+<script type="text/javascript">

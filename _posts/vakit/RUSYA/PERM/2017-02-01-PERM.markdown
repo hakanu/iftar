@@ -8,10 +8,11 @@ permalink: /RUSYA/PERM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PERM, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PERM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PERM';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PERM';
+* [ (PERM, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PERM/)
 </script>
+<script type="text/javascript">

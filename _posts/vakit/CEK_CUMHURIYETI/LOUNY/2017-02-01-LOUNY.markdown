@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/LOUNY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOUNY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/LOUNY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'LOUNY';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'LOUNY';
+* [ (LOUNY, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/LOUNY/)
 </script>
+<script type="text/javascript">

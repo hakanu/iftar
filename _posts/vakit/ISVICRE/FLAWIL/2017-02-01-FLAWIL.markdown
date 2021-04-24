@@ -8,10 +8,11 @@ permalink: /ISVICRE/FLAWIL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLAWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FLAWIL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'FLAWIL';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'FLAWIL';
+* [ (FLAWIL, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FLAWIL/)
 </script>
+<script type="text/javascript">

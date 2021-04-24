@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/MINGACEVIR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MINGACEVIR, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/MINGACEVIR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'MINGACEVIR';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'MINGACEVIR';
+* [ (MINGACEVIR, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/MINGACEVIR/)
 </script>
+<script type="text/javascript">

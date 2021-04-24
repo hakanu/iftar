@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/VIYANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIYANA, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VIYANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'VIYANA';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'VIYANA';
+* [ (VIYANA, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/VIYANA/)
 </script>
+<script type="text/javascript">

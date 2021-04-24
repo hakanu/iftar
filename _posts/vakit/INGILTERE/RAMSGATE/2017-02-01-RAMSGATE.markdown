@@ -8,10 +8,11 @@ permalink: /INGILTERE/RAMSGATE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAMSGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/RAMSGATE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'RAMSGATE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'RAMSGATE';
+* [ (RAMSGATE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/RAMSGATE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BONN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BONN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BONN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BONN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BONN';
+* [ (BONN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BONN/)
 </script>
+<script type="text/javascript">

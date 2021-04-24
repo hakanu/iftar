@@ -8,10 +8,11 @@ permalink: /FRANSA/POLIGNY (J)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (POLIGNY_(J), FRANSA) için iftar ve namaz vakitleri](/FRANSA/POLIGNY_(J)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'POLIGNY (J)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'POLIGNY (J)';
+* [ (POLIGNY_(J), FRANSA) için iftar ve namaz vakitleri](/FRANSA/POLIGNY_(J)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/BERAT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERAT, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/BERAT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'BERAT';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'BERAT';
+* [ (BERAT, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/BERAT/)
 </script>
+<script type="text/javascript">

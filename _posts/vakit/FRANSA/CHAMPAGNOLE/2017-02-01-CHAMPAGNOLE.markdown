@@ -8,10 +8,11 @@ permalink: /FRANSA/CHAMPAGNOLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHAMPAGNOLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHAMPAGNOLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CHAMPAGNOLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CHAMPAGNOLE';
+* [ (CHAMPAGNOLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CHAMPAGNOLE/)
 </script>
+<script type="text/javascript">

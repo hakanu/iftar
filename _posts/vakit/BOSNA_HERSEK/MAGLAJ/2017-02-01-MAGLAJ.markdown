@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/MAGLAJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAGLAJ, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MAGLAJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'MAGLAJ';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'MAGLAJ';
+* [ (MAGLAJ, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/MAGLAJ/)
 </script>
+<script type="text/javascript">

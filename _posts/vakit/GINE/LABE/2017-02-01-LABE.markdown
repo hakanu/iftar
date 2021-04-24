@@ -8,10 +8,11 @@ permalink: /GINE/LABE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LABE, GINE) için iftar ve namaz vakitleri](/GINE/LABE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GINE';
+
   var GLOBAL_CITY = 'LABE';
+  var GLOBAL_COUNTRY = 'GINE';
   var GLOBAL_STATE = 'LABE';
+* [ (LABE, GINE) için iftar ve namaz vakitleri](/GINE/LABE/)
 </script>
+<script type="text/javascript">

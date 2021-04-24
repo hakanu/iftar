@@ -8,10 +8,11 @@ permalink: /PERU/CUZCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CUZCO, PERU) için iftar ve namaz vakitleri](/PERU/CUZCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'CUZCO';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'CUZCO';
+* [ (CUZCO, PERU) için iftar ve namaz vakitleri](/PERU/CUZCO/)
 </script>
+<script type="text/javascript">

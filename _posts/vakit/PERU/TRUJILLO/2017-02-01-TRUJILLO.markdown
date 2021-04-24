@@ -8,10 +8,11 @@ permalink: /PERU/TRUJILLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TRUJILLO, PERU) için iftar ve namaz vakitleri](/PERU/TRUJILLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'TRUJILLO';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'TRUJILLO';
+* [ (TRUJILLO, PERU) için iftar ve namaz vakitleri](/PERU/TRUJILLO/)
 </script>
+<script type="text/javascript">

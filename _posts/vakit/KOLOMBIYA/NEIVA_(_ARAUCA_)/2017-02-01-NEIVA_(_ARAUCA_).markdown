@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/NEIVA ( ARAUCA )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEIVA_(_ARAUCA_), KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/NEIVA_(_ARAUCA_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'NEIVA ( ARAUCA )';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'NEIVA ( ARAUCA )';
+* [ (NEIVA_(_ARAUCA_), KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/NEIVA_(_ARAUCA_)/)
 </script>
+<script type="text/javascript">

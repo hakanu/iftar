@@ -8,10 +8,11 @@ permalink: /CIN/LIAN XIAN ( LIonzhu )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIAN_XIAN_(_LIonzhu_), CIN) için iftar ve namaz vakitleri](/CIN/LIAN_XIAN_(_LIonzhu_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LIAN XIAN ( LIonzhu )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LIAN XIAN ( LIonzhu )';
+* [ (LIAN_XIAN_(_LIonzhu_), CIN) için iftar ve namaz vakitleri](/CIN/LIAN_XIAN_(_LIonzhu_)/)
 </script>
+<script type="text/javascript">

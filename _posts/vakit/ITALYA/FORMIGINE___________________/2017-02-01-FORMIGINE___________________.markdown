@@ -8,10 +8,11 @@ permalink: /ITALYA/FORMIGINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FORMIGINE___________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FORMIGINE___________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FORMIGINE                   ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FORMIGINE                   ';
+* [ (FORMIGINE___________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FORMIGINE___________________/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ARJANTIN/SAN MIGUEL DE TUCUMAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_MIGUEL_DE_TUCUMAN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_MIGUEL_DE_TUCUMAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'SAN MIGUEL DE TUCUMAN';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'SAN MIGUEL DE TUCUMAN';
+* [ (SAN_MIGUEL_DE_TUCUMAN, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/SAN_MIGUEL_DE_TUCUMAN/)
 </script>
+<script type="text/javascript">

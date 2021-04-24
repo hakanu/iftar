@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWARZENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWARZENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWARZENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWARZENBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWARZENBACH';
+* [ (SCHWARZENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWARZENBACH/)
 </script>
+<script type="text/javascript">

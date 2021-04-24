@@ -8,10 +8,11 @@ permalink: /ALMANYA/DILLENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DILLENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DILLENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DILLENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DILLENBURG';
+* [ (DILLENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DILLENBURG/)
 </script>
+<script type="text/javascript">

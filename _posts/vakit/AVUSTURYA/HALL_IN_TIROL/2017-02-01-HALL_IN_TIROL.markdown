@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HALL IN TIROL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HALL_IN_TIROL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HALL_IN_TIROL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HALL IN TIROL';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HALL IN TIROL';
+* [ (HALL_IN_TIROL, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HALL_IN_TIROL/)
 </script>
+<script type="text/javascript">

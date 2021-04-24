@@ -8,10 +8,11 @@ permalink: /ETYOPYA/BAHIR DAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAHIR_DAR, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/BAHIR_DAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ETYOPYA';
+
   var GLOBAL_CITY = 'BAHIR DAR';
+  var GLOBAL_COUNTRY = 'ETYOPYA';
   var GLOBAL_STATE = 'BAHIR DAR';
+* [ (BAHIR_DAR, ETYOPYA) için iftar ve namaz vakitleri](/ETYOPYA/BAHIR_DAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/BERGEDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BERGEDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERGEDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BERGEDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BERGEDORF';
+* [ (BERGEDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BERGEDORF/)
 </script>
+<script type="text/javascript">

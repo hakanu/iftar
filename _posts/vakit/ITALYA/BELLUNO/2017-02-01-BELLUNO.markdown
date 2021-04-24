@@ -8,10 +8,11 @@ permalink: /ITALYA/BELLUNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BELLUNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BELLUNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'BELLUNO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'BELLUNO';
+* [ (BELLUNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/BELLUNO/)
 </script>
+<script type="text/javascript">

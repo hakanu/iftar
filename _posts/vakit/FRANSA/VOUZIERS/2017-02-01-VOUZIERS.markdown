@@ -8,10 +8,11 @@ permalink: /FRANSA/VOUZIERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOUZIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VOUZIERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VOUZIERS';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VOUZIERS';
+* [ (VOUZIERS, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VOUZIERS/)
 </script>
+<script type="text/javascript">

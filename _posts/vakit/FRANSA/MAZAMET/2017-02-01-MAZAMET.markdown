@@ -8,10 +8,11 @@ permalink: /FRANSA/MAZAMET
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAZAMET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAZAMET/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MAZAMET';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MAZAMET';
+* [ (MAZAMET, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MAZAMET/)
 </script>
+<script type="text/javascript">

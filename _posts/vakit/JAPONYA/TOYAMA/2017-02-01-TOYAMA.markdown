@@ -8,10 +8,11 @@ permalink: /JAPONYA/TOYAMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOYAMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'TOYAMA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'TOYAMA';
+* [ (TOYAMA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/TOYAMA/)
 </script>
+<script type="text/javascript">

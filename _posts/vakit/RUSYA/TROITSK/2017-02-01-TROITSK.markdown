@@ -8,10 +8,11 @@ permalink: /RUSYA/TROITSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TROITSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TROITSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'TROITSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'TROITSK';
+* [ (TROITSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/TROITSK/)
 </script>
+<script type="text/javascript">

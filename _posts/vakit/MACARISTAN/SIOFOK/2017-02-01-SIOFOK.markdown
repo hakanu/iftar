@@ -8,10 +8,11 @@ permalink: /MACARISTAN/SIOFOK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SIOFOK, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SIOFOK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'SIOFOK';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'SIOFOK';
+* [ (SIOFOK, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/SIOFOK/)
 </script>
+<script type="text/javascript">

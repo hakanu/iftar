@@ -8,10 +8,11 @@ permalink: /MAKEDONYA/USKUP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (USKUP, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/USKUP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MAKEDONYA';
+
   var GLOBAL_CITY = 'USKUP';
+  var GLOBAL_COUNTRY = 'MAKEDONYA';
   var GLOBAL_STATE = 'USKUP';
+* [ (USKUP, MAKEDONYA) için iftar ve namaz vakitleri](/MAKEDONYA/USKUP/)
 </script>
+<script type="text/javascript">

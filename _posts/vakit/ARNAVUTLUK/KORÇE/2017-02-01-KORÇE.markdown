@@ -8,10 +8,11 @@ permalink: /ARNAVUTLUK/KORÇE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORÇE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/KORÇE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
+
   var GLOBAL_CITY = 'KORÇE';
+  var GLOBAL_COUNTRY = 'ARNAVUTLUK';
   var GLOBAL_STATE = 'KORÇE';
+* [ (KORÇE, ARNAVUTLUK) için iftar ve namaz vakitleri](/ARNAVUTLUK/KORÇE/)
 </script>
+<script type="text/javascript">

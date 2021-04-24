@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/SHORTANDY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHORTANDY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SHORTANDY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'SHORTANDY';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'SHORTANDY';
+* [ (SHORTANDY, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/SHORTANDY/)
 </script>
+<script type="text/javascript">

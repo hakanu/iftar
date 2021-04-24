@@ -8,10 +8,11 @@ permalink: /INGILTERE/DERBY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DERBY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DERBY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'DERBY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'DERBY';
+* [ (DERBY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/DERBY/)
 </script>
+<script type="text/javascript">

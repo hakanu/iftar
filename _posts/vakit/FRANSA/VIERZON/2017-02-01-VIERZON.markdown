@@ -8,10 +8,11 @@ permalink: /FRANSA/VIERZON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIERZON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIERZON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VIERZON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VIERZON';
+* [ (VIERZON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIERZON/)
 </script>
+<script type="text/javascript">

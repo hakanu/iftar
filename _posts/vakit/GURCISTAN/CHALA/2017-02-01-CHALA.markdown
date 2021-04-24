@@ -8,10 +8,11 @@ permalink: /GURCISTAN/CHALA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHALA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/CHALA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GURCISTAN';
+
   var GLOBAL_CITY = 'CHALA';
+  var GLOBAL_COUNTRY = 'GURCISTAN';
   var GLOBAL_STATE = 'CHALA';
+* [ (CHALA, GURCISTAN) için iftar ve namaz vakitleri](/GURCISTAN/CHALA/)
 </script>
+<script type="text/javascript">

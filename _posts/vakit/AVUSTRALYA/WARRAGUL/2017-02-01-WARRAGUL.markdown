@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WARRAGUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARRAGUL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WARRAGUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WARRAGUL';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WARRAGUL';
+* [ (WARRAGUL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WARRAGUL/)
 </script>
+<script type="text/javascript">

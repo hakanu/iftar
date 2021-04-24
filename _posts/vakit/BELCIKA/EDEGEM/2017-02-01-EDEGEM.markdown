@@ -8,10 +8,11 @@ permalink: /BELCIKA/EDEGEM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EDEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/EDEGEM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'EDEGEM';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'EDEGEM';
+* [ (EDEGEM, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/EDEGEM/)
 </script>
+<script type="text/javascript">

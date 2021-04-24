@@ -8,10 +8,11 @@ permalink: /SLOVAKYA/SKALICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SKALICA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/SKALICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'SLOVAKYA';
+
   var GLOBAL_CITY = 'SKALICA';
+  var GLOBAL_COUNTRY = 'SLOVAKYA';
   var GLOBAL_STATE = 'SKALICA';
+* [ (SKALICA, SLOVAKYA) için iftar ve namaz vakitleri](/SLOVAKYA/SKALICA/)
 </script>
+<script type="text/javascript">

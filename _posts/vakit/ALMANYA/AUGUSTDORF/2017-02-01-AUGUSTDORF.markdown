@@ -8,10 +8,11 @@ permalink: /ALMANYA/AUGUSTDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AUGUSTDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AUGUSTDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AUGUSTDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AUGUSTDORF';
+* [ (AUGUSTDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AUGUSTDORF/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/RHEINE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RHEINE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RHEINE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RHEINE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RHEINE';
+* [ (RHEINE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RHEINE/)
 </script>
+<script type="text/javascript">

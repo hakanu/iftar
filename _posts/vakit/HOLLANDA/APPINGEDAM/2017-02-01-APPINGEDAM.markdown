@@ -8,10 +8,11 @@ permalink: /HOLLANDA/APPINGEDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APPINGEDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/APPINGEDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'APPINGEDAM';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'APPINGEDAM';
+* [ (APPINGEDAM, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/APPINGEDAM/)
 </script>
+<script type="text/javascript">

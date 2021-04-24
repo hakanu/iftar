@@ -8,10 +8,11 @@ permalink: /BELCIKA/RUISELEDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RUISELEDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/RUISELEDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'RUISELEDE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'RUISELEDE';
+* [ (RUISELEDE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/RUISELEDE/)
 </script>
+<script type="text/javascript">

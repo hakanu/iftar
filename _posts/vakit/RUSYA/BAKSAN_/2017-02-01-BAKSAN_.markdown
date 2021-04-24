@@ -8,10 +8,11 @@ permalink: /RUSYA/BAKSAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAKSAN_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BAKSAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'BAKSAN ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'BAKSAN ';
+* [ (BAKSAN_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/BAKSAN_/)
 </script>
+<script type="text/javascript">

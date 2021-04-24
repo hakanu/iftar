@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KARATAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KARATAU_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARATAU_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KARATAU ';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KARATAU ';
+* [ (KARATAU_, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KARATAU_/)
 </script>
+<script type="text/javascript">

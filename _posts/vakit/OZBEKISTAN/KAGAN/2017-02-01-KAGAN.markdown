@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/KAGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KAGAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KAGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'KAGAN';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'KAGAN';
+* [ (KAGAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/KAGAN/)
 </script>
+<script type="text/javascript">

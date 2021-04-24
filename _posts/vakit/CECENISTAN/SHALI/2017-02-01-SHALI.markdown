@@ -8,10 +8,11 @@ permalink: /CECENISTAN/SHALI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHALI, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/SHALI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CECENISTAN';
+
   var GLOBAL_CITY = 'SHALI';
+  var GLOBAL_COUNTRY = 'CECENISTAN';
   var GLOBAL_STATE = 'SHALI';
+* [ (SHALI, CECENISTAN) için iftar ve namaz vakitleri](/CECENISTAN/SHALI/)
 </script>
+<script type="text/javascript">

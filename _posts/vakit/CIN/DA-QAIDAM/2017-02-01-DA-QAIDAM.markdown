@@ -8,10 +8,11 @@ permalink: /CIN/DA-QAIDAM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DA-QAIDAM, CIN) için iftar ve namaz vakitleri](/CIN/DA-QAIDAM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'DA-QAIDAM';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'DA-QAIDAM';
+* [ (DA-QAIDAM, CIN) için iftar ve namaz vakitleri](/CIN/DA-QAIDAM/)
 </script>
+<script type="text/javascript">

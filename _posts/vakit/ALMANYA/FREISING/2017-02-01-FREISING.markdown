@@ -8,10 +8,11 @@ permalink: /ALMANYA/FREISING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FREISING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREISING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FREISING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FREISING';
+* [ (FREISING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FREISING/)
 </script>
+<script type="text/javascript">

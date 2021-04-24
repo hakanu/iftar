@@ -8,10 +8,11 @@ permalink: /LAOS/MUANG SING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MUANG_SING, LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_SING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LAOS';
+
   var GLOBAL_CITY = 'MUANG SING';
+  var GLOBAL_COUNTRY = 'LAOS';
   var GLOBAL_STATE = 'MUANG SING';
+* [ (MUANG_SING, LAOS) için iftar ve namaz vakitleri](/LAOS/MUANG_SING/)
 </script>
+<script type="text/javascript">

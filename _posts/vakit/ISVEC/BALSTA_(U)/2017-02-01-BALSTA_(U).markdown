@@ -8,10 +8,11 @@ permalink: /ISVEC/BALSTA (U)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALSTA_(U), ISVEC) için iftar ve namaz vakitleri](/ISVEC/BALSTA_(U)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'BALSTA (U)';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'BALSTA (U)';
+* [ (BALSTA_(U), ISVEC) için iftar ve namaz vakitleri](/ISVEC/BALSTA_(U)/)
 </script>
+<script type="text/javascript">

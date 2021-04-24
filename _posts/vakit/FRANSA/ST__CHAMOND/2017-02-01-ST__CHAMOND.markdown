@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_ CHAMOND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__CHAMOND, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__CHAMOND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_ CHAMOND';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_ CHAMOND';
+* [ (ST__CHAMOND, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__CHAMOND/)
 </script>
+<script type="text/javascript">

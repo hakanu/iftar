@@ -8,10 +8,11 @@ permalink: /NIKARAGUA/RIVAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIVAS, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/RIVAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIKARAGUA';
+
   var GLOBAL_CITY = 'RIVAS';
+  var GLOBAL_COUNTRY = 'NIKARAGUA';
   var GLOBAL_STATE = 'RIVAS';
+* [ (RIVAS, NIKARAGUA) için iftar ve namaz vakitleri](/NIKARAGUA/RIVAS/)
 </script>
+<script type="text/javascript">

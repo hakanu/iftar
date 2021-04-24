@@ -8,10 +8,11 @@ permalink: /AZERBAYCAN/SEKI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEKI, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SEKI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AZERBAYCAN';
+
   var GLOBAL_CITY = 'SEKI';
+  var GLOBAL_COUNTRY = 'AZERBAYCAN';
   var GLOBAL_STATE = 'SEKI';
+* [ (SEKI, AZERBAYCAN) için iftar ve namaz vakitleri](/AZERBAYCAN/SEKI/)
 </script>
+<script type="text/javascript">

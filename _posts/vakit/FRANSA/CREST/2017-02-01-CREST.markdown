@@ -8,10 +8,11 @@ permalink: /FRANSA/CREST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CREST, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CREST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CREST';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CREST';
+* [ (CREST, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CREST/)
 </script>
+<script type="text/javascript">

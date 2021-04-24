@@ -8,10 +8,11 @@ permalink: /FRANSA/OYONNAX
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OYONNAX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/OYONNAX/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'OYONNAX';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'OYONNAX';
+* [ (OYONNAX, FRANSA) için iftar ve namaz vakitleri](/FRANSA/OYONNAX/)
 </script>
+<script type="text/javascript">

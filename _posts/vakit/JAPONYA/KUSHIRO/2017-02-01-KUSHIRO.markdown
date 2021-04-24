@@ -8,10 +8,11 @@ permalink: /JAPONYA/KUSHIRO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUSHIRO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KUSHIRO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KUSHIRO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KUSHIRO';
+* [ (KUSHIRO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KUSHIRO/)
 </script>
+<script type="text/javascript">

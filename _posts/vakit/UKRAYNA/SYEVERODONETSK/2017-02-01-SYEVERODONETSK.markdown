@@ -8,10 +8,11 @@ permalink: /UKRAYNA/SYEVERODONETSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SYEVERODONETSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SYEVERODONETSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'SYEVERODONETSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'SYEVERODONETSK';
+* [ (SYEVERODONETSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/SYEVERODONETSK/)
 </script>
+<script type="text/javascript">

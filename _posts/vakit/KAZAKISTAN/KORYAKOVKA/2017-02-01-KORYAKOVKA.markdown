@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KORYAKOVKA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORYAKOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KORYAKOVKA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KORYAKOVKA';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KORYAKOVKA';
+* [ (KORYAKOVKA, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KORYAKOVKA/)
 </script>
+<script type="text/javascript">

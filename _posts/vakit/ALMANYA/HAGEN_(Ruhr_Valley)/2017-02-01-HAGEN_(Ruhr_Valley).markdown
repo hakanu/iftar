@@ -8,10 +8,11 @@ permalink: /ALMANYA/HAGEN (Ruhr Valley)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAGEN_(Ruhr_Valley), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAGEN_(Ruhr_Valley)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HAGEN (Ruhr Valley)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HAGEN (Ruhr Valley)';
+* [ (HAGEN_(Ruhr_Valley), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HAGEN_(Ruhr_Valley)/)
 </script>
+<script type="text/javascript">

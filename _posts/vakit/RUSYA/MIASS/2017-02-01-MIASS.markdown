@@ -8,10 +8,11 @@ permalink: /RUSYA/MIASS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIASS, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MIASS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MIASS';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MIASS';
+* [ (MIASS, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MIASS/)
 </script>
+<script type="text/javascript">

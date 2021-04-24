@@ -8,10 +8,11 @@ permalink: /GUATEMALA/ZACAPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZACAPA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/ZACAPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUATEMALA';
+
   var GLOBAL_CITY = 'ZACAPA';
+  var GLOBAL_COUNTRY = 'GUATEMALA';
   var GLOBAL_STATE = 'ZACAPA';
+* [ (ZACAPA, GUATEMALA) için iftar ve namaz vakitleri](/GUATEMALA/ZACAPA/)
 </script>
+<script type="text/javascript">

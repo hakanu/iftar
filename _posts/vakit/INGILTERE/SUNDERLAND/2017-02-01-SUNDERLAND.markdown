@@ -8,10 +8,11 @@ permalink: /INGILTERE/SUNDERLAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUNDERLAND, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SUNDERLAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'SUNDERLAND';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'SUNDERLAND';
+* [ (SUNDERLAND, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SUNDERLAND/)
 </script>
+<script type="text/javascript">

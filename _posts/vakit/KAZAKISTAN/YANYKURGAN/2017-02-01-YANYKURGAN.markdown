@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/YANYKURGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YANYKURGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/YANYKURGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'YANYKURGAN';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'YANYKURGAN';
+* [ (YANYKURGAN, KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/YANYKURGAN/)
 </script>
+<script type="text/javascript">

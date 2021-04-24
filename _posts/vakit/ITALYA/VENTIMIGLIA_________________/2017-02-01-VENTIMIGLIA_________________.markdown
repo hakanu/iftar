@@ -8,10 +8,11 @@ permalink: /ITALYA/VENTIMIGLIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VENTIMIGLIA_________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VENTIMIGLIA_________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'VENTIMIGLIA                 ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'VENTIMIGLIA                 ';
+* [ (VENTIMIGLIA_________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/VENTIMIGLIA_________________/)
 </script>
+<script type="text/javascript">

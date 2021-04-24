@@ -8,10 +8,11 @@ permalink: /FRANSA/TOURCOING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOURCOING, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOURCOING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'TOURCOING';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'TOURCOING';
+* [ (TOURCOING, FRANSA) için iftar ve namaz vakitleri](/FRANSA/TOURCOING/)
 </script>
+<script type="text/javascript">

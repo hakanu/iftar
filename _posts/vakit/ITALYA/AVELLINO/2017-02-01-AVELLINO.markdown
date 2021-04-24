@@ -8,10 +8,11 @@ permalink: /ITALYA/AVELLINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AVELLINO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AVELLINO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'AVELLINO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'AVELLINO';
+* [ (AVELLINO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/AVELLINO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/NEDLANDS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEDLANDS, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NEDLANDS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'NEDLANDS';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'NEDLANDS';
+* [ (NEDLANDS, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NEDLANDS/)
 </script>
+<script type="text/javascript">

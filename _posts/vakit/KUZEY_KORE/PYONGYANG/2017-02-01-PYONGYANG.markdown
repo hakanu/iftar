@@ -8,10 +8,11 @@ permalink: /KUZEY KORE/PYONGYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PYONGYANG, KUZEY_KORE) için iftar ve namaz vakitleri](/KUZEY_KORE/PYONGYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUZEY KORE';
+
   var GLOBAL_CITY = 'PYONGYANG';
+  var GLOBAL_COUNTRY = 'KUZEY KORE';
   var GLOBAL_STATE = 'PYONGYANG';
+* [ (PYONGYANG, KUZEY_KORE) için iftar ve namaz vakitleri](/KUZEY_KORE/PYONGYANG/)
 </script>
+<script type="text/javascript">

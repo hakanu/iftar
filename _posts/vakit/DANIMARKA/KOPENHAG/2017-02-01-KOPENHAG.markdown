@@ -8,10 +8,11 @@ permalink: /DANIMARKA/KOPENHAG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOPENHAG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/KOPENHAG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'KOPENHAG';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'KOPENHAG';
+* [ (KOPENHAG, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/KOPENHAG/)
 </script>
+<script type="text/javascript">

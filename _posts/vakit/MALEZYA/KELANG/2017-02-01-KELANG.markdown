@@ -8,10 +8,11 @@ permalink: /MALEZYA/KELANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KELANG, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KELANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALEZYA';
+
   var GLOBAL_CITY = 'KELANG';
+  var GLOBAL_COUNTRY = 'MALEZYA';
   var GLOBAL_STATE = 'KELANG';
+* [ (KELANG, MALEZYA) için iftar ve namaz vakitleri](/MALEZYA/KELANG/)
 </script>
+<script type="text/javascript">

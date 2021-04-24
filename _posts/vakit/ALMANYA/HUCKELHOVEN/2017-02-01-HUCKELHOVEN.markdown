@@ -8,10 +8,11 @@ permalink: /ALMANYA/HUCKELHOVEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUCKELHOVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUCKELHOVEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HUCKELHOVEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HUCKELHOVEN';
+* [ (HUCKELHOVEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUCKELHOVEN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/EHINGEN (DONAU)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EHINGEN_(DONAU), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EHINGEN_(DONAU)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EHINGEN (DONAU)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EHINGEN (DONAU)';
+* [ (EHINGEN_(DONAU), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EHINGEN_(DONAU)/)
 </script>
+<script type="text/javascript">

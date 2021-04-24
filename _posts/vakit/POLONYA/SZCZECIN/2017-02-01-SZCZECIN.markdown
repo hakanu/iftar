@@ -8,10 +8,11 @@ permalink: /POLONYA/SZCZECIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SZCZECIN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/SZCZECIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'POLONYA';
+
   var GLOBAL_CITY = 'SZCZECIN';
+  var GLOBAL_COUNTRY = 'POLONYA';
   var GLOBAL_STATE = 'SZCZECIN';
+* [ (SZCZECIN, POLONYA) için iftar ve namaz vakitleri](/POLONYA/SZCZECIN/)
 </script>
+<script type="text/javascript">

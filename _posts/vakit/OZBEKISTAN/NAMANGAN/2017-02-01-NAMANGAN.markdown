@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/NAMANGAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAMANGAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/NAMANGAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'NAMANGAN';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'NAMANGAN';
+* [ (NAMANGAN, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/NAMANGAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ZIMBABVE/HARARE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HARARE, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/HARARE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ZIMBABVE';
+
   var GLOBAL_CITY = 'HARARE';
+  var GLOBAL_COUNTRY = 'ZIMBABVE';
   var GLOBAL_STATE = 'HARARE';
+* [ (HARARE, ZIMBABVE) için iftar ve namaz vakitleri](/ZIMBABVE/HARARE/)
 </script>
+<script type="text/javascript">

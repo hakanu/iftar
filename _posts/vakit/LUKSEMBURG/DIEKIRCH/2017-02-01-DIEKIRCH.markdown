@@ -8,10 +8,11 @@ permalink: /LUKSEMBURG/DIEKIRCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIEKIRCH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/DIEKIRCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'LUKSEMBURG';
+
   var GLOBAL_CITY = 'DIEKIRCH';
+  var GLOBAL_COUNTRY = 'LUKSEMBURG';
   var GLOBAL_STATE = 'DIEKIRCH';
+* [ (DIEKIRCH, LUKSEMBURG) için iftar ve namaz vakitleri](/LUKSEMBURG/DIEKIRCH/)
 </script>
+<script type="text/javascript">

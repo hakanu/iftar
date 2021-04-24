@@ -8,10 +8,11 @@ permalink: /ALMANYA/SINDELFINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SINDELFINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SINDELFINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SINDELFINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SINDELFINGEN';
+* [ (SINDELFINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SINDELFINGEN/)
 </script>
+<script type="text/javascript">

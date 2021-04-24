@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DIEMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIEMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DIEMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DIEMEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DIEMEN';
+* [ (DIEMEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DIEMEN/)
 </script>
+<script type="text/javascript">

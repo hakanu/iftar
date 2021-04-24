@@ -8,10 +8,11 @@ permalink: /MISIR/LUXOR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUXOR, MISIR) için iftar ve namaz vakitleri](/MISIR/LUXOR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MISIR';
+
   var GLOBAL_CITY = 'LUXOR';
+  var GLOBAL_COUNTRY = 'MISIR';
   var GLOBAL_STATE = 'LUXOR';
+* [ (LUXOR, MISIR) için iftar ve namaz vakitleri](/MISIR/LUXOR/)
 </script>
+<script type="text/javascript">

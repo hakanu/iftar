@@ -8,10 +8,11 @@ permalink: /ALMANYA/FUSSEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUSSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FUSSEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FUSSEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FUSSEN';
+* [ (FUSSEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FUSSEN/)
 </script>
+<script type="text/javascript">

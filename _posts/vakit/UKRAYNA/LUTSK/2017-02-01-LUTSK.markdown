@@ -8,10 +8,11 @@ permalink: /UKRAYNA/LUTSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUTSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LUTSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'LUTSK';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'LUTSK';
+* [ (LUTSK, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/LUTSK/)
 </script>
+<script type="text/javascript">

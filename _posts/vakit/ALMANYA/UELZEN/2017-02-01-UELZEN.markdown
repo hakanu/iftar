@@ -8,10 +8,11 @@ permalink: /ALMANYA/UELZEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UELZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UELZEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'UELZEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'UELZEN';
+* [ (UELZEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/UELZEN/)
 </script>
+<script type="text/javascript">

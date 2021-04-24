@@ -8,10 +8,11 @@ permalink: /HONDURAS/TEGUCIGALPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TEGUCIGALPA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/TEGUCIGALPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HONDURAS';
+
   var GLOBAL_CITY = 'TEGUCIGALPA';
+  var GLOBAL_COUNTRY = 'HONDURAS';
   var GLOBAL_STATE = 'TEGUCIGALPA';
+* [ (TEGUCIGALPA, HONDURAS) için iftar ve namaz vakitleri](/HONDURAS/TEGUCIGALPA/)
 </script>
+<script type="text/javascript">

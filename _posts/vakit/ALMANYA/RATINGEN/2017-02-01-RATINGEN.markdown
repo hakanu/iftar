@@ -8,10 +8,11 @@ permalink: /ALMANYA/RATINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RATINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RATINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RATINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RATINGEN';
+* [ (RATINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RATINGEN/)
 </script>
+<script type="text/javascript">

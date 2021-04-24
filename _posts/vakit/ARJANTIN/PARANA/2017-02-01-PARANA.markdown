@@ -8,10 +8,11 @@ permalink: /ARJANTIN/PARANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PARANA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PARANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'PARANA';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'PARANA';
+* [ (PARANA, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/PARANA/)
 </script>
+<script type="text/javascript">

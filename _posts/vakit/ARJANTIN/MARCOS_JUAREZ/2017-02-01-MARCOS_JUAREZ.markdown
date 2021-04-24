@@ -8,10 +8,11 @@ permalink: /ARJANTIN/MARCOS JUAREZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARCOS_JUAREZ, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MARCOS_JUAREZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'MARCOS JUAREZ';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'MARCOS JUAREZ';
+* [ (MARCOS_JUAREZ, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/MARCOS_JUAREZ/)
 </script>
+<script type="text/javascript">

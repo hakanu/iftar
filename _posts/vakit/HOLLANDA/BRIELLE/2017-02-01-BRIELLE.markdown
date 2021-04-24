@@ -8,10 +8,11 @@ permalink: /HOLLANDA/BRIELLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIELLE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BRIELLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'BRIELLE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'BRIELLE';
+* [ (BRIELLE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/BRIELLE/)
 </script>
+<script type="text/javascript">

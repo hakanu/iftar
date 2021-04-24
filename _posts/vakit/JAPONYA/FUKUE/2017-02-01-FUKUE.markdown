@@ -8,10 +8,11 @@ permalink: /JAPONYA/FUKUE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUKUE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKUE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'FUKUE';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'FUKUE';
+* [ (FUKUE, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKUE/)
 </script>
+<script type="text/javascript">

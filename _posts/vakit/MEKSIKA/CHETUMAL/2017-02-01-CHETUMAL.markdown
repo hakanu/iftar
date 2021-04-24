@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CHETUMAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHETUMAL, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CHETUMAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CHETUMAL';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CHETUMAL';
+* [ (CHETUMAL, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CHETUMAL/)
 </script>
+<script type="text/javascript">

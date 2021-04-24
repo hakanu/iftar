@@ -8,10 +8,11 @@ permalink: /FRANSA/CAMBRAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CAMBRAI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CAMBRAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CAMBRAI';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CAMBRAI';
+* [ (CAMBRAI, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CAMBRAI/)
 </script>
+<script type="text/javascript">

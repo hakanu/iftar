@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/TAGTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TAGTA, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/TAGTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'TAGTA';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'TAGTA';
+* [ (TAGTA, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/TAGTA/)
 </script>
+<script type="text/javascript">

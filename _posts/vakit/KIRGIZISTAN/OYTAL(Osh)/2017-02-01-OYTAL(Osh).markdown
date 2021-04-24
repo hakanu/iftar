@@ -8,10 +8,11 @@ permalink: /KIRGIZISTAN/OYTAL(Osh)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OYTAL(Osh), KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/OYTAL(Osh)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
+
   var GLOBAL_CITY = 'OYTAL(Osh)';
+  var GLOBAL_COUNTRY = 'KIRGIZISTAN';
   var GLOBAL_STATE = 'OYTAL(Osh)';
+* [ (OYTAL(Osh), KIRGIZISTAN) için iftar ve namaz vakitleri](/KIRGIZISTAN/OYTAL(Osh)/)
 </script>
+<script type="text/javascript">

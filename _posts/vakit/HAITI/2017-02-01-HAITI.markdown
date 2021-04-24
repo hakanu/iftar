@@ -8,9 +8,10 @@ permalink: /HAITI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+* [CAP-HAITEN (HAITI) için iftar ve namaz vakitleri](/HAITI/CAP-HAITEN)
 * [CARREFOUR (HAITI) için iftar ve namaz vakitleri](/HAITI/CARREFOUR)
-* [PORT_-AU_-PRINCE (HAITI) için iftar ve namaz vakitleri](/HAITI/PORT_-AU_-PRINCE)
+* [DELMAS (HAITI) için iftar ve namaz vakitleri](/HAITI/DELMAS)
 * [GONAIVES (HAITI) için iftar ve namaz vakitleri](/HAITI/GONAIVES)
 * [LES_CAYES (HAITI) için iftar ve namaz vakitleri](/HAITI/LES_CAYES)
-* [CAP-HAITEN (HAITI) için iftar ve namaz vakitleri](/HAITI/CAP-HAITEN)
-* [DELMAS (HAITI) için iftar ve namaz vakitleri](/HAITI/DELMAS)
+* [PORT_-AU_-PRINCE (HAITI) için iftar ve namaz vakitleri](/HAITI/PORT_-AU_-PRINCE)

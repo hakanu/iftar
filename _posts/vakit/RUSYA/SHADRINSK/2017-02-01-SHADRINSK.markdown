@@ -8,10 +8,11 @@ permalink: /RUSYA/SHADRINSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SHADRINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHADRINSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SHADRINSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SHADRINSK';
+* [ (SHADRINSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SHADRINSK/)
 </script>
+<script type="text/javascript">

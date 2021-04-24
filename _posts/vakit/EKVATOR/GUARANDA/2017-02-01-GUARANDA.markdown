@@ -8,10 +8,11 @@ permalink: /EKVATOR/GUARANDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUARANDA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/GUARANDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EKVATOR';
+
   var GLOBAL_CITY = 'GUARANDA';
+  var GLOBAL_COUNTRY = 'EKVATOR';
   var GLOBAL_STATE = 'GUARANDA';
+* [ (GUARANDA, EKVATOR) için iftar ve namaz vakitleri](/EKVATOR/GUARANDA/)
 </script>
+<script type="text/javascript">

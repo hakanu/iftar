@@ -8,10 +8,11 @@ permalink: /ALMANYA/ELMSHORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ELMSHORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELMSHORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ELMSHORN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ELMSHORN';
+* [ (ELMSHORN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ELMSHORN/)
 </script>
+<script type="text/javascript">

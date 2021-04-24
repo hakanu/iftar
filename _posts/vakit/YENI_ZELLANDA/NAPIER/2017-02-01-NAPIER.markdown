@@ -8,10 +8,11 @@ permalink: /YENI ZELLANDA/NAPIER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAPIER, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/NAPIER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
+
   var GLOBAL_CITY = 'NAPIER';
+  var GLOBAL_COUNTRY = 'YENI ZELLANDA';
   var GLOBAL_STATE = 'NAPIER';
+* [ (NAPIER, YENI_ZELLANDA) için iftar ve namaz vakitleri](/YENI_ZELLANDA/NAPIER/)
 </script>
+<script type="text/javascript">

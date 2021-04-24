@@ -8,10 +8,11 @@ permalink: /VENEZUELA/CIUDAD BOLIVAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_BOLIVAR, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CIUDAD_BOLIVAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'CIUDAD BOLIVAR';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'CIUDAD BOLIVAR';
+* [ (CIUDAD_BOLIVAR, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/CIUDAD_BOLIVAR/)
 </script>
+<script type="text/javascript">

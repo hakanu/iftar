@@ -8,10 +8,11 @@ permalink: /ALMANYA/LIMESHAIN -ROMMERSHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIMESHAIN_-ROMMERSHA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIMESHAIN_-ROMMERSHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LIMESHAIN -ROMMERSHA';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LIMESHAIN -ROMMERSHA';
+* [ (LIMESHAIN_-ROMMERSHA, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LIMESHAIN_-ROMMERSHA/)
 </script>
+<script type="text/javascript">

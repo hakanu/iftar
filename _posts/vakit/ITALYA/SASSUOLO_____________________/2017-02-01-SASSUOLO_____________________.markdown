@@ -8,10 +8,11 @@ permalink: /ITALYA/SASSUOLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SASSUOLO_____________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SASSUOLO_____________________/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'SASSUOLO                     ';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'SASSUOLO                     ';
+* [ (SASSUOLO_____________________, ITALYA) için iftar ve namaz vakitleri](/ITALYA/SASSUOLO_____________________/)
 </script>
+<script type="text/javascript">

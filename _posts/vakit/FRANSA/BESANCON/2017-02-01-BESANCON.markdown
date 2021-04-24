@@ -8,10 +8,11 @@ permalink: /FRANSA/BESANCON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BESANCON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BESANCON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BESANCON';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BESANCON';
+* [ (BESANCON, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BESANCON/)
 </script>
+<script type="text/javascript">

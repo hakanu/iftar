@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WESTON CREEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WESTON_CREEK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WESTON_CREEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WESTON CREEK';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WESTON CREEK';
+* [ (WESTON_CREEK, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WESTON_CREEK/)
 </script>
+<script type="text/javascript">

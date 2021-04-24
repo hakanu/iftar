@@ -8,10 +8,11 @@ permalink: /ALMANYA/GERMERING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GERMERING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GERMERING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GERMERING';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GERMERING';
+* [ (GERMERING, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GERMERING/)
 </script>
+<script type="text/javascript">

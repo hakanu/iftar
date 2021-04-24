@@ -8,10 +8,11 @@ permalink: /ALMANYA/BORNHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BORNHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BORNHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BORNHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BORNHEIM';
+* [ (BORNHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BORNHEIM/)
 </script>
+<script type="text/javascript">

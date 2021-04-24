@@ -8,10 +8,11 @@ permalink: /RUSYA/PODOLSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PODOLSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PODOLSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PODOLSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PODOLSK';
+* [ (PODOLSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PODOLSK/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/FIRMINY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FIRMINY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FIRMINY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FIRMINY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FIRMINY';
+* [ (FIRMINY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FIRMINY/)
 </script>
+<script type="text/javascript">

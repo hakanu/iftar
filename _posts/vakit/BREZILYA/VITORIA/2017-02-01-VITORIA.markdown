@@ -8,10 +8,11 @@ permalink: /BREZILYA/VITORIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VITORIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VITORIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'VITORIA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'VITORIA';
+* [ (VITORIA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/VITORIA/)
 </script>
+<script type="text/javascript">

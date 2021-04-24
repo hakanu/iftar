@@ -8,10 +8,11 @@ permalink: /FRANSA/ANNONAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ANNONAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANNONAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ANNONAY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ANNONAY';
+* [ (ANNONAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ANNONAY/)
 </script>
+<script type="text/javascript">

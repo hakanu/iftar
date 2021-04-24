@@ -8,10 +8,11 @@ permalink: /CIN/YANTAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YANTAI, CIN) için iftar ve namaz vakitleri](/CIN/YANTAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'YANTAI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'YANTAI';
+* [ (YANTAI, CIN) için iftar ve namaz vakitleri](/CIN/YANTAI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/MENGZHAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MENGZHAI, CIN) için iftar ve namaz vakitleri](/CIN/MENGZHAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'MENGZHAI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'MENGZHAI';
+* [ (MENGZHAI, CIN) için iftar ve namaz vakitleri](/CIN/MENGZHAI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /TACIKISTAN/KALAYNAV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KALAYNAV, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KALAYNAV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TACIKISTAN';
+
   var GLOBAL_CITY = 'KALAYNAV';
+  var GLOBAL_COUNTRY = 'TACIKISTAN';
   var GLOBAL_STATE = 'KALAYNAV';
+* [ (KALAYNAV, TACIKISTAN) için iftar ve namaz vakitleri](/TACIKISTAN/KALAYNAV/)
 </script>
+<script type="text/javascript">

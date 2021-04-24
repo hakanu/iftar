@@ -8,10 +8,11 @@ permalink: /MACARISTAN/HATVAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HATVAN_, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/HATVAN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'HATVAN ';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'HATVAN ';
+* [ (HATVAN_, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/HATVAN_/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /CIN/CHANGTING ( FUJON)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHANGTING_(_FUJON), CIN) için iftar ve namaz vakitleri](/CIN/CHANGTING_(_FUJON)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHANGTING ( FUJON)';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHANGTING ( FUJON)';
+* [ (CHANGTING_(_FUJON), CIN) için iftar ve namaz vakitleri](/CIN/CHANGTING_(_FUJON)/)
 </script>
+<script type="text/javascript">

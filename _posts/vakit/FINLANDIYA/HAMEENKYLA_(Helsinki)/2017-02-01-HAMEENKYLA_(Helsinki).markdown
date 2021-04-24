@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/HAMEENKYLA (Helsinki)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMEENKYLA_(Helsinki), FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HAMEENKYLA_(Helsinki)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'HAMEENKYLA (Helsinki)';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'HAMEENKYLA (Helsinki)';
+* [ (HAMEENKYLA_(Helsinki), FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/HAMEENKYLA_(Helsinki)/)
 </script>
+<script type="text/javascript">

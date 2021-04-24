@@ -8,10 +8,11 @@ permalink: /CIN/MIANYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MIANYANG, CIN) için iftar ve namaz vakitleri](/CIN/MIANYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'MIANYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'MIANYANG';
+* [ (MIANYANG, CIN) için iftar ve namaz vakitleri](/CIN/MIANYANG/)
 </script>
+<script type="text/javascript">

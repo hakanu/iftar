@@ -8,10 +8,11 @@ permalink: /CIN/XINGTAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (XINGTAI, CIN) için iftar ve namaz vakitleri](/CIN/XINGTAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'XINGTAI';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'XINGTAI';
+* [ (XINGTAI, CIN) için iftar ve namaz vakitleri](/CIN/XINGTAI/)
 </script>
+<script type="text/javascript">

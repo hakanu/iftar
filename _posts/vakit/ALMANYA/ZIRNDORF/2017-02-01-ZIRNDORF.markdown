@@ -8,10 +8,11 @@ permalink: /ALMANYA/ZIRNDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZIRNDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZIRNDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ZIRNDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ZIRNDORF';
+* [ (ZIRNDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ZIRNDORF/)
 </script>
+<script type="text/javascript">

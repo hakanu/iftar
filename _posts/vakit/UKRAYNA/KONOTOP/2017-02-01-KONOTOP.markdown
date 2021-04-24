@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KONOTOP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONOTOP, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KONOTOP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KONOTOP';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KONOTOP';
+* [ (KONOTOP, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KONOTOP/)
 </script>
+<script type="text/javascript">

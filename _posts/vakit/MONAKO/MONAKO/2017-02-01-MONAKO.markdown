@@ -8,10 +8,11 @@ permalink: /MONAKO/MONAKO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONAKO, MONAKO) için iftar ve namaz vakitleri](/MONAKO/MONAKO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MONAKO';
+
   var GLOBAL_CITY = 'MONAKO';
+  var GLOBAL_COUNTRY = 'MONAKO';
   var GLOBAL_STATE = 'MONAKO';
+* [ (MONAKO, MONAKO) için iftar ve namaz vakitleri](/MONAKO/MONAKO/)
 </script>
+<script type="text/javascript">

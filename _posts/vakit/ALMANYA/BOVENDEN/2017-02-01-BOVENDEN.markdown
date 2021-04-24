@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOVENDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOVENDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOVENDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOVENDEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOVENDEN';
+* [ (BOVENDEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOVENDEN/)
 </script>
+<script type="text/javascript">

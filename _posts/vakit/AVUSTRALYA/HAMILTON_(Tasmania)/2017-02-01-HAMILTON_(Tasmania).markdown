@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/HAMILTON (Tasmania)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMILTON_(Tasmania), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/HAMILTON_(Tasmania)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'HAMILTON (Tasmania)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'HAMILTON (Tasmania)';
+* [ (HAMILTON_(Tasmania), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/HAMILTON_(Tasmania)/)
 </script>
+<script type="text/javascript">

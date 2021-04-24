@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/KIROVSKIY (Taldy Kurgan)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KIROVSKIY_(Taldy_Kurgan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KIROVSKIY_(Taldy_Kurgan)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'KIROVSKIY (Taldy Kurgan)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'KIROVSKIY (Taldy Kurgan)';
+* [ (KIROVSKIY_(Taldy_Kurgan), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/KIROVSKIY_(Taldy_Kurgan)/)
 </script>
+<script type="text/javascript">

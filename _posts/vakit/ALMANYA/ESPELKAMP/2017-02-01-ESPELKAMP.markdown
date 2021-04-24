@@ -8,10 +8,11 @@ permalink: /ALMANYA/ESPELKAMP
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESPELKAMP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESPELKAMP/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ESPELKAMP';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ESPELKAMP';
+* [ (ESPELKAMP, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ESPELKAMP/)
 </script>
+<script type="text/javascript">

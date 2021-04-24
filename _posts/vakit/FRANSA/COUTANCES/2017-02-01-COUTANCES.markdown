@@ -8,10 +8,11 @@ permalink: /FRANSA/COUTANCES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COUTANCES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COUTANCES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'COUTANCES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'COUTANCES';
+* [ (COUTANCES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COUTANCES/)
 </script>
+<script type="text/javascript">

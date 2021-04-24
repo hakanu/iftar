@@ -8,10 +8,11 @@ permalink: /ALMANYA/TETTNANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TETTNANG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TETTNANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'TETTNANG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'TETTNANG';
+* [ (TETTNANG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/TETTNANG/)
 </script>
+<script type="text/javascript">

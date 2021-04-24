@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/NOKIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOKIA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NOKIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'NOKIA';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'NOKIA';
+* [ (NOKIA, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/NOKIA/)
 </script>
+<script type="text/javascript">

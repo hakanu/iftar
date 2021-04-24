@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/DOBOJ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DOBOJ, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/DOBOJ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'DOBOJ';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'DOBOJ';
+* [ (DOBOJ, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/DOBOJ/)
 </script>
+<script type="text/javascript">

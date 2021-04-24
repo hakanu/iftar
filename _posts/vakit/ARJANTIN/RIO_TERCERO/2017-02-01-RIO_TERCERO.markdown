@@ -8,10 +8,11 @@ permalink: /ARJANTIN/RIO TERCERO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RIO_TERCERO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RIO_TERCERO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ARJANTIN';
+
   var GLOBAL_CITY = 'RIO TERCERO';
+  var GLOBAL_COUNTRY = 'ARJANTIN';
   var GLOBAL_STATE = 'RIO TERCERO';
+* [ (RIO_TERCERO, ARJANTIN) için iftar ve namaz vakitleri](/ARJANTIN/RIO_TERCERO/)
 </script>
+<script type="text/javascript">

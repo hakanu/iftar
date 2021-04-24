@@ -8,10 +8,11 @@ permalink: /ROMANYA/SUBI(SIBIU)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUBI(SIBIU), ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SUBI(SIBIU)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'SUBI(SIBIU)';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'SUBI(SIBIU)';
+* [ (SUBI(SIBIU), ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/SUBI(SIBIU)/)
 </script>
+<script type="text/javascript">

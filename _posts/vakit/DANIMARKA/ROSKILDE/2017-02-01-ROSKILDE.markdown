@@ -8,10 +8,11 @@ permalink: /DANIMARKA/ROSKILDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROSKILDE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ROSKILDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'ROSKILDE';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'ROSKILDE';
+* [ (ROSKILDE, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/ROSKILDE/)
 </script>
+<script type="text/javascript">

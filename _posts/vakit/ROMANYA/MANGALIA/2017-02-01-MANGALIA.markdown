@@ -8,10 +8,11 @@ permalink: /ROMANYA/MANGALIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANGALIA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/MANGALIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'MANGALIA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'MANGALIA';
+* [ (MANGALIA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/MANGALIA/)
 </script>
+<script type="text/javascript">

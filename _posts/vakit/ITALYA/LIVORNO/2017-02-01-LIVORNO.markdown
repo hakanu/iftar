@@ -8,10 +8,11 @@ permalink: /ITALYA/LIVORNO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIVORNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LIVORNO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'LIVORNO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'LIVORNO';
+* [ (LIVORNO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LIVORNO/)
 </script>
+<script type="text/javascript">

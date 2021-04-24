@@ -8,10 +8,11 @@ permalink: /HOLLANDA/VALKENSWAARD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VALKENSWAARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VALKENSWAARD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'VALKENSWAARD';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'VALKENSWAARD';
+* [ (VALKENSWAARD, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/VALKENSWAARD/)
 </script>
+<script type="text/javascript">

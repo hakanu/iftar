@@ -8,10 +8,11 @@ permalink: /ISVEC/GISLAVED
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GISLAVED, ISVEC) için iftar ve namaz vakitleri](/ISVEC/GISLAVED/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'GISLAVED';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'GISLAVED';
+* [ (GISLAVED, ISVEC) için iftar ve namaz vakitleri](/ISVEC/GISLAVED/)
 </script>
+<script type="text/javascript">

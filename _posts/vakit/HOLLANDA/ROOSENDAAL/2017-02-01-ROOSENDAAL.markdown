@@ -8,10 +8,11 @@ permalink: /HOLLANDA/ROOSENDAAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROOSENDAAL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROOSENDAAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'ROOSENDAAL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'ROOSENDAAL';
+* [ (ROOSENDAAL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/ROOSENDAAL/)
 </script>
+<script type="text/javascript">

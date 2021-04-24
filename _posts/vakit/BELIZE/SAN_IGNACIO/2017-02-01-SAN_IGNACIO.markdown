@@ -8,10 +8,11 @@ permalink: /BELIZE/SAN IGNACIO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_IGNACIO, BELIZE) için iftar ve namaz vakitleri](/BELIZE/SAN_IGNACIO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELIZE';
+
   var GLOBAL_CITY = 'SAN IGNACIO';
+  var GLOBAL_COUNTRY = 'BELIZE';
   var GLOBAL_STATE = 'SAN IGNACIO';
+* [ (SAN_IGNACIO, BELIZE) için iftar ve namaz vakitleri](/BELIZE/SAN_IGNACIO/)
 </script>
+<script type="text/javascript">

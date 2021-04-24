@@ -8,10 +8,11 @@ permalink: /ALMANYA/KLINGENTHAL (S)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KLINGENTHAL_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KLINGENTHAL_(S)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KLINGENTHAL (S)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KLINGENTHAL (S)';
+* [ (KLINGENTHAL_(S), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KLINGENTHAL_(S)/)
 </script>
+<script type="text/javascript">

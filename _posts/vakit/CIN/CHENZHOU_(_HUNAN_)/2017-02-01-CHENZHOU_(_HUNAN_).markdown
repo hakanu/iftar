@@ -8,10 +8,11 @@ permalink: /CIN/CHENZHOU ( HUNAN )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHENZHOU_(_HUNAN_), CIN) için iftar ve namaz vakitleri](/CIN/CHENZHOU_(_HUNAN_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'CHENZHOU ( HUNAN )';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'CHENZHOU ( HUNAN )';
+* [ (CHENZHOU_(_HUNAN_), CIN) için iftar ve namaz vakitleri](/CIN/CHENZHOU_(_HUNAN_)/)
 </script>
+<script type="text/javascript">

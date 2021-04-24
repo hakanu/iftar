@@ -8,10 +8,11 @@ permalink: /ISPANYA/PAMPLONA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PAMPLONA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/PAMPLONA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'PAMPLONA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'PAMPLONA';
+* [ (PAMPLONA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/PAMPLONA/)
 </script>
+<script type="text/javascript">

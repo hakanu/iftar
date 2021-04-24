@@ -8,10 +8,11 @@ permalink: /BELCIKA/LA LOUVIERE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_LOUVIERE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LA_LOUVIERE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LA LOUVIERE';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LA LOUVIERE';
+* [ (LA_LOUVIERE, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LA_LOUVIERE/)
 </script>
+<script type="text/javascript">

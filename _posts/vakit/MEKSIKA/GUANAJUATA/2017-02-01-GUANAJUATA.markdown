@@ -8,10 +8,11 @@ permalink: /MEKSIKA/GUANAJUATA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUANAJUATA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/GUANAJUATA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'GUANAJUATA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'GUANAJUATA';
+* [ (GUANAJUATA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/GUANAJUATA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/BUGA (Olgiy)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUGA_(Olgiy)_, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BUGA_(Olgiy)_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'BUGA (Olgiy) ';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'BUGA (Olgiy) ';
+* [ (BUGA_(Olgiy)_, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/BUGA_(Olgiy)_/)
 </script>
+<script type="text/javascript">

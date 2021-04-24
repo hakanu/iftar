@@ -8,10 +8,11 @@ permalink: /MADAGASKAR/FIANARANTSOA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FIANARANTSOA, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/FIANARANTSOA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MADAGASKAR';
+
   var GLOBAL_CITY = 'FIANARANTSOA';
+  var GLOBAL_COUNTRY = 'MADAGASKAR';
   var GLOBAL_STATE = 'FIANARANTSOA';
+* [ (FIANARANTSOA, MADAGASKAR) için iftar ve namaz vakitleri](/MADAGASKAR/FIANARANTSOA/)
 </script>
+<script type="text/javascript">

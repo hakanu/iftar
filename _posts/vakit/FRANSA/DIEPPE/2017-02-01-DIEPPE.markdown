@@ -8,10 +8,11 @@ permalink: /FRANSA/DIEPPE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DIEPPE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIEPPE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'DIEPPE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'DIEPPE';
+* [ (DIEPPE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/DIEPPE/)
 </script>
+<script type="text/javascript">

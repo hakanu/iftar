@@ -8,10 +8,11 @@ permalink: /ISVEC/MORA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/MORA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'MORA';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'MORA';
+* [ (MORA, ISVEC) için iftar ve namaz vakitleri](/ISVEC/MORA/)
 </script>
+<script type="text/javascript">

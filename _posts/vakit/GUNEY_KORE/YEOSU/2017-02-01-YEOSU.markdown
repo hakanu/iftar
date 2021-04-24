@@ -8,10 +8,11 @@ permalink: /GUNEY KORE/YEOSU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YEOSU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/YEOSU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY KORE';
+
   var GLOBAL_CITY = 'YEOSU';
+  var GLOBAL_COUNTRY = 'GUNEY KORE';
   var GLOBAL_STATE = 'YEOSU';
+* [ (YEOSU, GUNEY_KORE) için iftar ve namaz vakitleri](/GUNEY_KORE/YEOSU/)
 </script>
+<script type="text/javascript">

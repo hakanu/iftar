@@ -8,10 +8,11 @@ permalink: /UKRAYNA/MYKOLAYIV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MYKOLAYIV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MYKOLAYIV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'MYKOLAYIV';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'MYKOLAYIV';
+* [ (MYKOLAYIV, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/MYKOLAYIV/)
 </script>
+<script type="text/javascript">

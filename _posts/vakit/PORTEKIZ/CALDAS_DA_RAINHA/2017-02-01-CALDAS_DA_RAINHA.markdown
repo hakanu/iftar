@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/CALDAS DA RAINHA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALDAS_DA_RAINHA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/CALDAS_DA_RAINHA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'CALDAS DA RAINHA';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'CALDAS DA RAINHA';
+* [ (CALDAS_DA_RAINHA, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/CALDAS_DA_RAINHA/)
 </script>
+<script type="text/javascript">

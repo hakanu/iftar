@@ -8,10 +8,11 @@ permalink: /ALMANYA/GENGENBACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENGENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GENGENBACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GENGENBACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GENGENBACH';
+* [ (GENGENBACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GENGENBACH/)
 </script>
+<script type="text/javascript">

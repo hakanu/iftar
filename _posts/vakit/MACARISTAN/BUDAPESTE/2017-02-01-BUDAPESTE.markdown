@@ -8,10 +8,11 @@ permalink: /MACARISTAN/BUDAPESTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUDAPESTE, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/BUDAPESTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MACARISTAN';
+
   var GLOBAL_CITY = 'BUDAPESTE';
+  var GLOBAL_COUNTRY = 'MACARISTAN';
   var GLOBAL_STATE = 'BUDAPESTE';
+* [ (BUDAPESTE, MACARISTAN) için iftar ve namaz vakitleri](/MACARISTAN/BUDAPESTE/)
 </script>
+<script type="text/javascript">

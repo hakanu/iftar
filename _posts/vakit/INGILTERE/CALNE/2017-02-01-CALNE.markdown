@@ -8,10 +8,11 @@ permalink: /INGILTERE/CALNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CALNE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CALNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CALNE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CALNE';
+* [ (CALNE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CALNE/)
 </script>
+<script type="text/javascript">

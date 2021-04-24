@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CHILPANCINGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHILPANCINGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CHILPANCINGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CHILPANCINGO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CHILPANCINGO';
+* [ (CHILPANCINGO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CHILPANCINGO/)
 </script>
+<script type="text/javascript">

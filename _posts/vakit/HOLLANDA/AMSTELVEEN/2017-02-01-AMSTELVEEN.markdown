@@ -8,10 +8,11 @@ permalink: /HOLLANDA/AMSTELVEEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMSTELVEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/AMSTELVEEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'AMSTELVEEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'AMSTELVEEN';
+* [ (AMSTELVEEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/AMSTELVEEN/)
 </script>
+<script type="text/javascript">

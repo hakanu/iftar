@@ -8,10 +8,11 @@ permalink: /ALMANYA/SEEVETAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEEVETAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEEVETAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SEEVETAL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SEEVETAL';
+* [ (SEEVETAL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SEEVETAL/)
 </script>
+<script type="text/javascript">

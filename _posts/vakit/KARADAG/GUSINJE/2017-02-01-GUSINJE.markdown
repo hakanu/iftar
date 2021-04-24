@@ -8,10 +8,11 @@ permalink: /KARADAG/GUSINJE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUSINJE, KARADAG) için iftar ve namaz vakitleri](/KARADAG/GUSINJE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'GUSINJE';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'GUSINJE';
+* [ (GUSINJE, KARADAG) için iftar ve namaz vakitleri](/KARADAG/GUSINJE/)
 </script>
+<script type="text/javascript">

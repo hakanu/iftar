@@ -8,10 +8,11 @@ permalink: /MEKSIKA/SALTILLO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALTILLO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SALTILLO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'SALTILLO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'SALTILLO';
+* [ (SALTILLO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/SALTILLO/)
 </script>
+<script type="text/javascript">

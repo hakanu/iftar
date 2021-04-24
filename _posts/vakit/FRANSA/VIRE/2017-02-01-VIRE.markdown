@@ -8,10 +8,11 @@ permalink: /FRANSA/VIRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'VIRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'VIRE';
+* [ (VIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/VIRE/)
 </script>
+<script type="text/javascript">

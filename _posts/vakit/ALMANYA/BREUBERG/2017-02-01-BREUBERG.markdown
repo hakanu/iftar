@@ -8,10 +8,11 @@ permalink: /ALMANYA/BREUBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BREUBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREUBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BREUBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BREUBERG';
+* [ (BREUBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BREUBERG/)
 </script>
+<script type="text/javascript">

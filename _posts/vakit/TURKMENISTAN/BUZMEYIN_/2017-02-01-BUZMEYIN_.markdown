@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/BUZMEYIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUZMEYIN_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BUZMEYIN_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'BUZMEYIN ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'BUZMEYIN ';
+* [ (BUZMEYIN_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/BUZMEYIN_/)
 </script>
+<script type="text/javascript">

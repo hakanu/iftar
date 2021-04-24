@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/PUSARNITZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUSARNITZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/PUSARNITZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'PUSARNITZ';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'PUSARNITZ';
+* [ (PUSARNITZ, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/PUSARNITZ/)
 </script>
+<script type="text/javascript">

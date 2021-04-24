@@ -8,10 +8,11 @@ permalink: /UKRAYNA/KRYVYY RIH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRYVYY_RIH, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KRYVYY_RIH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'KRYVYY RIH';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'KRYVYY RIH';
+* [ (KRYVYY_RIH, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/KRYVYY_RIH/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BERMUDA/SAINT GEORGE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT_GEORGE, BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/SAINT_GEORGE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BERMUDA';
+
   var GLOBAL_CITY = 'SAINT GEORGE';
+  var GLOBAL_COUNTRY = 'BERMUDA';
   var GLOBAL_STATE = 'SAINT GEORGE';
+* [ (SAINT_GEORGE, BERMUDA) için iftar ve namaz vakitleri](/BERMUDA/SAINT_GEORGE/)
 </script>
+<script type="text/javascript">

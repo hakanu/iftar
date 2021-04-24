@@ -8,10 +8,11 @@ permalink: /FRANSA/ESPALION
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ESPALION, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ESPALION/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ESPALION';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ESPALION';
+* [ (ESPALION, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ESPALION/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BURKINA FASO/TENKODOGO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TENKODOGO, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/TENKODOGO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURKINA FASO';
+
   var GLOBAL_CITY = 'TENKODOGO';
+  var GLOBAL_COUNTRY = 'BURKINA FASO';
   var GLOBAL_STATE = 'TENKODOGO';
+* [ (TENKODOGO, BURKINA_FASO) için iftar ve namaz vakitleri](/BURKINA_FASO/TENKODOGO/)
 </script>
+<script type="text/javascript">

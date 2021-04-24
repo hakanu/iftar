@@ -8,10 +8,11 @@ permalink: /ITALYA/MESSINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MESSINA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MESSINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'MESSINA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'MESSINA';
+* [ (MESSINA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/MESSINA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ISPANYA/CEUTA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CEUTA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CEUTA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'CEUTA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'CEUTA';
+* [ (CEUTA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/CEUTA/)
 </script>
+<script type="text/javascript">

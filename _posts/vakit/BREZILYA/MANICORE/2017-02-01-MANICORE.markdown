@@ -8,10 +8,11 @@ permalink: /BREZILYA/MANICORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MANICORE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MANICORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'MANICORE';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'MANICORE';
+* [ (MANICORE, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/MANICORE/)
 </script>
+<script type="text/javascript">

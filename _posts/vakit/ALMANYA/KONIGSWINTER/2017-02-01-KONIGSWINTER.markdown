@@ -8,10 +8,11 @@ permalink: /ALMANYA/KONIGSWINTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KONIGSWINTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONIGSWINTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KONIGSWINTER';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KONIGSWINTER';
+* [ (KONIGSWINTER, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KONIGSWINTER/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BATHURST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BATHURST, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BATHURST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BATHURST';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BATHURST';
+* [ (BATHURST, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BATHURST/)
 </script>
+<script type="text/javascript">

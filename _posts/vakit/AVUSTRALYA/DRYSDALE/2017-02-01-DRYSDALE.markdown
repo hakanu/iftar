@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/DRYSDALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DRYSDALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DRYSDALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'DRYSDALE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'DRYSDALE';
+* [ (DRYSDALE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/DRYSDALE/)
 </script>
+<script type="text/javascript">

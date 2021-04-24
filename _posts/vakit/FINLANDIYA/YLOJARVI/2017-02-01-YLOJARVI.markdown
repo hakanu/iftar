@@ -8,10 +8,11 @@ permalink: /FINLANDIYA/YLOJARVI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YLOJARVI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/YLOJARVI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FINLANDIYA';
+
   var GLOBAL_CITY = 'YLOJARVI';
+  var GLOBAL_COUNTRY = 'FINLANDIYA';
   var GLOBAL_STATE = 'YLOJARVI';
+* [ (YLOJARVI, FINLANDIYA) için iftar ve namaz vakitleri](/FINLANDIYA/YLOJARVI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /GUYANA/LINDEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LINDEN, GUYANA) için iftar ve namaz vakitleri](/GUYANA/LINDEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUYANA';
+
   var GLOBAL_CITY = 'LINDEN';
+  var GLOBAL_COUNTRY = 'GUYANA';
   var GLOBAL_STATE = 'LINDEN';
+* [ (LINDEN, GUYANA) için iftar ve namaz vakitleri](/GUYANA/LINDEN/)
 </script>
+<script type="text/javascript">

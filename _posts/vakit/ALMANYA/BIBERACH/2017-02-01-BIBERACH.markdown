@@ -8,11 +8,12 @@ permalink: /ALMANYA/BIBERACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
+
+  var GLOBAL_CITY = 'BIBERACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
+  var GLOBAL_STATE = 'BIBERACH';
 * [ (BIBERACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIBERACH/)
 * [RISS (BIBERACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BIBERACH/RISS)
-
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
-  var GLOBAL_CITY = 'BIBERACH';
-  var GLOBAL_STATE = 'BIBERACH';
 </script>
+<script type="text/javascript">

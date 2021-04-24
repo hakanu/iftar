@@ -8,10 +8,11 @@ permalink: /FRANSA/BITCHE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BITCHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BITCHE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BITCHE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BITCHE';
+* [ (BITCHE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/BITCHE/)
 </script>
+<script type="text/javascript">

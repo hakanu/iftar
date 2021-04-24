@@ -8,10 +8,11 @@ permalink: /ALMANYA/RAUNHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAUNHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RAUNHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RAUNHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RAUNHEIM';
+* [ (RAUNHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RAUNHEIM/)
 </script>
+<script type="text/javascript">

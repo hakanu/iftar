@@ -8,10 +8,11 @@ permalink: /FRANSA/BRIARE (L)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BRIARE_(L), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIARE_(L)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'BRIARE (L)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'BRIARE (L)';
+* [ (BRIARE_(L), FRANSA) için iftar ve namaz vakitleri](/FRANSA/BRIARE_(L)/)
 </script>
+<script type="text/javascript">

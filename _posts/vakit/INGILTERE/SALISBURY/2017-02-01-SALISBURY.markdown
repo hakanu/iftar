@@ -8,10 +8,11 @@ permalink: /INGILTERE/SALISBURY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SALISBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SALISBURY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'SALISBURY';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'SALISBURY';
+* [ (SALISBURY, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/SALISBURY/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/KINGSTON (Hobart)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KINGSTON_(Hobart), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KINGSTON_(Hobart)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'KINGSTON (Hobart)';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'KINGSTON (Hobart)';
+* [ (KINGSTON_(Hobart), AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/KINGSTON_(Hobart)/)
 </script>
+<script type="text/javascript">

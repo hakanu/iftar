@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/SWAN HILL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SWAN_HILL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SWAN_HILL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'SWAN HILL';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'SWAN HILL';
+* [ (SWAN_HILL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/SWAN_HILL/)
 </script>
+<script type="text/javascript">

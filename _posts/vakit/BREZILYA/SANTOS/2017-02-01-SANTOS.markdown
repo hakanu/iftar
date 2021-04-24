@@ -8,10 +8,11 @@ permalink: /BREZILYA/SANTOS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANTOS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTOS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'SANTOS';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'SANTOS';
+* [ (SANTOS, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/SANTOS/)
 </script>
+<script type="text/javascript">

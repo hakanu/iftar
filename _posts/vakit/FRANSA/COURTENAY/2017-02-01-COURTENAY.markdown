@@ -8,10 +8,11 @@ permalink: /FRANSA/COURTENAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (COURTENAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COURTENAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'COURTENAY';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'COURTENAY';
+* [ (COURTENAY, FRANSA) için iftar ve namaz vakitleri](/FRANSA/COURTENAY/)
 </script>
+<script type="text/javascript">

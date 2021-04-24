@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/WARRNAMBOOL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WARRNAMBOOL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WARRNAMBOOL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'WARRNAMBOOL';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'WARRNAMBOOL';
+* [ (WARRNAMBOOL, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/WARRNAMBOOL/)
 </script>
+<script type="text/javascript">

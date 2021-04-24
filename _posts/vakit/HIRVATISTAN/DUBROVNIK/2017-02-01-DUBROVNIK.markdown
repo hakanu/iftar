@@ -8,10 +8,11 @@ permalink: /HIRVATISTAN/DUBROVNIK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DUBROVNIK, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/DUBROVNIK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HIRVATISTAN';
+
   var GLOBAL_CITY = 'DUBROVNIK';
+  var GLOBAL_COUNTRY = 'HIRVATISTAN';
   var GLOBAL_STATE = 'DUBROVNIK';
+* [ (DUBROVNIK, HIRVATISTAN) için iftar ve namaz vakitleri](/HIRVATISTAN/DUBROVNIK/)
 </script>
+<script type="text/javascript">

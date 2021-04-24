@@ -8,10 +8,11 @@ permalink: /ALMANYA/DELLWIG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DELLWIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DELLWIG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DELLWIG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DELLWIG';
+* [ (DELLWIG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DELLWIG/)
 </script>
+<script type="text/javascript">

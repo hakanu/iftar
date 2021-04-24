@@ -8,10 +8,11 @@ permalink: /JAPONYA/FUKAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUKAYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKAYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'FUKAYA';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'FUKAYA';
+* [ (FUKAYA, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/FUKAYA/)
 </script>
+<script type="text/javascript">

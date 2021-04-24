@@ -8,10 +8,11 @@ permalink: /ALMANYA/LAMPERTHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAMPERTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAMPERTHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LAMPERTHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LAMPERTHEIM';
+* [ (LAMPERTHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LAMPERTHEIM/)
 </script>
+<script type="text/javascript">

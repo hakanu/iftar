@@ -8,10 +8,11 @@ permalink: /TAYVAN/HSIN-CHU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HSIN-CHU, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/HSIN-CHU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'HSIN-CHU';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'HSIN-CHU';
+* [ (HSIN-CHU, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/HSIN-CHU/)
 </script>
+<script type="text/javascript">

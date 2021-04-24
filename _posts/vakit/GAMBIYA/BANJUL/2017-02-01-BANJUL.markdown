@@ -8,10 +8,11 @@ permalink: /GAMBIYA/BANJUL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BANJUL, GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/BANJUL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GAMBIYA';
+
   var GLOBAL_CITY = 'BANJUL';
+  var GLOBAL_COUNTRY = 'GAMBIYA';
   var GLOBAL_STATE = 'BANJUL';
+* [ (BANJUL, GAMBIYA) için iftar ve namaz vakitleri](/GAMBIYA/BANJUL/)
 </script>
+<script type="text/javascript">

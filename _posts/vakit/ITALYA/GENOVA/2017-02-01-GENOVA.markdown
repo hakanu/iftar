@@ -8,10 +8,11 @@ permalink: /ITALYA/GENOVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GENOVA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GENOVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'GENOVA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'GENOVA';
+* [ (GENOVA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/GENOVA/)
 </script>
+<script type="text/javascript">

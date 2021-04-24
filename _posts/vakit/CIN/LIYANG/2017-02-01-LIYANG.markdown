@@ -8,10 +8,11 @@ permalink: /CIN/LIYANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LIYANG, CIN) için iftar ve namaz vakitleri](/CIN/LIYANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'LIYANG';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'LIYANG';
+* [ (LIYANG, CIN) için iftar ve namaz vakitleri](/CIN/LIYANG/)
 </script>
+<script type="text/javascript">

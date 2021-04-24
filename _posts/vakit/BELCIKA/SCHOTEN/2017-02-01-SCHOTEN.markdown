@@ -8,10 +8,11 @@ permalink: /BELCIKA/SCHOTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHOTEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SCHOTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'SCHOTEN';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'SCHOTEN';
+* [ (SCHOTEN, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/SCHOTEN/)
 </script>
+<script type="text/javascript">

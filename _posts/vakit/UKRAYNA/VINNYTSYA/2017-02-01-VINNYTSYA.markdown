@@ -8,10 +8,11 @@ permalink: /UKRAYNA/VINNYTSYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VINNYTSYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VINNYTSYA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'VINNYTSYA';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'VINNYTSYA';
+* [ (VINNYTSYA, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/VINNYTSYA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /RUSYA/UST-ILIMSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (UST-ILIMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UST-ILIMSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'UST-ILIMSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'UST-ILIMSK';
+* [ (UST-ILIMSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/UST-ILIMSK/)
 </script>
+<script type="text/javascript">

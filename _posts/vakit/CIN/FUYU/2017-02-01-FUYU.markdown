@@ -8,10 +8,11 @@ permalink: /CIN/FUYU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FUYU, CIN) için iftar ve namaz vakitleri](/CIN/FUYU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FUYU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FUYU';
+* [ (FUYU, CIN) için iftar ve namaz vakitleri](/CIN/FUYU/)
 </script>
+<script type="text/javascript">

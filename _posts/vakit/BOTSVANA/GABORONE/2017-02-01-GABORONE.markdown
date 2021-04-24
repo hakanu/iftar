@@ -8,10 +8,11 @@ permalink: /BOTSVANA/GABORONE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GABORONE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/GABORONE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOTSVANA';
+
   var GLOBAL_CITY = 'GABORONE';
+  var GLOBAL_COUNTRY = 'BOTSVANA';
   var GLOBAL_STATE = 'GABORONE';
+* [ (GABORONE, BOTSVANA) için iftar ve namaz vakitleri](/BOTSVANA/GABORONE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /KARADAG/MATESEVO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MATESEVO_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/MATESEVO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KARADAG';
+
   var GLOBAL_CITY = 'MATESEVO ';
+  var GLOBAL_COUNTRY = 'KARADAG';
   var GLOBAL_STATE = 'MATESEVO ';
+* [ (MATESEVO_, KARADAG) için iftar ve namaz vakitleri](/KARADAG/MATESEVO_/)
 </script>
+<script type="text/javascript">

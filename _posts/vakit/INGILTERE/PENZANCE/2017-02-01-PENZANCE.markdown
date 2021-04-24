@@ -8,10 +8,11 @@ permalink: /INGILTERE/PENZANCE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PENZANCE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PENZANCE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'PENZANCE';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'PENZANCE';
+* [ (PENZANCE, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/PENZANCE/)
 </script>
+<script type="text/javascript">

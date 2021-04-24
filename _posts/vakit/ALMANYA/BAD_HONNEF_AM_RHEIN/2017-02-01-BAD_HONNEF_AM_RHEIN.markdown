@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD HONNEF AM RHEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_HONNEF_AM_RHEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_HONNEF_AM_RHEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD HONNEF AM RHEIN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD HONNEF AM RHEIN';
+* [ (BAD_HONNEF_AM_RHEIN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_HONNEF_AM_RHEIN/)
 </script>
+<script type="text/javascript">

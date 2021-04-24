@@ -8,10 +8,11 @@ permalink: /ISVEC/YSTAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YSTAD, ISVEC) için iftar ve namaz vakitleri](/ISVEC/YSTAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'YSTAD';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'YSTAD';
+* [ (YSTAD, ISVEC) için iftar ve namaz vakitleri](/ISVEC/YSTAD/)
 </script>
+<script type="text/javascript">

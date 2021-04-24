@@ -8,10 +8,11 @@ permalink: /ISVEC/MORTNAS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORTNAS, ISVEC) için iftar ve namaz vakitleri](/ISVEC/MORTNAS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'MORTNAS';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'MORTNAS';
+* [ (MORTNAS, ISVEC) için iftar ve namaz vakitleri](/ISVEC/MORTNAS/)
 </script>
+<script type="text/javascript">

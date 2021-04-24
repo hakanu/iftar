@@ -8,10 +8,11 @@ permalink: /ALMANYA/BACKNANG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BACKNANG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BACKNANG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BACKNANG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BACKNANG';
+* [ (BACKNANG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BACKNANG/)
 </script>
+<script type="text/javascript">

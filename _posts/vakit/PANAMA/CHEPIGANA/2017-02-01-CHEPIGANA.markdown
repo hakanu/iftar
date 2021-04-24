@@ -8,10 +8,11 @@ permalink: /PANAMA/CHEPIGANA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHEPIGANA, PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHEPIGANA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PANAMA';
+
   var GLOBAL_CITY = 'CHEPIGANA';
+  var GLOBAL_COUNTRY = 'PANAMA';
   var GLOBAL_STATE = 'CHEPIGANA';
+* [ (CHEPIGANA, PANAMA) için iftar ve namaz vakitleri](/PANAMA/CHEPIGANA/)
 </script>
+<script type="text/javascript">

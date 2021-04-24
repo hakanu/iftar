@@ -8,10 +8,11 @@ permalink: /MALTA/BIRKIRKARA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BIRKIRKARA, MALTA) için iftar ve namaz vakitleri](/MALTA/BIRKIRKARA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALTA';
+
   var GLOBAL_CITY = 'BIRKIRKARA';
+  var GLOBAL_COUNTRY = 'MALTA';
   var GLOBAL_STATE = 'BIRKIRKARA';
+* [ (BIRKIRKARA, MALTA) için iftar ve namaz vakitleri](/MALTA/BIRKIRKARA/)
 </script>
+<script type="text/javascript">

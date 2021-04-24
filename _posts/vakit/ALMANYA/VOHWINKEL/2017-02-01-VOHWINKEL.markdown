@@ -8,10 +8,11 @@ permalink: /ALMANYA/VOHWINKEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (VOHWINKEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VOHWINKEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'VOHWINKEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'VOHWINKEL';
+* [ (VOHWINKEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/VOHWINKEL/)
 </script>
+<script type="text/javascript">

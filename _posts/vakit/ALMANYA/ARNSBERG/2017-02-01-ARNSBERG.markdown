@@ -8,10 +8,11 @@ permalink: /ALMANYA/ARNSBERG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARNSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ARNSBERG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'ARNSBERG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'ARNSBERG';
+* [ (ARNSBERG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/ARNSBERG/)
 </script>
+<script type="text/javascript">

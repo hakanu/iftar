@@ -8,10 +8,11 @@ permalink: /FRANSA/FEYZIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FEYZIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FEYZIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FEYZIN';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FEYZIN';
+* [ (FEYZIN, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FEYZIN/)
 </script>
+<script type="text/javascript">

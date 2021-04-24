@@ -8,10 +8,11 @@ permalink: /PAKISTAN/BAHAWALPUR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAHAWALPUR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/BAHAWALPUR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PAKISTAN';
+
   var GLOBAL_CITY = 'BAHAWALPUR';
+  var GLOBAL_COUNTRY = 'PAKISTAN';
   var GLOBAL_STATE = 'BAHAWALPUR';
+* [ (BAHAWALPUR, PAKISTAN) için iftar ve namaz vakitleri](/PAKISTAN/BAHAWALPUR/)
 </script>
+<script type="text/javascript">

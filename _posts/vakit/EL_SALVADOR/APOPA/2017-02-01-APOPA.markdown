@@ -8,10 +8,11 @@ permalink: /EL SALVADOR/APOPA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (APOPA, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/APOPA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'EL SALVADOR';
+
   var GLOBAL_CITY = 'APOPA';
+  var GLOBAL_COUNTRY = 'EL SALVADOR';
   var GLOBAL_STATE = 'APOPA';
+* [ (APOPA, EL_SALVADOR) için iftar ve namaz vakitleri](/EL_SALVADOR/APOPA/)
 </script>
+<script type="text/javascript">

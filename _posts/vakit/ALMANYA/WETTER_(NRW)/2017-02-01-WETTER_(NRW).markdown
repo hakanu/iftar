@@ -8,10 +8,11 @@ permalink: /ALMANYA/WETTER (NRW)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WETTER_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WETTER_(NRW)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WETTER (NRW)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WETTER (NRW)';
+* [ (WETTER_(NRW), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WETTER_(NRW)/)
 </script>
+<script type="text/javascript">

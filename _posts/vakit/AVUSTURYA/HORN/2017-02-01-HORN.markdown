@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/HORN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HORN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HORN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'HORN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'HORN';
+* [ (HORN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/HORN/)
 </script>
+<script type="text/javascript">

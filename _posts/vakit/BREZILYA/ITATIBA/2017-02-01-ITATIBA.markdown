@@ -8,10 +8,11 @@ permalink: /BREZILYA/ITATIBA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ITATIBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITATIBA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'ITATIBA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'ITATIBA';
+* [ (ITATIBA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/ITATIBA/)
 </script>
+<script type="text/javascript">

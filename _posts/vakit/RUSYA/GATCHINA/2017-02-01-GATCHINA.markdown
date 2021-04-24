@@ -8,10 +8,11 @@ permalink: /RUSYA/GATCHINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GATCHINA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/GATCHINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'GATCHINA';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'GATCHINA';
+* [ (GATCHINA, RUSYA) için iftar ve namaz vakitleri](/RUSYA/GATCHINA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HINDISTAN/BALESHWAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BALESHWAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BALESHWAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'BALESHWAR';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'BALESHWAR';
+* [ (BALESHWAR, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/BALESHWAR/)
 </script>
+<script type="text/javascript">

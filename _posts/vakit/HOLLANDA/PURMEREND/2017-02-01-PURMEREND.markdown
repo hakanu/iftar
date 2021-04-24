@@ -8,10 +8,11 @@ permalink: /HOLLANDA/PURMEREND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PURMEREND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/PURMEREND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'PURMEREND';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'PURMEREND';
+* [ (PURMEREND, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/PURMEREND/)
 </script>
+<script type="text/javascript">

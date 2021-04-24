@@ -8,10 +8,11 @@ permalink: /RUSYA/MOHACKALE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOHACKALE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MOHACKALE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'MOHACKALE';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'MOHACKALE';
+* [ (MOHACKALE, RUSYA) için iftar ve namaz vakitleri](/RUSYA/MOHACKALE/)
 </script>
+<script type="text/javascript">

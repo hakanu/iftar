@@ -8,10 +8,11 @@ permalink: /BELCIKA/LOCHRISTI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOCHRISTI, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LOCHRISTI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'LOCHRISTI';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'LOCHRISTI';
+* [ (LOCHRISTI, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/LOCHRISTI/)
 </script>
+<script type="text/javascript">

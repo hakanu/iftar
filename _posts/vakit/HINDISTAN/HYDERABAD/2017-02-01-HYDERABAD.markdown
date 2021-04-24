@@ -8,10 +8,11 @@ permalink: /HINDISTAN/HYDERABAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HYDERABAD, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/HYDERABAD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'HYDERABAD';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'HYDERABAD';
+* [ (HYDERABAD, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/HYDERABAD/)
 </script>
+<script type="text/javascript">

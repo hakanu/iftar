@@ -8,10 +8,11 @@ permalink: /BOLIVYA/GUAYARAMERIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GUAYARAMERIN, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/GUAYARAMERIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOLIVYA';
+
   var GLOBAL_CITY = 'GUAYARAMERIN';
+  var GLOBAL_COUNTRY = 'BOLIVYA';
   var GLOBAL_STATE = 'GUAYARAMERIN';
+* [ (GUAYARAMERIN, BOLIVYA) için iftar ve namaz vakitleri](/BOLIVYA/GUAYARAMERIN/)
 </script>
+<script type="text/javascript">

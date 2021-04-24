@@ -8,10 +8,11 @@ permalink: /ITALYA/FOLLONICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FOLLONICA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FOLLONICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'FOLLONICA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'FOLLONICA';
+* [ (FOLLONICA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/FOLLONICA/)
 </script>
+<script type="text/javascript">

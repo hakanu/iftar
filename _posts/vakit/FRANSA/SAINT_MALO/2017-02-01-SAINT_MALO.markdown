@@ -8,10 +8,11 @@ permalink: /FRANSA/SAINT MALO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT_MALO, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT_MALO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SAINT MALO';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SAINT MALO';
+* [ (SAINT_MALO, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT_MALO/)
 </script>
+<script type="text/javascript">

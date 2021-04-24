@@ -8,10 +8,11 @@ permalink: /HINDISTAN/RANCHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RANCHI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RANCHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HINDISTAN';
+
   var GLOBAL_CITY = 'RANCHI';
+  var GLOBAL_COUNTRY = 'HINDISTAN';
   var GLOBAL_STATE = 'RANCHI';
+* [ (RANCHI, HINDISTAN) için iftar ve namaz vakitleri](/HINDISTAN/RANCHI/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /BREZILYA/BAURU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAURU, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BAURU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BAURU';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BAURU';
+* [ (BAURU, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BAURU/)
 </script>
+<script type="text/javascript">

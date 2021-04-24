@@ -8,10 +8,11 @@ permalink: /FRANSA/FONTAINEBLEAU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FONTAINEBLEAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FONTAINEBLEAU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'FONTAINEBLEAU';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'FONTAINEBLEAU';
+* [ (FONTAINEBLEAU, FRANSA) için iftar ve namaz vakitleri](/FRANSA/FONTAINEBLEAU/)
 </script>
+<script type="text/javascript">

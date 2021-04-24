@@ -8,10 +8,11 @@ permalink: /ISVICRE/MORCOTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORCOTE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MORCOTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MORCOTE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MORCOTE';
+* [ (MORCOTE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MORCOTE/)
 </script>
+<script type="text/javascript">

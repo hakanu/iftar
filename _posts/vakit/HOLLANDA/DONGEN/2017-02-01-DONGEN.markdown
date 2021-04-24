@@ -8,10 +8,11 @@ permalink: /HOLLANDA/DONGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DONGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DONGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'DONGEN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'DONGEN';
+* [ (DONGEN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/DONGEN/)
 </script>
+<script type="text/javascript">

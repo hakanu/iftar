@@ -8,10 +8,11 @@ permalink: /GINE/NZEREKORE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NZEREKORE, GINE) için iftar ve namaz vakitleri](/GINE/NZEREKORE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GINE';
+
   var GLOBAL_CITY = 'NZEREKORE';
+  var GLOBAL_COUNTRY = 'GINE';
   var GLOBAL_STATE = 'NZEREKORE';
+* [ (NZEREKORE, GINE) için iftar ve namaz vakitleri](/GINE/NZEREKORE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/LUNEVILLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LUNEVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LUNEVILLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LUNEVILLE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LUNEVILLE';
+* [ (LUNEVILLE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/LUNEVILLE/)
 </script>
+<script type="text/javascript">

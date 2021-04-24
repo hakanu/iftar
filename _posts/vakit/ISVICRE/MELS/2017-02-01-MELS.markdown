@@ -8,10 +8,11 @@ permalink: /ISVICRE/MELS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MELS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MELS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'MELS';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'MELS';
+* [ (MELS, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/MELS/)
 </script>
+<script type="text/javascript">

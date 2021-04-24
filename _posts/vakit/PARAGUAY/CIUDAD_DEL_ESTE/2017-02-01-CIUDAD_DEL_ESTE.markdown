@@ -8,10 +8,11 @@ permalink: /PARAGUAY/CIUDAD DEL ESTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CIUDAD_DEL_ESTE, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/CIUDAD_DEL_ESTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PARAGUAY';
+
   var GLOBAL_CITY = 'CIUDAD DEL ESTE';
+  var GLOBAL_COUNTRY = 'PARAGUAY';
   var GLOBAL_STATE = 'CIUDAD DEL ESTE';
+* [ (CIUDAD_DEL_ESTE, PARAGUAY) için iftar ve namaz vakitleri](/PARAGUAY/CIUDAD_DEL_ESTE/)
 </script>
+<script type="text/javascript">

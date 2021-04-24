@@ -8,10 +8,11 @@ permalink: /ITALYA/CATANZARO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CATANZARO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CATANZARO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'CATANZARO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'CATANZARO';
+* [ (CATANZARO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/CATANZARO/)
 </script>
+<script type="text/javascript">

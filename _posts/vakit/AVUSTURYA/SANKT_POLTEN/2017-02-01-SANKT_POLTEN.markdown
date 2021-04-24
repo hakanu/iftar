@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/SANKT POLTEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SANKT_POLTEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SANKT_POLTEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'SANKT POLTEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'SANKT POLTEN';
+* [ (SANKT_POLTEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/SANKT_POLTEN/)
 </script>
+<script type="text/javascript">

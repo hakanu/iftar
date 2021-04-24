@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/TARHATAY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARHATAY, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TARHATAY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'TARHATAY';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'TARHATAY';
+* [ (TARHATAY, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/TARHATAY/)
 </script>
+<script type="text/javascript">

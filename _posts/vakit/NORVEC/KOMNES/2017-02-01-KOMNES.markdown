@@ -8,10 +8,11 @@ permalink: /NORVEC/KOMNES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOMNES, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KOMNES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'KOMNES';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'KOMNES';
+* [ (KOMNES, NORVEC) için iftar ve namaz vakitleri](/NORVEC/KOMNES/)
 </script>
+<script type="text/javascript">

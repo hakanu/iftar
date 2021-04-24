@@ -8,10 +8,11 @@ permalink: /INGILTERE/CODSALL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CODSALL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CODSALL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CODSALL';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CODSALL';
+* [ (CODSALL, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CODSALL/)
 </script>
+<script type="text/javascript">

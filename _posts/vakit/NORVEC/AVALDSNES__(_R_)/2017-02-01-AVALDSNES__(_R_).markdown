@@ -8,10 +8,11 @@ permalink: /NORVEC/AVALDSNES  ( R )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AVALDSNES__(_R_), NORVEC) için iftar ve namaz vakitleri](/NORVEC/AVALDSNES__(_R_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NORVEC';
+
   var GLOBAL_CITY = 'AVALDSNES  ( R )';
+  var GLOBAL_COUNTRY = 'NORVEC';
   var GLOBAL_STATE = 'AVALDSNES  ( R )';
+* [ (AVALDSNES__(_R_), NORVEC) için iftar ve namaz vakitleri](/NORVEC/AVALDSNES__(_R_)/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/IJSSELSTEIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IJSSELSTEIN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/IJSSELSTEIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'IJSSELSTEIN';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'IJSSELSTEIN';
+* [ (IJSSELSTEIN, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/IJSSELSTEIN/)
 </script>
+<script type="text/javascript">

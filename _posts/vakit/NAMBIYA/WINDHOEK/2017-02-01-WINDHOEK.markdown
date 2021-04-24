@@ -8,10 +8,11 @@ permalink: /NAMBIYA/WINDHOEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WINDHOEK, NAMBIYA) için iftar ve namaz vakitleri](/NAMBIYA/WINDHOEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NAMBIYA';
+
   var GLOBAL_CITY = 'WINDHOEK';
+  var GLOBAL_COUNTRY = 'NAMBIYA';
   var GLOBAL_STATE = 'WINDHOEK';
+* [ (WINDHOEK, NAMBIYA) için iftar ve namaz vakitleri](/NAMBIYA/WINDHOEK/)
 </script>
+<script type="text/javascript">

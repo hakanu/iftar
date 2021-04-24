@@ -8,10 +8,11 @@ permalink: /FRANSA/YVETOT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YVETOT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/YVETOT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'YVETOT';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'YVETOT';
+* [ (YVETOT, FRANSA) için iftar ve namaz vakitleri](/FRANSA/YVETOT/)
 </script>
+<script type="text/javascript">

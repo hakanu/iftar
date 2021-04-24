@@ -8,10 +8,11 @@ permalink: /RUSYA/YAKUTSK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAKUTSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YAKUTSK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'YAKUTSK';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'YAKUTSK';
+* [ (YAKUTSK, RUSYA) için iftar ve namaz vakitleri](/RUSYA/YAKUTSK/)
 </script>
+<script type="text/javascript">

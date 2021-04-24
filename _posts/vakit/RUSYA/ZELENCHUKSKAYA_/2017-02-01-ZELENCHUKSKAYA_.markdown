@@ -8,10 +8,11 @@ permalink: /RUSYA/ZELENCHUKSKAYA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZELENCHUKSKAYA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ZELENCHUKSKAYA_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'ZELENCHUKSKAYA ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'ZELENCHUKSKAYA ';
+* [ (ZELENCHUKSKAYA_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/ZELENCHUKSKAYA_/)
 </script>
+<script type="text/javascript">

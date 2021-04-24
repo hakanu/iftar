@@ -8,10 +8,11 @@ permalink: /BREZILYA/BARRA DO CORDA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARRA_DO_CORDA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BARRA_DO_CORDA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'BARRA DO CORDA';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'BARRA DO CORDA';
+* [ (BARRA_DO_CORDA, BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/BARRA_DO_CORDA/)
 </script>
+<script type="text/javascript">

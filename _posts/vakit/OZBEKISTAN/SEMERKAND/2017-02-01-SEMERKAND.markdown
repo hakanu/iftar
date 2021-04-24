@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/SEMERKAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SEMERKAND, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/SEMERKAND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'SEMERKAND';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'SEMERKAND';
+* [ (SEMERKAND, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/SEMERKAND/)
 </script>
+<script type="text/javascript">

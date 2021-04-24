@@ -8,10 +8,11 @@ permalink: /MOLDAVYA/CHADYR-LUNGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHADYR-LUNGA, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/CHADYR-LUNGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOLDAVYA';
+
   var GLOBAL_CITY = 'CHADYR-LUNGA';
+  var GLOBAL_COUNTRY = 'MOLDAVYA';
   var GLOBAL_STATE = 'CHADYR-LUNGA';
+* [ (CHADYR-LUNGA, MOLDAVYA) için iftar ve namaz vakitleri](/MOLDAVYA/CHADYR-LUNGA/)
 </script>
+<script type="text/javascript">

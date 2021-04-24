@@ -8,10 +8,11 @@ permalink: /ISVEC/LANDVETTER
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LANDVETTER, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LANDVETTER/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'LANDVETTER';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'LANDVETTER';
+* [ (LANDVETTER, ISVEC) için iftar ve namaz vakitleri](/ISVEC/LANDVETTER/)
 </script>
+<script type="text/javascript">

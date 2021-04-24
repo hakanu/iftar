@@ -8,10 +8,11 @@ permalink: /BOSNA HERSEK/ZENICA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZENICA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/ZENICA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
+
   var GLOBAL_CITY = 'ZENICA';
+  var GLOBAL_COUNTRY = 'BOSNA HERSEK';
   var GLOBAL_STATE = 'ZENICA';
+* [ (ZENICA, BOSNA_HERSEK) için iftar ve namaz vakitleri](/BOSNA_HERSEK/ZENICA/)
 </script>
+<script type="text/javascript">

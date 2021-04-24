@@ -8,10 +8,11 @@ permalink: /ISVICRE/HERZOGENBUCHSEE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HERZOGENBUCHSEE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HERZOGENBUCHSEE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'HERZOGENBUCHSEE';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'HERZOGENBUCHSEE';
+* [ (HERZOGENBUCHSEE, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/HERZOGENBUCHSEE/)
 </script>
+<script type="text/javascript">

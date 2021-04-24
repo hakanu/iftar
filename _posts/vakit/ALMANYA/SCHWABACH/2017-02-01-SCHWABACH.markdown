@@ -8,10 +8,11 @@ permalink: /ALMANYA/SCHWABACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SCHWABACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWABACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'SCHWABACH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'SCHWABACH';
+* [ (SCHWABACH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/SCHWABACH/)
 </script>
+<script type="text/javascript">

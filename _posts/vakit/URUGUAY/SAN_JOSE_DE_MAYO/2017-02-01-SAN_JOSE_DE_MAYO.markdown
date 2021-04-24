@@ -8,10 +8,11 @@ permalink: /URUGUAY/SAN JOSE DE MAYO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAN_JOSE_DE_MAYO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/SAN_JOSE_DE_MAYO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'URUGUAY';
+
   var GLOBAL_CITY = 'SAN JOSE DE MAYO';
+  var GLOBAL_COUNTRY = 'URUGUAY';
   var GLOBAL_STATE = 'SAN JOSE DE MAYO';
+* [ (SAN_JOSE_DE_MAYO, URUGUAY) için iftar ve namaz vakitleri](/URUGUAY/SAN_JOSE_DE_MAYO/)
 </script>
+<script type="text/javascript">

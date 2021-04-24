@@ -8,10 +8,11 @@ permalink: /ALMANYA/NAUEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NAUEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NAUEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'NAUEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'NAUEN';
+* [ (NAUEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/NAUEN/)
 </script>
+<script type="text/javascript">

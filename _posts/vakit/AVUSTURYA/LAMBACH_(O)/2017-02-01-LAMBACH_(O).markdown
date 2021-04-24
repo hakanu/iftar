@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/LAMBACH (O)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LAMBACH_(O), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LAMBACH_(O)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'LAMBACH (O)';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'LAMBACH (O)';
+* [ (LAMBACH_(O), AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/LAMBACH_(O)/)
 </script>
+<script type="text/javascript">

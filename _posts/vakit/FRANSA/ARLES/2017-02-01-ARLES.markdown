@@ -8,10 +8,11 @@ permalink: /FRANSA/ARLES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ARLES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARLES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ARLES';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ARLES';
+* [ (ARLES, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ARLES/)
 </script>
+<script type="text/javascript">

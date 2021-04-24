@@ -8,10 +8,11 @@ permalink: /ALMANYA/KOHLSCHEID
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KOHLSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOHLSCHEID/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'KOHLSCHEID';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'KOHLSCHEID';
+* [ (KOHLSCHEID, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/KOHLSCHEID/)
 </script>
+<script type="text/javascript">

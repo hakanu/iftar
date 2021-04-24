@@ -8,10 +8,11 @@ permalink: /KENYA/KISUMU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KISUMU, KENYA) için iftar ve namaz vakitleri](/KENYA/KISUMU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KENYA';
+
   var GLOBAL_CITY = 'KISUMU';
+  var GLOBAL_COUNTRY = 'KENYA';
   var GLOBAL_STATE = 'KISUMU';
+* [ (KISUMU, KENYA) için iftar ve namaz vakitleri](/KENYA/KISUMU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /UKRAYNA/RENI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RENI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/RENI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'UKRAYNA';
+
   var GLOBAL_CITY = 'RENI';
+  var GLOBAL_COUNTRY = 'UKRAYNA';
   var GLOBAL_STATE = 'RENI';
+* [ (RENI, UKRAYNA) için iftar ve namaz vakitleri](/UKRAYNA/RENI/)
 </script>
+<script type="text/javascript">

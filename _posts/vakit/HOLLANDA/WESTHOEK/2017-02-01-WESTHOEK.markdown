@@ -8,10 +8,11 @@ permalink: /HOLLANDA/WESTHOEK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WESTHOEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WESTHOEK/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'WESTHOEK';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'WESTHOEK';
+* [ (WESTHOEK, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/WESTHOEK/)
 </script>
+<script type="text/javascript">

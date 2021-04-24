@@ -8,10 +8,11 @@ permalink: /MEKSIKA/CANCUN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CANCUN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CANCUN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'CANCUN';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'CANCUN';
+* [ (CANCUN, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/CANCUN/)
 </script>
+<script type="text/javascript">

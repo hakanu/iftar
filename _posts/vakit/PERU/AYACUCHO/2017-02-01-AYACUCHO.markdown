@@ -8,10 +8,11 @@ permalink: /PERU/AYACUCHO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AYACUCHO, PERU) için iftar ve namaz vakitleri](/PERU/AYACUCHO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PERU';
+
   var GLOBAL_CITY = 'AYACUCHO';
+  var GLOBAL_COUNTRY = 'PERU';
   var GLOBAL_STATE = 'AYACUCHO';
+* [ (AYACUCHO, PERU) için iftar ve namaz vakitleri](/PERU/AYACUCHO/)
 </script>
+<script type="text/javascript">

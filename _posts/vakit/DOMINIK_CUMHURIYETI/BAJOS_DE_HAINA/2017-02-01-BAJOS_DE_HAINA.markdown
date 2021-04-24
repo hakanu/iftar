@@ -8,10 +8,11 @@ permalink: /DOMINIK CUMHURIYETI/BAJOS DE HAINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAJOS_DE_HAINA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/BAJOS_DE_HAINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
+
   var GLOBAL_CITY = 'BAJOS DE HAINA';
+  var GLOBAL_COUNTRY = 'DOMINIK CUMHURIYETI';
   var GLOBAL_STATE = 'BAJOS DE HAINA';
+* [ (BAJOS_DE_HAINA, DOMINIK_CUMHURIYETI) için iftar ve namaz vakitleri](/DOMINIK_CUMHURIYETI/BAJOS_DE_HAINA/)
 </script>
+<script type="text/javascript">

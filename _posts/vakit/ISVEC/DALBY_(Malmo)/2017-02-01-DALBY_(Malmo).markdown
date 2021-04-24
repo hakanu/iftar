@@ -8,10 +8,11 @@ permalink: /ISVEC/DALBY (Malmo)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DALBY_(Malmo), ISVEC) için iftar ve namaz vakitleri](/ISVEC/DALBY_(Malmo)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'DALBY (Malmo)';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'DALBY (Malmo)';
+* [ (DALBY_(Malmo), ISVEC) için iftar ve namaz vakitleri](/ISVEC/DALBY_(Malmo)/)
 </script>
+<script type="text/javascript">

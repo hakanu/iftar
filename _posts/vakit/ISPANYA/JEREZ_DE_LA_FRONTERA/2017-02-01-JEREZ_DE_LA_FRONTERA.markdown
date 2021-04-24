@@ -8,10 +8,11 @@ permalink: /ISPANYA/JEREZ DE LA FRONTERA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JEREZ_DE_LA_FRONTERA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/JEREZ_DE_LA_FRONTERA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISPANYA';
+
   var GLOBAL_CITY = 'JEREZ DE LA FRONTERA';
+  var GLOBAL_COUNTRY = 'ISPANYA';
   var GLOBAL_STATE = 'JEREZ DE LA FRONTERA';
+* [ (JEREZ_DE_LA_FRONTERA, ISPANYA) için iftar ve namaz vakitleri](/ISPANYA/JEREZ_DE_LA_FRONTERA/)
 </script>
+<script type="text/javascript">

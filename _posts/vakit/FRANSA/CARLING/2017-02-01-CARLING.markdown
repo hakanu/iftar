@@ -8,10 +8,11 @@ permalink: /FRANSA/CARLING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CARLING, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CARLING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'CARLING';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'CARLING';
+* [ (CARLING, FRANSA) için iftar ve namaz vakitleri](/FRANSA/CARLING/)
 </script>
+<script type="text/javascript">

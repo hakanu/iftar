@@ -8,10 +8,11 @@ permalink: /ISVICRE/FRAUENFELD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FRAUENFELD, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FRAUENFELD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'FRAUENFELD';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'FRAUENFELD';
+* [ (FRAUENFELD, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/FRAUENFELD/)
 </script>
+<script type="text/javascript">

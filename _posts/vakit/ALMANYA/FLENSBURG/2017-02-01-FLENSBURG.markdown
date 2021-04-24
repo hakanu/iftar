@@ -8,10 +8,11 @@ permalink: /ALMANYA/FLENSBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FLENSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FLENSBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'FLENSBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'FLENSBURG';
+* [ (FLENSBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/FLENSBURG/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ROMANYA/RAMNICU VALCEA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RAMNICU_VALCEA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/RAMNICU_VALCEA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'RAMNICU VALCEA';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'RAMNICU VALCEA';
+* [ (RAMNICU_VALCEA, ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/RAMNICU_VALCEA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /OZBEKISTAN/URGUT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (URGUT, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/URGUT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'OZBEKISTAN';
+
   var GLOBAL_CITY = 'URGUT';
+  var GLOBAL_COUNTRY = 'OZBEKISTAN';
   var GLOBAL_STATE = 'URGUT';
+* [ (URGUT, OZBEKISTAN) için iftar ve namaz vakitleri](/OZBEKISTAN/URGUT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/RONSDORF
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RONSDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RONSDORF/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'RONSDORF';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'RONSDORF';
+* [ (RONSDORF, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/RONSDORF/)
 </script>
+<script type="text/javascript">

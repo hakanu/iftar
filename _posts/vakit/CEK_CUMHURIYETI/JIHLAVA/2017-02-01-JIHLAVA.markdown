@@ -8,10 +8,11 @@ permalink: /CEK CUMHURIYETI/JIHLAVA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (JIHLAVA, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/JIHLAVA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
+
   var GLOBAL_CITY = 'JIHLAVA';
+  var GLOBAL_COUNTRY = 'CEK CUMHURIYETI';
   var GLOBAL_STATE = 'JIHLAVA';
+* [ (JIHLAVA, CEK_CUMHURIYETI) için iftar ve namaz vakitleri](/CEK_CUMHURIYETI/JIHLAVA/)
 </script>
+<script type="text/javascript">

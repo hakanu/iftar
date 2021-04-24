@@ -8,10 +8,11 @@ permalink: /KAZAKISTAN/MARINOVKA(Astana)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARINOVKA(Astana), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MARINOVKA(Astana)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KAZAKISTAN';
+
   var GLOBAL_CITY = 'MARINOVKA(Astana)';
+  var GLOBAL_COUNTRY = 'KAZAKISTAN';
   var GLOBAL_STATE = 'MARINOVKA(Astana)';
+* [ (MARINOVKA(Astana), KAZAKISTAN) için iftar ve namaz vakitleri](/KAZAKISTAN/MARINOVKA(Astana)/)
 </script>
+<script type="text/javascript">

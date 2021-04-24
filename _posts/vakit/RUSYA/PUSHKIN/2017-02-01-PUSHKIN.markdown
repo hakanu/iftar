@@ -8,10 +8,11 @@ permalink: /RUSYA/PUSHKIN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PUSHKIN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PUSHKIN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PUSHKIN';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PUSHKIN';
+* [ (PUSHKIN, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PUSHKIN/)
 </script>
+<script type="text/javascript">

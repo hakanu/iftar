@@ -8,19 +8,20 @@ permalink: /ABD/ILLINOIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [GALESBURG (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/GALESBURG)
-* [CHICAGO (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/CHICAGO)
-* [JOLIET (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/JOLIET)
-* [WAUKEGAN (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/WAUKEGAN)
-* [ELGIN (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/ELGIN)
-* [CHAMPAIGN (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/CHAMPAIGN)
-* [URBANA (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/URBANA)
-* [KANKAKEE (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/KANKAKEE)
-* [AURORA (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/AURORA)
-* [NAPERVILLE (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/NAPERVILLE)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
+
   var GLOBAL_CITY = 'ILLINOIS';
+  var GLOBAL_COUNTRY = 'ABD';
   var GLOBAL_STATE = 'ILLINOIS';
+* [AURORA (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/AURORA)
+* [CHAMPAIGN (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/CHAMPAIGN)
+* [CHICAGO (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/CHICAGO)
+* [ELGIN (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/ELGIN)
+* [GALESBURG (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/GALESBURG)
+* [JOLIET (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/JOLIET)
+* [KANKAKEE (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/KANKAKEE)
+* [NAPERVILLE (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/NAPERVILLE)
+* [URBANA (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/URBANA)
+* [WAUKEGAN (ILLINOIS, ABD) için iftar ve namaz vakitleri](/ABD/ILLINOIS/WAUKEGAN)
 </script>
+<script type="text/javascript">

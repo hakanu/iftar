@@ -8,10 +8,11 @@ permalink: /NIJERYA/MAIDUGURI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MAIDUGURI, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/MAIDUGURI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'NIJERYA';
+
   var GLOBAL_CITY = 'MAIDUGURI';
+  var GLOBAL_COUNTRY = 'NIJERYA';
   var GLOBAL_STATE = 'MAIDUGURI';
+* [ (MAIDUGURI, NIJERYA) için iftar ve namaz vakitleri](/NIJERYA/MAIDUGURI/)
 </script>
+<script type="text/javascript">

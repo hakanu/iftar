@@ -8,10 +8,11 @@ permalink: /FAS/MARAKES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARAKES, FAS) için iftar ve namaz vakitleri](/FAS/MARAKES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FAS';
+
   var GLOBAL_CITY = 'MARAKES';
+  var GLOBAL_COUNTRY = 'FAS';
   var GLOBAL_STATE = 'MARAKES';
+* [ (MARAKES, FAS) için iftar ve namaz vakitleri](/FAS/MARAKES/)
 </script>
+<script type="text/javascript">

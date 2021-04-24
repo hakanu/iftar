@@ -8,10 +8,11 @@ permalink: /AFGANISTAN/FARAH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FARAH, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/FARAH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AFGANISTAN';
+
   var GLOBAL_CITY = 'FARAH';
+  var GLOBAL_COUNTRY = 'AFGANISTAN';
   var GLOBAL_STATE = 'FARAH';
+* [ (FARAH, AFGANISTAN) için iftar ve namaz vakitleri](/AFGANISTAN/FARAH/)
 </script>
+<script type="text/javascript">

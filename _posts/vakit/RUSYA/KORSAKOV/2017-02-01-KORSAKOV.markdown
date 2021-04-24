@@ -8,10 +8,11 @@ permalink: /RUSYA/KORSAKOV
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KORSAKOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KORSAKOV/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'KORSAKOV';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'KORSAKOV';
+* [ (KORSAKOV, RUSYA) için iftar ve namaz vakitleri](/RUSYA/KORSAKOV/)
 </script>
+<script type="text/javascript">

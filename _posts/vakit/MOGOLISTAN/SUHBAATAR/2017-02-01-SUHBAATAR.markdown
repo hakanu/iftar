@@ -8,10 +8,11 @@ permalink: /MOGOLISTAN/SUHBAATAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SUHBAATAR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/SUHBAATAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MOGOLISTAN';
+
   var GLOBAL_CITY = 'SUHBAATAR';
+  var GLOBAL_COUNTRY = 'MOGOLISTAN';
   var GLOBAL_STATE = 'SUHBAATAR';
+* [ (SUHBAATAR, MOGOLISTAN) için iftar ve namaz vakitleri](/MOGOLISTAN/SUHBAATAR/)
 </script>
+<script type="text/javascript">

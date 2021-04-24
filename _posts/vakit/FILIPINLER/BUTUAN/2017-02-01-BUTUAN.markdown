@@ -8,10 +8,11 @@ permalink: /FILIPINLER/BUTUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BUTUAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BUTUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'BUTUAN';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'BUTUAN';
+* [ (BUTUAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/BUTUAN/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/WEITRA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WEITRA, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WEITRA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'WEITRA';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'WEITRA';
+* [ (WEITRA, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/WEITRA/)
 </script>
+<script type="text/javascript">

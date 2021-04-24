@@ -8,10 +8,11 @@ permalink: /JAPONYA/HIMERJI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HIMERJI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIMERJI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'HIMERJI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'HIMERJI';
+* [ (HIMERJI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/HIMERJI/)
 </script>
+<script type="text/javascript">

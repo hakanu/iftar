@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/BADEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BADEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BADEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'BADEN';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'BADEN';
+* [ (BADEN, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/BADEN/)
 </script>
+<script type="text/javascript">

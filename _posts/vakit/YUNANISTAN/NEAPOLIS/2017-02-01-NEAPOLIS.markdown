@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/NEAPOLIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEAPOLIS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/NEAPOLIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'NEAPOLIS';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'NEAPOLIS';
+* [ (NEAPOLIS, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/NEAPOLIS/)
 </script>
+<script type="text/javascript">

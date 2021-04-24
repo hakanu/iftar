@@ -8,10 +8,11 @@ permalink: /BELCIKA/BOUILLON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOUILLON, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BOUILLON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BELCIKA';
+
   var GLOBAL_CITY = 'BOUILLON';
+  var GLOBAL_COUNTRY = 'BELCIKA';
   var GLOBAL_STATE = 'BOUILLON';
+* [ (BOUILLON, BELCIKA) için iftar ve namaz vakitleri](/BELCIKA/BOUILLON/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /MEKSIKA/MORELIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MORELIA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MORELIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'MORELIA';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'MORELIA';
+* [ (MORELIA, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/MORELIA/)
 </script>
+<script type="text/javascript">

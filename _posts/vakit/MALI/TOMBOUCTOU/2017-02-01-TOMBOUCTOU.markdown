@@ -8,10 +8,11 @@ permalink: /MALI/TOMBOUCTOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TOMBOUCTOU, MALI) için iftar ve namaz vakitleri](/MALI/TOMBOUCTOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MALI';
+
   var GLOBAL_CITY = 'TOMBOUCTOU';
+  var GLOBAL_COUNTRY = 'MALI';
   var GLOBAL_STATE = 'TOMBOUCTOU';
+* [ (TOMBOUCTOU, MALI) için iftar ve namaz vakitleri](/MALI/TOMBOUCTOU/)
 </script>
+<script type="text/javascript">

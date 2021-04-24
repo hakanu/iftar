@@ -8,18 +8,19 @@ permalink: /ABD/GEORGIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [FORT_BENNING (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/FORT_BENNING)
-* [WARRENTON (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/WARRENTON)
-* [COLUMBUS (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/COLUMBUS)
-* [LAGRANGE (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/LAGRANGE)
-* [SAVANNAH (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/SAVANNAH)
-* [ATLANTA (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/ATLANTA)
-* [GAINESVILLE(GA) (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/GAINESVILLE(GA))
-* [ROME (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/ROME)
-* [MACON (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/MACON)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ABD';
+
   var GLOBAL_CITY = 'GEORGIA';
+  var GLOBAL_COUNTRY = 'ABD';
   var GLOBAL_STATE = 'GEORGIA';
+* [ATLANTA (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/ATLANTA)
+* [COLUMBUS (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/COLUMBUS)
+* [FORT_BENNING (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/FORT_BENNING)
+* [GAINESVILLE(GA) (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/GAINESVILLE(GA))
+* [LAGRANGE (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/LAGRANGE)
+* [MACON (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/MACON)
+* [ROME (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/ROME)
+* [SAVANNAH (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/SAVANNAH)
+* [WARRENTON (GEORGIA, ABD) için iftar ve namaz vakitleri](/ABD/GEORGIA/WARRENTON)
 </script>
+<script type="text/javascript">

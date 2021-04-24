@@ -8,10 +8,11 @@ permalink: /BREZILYA/RECIFE (P)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (RECIFE_(P), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RECIFE_(P)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BREZILYA';
+
   var GLOBAL_CITY = 'RECIFE (P)';
+  var GLOBAL_COUNTRY = 'BREZILYA';
   var GLOBAL_STATE = 'RECIFE (P)';
+* [ (RECIFE_(P), BREZILYA) için iftar ve namaz vakitleri](/BREZILYA/RECIFE_(P)/)
 </script>
+<script type="text/javascript">

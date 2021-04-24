@@ -8,10 +8,11 @@ permalink: /KUBA/BAYAMO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAYAMO, KUBA) için iftar ve namaz vakitleri](/KUBA/BAYAMO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KUBA';
+
   var GLOBAL_CITY = 'BAYAMO';
+  var GLOBAL_COUNTRY = 'KUBA';
   var GLOBAL_STATE = 'BAYAMO';
+* [ (BAYAMO, KUBA) için iftar ve namaz vakitleri](/KUBA/BAYAMO/)
 </script>
+<script type="text/javascript">

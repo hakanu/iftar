@@ -8,10 +8,11 @@ permalink: /DANIMARKA/IKAST
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IKAST, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/IKAST/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'DANIMARKA';
+
   var GLOBAL_CITY = 'IKAST';
+  var GLOBAL_COUNTRY = 'DANIMARKA';
   var GLOBAL_STATE = 'IKAST';
+* [ (IKAST, DANIMARKA) için iftar ve namaz vakitleri](/DANIMARKA/IKAST/)
 </script>
+<script type="text/javascript">

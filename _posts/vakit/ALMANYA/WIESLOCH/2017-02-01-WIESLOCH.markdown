@@ -8,10 +8,11 @@ permalink: /ALMANYA/WIESLOCH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (WIESLOCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WIESLOCH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'WIESLOCH';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'WIESLOCH';
+* [ (WIESLOCH, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/WIESLOCH/)
 </script>
+<script type="text/javascript">

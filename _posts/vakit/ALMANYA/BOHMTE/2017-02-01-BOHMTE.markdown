@@ -8,10 +8,11 @@ permalink: /ALMANYA/BOHMTE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BOHMTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOHMTE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BOHMTE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BOHMTE';
+* [ (BOHMTE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BOHMTE/)
 </script>
+<script type="text/javascript">

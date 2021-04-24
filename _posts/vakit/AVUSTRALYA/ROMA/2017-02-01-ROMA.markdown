@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/ROMA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ROMA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROMA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'ROMA';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'ROMA';
+* [ (ROMA, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/ROMA/)
 </script>
+<script type="text/javascript">

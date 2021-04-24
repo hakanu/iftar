@@ -8,10 +8,11 @@ permalink: /ISVEC/BILLDAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BILLDAL, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BILLDAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVEC';
+
   var GLOBAL_CITY = 'BILLDAL';
+  var GLOBAL_COUNTRY = 'ISVEC';
   var GLOBAL_STATE = 'BILLDAL';
+* [ (BILLDAL, ISVEC) için iftar ve namaz vakitleri](/ISVEC/BILLDAL/)
 </script>
+<script type="text/javascript">

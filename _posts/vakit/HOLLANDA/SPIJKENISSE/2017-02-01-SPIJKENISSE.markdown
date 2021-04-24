@@ -8,10 +8,11 @@ permalink: /HOLLANDA/SPIJKENISSE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SPIJKENISSE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SPIJKENISSE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'SPIJKENISSE';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'SPIJKENISSE';
+* [ (SPIJKENISSE, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/SPIJKENISSE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/BASSENDEAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BASSENDEAN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BASSENDEAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'BASSENDEAN';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'BASSENDEAN';
+* [ (BASSENDEAN, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/BASSENDEAN/)
 </script>
+<script type="text/javascript">

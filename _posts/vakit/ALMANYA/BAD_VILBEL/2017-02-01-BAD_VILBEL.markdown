@@ -8,10 +8,11 @@ permalink: /ALMANYA/BAD VILBEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BAD_VILBEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_VILBEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'BAD VILBEL';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'BAD VILBEL';
+* [ (BAD_VILBEL, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/BAD_VILBEL/)
 </script>
+<script type="text/javascript">

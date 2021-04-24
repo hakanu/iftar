@@ -8,10 +8,11 @@ permalink: /ALMANYA/HUTZEMERT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HUTZEMERT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUTZEMERT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'HUTZEMERT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'HUTZEMERT';
+* [ (HUTZEMERT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/HUTZEMERT/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/GINSHEIM
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (GINSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GINSHEIM/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'GINSHEIM';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'GINSHEIM';
+* [ (GINSHEIM, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/GINSHEIM/)
 </script>
+<script type="text/javascript">

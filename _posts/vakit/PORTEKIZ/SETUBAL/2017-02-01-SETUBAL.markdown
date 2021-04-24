@@ -8,10 +8,11 @@ permalink: /PORTEKIZ/SETUBAL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SETUBAL, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/SETUBAL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'PORTEKIZ';
+
   var GLOBAL_CITY = 'SETUBAL';
+  var GLOBAL_COUNTRY = 'PORTEKIZ';
   var GLOBAL_STATE = 'SETUBAL';
+* [ (SETUBAL, PORTEKIZ) için iftar ve namaz vakitleri](/PORTEKIZ/SETUBAL/)
 </script>
+<script type="text/javascript">

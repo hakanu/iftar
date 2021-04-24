@@ -8,10 +8,11 @@ permalink: /MEKSIKA/LOS MOCHIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LOS_MOCHIS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LOS_MOCHIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'LOS MOCHIS';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'LOS MOCHIS';
+* [ (LOS_MOCHIS, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LOS_MOCHIS/)
 </script>
+<script type="text/javascript">

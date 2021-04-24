@@ -8,10 +8,11 @@ permalink: /ALMANYA/AMERSFORT
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AMERSFORT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AMERSFORT/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AMERSFORT';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AMERSFORT';
+* [ (AMERSFORT, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AMERSFORT/)
 </script>
+<script type="text/javascript">

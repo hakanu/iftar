@@ -8,10 +8,11 @@ permalink: /ISVICRE/BULACH
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BULACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BULACH/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ISVICRE';
+
   var GLOBAL_CITY = 'BULACH';
+  var GLOBAL_COUNTRY = 'ISVICRE';
   var GLOBAL_STATE = 'BULACH';
+* [ (BULACH, ISVICRE) için iftar ve namaz vakitleri](/ISVICRE/BULACH/)
 </script>
+<script type="text/javascript">

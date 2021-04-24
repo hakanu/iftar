@@ -8,10 +8,11 @@ permalink: /TURKMENISTAN/HANHAWUZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HANHAWUZ_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/HANHAWUZ_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TURKMENISTAN';
+
   var GLOBAL_CITY = 'HANHAWUZ ';
+  var GLOBAL_COUNTRY = 'TURKMENISTAN';
   var GLOBAL_STATE = 'HANHAWUZ ';
+* [ (HANHAWUZ_, TURKMENISTAN) için iftar ve namaz vakitleri](/TURKMENISTAN/HANHAWUZ_/)
 </script>
+<script type="text/javascript">

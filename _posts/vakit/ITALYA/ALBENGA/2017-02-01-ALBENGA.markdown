@@ -8,10 +8,11 @@ permalink: /ITALYA/ALBENGA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ALBENGA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALBENGA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'ALBENGA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'ALBENGA';
+* [ (ALBENGA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/ALBENGA/)
 </script>
+<script type="text/javascript">

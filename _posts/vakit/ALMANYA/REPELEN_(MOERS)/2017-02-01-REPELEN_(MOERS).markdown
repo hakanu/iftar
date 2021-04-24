@@ -8,10 +8,11 @@ permalink: /ALMANYA/REPELEN (MOERS)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (REPELEN_(MOERS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REPELEN_(MOERS)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'REPELEN (MOERS)';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'REPELEN (MOERS)';
+* [ (REPELEN_(MOERS), ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/REPELEN_(MOERS)/)
 </script>
+<script type="text/javascript">

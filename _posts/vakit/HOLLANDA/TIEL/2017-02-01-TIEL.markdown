@@ -8,10 +8,11 @@ permalink: /HOLLANDA/TIEL
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TIEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TIEL/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'TIEL';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'TIEL';
+* [ (TIEL, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/TIEL/)
 </script>
+<script type="text/javascript">

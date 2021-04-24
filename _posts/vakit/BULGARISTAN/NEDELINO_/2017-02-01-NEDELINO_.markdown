@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/NEDELINO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEDELINO_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/NEDELINO_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'NEDELINO ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'NEDELINO ';
+* [ (NEDELINO_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/NEDELINO_/)
 </script>
+<script type="text/javascript">

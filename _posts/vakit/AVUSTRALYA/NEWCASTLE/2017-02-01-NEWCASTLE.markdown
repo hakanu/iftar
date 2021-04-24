@@ -8,10 +8,11 @@ permalink: /AVUSTRALYA/NEWCASTLE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NEWCASTLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NEWCASTLE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTRALYA';
+
   var GLOBAL_CITY = 'NEWCASTLE';
+  var GLOBAL_COUNTRY = 'AVUSTRALYA';
   var GLOBAL_STATE = 'NEWCASTLE';
+* [ (NEWCASTLE, AVUSTRALYA) için iftar ve namaz vakitleri](/AVUSTRALYA/NEWCASTLE/)
 </script>
+<script type="text/javascript">

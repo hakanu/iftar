@@ -8,10 +8,11 @@ permalink: /CIN/ZHUZHOU
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ZHUZHOU, CIN) için iftar ve namaz vakitleri](/CIN/ZHUZHOU/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'ZHUZHOU';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'ZHUZHOU';
+* [ (ZHUZHOU, CIN) için iftar ve namaz vakitleri](/CIN/ZHUZHOU/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /HOLLANDA/HELLEVOETSLUIS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HELLEVOETSLUIS, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HELLEVOETSLUIS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'HOLLANDA';
+
   var GLOBAL_CITY = 'HELLEVOETSLUIS';
+  var GLOBAL_COUNTRY = 'HOLLANDA';
   var GLOBAL_STATE = 'HELLEVOETSLUIS';
+* [ (HELLEVOETSLUIS, HOLLANDA) için iftar ve namaz vakitleri](/HOLLANDA/HELLEVOETSLUIS/)
 </script>
+<script type="text/javascript">

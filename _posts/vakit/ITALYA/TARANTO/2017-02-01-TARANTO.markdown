@@ -8,10 +8,11 @@ permalink: /ITALYA/TARANTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TARANTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TARANTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'TARANTO';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'TARANTO';
+* [ (TARANTO, ITALYA) için iftar ve namaz vakitleri](/ITALYA/TARANTO/)
 </script>
+<script type="text/javascript">

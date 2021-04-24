@@ -8,10 +8,11 @@ permalink: /ALMANYA/LEIMEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LEIMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEIMEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'LEIMEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'LEIMEN';
+* [ (LEIMEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/LEIMEN/)
 </script>
+<script type="text/javascript">

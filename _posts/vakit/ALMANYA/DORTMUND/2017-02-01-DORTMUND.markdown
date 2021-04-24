@@ -8,10 +8,11 @@ permalink: /ALMANYA/DORTMUND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (DORTMUND, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DORTMUND/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'DORTMUND';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'DORTMUND';
+* [ (DORTMUND, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/DORTMUND/)
 </script>
+<script type="text/javascript">

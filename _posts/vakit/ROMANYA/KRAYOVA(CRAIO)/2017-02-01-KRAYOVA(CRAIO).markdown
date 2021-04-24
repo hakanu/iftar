@@ -8,10 +8,11 @@ permalink: /ROMANYA/KRAYOVA(CRAIO)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KRAYOVA(CRAIO), ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/KRAYOVA(CRAIO)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ROMANYA';
+
   var GLOBAL_CITY = 'KRAYOVA(CRAIO)';
+  var GLOBAL_COUNTRY = 'ROMANYA';
   var GLOBAL_STATE = 'KRAYOVA(CRAIO)';
+* [ (KRAYOVA(CRAIO), ROMANYA) için iftar ve namaz vakitleri](/ROMANYA/KRAYOVA(CRAIO)/)
 </script>
+<script type="text/javascript">

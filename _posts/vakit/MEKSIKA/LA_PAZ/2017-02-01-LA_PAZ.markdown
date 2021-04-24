@@ -8,10 +8,11 @@ permalink: /MEKSIKA/LA PAZ
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_PAZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LA_PAZ/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'LA PAZ';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'LA PAZ';
+* [ (LA_PAZ, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/LA_PAZ/)
 </script>
+<script type="text/javascript">

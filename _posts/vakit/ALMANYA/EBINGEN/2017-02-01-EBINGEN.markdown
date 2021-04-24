@@ -8,10 +8,11 @@ permalink: /ALMANYA/EBINGEN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (EBINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EBINGEN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'EBINGEN';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'EBINGEN';
+* [ (EBINGEN, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/EBINGEN/)
 </script>
+<script type="text/javascript">

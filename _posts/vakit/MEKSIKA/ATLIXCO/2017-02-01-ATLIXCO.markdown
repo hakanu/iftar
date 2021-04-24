@@ -8,10 +8,11 @@ permalink: /MEKSIKA/ATLIXCO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ATLIXCO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ATLIXCO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'ATLIXCO';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'ATLIXCO';
+* [ (ATLIXCO, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/ATLIXCO/)
 </script>
+<script type="text/javascript">

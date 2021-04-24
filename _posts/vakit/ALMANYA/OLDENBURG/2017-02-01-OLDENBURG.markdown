@@ -8,10 +8,11 @@ permalink: /ALMANYA/OLDENBURG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (OLDENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLDENBURG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'OLDENBURG';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'OLDENBURG';
+* [ (OLDENBURG, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/OLDENBURG/)
 </script>
+<script type="text/javascript">

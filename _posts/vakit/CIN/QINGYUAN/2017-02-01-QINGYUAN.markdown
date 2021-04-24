@@ -8,10 +8,11 @@ permalink: /CIN/QINGYUAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (QINGYUAN, CIN) için iftar ve namaz vakitleri](/CIN/QINGYUAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'QINGYUAN';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'QINGYUAN';
+* [ (QINGYUAN, CIN) için iftar ve namaz vakitleri](/CIN/QINGYUAN/)
 </script>
+<script type="text/javascript">

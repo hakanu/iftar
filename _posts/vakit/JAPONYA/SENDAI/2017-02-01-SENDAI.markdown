@@ -8,10 +8,11 @@ permalink: /JAPONYA/SENDAI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SENDAI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SENDAI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'SENDAI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'SENDAI';
+* [ (SENDAI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/SENDAI/)
 </script>
+<script type="text/javascript">

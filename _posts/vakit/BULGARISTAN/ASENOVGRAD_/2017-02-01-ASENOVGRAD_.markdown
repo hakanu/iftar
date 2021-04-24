@@ -8,10 +8,11 @@ permalink: /BULGARISTAN/ASENOVGRAD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ASENOVGRAD_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ASENOVGRAD_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BULGARISTAN';
+
   var GLOBAL_CITY = 'ASENOVGRAD ';
+  var GLOBAL_COUNTRY = 'BULGARISTAN';
   var GLOBAL_STATE = 'ASENOVGRAD ';
+* [ (ASENOVGRAD_, BULGARISTAN) için iftar ve namaz vakitleri](/BULGARISTAN/ASENOVGRAD_/)
 </script>
+<script type="text/javascript">

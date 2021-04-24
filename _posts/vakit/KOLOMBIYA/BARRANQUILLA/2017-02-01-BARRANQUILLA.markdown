@@ -8,10 +8,11 @@ permalink: /KOLOMBIYA/BARRANQUILLA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (BARRANQUILLA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BARRANQUILLA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'KOLOMBIYA';
+
   var GLOBAL_CITY = 'BARRANQUILLA';
+  var GLOBAL_COUNTRY = 'KOLOMBIYA';
   var GLOBAL_STATE = 'BARRANQUILLA';
+* [ (BARRANQUILLA, KOLOMBIYA) için iftar ve namaz vakitleri](/KOLOMBIYA/BARRANQUILLA/)
 </script>
+<script type="text/javascript">

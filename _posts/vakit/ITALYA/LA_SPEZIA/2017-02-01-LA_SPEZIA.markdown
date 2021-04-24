@@ -8,10 +8,11 @@ permalink: /ITALYA/LA SPEZIA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_SPEZIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LA_SPEZIA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ITALYA';
+
   var GLOBAL_CITY = 'LA SPEZIA';
+  var GLOBAL_COUNTRY = 'ITALYA';
   var GLOBAL_STATE = 'LA SPEZIA';
+* [ (LA_SPEZIA, ITALYA) için iftar ve namaz vakitleri](/ITALYA/LA_SPEZIA/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/MONTELIMAR
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MONTELIMAR, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTELIMAR/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'MONTELIMAR';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'MONTELIMAR';
+* [ (MONTELIMAR, FRANSA) için iftar ve namaz vakitleri](/FRANSA/MONTELIMAR/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /FRANSA/ST_ CLAUDE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (ST__CLAUDE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__CLAUDE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'ST_ CLAUDE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'ST_ CLAUDE';
+* [ (ST__CLAUDE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/ST__CLAUDE/)
 </script>
+<script type="text/javascript">

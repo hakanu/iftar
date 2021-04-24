@@ -8,10 +8,11 @@ permalink: /RUSYA/PETROPAVLOVSK-KAMCHATSKIY
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PETROPAVLOVSK-KAMCHATSKIY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PETROPAVLOVSK-KAMCHATSKIY/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'PETROPAVLOVSK-KAMCHATSKIY';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'PETROPAVLOVSK-KAMCHATSKIY';
+* [ (PETROPAVLOVSK-KAMCHATSKIY, RUSYA) için iftar ve namaz vakitleri](/RUSYA/PETROPAVLOVSK-KAMCHATSKIY/)
 </script>
+<script type="text/javascript">

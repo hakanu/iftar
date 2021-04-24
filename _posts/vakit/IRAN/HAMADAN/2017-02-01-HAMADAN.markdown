@@ -8,10 +8,11 @@ permalink: /IRAN/HAMADAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (HAMADAN, IRAN) için iftar ve namaz vakitleri](/IRAN/HAMADAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'IRAN';
+
   var GLOBAL_CITY = 'HAMADAN';
+  var GLOBAL_COUNTRY = 'IRAN';
   var GLOBAL_STATE = 'HAMADAN';
+* [ (HAMADAN, IRAN) için iftar ve namaz vakitleri](/IRAN/HAMADAN/)
 </script>
+<script type="text/javascript">

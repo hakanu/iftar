@@ -8,10 +8,11 @@ permalink: /ALMANYA/MARNE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARNE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARNE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MARNE';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MARNE';
+* [ (MARNE, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MARNE/)
 </script>
+<script type="text/javascript">

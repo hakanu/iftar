@@ -8,10 +8,11 @@ permalink: /VENEZUELA/MARACAIBO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MARACAIBO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MARACAIBO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'VENEZUELA';
+
   var GLOBAL_CITY = 'MARACAIBO';
+  var GLOBAL_COUNTRY = 'VENEZUELA';
   var GLOBAL_STATE = 'MARACAIBO';
+* [ (MARACAIBO, VENEZUELA) için iftar ve namaz vakitleri](/VENEZUELA/MARACAIBO/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /JAPONYA/YAMAGUCHI
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YAMAGUCHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YAMAGUCHI/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'YAMAGUCHI';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'YAMAGUCHI';
+* [ (YAMAGUCHI, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/YAMAGUCHI/)
 </script>
+<script type="text/javascript">

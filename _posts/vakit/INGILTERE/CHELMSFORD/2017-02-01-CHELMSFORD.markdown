@@ -8,10 +8,11 @@ permalink: /INGILTERE/CHELMSFORD
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (CHELMSFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHELMSFORD/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'INGILTERE';
+
   var GLOBAL_CITY = 'CHELMSFORD';
+  var GLOBAL_COUNTRY = 'INGILTERE';
   var GLOBAL_STATE = 'CHELMSFORD';
+* [ (CHELMSFORD, INGILTERE) için iftar ve namaz vakitleri](/INGILTERE/CHELMSFORD/)
 </script>
+<script type="text/javascript">

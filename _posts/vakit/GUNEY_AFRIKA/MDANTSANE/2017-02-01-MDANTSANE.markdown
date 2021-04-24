@@ -8,10 +8,11 @@ permalink: /GUNEY AFRIKA/MDANTSANE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MDANTSANE, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/MDANTSANE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
+
   var GLOBAL_CITY = 'MDANTSANE';
+  var GLOBAL_COUNTRY = 'GUNEY AFRIKA';
   var GLOBAL_STATE = 'MDANTSANE';
+* [ (MDANTSANE, GUNEY_AFRIKA) için iftar ve namaz vakitleri](/GUNEY_AFRIKA/MDANTSANE/)
 </script>
+<script type="text/javascript">

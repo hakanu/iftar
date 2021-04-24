@@ -8,10 +8,11 @@ permalink: /ALMANYA/AHAUS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (AHAUS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHAUS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'AHAUS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'AHAUS';
+* [ (AHAUS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/AHAUS/)
 </script>
+<script type="text/javascript">

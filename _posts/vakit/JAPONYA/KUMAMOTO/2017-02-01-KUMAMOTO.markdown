@@ -8,10 +8,11 @@ permalink: /JAPONYA/KUMAMOTO
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (KUMAMOTO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KUMAMOTO/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'JAPONYA';
+
   var GLOBAL_CITY = 'KUMAMOTO';
+  var GLOBAL_COUNTRY = 'JAPONYA';
   var GLOBAL_STATE = 'KUMAMOTO';
+* [ (KUMAMOTO, JAPONYA) için iftar ve namaz vakitleri](/JAPONYA/KUMAMOTO/)
 </script>
+<script type="text/javascript">

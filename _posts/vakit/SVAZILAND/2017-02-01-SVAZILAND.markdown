@@ -8,4 +8,5 @@ permalink: /SVAZILAND
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
+
 * [MBABANE (SVAZILAND) için iftar ve namaz vakitleri](/SVAZILAND/MBABANE)

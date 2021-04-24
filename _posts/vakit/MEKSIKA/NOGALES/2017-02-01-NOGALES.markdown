@@ -8,10 +8,11 @@ permalink: /MEKSIKA/NOGALES
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NOGALES, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/NOGALES/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'NOGALES';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'NOGALES';
+* [ (NOGALES, MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/NOGALES/)
 </script>
+<script type="text/javascript">

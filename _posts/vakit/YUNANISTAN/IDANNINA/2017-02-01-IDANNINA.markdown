@@ -8,10 +8,11 @@ permalink: /YUNANISTAN/IDANNINA
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (IDANNINA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/IDANNINA/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'YUNANISTAN';
+
   var GLOBAL_CITY = 'IDANNINA';
+  var GLOBAL_COUNTRY = 'YUNANISTAN';
   var GLOBAL_STATE = 'IDANNINA';
+* [ (IDANNINA, YUNANISTAN) için iftar ve namaz vakitleri](/YUNANISTAN/IDANNINA/)
 </script>
+<script type="text/javascript">

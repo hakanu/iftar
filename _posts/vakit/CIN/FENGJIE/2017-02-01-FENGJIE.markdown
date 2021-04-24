@@ -8,10 +8,11 @@ permalink: /CIN/FENGJIE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (FENGJIE, CIN) için iftar ve namaz vakitleri](/CIN/FENGJIE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'CIN';
+
   var GLOBAL_CITY = 'FENGJIE';
+  var GLOBAL_COUNTRY = 'CIN';
   var GLOBAL_STATE = 'FENGJIE';
+* [ (FENGJIE, CIN) için iftar ve namaz vakitleri](/CIN/FENGJIE/)
 </script>
+<script type="text/javascript">

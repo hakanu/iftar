@@ -8,10 +8,11 @@ permalink: /TAYVAN/PINGTUNG
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (PINGTUNG, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PINGTUNG/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'TAYVAN';
+
   var GLOBAL_CITY = 'PINGTUNG';
+  var GLOBAL_COUNTRY = 'TAYVAN';
   var GLOBAL_STATE = 'PINGTUNG';
+* [ (PINGTUNG, TAYVAN) için iftar ve namaz vakitleri](/TAYVAN/PINGTUNG/)
 </script>
+<script type="text/javascript">

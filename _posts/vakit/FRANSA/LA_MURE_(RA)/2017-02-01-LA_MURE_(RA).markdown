@@ -8,10 +8,11 @@ permalink: /FRANSA/LA MURE (RA)
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (LA_MURE_(RA), FRANSA) için iftar ve namaz vakitleri](/FRANSA/LA_MURE_(RA)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'LA MURE (RA)';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'LA MURE (RA)';
+* [ (LA_MURE_(RA), FRANSA) için iftar ve namaz vakitleri](/FRANSA/LA_MURE_(RA)/)
 </script>
+<script type="text/javascript">

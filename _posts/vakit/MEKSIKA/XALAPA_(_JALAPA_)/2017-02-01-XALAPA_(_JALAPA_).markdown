@@ -8,10 +8,11 @@ permalink: /MEKSIKA/XALAPA ( JALAPA )
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (XALAPA_(_JALAPA_), MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/XALAPA_(_JALAPA_)/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'MEKSIKA';
+
   var GLOBAL_CITY = 'XALAPA ( JALAPA )';
+  var GLOBAL_COUNTRY = 'MEKSIKA';
   var GLOBAL_STATE = 'XALAPA ( JALAPA )';
+* [ (XALAPA_(_JALAPA_), MEKSIKA) için iftar ve namaz vakitleri](/MEKSIKA/XALAPA_(_JALAPA_)/)
 </script>
+<script type="text/javascript">

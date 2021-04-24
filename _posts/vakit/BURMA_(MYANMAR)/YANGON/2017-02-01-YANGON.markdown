@@ -8,10 +8,11 @@ permalink: /BURMA (MYANMAR)/YANGON
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (YANGON, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/YANGON/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
+
   var GLOBAL_CITY = 'YANGON';
+  var GLOBAL_COUNTRY = 'BURMA (MYANMAR)';
   var GLOBAL_STATE = 'YANGON';
+* [ (YANGON, BURMA_(MYANMAR)) için iftar ve namaz vakitleri](/BURMA_(MYANMAR)/YANGON/)
 </script>
+<script type="text/javascript">

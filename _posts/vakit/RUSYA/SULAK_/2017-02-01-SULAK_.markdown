@@ -8,10 +8,11 @@ permalink: /RUSYA/SULAK
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SULAK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SULAK_/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'RUSYA';
+
   var GLOBAL_CITY = 'SULAK ';
+  var GLOBAL_COUNTRY = 'RUSYA';
   var GLOBAL_STATE = 'SULAK ';
+* [ (SULAK_, RUSYA) için iftar ve namaz vakitleri](/RUSYA/SULAK_/)
 </script>
+<script type="text/javascript">

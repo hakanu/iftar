@@ -8,10 +8,11 @@ permalink: /FRANSA/SAINT-NAZAIRE
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (SAINT-NAZAIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT-NAZAIRE/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FRANSA';
+
   var GLOBAL_CITY = 'SAINT-NAZAIRE';
+  var GLOBAL_COUNTRY = 'FRANSA';
   var GLOBAL_STATE = 'SAINT-NAZAIRE';
+* [ (SAINT-NAZAIRE, FRANSA) için iftar ve namaz vakitleri](/FRANSA/SAINT-NAZAIRE/)
 </script>
+<script type="text/javascript">

@@ -8,10 +8,11 @@ permalink: /ALMANYA/MOERS
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (MOERS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOERS/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'ALMANYA';
+
   var GLOBAL_CITY = 'MOERS';
+  var GLOBAL_COUNTRY = 'ALMANYA';
   var GLOBAL_STATE = 'MOERS';
+* [ (MOERS, ALMANYA) için iftar ve namaz vakitleri](/ALMANYA/MOERS/)
 </script>
+<script type="text/javascript">

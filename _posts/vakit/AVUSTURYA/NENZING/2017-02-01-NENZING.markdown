@@ -8,10 +8,11 @@ permalink: /AVUSTURYA/NENZING
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (NENZING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/NENZING/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'AVUSTURYA';
+
   var GLOBAL_CITY = 'NENZING';
+  var GLOBAL_COUNTRY = 'AVUSTURYA';
   var GLOBAL_STATE = 'NENZING';
+* [ (NENZING, AVUSTURYA) için iftar ve namaz vakitleri](/AVUSTURYA/NENZING/)
 </script>
+<script type="text/javascript">

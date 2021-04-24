@@ -8,10 +8,11 @@ permalink: /FILIPINLER/TACLOBAN
 
 Aşağıdaki listeden bir şehir ya da semt seçin
 
-* [ (TACLOBAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/TACLOBAN/)
 
-<script type="text/javascript">
-  var GLOBAL_COUNTRY = 'FILIPINLER';
+
   var GLOBAL_CITY = 'TACLOBAN';
+  var GLOBAL_COUNTRY = 'FILIPINLER';
   var GLOBAL_STATE = 'TACLOBAN';
+* [ (TACLOBAN, FILIPINLER) için iftar ve namaz vakitleri](/FILIPINLER/TACLOBAN/)
 </script>
+<script type="text/javascript">
