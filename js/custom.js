@@ -92,8 +92,6 @@ jQuery( document ).ready(function( $ ) {
         if(ui.item){
           console.log('Selected location: ', ui.item.value);
           var id = city_names_to_diyanet_ids[ui.item.value];
-          // createCookie('locationId', id, 6000);
-          // createCookie('locationName', ui.item.value, 6000);
           localStorage.setItem('locationId', id);
           localStorage.setItem('locationName', ui.item.value);
 
@@ -173,7 +171,7 @@ jQuery( document ).ready(function( $ ) {
   var ramazanStartDaysLeft = parseInt(
         (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
   var ramazanEndDaysLeft = parseInt(
-        (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
+        (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24) + 1;
   console.log('Ramazan start days left: ' + ramazanStartDaysLeft);
   console.log('Ramazan end days left: ' + ramazanEndDaysLeft);
 
@@ -192,7 +190,7 @@ jQuery( document ).ready(function( $ ) {
     var ramazanStartDaysLeft = parseInt(
         (new Date(currentRamazanItem.start) - new Date()) / 1000 / 3600 / 24);
     var ramazanEndDaysLeft = parseInt(
-        (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24);
+        (new Date(currentRamazanItem.end) - new Date()) / 1000 / 3600 / 24) + 1;
     console.log('next Ramazan end days left: ' + ramazanEndDaysLeft);
     $('#span-ramazan-start-end-text').text('başlamasına');
     $('#sup-ramazan-days-left').text(ramazanEndDaysLeft);
